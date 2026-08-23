@@ -1,0 +1,567 @@
+{
+  "address": "uba.fce.administracion",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente 2026 (plan actualizado; materias nuevas marcadas 'vigente en 2026')",
+    "duracion": "4 años y medio promedio",
+    "cargaHoraria": "2.600 h",
+    "ciclos": [
+      "Ciclo de Formación General",
+      "Ciclo de Formación Profesional",
+      "Ciclo Profesional Orientado (3 electivas/optativas + Práctica Profesional)",
+      "Competencias de Gestión y Digitales"
+    ],
+    "orientaciones": [
+      "Gestión Pública e Instituciones Democráticas",
+      "Empresas y Emprendedores",
+      "Sectores Estratégicos y Desarrollo Sostenible"
+    ],
+    "materiasObligatorias": 25,
+    "materiasNombradas": 62,
+    "correlativas": "ciclo general aprobado para ingresar al profesional; correlativas puntuales por código (ver plan)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    },
+    {
+      "address": "uba.fce.administracion",
+      "label": "Administración"
+    }
+  ],
+  "eyebrow": "Licenciatura en Administración · plan vigente 2026",
+  "title": "Del tronco común a dirigir una organización.",
+  "lede": "El plan real de la Licenciatura en Administración de Económicas: un ciclo general de seis materias, un ciclo profesional de dieciocho que va de la contabilidad y la estadística hasta Dirección, y un ciclo orientado donde se eligen tres materias de una orientación y se cierra con la Práctica Profesional. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2026",
+      "small": "vigente"
+    },
+    {
+      "k": "Materias",
+      "v": "25",
+      "small": "obligatorias · 62 nombradas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 62"
+    }
+  ],
+  "frame": "Estructura sourceada del plan publicado en economicas.uba.ar/alumnos/administracion (duración 4½ años promedio, 2.600 h). Nivel L1: los códigos, nombres, ciclos y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia desde mi.econ.uba.ar/programas con el pipeline de extracción. Las materias electivas y optativas se listan por orientación tal como las agrupa el plan; el alumno cursa tres de una orientación más la Práctica Profesional.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General",
+      "title": "El tronco común de Económicas",
+      "note": "Seis materias, sin correlativas. Aprobado el ciclo, se abre el profesional.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.analisis-matematico-1",
+          "name": "Análisis Matemático I",
+          "role": "cód. 241 · 6 h/sem · 108 h",
+          "tag": "general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.economia",
+          "name": "Economía",
+          "role": "cód. 242 · 4 h/sem · 72 h",
+          "tag": "general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.algebra",
+          "name": "Álgebra",
+          "role": "cód. 245 · 4 h/sem · 72 h",
+          "tag": "general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.historia-economica-social-general",
+          "name": "Historia Económica y Social General",
+          "role": "cód. 246 · 4 h/sem · 72 h",
+          "tag": "general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-general",
+          "name": "Administración General",
+          "role": "cód. 252 · 4 h/sem · 72 h",
+          "tag": "general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.sociologia-organizaciones",
+          "name": "Sociología de las Organizaciones",
+          "role": "cód. 254 · 4 h/sem · 72 h",
+          "tag": "general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional",
+      "title": "De la contabilidad a la dirección",
+      "note": "Dieciocho materias con correlativas por código; requieren el ciclo general aprobado.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.teoria-contable",
+          "name": "Teoría Contable",
+          "role": "cód. 247 · 6 h/sem · 108 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.estadistica-1",
+          "name": "Estadística I",
+          "role": "cód. 248 · 6 h/sem · 108 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.microeconomia-1",
+          "name": "Microeconomía I",
+          "role": "cód. 250 · 4 h/sem · 72 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.sistemas-administrativos",
+          "name": "Sistemas Administrativos",
+          "role": "cód. 274 · 4 h/sem · 72 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.calculo-financiero",
+          "name": "Cálculo Financiero",
+          "role": "cód. 276 · 4 h/sem · 72 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.macroeconomia-politica-economica",
+          "name": "Macroeconomía y Política Económica",
+          "role": "cód. 278 · 6 h/sem · 108 h · req. 250",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-financiera",
+          "name": "Administración Financiera",
+          "role": "cód. 279 · 6 h/sem · 108 h · req. 276",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.derecho-empresarial",
+          "name": "Derecho Empresarial",
+          "role": "cód. 462 · 4 h/sem · 72 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-tecnologias-digitales",
+          "name": "Gestión de Tecnologías Digitales",
+          "role": "cód. 463 · 4 h/sem · 72 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-costos",
+          "name": "Gestión de Costos",
+          "role": "cód. 464 · 4 h/sem · 72 h · req. 247",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.metodos-predictivos-gestion",
+          "name": "Métodos Predictivos para la Gestión",
+          "role": "cód. 465 · 4 h/sem · 72 h · req. 248",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-operaciones",
+          "name": "Administración de Operaciones",
+          "role": "cód. 466 · 6 h/sem · 108 h · req. 274",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-talento",
+          "name": "Gestión del Talento",
+          "role": "cód. 467 · 6 h/sem · 108 h · req. ciclo general",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-tributaria",
+          "name": "Administración Tributaria",
+          "role": "cód. 468 · 4 h/sem · 72 h · req. 278",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.marketing",
+          "name": "Marketing",
+          "role": "cód. 469 · 6 h/sem · 108 h · req. 466",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.ciencias-decision",
+          "name": "Ciencias de la Decisión",
+          "role": "cód. 470 · 6 h/sem · 108 h · req. 465",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.planeamiento-estrategico",
+          "name": "Planeamiento Estratégico",
+          "role": "cód. 471 · 6 h/sem · 108 h · req. 279",
+          "tag": "profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.direccion",
+          "name": "Dirección",
+          "role": "cód. 472 · 6 h/sem · 108 h · req. 467–470",
+          "tag": "profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Profesional Orientado · cierre",
+      "title": "La práctica que integra",
+      "note": "Se cursa junto con tres electivas/optativas de una orientación. Planes de negocios o trabajos de investigación según la cátedra elegida.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.practica-profesional",
+          "name": "Práctica Profesional",
+          "role": "cód. 473 · cierre del ciclo orientado",
+          "tag": "orientado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación · Gestión Pública e Instituciones Democráticas",
+      "title": "El Estado como organización",
+      "note": "Se eligen tres materias de la orientación.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.gestion-comunicacion-politica-institucional",
+          "name": "Gestión de la Comunicación Política e Institucional",
+          "role": "cód. 474 · electiva",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.historia-economica-institucional-argentina",
+          "name": "Historia Económica – Institucional Argentina",
+          "role": "cód. 475 · electiva",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-politicas-publicas",
+          "name": "Gestión de Políticas Públicas",
+          "role": "cód. 719 · optativa",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.poder-economico-derechos-humanos",
+          "name": "Poder Económico y Derechos Humanos",
+          "role": "cód. 721 · optativa",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-publica",
+          "name": "Administración Pública",
+          "role": "cód. 794 · electiva",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.contabilidad-gubernamental-control-gestion",
+          "name": "Contabilidad Gubernamental y Control de Gestión",
+          "role": "cód. 1374 · optativa",
+          "tag": "gestión pública",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.economia-delito",
+          "name": "Economía y Delito",
+          "role": "cód. 1708 · electiva",
+          "tag": "gestión pública",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación · Empresas y Emprendedores",
+      "title": "Crear y hacer crecer empresas",
+      "note": "Se eligen tres materias de la orientación.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.creatividad",
+          "name": "Creatividad",
+          "role": "cód. 476 · electiva",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.logistica",
+          "name": "Logística",
+          "role": "cód. 477 · electiva",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-pyme",
+          "name": "Gestión PyME",
+          "role": "cód. 478 · electiva",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.negocios-internacionales",
+          "name": "Negocios Internacionales",
+          "role": "cód. 479 · electiva",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.dinamica-estrategica-empresarial",
+          "name": "Dinámica Estratégica Empresarial",
+          "role": "cód. 486 · optativa",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.emprendedor-21",
+          "name": "Emprendedor 21",
+          "role": "cód. 733 · optativa",
+          "tag": "empresas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.teoria-demanda",
+          "name": "Teoría de la Demanda",
+          "role": "cód. 790 · electiva",
+          "tag": "empresas",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación · Sectores Estratégicos y Desarrollo Sostenible",
+      "title": "Administrar salud, cultura, deporte, turismo",
+      "note": "Se eligen tres materias de la orientación.",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.administracion-deporte",
+          "name": "Administración del Deporte",
+          "role": "cód. 480 · electiva",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-educacion",
+          "name": "Administración de la Educación",
+          "role": "cód. 481 · electiva",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-estrategica-transformacion-social",
+          "name": "Gestión Estratégica para la Transformación Social",
+          "role": "cód. 482 · electiva",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.perspectivas-globales-sectores-estrategicos",
+          "name": "Perspectivas Globales para Sectores Estratégicos",
+          "role": "cód. 487 · optativa",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-turismo",
+          "name": "Administración del Turismo",
+          "role": "cód. 732 · optativa",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-salud",
+          "name": "Administración de la Salud",
+          "role": "cód. 749 · electiva",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-economia-social",
+          "name": "Gestión en la Economía Social",
+          "role": "cód. 764 · optativa",
+          "tag": "sectores",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.administracion-cultura",
+          "name": "Administración de la Cultura",
+          "role": "cód. 1797 · optativa",
+          "tag": "sectores",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias de Gestión",
+      "title": "Comunicar, negociar, liderar",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.comunicacion",
+          "name": "Comunicación",
+          "role": "cód. 483",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.oratoria",
+          "name": "Oratoria",
+          "role": "cód. 484",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.estrategia",
+          "name": "Estrategia",
+          "role": "cód. 488",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.liderazgo-organizacional",
+          "name": "Liderazgo Organizacional",
+          "role": "cód. 489",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.negociacion",
+          "name": "Negociación",
+          "role": "cód. 707",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.calidad-productividad",
+          "name": "Calidad y Productividad",
+          "role": "cód. 718",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.seminario-etica-ocupaciones",
+          "name": "Seminario Ética de las Ocupaciones",
+          "role": "cód. 791",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.conduccion-equipos-trabajo",
+          "name": "Conducción de Equipos de Trabajo",
+          "role": "cód. 795",
+          "tag": "competencia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.psicologia-organizacional",
+          "name": "Psicología Organizacional",
+          "role": "cód. 1710",
+          "tag": "competencia",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias Digitales",
+      "title": "Datos, sistemas y negocio digital",
+      "exits": [
+        {
+          "address": "uba.fce.administracion.fintech-pagos-digitales-criptoactivos",
+          "name": "Fintech, Pagos Digitales y Criptoactivos",
+          "role": "cód. 485",
+          "tag": "digital",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.analitica-datos",
+          "name": "Analítica de Datos",
+          "role": "cód. 701",
+          "tag": "digital",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.auditoria-sistemas-informacion",
+          "name": "Auditoría de Sistemas de Información",
+          "role": "cód. 702",
+          "tag": "digital",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.marketing-digital",
+          "name": "Marketing Digital",
+          "role": "cód. 706",
+          "tag": "digital",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.e-commerce",
+          "name": "E-Commerce",
+          "role": "cód. 1709",
+          "tag": "digital",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.administracion.gestion-inteligencia-artificial",
+          "name": "Gestión de la Inteligencia Artificial",
+          "role": "cód. 1711",
+          "tag": "digital",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos/administracion · plan vigente 2026",
+    "url": "https://economicas.uba.ar/alumnos/administracion/"
+  }
+}

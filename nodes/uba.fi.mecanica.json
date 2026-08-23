@@ -1,0 +1,396 @@
+{
+  "address": "uba.fi.mecanica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2024 (Plan 2020 y resoluciones modificatorias · RESCS-2024-580)",
+    "expediente": "EX-2023-06060030-UBA-DIMEDA#SA_FI",
+    "cuatrimestres": 11,
+    "cbcCuatrimestres": 2,
+    "segundoCicloCuatrimestres": 9,
+    "materias": 38,
+    "creditosTotales": 250,
+    "horasTotales": 4000,
+    "creditosElectivas": 14,
+    "correlativas": true,
+    "titulo": "Ingeniero/a Mecánico/a"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.mecanica",
+      "label": "Ingeniería Mecánica"
+    }
+  ],
+  "eyebrow": "Ingeniería Mecánica · Plan 2024",
+  "title": "Once cuatrimestres, de la partícula a la máquina.",
+  "lede": "El plan vigente (actualización 2024 del Plan 2020) de Ingeniería Mecánica en la Facultad de Ingeniería: dos cuatrimestres de CBC y nueve de segundo ciclo que van de análisis, física y química a materiales, termodinámica, fluidos, máquinas y un trabajo profesional o tesis final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2024",
+      "small": "RESCS-2024-580"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "obligatorias propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad (fi.uba.ar/grado/carreras/ingenieria-mecanica/plan-de-estudios → PDF 'Plan de Estudios · Actualización 2024'). Los cuatrimestres siguen la distribución sugerida del propio plan (flexibilidad curricular: cada estudiante puede recomponer sus módulos respetando correlativas). Se listan sólo las obligatorias del segundo ciclo; los cupos de electivas/optativas (14 créditos en 10º y 11º) no son nodos. Nivel L1: nombres, cuatrimestres y créditos son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Entrada al segundo ciclo",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · 128 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.intro-ingenieria-mecanica",
+          "name": "Introducción a la Ingeniería Mecánica",
+          "role": "4 créditos · 64 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · 96 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.quimica-basica",
+          "name": "Química Básica",
+          "role": "6 créditos · 96 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Materiales, diseño y cuerpo rígido",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.materiales-metalicos",
+          "name": "Conocimiento de Materiales Metálicos",
+          "role": "6 créditos · 96 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.diseno-mecanico",
+          "name": "Diseño Mecánico",
+          "role": "4 créditos · 64 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · 128 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.mecanica-clasica-cuerpo-rigido",
+          "name": "Mecánica Clásica del Cuerpo Rígido",
+          "role": "6 créditos · 96 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Mecanismos, sólido y termodinámica",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.mecanismos",
+          "name": "Mecanismos",
+          "role": "4 créditos · 64 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · 48 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.intro-solido-deformable",
+          "name": "Introducción a la Mecánica del Sólido Deformable",
+          "role": "6 créditos · 96 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.termodinamica",
+          "name": "Termodinámica",
+          "role": "6 créditos · 96 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.analisis-matematico-3",
+          "name": "Análisis Matemático III",
+          "role": "6 créditos · 96 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Electromagnetismo, numérico y estadística",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · 64 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.materiales-no-metalicos",
+          "name": "Conocimiento de Materiales No Metálicos",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créditos · 32 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Ensayos, electrotecnia, manufactura y fluidos",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.ensayos-industriales",
+          "name": "Ensayos Industriales",
+          "role": "4 créditos · 64 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.electrotecnia-general",
+          "name": "Electrotecnia General",
+          "role": "4 créditos · 64 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.economia-organizacion",
+          "name": "Economía y Organización",
+          "role": "6 créditos · 96 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.taller-manufactura-mecanica",
+          "name": "Taller de Manufactura Mecánica",
+          "role": "4 créditos · 64 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.mecanica-fluidos",
+          "name": "Mecánica de Fluidos",
+          "role": "6 créditos · 96 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Electrónica, instrumentación y máquinas térmicas",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.taller-electronica",
+          "name": "Taller de Electrónica",
+          "role": "3 créditos · 48 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.proyecto-instrumentacion",
+          "name": "Proyecto de Instrumentación",
+          "role": "4 créditos · 64 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.maquinas-termicas",
+          "name": "Máquinas Térmicas",
+          "role": "6 créditos · 96 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.impacto-social-ambiental",
+          "name": "Impacto Social, Ambiental y Desarrollo Sustentable",
+          "role": "4 créditos · 64 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.tecnologia-mecanica",
+          "name": "Tecnología Mecánica",
+          "role": "6 créditos · 96 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Calor, fractura, máquinas eléctricas y control",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.sistemas-almacenamiento",
+          "name": "Sistemas de Almacenamiento",
+          "role": "6 créditos · 96 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.transferencia-calor-masa",
+          "name": "Transferencia de Calor y Masa y sus Instalaciones",
+          "role": "4 créditos · 64 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.dano-fractura",
+          "name": "Daño y Fractura de Elementos Mecánicos",
+          "role": "4 créditos · 64 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.maquinas-electricas",
+          "name": "Máquinas Eléctricas",
+          "role": "4 créditos · 64 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.sistemas-control-automatizacion",
+          "name": "Sistemas de Control y Automatización",
+          "role": "6 créditos · 96 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Turbomáquinas, instalaciones y arranque del trabajo final",
+      "note": "Además: 8 créditos de electivas/optativas (cupo sin nombre, no es nodo).",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.turbomaquinas",
+          "name": "Turbomáquinas",
+          "role": "4 créditos · 64 h",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.proyecto-instalaciones-industriales",
+          "name": "Proyecto de Instalaciones Industriales",
+          "role": "6 créditos · 96 h",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.trabajo-profesional-o-tesis",
+          "name": "Trabajo Profesional de Ingeniería Mecánica o Tesis de Ingeniería Mecánica",
+          "role": "12 créditos · 192 h · 10º y 11º cuat.",
+          "tag": "10º–11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Elementos de máquinas, mantenimiento y cierre",
+      "note": "Además: 6 créditos de electivas/optativas y la continuación del Trabajo Profesional o Tesis.",
+      "exits": [
+        {
+          "address": "uba.fi.mecanica.elementos-maquinas",
+          "name": "Elementos de Máquinas",
+          "role": "4 créditos · 64 h",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.mecanica.mantenimiento-calidad",
+          "name": "Mantenimiento y Calidad",
+          "role": "4 créditos · 64 h",
+          "tag": "11º cuat.",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado/carreras/ingenieria-mecanica/plan-de-estudios · Plan de Estudios Ingeniería Mecánica (Actualización 2024, RESCS-2024-580, PDF)",
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Mecanica_7d8331e1c8_78e0784ec3.pdf"
+  }
+}

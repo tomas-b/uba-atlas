@@ -1,0 +1,486 @@
+{
+  "address": "uba.fi.alimentos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2020 · actualización 2023",
+    "resolucion": "Res. CD 1014/2023",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "creditosTotales": 243,
+    "horasTotales": 3888,
+    "materiasObligatorias": 36,
+    "electivasNombradas": 14,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.alimentos",
+      "label": "Ingeniería en Alimentos"
+    }
+  ],
+  "eyebrow": "Ingeniería en Alimentos · Plan 2020, actualización 2023",
+  "title": "Once cuatrimestres, de la química básica a la planta piloto.",
+  "lede": "El plan real (2020, actualizado en 2023 por Res. CD 1014/2023) de la Facultad de Ingeniería: dos cuatrimestres de CBC y nueve de segundo ciclo que van de matemática, física y química a operaciones unitarias, preservación de alimentos y un trabajo integrador final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2020",
+      "small": "act. 2023"
+    },
+    {
+      "k": "Materias",
+      "v": "36",
+      "small": "obligatorias + 14 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 50"
+    }
+  ],
+  "frame": "Estructura sourceada del plan de estudios oficial publicado por FIUBA (cms.fi.uba.ar, PDF de aprobación Res. CD 1014/2023). Nivel L1: nombres, cuatrimestres, créditos y correlativas son reales; el plan no asigna códigos a las materias del segundo ciclo. Varias materias se dictan en Exactas (FCEN) o en Farmacia y Bioquímica (FFyB), tal como marca el plan. Los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan reserva 12 créditos de electivas/optativas: aquí figuran solo las electivas nombradas en el plan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Ciencias básicas y la entrada a la carrera",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.quimica-basica",
+          "name": "Química Básica",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.intro-ingenieria-alimentos",
+          "name": "Introducción a la Ingeniería en Alimentos",
+          "role": "4 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Electricidad, álgebra y el primer laboratorio",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.optica",
+          "name": "Óptica",
+          "role": "2 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.fundamentos-procesos-quimicos",
+          "name": "Fundamentos de Procesos Químicos",
+          "role": "4 créditos · correlativas: Química Básica, Introducción a la Ingeniería en Alimentos",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.laboratorio-quimica",
+          "name": "Laboratorio de Química",
+          "role": "2 créditos · correlativa: Química Básica",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Orgánica, termodinámica y datos",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.quimica-compuestos-organicos",
+          "name": "Química de los Compuestos Orgánicos",
+          "role": "6 créditos · correlativa: Química Básica",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.termodinamica-procesos",
+          "name": "Termodinámica de los Procesos",
+          "role": "8 créditos · correlativas: Fundamentos de Procesos Químicos, Análisis Matemático II",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · correlativa: Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Transporte, modelación y química de alimentos",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.fenomenos-transporte",
+          "name": "Fenómenos de Transporte",
+          "role": "8 créditos · correlativa: Termodinámica de los Procesos",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.quimica-fisica",
+          "name": "Química Física",
+          "role": "6 créditos · correlativas: Termodinámica de los Procesos, Electricidad y Magnetismo",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.quimica-biologica-alimentos",
+          "name": "Química Biológica y de Alimentos",
+          "role": "6 créditos · correlativas: Química de los Compuestos Orgánicos, Laboratorio de Química",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Microbiología y operaciones unitarias",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.microbiologia-general-alimentos",
+          "name": "Microbiología General y de Alimentos",
+          "role": "6 créditos · correlativa: Química Biológica y de Alimentos",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.ou-cantidad-movimiento-energia",
+          "name": "Operaciones Unitarias de Transferencia de Cantidad de Movimiento y Energía",
+          "role": "8 créditos · correlativas: Fenómenos de Transporte, Modelación Numérica",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.ou-transferencia-materia",
+          "name": "Operaciones Unitarias de Transferencia de Materia",
+          "role": "8 créditos · correlativa: Fenómenos de Transporte",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Preservación, analítica y plantas",
+      "note": "Este cuatrimestre reserva además 4 de los 12 créditos de electivas/optativas.",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.fundamentos-preservacion-1",
+          "name": "Fundamentos de la Preservación de Alimentos I (FCEN)",
+          "role": "6 créditos · correlativas: Microbiología General y de Alimentos, ambas Operaciones Unitarias",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "4 créditos · correlativas: Química de los Compuestos Orgánicos, Óptica, Probabilidad y Estadística",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.laboratorio-operaciones-procesos",
+          "name": "Laboratorio de Operaciones y Procesos",
+          "role": "4 créditos · correlativa: OU de Transferencia de Cantidad de Movimiento y Energía",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.instalaciones-plantas-procesos",
+          "name": "Instalaciones de Plantas de Procesos",
+          "role": "6 créditos · correlativa: OU de Transferencia de Cantidad de Movimiento y Energía",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Tecnología de alimentos, control y legislación",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.fundamentos-preservacion-2",
+          "name": "Fundamentos de la Preservación de Alimentos II (FCEN)",
+          "role": "6 créditos · correlativa: Fundamentos de la Preservación de Alimentos I",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.tecnologia-alimentos-1",
+          "name": "Tecnología de Alimentos I (FCEN)",
+          "role": "4 créditos · correlativas: Fundamentos de la Preservación I, Química Analítica Instrumental",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.planta-piloto-alimentos",
+          "name": "Planta Piloto de Alimentos (FCEN)",
+          "role": "4 créditos (2 + 2, 9º y 10º) · correlativas: Fundamentos de la Preservación I, OU de Transferencia de Materia",
+          "tag": "9º–10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.dinamica-control-procesos",
+          "name": "Dinámica y Control de Procesos de Alimentos",
+          "role": "6 créditos · correlativas: ambas Operaciones Unitarias",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créditos · correlativa: 100 créditos",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Tecnologías, economía y el trabajo final",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.tecnologia-alimentos-2",
+          "name": "Tecnología de Alimentos II (bimestral, FCEN)",
+          "role": "2 créditos · correlativas: Fundamentos de la Preservación I, Química Analítica Instrumental",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.tecnologia-alimentos-3",
+          "name": "Tecnología de Alimentos III (bimestral, FCEN)",
+          "role": "2 créditos · correlativas: Fundamentos de la Preservación I, Química Analítica Instrumental",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.legislacion-alimentaria",
+          "name": "Legislación Alimentaria (FFyB)",
+          "role": "4 créditos · correlativa: Microbiología General y de Alimentos",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.economia-organizacion",
+          "name": "Economía y Organización",
+          "role": "6 créditos · correlativa: Introducción a la Ingeniería en Alimentos",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final de Ingeniería en Alimentos",
+          "role": "12 créditos (6 + 6, 10º y 11º) · correlativas: Fundamentos de la Preservación I, Instalaciones de Plantas de Procesos",
+          "tag": "10º–11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Biotecnología, gestión y cierre",
+      "note": "Este cuatrimestre reserva los 8 créditos restantes de electivas/optativas.",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.biotecnologia-reactores",
+          "name": "Biotecnología y Reactores para la Industria de Alimentos",
+          "role": "6 créditos · correlativas: Química Física, Microbiología General y de Alimentos, OU de Transferencia de Materia",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.gestion-trabajo-ambiente",
+          "name": "Gestión del Trabajo y del Ambiente en la Industria Alimentaria",
+          "role": "4 créditos · correlativa: Microbiología General y de Alimentos",
+          "tag": "11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas nombradas en el plan",
+      "title": "Doce créditos a elección",
+      "note": "El plan lista estas asignaturas electivas con sus correlativas; también admite optativas de otras facultades y actividades académicas afines.",
+      "exits": [
+        {
+          "address": "uba.fi.alimentos.revalorizacion-subproductos",
+          "name": "Revalorización de Subproductos en la Industria Agroalimentaria",
+          "role": "6 créditos · correlativa: Fundamentos de la Preservación de Alimentos II",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.diseno-producto",
+          "name": "Diseño de Producto",
+          "role": "4 créditos · correlativas: Fundamentos de la Preservación II, Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.control-estadistico-procesos",
+          "name": "Control Estadístico de Procesos",
+          "role": "6 créditos · correlativa: Probabilidad y Estadística",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.bioprocesos-industriales",
+          "name": "Bioprocesos Industriales",
+          "role": "4 créditos · correlativa: Biotecnología y Reactores para la Industria de Alimentos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.microbiologia-alimentos",
+          "name": "Microbiología de Alimentos (FCEN)",
+          "role": "4 créditos · correlativa: Microbiología General y de Alimentos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.analisis-avanzado-alimentos",
+          "name": "Análisis Avanzado de Alimentos (FCEN)",
+          "role": "6 créditos · correlativa: Fundamentos de la Preservación de Alimentos II",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.toxicologia-alimentos",
+          "name": "Toxicología de Alimentos (FFyB)",
+          "role": "4 créditos · correlativa: Química Biológica y de Alimentos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.nutricion-aplicada",
+          "name": "Nutrición Aplicada a Tecnología de Alimentos (FFyB)",
+          "role": "2 créditos · correlativa: Química Biológica y de Alimentos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.emprendimientos-ingenieria",
+          "name": "Emprendimientos en Ingeniería",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.logistica-supply-chain",
+          "name": "Logística y Supply Chain",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.comercializacion-productos-servicios",
+          "name": "Comercialización de Productos y Servicios",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.capital-humano",
+          "name": "Capital Humano y Comportamiento Organizacional",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.gerenciamiento-calidad",
+          "name": "Gerenciamiento de la Calidad",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.alimentos.estadistica-aplicada",
+          "name": "Estadística Aplicada",
+          "role": "8 créditos · correlativa: Probabilidad y Estadística",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de Estudios Ingeniería en Alimentos · Actualización 2023 (Res. CD 1014/2023) · cms.fi.uba.ar",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_1014_Alimentos_Plan_2023_Aprobacion_fa0ea90fef.pdf"
+  }
+}

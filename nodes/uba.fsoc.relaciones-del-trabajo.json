@@ -1,0 +1,405 @@
+{
+  "address": "uba.fsoc.relaciones-del-trabajo",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Res. (CS) 74/85, modif. 1519/91, 936/92, 3579/93 y 4805/93",
+    "vigencia": "1985/1993-actual",
+    "años": 5,
+    "materias": 24,
+    "optativas": 2,
+    "idiomas": 3,
+    "cargaHoraria": "2250 h reloj (CBC 540 · grado 1530 · idioma 180)",
+    "tituloIntermedio": "Analista en Relaciones del Trabajo (al finalizar 3er año)",
+    "correlativas": "no detalladas en la resolución; mapa aparte en el sitio de la carrera"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    },
+    {
+      "address": "uba.fsoc.relaciones-del-trabajo",
+      "label": "Relaciones del Trabajo"
+    }
+  ],
+  "eyebrow": "Licenciatura en Relaciones del Trabajo · Plan Res. (CS) 74/85",
+  "title": "Cinco años entre el derecho, la empresa y el sindicato.",
+  "lede": "El plan vigente de Relaciones del Trabajo en Sociales: aprobado en 1985 y ajustado hasta 1993, ordena 24 materias obligatorias en cuatro años de grado sobre el CBC, más dos optativas y tres niveles de inglés. Al cerrar 3er año se abre un título intermedio, Analista en Relaciones del Trabajo, por especialidades. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "74/85",
+      "small": "Res. CS · vig. 1985–actual"
+    },
+    {
+      "k": "Materias",
+      "v": "24",
+      "small": "obligatorias + 2 opt."
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 24"
+    }
+  ],
+  "frame": "Estructura sourceada del PDF oficial del plan (Res. CS 74/85 con carga horaria según modificatorias 1519/91, 936/92, 3579/93 y 4805/93), publicado por la carrera. Los años siguen el artículo 1º de la resolución; la tabla de carga horaria posterior desdobla Economía Política y Estadística Aplicada en I y II, y esas segundas partes no tienen año asignado en el texto. Nivel L1: nombres, años y carga horaria son reales; temas y bibliografía son la próxima resolución (L2), por materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · primero de grado",
+      "title": "Sociología, economía, empresa, derecho",
+      "note": "Todas cuatrimestrales, 60 h.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.principios-sociologia-trabajo",
+          "name": "Principios de Sociología del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.economia-politica-1",
+          "name": "Economía Política I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.administracion-empresas",
+          "name": "Administración de Empresas",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.administracion-personal-1",
+          "name": "Administración de Personal I (Introducción y Empleos)",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.derecho-trabajo-1",
+          "name": "Derecho del Trabajo I (Individual)",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.estadistica-aplicada-1",
+          "name": "Estadística Aplicada I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Trabajo, historia, remuneraciones",
+      "note": "Al aprobar este año se puede optar por el título intermedio.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.economia-trabajo",
+          "name": "Economía del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.historia-social-contemporanea",
+          "name": "Historia Social Contemporánea",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.derecho-trabajo-2",
+          "name": "Derecho del Trabajo II (Colectivo)",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.administracion-personal-2",
+          "name": "Administración de Personal II (Política y administración de remuneraciones)",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.administracion-personal-3",
+          "name": "Administración de Personal III (Capacitación y planeamiento)",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.computacion-sistemas-informacion",
+          "name": "Computación y Sistemas de Información",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Relaciones, condiciones, estructura",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.psicologia-trabajo",
+          "name": "Psicología del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.relaciones-trabajo",
+          "name": "Relaciones del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.estructura-economica-social-argentina",
+          "name": "Estructura Económica y Social Argentina",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.derecho-administrativo-procesal-trabajo",
+          "name": "Derecho Administrativo y Procesal del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.condiciones-medio-ambiente-trabajo-1",
+          "name": "Condiciones y Medio Ambiente del Trabajo I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.sociologia-trabajo",
+          "name": "Sociología del Trabajo",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Seguridad social, organización, movimiento obrero, método",
+      "note": "Aprobadas las cuatro obligatorias, se eligen dos optativas más.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.derecho-seguridad-social",
+          "name": "Derecho de la Seguridad Social",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.teoria-comportamiento-organizacional",
+          "name": "Teoría y Comportamiento Organizacional",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.historia-movimiento-obrero",
+          "name": "Historia del Movimiento Obrero Nacional e Internacional",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.metodologia-investigacion-evaluacion",
+          "name": "Metodología de la Investigación y de la Evaluación",
+          "role": "cuatrimestral · 60 h",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Desdobladas por modificatorias 1991–93",
+      "title": "Segundas partes sin año asignado en el texto",
+      "note": "Aparecen en la tabla de carga horaria (Res. 1519/91, 936/92, 3579/93, 4805/93), no en el listado por año de 1985.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.economia-politica-2",
+          "name": "Economía Política II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.estadistica-aplicada-2",
+          "name": "Estadística Aplicada II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Optativas de 5º año · se eligen 2",
+      "title": "Las nombradas en la resolución",
+      "note": "Art. 3º de la Res. 74/85. Cuatrimestrales, 45 h. La oferta efectiva de cada año la fija la carrera.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.derecho-internacional-trabajo",
+          "name": "Derecho Internacional del Trabajo",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.condiciones-medio-ambiente-trabajo-2",
+          "name": "Condiciones y Medio Ambiente del Trabajo II",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.educacion-ocupacion",
+          "name": "Educación y Ocupación",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.doctrinas-sociales",
+          "name": "Doctrinas Sociales",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.trabajo-sociedad-teoria-sociologica",
+          "name": "Trabajo y Sociedad en la Teoría Sociológica",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.gerontologia-industrial",
+          "name": "Gerontología Industrial",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.experiencias-argentinas-calidad-vida-trabajo",
+          "name": "Experiencias Argentinas en el Mejoramiento de la Calidad de Vida de Trabajo",
+          "role": "optativa · 45 h",
+          "tag": "optativa",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Título intermedio · Analista en Relaciones del Trabajo",
+      "title": "Materias propias de las especialidades",
+      "note": "Art. 2º: tres materias de una especialidad (Capacitación · Liquidación de Remuneraciones y Beneficios · Asociaciones Profesionales de Trabajadores). Se listan solo las que no son ya obligatorias del plan.",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.programacion-control-capacitacion",
+          "name": "Programación y Control de la Capacitación",
+          "role": "esp. Capacitación",
+          "tag": "título intermedio",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.metodos-capacitacion",
+          "name": "Métodos de Capacitación",
+          "role": "esp. Capacitación",
+          "tag": "título intermedio",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.liquidacion-remuneraciones-beneficios",
+          "name": "Liquidación de Remuneraciones y Beneficios",
+          "role": "esp. Liquidación de Remuneraciones y Beneficios",
+          "tag": "título intermedio",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.organizacion-archivo-personal",
+          "name": "Organización del Archivo de Personal",
+          "role": "esp. Liquidación de Remuneraciones y Beneficios",
+          "tag": "título intermedio",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.organizacion-administracion-sindical",
+          "name": "Organización y Administración Sindical",
+          "role": "esp. Asociaciones Profesionales de Trabajadores",
+          "tag": "título intermedio",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.estructura-organizacion-obras-sociales",
+          "name": "Estructura y Organización de las Obras Sociales",
+          "role": "esp. Asociaciones Profesionales de Trabajadores",
+          "tag": "título intermedio",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Idiomas · 180 h",
+      "title": "Inglés en tres niveles",
+      "exits": [
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.ingles-1",
+          "name": "Inglés Nivel I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "idioma",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.ingles-2",
+          "name": "Inglés Nivel II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "idioma",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo.ingles-3",
+          "name": "Inglés Nivel III",
+          "role": "cuatrimestral · 60 h",
+          "tag": "idioma",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de Estudios Res. (CS) 74/85 · relacionesdeltrabajo.sociales.uba.ar/plan-estudios",
+    "url": "https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2018/07/Plan-de-Estudios-74-85.pdf"
+  }
+}

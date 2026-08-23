@@ -1,0 +1,591 @@
+{
+  "address": "uba.fsoc.comunicacion",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Resolución 504/23 (Plan Nuevo)",
+    "planAnterior": "440/90",
+    "materias": 65,
+    "cicloInicial": {
+      "materias": 21,
+      "aAprobar": 18
+    },
+    "ciclosOrientados": [
+      "Intervención",
+      "Producción",
+      "Investigación"
+    ],
+    "orientadoAAprobar": "3 introductorias + 4 aplicadas + 2 específicas",
+    "idioma": "3 niveles (inglés, francés o italiano)",
+    "seminariosOptativos": 2,
+    "practicaPreProfesional": "niveles I y II (60 hs)",
+    "cierre": "Trabajo Integrador Final (TIF)",
+    "régimen": "todas cuatrimestrales",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    },
+    {
+      "address": "uba.fsoc.comunicacion",
+      "label": "Ciencias de la Comunicación"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias de la Comunicación · Plan 504/23",
+  "title": "Un ciclo inicial en cuatro áreas y tres caminos para salir.",
+  "lede": "El plan vigente (Resolución 504/23) de la Carrera de Ciencias de la Comunicación de Sociales: un Ciclo Inicial de 18 materias a elegir entre 21, repartidas en cuatro áreas, y luego un Ciclo Orientado a elección — Intervención, Producción o Investigación — que cierra con el Trabajo Integrador Final. Cada materia es una puerta; clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "504/23"
+    },
+    {
+      "k": "Materias",
+      "v": "65",
+      "small": "nombradas en el plan"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 65"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Carrera (comunicacion.sociales.uba.ar/plan-de-estudios). Nivel L1: los nombres, áreas, ciclos y reglas de elección son reales; el plan no fija años ni cuatrimestres por materia (todas son cuatrimestrales y se ordenan por correlatividades). Los temas y la bibliografía de cada materia son la próxima resolución (L2). Los seminarios optativos y los niveles de idioma no se listan como materias porque el plan no los nombra.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Inicial · Área Comunicacional",
+      "title": "El campo: teorías, medios, semiótica, derecho",
+      "note": "Cuatrimestrales · obligatoria · se aprueban las 9.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.teorias-de-la-comunicacion",
+          "name": "Teorías de la Comunicación",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.principales-corrientes-del-pensamiento-contemporaneo",
+          "name": "Principales Corrientes del Pensamiento Contemporáneo",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.comunicacion-y-cultura",
+          "name": "Comunicación y Cultura",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.politicas-publicas-de-la-comunicacion",
+          "name": "Políticas Públicas de la Comunicación",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.historia-de-los-medios",
+          "name": "Historia de los Medios",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.la-investigacion-en-comunicacion",
+          "name": "La Investigación en Comunicación",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.semiotica",
+          "name": "Semiótica",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.semiotica-de-los-medios",
+          "name": "Semiótica de los Medios",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.derecho-a-la-comunicacion",
+          "name": "Derecho a la Comunicación",
+          "role": "obligatoria",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Inicial · Área Práctica",
+      "title": "Escribir, narrar, producir en radio y audiovisual",
+      "note": "Cuatrimestrales · taller obligatorio · se aprueban los 4.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-escritura",
+          "name": "Taller de Escritura",
+          "role": "taller obligatorio",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-redaccion-y-generos-periodisticos",
+          "name": "Taller de Redacción y Géneros Periodísticos",
+          "role": "taller obligatorio",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-radial",
+          "name": "Taller Radial",
+          "role": "taller obligatorio",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-audiovisual",
+          "name": "Taller Audiovisual",
+          "role": "taller obligatorio",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Inicial · Área Problemas del Campo de la Comunicación",
+      "title": "Cultura, técnica, cuerpo",
+      "note": "Cuatrimestrales · electiva · 2 de 3.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.cultura-popular-y-cultura-de-las-masas",
+          "name": "Cultura Popular y Cultura de las Masas",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.tecnica-cultura-y-sociedad",
+          "name": "Técnica, Cultura y Sociedad",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.cuerpo-imagen-y-sentido",
+          "name": "Cuerpo, Imagen y Sentido",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Inicial · Área Ciencias Sociales",
+      "title": "El suelo de las ciencias sociales",
+      "note": "Cuatrimestrales · electiva · 3 de 5.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.metodologias-y-tecnicas-de-la-investigacion-social",
+          "name": "Metodologías y Técnicas de la Investigación Social",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.historia-social-general",
+          "name": "Historia Social General",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.historia-social-argentina-y-latinoamericana",
+          "name": "Historia Social Argentina y Latinoamericana",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.economia-politica",
+          "name": "Economía Política",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.antropologia-y-comunicacion",
+          "name": "Antropología y Comunicación",
+          "role": "electiva",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Orientado en Intervención",
+      "title": "Estado, organizaciones, comunidad, educación",
+      "note": "Se elige un solo Ciclo Orientado: 3 Introductorias + 4 Aplicadas + 2 Específicas. Ingreso con 10 materias y 2 talleres del Ciclo Inicial.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.estado-democracia-y-politicas-de-la-comunicacion",
+          "name": "Estado, democracia y políticas de la comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.procesos-organizacionales-y-comunicacion",
+          "name": "Procesos organizacionales y comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.planificacion-en-comunicacion",
+          "name": "Planificación en comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.comunicacion-educacion-y-cultura",
+          "name": "Comunicación, educación y cultura",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.intervencion-social-y-comunicacion",
+          "name": "Intervención social y comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.comunicacion-institucional-y-cooperativa",
+          "name": "Comunicación institucional y cooperativa",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.diseno-estrategico-de-la-comunicacion-en-politicas-publicas",
+          "name": "Diseño estratégico de la comunicación en políticas públicas",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.medios-de-comunicacion-comunitarios-populares-y-alternativos",
+          "name": "Medios de comunicación comunitarios, populares y alternativos",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.comunicacion-y-cultura-comunitaria",
+          "name": "Comunicación y cultura comunitaria",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.practicas-comunicacionales-en-entornos-educativos",
+          "name": "Prácticas comunicacionales en entornos educativos",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.tecnologias-educativas",
+          "name": "Tecnologías educativas",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.legislacion-comparada",
+          "name": "Legislación comparada",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.investigacion-accion-socio-comunitaria",
+          "name": "Investigación-acción socio-comunitaria",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · intervención",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Orientado en Producción",
+      "title": "Periodismo, gráfica, radio, audiovisual, publicidad",
+      "note": "Se elige un solo Ciclo Orientado: 3 Introductorias + 4 Aplicadas + 2 Específicas. Ingreso con 10 materias y 2 talleres del Ciclo Inicial.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.tecnicas-de-la-investigacion-en-opinion-publica",
+          "name": "Técnicas de la investigación en opinión pública",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.planificacion-y-gestion-de-los-emprendimientos-comunicacionales",
+          "name": "Planificación y gestión de los emprendimientos comunicacionales",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.elementos-y-estructuras-de-la-expresion-audiovisual",
+          "name": "Elementos y estructuras de la expresión audiovisual",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.editorialidad-y-estrategias-de-comunicacion",
+          "name": "Editorialidad y estrategias de comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-realizacion-grafica",
+          "name": "Taller de realización gráfica",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-comunicacion-transmedia",
+          "name": "Taller de comunicación transmedia",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-realizacion-radial",
+          "name": "Taller de realización radial",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-realizacion-audiovisual",
+          "name": "Taller de realización audiovisual",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-investigacion-periodistica",
+          "name": "Taller de investigación periodística",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.comercializacion",
+          "name": "Comercialización",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.planificacion-de-medios",
+          "name": "Planificación de medios",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.creatividad-publicitaria",
+          "name": "Creatividad publicitaria",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.periodismo-politica-y-sociedad",
+          "name": "Periodismo, política y sociedad",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.diseno-y-comunicacion",
+          "name": "Diseño y comunicación",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.campanas-publicitarias",
+          "name": "Campañas publicitarias",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.la-narracion-en-la-cultura-audiovisual",
+          "name": "La narración en la cultura audiovisual",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · producción",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Orientado en Investigación",
+      "title": "Teoría, estética, discursos, políticas",
+      "note": "Se elige un solo Ciclo Orientado: 3 Introductorias + 4 Aplicadas + 2 Específicas. Ingreso con 10 materias y 2 talleres del Ciclo Inicial.",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.politica-de-la-convergencia",
+          "name": "Política de la convergencia",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.teoria-social-y-problemas-de-la-comunicacion",
+          "name": "Teoría social y problemas de la comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.epistemologia-de-la-comunicacion",
+          "name": "Epistemología de la comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.psicologia-y-comunicacion",
+          "name": "Psicología y comunicación",
+          "role": "introductoria · 3 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.procesos-culturales",
+          "name": "Procesos culturales",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.estetica-y-comunicacion",
+          "name": "Estética y comunicación",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.discursos-y-semiotica-de-las-redes",
+          "name": "Discursos y semiótica de las redes",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.audiencias-y-recepcion",
+          "name": "Audiencias y recepción",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.economia-politica-de-la-comunicacion",
+          "name": "Economía política de la comunicación",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.politicas-culturales",
+          "name": "Políticas culturales",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.espacio-publico-y-opinion",
+          "name": "Espacio público y opinión",
+          "role": "aplicada · 4 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.pantallas-cultura-y-educacion-en-la-era-digital",
+          "name": "Pantallas, cultura y educación en la era digital",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.historia-del-arte-y-su-relacion-con-los-medios-masivos-de-comunicacion",
+          "name": "Historia del arte y su relación con los medios masivos de comunicación",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.comunicacion.politicas-internacionales-de-comunicacion",
+          "name": "Políticas internacionales de comunicación",
+          "role": "específica · 2 a aprobar",
+          "tag": "ciclo orientado · investigación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "El Trabajo Integrador Final",
+      "note": "Última instancia de la carrera. Hay un Taller de TIF por orientación; se cursa además 3 niveles de idioma, 2 seminarios optativos (oferta anual, no nombrados en el plan) y la Práctica Pre-Profesional II (60 hs).",
+      "exits": [
+        {
+          "address": "uba.fsoc.comunicacion.taller-de-tif",
+          "name": "Taller de TIF",
+          "role": "última instancia · Trabajo Integrador Final",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "comunicacion.sociales.uba.ar/plan-de-estudios · Plan Nuevo 504/23",
+    "url": "https://comunicacion.sociales.uba.ar/plan-de-estudios/"
+  }
+}

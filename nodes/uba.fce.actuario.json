@@ -1,0 +1,344 @@
+{
+  "address": "uba.fce.actuario",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Res. Consejo Superior Nº 2210/03",
+    "años": 5,
+    "cargaHoraria": 2628,
+    "materias": 29,
+    "electivasRequeridas": 2,
+    "electivasOfrecidas": 8,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    },
+    {
+      "address": "uba.fce.actuario",
+      "label": "Actuario"
+    }
+  ],
+  "eyebrow": "Actuario · Plan Res. CS 2210/03",
+  "title": "Cinco años para ponerle número al riesgo.",
+  "lede": "El plan vigente de Actuario en Económicas: un ciclo general de seis materias compartido con toda la facultad y un ciclo profesional de veintitrés obligatorias que avanzan de la matemática aplicada y la estadística a la biometría, los seguros, la previsión y el equilibrio actuarial. Se completa con dos electivas de un conjunto cerrado. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2210/03",
+      "small": "Res. CS · 2.628 h"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "obligatorias + 2 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 37"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en economicas.uba.ar/alumnos/actuario (Res. Consejo Superior Nº 2210/03): título unificado, sin la mención Administración/Economía del plan 1997. Nivel L1: los códigos, nombres, ciclos, cargas horarias y correlativas son reales; el plan no fija años ni cuatrimestres, ordena por ciclo y por requisitos previos. Los temas y la bibliografía de cada materia son la próxima resolución (L2). Las optativas de oferta anual variable no se listan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 6",
+      "title": "El tronco común de Económicas",
+      "note": "Sin correlativas. Debe aprobarse completo para entrar al ciclo profesional.",
+      "exits": [
+        {
+          "address": "uba.fce.actuario.analisis-matematico-1",
+          "name": "Análisis Matemático I",
+          "role": "241 · Matemática · 108 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.economia",
+          "name": "Economía",
+          "role": "242 · Economía · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.algebra",
+          "name": "Álgebra",
+          "role": "245 · Matemática · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.historia-economica",
+          "name": "Historia Económica y Social General",
+          "role": "246 · Humanidades · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.analisis-contable",
+          "name": "Análisis Contable",
+          "role": "255 · Contabilidad · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.instituciones-gobierno",
+          "name": "Instituciones de Gobierno y Economía Política",
+          "role": "256 · Humanidades · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional · 23",
+      "title": "De la matemática aplicada al equilibrio actuarial",
+      "note": "Ordenadas por código, como el plan. El rol indica los requisitos previos (CG = ciclo general aprobado).",
+      "exits": [
+        {
+          "address": "uba.fce.actuario.macroeconomia-1",
+          "name": "Macroeconomía I",
+          "role": "262 · 108 h · req. CG",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.sistemas-administrativos",
+          "name": "Sistemas Administrativos",
+          "role": "274 · 72 h · req. CG",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.administracion-financiera",
+          "name": "Administración Financiera",
+          "role": "279 · 108 h · req. 601",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.microeconomia-economistas",
+          "name": "Microeconomía para Economistas",
+          "role": "291 · 108 h · req. 542",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.derecho-empresarial",
+          "name": "Derecho Empresarial",
+          "role": "462 · 72 h · req. CG",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.analisis-estadistico-1",
+          "name": "Análisis Estadístico I",
+          "role": "540 · 108 h · req. CG",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.matematica-aplicada-1",
+          "name": "Matemática Aplicada I",
+          "role": "542 · 108 h · req. CG",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.matematica-aplicada-2",
+          "name": "Matemática Aplicada II",
+          "role": "544 · 108 h · req. 542",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.dinero-y-bancos",
+          "name": "Dinero y Bancos",
+          "role": "548 · 72 h · req. 279-602",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.matematica-financiera-actuarial",
+          "name": "Matemática Financiera y Actuarial",
+          "role": "601 · 108 h · req. 540-542",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.analisis-estadistico-2",
+          "name": "Análisis Estadístico II",
+          "role": "602 · 108 h · req. 540-542",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.derecho-financiero-seguros",
+          "name": "Derecho Financiero, Seguros y Seguridad Social",
+          "role": "603 · 72 h · req. 462",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.modelos-proyecciones-actuariales",
+          "name": "Modelos y Proyecciones Actuariales",
+          "role": "717 · 72 h · req. 746-757-758",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.practica-profesional",
+          "name": "Práctica Profesional del Actuario",
+          "role": "728 · 72 h · req. 754-755-756",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.computacion-cientifica-actuarial",
+          "name": "Computación Científica Actuarial",
+          "role": "746 · 72 h · req. 540-542",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.estadistica-actuarial",
+          "name": "Estadística Actuarial",
+          "role": "751 · 72 h · req. 544-602",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.analisis-numerico",
+          "name": "Análisis Numérico",
+          "role": "752 · 72 h · req. 544",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.biometria-actuarial",
+          "name": "Biometría Actuarial",
+          "role": "753 · 108 h · req. 601-751-752",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.seguros-personales",
+          "name": "Teoría Actuarial de los Seguros Personales",
+          "role": "754 · 72 h · req. 753",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.seguros-patrimoniales",
+          "name": "Teoría Actuarial de los Seguros Patrimoniales",
+          "role": "755 · 72 h · req. 601-751-752",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.fondos-jubilaciones-pensiones-salud",
+          "name": "Teoría Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud",
+          "role": "756 · 108 h · req. 754",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.equilibrio-actuarial",
+          "name": "Teoría de Equilibrio Actuarial",
+          "role": "757 · 72 h · req. 754-755",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.bases-actuariales-inversiones",
+          "name": "Bases Actuariales de las Inversiones y Financiaciones",
+          "role": "758 · 72 h · req. 601-751",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · conjunto cerrado · 8",
+      "title": "Dos a elegir",
+      "note": "El plan exige dos electivas u optativas. Estas ocho integran el conjunto cerrado de la carrera (Res. CS 2210/03); las optativas de oferta anual variable no se listan.",
+      "exits": [
+        {
+          "address": "uba.fce.actuario.macroeconomia-2",
+          "name": "Macroeconomía II",
+          "role": "283 · 108 h · req. 262-544",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.gestion-de-costos",
+          "name": "Gestión de Costos",
+          "role": "464 · 72 h · req. CG",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.historia-economia-argentina",
+          "name": "Historia de la Economía y las Políticas Económicas en Argentina",
+          "role": "541 · 72 h · req. CG",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.econometria-1",
+          "name": "Econometría I",
+          "role": "543 · 108 h · req. 540-544",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.econometria-2",
+          "name": "Econometría II",
+          "role": "546 · 108 h · req. 543",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.demografia-seguridad-social",
+          "name": "Demografía y Seguridad Social",
+          "role": "720 · 72 h · req. 753",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.poder-economico-ddhh",
+          "name": "Poder Económico y Derechos Humanos",
+          "role": "721 · 72 h · req. 754",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.actuario.analisis-numerico-avanzado",
+          "name": "Análisis Numérico Avanzado",
+          "role": "784 · 72 h · req. 752-746",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos/actuario · Plan de Estudios (Res. CS Nº 2210/03)",
+    "url": "https://www.economicas.uba.ar/alumnos/actuario/"
+  }
+}

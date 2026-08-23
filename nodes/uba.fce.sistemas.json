@@ -1,0 +1,354 @@
+{
+  "address": "uba.fce.sistemas",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente · Resol. Consejo Superior Nº 2210/03 (régimen de optativas)",
+    "años": 5,
+    "cargaHoraria": 2736,
+    "materias": 30,
+    "obligatorias": 30,
+    "optativasRequeridas": 2,
+    "optativasOfrecidas": 7,
+    "correlativas": true,
+    "ciclos": ["Ciclo de Formación General", "Ciclo de Formación Profesional", "Materias Optativas"]
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    },
+    {
+      "address": "uba.fce.sistemas",
+      "label": "Sistemas de Información de las Organizaciones"
+    }
+  ],
+  "eyebrow": "Licenciatura en Sistemas de Información de las Organizaciones · Plan vigente",
+  "title": "Cinco años, del ciclo general al sistema que corre la organización.",
+  "lede": "El plan real de Económicas: un ciclo de formación general compartido con las otras carreras de la facultad y un ciclo profesional que cruza lógica, datos, redes, software, derecho informático y gestión. Treinta materias obligatorias más dos optativas. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "2.736 h"
+    },
+    {
+      "k": "Materias",
+      "v": "30",
+      "small": "obligatorias + 2 optativas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 30"
+    }
+  ],
+  "frame": "Estructura sourceada de la página oficial de la carrera (economicas.uba.ar/alumnos/sistemas): códigos, ciclos, carga horaria y correlativas son los publicados por la facultad. Nivel L1: los nombres y la estructura son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia desde su programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General",
+      "title": "El tronco común de Económicas",
+      "note": "Seis materias, sin correlativas entre sí. Aprobar el ciclo habilita el profesional.",
+      "exits": [
+        {
+          "address": "uba.fce.sistemas.analisis-matematico-1",
+          "name": "Análisis Matemático I",
+          "role": "cód. 241 · 108 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.economia",
+          "name": "Economía",
+          "role": "cód. 242 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.algebra",
+          "name": "Álgebra",
+          "role": "cód. 245 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.historia-economica-general",
+          "name": "Historia Económica y Social General",
+          "role": "cód. 246 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.administracion-general",
+          "name": "Administración General",
+          "role": "cód. 252 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.sociologia-organizaciones",
+          "name": "Sociología de las Organizaciones",
+          "role": "cód. 254 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional · base",
+      "title": "Lo que se abre con el ciclo general aprobado",
+      "note": "Requisito: Ciclo General aprobado.",
+      "exits": [
+        {
+          "address": "uba.fce.sistemas.teoria-contable",
+          "name": "Teoría Contable",
+          "role": "cód. 247 · 108 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.estadistica-1",
+          "name": "Estadística I",
+          "role": "cód. 248 · 108 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.historia-economica-argentina",
+          "name": "Historia Económica y Social Argentina",
+          "role": "cód. 249 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.microeconomia-1",
+          "name": "Microeconomía I",
+          "role": "cód. 250 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.sistemas-administrativos",
+          "name": "Sistemas Administrativos",
+          "role": "cód. 274 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.calculo-financiero",
+          "name": "Cálculo Financiero",
+          "role": "cód. 276 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.macroeconomia",
+          "name": "Macroeconomía y Política Económica",
+          "role": "cód. 278 · 108 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.logica-simbolica",
+          "name": "Lógica Simbólica y Fundamentos de la Decisión",
+          "role": "cód. 661 · 108 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.intro-tic",
+          "name": "Introducción a la Tecnología de la Información y las Comunicaciones",
+          "role": "cód. 1275 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional · con correlativas",
+      "title": "Datos, software, redes, derecho y gestión",
+      "note": "Cada materia exige la correlativa indicada en su rol.",
+      "exits": [
+        {
+          "address": "uba.fce.sistemas.administracion-financiera",
+          "name": "Administración Financiera",
+          "role": "cód. 279 · 108 h · req. 276",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.gestion-costos",
+          "name": "Gestión de Costos",
+          "role": "cód. 464 · 72 h · req. 247",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.ingenieria-software",
+          "name": "Ingeniería de Software",
+          "role": "cód. 1601 · 72 h · req. 1275",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.derecho-informatico-1",
+          "name": "Derecho Informático I",
+          "role": "cód. 1603 · 72 h · req. 1275",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.derecho-informatico-2",
+          "name": "Derecho Informático II",
+          "role": "cód. 1604 · 108 h · req. 1603",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.tecnologia-computadores-so",
+          "name": "Tecnología de los Computadores y Sistemas Operativos",
+          "role": "cód. 1653 · 108 h · req. 1275",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.tecnologia-comunicaciones",
+          "name": "Tecnología de las Comunicaciones",
+          "role": "cód. 655 · 72 h · req. 1653",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.redes-informaticas",
+          "name": "Redes Informáticas",
+          "role": "cód. 740 · 72 h · req. 655",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.teoria-lenguajes-algoritmos",
+          "name": "Teoría de los Lenguajes y Algoritmos",
+          "role": "cód. 1652 · 72 h · req. 661",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.construccion-aplicaciones",
+          "name": "Construcción de Aplicaciones Informáticas",
+          "role": "cód. 1654 · 72 h · req. 1652",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.sistemas-datos",
+          "name": "Sistemas de Datos",
+          "role": "cód. 663 · 108 h · req. 661",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.seguridad-auditoria",
+          "name": "Seguridad Informática y Principios de Auditoría",
+          "role": "cód. 662 · 108 h · req. 663",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.metodologia-sistemas-informacion",
+          "name": "Metodología de los Sistemas de Información",
+          "role": "cód. 658 · 108 h · req. 1601",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.gestion-recursos-informaticos",
+          "name": "Gestión de Recursos Informáticos",
+          "role": "cód. 1799 · 72 h · req. 658 y 662",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.actuacion-profesional",
+          "name": "Actuación Profesional del Licenciado en Sistemas de las Organizaciones",
+          "role": "cód. 1660 · 108 h · req. 740 y 1654",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Materias Optativas · se eligen 2",
+      "title": "La oferta optativa vigente",
+      "note": "Régimen de optativas según Resol. Consejo Superior Nº 2210/03. Oferta con vigencia 2026.",
+      "exits": [
+        {
+          "address": "uba.fce.sistemas.ciencias-decision",
+          "name": "Ciencias de la Decisión",
+          "role": "cód. 470 · 108 h · req. 661",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.fintech",
+          "name": "Fintech, Pagos Digitales y Criptoactivos",
+          "role": "cód. 485 · 72 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.economia-negocios-digitales",
+          "name": "Economía y Negocios Digitales",
+          "role": "cód. 700 · 72 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.analitica-datos",
+          "name": "Analítica de Datos",
+          "role": "cód. 701 · 72 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.auditoria-sistemas",
+          "name": "Auditoría de Sistemas de Información",
+          "role": "cód. 702 · 72 h · req. 662",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.gestion-innovacion",
+          "name": "Gestión de la Innovación y Tecnología Informática",
+          "role": "cód. 716 · 72 h",
+          "tag": "optativa",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.sistemas.gestion-ia",
+          "name": "Gestión de la Inteligencia Artificial",
+          "role": "cód. 1711 · 72 h",
+          "tag": "optativa",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos/sistemas · plan de estudios oficial",
+    "url": "https://economicas.uba.ar/alumnos/sistemas/"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "address": "uba.fsoc.ciencia-politica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "8558/17",
+    "resolucion": "Res. (CS) 8558/17 · EXP-UBA 85.775/2016 · RESOL-2019-538-APN-MECCYT",
+    "vigenciaDesde": "1º cuatrimestre 2019",
+    "ciclos": 3,
+    "materias": 22,
+    "materiasCicloOrientado": 5,
+    "orientaciones": 6,
+    "cargaHorariaTotal": 2624,
+    "cargaHorariaCicloGeneral": 1824,
+    "cargaHorariaCicloOrientado": 416,
+    "idioma": "3 niveles de un idioma a elección (inglés, francés, italiano, alemán o portugués)",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    },
+    {
+      "address": "uba.fsoc.ciencia-politica",
+      "label": "Ciencia Política"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencia Política · Plan 8558/17",
+  "title": "Un tronco de veintidós materias y seis salidas.",
+  "lede": "El plan vigente (Res. CS 8558/17, en marcha desde 2019) de la carrera de Ciencia Política de Sociales: un Ciclo General de veintidós materias obligatorias — historia, teoría política y social, método, instituciones — y un Ciclo Orientado de cinco unidades a elegir entre seis orientaciones. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "8558/17"
+    },
+    {
+      "k": "Materias",
+      "v": "22",
+      "small": "Ciclo General + 5 orientadas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 22"
+    }
+  ],
+  "frame": "Estructura sourceada de la caja curricular del plan oficial (Res. CS 8558/17, PDF de cienciapolitica.sociales.uba.ar). El plan no fija años ni cuatrimestres: ordena el Ciclo General por carga horaria y correlatividades — un bloque de asignaturas de 4 hs semanales (64 hs) que se abren con el CBC completo, y un bloque de 6 hs semanales (96 hs) encadenado por correlativas. El Ciclo Orientado (2 materias electivas, 2 seminarios, 1 taller de la orientación) exige 12 materias aprobadas del Ciclo General incluida la cabecera de la orientación; sus unidades no tienen nombre fijo en el plan y no se trazan como puertas. Nivel L1: nombres, cargas y correlativas son reales; temas y bibliografía son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo General · bloque de 4 hs",
+      "title": "Bases, método e historia",
+      "note": "Asignaturas de 64 hs. Se cursan con el CBC completo; las dos Metodologías y Filosofía se encadenan a Filosofía y Métodos.",
+      "exits": [
+        {
+          "address": "uba.fsoc.ciencia-politica.filosofia-y-metodos",
+          "name": "Filosofía y Métodos de las Ciencias Sociales",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.metodologia-1",
+          "name": "Metodología de la Investigación en Ciencia Política I",
+          "role": "64 hs · correl. Filosofía y Métodos",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.metodologia-2",
+          "name": "Metodología de la Investigación en Ciencia Política II",
+          "role": "64 hs · correl. Filosofía y Métodos, Metodología I",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.economia",
+          "name": "Economía",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.teoria-y-derecho-constitucional",
+          "name": "Teoría y Derecho Constitucional",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.filosofia",
+          "name": "Filosofía",
+          "role": "64 hs · correl. Filosofía y Métodos",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.historia-contemporanea",
+          "name": "Historia Contemporánea",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.historia-latinoamericana",
+          "name": "Historia Latinoamericana",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.historia-argentina",
+          "name": "Historia Argentina",
+          "role": "64 hs · CBC completo",
+          "tag": "4 hs/sem",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo General · bloque de 6 hs",
+      "title": "Teoría, política y Estado",
+      "note": "Asignaturas de 96 hs. Dos cadenas arrancan con el CBC completo — Teoría Política y Social I y Fundamentos de Ciencia Política I — y el resto se abre por correlativas. Las seis últimas son cabeceras de orientación.",
+      "exits": [
+        {
+          "address": "uba.fsoc.ciencia-politica.teoria-politica-y-social-1",
+          "name": "Teoría Política y Social I",
+          "role": "96 hs · CBC completo",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.teoria-politica-y-social-2",
+          "name": "Teoría Política y Social II",
+          "role": "96 hs · correl. TPyS I",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.teoria-sociologica",
+          "name": "Teoría Sociológica",
+          "role": "96 hs · correl. TPyS I",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.fundamentos-1",
+          "name": "Fundamentos de Ciencia Política I",
+          "role": "96 hs · CBC completo",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.fundamentos-2",
+          "name": "Fundamentos de Ciencia Política II",
+          "role": "96 hs · correl. Fundamentos I",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.sociologia-politica",
+          "name": "Sociología Política",
+          "role": "96 hs · correl. Hist. Contemporánea, Fundamentos I y II",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.teoria-politica-contemporanea",
+          "name": "Teoría Política Contemporánea",
+          "role": "96 hs · correl. Hist. Contemporánea, TPyS I y II, Teoría Sociológica · cabecera Teoría Política",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.sistemas-politicos-comparados",
+          "name": "Sistemas Políticos Comparados",
+          "role": "96 hs · correl. Filosofía y Métodos, Metodología I y II, Hist. Contemporánea, Fundamentos I y II, Sociología Política · cabecera Política Comparada",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.relaciones-internacionales",
+          "name": "Teoría de las Relaciones Internacionales",
+          "role": "96 hs · correl. Filosofía y Métodos, Metodología I y II, Hist. Contemporánea, TPyS I y II, Teoría Sociológica, TP Contemporánea, Fundamentos I · cabecera Relaciones Internacionales",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.opinion-publica",
+          "name": "Opinión Pública",
+          "role": "96 hs · correl. Filosofía y Métodos, Metodología I y II, Hist. Contemporánea, TPyS I y II, Teoría Sociológica, Fundamentos I, Sociología Política · cabecera Opinión Pública y Análisis Político",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.administracion-y-politicas-publicas",
+          "name": "Administración y Políticas Públicas",
+          "role": "96 hs · correl. Filosofía y Métodos, Metodología I y II, Economía, Hist. Contemporánea, TPyS I y II, Teoría Sociológica, TP Contemporánea, Fundamentos II, Sociología Política · cabecera Estado, Administración y Políticas Públicas",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.politica-argentina",
+          "name": "Política Argentina",
+          "role": "96 hs · correl. Hist. Contemporánea, Hist. Argentina, Fundamentos I y II, Sociología Política, Sistemas Políticos Comparados",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica.politica-latinoamericana",
+          "name": "Política Latinoamericana",
+          "role": "96 hs · correl. Filosofía y Métodos, Metodología I y II, Hist. Contemporánea, Hist. Latinoamericana, Fundamentos I y II, Sociología Política · cabecera Política Latinoamericana",
+          "tag": "6 hs/sem",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Ciclo Orientado · 5 unidades",
+      "title": "Seis orientaciones, o ninguna",
+      "note": "2 materias electivas (96 hs c/u), 2 seminarios (64 hs c/u) y 1 taller de la orientación (96 hs, incluye la Práctica Social Educativa). Orientaciones: Estado, Administración y Políticas Públicas · Política Comparada · Política Latinoamericana · Relaciones Internacionales · Opinión Pública y Análisis Político · Teoría Política. Requisito: 12 materias aprobadas del Ciclo General, con la cabecera de la orientación. Las unidades no tienen nombre fijo en el plan; no se trazan como puertas.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cienciapolitica.sociales.uba.ar · Plan de Estudios 8558/17 (Res. CS, PDF)",
+    "url": "https://cienciapolitica.sociales.uba.ar/home/estudiantes/info-academica/plan-de-estudios-8558-17/"
+  }
+}

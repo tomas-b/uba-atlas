@@ -1,0 +1,290 @@
+{
+  "address": "uba.fi.informatica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2023,
+    "resolucion": "RESCD 2023-526",
+    "cuatrimestres": 10,
+    "cuatrimestresCBC": 2,
+    "cuatrimestresSegundoCiclo": 8,
+    "materiasObligatorias": 24,
+    "trabajoFinal": "Trabajo Profesional o Tesis",
+    "electivasCreditos": 24,
+    "creditosTotales": 226,
+    "horasTotales": 3616,
+    "correlativas": true,
+    "planAnterior": "1986 (vigente sólo para ingresantes previos a 2023)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.informatica",
+      "label": "Ingeniería en Informática"
+    }
+  ],
+  "eyebrow": "Ingeniería en Informática · Plan 2023",
+  "title": "Diez cuatrimestres, del primer programa a la tesis.",
+  "lede": "El plan 2023 de la Facultad de Ingeniería: dos cuatrimestres de CBC y ocho de segundo ciclo, de fundamentos de programación y análisis matemático a sistemas distribuidos, seguridad y empresas de base tecnológica. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "24",
+      "small": "obligatorias + tesis"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 25"
+    }
+  ],
+  "frame": "Estructura sourceada de la Resolución CD 2023-526 (aprobación del Plan 2023), publicada en fi.uba.ar. El plan ordena el segundo ciclo por cuatrimestre (tercero a décimo) con correlatividades; la distribución es la propuesta oficial, y cada estudiante puede recomponer sus módulos respetando correlativas. A eso se suman 24 créditos de electivas de libre elección y un Trabajo Profesional o Tesis. Nivel L1: nombres, cuatrimestres y créditos son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Tercer cuatrimestre",
+      "title": "Análisis y primer código",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.fundamentos-programacion",
+          "name": "Fundamentos de Programación",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.intro-desarrollo-software",
+          "name": "Introducción al Desarrollo de Software",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuarto cuatrimestre",
+      "title": "Álgebra, máquina y estructuras",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.organizacion-computador",
+          "name": "Organización del Computador",
+          "role": "6 créditos · correlativas: Introducción al Desarrollo de Software, Fundamentos de Programación",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.aed",
+          "name": "Algoritmos y Estructuras de Datos",
+          "role": "6 créditos · correlativa: Fundamentos de Programación",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Quinto cuatrimestre",
+      "title": "Probabilidad, algoritmos y sistemas",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.teoria-algoritmos",
+          "name": "Teoría de Algoritmos",
+          "role": "6 créditos · correlativas: Algoritmos y Estructuras de Datos, Introducción al Desarrollo de Software",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.sistemas-operativos",
+          "name": "Sistemas Operativos",
+          "role": "6 créditos · correlativa: Organización del Computador",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.paradigmas-programacion",
+          "name": "Paradigmas de Programación",
+          "role": "6 créditos · correlativas: Algoritmos y Estructuras de Datos, Introducción al Desarrollo de Software",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sexto cuatrimestre",
+      "title": "Datos, numérico y taller",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.base-de-datos",
+          "name": "Base de Datos",
+          "role": "6 créditos · correlativas: Organización del Computador, Paradigmas de Programación",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · correlativas: Análisis Matemático II, Álgebra Lineal, Algoritmos y Estructuras de Datos",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.taller-programacion",
+          "name": "Taller de Programación",
+          "role": "8 créditos · correlativas: Organización del Computador, Paradigmas de Programación",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.ingenieria-software-1",
+          "name": "Ingeniería de Software I",
+          "role": "8 créditos · correlativa: Paradigmas de Programación",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Séptimo cuatrimestre",
+      "title": "Ciencia de datos, concurrencia y redes",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.ciencia-de-datos",
+          "name": "Ciencia de Datos",
+          "role": "6 créditos · correlativas: Probabilidad y Estadística, Base de Datos, Modelación Numérica, Teoría de Algoritmos",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.gestion-desarrollo-sistemas",
+          "name": "Gestión del Desarrollo de Sistemas Informáticos",
+          "role": "6 créditos · correlativa: Ingeniería de Software I",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.programacion-concurrente",
+          "name": "Programación Concurrente",
+          "role": "6 créditos · correlativas: Sistemas Operativos, Taller de Programación",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.redes",
+          "name": "Redes",
+          "role": "6 créditos · correlativa: Sistemas Operativos",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Octavo cuatrimestre",
+      "title": "Física, empresa y distribuido",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.fisica-informatica",
+          "name": "Física para Informática",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.empresas-base-tecnologica-1",
+          "name": "Empresas de Base Tecnológica I",
+          "role": "6 créditos · correlativa: 120 créditos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.ingenieria-software-2",
+          "name": "Ingeniería de Software II",
+          "role": "8 créditos · correlativas: Base de Datos, Ingeniería de Software I, Taller de Programación",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.sistemas-distribuidos-1",
+          "name": "Sistemas Distribuidos I",
+          "role": "6 créditos · correlativas: Programación Concurrente, Redes",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Noveno y décimo cuatrimestre",
+      "title": "Seguridad, empresa II y trabajo final",
+      "note": "En estos dos cuatrimestres se cursan además 24 créditos de electivas/optativas de libre elección.",
+      "exits": [
+        {
+          "address": "uba.fi.informatica.taller-seguridad-informatica",
+          "name": "Taller de Seguridad Informática",
+          "role": "8 créditos · correlativa: Redes",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.empresas-base-tecnologica-2",
+          "name": "Empresas de Base Tecnológica II",
+          "role": "6 créditos · correlativa: Empresas de Base Tecnológica I",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.informatica.trabajo-final",
+          "name": "Trabajo Profesional o Tesis de Ingeniería Informática",
+          "role": "12 créditos en dos cuatrimestres · correlativa: 140 créditos",
+          "tag": "9º–10º cuat.",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar · RESCD 2023-526 (Plan 2023, aprobación)",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700.pdf"
+  }
+}

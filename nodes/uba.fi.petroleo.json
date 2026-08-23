@@ -1,0 +1,493 @@
+{
+  "address": "uba.fi.petroleo",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2023,
+    "resolucion": "Res. CD 726/2023",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "materiasObligatorias": 34,
+    "electivasListadas": 17,
+    "creditosTotales": 241,
+    "horasTotales": 3856,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.petroleo",
+      "label": "Ingeniería en Petróleo"
+    }
+  ],
+  "eyebrow": "Ingeniería en Petróleo · Plan 2023",
+  "title": "Nueve cuatrimestres, de la roca al pozo y a la superficie.",
+  "lede": "El plan real (2023, Res. CD 726/2023) de la Facultad de Ingeniería: tras el CBC, nueve cuatrimestres que van de matemática, física y geología a reservorios, perforación, producción e instalaciones de superficie, y cierran con un Trabajo Integrador Final en dos partes. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "34",
+      "small": "obligatorias + 17 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 34"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Res. CD 726/2023, anexo publicado en fi.uba.ar). Nivel L1: los nombres, cuatrimestres, créditos y correlativas son reales; la distribución por cuatrimestre es la que el plan propone como cursado regular. Los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción. 241 créditos en total: 38 del CBC, 177 de obligatorias, 14 de electivas y 12 del Trabajo Integrador Final.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Matemática, partículas y la primera mirada al petróleo",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.intro-ingenieria-petroleo",
+          "name": "Introducción a la Ingeniería en Petróleo",
+          "role": "6 créditos · Proyecto Inicial · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Álgebra, geología y química",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.geologia-general",
+          "name": "Geología General",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.quimica-basica",
+          "name": "Química Básica",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Campos, fluidos y probabilidad",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.fluidodinamica-hidrocarburos",
+          "name": "Fluidodinámica de los Hidrocarburos",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.quimica-hidrocarburos",
+          "name": "Química de los Hidrocarburos",
+          "role": "6 créditos · correlativa: Química Básica",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Datos, economía, geofísica y termodinámica",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · correlativa: Álgebra Lineal",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.economia-organizacion",
+          "name": "Economía y Organización",
+          "role": "6 créditos · correlativa: Introducción a la Ingeniería en Petróleo",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.geofisica",
+          "name": "Geofísica",
+          "role": "4 créditos · correlativas: Física de los Sistemas de Partículas, Introducción a la Ingeniería en Petróleo, Geología General",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.termodinamica-hidrocarburos",
+          "name": "Termodinámica de los Hidrocarburos",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas, Química Básica",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Máquinas, estructuras y la geología del reservorio",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.electrotecnia-maquinas-instalaciones",
+          "name": "Electrotecnia, Máquinas e Instalaciones Eléctricas",
+          "role": "6 créditos · correlativa: Electricidad y Magnetismo",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.estatica-resistencia-materiales",
+          "name": "Estática y Resistencia de Materiales",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.geologia-hidrocarburos",
+          "name": "Geología de los Hidrocarburos",
+          "role": "6 créditos · correlativas: Física de los Sistemas de Partículas, Introducción a la Ingeniería en Petróleo, Geología General",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.propiedades-roca-fluidos",
+          "name": "Propiedades de la Roca y los Fluidos de Reservorios",
+          "role": "6 créditos · correlativas: Termodinámica de los Hidrocarburos, Geología General",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Reservorios, perforación y sustentabilidad",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.ingenieria-reservorios",
+          "name": "Ingeniería de Reservorios",
+          "role": "8 créditos · correlativas: Modelación Numérica, Geología de los Hidrocarburos, Propiedades de la Roca y los Fluidos de Reservorios",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.perforacion-intervencion-pozos-1",
+          "name": "Perforación e Intervención de Pozos I",
+          "role": "4 créditos · correlativas: Introducción a la Ingeniería en Petróleo, Geología General, Fluidodinámica de los Hidrocarburos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.procesamiento-hidrocarburos-yacimiento",
+          "name": "Procesamiento de Hidrocarburos en Yacimiento",
+          "role": "6 créditos · correlativas: Química de los Hidrocarburos, Termodinámica de los Hidrocarburos, Fluidodinámica de los Hidrocarburos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.sustentabilidad-proyectos-hidrocarburos",
+          "name": "Sustentabilidad de Proyectos de Hidrocarburos",
+          "role": "8 créditos · Proyecto Intermedio · correlativas: Economía y Organización, 130 créditos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Pozos, producción y superficie",
+      "note": "Más 4 créditos de electivas a elección.",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.interpretacion-registro-pozos",
+          "name": "Interpretación de Registro de Pozos",
+          "role": "4 créditos · correlativas: Geología de los Hidrocarburos, Geofísica, Propiedades de la Roca y los Fluidos de Reservorios, Perforación e Intervención de Pozos I",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.perforacion-intervencion-pozos-2",
+          "name": "Perforación e Intervención de Pozos II",
+          "role": "4 créditos · correlativas: Perforación e Intervención de Pozos I, Estática y Resistencia de Materiales",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.produccion-hidrocarburos",
+          "name": "Producción de Hidrocarburos",
+          "role": "4 créditos · correlativas: Electrotecnia, Máquinas e Instalaciones Eléctricas, Propiedades de la Roca y los Fluidos de Reservorios, Perforación e Intervención de Pozos I",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.proyecto-instalaciones-superficie",
+          "name": "Proyecto de Instalaciones de Superficie",
+          "role": "8 créditos · correlativas: Electrotecnia, Máquinas e Instalaciones Eléctricas, Estática y Resistencia de Materiales, Procesamiento de Hidrocarburos en Yacimiento",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Estimulación, no convencionales y recuperación",
+      "note": "Más 6 créditos de electivas a elección.",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.estimulacion-formaciones",
+          "name": "Estimulación de Formaciones",
+          "role": "4 créditos · correlativa: Perforación e Intervención de Pozos II",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.reservorios-no-convencionales",
+          "name": "Ingeniería de Reservorios No Convencionales",
+          "role": "4 créditos · correlativa: Ingeniería de Reservorios",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.recuperacion-secundaria-asistida",
+          "name": "Recuperación Secundaria y Asistida de Petróleo",
+          "role": "4 créditos · correlativas: Ingeniería de Reservorios, Química de los Hidrocarburos",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.tif-1",
+          "name": "Trabajo Integrador Final de Ingeniería en Petróleo I",
+          "role": "4 créditos · Trabajo Profesional o Tesis · correlativas: Ingeniería de Reservorios, Probabilidad y Estadística, Producción de Hidrocarburos, Sustentabilidad de Proyectos de Hidrocarburos, Proyecto de Instalaciones de Superficie",
+          "tag": "10º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Industrialización, transporte y cierre",
+      "note": "Más 4 créditos de electivas a elección.",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.industrializacion-hidrocarburos",
+          "name": "Industrialización de los Hidrocarburos",
+          "role": "4 créditos · correlativas: Química de los Hidrocarburos, Termodinámica de los Hidrocarburos",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.transporte-distribucion-hidrocarburos",
+          "name": "Transporte y Distribución de Hidrocarburos",
+          "role": "4 créditos · correlativas: Estática y Resistencia de Materiales, Fluidodinámica de los Hidrocarburos, Termodinámica de los Hidrocarburos",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.tif-2",
+          "name": "Trabajo Integrador Final de Ingeniería en Petróleo II",
+          "role": "8 créditos · Trabajo Profesional o Tesis · correlativa: Trabajo Integrador Final de Ingeniería en Petróleo I",
+          "tag": "11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 14 créditos",
+      "title": "Las electivas que el plan nombra",
+      "note": "Oferta electiva del segundo ciclo según el plan; el estudiante compone 14 créditos entre ellas, optativas y actividades afines.",
+      "exits": [
+        {
+          "address": "uba.fi.petroleo.modelado-reservorios",
+          "name": "Modelado de Reservorios",
+          "role": "4 créditos · correlativa: Ingeniería de Reservorios",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.metodos-eor",
+          "name": "Métodos EOR para Recuperación de Petróleo",
+          "role": "4 créditos · correlativa: Ingeniería de Reservorios",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.exploracion-produccion-offshore",
+          "name": "Exploración y Producción Offshore",
+          "role": "4 créditos · correlativas: Ingeniería de Reservorios, Producción de Hidrocarburos, Sustentabilidad de Proyectos de Hidrocarburos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.intro-transicion-energetica",
+          "name": "Introducción a la Transición Energética",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.energias-renovables",
+          "name": "Energías Renovables",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.uso-eficiente-energia",
+          "name": "Uso Eficiente de la Energía",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.fuentes-convencionales-transicion",
+          "name": "Fuentes Convencionales en la Transición Energética",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.tecnologias-emergentes-transicion",
+          "name": "Tecnologías Emergentes en la Transición Energética",
+          "role": "4 créditos · correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.gerenciamiento-calidad",
+          "name": "Gerenciamiento de la Calidad",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.capital-humano",
+          "name": "Capital Humano y Comportamiento Organizacional",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.comercializacion-productos-servicios",
+          "name": "Comercialización de Productos y Servicios",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.emprendimientos-ingenieria",
+          "name": "Emprendimientos en Ingeniería",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.intro-inteligencia-artificial",
+          "name": "Introducción a la Inteligencia Artificial",
+          "role": "3 créditos · correlativas: Probabilidad y Estadística, Introducción a la Ciencia de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.analisis-datos",
+          "name": "Análisis de Datos",
+          "role": "3 créditos · correlativas: Probabilidad y Estadística, Introducción a la Ciencia de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.aprendizaje-maquina",
+          "name": "Aprendizaje de Máquina",
+          "role": "3 créditos · correlativas: Introducción a la Inteligencia Artificial, Análisis de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.aprendizaje-maquina-profundo",
+          "name": "Aprendizaje de Máquina Profundo",
+          "role": "3 créditos · correlativas: Introducción a la Inteligencia Artificial, Análisis de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.petroleo.ia-exploracion-produccion",
+          "name": "Inteligencia Artificial en la Exploración y Producción de Hidrocarburos",
+          "role": "3 créditos · correlativas: Introducción a la Inteligencia Artificial, Análisis de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar · Plan 2023 (Res. CD 726/2023, anexo PDF)",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_726_Petroleo_Plan_2023_Aprobacion_5663903ff7_adb28bbff0.pdf"
+  }
+}

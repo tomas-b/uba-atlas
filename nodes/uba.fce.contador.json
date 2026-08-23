@@ -1,0 +1,274 @@
+{
+  "address": "uba.fce.contador",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente · economicas.uba.ar/alumnos/contador",
+    "duracion": "5 años y medio promedio",
+    "cargaHoraria": 2808,
+    "materias": 26,
+    "materiasPropias": "2º tramo del Ciclo General (6) + Ciclo Profesional (18) + Talleres (2)",
+    "primerTramo": "cursado en el CBC (6 materias · vive en uba.cbc)",
+    "electivas": "una Electiva u Optativa obligatoria (Res. CS 2210/03) · no listadas como hijos",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    },
+    {
+      "address": "uba.fce.contador",
+      "label": "Contador Público"
+    }
+  ],
+  "eyebrow": "Contador Público · Facultad de Ciencias Económicas",
+  "title": "Del tronco común al balance, el impuesto y la firma.",
+  "lede": "El plan oficial de Contador Público: 2.808 horas en cinco años y medio promedio. Un ciclo general compartido con toda la facultad (el primer tramo se cursa en el CBC), un ciclo profesional de dieciocho materias con código y correlativa, y dos talleres de práctica que cierran el título. Cada materia es una puerta — clic para trazar su programa.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "2.808 h"
+    },
+    {
+      "k": "Materias",
+      "v": "26",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 26"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en economicas.uba.ar/alumnos/contador: códigos, carga horaria y correlatividades son reales. El primer tramo del Ciclo General (241–246) se cursa en el CBC y vive en su propio árbol, no acá. La Electiva u Optativa obligatoria (Res. CS 2210/03) se elige de una lista cambiante y no se dibuja como hijo. Nivel L1: nombres y estructura; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo General · 2º tramo",
+      "title": "El tronco compartido de la facultad",
+      "note": "Requisito: todas las materias del primer tramo (CBC).",
+      "exits": [
+        {
+          "address": "uba.fce.contador.teoria-contable",
+          "name": "Teoría Contable",
+          "role": "cód. 247 · 108 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.estadistica-1",
+          "name": "Estadística I",
+          "role": "cód. 248 · 108 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.historia-economica-argentina",
+          "name": "Historia Económica y Social Argentina",
+          "role": "cód. 249 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.microeconomia-1",
+          "name": "Microeconomía I",
+          "role": "cód. 250 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.derecho-publico",
+          "name": "Instituciones de Derecho Público",
+          "role": "cód. 251 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.administracion-general",
+          "name": "Administración General",
+          "role": "cód. 252 · 72 h",
+          "tag": "ciclo general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Profesional · derecho, sistemas y finanzas",
+      "title": "El marco legal, administrativo y financiero",
+      "exits": [
+        {
+          "address": "uba.fce.contador.derecho-economico",
+          "name": "Derecho Económico",
+          "role": "cód. 1359 · 72 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.derecho-privado",
+          "name": "Instituciones de Derecho Privado",
+          "role": "cód. 273 · 72 h · req. 1359",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.sistemas-administrativos",
+          "name": "Sistemas Administrativos",
+          "role": "cód. 274 · 72 h · req. 252",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.tecnologia-informacion",
+          "name": "Tecnología de la Información",
+          "role": "cód. 275 · 108 h · req. 274",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.calculo-financiero",
+          "name": "Cálculo Financiero",
+          "role": "cód. 276 · 72 h · req. 248",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.macroeconomia",
+          "name": "Macroeconomía y Política Económica",
+          "role": "cód. 278 · 108 h",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.administracion-financiera",
+          "name": "Administración Financiera",
+          "role": "cód. 279 · 108 h · req. 276",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.derecho-trabajo",
+          "name": "Derecho del Trabajo y la Seguridad Social",
+          "role": "cód. 354 · 72 h · req. 251, 1359",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.derecho-crediticio",
+          "name": "Derecho Crediticio, Bursátil e Insolvencia",
+          "role": "cód. 1360 · 72 h · req. 273, 354",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Profesional · contabilidad, costos, impuestos y auditoría",
+      "title": "El oficio contable propiamente dicho",
+      "exits": [
+        {
+          "address": "uba.fce.contador.sistemas-contables",
+          "name": "Sistemas Contables",
+          "role": "cód. 351 · 108 h · req. 247",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.sistemas-costos",
+          "name": "Sistemas de Costos",
+          "role": "cód. 353 · 72 h · req. 247",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.contabilidad-financiera",
+          "name": "Contabilidad Financiera",
+          "role": "cód. 1352 · 108 h · req. 351, 353",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.gestion-costos",
+          "name": "Gestión y Costos para Contadores",
+          "role": "cód. 362 · 108 h · req. 353",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.contabilidad-social-ambiental",
+          "name": "Contabilidad Social y Ambiental",
+          "role": "cód. 1330 · 36 h · req. 1352",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.contabilidad-gubernamental",
+          "name": "Contabilidad Gubernamental y Control de Gestión",
+          "role": "cód. 1374 · 72 h · req. 278, 1352",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.impositiva-1",
+          "name": "Teoría y Técnica Impositiva I",
+          "role": "cód. 356 · 108 h · req. 251, 1352",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.impositiva-2",
+          "name": "Teoría y Técnica Impositiva II",
+          "role": "cód. 357 · 108 h · req. 356",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.auditoria",
+          "name": "Auditoría",
+          "role": "cód. 355 · 108 h · req. 362, 1352",
+          "tag": "ciclo profesional",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Talleres de Práctica Profesional",
+      "title": "La firma: práctica judicial y en organizaciones",
+      "note": "Ambos talleres son obligatorios para cerrar el plan, junto con una Electiva u Optativa.",
+      "exits": [
+        {
+          "address": "uba.fce.contador.taller-judicial",
+          "name": "Taller de Actuación Profesional Judicial",
+          "role": "cód. 1358 · 72 h · req. 355, 1360",
+          "tag": "taller",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.contador.taller-organizaciones",
+          "name": "Taller de Práctica Profesional en Organizaciones",
+          "role": "cód. 1361 · 108 h · req. 273, 279, 355, 1330",
+          "tag": "taller",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos/contador · Plan de Estudios",
+    "url": "https://economicas.uba.ar/alumnos/contador/"
+  }
+}

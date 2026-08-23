@@ -1,0 +1,335 @@
+{
+  "address": "uba.fi.bioingenieria",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2024 (Plan 2020 · ACS-2024-372)",
+    "cuatrimestres": 11,
+    "duracionTeorica": "5 años y un cuatrimestre",
+    "horasTotales": 4000,
+    "creditosTotales": 250,
+    "materias": 34,
+    "electivasCreditos": 16,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.bioingenieria",
+      "label": "Bioingeniería"
+    }
+  ],
+  "eyebrow": "Bioingeniería · Plan 2024",
+  "title": "Once cuatrimestres, de la física al hospital.",
+  "lede": "El plan oficial (publicación 2024, marco Plan 2020) de Bioingeniería en la Facultad de Ingeniería: nueve cuatrimestres propios después del CBC, que van de matemática, química y circuitos a fisiología, señales biomédicas, imágenes, prótesis e ingeniería clínica. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2024",
+      "small": "Plan 2020"
+    },
+    {
+      "k": "Materias",
+      "v": "34",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 34"
+    }
+  ],
+  "frame": "Estructura sourceada del plan de estudios oficial publicado por FIUBA (PDF ACS-2024-372, 'Publicación 2024 | Plan 2020 y resoluciones'). Nivel L1: los nombres de materias, cuatrimestres y correlativas son reales; el plan no asigna códigos a las asignaturas del segundo ciclo. El orden por cuatrimestre es la distribución sugerida por el plan (flexibilidad curricular). La tesis o trabajo profesional se cursa en dos tramos (10º y 11º); las electivas suman 16 créditos y no se listan como puertas. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 3º y 4º cuatrimestre",
+      "title": "Base científica y primera bioingeniería",
+      "exits": [
+        {
+          "address": "uba.fi.bioingenieria.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "3º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.quimica-basica",
+          "name": "Química Básica",
+          "role": "3º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.intro-bioingenieria",
+          "name": "Introducción a la Bioingeniería",
+          "role": "3º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.anatomia-histologia-funcional",
+          "name": "Anatomía e Histología Funcional",
+          "role": "3º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "4º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.algoritmos-programacion",
+          "name": "Algoritmos y Programación",
+          "role": "4º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.planificacion-proyectos",
+          "name": "Planificación de Proyectos",
+          "role": "4º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "4º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 5º y 6º cuatrimestre",
+      "title": "Señales, electricidad y células",
+      "exits": [
+        {
+          "address": "uba.fi.bioingenieria.quimica-compuestos-organicos",
+          "name": "Química de los Compuestos Orgánicos",
+          "role": "5º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "5º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.senales-sistemas",
+          "name": "Señales y Sistemas",
+          "role": "5º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.electricidad-magnetismo-calor",
+          "name": "Electricidad, Magnetismo y Calor",
+          "role": "5º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.sistemas-moleculares-celulares-tisulares",
+          "name": "Sistemas Moleculares, Celulares y Tisulares",
+          "role": "6º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.fisica-solidos-nuclear",
+          "name": "Física de Sólidos y Nuclear",
+          "role": "6º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.control-automatico",
+          "name": "Control Automático",
+          "role": "6º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.analisis-circuitos",
+          "name": "Análisis de Circuitos",
+          "role": "6º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 7º y 8º cuatrimestre",
+      "title": "Fisiología, electrónica y procesamiento",
+      "exits": [
+        {
+          "address": "uba.fi.bioingenieria.procesos-estocasticos",
+          "name": "Procesos Estocásticos",
+          "role": "7º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.intro-dispositivos-electronicos",
+          "name": "Introducción a los Dispositivos Electrónicos",
+          "role": "7º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.sistemas-fisiologicos-modelos",
+          "name": "Sistemas Fisiológicos y sus Modelos",
+          "role": "7º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.intro-mecanica-continuo",
+          "name": "Introducción a la Mecánica del Continuo",
+          "role": "7º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.taller-procesamiento-senales",
+          "name": "Taller de Procesamiento de Señales",
+          "role": "8º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.circuitos-microelectronicos",
+          "name": "Circuitos Microelectrónicos",
+          "role": "8º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.intro-sistemas-embebidos",
+          "name": "Introducción a los Sistemas Embebidos",
+          "role": "8º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.gestion-proyectos",
+          "name": "Gestión de Proyectos",
+          "role": "8º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "8º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 9º y 10º cuatrimestre",
+      "title": "Instrumentación, imágenes y prótesis",
+      "exits": [
+        {
+          "address": "uba.fi.bioingenieria.intro-biomecanica",
+          "name": "Introducción a la Biomecánica",
+          "role": "9º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.instrumentacion-equipamiento",
+          "name": "Instrumentación y Equipamiento para Diagnóstico y Tratamiento",
+          "role": "9º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.intro-biomateriales",
+          "name": "Introducción a los Biomateriales",
+          "role": "9º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.analisis-procesamiento-senales-bioingenieria",
+          "name": "Análisis y Procesamiento de Señales en Bioingeniería",
+          "role": "9º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.higiene-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "9º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.imagenes-bioingenieria",
+          "name": "Imágenes en Bioingeniería",
+          "role": "10º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.tecnologia-asistencia-protesis",
+          "name": "Tecnología de Asistencia y Prótesis",
+          "role": "10º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.bioingenieria.tesis-trabajo-profesional",
+          "name": "Tesis de Bioingeniería o Trabajo Profesional de Bioingeniería",
+          "role": "10º y 11º cuat.",
+          "tag": "año 5–6",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 6 · 11º cuatrimestre",
+      "title": "Ingeniería clínica y cierre",
+      "exits": [
+        {
+          "address": "uba.fi.bioingenieria.ingenieria-clinica-hospitalaria",
+          "name": "Ingeniería Clínica y Hospitalaria",
+          "role": "11º cuat.",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado/carreras/bioingenieria/plan-de-estudios · Plan de Estudios Bioingeniería (PDF, publicación 2024)",
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_estudios_Bioingenieria_1a33eedbd4.pdf"
+  }
+}

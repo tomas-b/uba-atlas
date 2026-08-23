@@ -1,0 +1,620 @@
+{
+  "address": "uba.fi.electronica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2023 (Actualización 2023 del Plan 2020, Res. CD 727/2023)",
+    "cuatrimestres": 10,
+    "cuatrimestresSegundoCiclo": 8,
+    "horasTotales": 3648,
+    "horasSegundoCiclo": 3040,
+    "creditos": 228,
+    "creditosSegundoCiclo": 190,
+    "materiasObligatorias": 29,
+    "materiasElectivasNombradas": 41,
+    "creditosElectivos": 24,
+    "correlativas": true,
+    "titulo": "Ingeniero/a Electrónico/a"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.electronica",
+      "label": "Ingeniería Electrónica"
+    }
+  ],
+  "eyebrow": "Ingeniería Electrónica · Plan 2023",
+  "title": "Ocho cuatrimestres, del circuito al trabajo integrador.",
+  "lede": "El plan vigente (2023) de la Facultad de Ingeniería: 3648 horas en diez cuatrimestres, dos de CBC y ocho propios. Ciencias básicas primero, después señales, circuitos y control, cuatro talleres en el medio y un trabajo integrador final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023",
+      "small": "Res. CD 727/23"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "obligatorias + 41 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 70"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Res. CD 727/2023, \"Actualización 2023 | Plan 2020\", PDF publicado en fi.uba.ar/grado/carreras/ingenieria-electronica/plan-de-estudios). Nivel L1: nombres, cuatrimestres, créditos, horas y correlativas son los del plan; los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan 2023 no publica códigos numéricos por asignatura en su tabla; los códigos 8x.xx corresponden al Plan 2009 y no se copian. El Trabajo Integrador Final se cursa en 9º y 10º cuatrimestre (4 + 8 créditos) y figura una sola vez.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Ciencias básicas y el primer circuito",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.analisis-matematico-ii",
+          "name": "Análisis Matemático II",
+          "role": "8 créd. · 128 h · correl. CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.fisica-de-los-sistemas-de-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créd. · 96 h · correl. CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.introduccion-a-la-ingenieria-electronica",
+          "name": "Introducción a la Ingeniería Electrónica",
+          "role": "6 créd. · 96 h · correl. CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.algoritmos-y-programacion",
+          "name": "Algoritmos y Programación",
+          "role": "6 créd. · 96 h · correl. CBC",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Álgebra, campos y dispositivos",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créd. · 128 h · correl. CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.electricidad-magnetismo-y-calor",
+          "name": "Electricidad, Magnetismo y Calor",
+          "role": "6 créd. · 96 h · correl. Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.introduccion-a-los-dispositivos-electronicos",
+          "name": "Introducción a los Dispositivos Electrónicos",
+          "role": "4 créd. · 64 h · correl. Introducción a la Ingeniería Electrónica",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.sistemas-digitales",
+          "name": "Sistemas Digitales",
+          "role": "6 créd. · 96 h · correl. Introducción a la Ingeniería Electrónica",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Señales, circuitos y redes",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.probabilidad-y-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créd. · 96 h · correl. Análisis Matemático II, Álgebra Lineal",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.senales-y-sistemas",
+          "name": "Señales y Sistemas",
+          "role": "6 créd. · 96 h · correl. Análisis Matemático II, Álgebra Lineal",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.analisis-de-circuitos",
+          "name": "Análisis de Circuitos",
+          "role": "6 créd. · 96 h · correl. Introducción a la Ingeniería Electrónica, Electricidad, Magnetismo y Calor",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.redes-de-comunicaciones",
+          "name": "Redes de Comunicaciones",
+          "role": "6 créd. · 96 h · correl. CBC",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Microelectrónica, control y embebidos",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.planificacion-de-proyectos",
+          "name": "Planificación de Proyectos",
+          "role": "2 créd. · 32 h · correl. Introducción a la Ingeniería Electrónica",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.circuitos-microelectronicos",
+          "name": "Circuitos Microelectrónicos",
+          "role": "6 créd. · 96 h · correl. Introducción a los Dispositivos Electrónicos, Análisis de Circuitos",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.procesos-estocasticos",
+          "name": "Procesos Estocásticos",
+          "role": "6 créd. · 96 h · correl. Probabilidad y Estadística, Señales y Sistemas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.control-automatico",
+          "name": "Control Automático",
+          "role": "6 créd. · 96 h · correl. Electricidad, Magnetismo y Calor, Señales y Sistemas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-sistemas-embebidos",
+          "name": "Taller de Sistemas Embebidos",
+          "role": "6 créd. · 96 h · correl. Algoritmos y Programación, Introducción a los Dispositivos Electrónicos, Sistemas Digitales",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Los talleres",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.quimica-y-electroquimica",
+          "name": "Química y Electroquímica",
+          "role": "6 créd. · 96 h · correl. Electricidad, Magnetismo y Calor",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.electromagnetismo-aplicado",
+          "name": "Electromagnetismo Aplicado",
+          "role": "4 créd. · 64 h · correl. Análisis de Circuitos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-automatizacion-y-control",
+          "name": "Taller de Automatización y Control",
+          "role": "6 créd. · 96 h · correl. Algoritmos y Programación, Control Automático, Sistemas Digitales",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-procesamiento-de-senales",
+          "name": "Taller de Procesamiento de Señales",
+          "role": "6 créd. · 96 h · correl. Procesos Estocásticos",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Semiconductores, comunicaciones y diseño",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.dispositivos-semiconductores",
+          "name": "Dispositivos Semiconductores",
+          "role": "6 créd. · 96 h · correl. Introducción a los Dispositivos Electrónicos, Análisis de Circuitos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-comunicaciones-digitales",
+          "name": "Taller de Comunicaciones Digitales",
+          "role": "6 créd. · 96 h · correl. Señales y Sistemas, Redes de Comunicaciones",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-diseno-de-circuitos-electronicos",
+          "name": "Taller de Diseño de Circuitos Electrónicos",
+          "role": "6 créd. · 96 h · correl. Circuitos Microelectrónicos, Electromagnetismo Aplicado",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.higiene-y-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "2 créd. · 32 h · correl. 100 créditos",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Gestión y trabajo integrador",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.legislacion-y-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créd. · 32 h · correl. 100 créditos",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.gestion-de-proyectos-electronicos",
+          "name": "Gestión de Proyectos Electrónicos",
+          "role": "6 créd. · 96 h · correl. Planificación de Proyectos",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final de Ingeniería Electrónica",
+          "role": "12 créd. · 192 h (9º + 10º) · trabajo profesional / tesis de grado · correl. Planificación de Proyectos, 3 talleres",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Impacto y cierre",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.impacto-social-ambiental-y-desarrollo-sustentable",
+          "name": "Impacto Social, Ambiental y Desarrollo Sustentable",
+          "role": "4 créd. · 64 h · correl. 100 créditos",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas del plan · 41",
+      "title": "Las salas laterales",
+      "note": "Oferta electiva propia del plan: 24 créditos a elegir entre 8º y 10º cuatrimestre (4 + 12 + 8), con correlativas que cuelgan de los talleres. Se listan solo las asignaturas nombradas en el plan; los cupos genéricos de \"Electivas\" no son nodos.",
+      "exits": [
+        {
+          "address": "uba.fi.electronica.comunicaciones-inalambricas",
+          "name": "Comunicaciones Inalámbricas",
+          "role": "4 créd. · correl. Electromagnetismo Aplicado, Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.instrumentos-electronicos-y-metrologia",
+          "name": "Instrumentos Electrónicos y Metrología",
+          "role": "4 créd. · correl. Taller de Diseño de Circuitos Electrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.electronica-de-alta-frecuencia",
+          "name": "Electrónica de Alta Frecuencia",
+          "role": "4 créd. · correl. Taller de Diseño de Circuitos Electrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.internet-de-las-cosas",
+          "name": "Internet de las Cosas",
+          "role": "4 créd. · correl. Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.infraestructura-de-redes",
+          "name": "Infraestructura de Redes",
+          "role": "4 créd. · correl. Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.propagacion-y-sistemas-irradiantes",
+          "name": "Propagación y Sistemas Irradiantes",
+          "role": "4 créd. · correl. Electromagnetismo Aplicado",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.compatibilidad-electromagnetica",
+          "name": "Compatibilidad Electromagnética",
+          "role": "4 créd. · correl. Taller de Diseño de Circuitos Electrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.laboratorio-de-comunicaciones",
+          "name": "Laboratorio de Comunicaciones",
+          "role": "4 créd. · correl. Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.redes-neuronales-y-aprendizaje-profundo",
+          "name": "Redes Neuronales y Aprendizaje Profundo",
+          "role": "4 créd. · correl. Taller de Procesamiento de Señales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.aprendizaje-por-refuerzo",
+          "name": "Aprendizaje por Refuerzo",
+          "role": "6 créd. · correl. Taller de Procesamiento de Señales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.vision-por-computadora",
+          "name": "Visión por Computadora",
+          "role": "4 créd. · correl. Taller de Procesamiento de Señales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.procesamiento-del-habla",
+          "name": "Procesamiento del Habla",
+          "role": "4 créd. · correl. Taller de Procesamiento de Señales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.optimizacion-convexa",
+          "name": "Optimización Convexa",
+          "role": "6 créd. · correl. Procesos Estocásticos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.procesamiento-estadistico-de-senales",
+          "name": "Procesamiento Estadístico de Señales",
+          "role": "4 créd. · correl. Procesos Estocásticos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.taller-de-sistemas-digitales",
+          "name": "Taller de Sistemas Digitales",
+          "role": "6 créd. · correl. Sistemas Digitales, Señales y Sistemas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.diseno-y-verificacion-digital",
+          "name": "Diseño y Verificación Digital",
+          "role": "6 créd. · correl. Taller de Sistemas Embebidos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.sistemas-operativos",
+          "name": "Sistemas Operativos",
+          "role": "6 créd. · correl. Taller de Sistemas Embebidos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.algoritmos-y-estructuras-de-datos",
+          "name": "Algoritmos y Estructuras de Datos",
+          "role": "6 créd. · correl. Algoritmos y Programación",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.sistemas-operativos-embebidos",
+          "name": "Sistemas Operativos Embebidos",
+          "role": "4 créd. · correl. Taller de Sistemas Embebidos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.instrumentacion-y-control-de-procesos-industriales",
+          "name": "Instrumentación y Control de Procesos Industriales",
+          "role": "4 créd. · correl. Taller de Automatización y Control",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.control-automatico-avanzado",
+          "name": "Control Automático Avanzado",
+          "role": "4 créd. · correl. Taller de Automatización y Control",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.control-automatico-multivariable",
+          "name": "Control Automático Multivariable",
+          "role": "4 créd. · correl. Taller de Automatización y Control",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.identificacion-y-control-adaptativo",
+          "name": "Identificación y Control Adaptativo",
+          "role": "4 créd. · correl. Taller de Automatización y Control",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.electronica-de-potencia",
+          "name": "Electrónica de Potencia",
+          "role": "4 créd. · correl. Circuitos Microelectrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.accionamientos-variables",
+          "name": "Accionamientos Variables",
+          "role": "6 créd. · correl. Circuitos Microelectrónicos, Control Automático",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.robotica-movil",
+          "name": "Robótica Móvil",
+          "role": "4 créd. · correl. Procesos Estocásticos, Algoritmos y Programación",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.robotica-industrial",
+          "name": "Robótica Industrial",
+          "role": "6 créd. · correl. Taller de Automatización y Control",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.microelectronica",
+          "name": "Microelectrónica",
+          "role": "4 créd. · correl. Circuitos Microelectrónicos, Dispositivos Semiconductores",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.laboratorio-de-microelectronica",
+          "name": "Laboratorio de Microelectrónica",
+          "role": "4 créd. · correl. Microelectrónica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.comunicacion-y-computacion-cuantica",
+          "name": "Comunicación y Computación Cuántica",
+          "role": "4 créd. · correl. Taller de Sistemas Embebidos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.dispositivos-optoelectronicos-avanzados",
+          "name": "Dispositivos Optoelectrónicos Avanzados",
+          "role": "4 créd. · correl. Dispositivos Semiconductores",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.optoelectronica",
+          "name": "Optoelectrónica",
+          "role": "4 créd. · correl. Dispositivos Semiconductores",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.introduccion-a-la-ingenieria-acustica",
+          "name": "Introducción a la Ingeniería Acústica",
+          "role": "4 créd. · correl. Señales y Sistemas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.acustica-de-recintos",
+          "name": "Acústica de Recintos",
+          "role": "4 créd. · correl. Señales y Sistemas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.electroacustica",
+          "name": "Electroacústica",
+          "role": "4 créd. · correl. Circuitos Microelectrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.audio-profesional",
+          "name": "Audio Profesional",
+          "role": "4 créd. · correl. Taller de Diseño de Circuitos Electrónicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.ciberseguridad-de-redes-e-infraestructuras-criticas",
+          "name": "Ciberseguridad de Redes e Infraestructuras Críticas",
+          "role": "4 créd. · correl. Algoritmos y Programación, Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.sistemas-graficos",
+          "name": "Sistemas Gráficos",
+          "role": "4 créd. · correl. Algoritmos y Programación",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.introduccion-a-la-industria-los-sistemas-y-el-negocio-aeroespacial",
+          "name": "Introducción a la Industria, los Sistemas y el Negocio Aeroespacial",
+          "role": "6 créd. · correl. 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.tecnologia-de-materiales-para-la-industria-aeroespacial-b",
+          "name": "Tecnología de Materiales para la Industria Aeroespacial B",
+          "role": "4 créd. · correl. Electricidad, Magnetismo y Calor, Química y Electroquímica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.electronica.comunicaciones-aeroespaciales-b",
+          "name": "Comunicaciones Aeroespaciales B",
+          "role": "2 créd. · correl. Taller de Comunicaciones Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado/carreras/ingenieria-electronica/plan-de-estudios · Res. CD 727/2023 (PDF)",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_727_Electronica_2023_Aprobacion_b3db6da6d9.pdf"
+  }
+}

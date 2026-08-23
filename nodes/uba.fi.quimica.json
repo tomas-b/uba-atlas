@@ -1,0 +1,331 @@
+{
+  "address": "uba.fi.quimica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2023",
+    "resolucion": "Res. CD 880/2023",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "materias": 29,
+    "creditosTotales": 231,
+    "horasTotales": 3696,
+    "electivasCreditos": 14,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.quimica",
+      "label": "Ingeniería Química"
+    }
+  ],
+  "eyebrow": "Ingeniería Química · Plan 2023",
+  "title": "Nueve cuatrimestres, de la química general al diseño de procesos.",
+  "lede": "El plan real (2023, Res. CD 880/2023) de la Facultad de Ingeniería: un segundo ciclo de nueve cuatrimestres que va de matemática, física y química a fenómenos de transporte, operaciones unitarias, reactores, control y diseño de plantas, y cierra con un Trabajo Integrador Final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 29"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Plan 2023, Res. CD 880/2023, PDF en cms.fi.uba.ar). Nivel L1: nombres, cuatrimestres, créditos y correlativas son reales; el plan no asigna códigos de asignatura en sus cuadros, por eso no se listan. Las electivas (14 créditos, cuatrimestres 8, 10 y 11) son de libre elección y no se dibujan como salidas. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 3",
+      "title": "Entrada al segundo ciclo",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.quimica-general",
+          "name": "Química General",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.intro-ingenieria-quimica",
+          "name": "Introducción a Ingeniería Química",
+          "role": "4 créditos · correlativa: CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 4",
+      "title": "Álgebra, partículas y procesos",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · correlativa: CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.quimica-inorganica",
+          "name": "Química Inorgánica",
+          "role": "6 créditos · correlativa: Química General",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.fundamentos-procesos-quimicos",
+          "name": "Fundamentos de Procesos Químicos",
+          "role": "4 créditos · correlativas: Introducción a Ingeniería Química, Química General",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 5",
+      "title": "Electricidad, numérica y termodinámica",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · correlativas: Física de los Sistemas de Partículas, Análisis Matemático II",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.optica",
+          "name": "Óptica",
+          "role": "2 créditos · correlativa: CBC",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.termodinamica-procesos",
+          "name": "Termodinámica de los Procesos",
+          "role": "8 créditos · correlativas: Análisis Matemático II, Fundamentos de Procesos Químicos",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 6",
+      "title": "Orgánica, estadística y transporte",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "8 créditos · correlativa: Química Inorgánica",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · correlativas: Análisis Matemático II, Álgebra Lineal",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.fenomenos-transporte",
+          "name": "Fenómenos de Transporte",
+          "role": "8 créditos · correlativa: Termodinámica de los Procesos",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 7",
+      "title": "Operaciones unitarias y química física",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.ou-cantidad-movimiento-energia",
+          "name": "Operaciones Unitarias de Transferencia de Cantidad de Movimiento y Energía",
+          "role": "8 créditos · correlativas: Modelación Numérica, Fenómenos de Transporte",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.quimica-fisica",
+          "name": "Química Física",
+          "role": "6 créditos · correlativas: Termodinámica de los Procesos, Electricidad y Magnetismo",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · correlativa: Álgebra Lineal",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "4 créditos · correlativas: Óptica, Química Orgánica, Probabilidad y Estadística",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 8",
+      "title": "Laboratorio, materia y plantas",
+      "note": "Más 4 créditos de electivas de libre elección.",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.laboratorio-operaciones-procesos",
+          "name": "Laboratorio de Operaciones y Procesos",
+          "role": "4 créditos · correlativa: Operaciones Unitarias de Transferencia de Cantidad de Movimiento y Energía",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.ou-transferencia-materia",
+          "name": "Operaciones Unitarias de Transferencia de Materia",
+          "role": "8 créditos · correlativa: Fenómenos de Transporte",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.instalaciones-plantas-procesos",
+          "name": "Instalaciones de Plantas de Procesos",
+          "role": "6 créditos · correlativa: Operaciones Unitarias de Transferencia de Cantidad de Movimiento y Energía",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 9",
+      "title": "Reactores, control y proyectos",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.diseno-reactores",
+          "name": "Diseño de Reactores",
+          "role": "8 créditos · correlativas: Modelación Numérica, Química Física",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.dinamica-control-procesos",
+          "name": "Dinámica y Control de Procesos",
+          "role": "8 créditos · correlativas: OU de Cantidad de Movimiento y Energía, OU de Transferencia de Materia",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.evaluacion-proyectos-plantas",
+          "name": "Evaluación de Proyectos de Plantas Químicas",
+          "role": "6 créditos · correlativa: 120 créditos (incluye CBC)",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 10",
+      "title": "Bioprocesos, diseño y trabajo integrador",
+      "note": "Más 4 créditos de electivas de libre elección.",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.ingenieria-bioprocesos",
+          "name": "Ingeniería de Bioprocesos",
+          "role": "6 créditos · correlativas: Diseño de Reactores, Química Orgánica",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.diseno-procesos",
+          "name": "Diseño de Procesos",
+          "role": "6 créditos · correlativa: Operaciones Unitarias de Transferencia de Materia",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final · Trabajo Profesional o Tesis de Ingeniería Química",
+          "role": "12 créditos en dos cuatrimestres · correlativas: Laboratorio de Operaciones y Procesos, Evaluación de Proyectos de Plantas Químicas, Dinámica y Control de Procesos",
+          "tag": "10º–11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuatrimestre 11",
+      "title": "Emisiones, legislación y cierre",
+      "note": "Continúa el Trabajo Integrador Final; más 6 créditos de electivas de libre elección.",
+      "exits": [
+        {
+          "address": "uba.fi.quimica.emisiones-contaminantes",
+          "name": "Emisiones de Contaminantes Químicos y Biológicos",
+          "role": "6 créditos · correlativa: Operaciones Unitarias de Transferencia de Materia",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.quimica.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créditos · correlativa: 100 créditos",
+          "tag": "11º cuat.",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de Estudios Ingeniería Química 2023 · Res. CD 880/2023 (cms.fi.uba.ar) · fi.uba.ar/grado/carreras/ingenieria-quimica/plan-de-estudios",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_880_Quimica_Plan_2023_507cc321e0.pdf"
+  }
+}

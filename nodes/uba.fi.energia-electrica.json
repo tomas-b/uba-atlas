@@ -1,0 +1,495 @@
+{
+  "address": "uba.fi.energia-electrica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2024,
+    "titulo": "Ingeniero/a en Energía Eléctrica",
+    "resolucion": "RESCS-2024-581 · EX-2023-06060044-UBA-DIMEDA#SA_FI",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "creditos": 250,
+    "horas": 4000,
+    "materiasObligatorias": 32,
+    "electivasRequeridas": "18 créditos",
+    "trabajoIntegradorFinal": "Trabajo Profesional o Tesis · 12 créditos",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.energia-electrica",
+      "label": "Energía Eléctrica"
+    }
+  ],
+  "eyebrow": "Ingeniería en Energía Eléctrica · Plan 2024",
+  "title": "Once cuatrimestres, de la electrotecnia a la red de potencia.",
+  "lede": "El plan 2024 de la Facultad de Ingeniería: dos cuatrimestres de CBC y nueve de segundo ciclo, del análisis y la física a las máquinas eléctricas, la generación, la transmisión y las protecciones. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2024"
+    },
+    {
+      "k": "Materias",
+      "v": "33",
+      "small": "obligatorias + TIF"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 33"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial 2024 (PDF publicado en fi.uba.ar, aprobado por RESCS-2024-581). Nivel L1: los nombres, cuatrimestres, créditos y correlativas son reales; el plan 2024 distribuye las asignaturas del segundo ciclo del tercer al undécimo cuatrimestre como una de las distribuciones posibles. Los temas y la bibliografía de cada materia son la próxima resolución (L2). Las electivas listadas son las que el plan nombra; los créditos electivos pueden cubrirse también con asignaturas de otras facultades.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Ciencias básicas e inicio de la carrera",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · 128 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.quimica-basica",
+          "name": "Química Básica",
+          "role": "6 créditos · 96 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · 96 h",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.intro-ingenieria-energia-electrica",
+          "name": "Introducción a la Ingeniería en Energía Eléctrica",
+          "role": "4 créditos · 64 h · proyecto inicial",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Electricidad, álgebra y materiales",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.electricidad-magnetismo-calor",
+          "name": "Electricidad, Magnetismo y Calor",
+          "role": "6 créditos · 96 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · 128 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.estatica-resistencia-materiales",
+          "name": "Estática y Resistencia de Materiales",
+          "role": "6 créditos · 96 h",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Electrotecnia y herramientas numéricas",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.fisica-solidos-nuclear",
+          "name": "Física de Sólidos y Nuclear",
+          "role": "6 créditos · 96 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · 64 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · 96 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.electrotecnia",
+          "name": "Electrotecnia",
+          "role": "8 créditos · 128 h",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Campos, circuitos y medidas",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.analisis-matematico-3",
+          "name": "Análisis Matemático III",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.campos-electromagneticos",
+          "name": "Campos Electromagnéticos",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.circuitos-sistemas-control",
+          "name": "Circuitos y Sistemas de Control",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.medidas-electricas",
+          "name": "Medidas Eléctricas",
+          "role": "6 créditos · 96 h",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Máquinas, materiales y electrónica",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.higiene-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "2 créditos · 32 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.termodinamica-fluidos-maquinas",
+          "name": "Termodinámica, Mecánica de Fluidos y Máquinas",
+          "role": "6 créditos · 96 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.maquinas-electricas-1",
+          "name": "Máquinas Eléctricas I",
+          "role": "8 créditos · 128 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.tecnologia-materiales-electricos",
+          "name": "Tecnología de Materiales Eléctricos",
+          "role": "6 créditos · 96 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.taller-electronica",
+          "name": "Taller de Electrónica",
+          "role": "3 créditos · 48 h",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Ensayos, instalaciones y datos",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.diagnosticos-electricos-ensayos",
+          "name": "Diagnósticos Eléctricos y Ensayos",
+          "role": "4 créditos · 64 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.maquinas-electricas-2",
+          "name": "Máquinas Eléctricas II",
+          "role": "8 créditos · 128 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.mecanica-aplicada",
+          "name": "Mecánica Aplicada",
+          "role": "4 créditos · 64 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.instalaciones-baja-tension-luminotecnia",
+          "name": "Instalaciones de Baja Tensión y Luminotecnia",
+          "role": "6 créditos · 96 h · proyecto intermedio",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · 48 h",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Potencia, conversión y economía",
+      "note": "Más 4 créditos de electivas/optativas.",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.sistemas-electricos-potencia",
+          "name": "Sistemas Eléctricos de Potencia",
+          "role": "6 créditos · 96 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.conversion-estatica-energia",
+          "name": "Conversión Estática de la Energía Eléctrica",
+          "role": "6 créditos · 96 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.economia-energia-electrica",
+          "name": "Economía de la Energía Eléctrica",
+          "role": "6 créditos · 96 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créditos · 32 h",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Transmisión, generación y trabajo final",
+      "note": "Más 4 créditos de electivas/optativas.",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.transmision-distribucion-energia",
+          "name": "Transmisión y Distribución de la Energía Eléctrica",
+          "role": "6 créditos · 96 h",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.generacion-energia-electrica",
+          "name": "Generación de Energía Eléctrica",
+          "role": "8 créditos · 128 h",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final de Ingeniería en Energía Eléctrica",
+          "role": "12 créditos · 192 h · Trabajo Profesional o Tesis",
+          "tag": "10º–11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Protecciones y cierre",
+      "note": "Más 10 créditos de electivas/optativas; continúa el Trabajo Integrador Final.",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.protecciones-electricas-equipos-maniobra",
+          "name": "Protecciones Eléctricas y Equipos de Maniobra",
+          "role": "6 créditos · 96 h",
+          "tag": "11º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 18 créditos a elegir",
+      "title": "Asignaturas electivas que nombra el plan",
+      "note": "Se eligen libremente hasta cubrir 18 créditos; también pueden cubrirse con asignaturas de otras facultades o actividades afines acordadas con la Comisión Curricular.",
+      "exits": [
+        {
+          "address": "uba.fi.energia-electrica.accionamientos-electricos",
+          "name": "Accionamientos Eléctricos",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.energias-renovables",
+          "name": "Energías Renovables",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.uso-eficiente-energia",
+          "name": "Uso Eficiente de la Energía",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.tecnologias-emergentes-transicion",
+          "name": "Tecnologías Emergentes en la Transición Energética",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.intro-transicion-energetica",
+          "name": "Introducción a la Transición Energética",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.fuentes-convencionales-transicion",
+          "name": "Fuentes Convencionales en la Transición Energética",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.metrologia-calibracion-electrica",
+          "name": "Metrología y Técnicas de Calibración Eléctrica",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.estaciones-transformadoras-distribucion",
+          "name": "Estaciones Transformadoras y de Distribución",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.dinamica-sistemas-potencia",
+          "name": "Dinámica de Sistemas Eléctricos de Potencia",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.telecontrol-comunicaciones",
+          "name": "Telecontrol y Comunicaciones",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.proyecto-centrales-hidroelectricas",
+          "name": "Proyecto de Centrales Hidroeléctricas",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.proyecto-centrales-fotovoltaicas-eolicas",
+          "name": "Proyecto de Centrales Fotovoltaicas y Eólicas",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.abastecimiento-auxiliar-energia",
+          "name": "Abastecimiento Auxiliar de la Energía Eléctrica",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.regulacion-servicios-publicos",
+          "name": "Regulación de Servicios Públicos",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.gerenciamiento-calidad",
+          "name": "Gerenciamiento de la Calidad",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.energia-nuclear",
+          "name": "Energía Nuclear",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.investigacion-operativa",
+          "name": "Investigación Operativa",
+          "role": "8 créditos · 128 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.energia-electrica.construcciones-electromecanicas",
+          "name": "Construcciones Electromecánicas",
+          "role": "4 créditos · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar · Plan de estudios de Ing. en Energía Eléctrica 2024 (PDF, RESCS-2024-581)",
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_de_Ingenieria_en_Energia_Electrica_3e14c1c1d3.pdf"
+  }
+}

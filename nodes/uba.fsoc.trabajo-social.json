@@ -1,0 +1,304 @@
+{
+  "address": "uba.fsoc.trabajo-social",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Res. (CS) 5962/2012",
+    "titulo": "Licenciado/a en Trabajo Social",
+    "años": 4,
+    "materias": 30,
+    "materiasCFP": 33,
+    "cargaHorariaTotal": 2724,
+    "cargaHorariaCFP": 2340,
+    "electivas": 2,
+    "optativas": 1,
+    "idioma": "3 niveles (portugués o inglés)",
+    "tesina": true,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    },
+    {
+      "address": "uba.fsoc.trabajo-social",
+      "label": "Trabajo Social"
+    }
+  ],
+  "eyebrow": "Licenciatura en Trabajo Social · Plan 2012 (Res. CS 5962/2012)",
+  "title": "Dos trayectos y cuatro años de taller en el territorio.",
+  "lede": "El plan vigente (Res. CS 5962/2012) de la Carrera de Trabajo Social de Sociales: un Ciclo de Formación Profesional de 33 asignaturas organizado en dos trayectos — formación general y formación específica — que atraviesa cuatro niveles anuales de Taller de prácticas pre-profesionales y cierra con un seminario de investigación y la tesina. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2012",
+      "small": "Res. CS 5962/2012"
+    },
+    {
+      "k": "Materias",
+      "v": "30",
+      "small": "obligatorias propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 30"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Res. CS 5962/2012, PDF en trabajosocial.sociales.uba.ar) y del listado de materias de la carrera. El plan organiza el Ciclo de Formación Profesional por trayectos, no por año: Trayecto de Formación General (7 asignaturas) y Trayecto de Formación Específica con tres subtrayectos — socio-histórico-político (8), fundamentos teóricos, metodológicos y operativos (10) y prácticas pre-profesionales (4 talleres anuales + 1 seminario). Se computan 60 h por materia cuatrimestral y 180 h por taller anual. A partir de cuarto año se cursan además 2 electivas y 1 optativa de una oferta variable (no trazadas como salidas), 3 niveles de idioma y la tesina de grado. Nivel L1: los nombres, régimen y carga horaria son reales; temas y bibliografía son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Trayecto de Formación General · 7",
+      "title": "Las ciencias sociales como base",
+      "exits": [
+        {
+          "address": "uba.fsoc.trabajo-social.epistemologia",
+          "name": "Epistemología de las Ciencias Sociales",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.sociologia-2",
+          "name": "Sociología II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.psicologia-institucional",
+          "name": "Psicología Institucional",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.antropologia-social-1",
+          "name": "Antropología Social I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.filosofia-social",
+          "name": "Filosofía Social",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.psicologia-desarrollo-subjetividad",
+          "name": "Psicología del Desarrollo y de la Subjetividad",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.derecho",
+          "name": "Derecho",
+          "role": "cuatrimestral · 60 h",
+          "tag": "formación general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Formación Específica · Subtrayecto socio-histórico-político · 8",
+      "title": "Argentina, Estado y política social",
+      "exits": [
+        {
+          "address": "uba.fsoc.trabajo-social.historia-social-argentina",
+          "name": "Historia Social Argentina",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.economia-politica",
+          "name": "Economía Política",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.estado-politicas-publicas",
+          "name": "Estado y Políticas Públicas",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.problemas-sociales-argentinos",
+          "name": "Problemas Sociales Argentinos",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.politica-social",
+          "name": "Política Social",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.teoria-social-latinoamericana",
+          "name": "Teoría Social Latinoamericana",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.estudios-sociodemograficos",
+          "name": "Estudios Socio-demográficos",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.antropologia-social-2",
+          "name": "Antropología Social II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "socio-histórico-político",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Formación Específica · Subtrayecto de fundamentos teóricos, metodológicos y operativos · 10",
+      "title": "El oficio: historia, método, intervención",
+      "exits": [
+        {
+          "address": "uba.fsoc.trabajo-social.fundamentos-historia-ts-1",
+          "name": "Fundamentos e Historia del Trabajo Social I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.fundamentos-historia-ts-2",
+          "name": "Fundamentos e Historia del Trabajo Social II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.metodologia-investigacion-1",
+          "name": "Metodología de la Investigación I",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.metodologia-investigacion-2",
+          "name": "Metodología de la Investigación II",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.ts-territorio-comunidad",
+          "name": "Trabajo Social, Territorio y Comunidad",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.ts-planificacion-social",
+          "name": "Trabajo Social y Planificación Social",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.ts-procesos-grupales-institucionales",
+          "name": "Trabajo Social, Procesos Grupales e Institucionales",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.ts-familias-vida-cotidiana",
+          "name": "Trabajo Social, Familias y Vida Cotidiana",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.planificacion-escenarios-regionales-nacionales",
+          "name": "Planificación en Escenarios Regionales y Nacionales",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.dimension-instrumental",
+          "name": "Dimensión Instrumental del Trabajo Social",
+          "role": "cuatrimestral · 60 h",
+          "tag": "fundamentos",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Formación Específica · Subtrayecto de prácticas pre-profesionales · 4 + 1",
+      "title": "Cuatro años de taller y el cierre",
+      "exits": [
+        {
+          "address": "uba.fsoc.trabajo-social.taller-1",
+          "name": "Taller Nivel I",
+          "role": "anual · 180 h",
+          "tag": "prácticas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.taller-2",
+          "name": "Taller Nivel II",
+          "role": "anual · 180 h",
+          "tag": "prácticas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.taller-3",
+          "name": "Taller Nivel III",
+          "role": "anual · 180 h",
+          "tag": "prácticas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.taller-4",
+          "name": "Taller Nivel IV",
+          "role": "anual · 180 h",
+          "tag": "prácticas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social.seminario-investigacion-final",
+          "name": "Seminario de Trabajo de Investigación Final",
+          "role": "cuatrimestral · 60 h",
+          "tag": "prácticas",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "trabajosocial.sociales.uba.ar/plan-de-estudios · Res. (CS) 5962/2012 (PDF)",
+    "url": "https://trabajosocial.sociales.uba.ar/wp-content/uploads/sites/13/2016/03/Resolucion-CS-Plan-5962-2012.pdf"
+  }
+}

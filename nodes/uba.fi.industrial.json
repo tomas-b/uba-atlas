@@ -1,0 +1,538 @@
+{
+  "address": "uba.fi.industrial",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2023 (texto ordenado RESCS-2024-63)",
+    "vigencia": "ingresantes desde 2023",
+    "cuatrimestres": 10,
+    "cuatrimestresCBC": 2,
+    "cuatrimestresSegundoCiclo": 8,
+    "creditos": 236,
+    "horas": 3776,
+    "materiasObligatoriasPropias": 29,
+    "electivasNombradas": 30,
+    "creditosElectivas": 24,
+    "creditosTrabajoFinal": 12,
+    "correlativas": true,
+    "codigosEnPlan": false
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.industrial",
+      "label": "Ingeniería Industrial"
+    }
+  ],
+  "eyebrow": "Ingeniería Industrial · Plan 2023",
+  "title": "Diez cuatrimestres, de la física de partículas al proyecto industrial.",
+  "lede": "El plan real (2023, actualizado 2024) de Ingeniería Industrial en la Facultad de Ingeniería: dos cuatrimestres de CBC y ocho propios, 236 créditos y 3776 horas. Arranca por matemática, física y principios de la industria; cruza economía, energía, materiales y cadena de valor; cierra con Proyecto Industrial, un trabajo profesional o tesis y 24 créditos de electivas. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023",
+      "small": "act. 2024"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "obligatorias + 30 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 59"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en fi.uba.ar (Plan 2023, texto ordenado por RESCS-2024-63 — la versión que la facultad enlaza como vigente). Nivel L1: nombres, cuatrimestres, créditos y correlativas son los del plan; el plan no publica códigos de asignatura, así que no se listan. La distribución por cuatrimestre es la sugerida por el plan (cursado flexible sujeto a correlativas). Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre · año 2",
+      "title": "Matemática, partículas y principios",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "3º cuat. · 8 cr. · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "3º cuat. · 6 cr. · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.principios-ingenieria-industrial",
+          "name": "Principios de Ingeniería Industrial",
+          "role": "3º cuat. · 6 cr. · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre · año 2",
+      "title": "Álgebra, química, estructuras y empresa",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "4º cuat. · 8 cr. · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.quimica-basica",
+          "name": "Química Básica",
+          "role": "4º cuat. · 6 cr. · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.estatica-resistencia-materiales",
+          "name": "Estática y Resistencia de Materiales",
+          "role": "4º cuat. · 6 cr. · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.organizacion-direccion-empresaria",
+          "name": "Organización y Dirección Empresaria",
+          "role": "4º cuat. · 6 cr. · correlativa: Principios de Ingeniería Industrial",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre · año 3",
+      "title": "Probabilidad, economía, materiales y energía",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.probabilidad",
+          "name": "Probabilidad",
+          "role": "5º cuat. · 6 cr. · correlativa: Análisis Matemático II",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.economia",
+          "name": "Economía",
+          "role": "5º cuat. · 6 cr. · correlativas: Análisis Matemático II, Principios de Ingeniería Industrial",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.materiales-aplicaciones-1",
+          "name": "Materiales y Aplicaciones I",
+          "role": "5º cuat. · 6 cr. · correlativas: Química Básica, Estática y Resistencia de Materiales, Principios de Ingeniería Industrial",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.transformacion-energia",
+          "name": "Transformación de la Energía",
+          "role": "5º cuat. · 8 cr. · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas, Química Básica",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre · año 3",
+      "title": "Electricidad, desarrollo, estadística y cadena de valor",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6º cuat. · 6 cr. · correlativas: Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.desarrollo-economico",
+          "name": "Desarrollo Económico",
+          "role": "6º cuat. · 4 cr. · correlativa: Economía",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.estadistica-aplicada",
+          "name": "Estadística Aplicada",
+          "role": "6º cuat. · 8 cr. · correlativa: Probabilidad",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.gestion-integral-cadena-valor",
+          "name": "Gestión Integral de la Cadena de Valor",
+          "role": "6º cuat. · 8 cr. · correlativa: Organización y Dirección Empresaria",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre · año 4",
+      "title": "Máquinas, operaciones, costos y planeta",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.electrotecnia-maquinas-instalaciones",
+          "name": "Electrotecnia, Máquinas e Instalaciones Eléctricas",
+          "role": "7º cuat. · 6 cr. · correlativa: Electricidad y Magnetismo",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.investigacion-operativa",
+          "name": "Investigación Operativa",
+          "role": "7º cuat. · 8 cr. · correlativas: Álgebra Lineal, Probabilidad",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.sistemas-contables-gestion-costos",
+          "name": "Sistemas Contables y Gestión de Costos",
+          "role": "7º cuat. · 4 cr. · correlativas: Economía, Gestión Integral de la Cadena de Valor",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-digitales",
+          "name": "Industrias Digitales",
+          "role": "7º cuat. · 4 cr. · correlativa: Estadística Aplicada",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.ingenieria-ambiental-sustentabilidad",
+          "name": "Ingeniería Ambiental, Sustentabilidad y Cuidado del Planeta",
+          "role": "7º cuat. · 4 cr. · correlativa: 100 créditos",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre · año 4",
+      "title": "Economía de proyectos, automatización y transformación",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.ingenieria-economica",
+          "name": "Ingeniería Económica",
+          "role": "8º cuat. · 4 cr. · correlativas: Desarrollo Económico, Sistemas Contables y Gestión de Costos",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.equipos-sistemas-automatizacion",
+          "name": "Equipos y Sistemas para Automatización Industrial",
+          "role": "8º cuat. · 6 cr. · correlativas: Electrotecnia, Máquinas e Instalaciones Eléctricas; Materiales y Aplicaciones I",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-quimicas",
+          "name": "Industrias Químicas",
+          "role": "8º cuat. · 4 cr. · correlativas: Materiales y Aplicaciones I, Transformación de la Energía",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.transformacion-materiales",
+          "name": "Transformación de Materiales",
+          "role": "8º cuat. · 8 cr. · correlativa: Materiales y Aplicaciones I",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.higiene-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "8º cuat. · 2 cr. · correlativa: 100 créditos",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º y 10º cuatrimestre · año 5",
+      "title": "Extractivas, proyecto, trabajo final y ley",
+      "note": "En estos dos cuatrimestres el plan reserva además 24 créditos de electivas/optativas (8 + 16), elegidas del ciclo profesional de abajo.",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.industrias-extractivas",
+          "name": "Industrias Extractivas",
+          "role": "9º cuat. · 4 cr. · correlativas: Transformación de la Energía, Materiales y Aplicaciones I",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.proyecto-industrial",
+          "name": "Proyecto Industrial",
+          "role": "9º cuat. · 8 cr. · correlativas: Electrotecnia, Máquinas e Instalaciones Eléctricas; Materiales y Aplicaciones I; Transformación de la Energía; Higiene y Seguridad; Ingeniería Ambiental",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.trabajo-profesional-tesis",
+          "name": "Trabajo Profesional de Ingeniería Industrial / Tesis de Ingeniería Industrial",
+          "role": "9º–10º cuat. · 12 cr. · correlativa: 140 créditos",
+          "tag": "trabajo final",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "10º cuat. · 2 cr. · correlativa: 100 créditos",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas del ciclo profesional · 30",
+      "title": "Gestión, industrias y transición energética",
+      "note": "Asignaturas electivas nombradas por el plan; se cursan 24 créditos a elección (4 cr. cada una salvo Taller de Manufactura, 3 cr.).",
+      "exits": [
+        {
+          "address": "uba.fi.industrial.gestion-financiera-presupuestaria",
+          "name": "Gestión Financiera y Presupuestaria",
+          "role": "correlativa: Sistemas Contables y Gestión de Costos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.analisis-de-casos",
+          "name": "Análisis de Casos",
+          "role": "correlativa: Investigación Operativa",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.ciencia-datos-toma-decisiones",
+          "name": "Ciencia de Datos para la Toma de Decisiones",
+          "role": "correlativa: Estadística Aplicada",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.estadistica-aplicada-superior",
+          "name": "Estadística Aplicada Superior",
+          "role": "correlativa: Estadística Aplicada",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.investigacion-operativa-superior",
+          "name": "Investigación Operativa Superior",
+          "role": "correlativa: Investigación Operativa",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.capital-humano-comportamiento-organizacional",
+          "name": "Capital Humano y Comportamiento Organizacional",
+          "role": "correlativa: Organización y Dirección Empresaria",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.comercializacion-productos-servicios",
+          "name": "Comercialización de Productos y Servicios",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.gerenciamiento-calidad",
+          "name": "Gerenciamiento de la Calidad",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.informatica-gestion-empresas",
+          "name": "Informática para la Gestión de Empresas",
+          "role": "correlativa: Industrias Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.logistica-supply-chain",
+          "name": "Logística y Supply Chain",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.innovacion-gestion-proyectos",
+          "name": "Innovación y Gestión de Proyectos",
+          "role": "correlativas: Desarrollo Económico, Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.emprendimientos-ingenieria",
+          "name": "Emprendimientos en Ingeniería",
+          "role": "correlativa: 100 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.diseno-producto",
+          "name": "Diseño de Producto",
+          "role": "correlativas: Gestión Integral de la Cadena de Valor, Materiales y Aplicaciones I",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.diseno-producto-digital",
+          "name": "Diseño de Producto Digital",
+          "role": "correlativa: Industrias Digitales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.envases-embalajes",
+          "name": "Ingeniería y Desarrollo de Envases y Embalajes",
+          "role": "correlativa: 100 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.agroindustria-bioeconomia",
+          "name": "Agroindustria y Bioeconomía",
+          "role": "correlativa: 100 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.biopolimeros-industrias-plasticas",
+          "name": "Biopolímeros e Industrias Plásticas",
+          "role": "correlativa: Industrias Químicas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industria-automotriz",
+          "name": "Industria Automotriz",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-celulosa-papel",
+          "name": "Industrias de Celulosa y Papel",
+          "role": "correlativa: Industrias Químicas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-alimentacion",
+          "name": "Industrias de la Alimentación",
+          "role": "correlativa: Industrias Químicas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-petroliferas",
+          "name": "Industrias Petrolíferas",
+          "role": "correlativa: Industrias Químicas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.industrias-textiles",
+          "name": "Industrias Textiles",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.mantenimiento-ingenieria-planta",
+          "name": "Mantenimiento e Ingeniería de Planta",
+          "role": "correlativa: Gestión Integral de la Cadena de Valor",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.materiales-aplicaciones-2",
+          "name": "Materiales y Aplicaciones II",
+          "role": "correlativa: Materiales y Aplicaciones I",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.introduccion-transicion-energetica",
+          "name": "Introducción a la Transición Energética",
+          "role": "correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.energias-renovables",
+          "name": "Energías Renovables",
+          "role": "correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.uso-eficiente-energia",
+          "name": "Uso Eficiente de la Energía",
+          "role": "correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.fuentes-convencionales-transicion-energetica",
+          "name": "Fuentes Convencionales en la Transición Energética",
+          "role": "correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.tecnologias-emergentes-transicion-energetica",
+          "name": "Tecnologías Emergentes en la Transición Energética",
+          "role": "correlativa: 120 créditos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.industrial.taller-manufactura",
+          "name": "Taller de Manufactura",
+          "role": "3 cr. · correlativas: Principios de Ingeniería Industrial, Materiales y Aplicaciones I",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado/carreras/ingenieria-industrial/plan-de-estudios · Plan 2023 · texto ordenado RESCS-2024-63 (PDF)",
+    "url": "https://cms.fi.uba.ar/uploads/RESCS_2024_63_Industrial_Plan_2023_Modificacion_b6f5d44f65_7e4ff9c5bb.pdf"
+  }
+}

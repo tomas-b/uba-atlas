@@ -1,0 +1,202 @@
+{
+  "address": "uba.fsoc.sociologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 1988,
+    "expediente": "6.100/88",
+    "correlatividades": "RESCD-2024-186-E-UBA-DCT_FSOC",
+    "materiasObligatorias": 16,
+    "optativas": "6 sociologías especiales + 3 teorías sociológicas (slots sin nombre)",
+    "investigacion": "200 horas (seminarios y/o talleres)",
+    "idioma": "francés o inglés",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    },
+    {
+      "address": "uba.fsoc.sociologia",
+      "label": "Sociología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Sociología · Plan 1988",
+  "title": "Dieciséis obligatorias en cuatro áreas, y el resto se elige.",
+  "lede": "El plan vigente (1988) de la Carrera de Sociología: dieciséis materias obligatorias ordenadas por área — teoría sociológica, metodología, historia social y otras — más nueve optativas (seis sociologías especiales y tres teorías sociológicas), doscientas horas de investigación y un idioma. Cada obligatoria es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1988"
+    },
+    {
+      "k": "Materias",
+      "v": "16",
+      "small": "obligatorias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 16"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Carrera (sociologia.sociales.uba.ar/plan-de-estudios y el PDF del Plan de Estudios 1988, Expte. 6.100/88). El plan no fija años ni cuatrimestres: ordena las obligatorias por área y las encadena por correlatividades (régimen RESCD-2024-186). Las optativas son cupos sin nombre fijo y no se dibujan. Nivel L1: nombres, áreas, carga semanal y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Área Teoría Sociológica",
+      "title": "Del concepto de sociedad a la política",
+      "note": "Cinco obligatorias más tres teorías sociológicas a elegir (cupos optativos, no dibujados).",
+      "exits": [
+        {
+          "address": "uba.fsoc.sociologia.sociologia-general",
+          "name": "Sociología General",
+          "role": "6 hs · correlativa: CBC",
+          "tag": "teoría",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.hcs-1",
+          "name": "Historia del Conocimiento Sociológico I",
+          "role": "6 hs · correlativas: Sociología General, Filosofía",
+          "tag": "teoría",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.hcs-2",
+          "name": "Historia del Conocimiento Sociológico II",
+          "role": "6 hs · correlativa: HCS I",
+          "tag": "teoría",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.sociologia-sistematica",
+          "name": "Sociología Sistemática",
+          "role": "6 hs · correlativa: HCS II",
+          "tag": "teoría",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.sociologia-politica",
+          "name": "Sociología Política",
+          "role": "4 hs · correlativas: Sociología Sistemática, Historia Social Moderna y Contemporánea, Economía II",
+          "tag": "teoría",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Metodológica",
+      "title": "Cómo se conoce y cómo se investiga",
+      "exits": [
+        {
+          "address": "uba.fsoc.sociologia.epistemologia",
+          "name": "Epistemología de las Ciencias Sociales",
+          "role": "6 hs · correlativa: Filosofía",
+          "tag": "metodología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.metodologia-1",
+          "name": "Metodología I",
+          "role": "6 hs · correlativas: Sociología General, Epistemología, Economía II",
+          "tag": "metodología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.metodologia-2",
+          "name": "Metodología II",
+          "role": "4 hs · correlativa: Metodología I",
+          "tag": "metodología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.metodologia-3",
+          "name": "Metodología III",
+          "role": "4 hs · correlativa: Metodología II",
+          "tag": "metodología",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Historia Social",
+      "title": "Del mundo moderno a la Argentina",
+      "exits": [
+        {
+          "address": "uba.fsoc.sociologia.historia-social-moderna",
+          "name": "Historia Social Moderna y Contemporánea",
+          "role": "6 hs · correlativa: CBC",
+          "tag": "historia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.historia-social-latinoamericana",
+          "name": "Historia Social Latinoamericana",
+          "role": "6 hs · correlativas: Historia Social Moderna y Contemporánea, Economía II",
+          "tag": "historia",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.historia-social-argentina",
+          "name": "Historia Social Argentina",
+          "role": "6 hs · correlativa: Historia Social Latinoamericana",
+          "tag": "historia",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Otras obligatorias",
+      "title": "Filosofía, economía, psicología y el país",
+      "exits": [
+        {
+          "address": "uba.fsoc.sociologia.filosofia",
+          "name": "Filosofía",
+          "role": "4 hs · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.economia-2",
+          "name": "Economía II",
+          "role": "4 hs · correlativa: CBC",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.psicologia-social",
+          "name": "Psicología Social",
+          "role": "4 hs · correlativa: Sociología Sistemática",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fsoc.sociologia.analisis-sociedad-argentina",
+          "name": "Análisis de la Sociedad Argentina",
+          "role": "4 hs · correlativas: HCS I, Historia Social Argentina",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "sociologia.sociales.uba.ar/plan-de-estudios · Plan de Estudios 1988 (PDF, Expte. 6.100/88)",
+    "url": "https://sociologia.sociales.uba.ar/plan-de-estudios/"
+  }
+}

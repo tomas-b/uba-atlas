@@ -1,0 +1,396 @@
+{
+  "address": "uba.fi.civil",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2023,
+    "resolucion": "Res. (CD) 720/2023",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "horasTotales": 4016,
+    "creditosTotales": 251,
+    "materias": 38,
+    "electivasCreditos": 24,
+    "correlativas": true,
+    "codigos": false
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.civil",
+      "label": "Ingeniería Civil"
+    }
+  ],
+  "eyebrow": "Ingeniería Civil · Plan 2023",
+  "title": "Once cuatrimestres, de la estática al hormigón y la obra.",
+  "lede": "El plan 2023 de Ingeniería Civil en la Facultad de Ingeniería: 4016 horas en 11 cuatrimestres, dos de CBC y nueve de segundo ciclo. Un tronco de matemática, física y materiales que se abre en estructuras, hidráulica, suelos, vías y transporte, y cierra con obra, gestión y un trabajo profesional o tesis. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "obligatorias propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada de la Resolución (CD) 720/2023 que aprueba el Plan 2023, publicada en fi.uba.ar/grado/carreras/ingenieria-civil/plan-de-estudios. Vigente para ingresantes desde 2023; el Plan 2009 (versión 2016) sigue sólo para quienes ingresaron antes. La caja curricular del plan es una distribución posible por cuatrimestre: cada estudiante arma sus módulos respetando correlatividades. Nivel L1: nombres, cuatrimestre, créditos y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Entrada al segundo ciclo",
+      "exits": [
+        {
+          "address": "uba.fi.civil.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "3º cuat. · 8 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.intro-ingenieria-civil",
+          "name": "Introducción a la Ingeniería Civil",
+          "role": "3º cuat. · 4 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "3º cuat. · 6 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Álgebra, química y las primeras fuerzas",
+      "exits": [
+        {
+          "address": "uba.fi.civil.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "4º cuat. · 8 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.quimica-basica",
+          "name": "Química Básica",
+          "role": "4º cuat. · 6 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.estatica",
+          "name": "Estática",
+          "role": "4º cuat. · 4 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.intro-transporte-movilidad-urbanismo",
+          "name": "Introducción al Transporte, la Movilidad y el Urbanismo",
+          "role": "4º cuat. · 4 créd.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Resistencia, agua y números",
+      "exits": [
+        {
+          "address": "uba.fi.civil.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "5º cuat. · 6 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.resistencia-materiales",
+          "name": "Resistencia de Materiales",
+          "role": "5º cuat. · 8 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.hidraulica-general",
+          "name": "Hidráulica General",
+          "role": "5º cuat. · 6 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "5º cuat. · 4 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Física aplicada, estructuras y materiales",
+      "exits": [
+        {
+          "address": "uba.fi.civil.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6º cuat. · 6 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.calor-termodinamica",
+          "name": "Calor y Termodinámica",
+          "role": "6º cuat. · 2 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.analisis-estructural",
+          "name": "Análisis Estructural",
+          "role": "6º cuat. · 6 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.comportamiento-materiales",
+          "name": "Comportamiento de Materiales",
+          "role": "6º cuat. · 8 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.hidraulica-aplicada",
+          "name": "Hidráulica Aplicada",
+          "role": "6º cuat. · 4 créd.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Suelos, terreno y construcciones",
+      "exits": [
+        {
+          "address": "uba.fi.civil.mecanica-suelos-geologia",
+          "name": "Mecánica de Suelos y Geología",
+          "role": "7º cuat. · 8 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos para Ingeniería Civil",
+          "role": "7º cuat. · 3 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.diseno-geometrico-obras-lineales",
+          "name": "Diseño Geométrico de Obras Lineales",
+          "role": "7º cuat. · 3 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.construcciones-civiles-arquitectura",
+          "name": "Construcciones Civiles y Arquitectura",
+          "role": "7º cuat. · 6 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.topografia-geodesia",
+          "name": "Topografía y Geodesia",
+          "role": "7º cuat. · 4 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Proyectos, pavimentos, hidrología y hormigón",
+      "note": "Además: 4 créditos de electivas (sin materia fija; no son puertas).",
+      "exits": [
+        {
+          "address": "uba.fi.civil.economia-evaluacion-proyectos",
+          "name": "Economía y Evaluación de Proyectos de Ingeniería Civil",
+          "role": "8º cuat. · 4 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.materiales-viales-pavimentos-1",
+          "name": "Materiales Viales y Pavimentos I",
+          "role": "8º cuat. · 3 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.hidrologia-aplicada",
+          "name": "Hidrología Aplicada",
+          "role": "8º cuat. · 6 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.hormigon-1",
+          "name": "Hormigón I",
+          "role": "8º cuat. · 8 créd.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Transporte, puertos, sanitaria y acero",
+      "note": "Además: 6 créditos de electivas (sin materia fija; no son puertas).",
+      "exits": [
+        {
+          "address": "uba.fi.civil.sistemas-transporte-guiado-1",
+          "name": "Sistemas de Transporte Guiado I",
+          "role": "9º cuat. · 3 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.puertos-vias-navegables-1",
+          "name": "Puertos y Vías Navegables I",
+          "role": "9º cuat. · 3 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.aeropuertos-1",
+          "name": "Aeropuertos I",
+          "role": "9º cuat. · 2 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.ingenieria-sanitaria-1",
+          "name": "Ingeniería Sanitaria I",
+          "role": "9º cuat. · 4 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.estructuras-metalicas",
+          "name": "Estructuras Metálicas",
+          "role": "9º cuat. · 6 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Instalaciones, cimientos y el trabajo final",
+      "note": "El Trabajo Profesional o Tesis se extiende al 11º cuatrimestre. Además: 6 créditos de electivas (sin materia fija; no son puertas).",
+      "exits": [
+        {
+          "address": "uba.fi.civil.trabajo-profesional-tesis",
+          "name": "Trabajo Profesional de Ingeniería Civil o Tesis de Ingeniería Civil",
+          "role": "10º–11º cuat. · 12 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.instalaciones-obras-civiles",
+          "name": "Instalaciones de las Obras Civiles",
+          "role": "10º cuat. · 6 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.cimentaciones",
+          "name": "Cimentaciones",
+          "role": "10º cuat. · 3 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.hormigon-2",
+          "name": "Hormigón II",
+          "role": "10º cuat. · 4 créd.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Ley, seguridad, ambiente y obra",
+      "note": "Además: 8 créditos de electivas (sin materia fija; no son puertas). Inglés es requisito sin créditos.",
+      "exits": [
+        {
+          "address": "uba.fi.civil.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "11º cuat. · 2 créd.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.higiene-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "11º cuat. · 2 créd.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.gestion-socioambiental",
+          "name": "Gestión Socioambiental de las Obras Civiles",
+          "role": "11º cuat. · 3 créd.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.civil.gerenciamiento-organizacion-obras",
+          "name": "Gerenciamiento y Organización de Obras Civiles",
+          "role": "11º cuat. · 4 créd.",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado/carreras/ingenieria-civil/plan-de-estudios · Res. (CD) 720/2023 (PDF)",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_720_Civil_Plan_2023_Aprobacion_6e607f13ca_6d88fe31d5.pdf"
+  }
+}

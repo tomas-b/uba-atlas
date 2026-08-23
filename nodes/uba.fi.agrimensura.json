@@ -1,0 +1,513 @@
+{
+  "address": "uba.fi.agrimensura",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2023",
+    "resolucion": "RESCD 2023-881 (aprobado 31/10/2023, Plan 2020 y resoluciones modificatorias)",
+    "ciclos": 2,
+    "cuatrimestres": 10,
+    "materiasObligatorias": 36,
+    "electivasNombradas": 20,
+    "creditosTotales": 227,
+    "horasTotales": 3632,
+    "creditosElectivos": 16,
+    "correlativas": true,
+    "codigos": false
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.agrimensura",
+      "label": "Ingeniería en Agrimensura"
+    }
+  ],
+  "eyebrow": "Ingeniería en Agrimensura · Plan 2023",
+  "title": "Diez cuatrimestres: medir, georreferenciar, mensurar.",
+  "lede": "El plan real (2023, RESCD 881) de la Facultad de Ingeniería: un ciclo básico común y ocho cuatrimestres propios que van de coordenadas y dibujo cartográfico a geodesia satelital, catastro y mensuras, cerrando con un Trabajo Integrador Final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "36",
+      "small": "obligatorias + 20 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 56"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (cms.fi.uba.ar, RESCD 2023-881). El plan organiza el segundo ciclo por cuatrimestre (3° a 10°) con créditos, horas y correlativas; no asigna códigos numéricos a las asignaturas nuevas. Las electivas nombradas en el plan aparecen como grupo aparte: el estudiante cubre 16 créditos electivos con ellas. Nivel L1: nombres, cuatrimestres y correlativas son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3° cuatrimestre",
+      "title": "Coordenadas y dibujo",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · 128 h",
+          "tag": "3° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.sistemas-de-coordenadas",
+          "name": "Sistemas de Coordenadas",
+          "role": "4 créditos · 64 h",
+          "tag": "3° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.sistemas-de-representacion",
+          "name": "Sistemas de Representación Orientado a la Agrimensura",
+          "role": "3 créditos · 48 h",
+          "tag": "3° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.dibujo-cartografico-y-topografico",
+          "name": "Dibujo Cartográfico y Topográfico",
+          "role": "4 créditos · 64 h",
+          "tag": "3° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.intro-ingenieria-agrimensura",
+          "name": "Introducción a la Ingeniería en Agrimensura",
+          "role": "4 créditos · 64 h",
+          "tag": "3° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4° cuatrimestre",
+      "title": "Instrumental, derecho y economía",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.probabilidad-y-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · correlativa: Análisis Matemático II",
+          "tag": "4° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.instrumental-topografico",
+          "name": "Instrumental Topográfico",
+          "role": "6 créditos · correlativas: Sistemas de Coordenadas; Dibujo Cartográfico y Topográfico",
+          "tag": "4° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.derecho-para-agrimensura",
+          "name": "Derecho para Agrimensura",
+          "role": "4 créditos · 64 h",
+          "tag": "4° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.economia-y-organizacion",
+          "name": "Economía y Organización",
+          "role": "6 créditos · correlativa: Introducción a la Ingeniería en Agrimensura",
+          "tag": "4° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.elementos-de-construccion",
+          "name": "Elementos de Construcción",
+          "role": "3 créditos · correlativa: Dibujo Cartográfico y Topográfico",
+          "tag": "4° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5° cuatrimestre",
+      "title": "Topografía, cartografía y geodesia",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.intro-ciencia-de-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · correlativa: Sistemas de Coordenadas",
+          "tag": "5° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.metodos-topograficos",
+          "name": "Métodos Topográficos",
+          "role": "6 créditos · correlativas: Instrumental Topográfico; Sistemas de Representación",
+          "tag": "5° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.calculo-de-compensacion",
+          "name": "Cálculo de Compensación",
+          "role": "4 créditos · correlativas: Instrumental Topográfico; Probabilidad y Estadística",
+          "tag": "5° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.cartografia",
+          "name": "Cartografía",
+          "role": "6 créditos · correlativa: Sistemas de Coordenadas",
+          "tag": "5° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geodesia-astronomica",
+          "name": "Geodesia Astronómica y Mediciones Precisas",
+          "role": "4 créditos · correlativa: Instrumental Topográfico",
+          "tag": "5° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6° cuatrimestre",
+      "title": "Relevamientos, satélites y normativa",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.fisica-sistemas-de-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · 96 h",
+          "tag": "6° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.relevamientos-topograficos",
+          "name": "Relevamientos Topográficos",
+          "role": "8 créditos · correlativas: Métodos Topográficos; Cálculo de Compensación",
+          "tag": "6° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geodesia-geometrica-y-satelital",
+          "name": "Geodesia Geométrica y Satelital",
+          "role": "4 créditos · correlativas: Geodesia Astronómica; Métodos Topográficos",
+          "tag": "6° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.fotogrametria",
+          "name": "Fotogrametría",
+          "role": "4 créditos · correlativas: Cartografía; Introducción a la Ciencia de Datos",
+          "tag": "6° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.normativa-de-mensura",
+          "name": "Normativa de Mensura y Propiedad Horizontal",
+          "role": "4 créditos · correlativas: Derecho para Agrimensura; Instrumental Topográfico",
+          "tag": "6° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7° cuatrimestre",
+      "title": "Georreferenciar y aplicar la ley",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.electricidad-y-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · correlativas: Análisis Matemático II; Física de los Sistemas de Partículas",
+          "tag": "7° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.georreferenciacion",
+          "name": "Georreferenciación de Trabajos Topográficos y Geodésicos",
+          "role": "8 créditos · correlativas: Relevamientos Topográficos; Geodesia Geométrica y Satelital; Cartografía",
+          "tag": "7° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.fotogrametria-digital",
+          "name": "Fotogrametría Digital",
+          "role": "4 créditos · correlativa: Fotogrametría",
+          "tag": "7° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.aplicacion-legal",
+          "name": "Aplicación Legal de la Agrimensura",
+          "role": "4 créditos · correlativas: Normativa de Mensura y Propiedad Horizontal; Economía y Organización",
+          "tag": "7° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geografia-fisica-y-geologia",
+          "name": "Geografía Física y Geología",
+          "role": "4 créditos · correlativa: Física de los Sistemas de Partículas",
+          "tag": "7° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8° cuatrimestre",
+      "title": "Catastro, mensuras y teledetección",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.sig",
+          "name": "Sistemas de Información Geográfica",
+          "role": "4 créditos · correlativa: Cartografía",
+          "tag": "8° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.catastro",
+          "name": "Catastro",
+          "role": "4 créditos · correlativa: Normativa de Mensura y Propiedad Horizontal",
+          "tag": "8° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.mensuras",
+          "name": "Mensuras",
+          "role": "4 créditos · correlativas: Relevamientos Topográficos; Normativa de Mensura y Propiedad Horizontal",
+          "tag": "8° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.teledeteccion",
+          "name": "Teledetección para Agrimensura",
+          "role": "4 créditos · correlativas: Cartografía; Electricidad y Magnetismo",
+          "tag": "8° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.informacion-rural",
+          "name": "Información Rural",
+          "role": "3 créditos · correlativa: Aplicación Legal de la Agrimensura",
+          "tag": "8° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.topografia-de-obra",
+          "name": "Topografía de Obra",
+          "role": "3 créditos · correlativa: Relevamientos Topográficos",
+          "tag": "8° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9° y 10° cuatrimestre",
+      "title": "Práctica, valuación y trabajo final",
+      "note": "El 10° cuatrimestre se completa con 16 créditos de electivas (grupo siguiente) y la segunda mitad del Trabajo Integrador Final.",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.mensuras-aplicadas",
+          "name": "Mensuras Aplicadas",
+          "role": "6 créditos · correlativas: Georreferenciación; Mensuras; Aplicación Legal de la Agrimensura",
+          "tag": "9° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.valuaciones",
+          "name": "Valuaciones",
+          "role": "3 créditos · correlativas: Catastro; Elementos de Construcción",
+          "tag": "9° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.tecnologias-informacion-geoespacial",
+          "name": "Tecnologías de Información Geoespacial",
+          "role": "3 créditos · correlativa: Sistemas de Información Geográfica",
+          "tag": "9° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.planeamiento-urbano",
+          "name": "Planeamiento Urbano e Impacto Social y Ambiental",
+          "role": "4 créditos · correlativa: Aplicación Legal de la Agrimensura",
+          "tag": "9° cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final de Ingeniería en Agrimensura",
+          "role": "12 créditos en dos cuatrimestres · correlativa: Mensuras",
+          "tag": "9°–10° cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 16 créditos a elegir",
+      "title": "Las electivas que nombra el plan",
+      "exits": [
+        {
+          "address": "uba.fi.agrimensura.geoestadistica",
+          "name": "Geoestadística",
+          "role": "4 créditos · correlativas: Cálculo de Compensación; Introducción a la Ciencia de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.sistematizacion-agricola",
+          "name": "Sistematización Agrícola y Saneamiento",
+          "role": "4 créditos · correlativa: Métodos Topográficos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.teledeteccion-avanzada",
+          "name": "Teledetección Avanzada",
+          "role": "4 créditos · correlativa: Teledetección para Agrimensura",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.oceanografia-fisica",
+          "name": "Oceanografía Física",
+          "role": "4 créditos · correlativa: Física de los Sistemas de Partículas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.levantamientos-hidrograficos",
+          "name": "Levantamientos Hidrográficos",
+          "role": "4 créditos · correlativa: Métodos Topográficos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.diseno-geometrico-obras-lineales",
+          "name": "Diseño Geométrico de Obras Lineales",
+          "role": "3 créditos · correlativa: Relevamientos Topográficos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.microgeodesia",
+          "name": "Microgeodesia",
+          "role": "4 créditos · correlativas: Geodesia Astronómica; Relevamientos Topográficos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.planos-digitales",
+          "name": "Herramientas para la Representación de Planos Digitales",
+          "role": "4 créditos · correlativa: Dibujo Cartográfico y Topográfico",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geologia-general",
+          "name": "Geología General",
+          "role": "6 créditos · correlativa: Geografía Física y Geología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geodesia-fisica",
+          "name": "Geodesia Física",
+          "role": "4 créditos · correlativas: Electricidad y Magnetismo; Geodesia Geométrica y Satelital",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.marcos-de-referencia",
+          "name": "Cálculo Avanzado de Marcos de Referencia",
+          "role": "4 créditos · correlativa: Georreferenciación",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.geomagnetismo-y-aeronomia",
+          "name": "Geomagnetismo y Aeronomía",
+          "role": "4 créditos · correlativa: Electricidad y Magnetismo",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.gerenciamiento-de-la-calidad",
+          "name": "Gerenciamiento de la Calidad",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.capital-humano",
+          "name": "Capital Humano y Comportamiento Organizacional",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.comercializacion",
+          "name": "Comercialización de Productos y Servicios",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.emprendimientos-en-ingenieria",
+          "name": "Emprendimientos en Ingeniería",
+          "role": "4 créditos · correlativa: Economía y Organización",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.intro-inteligencia-artificial",
+          "name": "Introducción a la Inteligencia Artificial",
+          "role": "3 créditos · correlativas: Probabilidad y Estadística; Introducción a la Ciencia de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.analisis-de-datos",
+          "name": "Análisis de Datos",
+          "role": "3 créditos · correlativas: Probabilidad y Estadística; Introducción a la Ciencia de Datos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.aprendizaje-de-maquina",
+          "name": "Aprendizaje de Máquina",
+          "role": "3 créditos · correlativas: Análisis de Datos; Introducción a la Inteligencia Artificial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.agrimensura.aprendizaje-de-maquina-profundo",
+          "name": "Aprendizaje de Máquina Profundo",
+          "role": "3 créditos · correlativas: Análisis de Datos; Introducción a la Inteligencia Artificial",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de Estudios Ingeniería en Agrimensura · Actualización 2023 (RESCD 2023-881) · cms.fi.uba.ar",
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_881_Agrimensura_Plan_2023_1ca938d170.pdf"
+  }
+}

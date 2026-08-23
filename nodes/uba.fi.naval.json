@@ -1,0 +1,397 @@
+{
+  "address": "uba.fi.naval",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2024",
+    "planMarco": "Plan 2020 · Actualización 2023 · ACS-2024-371-UBA-SG#REC",
+    "expediente": "EX-2023-06080427-UBA-DIMEDA#SA_FI",
+    "resolucionMinisterial": "ME 2617/2023",
+    "cuatrimestres": 11,
+    "cuatrimestresSegundoCiclo": 9,
+    "creditosTotales": 260,
+    "horasTotales": 4160,
+    "materiasObligatorias": 38,
+    "creditosElectivos": 18,
+    "tituloIntermedio": "Bachiller Universitario en Ciencias de la Ingeniería",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.naval",
+      "label": "Ingeniería Naval"
+    }
+  ],
+  "eyebrow": "Ingeniería Naval · Plan 2024 (marco Plan 2020)",
+  "title": "Once cuatrimestres, del cálculo al buque proyectado.",
+  "lede": "El plan vigente de Ingeniería Naval de la FIUBA: dos cuatrimestres de CBC y nueve de segundo ciclo, 260 créditos, 4160 horas. Empieza en matemática, física y representación, pasa por materiales, fluidos y estructuras, y cierra con propulsión, proyecto de buques, prácticas en astilleros y un trabajo integrador final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2024",
+      "small": "Plan 2020"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "obligatorias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del Plan de Estudios oficial publicado por la FIUBA (cms.fi.uba.ar, 'Actualización 2023 | Plan 2020 y resoluciones modificatorias', anexo ACS-2024-371). El documento distribuye las asignaturas obligatorias del segundo ciclo en los cuatrimestres 3º a 11º como una de las distribuciones posibles, con correlatividades. Además exige 18 créditos de asignaturas electivas (listadas en el plan, no trazadas aquí) y un Trabajo Integrador Final de 12 créditos, cursable como Trabajo Profesional o Tesis. Nivel L1: nombres, cuatrimestres, créditos y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Ciencias básicas y primer contacto naval",
+      "exits": [
+        {
+          "address": "uba.fi.naval.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "8 créditos · corr. CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.fisica-sistemas-particulas",
+          "name": "Física de los Sistemas de Partículas",
+          "role": "6 créditos · corr. CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.optica",
+          "name": "Óptica",
+          "role": "2 créditos · corr. CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.intro-ingenieria-naval",
+          "name": "Introducción a la Ingeniería Naval",
+          "role": "4 créditos · corr. CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.medios-representacion",
+          "name": "Medios de Representación",
+          "role": "4 créditos · corr. CBC",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Álgebra, electricidad, química y estática",
+      "exits": [
+        {
+          "address": "uba.fi.naval.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "8 créditos · corr. CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.electricidad-magnetismo",
+          "name": "Electricidad y Magnetismo",
+          "role": "6 créditos · corr. Análisis Matemático II, Física de los Sistemas de Partículas",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.quimica-basica",
+          "name": "Química Básica",
+          "role": "6 créditos · corr. CBC",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.estatica",
+          "name": "Estática",
+          "role": "4 créditos · corr. Física de los Sistemas de Partículas",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Dibujo naval, datos, numérica y materiales",
+      "exits": [
+        {
+          "address": "uba.fi.naval.dibujo-naval-mecanico",
+          "name": "Dibujo Naval y Mecánico",
+          "role": "4 créditos · corr. Medios de Representación, Introducción a la Ingeniería Naval",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.intro-ciencia-datos",
+          "name": "Introducción a la Ciencia de Datos",
+          "role": "3 créditos · corr. Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.modelacion-numerica",
+          "name": "Modelación Numérica",
+          "role": "4 créditos · corr. Análisis Matemático II, Álgebra Lineal",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.resistencia-materiales",
+          "name": "Resistencia de Materiales",
+          "role": "8 créditos · corr. Análisis Matemático II, Estática",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.termodinamica",
+          "name": "Termodinámica",
+          "role": "6 créditos · corr. Química Básica",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Materiales, electrotecnia, estabilidad y fluidos",
+      "exits": [
+        {
+          "address": "uba.fi.naval.conocimiento-materiales",
+          "name": "Conocimiento de Materiales",
+          "role": "6 créditos · corr. Química Básica",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.electrotecnia-maquinas-instalaciones",
+          "name": "Electrotecnia, Máquinas e Instalaciones Eléctricas",
+          "role": "6 créditos · corr. Electricidad y Magnetismo, Introducción a la Ingeniería Naval",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.estabilidad-buque",
+          "name": "Estabilidad del Buque",
+          "role": "6 créditos · corr. Estática, Dibujo Naval y Mecánico",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.higiene-seguridad",
+          "name": "Higiene y Seguridad",
+          "role": "2 créditos · corr. Química Básica",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.mecanica-fluidos",
+          "name": "Mecánica de Fluidos",
+          "role": "6 créditos · corr. Álgebra Lineal, Termodinámica, Resistencia de Materiales",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Estructuras del buque, estadística y sistemas auxiliares",
+      "exits": [
+        {
+          "address": "uba.fi.naval.teoria-estructuras",
+          "name": "Teoría de Estructuras",
+          "role": "6 créditos · corr. Álgebra Lineal, Resistencia de Materiales",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.diseno-estructuras-buques",
+          "name": "Diseño de Estructuras de Buques",
+          "role": "4 créditos · corr. Resistencia de Materiales, Estabilidad del Buque",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "6 créditos · corr. Análisis Matemático II, Álgebra Lineal",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.sistemas-auxiliares-navales",
+          "name": "Sistemas Auxiliares Navales",
+          "role": "6 créditos · corr. Mecánica de Fluidos, Dibujo Naval y Mecánico",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.impacto-social-ambiental",
+          "name": "Impacto Social, Ambiental y Desarrollo Sustentable",
+          "role": "4 créditos · corr. 100 créditos",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Máquinas, propulsión, operación y astilleros",
+      "exits": [
+        {
+          "address": "uba.fi.naval.taller-electronica",
+          "name": "Taller de Electrónica",
+          "role": "3 créditos · corr. Electricidad y Magnetismo, Introducción a la Ingeniería Naval",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.mecanismos-elementos-maquinas",
+          "name": "Mecanismos y Elementos de Máquinas",
+          "role": "6 créditos · corr. Resistencia de Materiales",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.resistencia-propulsion-buques",
+          "name": "Resistencia y Propulsión de Buques",
+          "role": "6 créditos · corr. Estabilidad del Buque, Mecánica de Fluidos",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.sistemas-operacion-buque",
+          "name": "Sistemas Inherentes a la Operación del Buque",
+          "role": "6 créditos · corr. Diseño de Estructuras de Buques, Sistemas Auxiliares Navales",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.tecnologia-astilleros",
+          "name": "Tecnología de Astilleros",
+          "role": "4 créditos · corr. Sistemas Auxiliares Navales, Diseño de Estructuras de Buques, Conocimiento de Materiales",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Análisis estructural, economía, dinámica y plantas propulsoras",
+      "exits": [
+        {
+          "address": "uba.fi.naval.analisis-estructural-buques",
+          "name": "Análisis Estructural de Buques",
+          "role": "6 créditos · corr. Diseño de Estructuras de Buques, Teoría de Estructuras, Probabilidad y Estadística, Modelación Numérica",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.economia-organizacion",
+          "name": "Economía y Organización",
+          "role": "6 créditos · corr. Introducción a la Ingeniería Naval",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.mecanica-clasica-cuerpo-rigido",
+          "name": "Mecánica Clásica del Cuerpo Rígido",
+          "role": "6 créditos · corr. Física de los Sistemas de Partículas, Análisis Matemático II",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.plantas-propulsoras",
+          "name": "Plantas Propulsoras",
+          "role": "6 créditos · corr. Mecanismos y Elementos de Máquinas, Sistemas Auxiliares Navales, Electrotecnia, Máquinas e Instalaciones Eléctricas",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10º cuatrimestre",
+      "title": "Proyecto de buques y prácticas en astilleros",
+      "note": "Más 8 créditos de asignaturas electivas y el inicio del Trabajo Integrador Final.",
+      "exits": [
+        {
+          "address": "uba.fi.naval.proyecto-buques-mercantes",
+          "name": "Proyecto de Buques Mercantes",
+          "role": "6 créditos · corr. Sistemas Inherentes a la Operación del Buque, Plantas Propulsoras, Resistencia y Propulsión de Buques",
+          "tag": "10º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.practicas-astilleros",
+          "name": "Prácticas en Astilleros",
+          "role": "6 créditos · corr. Tecnología de Astilleros, Economía y Organización, Higiene y Seguridad",
+          "tag": "10º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11º cuatrimestre",
+      "title": "Legislación, dinámica estructural y cierre",
+      "note": "Más 10 créditos de asignaturas electivas. El Trabajo Integrador Final (12 créditos) se reparte entre el 10º y el 11º cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.fi.naval.legislacion-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional",
+          "role": "2 créditos · corr. 100 créditos",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.dinamica-estructuras-buques",
+          "name": "Dinámica de Estructuras de Buques",
+          "role": "4 créditos · corr. Teoría de Estructuras, Mecánica Clásica del Cuerpo Rígido",
+          "tag": "11º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.naval.trabajo-integrador-final",
+          "name": "Trabajo Integrador Final · Trabajo Profesional o Tesis de Ingeniería Naval",
+          "role": "12 créditos · corr. 180 créditos",
+          "tag": "10º–11º cuat.",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "FIUBA · Plan de Estudios Ingeniería Naval (Actualización 2023 | Plan 2020, ACS-2024-371-UBA-SG#REC)",
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Naval_92471f6cb7.pdf"
+  }
+}

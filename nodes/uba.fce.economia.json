@@ -1,0 +1,504 @@
+{
+  "address": "uba.fce.economia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente (oferta 2026)",
+    "duracionPromedio": "4 años y medio",
+    "cargaHorariaTotal": 2600,
+    "ciclos": [
+      "Ciclo de Formación General",
+      "Ciclo de Formación Profesional",
+      "Ciclo Profesional Orientado"
+    ],
+    "orientaciones": [
+      "Empresarial",
+      "Gobierno y Políticas Públicas",
+      "Análisis e Investigación Económica"
+    ],
+    "materiasObligatorias": 25,
+    "electivasRequeridas": 4,
+    "materiasNombradas": 55,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    },
+    {
+      "address": "uba.fce.economia",
+      "label": "Economía"
+    }
+  ],
+  "eyebrow": "Licenciatura en Economía · plan vigente",
+  "title": "Cuatro años y medio, del tronco común a la orientación.",
+  "lede": "El plan real de la Licenciatura en Economía de la Facultad de Ciencias Económicas: 2.600 horas en tres ciclos — un ciclo general de seis materias, un ciclo profesional de diecinueve obligatorias y un ciclo orientado donde se eligen cuatro asignaturas según la orientación. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "oferta 2026"
+    },
+    {
+      "k": "Materias",
+      "v": "25",
+      "small": "obligatorias + 4 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 55"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en economicas.uba.ar/alumnos/economia. Nivel L1: los códigos, nombres, cargas horarias y correlatividades son reales; la página no consigna número de resolución ni año del plan, y por eso no se afirman. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 6 materias",
+      "title": "La base común de Económicas",
+      "note": "Seis obligatorias sin correlativas (432 h). Aprobar el ciclo completo habilita el ciclo profesional.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.analisis-matematico-i",
+          "name": "Análisis Matemático I",
+          "role": "108 h · sin correlativas",
+          "tag": "cód. · 241",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia",
+          "name": "Economía",
+          "role": "72 h · sin correlativas",
+          "tag": "cód. · 242",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.algebra",
+          "name": "Álgebra",
+          "role": "72 h · sin correlativas",
+          "tag": "cód. · 245",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.historia-economica-y-social-general",
+          "name": "Historia Económica y Social General",
+          "role": "72 h · sin correlativas",
+          "tag": "cód. · 246",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.analisis-contable",
+          "name": "Análisis Contable",
+          "role": "72 h · sin correlativas",
+          "tag": "cód. · 255",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.instituciones-de-gobierno-y-economia-politica",
+          "name": "Instituciones de Gobierno y Economía Política",
+          "role": "72 h · sin correlativas",
+          "tag": "cód. · 256",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional · 19 obligatorias",
+      "title": "Del modelo a la política económica",
+      "note": "Macro, micro, métodos cuantitativos, historia y política económica argentina. Las cuatro cajas de electivas/optativas del ciclo (2×148 h + 2×72 h) se llenan según la orientación.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.macroeconomia-i",
+          "name": "Macroeconomía I",
+          "role": "108 h · ciclo general aprobado",
+          "tag": "cód. · 262",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.macroeconomia-ii",
+          "name": "Macroeconomía II",
+          "role": "108 h · req. 262, 544",
+          "tag": "cód. · 283",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.microeconomia-ii",
+          "name": "Microeconomía II",
+          "role": "108 h · req. 291, 544",
+          "tag": "cód. · 286",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.microeconomia-para-economistas",
+          "name": "Microeconomía para Economistas",
+          "role": "108 h · req. 542",
+          "tag": "cód. · 291",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.analisis-estadistico-i",
+          "name": "Análisis Estadístico I",
+          "role": "108 h · ciclo general aprobado",
+          "tag": "cód. · 540",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.historia-de-la-economia-y-las-politicas-economicas-en-argentina",
+          "name": "Historia de la Economía y las Políticas Económicas en Argentina",
+          "role": "72 h · ciclo general aprobado",
+          "tag": "cód. · 541",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.matematica-aplicada-i",
+          "name": "Matemática Aplicada I",
+          "role": "108 h · ciclo general aprobado",
+          "tag": "cód. · 542",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.econometria-i",
+          "name": "Econometría I",
+          "role": "108 h · req. 540, 544",
+          "tag": "cód. · 543",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.matematica-aplicada-ii",
+          "name": "Matemática Aplicada II",
+          "role": "108 h · req. 542",
+          "tag": "cód. · 544",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.epistemologia-e-historia-del-pensamiento-economico",
+          "name": "Epistemología e Historia del Pensamiento Económico",
+          "role": "72 h · req. 262",
+          "tag": "cód. · 545",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.econometria-ii",
+          "name": "Econometría II",
+          "role": "108 h · req. 543",
+          "tag": "cód. · 546",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.estructura-y-politicas-economicas-y-sociales-en-argentina",
+          "name": "Estructura y Políticas Económicas y Sociales en Argentina",
+          "role": "72 h · req. 262, 541, 543, 556",
+          "tag": "cód. · 547",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.dinero-y-bancos",
+          "name": "Dinero y Bancos",
+          "role": "72 h · req. 283, 546, 549",
+          "tag": "cód. · 548",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-financiera",
+          "name": "Economía Financiera",
+          "role": "72 h · req. 262, 291",
+          "tag": "cód. · 549",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.crecimiento-economico",
+          "name": "Crecimiento Económico",
+          "role": "72 h · req. 283, 291",
+          "tag": "cód. · 554",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.organizacion-industrial",
+          "name": "Organización Industrial",
+          "role": "72 h · req. 286",
+          "tag": "cód. · 555",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.finanzas-publicas",
+          "name": "Finanzas Públicas",
+          "role": "72 h · req. 291",
+          "tag": "cód. · 556",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-internacional",
+          "name": "Economía Internacional",
+          "role": "72 h · req. 262, 286",
+          "tag": "cód. · 558",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.desarrollo-economico",
+          "name": "Desarrollo Económico",
+          "role": "72 h · req. 262, 291, 543",
+          "tag": "cód. · 559",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Empresarial · exclusivas",
+      "title": "Datos, finanzas y empresa",
+      "note": "Cuatro asignaturas: dos exclusivas de la orientación y dos generales.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.ciencias-de-datos-para-economia-y-negocios",
+          "name": "Ciencias de Datos para Economía y Negocios",
+          "role": "optativa exclusiva · req. 540, 544",
+          "tag": "empresarial · 520",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-y-derecho-corporativo",
+          "name": "Economía y Derecho Corporativo",
+          "role": "optativa exclusiva · req. 291",
+          "tag": "empresarial · 523",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.finanzas-corporativas",
+          "name": "Finanzas Corporativas",
+          "role": "optativa exclusiva · req. 549",
+          "tag": "empresarial · 524",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.topicos-de-economia-digital",
+          "name": "Tópicos de Economía Digital",
+          "role": "optativa exclusiva · req. 262, 291",
+          "tag": "empresarial · 525",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.big-data-y-machine-learning",
+          "name": "Big Data y Machine Learning",
+          "role": "optativa exclusiva · req. 543",
+          "tag": "empresarial · 527",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.administracion-tributaria-para-economistas",
+          "name": "Administración Tributaria para Economistas",
+          "role": "electiva exclusiva · req. 556",
+          "tag": "empresarial · 1725",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Gobierno y Políticas Públicas · exclusivas",
+      "title": "Cuentas, simulación y protección social",
+      "note": "Cuatro asignaturas: dos exclusivas de la orientación y dos generales.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.economia-de-la-innovacion",
+          "name": "Economía de la Innovación",
+          "role": "optativa exclusiva · req. 291, 543",
+          "tag": "gobierno · 563",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.modelos-economicos-de-simulacion",
+          "name": "Modelos Económicos de Simulación",
+          "role": "electiva exclusiva · req. 262, 286",
+          "tag": "gobierno · 1718",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.cuentas-nacionales-e-indicadores-economicos",
+          "name": "Cuentas Nacionales e Indicadores Económicos",
+          "role": "electiva exclusiva · req. 262, 544",
+          "tag": "gobierno · 1720",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-de-la-proteccion-social",
+          "name": "Economía de la Protección Social",
+          "role": "electiva exclusiva · req. 556",
+          "tag": "gobierno · 1724",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Análisis e Investigación Económica · exclusivas",
+      "title": "Escuelas, poder y seminario",
+      "note": "Seminario de Integración obligatorio más tres asignaturas, al menos una exclusiva.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.seminario-de-integracion",
+          "name": "Seminario de Integración",
+          "role": "obligatorio de la orientación · req. 283, 286, 546",
+          "tag": "análisis · 1562",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-austriaca",
+          "name": "Economía Austríaca",
+          "role": "optativa exclusiva · req. 545",
+          "tag": "análisis · 521",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.topicos-de-historia-del-pensamiento-economico-y-epistemologia-de-la-economia",
+          "name": "Tópicos de Historia del Pensamiento Económico y Epistemología de la Economía",
+          "role": "optativa exclusiva · req. 545",
+          "tag": "análisis · 526",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.poder-economico-y-derechos-humanos",
+          "name": "Poder Económico y Derechos Humanos",
+          "role": "optativa exclusiva · req. 547, 559",
+          "tag": "análisis · 721",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.sistemas-economicos-comparados",
+          "name": "Sistemas Económicos Comparados",
+          "role": "electiva exclusiva · req. 262, 556",
+          "tag": "análisis · 734",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-marxista",
+          "name": "Economía Marxista",
+          "role": "optativa exclusiva · req. 545",
+          "tag": "análisis · 767",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-sraffiana",
+          "name": "Economía Sraffiana",
+          "role": "optativa general · req. 545",
+          "tag": "análisis · 522",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas y optativas generales · compartidas",
+      "title": "El menú común de las tres orientaciones",
+      "note": "Asignaturas generales que aparecen en más de una orientación; la oferta se completa cada año con las optativas que aprueba el Consejo Superior.",
+      "exits": [
+        {
+          "address": "uba.fce.economia.economia-y-procesamiento-de-datos-no-tradicionales",
+          "name": "Economía y Procesamiento de Datos No Tradicionales",
+          "role": "electiva general · req. 540, 544",
+          "tag": "general · 708",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.topicos-de-microeconomia",
+          "name": "Tópicos de Microeconomía",
+          "role": "optativa general · req. 286",
+          "tag": "general · 713",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-de-la-energia",
+          "name": "Economía de la Energía",
+          "role": "electiva general · req. 291",
+          "tag": "general · 745",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.evaluacion-de-proyectos",
+          "name": "Evaluación de Proyectos",
+          "role": "optativa general · req. 291",
+          "tag": "general · 748",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.gestion-en-la-economia-social",
+          "name": "Gestión en la Economía Social",
+          "role": "optativa general · req. 559",
+          "tag": "general · 764",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-ambiental",
+          "name": "Economía Ambiental",
+          "role": "electiva general · req. 291",
+          "tag": "general · 765",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.topicos-de-macroeconomia",
+          "name": "Tópicos de Macroeconomía",
+          "role": "optativa general · req. 283, 546, 549",
+          "tag": "general · 779",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-agropecuaria",
+          "name": "Economía Agropecuaria",
+          "role": "electiva general · req. 291",
+          "tag": "general · 780",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-laboral",
+          "name": "Economía Laboral",
+          "role": "electiva general · req. 262, 291, 543",
+          "tag": "general · 782",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-regional-y-urbana",
+          "name": "Economía Regional y Urbana",
+          "role": "electiva general · req. 291",
+          "tag": "general · 1287",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-y-genero",
+          "name": "Economía y Género",
+          "role": "electiva general · req. 559",
+          "tag": "general · 1716",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.evaluacion-de-impacto",
+          "name": "Evaluación de Impacto",
+          "role": "electiva general · req. 543",
+          "tag": "general · 1717",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fce.economia.economia-del-comportamiento",
+          "name": "Economía del Comportamiento",
+          "role": "electiva general · req. 286",
+          "tag": "general · 1721",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos/economia · plan de estudios",
+    "url": "https://economicas.uba.ar/alumnos/economia/"
+  }
+}

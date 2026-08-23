@@ -1,0 +1,297 @@
+{
+  "address": "uba.fi.analisis-de-sistemas",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1986 versión 2014 (actualización 2016)",
+    "resolucion": "Res. (CS) Nº 1662/14",
+    "titulo": "Licenciado/a en Análisis de Sistemas",
+    "duracionAños": 4.5,
+    "cuatrimestres": 9,
+    "cuatrimestresSegundoCiclo": 7,
+    "materias": 25,
+    "creditosSegundoCiclo": 176,
+    "creditosObligatorios": 148,
+    "creditosElectivos": 28,
+    "horasTotales": 3424,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    },
+    {
+      "address": "uba.fi.analisis-de-sistemas",
+      "label": "Análisis de Sistemas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Análisis de Sistemas · Plan 1986 v2014",
+  "title": "Siete cuatrimestres, de Algoritmos I al Trabajo Profesional.",
+  "lede": "El plan vigente de la única licenciatura de Ingeniería: un segundo ciclo de siete cuatrimestres (del 3º al 9º) que arranca en matemática y programación, cruza organización del computador, datos y sistemas operativos, y desemboca en ingeniería de software, gestión de proyectos, redes y un trabajo profesional final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1986 v2014",
+      "small": "act. 2016"
+    },
+    {
+      "k": "Materias",
+      "v": "25",
+      "small": "obligatorias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 25"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por FIUBA (Plan 1986 modificado en 2014, actualización 2016, vigente para quienes iniciaron el segundo ciclo desde el 2º cuatrimestre de 2015). Nivel L1: códigos, nombres, cuatrimestres, créditos y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan también fija 28 créditos en electivas a elegir de una lista (Criptografía, Teoría de Algoritmos I, Inteligencia Artificial, Simulación, Minería de Datos, etc.); esos cupos sin nombre no se dibujan como puertas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Matemática y primer programa",
+      "note": "22 créditos · correlativa: Primer Ciclo (CBC)",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.analisis-matematico-2",
+          "name": "Análisis Matemático II",
+          "role": "81.01 · 8 créditos",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.algebra-2",
+          "name": "Álgebra II",
+          "role": "81.02 · 8 créditos",
+          "tag": "3º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.algoritmos-y-programacion-1",
+          "name": "Algoritmos y Programación I",
+          "role": "95.14 · 6 créditos",
+          "tag": "3º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Discreta y la máquina",
+      "note": "20 créditos",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.matematica-discreta",
+          "name": "Matemática Discreta",
+          "role": "81.11 · 6 créditos · correl. Primer Ciclo",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.organizacion-del-computador",
+          "name": "Organización del Computador",
+          "role": "95.57 · 8 créditos · correl. 95.14",
+          "tag": "4º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.algoritmos-y-programacion-2",
+          "name": "Algoritmos y Programación II",
+          "role": "95.15 · 6 créditos · correl. 95.14",
+          "tag": "4º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Probabilidad, organizaciones y datos",
+      "note": "24 créditos",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.probabilidad-y-estadistica-b",
+          "name": "Probabilidad y Estadística B",
+          "role": "81.04 · 6 créditos · correl. 81.01, 81.02",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.estructuras-y-procesos-organizacionales",
+          "name": "Estructuras y Procesos Organizacionales",
+          "role": "91.39 · 6 créditos · correl. 22 créditos aprobados",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.organizacion-de-datos",
+          "name": "Organización de Datos",
+          "role": "95.58 · 6 créditos · correl. 95.57, 95.15",
+          "tag": "5º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.algoritmos-y-programacion-3",
+          "name": "Algoritmos y Programación III",
+          "role": "95.02 · 6 créditos · correl. 95.15",
+          "tag": "5º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Sistemas operativos e ingeniería de software",
+      "note": "26 créditos · incluye 6 créditos de electivas",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.economia-de-las-organizaciones",
+          "name": "Economía de las Organizaciones",
+          "role": "91.41 · 4 créditos · correl. 81.04, 91.39",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.sistemas-operativos",
+          "name": "Sistemas Operativos",
+          "role": "95.03 · 6 créditos · correl. 95.58",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.metodos-y-modelos-en-la-ingenieria-de-software-1",
+          "name": "Métodos y Modelos en la Ingeniería de Software I",
+          "role": "95.20 · 6 créditos · correl. 95.02, 95.58",
+          "tag": "6º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.taller-de-programacion",
+          "name": "Taller de Programación",
+          "role": "95.08 · 4 créditos · correl. 95.02, 95.57",
+          "tag": "6º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7º cuatrimestre",
+      "title": "Optimización, bases de datos y administración",
+      "note": "28 créditos · incluye 6 créditos de electivas",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.modelos-y-optimizacion-1",
+          "name": "Modelos y Optimización I",
+          "role": "91.04 · 6 créditos · correl. 81.01, 81.02, 81.11, 95.15",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.metodos-y-modelos-en-la-ingenieria-de-software-2",
+          "name": "Métodos y Modelos en la Ingeniería de Software II",
+          "role": "95.21 · 6 créditos · correl. 95.20",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.base-de-datos",
+          "name": "Base de Datos",
+          "role": "95.05 · 6 créditos · correl. 95.20",
+          "tag": "7º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.administracion-de-las-organizaciones",
+          "name": "Administración de las Organizaciones",
+          "role": "91.42 · 4 créditos · correl. 91.41, 95.20",
+          "tag": "7º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8º cuatrimestre",
+      "title": "Proyectos, servicios y redes",
+      "note": "28 créditos · incluye 8 créditos de electivas",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.modelos-y-optimizacion-2",
+          "name": "Modelos y Optimización II",
+          "role": "91.05 · 4 créditos · correl. 81.04, 91.04",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.administracion-y-control-de-proyectos-informaticos-1",
+          "name": "Administración y Control de Proyectos Informáticos I",
+          "role": "95.24 · 6 créditos · correl. 91.42, 95.21",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.diseno-operacion-y-gestion-de-servicios-informaticos",
+          "name": "Diseño, Operación y Gestión de Servicios Informáticos",
+          "role": "95.59 · 4 créditos · correl. 91.42, 95.21",
+          "tag": "8º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.redes-y-aplicaciones-distribuidas",
+          "name": "Redes y Aplicaciones Distribuidas",
+          "role": "95.60 · 6 créditos · correl. 95.05, 95.03",
+          "tag": "8º cuat.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9º cuatrimestre",
+      "title": "Trabajo profesional, ley y calidad",
+      "note": "28 créditos · incluye 8 créditos de electivas",
+      "exits": [
+        {
+          "address": "uba.fi.analisis-de-sistemas.trabajo-profesional",
+          "name": "Trabajo Profesional de Licenciatura en Análisis de Sistemas",
+          "role": "95.61 · 12 créditos · correl. 95.24, 95.59, 95.60",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.legislacion-y-ejercicio-profesional",
+          "name": "Legislación y Ejercicio Profesional en Sistemas e Informática",
+          "role": "91.40 · 4 créditos · correl. 100 créditos aprobados",
+          "tag": "9º cuat.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas.estandares-de-calidad-y-modelos-de-referencia",
+          "name": "Estándares de Calidad y Modelos de Referencia",
+          "role": "95.30 · 4 créditos · correl. 95.24",
+          "tag": "9º cuat.",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar · Plan de Estudios Lic. en Análisis de Sistemas 1986 v2014 (act. 2016), Res. CS 1662/14",
+    "url": "https://cms.fi.uba.ar/uploads/Licenciatura_en_Analisis_de_Sistemas_1986_V2014_2ae2b76148.pdf"
+  }
+}
