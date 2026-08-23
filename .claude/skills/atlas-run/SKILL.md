@@ -13,6 +13,7 @@ the artifact they produce.
 | server | `node serve.js &` | serves the local navigator on `:4137` (`/` and `/graph`) and accepts jobs into `queue.json` |
 | watcher | `node watch-queue.js &` | sleeps on `queue.json`; on a change, prints the pending jobs and exits — that wakes the agent |
 | site build | `node build-site.js` | renders `nodes/` + `site-src/` into `site/` (the static artifact) |
+| checker | `node check-graph.js` | validates graph invariants (schema, cross-links, citations); errors exit 1 |
 
 ## Work the queue
 
@@ -23,6 +24,10 @@ the artifact they produce.
 
 Rules: fail hard. If the source is not there, seal the node — do not invent.
 A job never renders past its grounding level.
+
+After every batch of node writes, run `node check-graph.js`. Commit only when it
+reports zero errors. This protects the graph: every batch is versioned in git,
+so a bad batch is one `git revert` away.
 
 ## Deploy the artifact
 
