@@ -14,6 +14,8 @@ Handles every gap the pilot hit:
 - **Google-Drive share links** → direct download → fixes the Filosofía oferta-horaria Drive PDFs.
 - **pdftotext -layout** for text PDFs; **OCR fallback** (pdftoppm → tesseract `spa+eng`) for scans → fixes Medicina's un-OCR'd EPSON programas.
 - Rejects HTML/login pages (non-`%PDF`) instead of pretending — fail-hard.
+- OCR runs with `--psm 1` (orientation detection). Without it, landscape scans (e.g. fmed's
+  Anatomía programa, 52 pp) come out mirrored — found during the Anatomía L2 end-to-end test.
 
 Writes `out/<outName>.txt`, prints a JSON status (`method: text|ocr`, chars, truncated).
 

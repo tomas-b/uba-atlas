@@ -1,0 +1,762 @@
+{
+  "address": "uba.med.medicina.anatomia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "anual",
+    "año": "1º año · Ciclo Biomédico",
+    "cargaHoraria": "250 hs anuales (4 hs semanales de trabajos prácticos obligatorios; teóricas optativas)",
+    "catedra": "3 cátedras (turnos mañana, tarde y noche)",
+    "programa": "Anatomía Humana Normal 2016 · EXP-UBA 0055686/2016",
+    "unidades": 51,
+    "secciones": 11,
+    "bibliography": 34
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.anatomia",
+      "label": "Anatomía"
+    }
+  ],
+  "eyebrow": "Anatomía · programa (materia)",
+  "title": "El cuerpo entero, región por región, hasta el sistema nervioso.",
+  "lede": "Materia anual de primer año del ciclo biomédico. Empieza por la nomenclatura y los planos, arma huesos, articulaciones, vasos y nervios, y recorre el cuerpo por regiones — cabeza, raquis, miembros, cuello, tórax, abdomen, pelvis — para cerrar con el sistema nervioso central y los órganos de los sentidos. Cada unidad remata en su correlato por imágenes. Extraída del programa analítico oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "anual",
+      "small": "250 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "51",
+      "small": "11 secciones"
+    },
+    {
+      "k": "Referencias",
+      "v": "34",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa analítico oficial (PDF escaneado, 52 páginas, leído por OCR). Las secciones, las unidades y las referencias bibliográficas salen del texto real del programa: trabajos prácticos obligatorios de 4 horas semanales, teóricas optativas, 250 horas anuales, tres cátedras. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Sección A · unidades 1–4",
+      "title": "Generalidades",
+      "note": "Sección A del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.nomenclatura",
+          "name": "1. Nomenclatura",
+          "role": "unidad 1",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.terminos-de-situacion",
+          "name": "2. Términos de situación",
+          "role": "unidad 2",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.huesos-articulaciones-y-musculos",
+          "name": "3. Huesos, articulaciones y músculos",
+          "role": "unidad 3",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.vasos-y-nervios",
+          "name": "4. Vasos y nervios",
+          "role": "unidad 4",
+          "tag": "generalidades",
+          "kind": "unit"
+        }
+      ],
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "ANATOMÍA HUMANA NORMAL — el cuerpo, región por región\n│\n├─ A. Generalidades · u. 1–4\n├─ B. Cabeza · u. 5–7\n├─ C. Dorso del tronco y nuca · u. 8–8\n├─ D. Miembro superior · u. 9–14\n├─ E. Miembro inferior · u. 15–19\n├─ F. Cuello · Cara · u. 20–22\n├─ G. Tórax · u. 23–27\n├─ H. Abdomen · u. 28–35\n├─ I. Pelvis · u. 36–39\n├─ J. Generalidades del sistema nervioso · u. 40–40\n└─ K. Sistema nervioso central · u. 41–51",
+        "foot": "Once secciones y 51 unidades tomadas del programa analítico. La granularidad de tiempo es solo el régimen (anual); no hay cronograma fechado."
+      }
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección B · unidades 5–7",
+      "title": "Cabeza",
+      "note": "Sección B del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.cabeza-osea",
+          "name": "5. Cabeza ósea",
+          "role": "unidad 5",
+          "tag": "cabeza",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.neurocraneo",
+          "name": "6. Neurocráneo",
+          "role": "unidad 6",
+          "tag": "cabeza",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.viscerocraneo",
+          "name": "7. Viscerocráneo",
+          "role": "unidad 7",
+          "tag": "cabeza",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección C · unidades 8–8",
+      "title": "Dorso del tronco y nuca",
+      "note": "Sección C del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.raquis",
+          "name": "8. Raquis",
+          "role": "unidad 8",
+          "tag": "dorso del tronco y nuca",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección D · unidades 9–14",
+      "title": "Miembro superior",
+      "note": "Sección D del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.hombro",
+          "name": "9. Hombro",
+          "role": "unidad 9",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.brazo",
+          "name": "10. Brazo",
+          "role": "unidad 10",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.codo",
+          "name": "11. Codo",
+          "role": "unidad 11",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.antebrazo",
+          "name": "12. Antebrazo",
+          "role": "unidad 12",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.muneca",
+          "name": "13. Muñeca",
+          "role": "unidad 13",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.mano",
+          "name": "14. Mano",
+          "role": "unidad 14",
+          "tag": "miembro superior",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección E · unidades 15–19",
+      "title": "Miembro inferior",
+      "note": "Sección E del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.pelvis-y-region-glutea",
+          "name": "15. Pelvis y región glútea",
+          "role": "unidad 15",
+          "tag": "miembro inferior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.muslo",
+          "name": "16. Muslo",
+          "role": "unidad 16",
+          "tag": "miembro inferior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.rodilla",
+          "name": "17. Rodilla",
+          "role": "unidad 17",
+          "tag": "miembro inferior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.pierna",
+          "name": "18. Pierna",
+          "role": "unidad 18",
+          "tag": "miembro inferior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.garganta-del-pie-y-pie",
+          "name": "19. Garganta del pie y pie",
+          "role": "unidad 19",
+          "tag": "miembro inferior",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección F · unidades 20–22",
+      "title": "Cuello · Cara",
+      "note": "Sección F del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.fosas-nasales-boca-glandulas-salivales",
+          "name": "20. Fosas nasales. Boca. Glándulas salivales",
+          "role": "unidad 20",
+          "tag": "cuello · cara",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.faringe-espacio-maxilovertebrofaringeo",
+          "name": "21. Faringe. Espacio maxilovertebrofaríngeo",
+          "role": "unidad 21",
+          "tag": "cuello · cara",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.cuello",
+          "name": "22. Cuello",
+          "role": "unidad 22",
+          "tag": "cuello · cara",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección G · unidades 23–27",
+      "title": "Tórax",
+      "note": "Sección G del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.paredes-del-torax",
+          "name": "23. Paredes del tórax",
+          "role": "unidad 23",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.traquea-bronquios-pulmones",
+          "name": "24. Tráquea. Bronquios. Pulmones",
+          "role": "unidad 24",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.corazon",
+          "name": "25. Corazón",
+          "role": "unidad 25",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.mediastino",
+          "name": "26. Mediastino",
+          "role": "unidad 26",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.cortes-de-torax",
+          "name": "27. Cortes de tórax",
+          "role": "unidad 27",
+          "tag": "tórax",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección H · unidades 28–35",
+      "title": "Abdomen",
+      "note": "Sección H del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.paredes-de-abdomen",
+          "name": "28. Paredes de abdomen",
+          "role": "unidad 28",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.peritoneo",
+          "name": "29. Peritoneo",
+          "role": "unidad 29",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.abdomen-supramesocolonico",
+          "name": "30. Abdomen supramesocolónico",
+          "role": "unidad 30",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.higado-y-vias-biliares",
+          "name": "31. Hígado y vías biliares",
+          "role": "unidad 31",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.duodeno-y-pancreas",
+          "name": "32. Duodeno y páncreas",
+          "role": "unidad 32",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.abdomen-inframesocolonico",
+          "name": "33. Abdomen inframesocolónico",
+          "role": "unidad 33",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.retroperitoneo",
+          "name": "34. Retroperitoneo",
+          "role": "unidad 34",
+          "tag": "abdomen",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.cortes-de-abdomen",
+          "name": "35. Cortes de abdomen",
+          "role": "unidad 35",
+          "tag": "abdomen",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección I · unidades 36–39",
+      "title": "Pelvis",
+      "note": "Sección I del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.paredes-pelvianas",
+          "name": "36. Paredes pelvianas",
+          "role": "unidad 36",
+          "tag": "pelvis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.vejiga-y-recto",
+          "name": "37. Vejiga y recto",
+          "role": "unidad 37",
+          "tag": "pelvis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.perine-y-genitales",
+          "name": "38. Periné y genitales",
+          "role": "unidad 38",
+          "tag": "pelvis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.cortes-de-pelvis",
+          "name": "39. Cortes de pelvis",
+          "role": "unidad 39",
+          "tag": "pelvis",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección J · unidades 40–40",
+      "title": "Generalidades del sistema nervioso",
+      "note": "Sección J del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.organizacion-del-sistema-nervioso",
+          "name": "40. Organización del sistema nervioso",
+          "role": "unidad 40",
+          "tag": "generalidades del sistema nervioso",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sección K · unidades 41–51",
+      "title": "Sistema nervioso central",
+      "note": "Sección K del programa analítico; cada unidad es un tema del temario.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.macroscopia-microscopia-y-sistematizacion-de-cerebro",
+          "name": "41. Macroscopía, microscopía y sistematización de cerebro",
+          "role": "unidad 41",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.macroscopia-microscopia-y-sistematizacion-del-tronco-cerebral",
+          "name": "42. Macroscopía, microscopía y sistematización del tronco cerebral",
+          "role": "unidad 42",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.macroscopia-microscopia-y-sistematizacion-del-cerebelo",
+          "name": "43. Macroscopía, microscopía y sistematización del cerebelo",
+          "role": "unidad 43",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.macroscopia-microscopia-y-sistematizacion-de-la-medula-espinal",
+          "name": "44. Macroscopía, microscopía y sistematización de la médula espinal",
+          "role": "unidad 44",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.meninges-y-sistema-ventricular",
+          "name": "45. Meninges y sistema ventricular",
+          "role": "unidad 45",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.vascularizacion-del-sistema-nervioso-central",
+          "name": "46. Vascularización del sistema nervioso central",
+          "role": "unidad 46",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.vias-de-conduccion",
+          "name": "47. Vías de conducción",
+          "role": "unidad 47",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.pares-craneales",
+          "name": "48. Pares craneales",
+          "role": "unidad 48",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.sistema-nervioso-periferico",
+          "name": "49. Sistema nervioso periférico",
+          "role": "unidad 49",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.sistema-nervioso-vegetativo",
+          "name": "50. Sistema nervioso vegetativo",
+          "role": "unidad 50",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.organos-de-los-sentidos",
+          "name": "51. Órganos de los sentidos",
+          "role": "unidad 51",
+          "tag": "sistema nervioso central",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, en sus seis grupos (textos, anatomía clínica, neuroanatomía, atlas, atlas fotográficos, anatomía radiológica) más la bibliografía adicional. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia.latarjet",
+          "name": "Latarjet, Ruiz Liard, Pró — Anatomía Humana",
+          "role": "4ª ed. · Médica Panamericana",
+          "tag": "textos",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.rouviere",
+          "name": "Rouvière, Delmas — Anatomía Humana",
+          "role": "11ª ed. · Masson 2005",
+          "tag": "textos",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.gray-basica",
+          "name": "Drake, Vogl, Mitchell — Anatomía Básica de Gray",
+          "role": "Elsevier 2013",
+          "tag": "textos",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.gray-williams",
+          "name": "Williams — Anatomía de Gray",
+          "role": "38ª ed. · Harcourt Brace",
+          "tag": "textos",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.abc-corazon",
+          "name": "Abuin, Barceló, Cichero — El ABC del Corazón",
+          "role": "Ed. SIM 2010",
+          "tag": "textos",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.gray-estudiantes",
+          "name": "Drake, Vogl, Mitchell — Anatomía de Gray para Estudiantes",
+          "role": "2ª ed. · Elsevier 2010",
+          "tag": "anatomía clínica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.moore",
+          "name": "Moore, Dalley, Agur — Anatomía con orientación clínica",
+          "role": "7ª ed. · Wolters Kluwer Lippincott Williams & Wilkins 2014",
+          "tag": "anatomía clínica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.pro-clinica",
+          "name": "Pró — Anatomía Clínica",
+          "role": "2ª ed. · Médica Panamericana 2014",
+          "tag": "anatomía clínica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.guzman-casos",
+          "name": "Guzmán López, Elizondo-Omaña — Anatomía Humana en Casos Clínicos",
+          "role": "2ª ed. · Médica Panamericana 2013",
+          "tag": "anatomía clínica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.canby",
+          "name": "Canby — Anatomía basada en la resolución de problemas",
+          "role": "Elsevier 2007",
+          "tag": "anatomía clínica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.fitzgerald",
+          "name": "Fitzgerald, Gruener, Mtui — Neuroanatomía clínica y Neurociencia",
+          "role": "6ª ed. · Elsevier 2012",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.haines",
+          "name": "Haines — Principios de Neurociencia",
+          "role": "4ª ed. · Elsevier 2014",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.barr",
+          "name": "Kiernan — Barr. El sistema nervioso humano",
+          "role": "10ª ed. · Wolters Kluwer Lippincott Williams & Wilkins 2014",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.snell",
+          "name": "Snell — Neuroanatomía Clínica",
+          "role": "7ª ed. · Wolters Kluwer Lippincott Williams & Wilkins 2010",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.netter-neurociencia",
+          "name": "Felten, Shetty — Netter. Atlas de Neurociencia",
+          "role": "2ª ed. · Elsevier 2010",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.nervios-craneales",
+          "name": "Wilson-Pauwels, Akesson, Stewart, Spacey — Nervios Craneales",
+          "role": "3ª ed. · Médica Panamericana 2013",
+          "tag": "neuroanatomía",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.prometheus-gilroy",
+          "name": "Gilroy, McPherson, Ross — Prometheus. Atlas de Anatomía",
+          "role": "Médica Panamericana 2008",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.netter",
+          "name": "Netter — Atlas de Anatomía Humana",
+          "role": "5ª ed. · Elsevier 2001",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.sobotta",
+          "name": "Sobotta, Putz, Pabst — Atlas de Anatomía Humana",
+          "role": "23ª ed. · Médica Panamericana 2012",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.master",
+          "name": "Master — Atlas de Anatomía Humana",
+          "role": "4ª ed. · Marbán 2014",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.prometheus-schunke",
+          "name": "Schünke, Schulte, Schumacher, Voll, Wesker — Prometheus",
+          "role": "2ª ed. · Médica Panamericana 2010",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.platzer",
+          "name": "Platzer, Fritsch, Kahle — Atlas de Anatomía con correlación clínica",
+          "role": "9ª ed. · Médica Panamericana 2008",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.rohen",
+          "name": "Rohen, Yokochi, Lütjen-Drecoll — Atlas de Anatomía Humana",
+          "role": "7ª ed. · Elsevier 2011",
+          "tag": "atlas fotográfico",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.mcminn",
+          "name": "McMinn, Hutchings — Atlas de Anatomía Humana",
+          "role": "5ª ed. · Océano 2005",
+          "tag": "atlas fotográfico",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.nielsen",
+          "name": "Nielsen, Miller — Atlas de Anatomía Humana",
+          "role": "Médica Panamericana 2012",
+          "tag": "atlas fotográfico",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.ellis-cortes",
+          "name": "Ellis, Logan, Dixon — Cortes Anatómicos",
+          "role": "Marbán 2013",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.ryan",
+          "name": "Ryan, McNicholas, Eustace — Radiología Anatómica",
+          "role": "Marbán 2013",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.santin",
+          "name": "Santín García, Santín Potts — Atlas de Anatomía Radiológica",
+          "role": "5ª ed. · McGraw-Hill Interamericana",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.weir",
+          "name": "Weir, Abrahams, Spratt, Salkowski — Atlas de anatomía humana por técnicas de imagen",
+          "role": "4ª ed. · Elsevier 2011",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.moller-radiologica",
+          "name": "Möller, Reif — Anatomía Radiológica",
+          "role": "2ª ed. · Marbán 2001",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.moller-tc-rm",
+          "name": "Möller — Imágenes normales de TC y RM",
+          "role": "Médica Panamericana 2000",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.moller-bolsillo",
+          "name": "Möller, Reif — Atlas de bolsillo de cortes anatómicos: TC y RM",
+          "role": "3ª ed. · Médica Panamericana 2007",
+          "tag": "anatomía radiológica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.feneis",
+          "name": "Dauber — Feneis. Nomenclatura Anatómica Ilustrada",
+          "role": "5ª ed. · Masson 2006",
+          "tag": "adicional",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.anatomia.diccionario-ranm",
+          "name": "Real Academia Nacional de Medicina — Diccionario de Términos Médicos",
+          "role": "Médica Panamericana 2012",
+          "tag": "adicional",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Anatomía Humana Normal 2016 (PDF escaneado, EXP-UBA 0055686/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/01-Anatomia_0.pdf"
+  }
+}

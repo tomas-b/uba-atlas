@@ -63,7 +63,8 @@ try {
   let ocr = "";
   for (const img of imgs) {
     const base = path.join(tmp, img.replace(/\.png$/, ""));
-    try { execFileSync("tesseract", [path.join(tmp, img), base, "-l", L], { stdio: "ignore" });
+    // --psm 1: OSD auto-orientation — landscape scans (fmed programas) come out mirrored without it
+    try { execFileSync("tesseract", [path.join(tmp, img), base, "-l", L, "--psm", "1"], { stdio: "ignore" });
       ocr += fs.readFileSync(base + ".txt", "utf8") + "\n"; } catch {}
   }
   fs.writeFileSync(txtPath, ocr);
