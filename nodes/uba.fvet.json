@@ -1,0 +1,76 @@
+{
+  "address": "uba.fvet",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fvet",
+      "label": "Ciencias Veterinarias"
+    }
+  ],
+  "eyebrow": "Facultad de Ciencias Veterinarias",
+  "title": "El animal entero, sano y enfermo.",
+  "lede": "Una facultad de tres salas: la mayor es Veterinaria — el estudio de la vida animal en salud y enfermedad — y a su lado dos licenciaturas que salen del animal hacia la cadena que lo alimenta y hacia el laboratorio. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "3"
+    },
+    {
+      "k": "La central",
+      "v": "Veterinaria",
+      "small": "~5 años"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 3"
+    }
+  ],
+  "frame": "Veterinaria es el edificio: animal, salud, enfermedad, producción. Gestión de Agroalimentos toma la cadena entera — del campo al alimento — y Biotecnología es una sala compartida con Agronomía, Exactas y Farmacia y Bioquímica, que aquí tiene su puerta propia. La tecnicatura en bioterios queda fuera de este plano: no es carrera de grado.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 3",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fvet.veterinaria",
+          "name": "Veterinaria",
+          "role": "vida animal en salud y enfermedad · título Veterinario/a",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fvet.agroalimentos",
+          "name": "Licenciatura en Gestión de Agroalimentos",
+          "role": "gestión de las cadenas agroalimentarias",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fvet.biotecnologia",
+          "name": "Licenciatura en Biotecnología",
+          "role": "compartida con Agronomía, Exactas y Farmacia y Bioquímica",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fvet.uba.ar/carrerasGrado",
+    "url": "https://www.fvet.uba.ar/?q=carrerasGrado"
+  }
+}

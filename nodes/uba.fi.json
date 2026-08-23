@@ -1,0 +1,148 @@
+{
+  "address": "uba.fi",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 13,
+    "ingenierias": 12,
+    "licenciaturas": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fi",
+      "label": "Ingeniería"
+    }
+  ],
+  "eyebrow": "Facultad de Ingeniería",
+  "title": "Doce ingenierías y una licenciatura, en paralelo.",
+  "lede": "Una facultad ancha: trece salas de tamaño parecido, casi todas ingenierías largas, alineadas sobre un mismo hall de matemática, física y química. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "13"
+    },
+    {
+      "k": "Ingenierías",
+      "v": "12",
+      "small": "+ 1 licenciatura"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 13"
+    }
+  ],
+  "frame": "Ingeniería reparte su masa en columnas: Civil, Informática, Electrónica, Industrial, Mecánica, Química, Energía Eléctrica, Petróleo, Alimentos, Agrimensura, Naval y Bioingeniería — doce títulos de ingeniero que comparten los primeros años de ciencias básicas y se separan hacia sus departamentos. Al costado, la Licenciatura en Análisis de Sistemas: más corta, la única que no otorga título de ingeniero.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 13",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fi.civil",
+          "name": "Ingeniería Civil",
+          "role": "estructuras, hidráulica, vías, construcciones",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.informatica",
+          "name": "Ingeniería en Informática",
+          "role": "software, sistemas, computación",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.electronica",
+          "name": "Ingeniería Electrónica",
+          "role": "circuitos, señales, comunicaciones",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.industrial",
+          "name": "Ingeniería Industrial",
+          "role": "producción, gestión, operaciones",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.mecanica",
+          "name": "Ingeniería Mecánica",
+          "role": "máquinas, materiales, energía térmica",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.quimica",
+          "name": "Ingeniería Química",
+          "role": "procesos, plantas, reactores",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.energia-electrica",
+          "name": "Ingeniería en Energía Eléctrica",
+          "role": "generación, redes, potencia",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.petroleo",
+          "name": "Ingeniería en Petróleo",
+          "role": "reservorios, perforación, producción",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.alimentos",
+          "name": "Ingeniería en Alimentos",
+          "role": "procesos alimentarios, calidad",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.agrimensura",
+          "name": "Ingeniería en Agrimensura",
+          "role": "mensura, geodesia, catastro",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.naval",
+          "name": "Ingeniería Naval",
+          "role": "buques, arquitectura naval, propulsión",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.bioingenieria",
+          "name": "Bioingeniería",
+          "role": "ingeniería aplicada a biología y medicina",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fi.analisis-de-sistemas",
+          "name": "Licenciatura en Análisis de Sistemas",
+          "role": "sistemas de información · la única licenciatura",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fi.uba.ar/grado",
+    "url": "https://www.fi.uba.ar/grado"
+  }
+}

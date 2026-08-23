@@ -1,0 +1,90 @@
+{
+  "address": "uba.ffyb",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 4,
+    "grado": 4,
+    "tecnicaturas": [
+      "Medicina Nuclear",
+      "Óptica y Contactología",
+      "Gestión Integral de Bioterio"
+    ]
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyb",
+      "label": "Farmacia y Bioquímica"
+    }
+  ],
+  "eyebrow": "Facultad de Farmacia y Bioquímica",
+  "title": "Dos salas gemelas y un patio compartido.",
+  "lede": "Una facultad de laboratorio: dos carreras históricas — Farmacia y Bioquímica — que comparten cimientos de química y biología y se separan recién en el ciclo superior, más dos licenciaturas que la facultad dicta a medias con otras, y tres tecnicaturas cortas de oficio técnico.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "4",
+      "small": "+ 3 tecnicaturas"
+    },
+    {
+      "k": "Las gemelas",
+      "v": "Farmacia · Bioquímica",
+      "small": "10 y 11 cuatrimestres"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 4"
+    }
+  ],
+  "frame": "Farmacia y Bioquímica se recorren en tramos: un ciclo común de ciencias básicas, un ciclo superior propio, y al final un tramo semi-estructurado donde cada estudiante elige orientación — oficinal, hospitalaria o industrial en Farmacia; clínica, ambiental, microbiología, investigación, industrial o forense en Bioquímica. Biotecnología es interfacultad (sede administrativa acá, orientación en salud humana; las otras tres orientaciones viven en Veterinarias, Agronomía y Exactas) y Alimentos se dicta a dúo con Exactas. Las tecnicaturas son puertas laterales, más cortas.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 4",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia",
+          "name": "Farmacia",
+          "role": "ciclo común → ciclo superior · orientación oficinal, hospitalaria o industrial",
+          "tag": "10 cuatrimestres",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyb.bioquimica",
+          "name": "Bioquímica",
+          "role": "ciclo común → ciclo superior · seis orientaciones en el tramo final",
+          "tag": "11 cuatrimestres",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia",
+          "name": "Licenciatura en Biotecnología",
+          "role": "interfacultad · orientación salud humana en FFyB",
+          "tag": "9 cuatrimestres",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyb.alimentos",
+          "name": "Licenciatura en Ciencia y Tecnología de Alimentos",
+          "role": "dictada con Exactas · formulación, conservación y control de alimentos",
+          "tag": "FFyB + FCEN",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar/grado",
+    "url": "https://www.ffyb.uba.ar/grado/"
+  }
+}

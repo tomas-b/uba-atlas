@@ -1,0 +1,90 @@
+{
+  "address": "uba.fce",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fce",
+      "label": "Ciencias Económicas"
+    }
+  ],
+  "eyebrow": "Facultad de Ciencias Económicas",
+  "title": "Cinco oficios sobre un mismo tronco.",
+  "lede": "Una facultad ancha y masiva: cinco carreras que arrancan de un ciclo general compartido — matemática, economía, contabilidad, derecho — y se separan recién en el ciclo profesional. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "5"
+    },
+    {
+      "k": "La central",
+      "v": "Contador Público",
+      "small": "~5½ años · 2.808 h"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 5"
+    }
+  ],
+  "frame": "Económicas reparte su masa en cinco puertas que comparten el hall: Contador Público, el título profesional más poblado, y cuatro salas paralelas — Administración, Economía, Sistemas de Información de las Organizaciones y Actuario. Todas cruzan primero un ciclo general común y después se orientan: hacia el balance, la organización, el modelo, el sistema o el riesgo.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 5",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fce.contador",
+          "name": "Contador Público",
+          "role": "título profesional · contable, impositivo, societario",
+          "tag": "~5½ años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fce.administracion",
+          "name": "Licenciatura en Administración",
+          "role": "gestión de organizaciones · finanzas, marketing, operaciones",
+          "tag": "~4½ años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fce.economia",
+          "name": "Licenciatura en Economía",
+          "role": "ciclo general → ciclo profesional con orientación",
+          "tag": "~4½ años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fce.sistemas",
+          "name": "Licenciatura en Sistemas de Información de las Organizaciones",
+          "role": "sistemas de información aplicados a la organización",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fce.actuario",
+          "name": "Actuario",
+          "role": "título profesional · riesgo, seguros, previsión",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "economicas.uba.ar/alumnos",
+    "url": "https://economicas.uba.ar/alumnos/"
+  }
+}

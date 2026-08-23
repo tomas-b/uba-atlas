@@ -1,0 +1,91 @@
+{
+  "address": "uba.fsoc",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 5,
+    "profesorados": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fsoc",
+      "label": "Ciencias Sociales"
+    }
+  ],
+  "eyebrow": "Facultad de Ciencias Sociales",
+  "title": "Cinco salas del mismo tamaño.",
+  "lede": "Una facultad horizontal: cinco licenciaturas de peso parecido, cada una con casa propia, que comparten un mismo hall — el de leer la sociedad desde ángulos distintos. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "5"
+    },
+    {
+      "k": "El rasgo",
+      "v": "cinco licenciaturas",
+      "small": "sin sala central"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 5"
+    }
+  ],
+  "frame": "Sociales no tiene un edificio dominante: Sociología, Ciencia Política, Ciencias de la Comunicación, Trabajo Social y Relaciones del Trabajo son cinco salas de escala comparable, cada una con su propia puerta a la calle. Al costado, los profesorados prolongan varias de esas salas hacia la enseñanza. Cada licenciatura se recorre como un plan: años, cuatrimestres y correlatividades.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 5",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fsoc.sociologia",
+          "name": "Sociología",
+          "role": "Licenciatura · la sociedad como objeto",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fsoc.ciencia-politica",
+          "name": "Ciencia Política",
+          "role": "Licenciatura · poder, Estado, instituciones",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fsoc.comunicacion",
+          "name": "Ciencias de la Comunicación",
+          "role": "Licenciatura · medios, discurso, cultura",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fsoc.trabajo-social",
+          "name": "Trabajo Social",
+          "role": "Licenciatura · intervención social",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fsoc.relaciones-del-trabajo",
+          "name": "Relaciones del Trabajo",
+          "role": "Licenciatura · trabajo, empleo, organizaciones",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "sociales.uba.ar/carreras",
+    "url": "https://www.sociales.uba.ar/carreras/"
+  }
+}

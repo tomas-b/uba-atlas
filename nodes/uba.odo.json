@@ -1,0 +1,64 @@
+{
+  "address": "uba.odo",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 1,
+    "area": "bio · salud",
+    "sede": "Marcelo T. de Alvear 2142, CABA"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.odo",
+      "label": "Odontología"
+    }
+  ],
+  "eyebrow": "Facultad de Odontología",
+  "title": "Una sola puerta, y detrás una clínica.",
+  "lede": "La facultad más monolítica de la UBA: una única carrera de grado, Odontología, que del segundo al sexto año se cursa entre sillones. El pabellón es a la vez aula y hospital odontológico — se aprende sobre pacientes reales.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "1"
+    },
+    {
+      "k": "La única",
+      "v": "Odontología",
+      "small": "1° a 6° año"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 1"
+    }
+  ],
+  "frame": "Odontología no se ramifica: hay una carrera y un título, Odontólogo/a. Se entra desde el CBC con las seis materias aprobadas y se avanza por años, con una materia regente que ordena cada inscripción. Lo que rodea a la sala grande no son otras carreras sino el posgrado (especializaciones, doctorado) y el Curso de Asistentes Dentales, que no es de grado y queda fuera de este plano.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 1",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia",
+          "name": "Odontología",
+          "role": "ciclo básico → clínicas por año, sobre pacientes",
+          "tag": "6 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "odontologia.uba.ar · Ingresantes",
+    "url": "http://odontologia.uba.ar/?page_id=166"
+  }
+}

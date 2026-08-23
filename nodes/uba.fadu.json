@@ -1,0 +1,104 @@
+{
+  "address": "uba.fadu",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    }
+  ],
+  "eyebrow": "Facultad de Arquitectura, Diseño y Urbanismo",
+  "title": "Un pabellón que se dibuja a sí mismo.",
+  "lede": "Siete salas donde todo empieza en una mesa de trabajo: una sala mayor — Arquitectura — y un ala de diseños que comparten el taller como método y se separan por materia: papel, objeto, tela, imagen, paisaje.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "7"
+    },
+    {
+      "k": "La central",
+      "v": "Arquitectura",
+      "small": "~6 años"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 7"
+    }
+  ],
+  "frame": "FADU se recorre por talleres. Arquitectura ocupa el centro y el mayor volumen; alrededor, cinco diseños — Gráfico, Industrial, de Indumentaria, Textil, de Imagen y Sonido — se abren cada uno a su propio plan. Al fondo, la Licenciatura en Planificación y Diseño del Paisaje mira hacia afuera del edificio: se dicta en conjunto con Agronomía.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 7",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura",
+          "name": "Arquitectura",
+          "role": "proyecto, construcción y ciudad · la sala mayor",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.grafico",
+          "name": "Diseño Gráfico",
+          "role": "comunicación visual · tipografía, imagen, sistemas",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.industrial",
+          "name": "Diseño Industrial",
+          "role": "el objeto: forma, uso, producción",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.indumentaria",
+          "name": "Diseño de Indumentaria",
+          "role": "el cuerpo vestido · moldería, colección",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.textil",
+          "name": "Diseño Textil",
+          "role": "la tela como superficie y estructura",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido",
+          "name": "Diseño de Imagen y Sonido",
+          "role": "lo audiovisual · guion, montaje, sonido",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fadu.paisaje",
+          "name": "Licenciatura en Planificación y Diseño del Paisaje",
+          "role": "territorio y espacio verde · compartida con Agronomía",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/carreras",
+    "url": "https://www.fadu.uba.ar/carreras/"
+  }
+}

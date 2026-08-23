@@ -1,0 +1,108 @@
+{
+  "address": "uba.fagr",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 7,
+    "shared": {
+      "biotecnologia": "FFyB (coordina) · FAgr · FVet · FCEN",
+      "paisaje": "FAgr · FADU"
+    }
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    }
+  ],
+  "eyebrow": "Facultad de Agronomía",
+  "title": "Un campo adentro de la ciudad.",
+  "lede": "Un predio abierto en Villa del Parque: la sala mayor es Agronomía — la ingeniería de producir — y alrededor crecen seis licenciaturas y un profesorado que miran el mismo suelo desde el ambiente, la economía, el alimento, el paisaje y el gen. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "7"
+    },
+    {
+      "k": "La central",
+      "v": "Agronomía",
+      "small": "Ing. Agrónomo/a · CBC + 4½ años"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 7"
+    }
+  ],
+  "frame": "Agronomía reparte su masa en anillos: al centro la ingeniería que diseña sistemas de producción, y en el borde las carreras que la rodean — Ciencias Ambientales y su profesorado, Economía y Administración Agrarias, Gestión de Agroalimentos. Dos salas se comparten con otros pabellones: Planificación y Diseño del Paisaje con Arquitectura, y Biotecnología con Farmacia, Veterinaria y Exactas. Todas empiezan por el CBC y siguen entre cuatro y cuatro años y medio.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 7",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia",
+          "name": "Agronomía",
+          "role": "Ing. Agrónomo/a · sistemas de producción y gestión de agroalimentos",
+          "tag": "CBC + 4½ años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.ambientales",
+          "name": "Ciencias Ambientales",
+          "role": "Licenciatura · cuidar y recuperar ambientes silvestres, rurales y urbanos",
+          "tag": "CBC + 4½ años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental",
+          "name": "Profesorado en Ciencias Ambientales",
+          "role": "Profesor/a de Enseñanza Secundaria y Superior · enseñar el ambiente",
+          "tag": "CBC + 4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.economia-agraria",
+          "name": "Economía y Administración Agrarias",
+          "role": "Licenciatura · procesos económicos agropecuarios",
+          "tag": "CBC + 4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.agroalimentos",
+          "name": "Gestión de Agroalimentos",
+          "role": "Licenciatura · calidad y valor del alimento, de la producción al consumidor",
+          "tag": "CBC + 4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.paisaje",
+          "name": "Planificación y Diseño del Paisaje",
+          "role": "Licenciatura · compartida con FADU · planifica, diseña y gestiona el espacio libre",
+          "tag": "CBC + 4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fagr.biotecnologia",
+          "name": "Biotecnología",
+          "role": "Licenciatura · compartida con FFyB, FVet y FCEN · salud, ambiente y producción",
+          "tag": "CBC + 4½ años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar/carreras",
+    "url": "https://www.agro.uba.ar/carreras"
+  }
+}

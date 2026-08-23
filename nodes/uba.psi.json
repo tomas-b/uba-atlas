@@ -1,0 +1,83 @@
+{
+  "address": "uba.psi",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.psi",
+      "label": "Psicología"
+    }
+  ],
+  "eyebrow": "Facultad de Psicología",
+  "title": "Una sala central y tres pasillos que la rodean.",
+  "lede": "Una facultad que gira alrededor de una sola licenciatura enorme — Psicología — con dos oficios clínicos de cuerpo y sonido a los lados, y un profesorado que se abre desde adentro de la sala grande. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "4"
+    },
+    {
+      "k": "La central",
+      "v": "Psicología",
+      "small": "CBC → CFG → CFP"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 4"
+    }
+  ],
+  "frame": "Psicología concentra la masa en la Licenciatura, recorrida en tres tiempos: CBC, un Ciclo de Formación General y un Ciclo de Formación Profesional. Musicoterapia y Terapia Ocupacional son licenciaturas propias, con entrada por el hall común. El Profesorado de Enseñanza Media y Superior en Psicología no tiene puerta a la calle: se entra desde la Licenciatura — graduados, o estudiantes con el CFG y dos materias del ciclo profesional cursadas — y suma un tramo pedagógico de 450 horas.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 4",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.psi.psicologia",
+          "name": "Licenciatura en Psicología",
+          "role": "CBC → ciclo de formación general → ciclo profesional",
+          "tag": "licenciatura",
+          "kind": "career"
+        },
+        {
+          "address": "uba.psi.musicoterapia",
+          "name": "Licenciatura en Musicoterapia",
+          "role": "clínica a través del sonido y la música",
+          "tag": "licenciatura",
+          "kind": "career"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional",
+          "name": "Licenciatura en Terapia Ocupacional",
+          "role": "rehabilitación a través de la ocupación",
+          "tag": "licenciatura",
+          "kind": "career"
+        },
+        {
+          "address": "uba.psi.profesorado",
+          "name": "Profesorado de Enseñanza Media y Superior en Psicología",
+          "role": "se entra desde la Licenciatura · tramo pedagógico de 450 h",
+          "tag": "profesorado",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "psi.uba.ar/academica/carrerasdegrado",
+    "url": "https://www.psi.uba.ar/academica.php?var=academica/carrerasdegrado/index.php"
+  }
+}
