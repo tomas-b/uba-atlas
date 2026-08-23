@@ -1,0 +1,405 @@
+{
+  "address": "uba.fagr.profesorado-ambiental",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2021,
+    "resolucion": "Res. CS 1121/21 (RESCS-2021-1121-E-UBA-REC)",
+    "años": 5,
+    "cuatrimestres": 10,
+    "materias": 34,
+    "materiasObligatoriasTotal": 40,
+    "materiasCBC": 6,
+    "electivasOfrecidas": 9,
+    "creditosElectivos": 4,
+    "creditos": 182,
+    "horas": 2912,
+    "correlativas": true,
+    "dictadoExterno": "Pedagogía y Política Educacional se dictan en FFyL",
+    "requisitos": "Inglés e Informática"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    },
+    {
+      "address": "uba.fagr.profesorado-ambiental",
+      "label": "Profesorado en Ciencias Ambientales"
+    }
+  ],
+  "eyebrow": "Profesorado de Enseñanza Secundaria y Superior en Ciencias Ambientales · Plan 2021",
+  "title": "Cinco años para enseñar el ambiente.",
+  "lede": "El plan real (Res. CS 1121/21) de la Facultad de Agronomía: un ciclo profesional de cuatro años, después del CBC, que cruza las ciencias del ambiente — química, suelo, clima, botánica, ecología — con la formación docente — pedagogía, didáctica, sociología de la educación — y cierra con dos prácticas docentes anuales. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2021",
+      "small": "Res. CS 1121/21"
+    },
+    {
+      "k": "Materias",
+      "v": "34",
+      "small": "propias + 9 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 43"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Dirección de Ingreso, Alumnos y Graduados de la FAUBA (plan_de_estudios_profesorado.pdf, octubre 2021) y del Código UBA (Libro II, Título 13, Capítulo A: Plan 2021). Nivel L1: los nombres, años, cuatrimestres, créditos y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan cuenta 40 obligatorias: 6 del CBC (que no se listan acá) y 34 del ciclo profesional, más 4 créditos electivos entre 9 asignaturas nombradas. Un crédito equivale a 16 horas presenciales; total 182 créditos = 2912 horas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Ciclo profesional",
+      "title": "Química, suelo, clima y la primera pedagogía",
+      "note": "Todas correlativas del CBC. Requisitos: inglés e informática.",
+      "exits": [
+        {
+          "address": "uba.fagr.profesorado-ambiental.quimica-aplicada",
+          "name": "Química Aplicada",
+          "role": "1º cuat. · 6 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.biomoleculas",
+          "name": "Biomoléculas",
+          "role": "1º cuat. · 4 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "1º cuat. · 3 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.estadistica-general",
+          "name": "Estadística General",
+          "role": "1º cuat. · 5 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.pedagogia",
+          "name": "Pedagogía",
+          "role": "1º cuat. · 6 créditos · se dicta en FFyL",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.bioquimica-aplicada",
+          "name": "Bioquímica Aplicada",
+          "role": "2º cuat. · 4 créditos · correlativa: Biomoléculas (regular)",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.edafologia",
+          "name": "Edafología",
+          "role": "2º cuat. · 5 créditos · correlativas: Química Aplicada, Física Aplicada",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.climatologia-agrometeorologia",
+          "name": "Climatología y Agrometeorología",
+          "role": "2º cuat. · 4 créditos · correlativa: Estadística General",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.botanica",
+          "name": "Botánica",
+          "role": "2º cuat. · 6 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Los seres vivos, la contaminación y la didáctica",
+      "exits": [
+        {
+          "address": "uba.fagr.profesorado-ambiental.fisiologia-plantas-superiores",
+          "name": "Fisiología de las Plantas Superiores",
+          "role": "1º cuat. · 4 créditos · correlativas: Bioquímica Aplicada, Botánica, Climatología y Agrometeorología (regular)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.zoologia-general",
+          "name": "Zoología General",
+          "role": "1º cuat. · 4 créditos · correlativa: Bioquímica Aplicada (regular)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.quimica-contaminacion-toxicologia",
+          "name": "Química de la Contaminación y Toxicología",
+          "role": "1º cuat. · 4 créditos · correlativas: Biomoléculas, Edafología",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.sociologia-antropologia-general",
+          "name": "Sociología y Antropología General",
+          "role": "1º cuat. · 4 créditos",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.didactica-general",
+          "name": "Didáctica General",
+          "role": "1º cuat. · 4 créditos · correlativa: Pedagogía (regular)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.evolucion-genetica",
+          "name": "Evolución y Genética",
+          "role": "2º cuat. · 4 créditos · correlativa: Bioquímica Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.ecologia",
+          "name": "Ecología",
+          "role": "2º cuat. · 4 créditos · correlativas: Edafología, Fisiología de las Plantas Superiores",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.microbiologia-ambiental",
+          "name": "Microbiología Ambiental",
+          "role": "2º cuat. · 4 créditos · correlativas: Bioquímica Aplicada, Edafología",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.geologia-geomorfologia",
+          "name": "Nociones de Geología y Geomorfología",
+          "role": "2º cuat. · 4 créditos · correlativas: Climatología y Agrometeorología (regular), Edafología",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.didactica-especifica",
+          "name": "Didáctica Específica",
+          "role": "2º cuat. · 4 créditos · correlativa: Didáctica General",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Territorio, sociedad y enseñanza",
+      "exits": [
+        {
+          "address": "uba.fagr.profesorado-ambiental.ecologia-acuatica",
+          "name": "Ecología Acuática",
+          "role": "1º cuat. · 4 créditos · correlativas: Zoología General, Ecología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.geografia-ambiental",
+          "name": "Geografía Ambiental",
+          "role": "1º cuat. · 3 créditos · correlativa: Nociones de Geología y Geomorfología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.sig-cartografia-teledeteccion",
+          "name": "Sistemas de Información Geográfica, Cartografía y Teledetección",
+          "role": "1º cuat. · 2 créditos · correlativa: Ecología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.sociologia-educacion",
+          "name": "Sociología de la Educación",
+          "role": "1º cuat. · 4 créditos · correlativa: Sociología y Antropología General",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.ensenanza-tic",
+          "name": "Enseñanza de las Ciencias Ambientales mediada por Tecnología (TIC)",
+          "role": "1º cuat. · 3 créditos · correlativas: Didáctica General, Ecología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.aprendizaje-sujetos",
+          "name": "Aprendizaje y Sujetos",
+          "role": "1º cuat. · 3 créditos · correlativa: Pedagogía",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.agroecosistemas",
+          "name": "Agroecosistemas",
+          "role": "2º cuat. · 4 créditos · correlativa: Ecología (regular)",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.economia-politica",
+          "name": "Economía Política",
+          "role": "2º cuat. · 4 créditos · requisito: Informática",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.politica-educacional",
+          "name": "Política Educacional",
+          "role": "2º cuat. · 6 créditos · se dicta en FFyL · correlativa: Sociología de la Educación",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.metodologia-historia-ciencias-ambientales",
+          "name": "Metodología de la Investigación e Historia de las Ciencias Ambientales",
+          "role": "2º cuat. · 4 créditos · correlativa: Ecología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.educacion-ambiental",
+          "name": "Educación Ambiental",
+          "role": "2º cuat. · 2 créditos · correlativas: Sociología y Antropología General, Ecología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.derechos-humanos",
+          "name": "Derechos Humanos",
+          "role": "2º cuat. · 1 crédito · correlativa: Sociología y Antropología General",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Problemáticas y práctica docente",
+      "exits": [
+        {
+          "address": "uba.fagr.profesorado-ambiental.problematicas-socioambientales",
+          "name": "Problemáticas Socioambientales",
+          "role": "1º cuat. · 4 créditos · correlativas: Sociología y Antropología General, Ecología",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.practica-docente-secundario",
+          "name": "Práctica Docente en el Nivel Secundario",
+          "role": "anual · 8 créditos · correlativa: Didáctica Específica",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.practica-docente-superior",
+          "name": "Práctica Docente en el Nivel Superior",
+          "role": "anual · 8 créditos · correlativa: Didáctica Específica",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 4 créditos a elección",
+      "title": "Nueve asignaturas para completar los créditos electivos",
+      "exits": [
+        {
+          "address": "uba.fagr.profesorado-ambiental.ambiente-sociedad",
+          "name": "Ambiente y Sociedad",
+          "role": "cuatrimestral · 4 créditos · correlativas: Sociología y Antropología General, Economía Política",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.biodiversidad",
+          "name": "Biodiversidad",
+          "role": "cuatrimestral · 4 créditos · correlativa: Ecología Acuática (regular)",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.bioindicadores",
+          "name": "Bioindicadores",
+          "role": "cuatrimestral · 3 créditos · correlativa: Química de la Contaminación y Toxicología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.conservacion-uso-tierra",
+          "name": "Conservación y Planificación del Uso de la Tierra",
+          "role": "cuatrimestral · 4 créditos · correlativas: Geografía Ambiental, SIG, Cartografía y Teledetección",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.ecologia-paisaje",
+          "name": "Ecología del Paisaje",
+          "role": "cuatrimestral · 5 créditos · correlativa: SIG, Cartografía y Teledetección",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.gestion-conservacion-recursos-naturales",
+          "name": "Gestión y Conservación de los Recursos Naturales",
+          "role": "cuatrimestral · 4 créditos · correlativas: Geografía Ambiental, SIG, Cartografía y Teledetección",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.hidrologia",
+          "name": "Hidrología",
+          "role": "cuatrimestral · 3 créditos · correlativa: Nociones de Geología y Geomorfología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.metodologia-cualitativa",
+          "name": "Metodología Cualitativa para los Estudios Socioculturales sobre Problemáticas Ambientales",
+          "role": "cuatrimestral · 4 créditos · correlativa: Sociología y Antropología General",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.profesorado-ambiental.relevamiento-recursos-naturales",
+          "name": "Relevamiento de los Recursos Naturales",
+          "role": "anual · 4 créditos · correlativa: Ecología",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar · plan_de_estudios_profesorado.pdf (Res. CS 1121/21) · Código UBA Libro II Tít. 13 Cap. A",
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/plan_de_estudios_profesorado.pdf"
+  }
+}

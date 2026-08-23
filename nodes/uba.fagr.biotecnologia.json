@@ -1,0 +1,376 @@
+{
+  "address": "uba.fagr.biotecnologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2025",
+    "resolucion": "Anexo ACS-2025-299-UBA-SG#REC (EX-2025-03342534-UBA-DME#SSA_FFYB)",
+    "vigencia": "2026 (primera cohorte)",
+    "sedeAdministrativa": "Facultad de Farmacia y Bioquímica",
+    "facultades": ["FFyB", "FCEN", "FAgr", "FVet"],
+    "años": 4.5,
+    "cuatrimestres": 9,
+    "cargaHorariaTotal": 3331,
+    "cicloGeneralHoras": 1496,
+    "cicloProfesionalHoras": 1835,
+    "orientacionHoras": 350,
+    "orientaciones": {
+      "FFyB": "Biotecnología en Salud Humana",
+      "FVet": "Biotecnología en Salud y Producción Animal",
+      "FAgr": "Biotecnología Vegetal",
+      "FCEN": "Biotecnología y Desarrollo Sostenible"
+    },
+    "orientacionDeEstaPuerta": "Biotecnología Vegetal (FAgr)",
+    "tramoComun": "Listado genérico del Anexo I (asignaturas 7 a 34); Agronomía no publica tabla local — remite al plan simplificado de FFyB",
+    "tituloIntermedio": "Bachiller Universitario/a en Biotecnología",
+    "materias": 33,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    },
+    {
+      "address": "uba.fagr.biotecnologia",
+      "label": "Biotecnología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Biotecnología · Plan 2025 · puerta Agronomía",
+  "title": "Un tronco de cuatro facultades; en Agronomía, la orientación es la planta.",
+  "lede": "La carrera nueva de la UBA (primera cohorte 2026): un tramo común del tercero al octavo cuatrimestre y un noveno de orientación en una de cuatro facultades. Esta es la puerta de Agronomía: el tramo común tal como lo fija el Anexo I del plan, y la orientación en Biotecnología Vegetal — producción vegetal, microbiología agrícola, bioinsumos y mejoramiento genético. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2025",
+      "small": "ACS-2025-299"
+    },
+    {
+      "k": "Materias",
+      "v": "33",
+      "small": "tramo común + orientación Vegetal"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 33"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: ACS-2025-299-UBA-SG#REC y su Anexo I (texto ordenado del plan, ffyb.uba.ar, sede administrativa). Agronomía no publica una tabla propia del tramo común: agro.uba.ar/carreras/biotecnologia remite al plan simplificado de FFyB, de modo que el tramo común aquí es el listado genérico del Anexo I (asignaturas 7 a 34), con sus horas y correlativas. La orientación Biotecnología Vegetal — cinco obligatorias, 350 h, a cargo de Agronomía — sale del mismo Anexo. Nivel L1: nombres, cuatrimestres, horas y correlativas son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 3º cuatrimestre",
+      "title": "Química, matemática y la célula",
+      "note": "Tramo común. Correlativa: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.quimica-general-inorganica",
+          "name": "Química General e Inorgánica",
+          "role": "3º cuat. · 126 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.matematica",
+          "name": "Matemática",
+          "role": "3º cuat. · 98 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.biologia-celular-molecular",
+          "name": "Biología Celular y Molecular",
+          "role": "3º cuat. · 112 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 4º cuatrimestre",
+      "title": "Física, carbono, ecología y la primera biotecnología",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.fisica",
+          "name": "Física",
+          "role": "4º cuat. · 112 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.intro-biotecnologia",
+          "name": "Introducción a la Biotecnología",
+          "role": "4º cuat. · bimestral · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "4º cuat. · 126 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.ecologia",
+          "name": "Ecología",
+          "role": "4º cuat. · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 5º cuatrimestre",
+      "title": "Analítica, química biológica, microbios y genes",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "5º cuat. · 84 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.quimica-biologica-1",
+          "name": "Química Biológica I",
+          "role": "5º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.microbiologia",
+          "name": "Microbiología",
+          "role": "5º cuat. · 84 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.genetica-molecular",
+          "name": "Genética Molecular",
+          "role": "5º cuat. · 70 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 6º cuatrimestre",
+      "title": "Fisicoquímica, instrumental, biotecnología y la planta",
+      "note": "Cierra el tramo del Bachiller (asignaturas 7 a 17 + Biotecnología, Inglés y Bioestadística, más 3 actividades complementarias).",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.fisicoquimica",
+          "name": "Fisicoquímica",
+          "role": "6º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "6º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.biotecnologia",
+          "name": "Biotecnología",
+          "role": "6º cuat. · bimestral · 49 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.fisiologia-vegetal",
+          "name": "Fisiología Vegetal",
+          "role": "6º cuat. · 70 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 7º cuatrimestre",
+      "title": "Ingeniería genética, microbiología industrial y bioinformática",
+      "note": "Para cursar el 7º cuatrimestre se requieren aprobados los TP de Inglés y Bioestadística.",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.quimica-biologica-2",
+          "name": "Química Biológica II",
+          "role": "7º cuat. · 70 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.ingenieria-genetica",
+          "name": "Ingeniería Genética",
+          "role": "7º cuat. · 98 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.microbiologia-industrial",
+          "name": "Microbiología Industrial",
+          "role": "7º cuat. · 56 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.fisiologia-animal",
+          "name": "Fisiología Animal",
+          "role": "7º cuat. · 70 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.bioinformatica-aplicada",
+          "name": "Bioinformática Aplicada a la Biotecnología",
+          "role": "7º cuat. · bimestral · 42 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 8º cuatrimestre",
+      "title": "Inmunología, calidad, nano, emprender y la ley",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.inmunologia-basica-tecnicas",
+          "name": "Inmunología Básica y Técnicas Inmunológicas",
+          "role": "8º cuat. · 84 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.gestion-calidad",
+          "name": "Gestión de Calidad en Biotecnología",
+          "role": "8º cuat. · 84 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.nanobiotecnologia",
+          "name": "Nanobiotecnología",
+          "role": "8º cuat. · 49 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.desarrollo-emprendedor",
+          "name": "Desarrollo Emprendedor",
+          "role": "8º cuat. · 42 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.legislacion-bioetica",
+          "name": "Legislación en Biotecnología y Bioética",
+          "role": "8º cuat. · bimestral · 49 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cursada flexible",
+      "title": "En cualquier momento del tramo común",
+      "note": "TP aprobados antes de cursar el 7º cuatrimestre; finales aprobados antes de cursar el 9º.",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.ingles",
+          "name": "Inglés",
+          "role": "cualquier cuat. · 42 h",
+          "tag": "tramo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.bioestadistica",
+          "name": "Bioestadística",
+          "role": "cualquier cuat. · 56 h",
+          "tag": "tramo común",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 9º cuatrimestre · Orientación Agronomía",
+      "title": "Biotecnología Vegetal",
+      "note": "Cinco obligatorias, 350 h, a cargo de la Facultad de Agronomía.",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.produccion-vegetal",
+          "name": "Producción Vegetal",
+          "role": "9º cuat. · bimestral · 56 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.microbiologia-agricola-ambiental",
+          "name": "Microbiología Agrícola y Ambiental",
+          "role": "9º cuat. · bimestral · 56 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.bioinsumos-microbiologicos",
+          "name": "Bioinsumos Microbiológicos Aplicados a la Producción Vegetal",
+          "role": "9º cuat. · bimestral · 56 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.mejoramiento-genetico-vegetal",
+          "name": "Mejoramiento Genético Vegetal",
+          "role": "9º cuat. · 98 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.biotecnologia.biotecnologia-agricola",
+          "name": "Biotecnología Agrícola",
+          "role": "9º cuat. · 84 h",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Tesis o práctica profesional",
+      "note": "300 h. Requiere todos los TP hasta el 8º cuatrimestre aprobados. Además, 3 actividades complementarias (3º a 6º cuatrimestre) y una Práctica Social Educativa a partir del 7º.",
+      "exits": [
+        {
+          "address": "uba.fagr.biotecnologia.tesis-o-practica-profesional",
+          "name": "Tesis de Grado o Práctica Profesional",
+          "role": "300 h",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ACS-2025-299-UBA-SG#REC · Anexo I, texto ordenado del plan (ffyb.uba.ar) · agro.uba.ar/carreras/biotecnologia",
+    "url": "https://www.agro.uba.ar/carreras/biotecnologia"
+  }
+}

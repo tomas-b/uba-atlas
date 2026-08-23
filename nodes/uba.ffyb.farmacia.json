@@ -1,0 +1,401 @@
+{
+  "address": "uba.ffyb.farmacia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2008 · modificatoria 2016",
+    "cuatrimestres": 10,
+    "cuatrimestresPropios": "3° a 10° (1° y 2° son el CBC)",
+    "materias": 37,
+    "obligatoriasPorCuatrimestre": 29,
+    "orientaciones": [
+      "Farmacia Oficinal",
+      "Farmacia Hospitalaria",
+      "Farmacia Industrial"
+    ],
+    "tramoSemiestructurado": "1 asignatura de la orientación + 2 optativas relacionadas (oferta anual)",
+    "eleccionDeMomento": 5,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyb",
+      "label": "Farmacia y Bioquímica"
+    },
+    {
+      "address": "uba.ffyb.farmacia",
+      "label": "Farmacia"
+    }
+  ],
+  "eyebrow": "Farmacia · Plan 2008 (modificatoria 2016)",
+  "title": "Ocho cuatrimestres de química a medicamento, y una orientación al final.",
+  "lede": "El plan real de Farmacia de la Facultad de Farmacia y Bioquímica: del 3° al 10° cuatrimestre (los dos primeros son el CBC, que vive en su propio árbol), de química general y anatomía a farmacología, tecnología farmacéutica y calidad de medicamentos. Cierra con un tramo semiestructurado — oficinal, hospitalaria o industrial — y cinco asignaturas cuyo momento elige cada estudiante. Cada materia es una puerta.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2008",
+      "small": "mod. 2016"
+    },
+    {
+      "k": "Materias",
+      "v": "37",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 37"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la facultad (Plan Farmacia 2008 modificatoria 2016, ffyb.uba.ar). Nivel L1: nombres, cuatrimestres y régimen de correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan numera las materias del 7 al 43 porque las 1–6 son el CBC. Las dos optativas del tramo semiestructurado se definen anualmente y no tienen nombre en el plan, por eso no aparecen como puertas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3° cuatrimestre",
+      "title": "Química, matemática y cuerpo",
+      "note": "Correlativa: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.quimica-general-e-inorganica",
+          "name": "Química General e Inorgánica",
+          "role": "3° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.matematica",
+          "name": "Matemática",
+          "role": "3° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.anatomia-e-histologia",
+          "name": "Anatomía e Histología",
+          "role": "3° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4° cuatrimestre",
+      "title": "Física, célula y carbono",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.fisica",
+          "name": "Física",
+          "role": "4° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.biologia-celular-y-molecular",
+          "name": "Biología Celular y Molecular",
+          "role": "4° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.quimica-organica-1",
+          "name": "Química Orgánica I",
+          "role": "4° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5° cuatrimestre",
+      "title": "Orgánica, fisiología y análisis",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.quimica-organica-2",
+          "name": "Química Orgánica II",
+          "role": "5° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.fisiologia",
+          "name": "Fisiología",
+          "role": "5° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "5° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6° cuatrimestre",
+      "title": "Fisicoquímica, instrumental y biológica",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.fisicoquimica",
+          "name": "Fisicoquímica",
+          "role": "6° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "6° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "6° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7° cuatrimestre",
+      "title": "Enfermedad, microbios, plantas y defensa",
+      "note": "Para cursar el 7° cuatrimestre deben estar aprobados los TP de Bioestadística e Inglés.",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.fisiopatologia",
+          "name": "Fisiopatología",
+          "role": "7° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.microbiologia",
+          "name": "Microbiología",
+          "role": "7° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.farmacobotanica",
+          "name": "Farmacobotánica",
+          "role": "7° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.inmunologia",
+          "name": "Inmunología",
+          "role": "7° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8° cuatrimestre",
+      "title": "Primera farmacología",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.farmacologia-1",
+          "name": "Farmacología I",
+          "role": "8° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.farmacognosia",
+          "name": "Farmacognosia",
+          "role": "8° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.nutricion",
+          "name": "Nutrición",
+          "role": "8° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.salud-publica-e-higiene-ambiental",
+          "name": "Salud Pública e Higiene Ambiental",
+          "role": "8° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9° cuatrimestre",
+      "title": "Fármaco, veneno, formulación y paciente",
+      "note": "Para cursar el 9° cuatrimestre deben estar aprobados los finales de Bioestadística e Inglés.",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.farmacologia-2",
+          "name": "Farmacología II",
+          "role": "9° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.toxicologia",
+          "name": "Toxicología",
+          "role": "9° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.tecnologia-farmaceutica-1",
+          "name": "Tecnología Farmacéutica I",
+          "role": "9° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.farmacologia-clinica",
+          "name": "Farmacología Clínica",
+          "role": "9° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.farmacia-clinica-y-asistencial",
+          "name": "Farmacia Clínica y Asistencial",
+          "role": "9° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10° cuatrimestre",
+      "title": "Calidad, alimentos y diseño de fármacos",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.calidad-de-medicamentos",
+          "name": "Calidad de Medicamentos",
+          "role": "10° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.bromatologia",
+          "name": "Bromatología",
+          "role": "10° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.tecnologia-farmaceutica-2",
+          "name": "Tecnología Farmacéutica II",
+          "role": "10° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.quimica-medicinal",
+          "name": "Química Medicinal",
+          "role": "10° cuat.",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tramo semiestructurado · orientación",
+      "title": "Oficinal, hospitalaria o industrial",
+      "note": "Se cursa con todos los TP hasta el 9° cuatrimestre aprobados. Se aprueba 1 asignatura de la orientación elegida + 2 optativas relacionadas (oferta anual, sin nombre fijo en el plan); opcionalmente hasta 3 electivas u optativas más.",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.atencion-farmaceutica",
+          "name": "Atención Farmacéutica",
+          "role": "orientación Farmacia Oficinal",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.farmacia-hospitalaria",
+          "name": "Farmacia Hospitalaria",
+          "role": "orientación Farmacia Hospitalaria",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.tecnologia-farmaceutica-industrial",
+          "name": "Tecnología Farmacéutica Industrial",
+          "role": "orientación Farmacia Industrial",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Obligatorias con elección del momento",
+      "title": "Se cursan cuando cada estudiante decide",
+      "note": "Inglés y Bioestadística: TP antes del 7° cuatrimestre, final antes del 9°. Legislación: estar en condiciones de cursar el 7°. Práctica Profesional: a partir del 7°, según el área. Práctica Social Educativa: según cada programa.",
+      "exits": [
+        {
+          "address": "uba.ffyb.farmacia.ingles",
+          "name": "Inglés",
+          "role": "TP antes del 7° cuat. · final antes del 9°",
+          "tag": "momento libre",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.bioestadistica",
+          "name": "Bioestadística",
+          "role": "TP antes del 7° cuat. · final antes del 9°",
+          "tag": "momento libre",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.legislacion-farmaceutica-y-derechos-humanos",
+          "name": "Legislación Farmacéutica y Derechos Humanos",
+          "role": "en condiciones de cursar el 7° cuat.",
+          "tag": "momento libre",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.practica-profesional-farmaceutica",
+          "name": "Práctica Profesional Farmacéutica",
+          "role": "a partir del 7° cuat.",
+          "tag": "momento libre",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.farmacia.practica-social-educativa",
+          "name": "Práctica Social Educativa",
+          "role": "según cada programa",
+          "tag": "momento libre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan Farmacia 2008 modificatoria 2016 · ffyb.uba.ar",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Plan-Farmacia-2008-modificatoria-2016.pdf"
+  }
+}

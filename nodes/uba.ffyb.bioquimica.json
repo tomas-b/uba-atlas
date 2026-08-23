@@ -1,0 +1,438 @@
+{
+  "address": "uba.ffyb.bioquimica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2023,
+    "resolucion": "RESCS-2023-1930-E-UBA-REC (Anexo ACS-2023-475-UBA-SG#REC)",
+    "vigencia": "ingresantes desde 2024",
+    "planAnterior": "2008 modificatoria 2016 (Res. CS 6196/16)",
+    "duracion": "5 años y 1 cuatrimestre (11 cuatrimestres)",
+    "cargaHorariaTotal": 4148,
+    "cuatrimestresCBC": 2,
+    "cuatrimestresPropios": 9,
+    "materias": 41,
+    "materiasObligatoriasNumeradas": 35,
+    "orientaciones": [
+      "Bioquímica Clínica",
+      "Bioquímica Ambiental",
+      "Microbiología e Inmunología",
+      "Investigación Básica",
+      "Bioquímica Industrial",
+      "Bioquímica Legal y Forense"
+    ],
+    "tramoSemiestructurado": "6 asignaturas en el 11° cuatrimestre: 1 electiva de la orientación + 2 optativas relacionadas + 3 electivas u optativas libres",
+    "tituloIntermedio": "Bachiller Universitario en Farmacia y Bioquímica (asignaturas 1 a 18 + Inglés + Bioestadística, 1975 hs)",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyb",
+      "label": "Farmacia y Bioquímica"
+    },
+    {
+      "address": "uba.ffyb.bioquimica",
+      "label": "Bioquímica"
+    }
+  ],
+  "eyebrow": "Bioquímica · Plan 2023",
+  "title": "Once cuatrimestres, del laboratorio de química al hospital.",
+  "lede": "El plan real (2023, Res. CS 1930/23) de la carrera de Bioquímica de Farmacia y Bioquímica: nueve cuatrimestres propios después del CBC, de la química general y la anatomía a la bioquímica clínica y la práctica profesional en el Hospital de Clínicas, y un último cuatrimestre semi-estructurado donde se elige una de seis orientaciones. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023",
+      "small": "Res. CS 1930/23"
+    },
+    {
+      "k": "Materias",
+      "v": "41",
+      "small": "propias · 4148 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 41"
+    }
+  ],
+  "frame": "Estructura sourceada del texto ordenado del plan 2023 (ffyb.uba.ar · RESCS-2023-1930-E-UBA-REC), vigente para ingresantes desde 2024. Nivel L1: los nombres, cuatrimestres y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Los cuatrimestres 1° y 2° son el CBC y no se listan acá. Los lugares sin nombre del tramo semi-estructurado (dos optativas de la orientación y tres electivas u optativas libres, oferta anual) no son nodos: sólo las seis asignaturas electivas de orientación con nombre propio en el plan. El Laboratorio Integrador (20 hs) y los Talleres de Introducción al Rol Profesional y Científico (12 hs) son actividades obligatorias, no asignaturas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "3° cuatrimestre · 322 hs",
+      "title": "La base: química, matemática y el cuerpo",
+      "note": "Requisito: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.quimica-general-inorganica",
+          "name": "Química General e Inorgánica",
+          "role": "3° cuat. · 126 hs",
+          "tag": "07",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.matematica",
+          "name": "Matemática",
+          "role": "3° cuat. · 98 hs",
+          "tag": "08",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.anatomia-histologia",
+          "name": "Anatomía e Histología",
+          "role": "3° cuat. · 98 hs",
+          "tag": "09",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4° cuatrimestre · 350 hs",
+      "title": "Física, célula y carbono",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.fisica",
+          "name": "Física",
+          "role": "4° cuat. · 112 hs · cursar: TP 08",
+          "tag": "10",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.biologia-celular-molecular",
+          "name": "Biología Celular y Molecular",
+          "role": "4° cuat. · 112 hs · cursar: TP 09",
+          "tag": "11",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.quimica-organica-1",
+          "name": "Química Orgánica I",
+          "role": "4° cuat. · 126 hs · cursar: TP 07 · rendir: final 07",
+          "tag": "12",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5° cuatrimestre · 357 hs",
+      "title": "Orgánica II, fisiología y analítica",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.quimica-organica-2",
+          "name": "Química Orgánica II",
+          "role": "5° cuat. · 126 hs · cursar: TP 10, 12 · rendir: final 12",
+          "tag": "13",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.fisiologia",
+          "name": "Fisiología",
+          "role": "5° cuat. · 112 hs · cursar: final 09, TP 11 · rendir: final 11",
+          "tag": "14",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "5° cuat. · 119 hs · cursar: final 07, TP 08 · rendir: final 08",
+          "tag": "15",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6° cuatrimestre · 336 hs",
+      "title": "Fisicoquímica, instrumental y química biológica",
+      "note": "Con las asignaturas 1 a 18 aprobadas más Inglés y Bioestadística se obtiene el título intermedio de Bachiller Universitario en Farmacia y Bioquímica (1975 hs). Antes del 9° cuatrimestre: Laboratorio Integrador (20 hs) y Talleres de Introducción al Rol Profesional y Científico (12 hs).",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.fisicoquimica",
+          "name": "Fisicoquímica",
+          "role": "6° cuat. · 112 hs · cursar: final 07, TP 10 · rendir: final 10",
+          "tag": "16",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "6° cuat. · 112 hs · cursar: final 10, TP 15 · rendir: final 15",
+          "tag": "17",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "6° cuat. · 112 hs · cursar: final 11, TP 13 · rendir: final 13",
+          "tag": "18",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "7° cuatrimestre · 350 hs",
+      "title": "Enfermedad, microbios y genes",
+      "note": "Para cursar cualquier asignatura del 7° cuatrimestre: TP de Inglés (43) y Bioestadística (44) aprobados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.fisiopatologia",
+          "name": "Fisiopatología",
+          "role": "7° cuat. · 98 hs · cursar: TP 14 · rendir: final 14",
+          "tag": "19",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.microbiologia",
+          "name": "Microbiología",
+          "role": "7° cuat. · 112 hs · cursar: TP 18",
+          "tag": "20",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.quimica-biologica-superior",
+          "name": "Química Biológica Superior",
+          "role": "7° cuat. · 70 hs · cursar: TP 16, 17, 18 · rendir: final 16, 18",
+          "tag": "21",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.genetica-molecular",
+          "name": "Genética Molecular",
+          "role": "7° cuat. · 70 hs · cursar: TP 18",
+          "tag": "22",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "8° cuatrimestre · 399 hs",
+      "title": "Defensas, fármacos, virus y nutrición",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.inmunologia",
+          "name": "Inmunología",
+          "role": "8° cuat. · 112 hs · cursar: final 14, TP 20 · rendir: final 18",
+          "tag": "23",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.farmacologia",
+          "name": "Farmacología",
+          "role": "8° cuat. · 119 hs · cursar: final 14, TP 18, 19 · rendir: final 18",
+          "tag": "24",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.biotecnologia",
+          "name": "Biotecnología",
+          "role": "8° cuat. · bimestral · 49 hs · cursar: TP 20, 22 · rendir: final 20, 22",
+          "tag": "25",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.virologia",
+          "name": "Virología",
+          "role": "8° cuat. · bimestral · 56 hs · cursar: TP 20, 22 · rendir: final 20, 22",
+          "tag": "26",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.nutricion",
+          "name": "Nutrición",
+          "role": "8° cuat. · 63 hs · cursar: final 14, 18, TP 19 · rendir: final 19",
+          "tag": "27",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "9° cuatrimestre · 386 hs",
+      "title": "El laboratorio clínico empieza",
+      "note": "Para cursar el 9° cuatrimestre: Inglés y Bioestadística aprobadas, Laboratorio Integrador y Talleres realizados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.microbiologia-clinica",
+          "name": "Microbiología Clínica",
+          "role": "9° cuat. · 126 hs · cursar: TP 19, 23, 26 · rendir: final 19, 20, 23",
+          "tag": "28",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bioquimica-clinica-1",
+          "name": "Bioquímica Clínica I",
+          "role": "9° cuat. · 126 hs · cursar: final 18, TP 19, 21, 23 · rendir: final 19, 23",
+          "tag": "29",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.practica-profesional-interna",
+          "name": "Práctica Profesional Bioquímica Interna",
+          "role": "9° y 10° cuat. · 134 + 66 hs · Hospital de Clínicas · simultánea con Bioquímica Clínica I, Microbiología Clínica y Bioquímica Clínica II",
+          "tag": "30",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "10° cuatrimestre · 416 hs",
+      "title": "Tóxicos, alimentos, metabolopatías y forense",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.toxicologia-quimica-legal",
+          "name": "Toxicología y Química Legal",
+          "role": "10° cuat. · 91 hs · cursar: final 15, 18, TP 17, 24 · rendir: final 17, 24",
+          "tag": "31",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bromatologia",
+          "name": "Bromatología",
+          "role": "10° cuat. · 63 hs · cursar: TP 20, 27 · rendir: final 20",
+          "tag": "32",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bioquimica-metabolopatias",
+          "name": "Bioquímica de Metabolopatías",
+          "role": "10° cuat. · bimestral · 35 hs · cursar: TP 18, 19 · rendir: final 18, 19",
+          "tag": "33",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.genetica-forense",
+          "name": "Genética Forense",
+          "role": "10° cuat. · bimestral · 35 hs · cursar: TP 22 · rendir: final 22",
+          "tag": "34",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bioquimica-clinica-2",
+          "name": "Bioquímica Clínica II",
+          "role": "10° cuat. · 126 hs · cursar: final 19, TP 29 · rendir: final 21",
+          "tag": "35",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "11° cuatrimestre · 510 hs",
+      "title": "Práctica externa y tramo semi-estructurado",
+      "note": "Se elige una orientación: su asignatura electiva (abajo, una por orientación) más 2 optativas relacionadas y 3 electivas u optativas libres, con oferta anual. Requisito: TP de todas las asignaturas hasta el 10° cuatrimestre aprobados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.practica-profesional-externa",
+          "name": "Práctica Profesional Bioquímica Externa",
+          "role": "11° cuat. · 300 hs · ámbitos hospitalarios, ambulatorios y de atención primaria · cursar: Práctica Interna cursada",
+          "tag": "36",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bioquimica-clinica-3",
+          "name": "Bioquímica Clínica III",
+          "role": "electiva de la orientación Bioquímica Clínica · bimestral · 35 hs",
+          "tag": "37 · clínica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.ambiente-salud",
+          "name": "Ambiente y Salud",
+          "role": "electiva de la orientación Bioquímica Ambiental · bimestral · 35 hs",
+          "tag": "37 · ambiental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.inmunologia-procesos-infecciosos",
+          "name": "Inmunología de los Procesos Infecciosos",
+          "role": "electiva de la orientación Microbiología e Inmunología · bimestral · 35 hs",
+          "tag": "37 · microbiología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.cinetica-enzimatica",
+          "name": "Cinética Enzimática",
+          "role": "electiva de la orientación Investigación Básica · bimestral · 35 hs",
+          "tag": "37 · investigación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.procesos-biotecnologia",
+          "name": "Procesos de Biotecnología",
+          "role": "electiva de la orientación Bioquímica Industrial · bimestral · 35 hs",
+          "tag": "37 · industrial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.toxicologia-forense",
+          "name": "Toxicología Forense",
+          "role": "electiva de la orientación Bioquímica Legal y Forense · bimestral · 35 hs",
+          "tag": "37 · forense",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Con flexibilidad en el momento de cursada",
+      "title": "Idioma, estadística, ley y sociedad",
+      "note": "Inglés y Bioestadística: TP aprobados antes del 7° cuatrimestre, finales antes del 9°. Legislación: estar en condiciones de cursar el 7° cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.ffyb.bioquimica.ingles",
+          "name": "Inglés",
+          "role": "cuatrimestral · 42 hs",
+          "tag": "43",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.bioestadistica",
+          "name": "Bioestadística",
+          "role": "cuatrimestral · 56 hs · cursar: TP 08 · rendir: final 08",
+          "tag": "44",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.legislacion-bioquimica-ddhh",
+          "name": "Legislación Bioquímica y Derechos Humanos",
+          "role": "bimestral · 35 hs · cursar: en condiciones de cursar el 7° cuat.",
+          "tag": "45",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.salud-publica",
+          "name": "Salud Pública",
+          "role": "bimestral · 35 hs · cursar: TP 20",
+          "tag": "46",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.bioquimica.practica-social-educativa",
+          "name": "Práctica Social Educativa",
+          "role": "42 hs · según los requerimientos de cada programa",
+          "tag": "47",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Resolución y texto ordenado Plan de Estudios 2023 Bioquímica (RESCS-2023-1930-E-UBA-REC)",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/06/Resolucion-Texto-ordenado-Plan-de-Estudios-2023-BIOQUIMICA.pdf"
+  }
+}

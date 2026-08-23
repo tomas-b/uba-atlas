@@ -1,0 +1,421 @@
+{
+  "address": "uba.fagr.economia-agraria",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2026 · Res CS 1653/2025 (RESCS-2025-1653-UBA-REC)",
+    "vigencia": "ciclo lectivo 2026",
+    "años": "4½ (CBC + 4)",
+    "materias": 29,
+    "electivas": 16,
+    "obligatoriasTotalPlan": 35,
+    "cargaHorariaTotal": 2600,
+    "tituloIntermedio": "Analista Universitario/a en Economía y Administración Agrarias (1604 hs, al completar 3er año + 40 hs electivas + inglés e informática)",
+    "electivasHoras": 216,
+    "optativosHoras": 108,
+    "correlativas": true,
+    "requisitos": "inglés e informática acreditados para cursar 4º año"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    },
+    {
+      "address": "uba.fagr.economia-agraria",
+      "label": "Economía y Administración Agrarias"
+    }
+  ],
+  "eyebrow": "Licenciatura en Economía y Administración Agrarias · Plan 2026",
+  "title": "La economía leída desde el campo.",
+  "lede": "El plan real (Res CS 1653/2025, vigente desde 2026) de la Facultad de Agronomía: después del CBC, tres años que cruzan macro, micro y econometría con los sistemas de producción vegetal y animal, y un cuarto año de política agraria, comercio, legislación, impuestos y administración de la empresa agropecuaria, cerrado por un Trabajo Final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2026",
+      "small": "Res CS 1653/2025"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "propias · +16 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 29"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial en PDF (agro.uba.ar · plan-leaa-2026.pdf, Res CS 1653/2025) y su texto consolidado en el Código UBA. Nivel L1: los nombres, años, cuatrimestres, cargas horarias y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El primer año del plan es el CBC (Análisis Matemático, Economía, Administración General, Álgebra, Historia Económica y Social General, Instituciones de Gobierno y Economía Política o Sociología de las Organizaciones) y no se replica acá. Al completar tercer año, 40 hs electivas e inglés e informática se accede al título intermedio de Analista Universitario/a; la licenciatura suma 216 hs electivas, 108 hs optativas y el Trabajo Final de 184 hs.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "Macro, micro y las bases biológicas",
+      "note": "Todas requieren el CBC aprobado; Introducción a los Sistemas Productivos y Aplicaciones de la Genética requieren Bases Biológicas. Macroeconomía y Microeconomía son comunes al Ciclo General de Ciencias Económicas.",
+      "exits": [
+        {
+          "address": "uba.fagr.economia-agraria.macroeconomia",
+          "name": "Macroeconomía",
+          "role": "1º cuat. · 96 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.microeconomia",
+          "name": "Microeconomía",
+          "role": "1º cuat. · 64 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.bases-biologicas",
+          "name": "Bases Biológicas de los Sistemas Agropecuarios",
+          "role": "1º cuat. · 64 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.estadistica-general",
+          "name": "Estadística General",
+          "role": "1º cuat. · 80 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.sociologia-extension",
+          "name": "Sociología y Extensión Agrarias",
+          "role": "2º cuat. · 64 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.intro-sistemas-productivos",
+          "name": "Introducción a los Sistemas Productivos",
+          "role": "2º cuat. · 96 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.interpretacion-contable",
+          "name": "Interpretación Contable y Diagnóstico Financiero",
+          "role": "2º cuat. · 64 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.genetica-bioeconomia",
+          "name": "Aplicaciones de la Genética a la Bioeconomía",
+          "role": "2º cuat. · 40 hs",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Producción, econometría y costos",
+      "note": "Con tercer año completo, 40 hs electivas e inglés e informática acreditados: título intermedio de Analista Universitario/a.",
+      "exits": [
+        {
+          "address": "uba.fagr.economia-agraria.produccion-vegetal",
+          "name": "Producción Vegetal",
+          "role": "1º cuat. · 96 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.geografia-economica",
+          "name": "Geografía Económica",
+          "role": "1º cuat. · 64 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.macroeconomia-aplicada",
+          "name": "Macroeconomía Aplicada",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.econometria",
+          "name": "Econometría",
+          "role": "1º cuat. · 96 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.produccion-bovina",
+          "name": "Sistemas de Producción Bovina de Carne y Leche",
+          "role": "2º cuat. · 64 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.cultivos-extensivos",
+          "name": "Sistemas de Producción de Cultivos Extensivos",
+          "role": "2º cuat. · 48 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.costos-agrarios",
+          "name": "Costos Agrarios y Análisis de Proyectos",
+          "role": "2º cuat. · 64 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.ecologia-ecosistemas",
+          "name": "Ecología de los Ecosistemas",
+          "role": "2º cuat. · 48 hs",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Política, comercio, ley y empresa",
+      "note": "Para cursar 4º año hay que acreditar inglés e informática.",
+      "exits": [
+        {
+          "address": "uba.fagr.economia-agraria.politica-agraria",
+          "name": "Política Agraria",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.aspectos-metodologicos",
+          "name": "Aspectos Metodológicos para la Elaboración del Proyecto de Trabajo Final",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.produccion-aves",
+          "name": "Sistemas de Producción de Aves",
+          "role": "1º cuat. · bimestral · 32 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.produccion-porcina",
+          "name": "Sistemas de Producción Porcina",
+          "role": "1º cuat. · bimestral · 32 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.economia-produccion-agroindustrial",
+          "name": "Economía de la Producción y Complejos Agroindustriales",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.recursos-naturales-sustentabilidad",
+          "name": "Economía y Política de los Recursos Naturales y Sustentabilidad",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.cultivos-intensivos",
+          "name": "Sistemas de Producción de Cultivos Intensivos",
+          "role": "1º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.administracion-empresa-agropecuaria",
+          "name": "Administración de la Empresa Agropecuaria",
+          "role": "2º cuat. · 64 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.comercio-productos-agropecuarios",
+          "name": "Comercio Interno y Externo de Productos Agropecuarios",
+          "role": "2º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.legislacion-agraria",
+          "name": "Legislación Agraria",
+          "role": "2º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.impuestos-agropecuarios",
+          "name": "Introducción a los Impuestos Agropecuarios",
+          "role": "2º cuat. · 48 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.derechos-humanos",
+          "name": "Derechos Humanos",
+          "role": "2º cuat. · bimestral · 16 hs",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Trabajo Final",
+      "note": "Requiere todos los espacios obligatorios, electivos y optativos aprobados. Se elabora y defiende públicamente.",
+      "exits": [
+        {
+          "address": "uba.fagr.economia-agraria.trabajo-final",
+          "name": "Trabajo Final",
+          "role": "cuatrimestral · 184 hs",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 216 hs",
+      "title": "Se cursan en cualquier momento según correlativas",
+      "note": "Las 16 electivas nombradas por el plan. Se cubren 216 hs en total (40 antes del título intermedio). Los espacios optativos (108 hs) no tienen nómina en el plan.",
+      "exits": [
+        {
+          "address": "uba.fagr.economia-agraria.acuicultura",
+          "name": "Acuicultura",
+          "role": "1er bimestre · 32 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.climatologia-agrometeorologia",
+          "name": "Climatología y Agrometeorología",
+          "role": "2º cuat. · 64 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.desarrollo-extension-agropecuaria",
+          "name": "Desarrollo y Extensión Agropecuaria",
+          "role": "1º cuat. · 48 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.desarrollo-emprendedor",
+          "name": "Desarrollo Emprendedor",
+          "role": "2º cuat. · 48 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.valoracion-suelos",
+          "name": "Elementos para la Valoración de los Suelos",
+          "role": "1º cuat. · 32 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.escenarios-agroindustriales",
+          "name": "Escenarios Agroindustriales en el Siglo XXI",
+          "role": "2º bimestre · 16 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.estadistica-administradores",
+          "name": "Estadística para Administradores",
+          "role": "2º cuat. · 64 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.finanzas-agropecuarias",
+          "name": "Finanzas Agropecuarias",
+          "role": "1er bimestre · 32 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.proyectos-publicos",
+          "name": "Formulación y Evaluación de Proyectos Públicos",
+          "role": "2º cuat. · 48 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.investigacion-operativa",
+          "name": "Investigación Operativa",
+          "role": "1º cuat. · 48 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.marketing-agroalimentario",
+          "name": "Marketing Agroalimentario",
+          "role": "bimestral · 32 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.producciones-animales-alternativas",
+          "name": "Producciones Animales Alternativas",
+          "role": "2º bimestre · 24 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.produccion-equina",
+          "name": "Producción Equina",
+          "role": "3er bimestre · 24 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.produccion-ovina",
+          "name": "Sistemas de Producción Ovina",
+          "role": "4º bimestre · 24 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.sociologia-organizaciones-agroalimentarias",
+          "name": "Sociología de las Organizaciones Agroalimentarias",
+          "role": "1º cuat. · 48 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.economia-agraria.teoria-contable",
+          "name": "Teoría Contable",
+          "role": "cuatrimestral · 108 hs · FCE",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar · plan-leaa-2026.pdf (Res CS 1653/2025) · Código UBA Libro II Tít. 6 Cap. A",
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/plan-leaa-2026.pdf"
+  }
+}

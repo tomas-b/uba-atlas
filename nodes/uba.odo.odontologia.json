@@ -1,0 +1,508 @@
+{
+  "address": "uba.odo.odontologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Plan vigente (2024) (caja curricular publicada 2024)",
+    "años": 6,
+    "materias": 57,
+    "obligatorias": 48,
+    "electivas": 9,
+    "cargaHorariaTotal": 5604,
+    "correlativas": true,
+    "titulo": "Odontólogo/a"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.odo",
+      "label": "Odontología"
+    },
+    {
+      "address": "uba.odo.odontologia",
+      "label": "Odontología"
+    }
+  ],
+  "eyebrow": "Odontología · Plan vigente (2024)",
+  "title": "Seis años: del laboratorio al sillón, y del sillón al paciente.",
+  "lede": "El plan real de la Facultad de Odontología: primer año en el CBC (que vive en su propio árbol), segundo y tercero de ciencias básicas y preclínicas, y de cuarto a sexto una sucesión de clínicas sobre pacientes reales hasta la Práctica Profesional Supervisada. Cada materia es una puerta — clic para trazar su programa.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2022"
+    },
+    {
+      "k": "Materias",
+      "v": "57",
+      "small": "48 oblig. + 9 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 57"
+    }
+  ],
+  "frame": "Estructura sourceada de la caja curricular oficial (odontologia.uba.ar, PLAN-DE-ESTUDIOS-2024.pdf: asignaturas, códigos, duración, carga horaria y régimen de correlatividades). Nivel L1: los nombres, años, semestres (A = primer semestre, B = segundo) y códigos son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Carga horaria total: 5604 horas. Las seis materias del primer año son el CBC y no se repiten aquí. La 'asignatura optativa' sin nombre del plan no es una puerta.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "El cuerpo, la boca y la primera clínica",
+      "note": "Ciencias básicas con foco estomatológico. Inserción Temprana en la Clínica abre la puerta al sillón.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "N100 · bimestral · A y B",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.anatomia-general-estomatologica",
+          "name": "Anatomía General y Estomatológica",
+          "role": "N101 · anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.bioquimica-general",
+          "name": "Bioquímica General",
+          "role": "N102 · 1º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.histologia-embriologia",
+          "name": "Histología y Embriología",
+          "role": "N103 · 1º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.inmunologia-microbiologia-1",
+          "name": "Inmunología y Microbiología I",
+          "role": "N105 · 2º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.biologia-bucal",
+          "name": "Biología Bucal",
+          "role": "N106 · 2º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.insercion-temprana-clinica",
+          "name": "Inserción Temprana en la Clínica",
+          "role": "N110 · bimestral · A y B",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.biofisica-aplicada",
+          "name": "Biofísica Aplicada a la Práctica Odontológica",
+          "role": "N108 · 2º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.diagnostico-imagenes-radiofisica",
+          "name": "Diagnóstico por Imágenes con Radiofísica Sanitaria",
+          "role": "N111 · 2º semestre",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Preclínicas: manos sobre el modelo",
+      "note": "Fisiología y patología, más las preclínicas restauradora, quirúrgica y endodóntica.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.fisiologia",
+          "name": "Fisiología",
+          "role": "N201 · anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.patologia-general",
+          "name": "Patología General",
+          "role": "N202 · 1º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.materiales-dentales-1",
+          "name": "Materiales Dentales I",
+          "role": "N203 · bimestral · A",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.preclinica-restauradora-1",
+          "name": "Preclínica de Odontología Restauradora I",
+          "role": "N204 · bimestral · A",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.preventiva-minimamente-invasiva-1",
+          "name": "Odontología Preventiva y Mínimamente Invasiva I",
+          "role": "N206 · 1º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.preclinica-quirurgica-anestesia",
+          "name": "Preclínica Quirúrgica y Anestesia",
+          "role": "N211 · bimestral · A",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.microbiologia-2",
+          "name": "Microbiología II",
+          "role": "N205 · bimestral · A",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.preventiva-minimamente-invasiva-2",
+          "name": "Odontología Preventiva y Mínimamente Invasiva II",
+          "role": "N207 · 2º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.preclinica-restauradora-2",
+          "name": "Preclínica de Odontología Restauradora II",
+          "role": "N208 · 2º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.endodoncia-1",
+          "name": "Endodoncia I",
+          "role": "N209 · 2º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.patologia-bucal",
+          "name": "Patología Bucal",
+          "role": "N210 · 2º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.materiales-dentales-2",
+          "name": "Materiales Dentales II",
+          "role": "N212 · 2º semestre",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.bioetica-ejercicio-profesional",
+          "name": "Bioética y Ejercicio Profesional",
+          "role": "N213 · bimestral · B",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.intro-periodoncia",
+          "name": "Introducción a la Periodoncia",
+          "role": "N214 · bimestral · B",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Las clínicas anuales empiezan",
+      "note": "Endodoncia, periodoncia, restauradora y cirugía I: el primer año entero sobre pacientes.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.preclinica-rehabilitacion-protetica",
+          "name": "Preclínica de Rehabilitación Protética",
+          "role": "N302 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.farmacologia",
+          "name": "Farmacología",
+          "role": "N303 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.medicina-interna",
+          "name": "Medicina Interna en la Práctica Odontológica",
+          "role": "N304 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.endodoncia-2",
+          "name": "Endodoncia II",
+          "role": "N308 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.periodoncia",
+          "name": "Periodoncia",
+          "role": "N309 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.odontologia-restauradora",
+          "name": "Odontología Restauradora",
+          "role": "N310 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.bioestadistica-metodologia",
+          "name": "Bioestadística y Metodología de la Investigación",
+          "role": "N306 · bimestral · A",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.historia-odontologia",
+          "name": "Historia de la Odontología",
+          "role": "N305 · bimestral · A y B",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.cirugia-bucomaxilofacial-1",
+          "name": "Cirugía y Traumatología Bucomáxilofacial I",
+          "role": "N311 · anual",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Rehabilitar, operar, atender niños",
+      "note": "Odontología Rehabilitadora Integral (360 h) es la materia más pesada del plan.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.rehabilitadora-integral",
+          "name": "Odontología Rehabilitadora Integral",
+          "role": "N401 · anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.cirugia-bucomaxilofacial-2",
+          "name": "Cirugía y Traumatología Bucomáxilofacial II",
+          "role": "N402 · anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.integral-ninos-adolescentes",
+          "name": "Odontología Integral Niños y Adolescentes",
+          "role": "N403 · anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.materiales-dentales-3",
+          "name": "Materiales Dentales III",
+          "role": "N405 · bimestral · A",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.diagnostico-imagenes-2",
+          "name": "Diagnóstico por Imágenes II",
+          "role": "N407 · 1º semestre",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.medicina-bucal-1",
+          "name": "Medicina Bucal I",
+          "role": "N404 · 2º semestre",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.epidemiologia-salud-poblaciones",
+          "name": "Epidemiología y Salud de las Poblaciones",
+          "role": "N409 · 2º semestre",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 6",
+      "title": "Práctica profesional, urgencias y adulto mayor",
+      "note": "Odontología Integral Adultos es la Práctica Profesional Supervisada (PPS); Articulación Docencia-Servicio-Investigación es la Práctica Social Educativa.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.integral-adultos-pps",
+          "name": "Odontología Integral Adultos (PPS)",
+          "role": "N501 · anual",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.articulacion-docencia-servicio-investigacion",
+          "name": "Articulación Docencia-Servicio-Investigación (Práctica Social Educativa)",
+          "role": "N503 · anual",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.ortodoncia-1",
+          "name": "Ortodoncia I",
+          "role": "N506 · 1º semestre",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.medicina-bucal-2",
+          "name": "Medicina Bucal II",
+          "role": "N504 · 1º semestre",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.cirugia-bucomaxilofacial-3",
+          "name": "Cirugía y Traumatología Bucomáxilofacial III",
+          "role": "N502 · anual",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.odontologia-forense",
+          "name": "Odontología Forense",
+          "role": "N507 · bimestral · A",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.urgencias-odontologicas",
+          "name": "Módulo Asistencial de Urgencias Odontológicas",
+          "role": "N505 · bimestral · B",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.sistema-salud-gestion-clinica",
+          "name": "Sistema de Salud y Gestión Clínica",
+          "role": "N508 · 2º semestre",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.integral-adulto-mayor",
+          "name": "Odontología Integral para el Adulto Mayor",
+          "role": "N509 · anual",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Módulo Electivo Asistencial Orientado",
+      "title": "Una orientación a elegir",
+      "note": "Se cursa una de estas nueve materias semestrales (68 h). Cada una exige correlativas de 4º a 6º año.",
+      "exits": [
+        {
+          "address": "uba.odo.odontologia.riesgo-sistemico-patologia-bucodental",
+          "name": "Riesgo Sistémico de la Patología Buco-Dental",
+          "role": "N601 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.atencion-pacientes-discapacidad",
+          "name": "Atención Odontológica en Pacientes con Discapacidad",
+          "role": "N602 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.ortodoncia-2",
+          "name": "Ortodoncia II",
+          "role": "N603 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.programa-rural",
+          "name": "Programa Rural de Atención Odontológica",
+          "role": "N604 · bimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.traumatismos-dentarios",
+          "name": "Traumatismos Dentarios",
+          "role": "N605 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.tomografia-computada",
+          "name": "Tomografía Computada en la Práctica Clínica Odontológica",
+          "role": "N606 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.sequedad-bucal",
+          "name": "Atención Integral de Pacientes con Sequedad Bucal",
+          "role": "N607 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.modulo-baja-complejidad",
+          "name": "Módulo Asistencial Integrado de Baja Complejidad",
+          "role": "N608 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.odo.odontologia.nuevas-tecnologias-rehabilitadora",
+          "name": "Nuevas Tecnologías en Odontología Rehabilitadora",
+          "role": "N609 · semestral",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "odontologia.uba.ar · Plan de Estudios (caja curricular + correlatividades, PDF 2024)",
+    "url": "http://odontologia.uba.ar/wp-content/uploads/2024/02/PLAN-DE-ESTUDIOS-2024.pdf"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "address": "uba.fagr.ambientales",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2017 · Res. CS 8187/2017 (mod. CS 73/19 alcances · CS 295/21 título intermedio)",
+    "titulo": "Licenciado/a en Ciencias Ambientales · Bachiller Universitario en Ciencias Ambientales (intermedio)",
+    "años": 6,
+    "materiasObligatorias": 39,
+    "electivasNombradas": 21,
+    "creditosOptativas": 10,
+    "creditosElectivas": 8,
+    "creditosTotales": 211.5,
+    "horasTotales": 3384,
+    "correlativas": true,
+    "requisitos": "Inglés e Informática"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fagr", "label": "Agronomía" },
+    { "address": "uba.fagr.ambientales", "label": "Ciencias Ambientales" }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Ambientales · Facultad de Agronomía · Plan 2017",
+  "title": "Del suelo y el agua al territorio, en cinco años y medio.",
+  "lede": "El plan real (2017) de la Licenciatura en Ciencias Ambientales de Agronomía: después del CBC, cinco años de ciclo profesional que suben desde la química, la física y el suelo hacia la ecología, la economía del ambiente, el ordenamiento territorial y la evaluación de impacto, y cierran con un Trabajo Final. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    { "k": "Plan", "v": "2017", "small": "Res. CS 8187/17" },
+    { "k": "Materias", "v": "39", "small": "obligatorias · + 21 electivas" },
+    { "k": "Grounding", "v": "L1", "small": "plan oficial" },
+    { "k": "Trazadas", "v": "0", "small": "/ 60" }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Dirección de Ingreso, Alumnos y Graduados de FAUBA (lca_2017.pdf, ed. oct. 2022): Res. CS 8187/2017, con modificación de alcances (CS 73/19) y título intermedio (CS 295/21). Nivel L1: los nombres, años, cuatrimestres, créditos (1 crédito = 16 h) y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las asignaturas optativas (10 créditos, de 3º a 6º año) no tienen nombre en el plan y por eso no se enumeran; las electivas (mínimo 8 créditos, de 4º a 6º) sí están nombradas y aparecen como grupo propio. Inglés e Informática son requisitos de acreditación, no materias.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo año · Ciclo Profesional",
+      "title": "Química, física, suelo y planta",
+      "note": "Primer año del ciclo profesional (el CBC es el primero de la carrera). Todas correlativas del CBC.",
+      "exits": [
+        { "address": "uba.fagr.ambientales.quimica-aplicada", "name": "Química Aplicada", "role": "1º cuat. · 6 créditos", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.fisica-aplicada", "name": "Física Aplicada", "role": "1º cuat. · 3 créditos", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.estadistica-general", "name": "Estadística General", "role": "1º cuat. · 5 créditos", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.biomoleculas", "name": "Biomoléculas", "role": "1º cuat. · 4 créditos", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.bioquimica-aplicada", "name": "Bioquímica Aplicada", "role": "2º cuat. · 4 créditos · corr. Biomoléculas", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.edafologia", "name": "Edafología", "role": "2º cuat. · 5 créditos · corr. Física Aplicada, Química Aplicada", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.climatologia-agrometeorologia", "name": "Climatología y Agrometeorología", "role": "2º cuat. · 4 créditos · corr. Estadística General", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fagr.ambientales.botanica", "name": "Botánica", "role": "2º cuat. · 6 créditos", "tag": "año 2", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tercer año",
+      "title": "Los organismos, la contaminación y la sociedad",
+      "note": "Con tercer año completo + Hidrología, Economía Aplicada, SIG, Inglés, Informática y 1 crédito optativo se tramita el Bachiller Universitario en Ciencias Ambientales.",
+      "exits": [
+        { "address": "uba.fagr.ambientales.fisiologia-plantas-superiores", "name": "Fisiología de las Plantas Superiores", "role": "1º cuat. · 4 créditos · corr. Bioquímica Aplicada, Botánica, Climatología", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.zoologia-general", "name": "Zoología General", "role": "1º cuat. · 4 créditos · corr. Bioquímica Aplicada", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.quimica-contaminacion-toxicologia", "name": "Química de la Contaminación y Toxicología", "role": "1º cuat. · 4 créditos · corr. Biomoléculas, Edafología", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.sociologia-antropologia", "name": "Sociología y Antropología General", "role": "1º cuat. · 4 créditos", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.evolucion-genetica", "name": "Evolución y Genética", "role": "2º cuat. · 4 créditos · corr. Bioquímica Aplicada", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.ecologia", "name": "Ecología", "role": "2º cuat. · 4 créditos · corr. Edafología, Fisiología de las Plantas Superiores", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.economia-politica", "name": "Economía Política", "role": "2º cuat. · 4 créditos", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.microbiologia-ambiental", "name": "Microbiología Ambiental", "role": "2º cuat. · 4 créditos · corr. Bioquímica Aplicada, Edafología", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.geologia-geomorfologia", "name": "Nociones de Geología y Geomorfología", "role": "2º cuat. · 4 créditos · corr. Edafología, Climatología", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fagr.ambientales.derechos-humanos", "name": "Derechos Humanos", "role": "2º cuat. · 1 crédito · corr. Sociología y Antropología General", "tag": "año 3", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuarto año",
+      "title": "Ecosistemas, economía y mapa",
+      "exits": [
+        { "address": "uba.fagr.ambientales.ecologia-acuatica", "name": "Ecología Acuática", "role": "1º cuat. · 4 créditos · corr. Ecología, Zoología General", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.hidrologia", "name": "Hidrología", "role": "1º cuat. · 3 créditos · corr. Nociones de Geología y Geomorfología", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.geografia-ambiental", "name": "Geografía Ambiental", "role": "1º cuat. · 3 créditos · corr. Nociones de Geología y Geomorfología", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.bioindicadores", "name": "Bioindicadores", "role": "1º cuat. · 3 créditos · corr. Química de la Contaminación y Toxicología", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.economia-aplicada-agro-ambiente", "name": "Economía Aplicada al Agro y al Ambiente", "role": "1º cuat. · 4 créditos · corr. Economía Política", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.sig-cartografia-teledeteccion", "name": "SIG, Cartografía y Teledetección", "role": "1º cuat. · 2 créditos · corr. Ecología", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.agroecosistemas", "name": "Agroecosistemas", "role": "2º cuat. · 4 créditos · corr. Ecología", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.ambiente-sociedad", "name": "Ambiente y Sociedad", "role": "2º cuat. · 4 créditos · corr. Sociología y Antropología, Economía Política", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.gestion-proyectos", "name": "Gestión de Proyectos", "role": "2º cuat. · 3 créditos · corr. Economía Aplicada al Agro y al Ambiente", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.economia-politica-ambiente", "name": "Economía y Política del Ambiente", "role": "2º cuat. · 4 créditos · corr. Economía Aplicada al Agro y al Ambiente", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fagr.ambientales.modelos-estadisticos", "name": "Modelos Estadísticos", "role": "2º cuat. · 3 créditos · corr. Estadística General", "tag": "año 4", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Quinto año",
+      "title": "Conservar, ordenar, simular",
+      "note": "En quinto año comienza la elaboración del Trabajo Final (14 créditos), que se defiende al terminar la carrera.",
+      "exits": [
+        { "address": "uba.fagr.ambientales.gestion-conservacion-rrnn", "name": "Gestión y Conservación de los Recursos Naturales", "role": "1º cuat. · 4 créditos · corr. SIG, Geografía Ambiental", "tag": "año 5", "kind": "course" },
+        { "address": "uba.fagr.ambientales.biodiversidad", "name": "Biodiversidad", "role": "1º cuat. · 4 créditos · corr. Ecología Acuática", "tag": "año 5", "kind": "course" },
+        { "address": "uba.fagr.ambientales.conservacion-planificacion-tierra", "name": "Conservación y Planificación del Uso de la Tierra", "role": "1º cuat. · 4 créditos · corr. SIG, Agroecosistemas", "tag": "año 5", "kind": "course" },
+        { "address": "uba.fagr.ambientales.ordenamiento-territorial", "name": "Ordenamiento Territorial", "role": "2º cuat. · 4 créditos · corr. Conservación y Planificación, Gestión y Conservación de los RRNN", "tag": "año 5", "kind": "course" },
+        { "address": "uba.fagr.ambientales.etica-legislacion-ambiental", "name": "Ética y Legislación Ambiental", "role": "2º cuat. · 4 créditos · corr. Economía y Política del Ambiente, Sociología y Antropología", "tag": "año 5", "kind": "course" },
+        { "address": "uba.fagr.ambientales.modelos-simulacion", "name": "Modelos de Simulación", "role": "3º bimestre · 2,5 créditos · corr. Modelos Estadísticos, SIG", "tag": "año 5", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Sexto año",
+      "title": "Impacto, cambio global y defensa",
+      "note": "Para defender el Trabajo Final deben estar aprobados todos los espacios obligatorios, electivos y optativos, más Inglés e Informática.",
+      "exits": [
+        { "address": "uba.fagr.ambientales.evaluacion-impacto-ambiental", "name": "Evaluación de Impacto Ambiental", "role": "1º cuat. · 4 créditos · corr. Conservación y Planificación, Gestión y Conservación de los RRNN", "tag": "año 6", "kind": "course" },
+        { "address": "uba.fagr.ambientales.cambio-global", "name": "Cambio Global", "role": "1º cuat. · 5 créditos · corr. Modelos de Simulación, Biodiversidad", "tag": "año 6", "kind": "course" },
+        { "address": "uba.fagr.ambientales.analisis-riesgo-ambiental", "name": "Análisis de Riesgo Ambiental", "role": "2º bimestre · 2 créditos · corr. Modelos de Simulación", "tag": "año 6", "kind": "course" },
+        { "address": "uba.fagr.ambientales.trabajo-final", "name": "Trabajo Final", "role": "inicio en 5º año · defensa al cierre · 14 créditos", "tag": "año 6", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Asignaturas electivas · mínimo 8 créditos",
+      "title": "El menú nombrado, de cuarto a sexto",
+      "note": "Las 21 electivas que el plan enumera. Se cursan de 4º a 6º año; las correlativas dependen de cada una. Los 10 créditos optativos no tienen nombre en el plan y no se enumeran.",
+      "exits": [
+        { "address": "uba.fagr.ambientales.agroecologia", "name": "Agroecología", "role": "cuatrimestral · 4 créditos · corr. Agroecosistemas, Economía Aplicada", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.agroecosistemas-campesinos", "name": "Agroecosistemas Campesinos", "role": "cuatrimestral · 4 créditos · corr. Agroecosistemas, Economía Aplicada", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.biologia-conservacion", "name": "Biología de la Conservación", "role": "bimestral · 2 créditos · corr. Gestión y Conservación de los RRNN", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.calidad-aguas-contaminacion", "name": "Calidad de Aguas y Contaminación", "role": "bimestral · 4 créditos · corr. Química de la Contaminación, Hidrología", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.culturas-ambientes", "name": "Culturas y Ambientes", "role": "bimestral · 2 créditos · corr. Ambiente y Sociedad", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.derecho-politica-ambiental-internacional", "name": "Derecho y Política Ambiental Internacional", "role": "bimestral · 2 créditos · corr. Ética y Legislación Ambiental", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.ecofisiologia-plantas", "name": "Ecofisiología de las Plantas", "role": "bimestral · 3 créditos · corr. Ecología", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.ecologia-paisaje", "name": "Ecología del Paisaje", "role": "cuatrimestral · 5 créditos · corr. SIG, Cartografía y Teledetección", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.gestion-remediacion-suelos", "name": "Gestión y Remediación de Suelos", "role": "bimestral · 2 créditos · corr. Bioindicadores, Conservación y Planificación", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.manejo-bosques", "name": "Manejo de Bosques", "role": "bimestral · 2 créditos · corr. Gestión y Conservación de los RRNN", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.manejo-fauna", "name": "Manejo de Fauna", "role": "bimestral · 2 créditos · corr. Gestión y Conservación de los RRNN", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.manejo-pastizales", "name": "Manejo de Pastizales", "role": "bimestral · 2 créditos · corr. Gestión y Conservación de los RRNN", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.manejo-pesquerias", "name": "Manejo de Pesquerías", "role": "bimestral · 2 créditos · corr. Ecología Acuática", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.manejo-cuencas-recursos-hidricos", "name": "Manejo Integrado de Cuencas y Gestión de Recursos Hídricos", "role": "bimestral · 2 créditos · corr. Ecología Acuática", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.metodologia-cualitativa-sociocultural", "name": "Metodología Cualitativa para los Estudios Socioculturales sobre Problemáticas Ambientales", "role": "cuatrimestral · 4 créditos · corr. Sociología y Antropología General", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.metodologia-investigacion", "name": "Metodología de la Investigación", "role": "bimestral · 2 créditos · corr. Ecología", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.recursos-geologicos", "name": "Recursos Geológicos: génesis, uso y manejo sustentable", "role": "bimestral · 3 créditos · corr. Nociones de Geología y Geomorfología", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.relevamiento-recursos-naturales", "name": "Relevamiento de los Recursos Naturales", "role": "anual · 4 créditos · corr. Ecología", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.restauracion-ecosistemas-acuaticos", "name": "Restauración de Ecosistemas Acuáticos", "role": "bimestral · 2 créditos · corr. Ecología Acuática, Gestión y Conservación de los RRNN", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.tratamiento-aguas-efluentes", "name": "Tratamiento de Aguas y Efluentes", "role": "bimestral · 2 créditos · corr. Hidrología, Química de la Contaminación", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fagr.ambientales.tratamiento-residuos", "name": "Tratamiento de Residuos Sólidos y Peligrosos", "role": "bimestral · 2 créditos · corr. Química de la Contaminación y Toxicología", "tag": "electiva", "kind": "course" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar · Plan de Estudios LCA 2017 (Res. CS 8187/2017) · lca_2017.pdf",
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/lca_2017.pdf"
+  }
+}

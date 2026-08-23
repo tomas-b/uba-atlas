@@ -1,0 +1,281 @@
+{
+  "address": "uba.fagr.agroalimentos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2018",
+    "resolucion": "Res CS 8555/2017",
+    "años": 5,
+    "materias": 27,
+    "creditos": "163.5 créditos = 2.616 horas",
+    "optativos": "10 créditos en espacios curriculares optativos",
+    "correlativas": true,
+    "compartida": "FVet · asignaturas marcadas (FVet) dependen de la Facultad de Ciencias Veterinarias"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    },
+    {
+      "address": "uba.fagr.agroalimentos",
+      "label": "Gestión de Agroalimentos"
+    }
+  ],
+  "eyebrow": "Licenciatura en Gestión de Agroalimentos · Plan 2018",
+  "title": "Del suelo y el corral a la góndola.",
+  "lede": "El plan real (2018, Res CS 8555/2017) de la Licenciatura en Gestión de Agroalimentos, dictada entre Agronomía y Veterinaria: cuatro años después del CBC que van de las biomoléculas y los sistemas productivos a la calidad, la industrialización y la gestión de cadenas agroalimentarias, y cierran con una práctica profesional. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2018",
+      "small": "Res CS 8555/2017"
+    },
+    {
+      "k": "Materias",
+      "v": "27",
+      "small": "propias · + 10 créditos optativos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 27"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por Agronomía (lga_2018.pdf, Dirección de Ingreso, Alumnos y Graduados, octubre 2023). Nivel L1: los nombres, años, cuatrimestres, créditos y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las asignaturas marcadas FVet dependen de la Facultad de Ciencias Veterinarias. Los espacios curriculares optativos (10 créditos, cursables en cualquier momento) no tienen nombre en el plan y no se dibujan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · primero después del CBC",
+      "title": "Bases: moléculas, números, economía y sistemas",
+      "note": "Todas las materias del primer cuatrimestre piden el CBC completo.",
+      "exits": [
+        {
+          "address": "uba.fagr.agroalimentos.biomoleculas",
+          "name": "Biomoléculas",
+          "role": "1º cuat. · 4 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "1º cuat. · 3 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.elementos-de-estadistica",
+          "name": "Elementos de Estadística",
+          "role": "1º cuat. · 2,5 créditos · FVet",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.economia-politica",
+          "name": "Economía Política",
+          "role": "1º cuat. · 4 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.microbiologia-general",
+          "name": "Microbiología General",
+          "role": "2º cuat. · 3 créditos · correlativa: Biomoléculas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.estadistica-analitica",
+          "name": "Estadística Analítica",
+          "role": "2º cuat. · 2,5 créditos · FVet · correlativa: Elementos de Estadística",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.nutricion",
+          "name": "Nutrición",
+          "role": "2º cuat. · 3 créditos · correlativa: Biomoléculas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.intro-sistemas-productivos",
+          "name": "Introducción a los Sistemas Productivos",
+          "role": "2º cuat. · 6 créditos",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "2º cuat. · 3 créditos · FVet",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "El alimento y cómo se produce",
+      "exits": [
+        {
+          "address": "uba.fagr.agroalimentos.quimica-de-agroalimentos",
+          "name": "Química de Agroalimentos",
+          "role": "1º cuat. · 5 créditos · FVet · correlativa: Elementos de Estadística",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.microbiologia-de-los-agroalimentos",
+          "name": "Microbiología de los Agroalimentos",
+          "role": "1º cuat. · 3 créditos · FVet · correlativas: Microbiología General, Biomoléculas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.sistemas-de-produccion-de-granos",
+          "name": "Sistemas de Producción de Granos",
+          "role": "1º cuat. · 5 créditos · correlativas: Intro. a los Sistemas Productivos, Física Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.produccion-y-postcosecha-frutos-hortalizas",
+          "name": "Sistemas de Producción y Postcosecha de Frutos y Hortalizas",
+          "role": "1º cuat. · 4 créditos · correlativas: Intro. a los Sistemas Productivos, Física Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.biotecnologia-de-los-agroalimentos",
+          "name": "Biotecnología de los Agroalimentos",
+          "role": "2º cuat. · 3 créditos · correlativas: Microbiología General, Biomoléculas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.teoria-de-las-organizaciones",
+          "name": "Teoría de las Organizaciones",
+          "role": "2º cuat. · 3 créditos · FVet · correlativas: Economía Política, Estadística Analítica",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.sistemas-de-produccion-animal",
+          "name": "Sistemas de Producción Animal",
+          "role": "2º cuat. · 7 créditos · FVet · correlativas: Nutrición, Física Aplicada, Intro. a los Sistemas Productivos",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.calidad-agroalimentaria",
+          "name": "Calidad Agroalimentaria",
+          "role": "2º cuat. · 7 créditos · FVet · correlativas: Química de Agroalimentos, Microbiología de los Agroalimentos, Microbiología General",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Industrializar, vender y gestionar",
+      "exits": [
+        {
+          "address": "uba.fagr.agroalimentos.industrializacion-alimentos-origen-animal",
+          "name": "Industrialización de los Alimentos de Origen Animal",
+          "role": "1º cuat. · 6 créditos · FVet · correlativas: Sist. de Producción Animal, Calidad Agroalimentaria, Química y Microbiología de los Agroalimentos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.etica-legislacion-seguridad-agroalimentaria",
+          "name": "Ética, Legislación y Seguridad Agroalimentaria",
+          "role": "1º cuat. · 3 créditos · FVet · correlativas: los tres Sistemas de Producción, Calidad Agroalimentaria, Nutrición, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.comercializacion-y-mercados",
+          "name": "Comercialización y Mercados de Agroalimentos",
+          "role": "1º cuat. · 4 créditos · correlativas: los tres Sistemas de Producción, Nutrición, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.sociologia-organizaciones-agroalimentarias",
+          "name": "Sociología de las Organizaciones Agroalimentarias",
+          "role": "1º cuat. · 3 créditos · correlativas: Teoría de las Organizaciones, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.industrializacion-alimentos-origen-vegetal",
+          "name": "Industrialización de los Alimentos de Origen Vegetal",
+          "role": "2º cuat. · 6 créditos · correlativas: Granos, Frutos y Hortalizas, Calidad Agroalimentaria, Química y Microbiología de los Agroalimentos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.formulacion-evaluacion-proyectos",
+          "name": "Formulación y Evaluación de Proyectos Agroalimentarios",
+          "role": "2º cuat. · 4 créditos · correlativas: Comercialización y Mercados, los tres Sistemas de Producción",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.gestion-planificacion-empresa-agroalimentaria",
+          "name": "Gestión y Planificación de la Empresa Agroalimentaria",
+          "role": "2º cuat. · 3 créditos · correlativas: Teoría de las Organizaciones, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.gestion-de-cadenas-agroalimentarias",
+          "name": "Gestión de Cadenas Agroalimentarias",
+          "role": "2º cuat. · 4 créditos · correlativas: Ética, Legislación y Seguridad Agroalimentaria, los tres Sistemas de Producción",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "La práctica profesional",
+      "note": "Ambos espacios se ofrecen en el primer y segundo cuatrimestre. Piden regularizadas las dos Industrializaciones y aprobadas Granos, Frutos y Hortalizas, Teoría de las Organizaciones, Producción Animal, Calidad Agroalimentaria y Ética, Legislación y Seguridad Agroalimentaria.",
+      "exits": [
+        {
+          "address": "uba.fagr.agroalimentos.taller-integracion-practica-profesional",
+          "name": "Taller de Integración de la Práctica Profesional",
+          "role": "1º cuat. · 1,5 créditos · FVet",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agroalimentos.practica-profesional",
+          "name": "Práctica Profesional",
+          "role": "2º cuat. · 19 créditos · FVet y Agronomía",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar/carreras/agroalimentos · Plan de estudios 2018 (lga_2018.pdf)",
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/lga_2018.pdf"
+  }
+}

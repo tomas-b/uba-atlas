@@ -1,0 +1,361 @@
+{
+  "address": "uba.med.fonoaudiologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente (fmed.uba.ar, sin número de resolución publicado)",
+    "años": 5,
+    "añosPropios": 4,
+    "materias": 39,
+    "correlativas": "publicadas en fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/regimen-de-correlatividades",
+    "sede": "Paraguay 2155, CABA · hospitales y centros especializados"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.fonoaudiologia",
+      "label": "Fonoaudiología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Fonoaudiología · Facultad de Medicina",
+  "title": "Cuatro años entre la voz, la audición y el lenguaje.",
+  "lede": "El plan real de la Licenciatura en Fonoaudiología de Medicina: tras el CBC, cuatro años que van de la anatomía y la acústica a la audiología, la patología del lenguaje y la terapéutica vocal, hasta la práctica asistencial hospitalaria. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "fmed.uba.ar"
+    },
+    {
+      "k": "Materias",
+      "v": "39",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 39"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad de Medicina (fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/plan-de-estudios). Nivel L1: los nombres, años, régimen (anual / cuatrimestral) y cuatrimestres son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). La materia optativa de idioma del quinto año no tiene nombre fijo y no se traza como nodo. El primer año es el CBC (Química, Sociedad y Estado, Pensamiento Científico, Matemática, Física e Introducción a la Biofísica, Biología e Introducción a la Biología Celular) y vive bajo uba.cbc.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "Cuerpo, sonido y lengua",
+      "exits": [
+        {
+          "address": "uba.med.fonoaudiologia.psicologia-1",
+          "name": "Psicología I",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.fisica-acustica",
+          "name": "Física Acústica",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.anatomia",
+          "name": "Anatomía",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.biologia-celular",
+          "name": "Biología Celular, Histología, Embriología y Genética",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.linguistica-1",
+          "name": "Lingüística I",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.intro-fonoaudiologia",
+          "name": "Introducción a la Fonoaudiología",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.psicologia-2",
+          "name": "Psicología II",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.fisiologia",
+          "name": "Fisiología",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.neurologia-neurofisiologia",
+          "name": "Neurología y Neurofisiología",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.linguistica-2",
+          "name": "Lingüística II",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.fisiopatologia-audicion",
+          "name": "Fisiopatología y Clínica de la Audición",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.fisiopatologia-voz",
+          "name": "Fisiopatología y Clínica de la Voz",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Desarrollo, audición y método",
+      "exits": [
+        {
+          "address": "uba.med.fonoaudiologia.adquisicion-lengua-materna",
+          "name": "Adquisición de la Lengua Materna y Lenguaje",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.audiologia-funcional",
+          "name": "Audiología Funcional",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.neurodesarrollo",
+          "name": "Neurodesarrollo",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.psicologia-3",
+          "name": "Psicología III",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.metodologia-estadistica-1",
+          "name": "Metodología de la Investigación y Estadística I",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.psicomotricidad",
+          "name": "Psicomotricidad y Fonoaudiología",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.educacion-vocal",
+          "name": "Educación Vocal",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.epistemologia-genetica",
+          "name": "Epistemología Genética",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.seminario-3",
+          "name": "Seminario (3º año)",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Patología y terapéutica",
+      "exits": [
+        {
+          "address": "uba.med.fonoaudiologia.terapeutica-vocal",
+          "name": "Terapéutica Vocal",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.patologia-lenguaje-1",
+          "name": "Patología del Lenguaje I",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.audiologia-equilibrio",
+          "name": "Audiología y Equilibrio",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.audiologia-infantil",
+          "name": "Audiología Infantil",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.atencion-primaria-salud",
+          "name": "Atención Primaria de la Salud",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.terapeutica-lenguaje-1",
+          "name": "Terapéutica del Lenguaje I",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.terapeutica-audiologica-1",
+          "name": "Terapéutica Audiológica I",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.metodologia-estadistica-2",
+          "name": "Metodología de la Investigación y Estadística II",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.seminario-4",
+          "name": "Seminario (4º año)",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Ejercicio profesional y hospital",
+      "exits": [
+        {
+          "address": "uba.med.fonoaudiologia.patologia-lenguaje-2",
+          "name": "Patología del Lenguaje II",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.odontoestomatologia",
+          "name": "Odontoestomatología y Fonoaudiología",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.sanitarismo",
+          "name": "Sanitarismo",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.deontologia",
+          "name": "Deontología y Ejercicio Profesional",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.bioinformatica",
+          "name": "Bioinformática y Computación Rehabilitadora",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.seminario-5",
+          "name": "Seminario (5º año)",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.terapeutica-lenguaje-2",
+          "name": "Terapéutica del Lenguaje II",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.fonoaudiologia-preventiva",
+          "name": "Fonoaudiología Preventiva",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.fonoaudiologia.capacitacion-practica-hospitalaria",
+          "name": "Capacitación Práctica Asistencial Hospitalaria",
+          "role": "2º cuat. · Audición, Voz y Lenguaje: promoción",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Licenciatura en Fonoaudiología · Plan de Estudios",
+    "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/plan-de-estudios"
+  }
+}

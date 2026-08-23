@@ -1,0 +1,634 @@
+{
+  "address": "uba.fagr.agronomia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2017",
+    "resolucion": "Res CS 6180/2016, mod CS 430/21 y CS 1096/2023",
+    "titulo": "Ingeniero/a Agrónomo/a",
+    "tituloIntermedio": "Bachiller Universitario/a en Agronomía (117 créditos · 1872 hs, al completar tercer año)",
+    "años": "5½ (CBC + 4½)",
+    "creditos": 234.5,
+    "horas": 3752,
+    "creditoHoras": 16,
+    "materias": {
+      "obligatorias": 48,
+      "electivasNombradas": 23,
+      "total": 71
+    },
+    "electivas": {
+      "creditos": 13.5,
+      "produccionAnimal": 6,
+      "produccionVegetal": 3.5,
+      "libreEleccion": 4
+    },
+    "optativas": {
+      "creditos": 2,
+      "desde": "tercer año"
+    },
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fagr",
+      "label": "Agronomía"
+    },
+    {
+      "address": "uba.fagr.agronomia",
+      "label": "Agronomía (Ing. Agrónomo/a)"
+    }
+  ],
+  "eyebrow": "Ingeniero/a Agrónomo/a · Plan 2017 (Res CS 6180/2016, mod. 430/21 y 1096/23)",
+  "title": "Cuatro años y medio, del suelo al sistema de producción.",
+  "lede": "El plan real de la carrera central de Agronomía: después del CBC, cuatro años y medio que van de la química, la botánica y el suelo a producir granos, leche, carne, huerta y bosque, y cierran con la administración de la empresa y un Trabajo Final. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2017",
+      "small": "Res CS 6180/16 · mod. 1096/23"
+    },
+    {
+      "k": "Materias",
+      "v": "71",
+      "small": "48 obligatorias + 23 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 71"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad (PDF agro-plan-2017-con-res-cs-1096-23, Dirección de Ingreso, Alumnos y Graduados, nov/25). El plan cuenta el CBC como primer año; acá los años van del 2º al 6º como los numera el plan. 234,5 créditos = 3.752 horas (1 crédito = 16 hs presenciales). Los tres Talleres de Práctica se acreditan con electivas u optativas que cumplan sus contenidos mínimos. Las electivas nombradas figuran por área (13,5 créditos en total); los 2 créditos de optativas no tienen materias nombradas en el plan y no se listan. Nivel L1: nombres, años, cuatrimestres y créditos son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 1º del plan propio",
+      "title": "Las bases: química, física, estadística y botánica",
+      "note": "Correlativa común: CBC completo.",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.quimica-aplicada",
+          "name": "Química Aplicada",
+          "role": "1º cuat. · 5 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.biomoleculas",
+          "name": "Biomoléculas",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.estadistica-general",
+          "name": "Estadística General",
+          "role": "1º cuat. · 5 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.botanica-morfologica",
+          "name": "Botánica Morfológica",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.bioquimica-aplicada",
+          "name": "Bioquímica Aplicada",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.edafologia",
+          "name": "Edafología",
+          "role": "2º cuat. · 5 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.climatologia-agrometeorologia",
+          "name": "Climatología y Agrometeorología",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.botanica-sistematica",
+          "name": "Botánica Sistemática",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.ingles",
+          "name": "Inglés",
+          "role": "2º cuat. · 2 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.informatica",
+          "name": "Informática",
+          "role": "2º cuat. · 2 cr.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Genética, fisiología, suelo vivo y economía",
+      "note": "Al completar tercer año se puede tramitar el diploma de Bachiller Universitario en Agronomía (117 créditos).",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.genetica",
+          "name": "Genética",
+          "role": "1º cuat. · 5 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.fisiologia-plantas-superiores",
+          "name": "Fisiología de las Plantas Superiores",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.microbiologia-agricola-ambiental",
+          "name": "Microbiología Agrícola y Ambiental",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.bases-biologicas-produccion-animal",
+          "name": "Bases Biológicas de la Producción Animal",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.topografia-agricola",
+          "name": "Topografía Agrícola",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-vegetal",
+          "name": "Producción Vegetal",
+          "role": "2º cuat. · 3 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.ecologia",
+          "name": "Ecología",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.nutricion-alimentacion-animal",
+          "name": "Nutrición y Alimentación Animal",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.economia-politica",
+          "name": "Economía Política",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.modelos-estadisticos",
+          "name": "Modelos Estadísticos",
+          "role": "2º cuat. · 3 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.taller-practica-1",
+          "name": "Taller de Práctica I: Introducción a los Estudios Universitarios y Agronómicos",
+          "role": "taller · 2 cr.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Forrajes, mejoramiento, sanidad y máquinas",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.produccion-utilizacion-forrajes",
+          "name": "Producción y Utilización de Forrajes",
+          "role": "1º cuat. · 5 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.mejoramiento-genetico",
+          "name": "Mejoramiento Genético",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.economia-agricola",
+          "name": "Economía Agrícola",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.malezas",
+          "name": "Malezas",
+          "role": "1º cuat. · 2,5 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.teledeteccion-sig",
+          "name": "Teledetección y Sistemas de Información Geográfica",
+          "role": "1º cuat. · 2 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.fitopatologia",
+          "name": "Fitopatología",
+          "role": "2º cuat. · 3 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.zoologia-agricola",
+          "name": "Zoología Agrícola",
+          "role": "2º cuat. · 3 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.fertilidad-suelos-fertilizacion",
+          "name": "Fertilidad de Suelos y Fertilización",
+          "role": "2º cuat. · 5 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.maquinas-agricolas",
+          "name": "Máquinas Agrícolas",
+          "role": "2º cuat. · 5 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.taller-trabajo-final",
+          "name": "Taller de Trabajo Final",
+          "role": "2º cuat. · 1 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.taller-practica-2",
+          "name": "Taller de Práctica II: Interacción con la realidad Agraria mediante la articulación con las bases Agronómicas",
+          "role": "taller · 2 cr.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Producir: granos, leche, carne, huerta y riego",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.sociologia-extension-agrarias",
+          "name": "Sociología y Extensión Agrarias",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-lechera",
+          "name": "Producción Lechera",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-carne-bovina",
+          "name": "Producción de Carne Bovina",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.proteccion-vegetal",
+          "name": "Protección Vegetal",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-granos",
+          "name": "Producción de Granos",
+          "role": "2º cuat. · 6 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.conservacion-planificacion-uso-tierra",
+          "name": "Conservación y Planificación del Uso de la Tierra",
+          "role": "2º cuat. · 5 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.horticultura",
+          "name": "Horticultura",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.sistemas-riego-drenaje",
+          "name": "Sistemas de Riego y Drenaje",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.derechos-humanos",
+          "name": "Derechos Humanos",
+          "role": "1 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.taller-practica-3",
+          "name": "Taller de Práctica III: Intervención crítica sobre la realidad agropecuaria mediante la articulación con las aplicadas Agronómicas",
+          "role": "taller · 2 cr.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 6 · medio año",
+      "title": "Administrar, vender y cerrar con el Trabajo Final",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.administracion-rural",
+          "name": "Administración Rural",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-forestal",
+          "name": "Producción Forestal",
+          "role": "1º cuat. · 4 cr.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.mercados-agropecuarios",
+          "name": "Mercados Agropecuarios",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.fruticultura",
+          "name": "Fruticultura",
+          "role": "1º cuat. · 3,5 cr.",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.trabajo-final",
+          "name": "Trabajo Final",
+          "role": "14 cr. · requiere 220,5 créditos aprobados",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · Área Producción Animal",
+      "title": "6 créditos a elegir",
+      "note": "Desde cuarto año. Correlativas para todas: Nutrición y Alimentación Animal y Mejoramiento Genético.",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.acuicultura",
+          "name": "Acuicultura",
+          "role": "1º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.apicultura",
+          "name": "Apicultura",
+          "role": "3º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.calidad-productos-pecuarios",
+          "name": "Calidad de Productos Pecuarios y Percepción del Consumidor",
+          "role": "4º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.mejoramiento-genetico-animal",
+          "name": "Mejoramiento Genético Animal",
+          "role": "bimestral · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-aviar",
+          "name": "Producción Aviar",
+          "role": "2º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-equina",
+          "name": "Producción Equina",
+          "role": "3º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-pequenos-rumiantes",
+          "name": "Producción de Pequeños Rumiantes",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.produccion-porcina",
+          "name": "Producción Porcina",
+          "role": "1º cuat. · 3 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.producciones-animales-alternativas",
+          "name": "Producciones Animales Alternativas",
+          "role": "2º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · Área Producción Vegetal",
+      "title": "3,5 créditos a elegir",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.biotecnologia-agricola-experimental",
+          "name": "Biotecnología Agrícola Experimental",
+          "role": "3º bimestre · 3,5 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.cultivos-industriales",
+          "name": "Cultivos Industriales",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.floricultura",
+          "name": "Floricultura",
+          "role": "3º bimestre · 3,5 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.mejoramiento-genetico-vegetal",
+          "name": "Mejoramiento Genético Vegetal",
+          "role": "cuatrimestral · 3,5 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · Área de Libre Elección",
+      "title": "4 créditos a elegir",
+      "exits": [
+        {
+          "address": "uba.fagr.agronomia.agroecologia",
+          "name": "Agroecología",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.agroecosistemas-campesinos",
+          "name": "Agroecosistemas Campesinos",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.gestion-cadenas-agroalimentarias",
+          "name": "Gestión Competitiva de Cadenas Agroalimentarias",
+          "role": "2º cuat. · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.gestion-proyectos",
+          "name": "Gestión de Proyectos",
+          "role": "2º cuat. · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.impacto-ambiental-agroecosistemas",
+          "name": "Impacto Ambiental en Agroecosistemas",
+          "role": "4º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.investigacion-extension-agroecologia",
+          "name": "Investigación y Extensión Rural en Agroecología",
+          "role": "4º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.planeamiento-estrategico-empresa",
+          "name": "Planeamiento Estratégico de la Empresa Agropecuaria",
+          "role": "4º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.planificacion-espacios-verdes",
+          "name": "Planificación y Diseño de Espacios Verdes",
+          "role": "2º cuat. · 4 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.politica-ambiental-agropecuaria",
+          "name": "Política Ambiental en el Sector Agropecuario",
+          "role": "bimestral · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fagr.agronomia.turismo-rural",
+          "name": "Turismo Rural",
+          "role": "4º bimestre · 2 cr.",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "agro.uba.ar · Plan de Estudios de la Carrera de Agronomía (PDF, Res CS 6180/2016 mod. 430/21 y 1096/23)",
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/agro-plan-2017-con-res-cs-1096-23.pdf"
+  }
+}

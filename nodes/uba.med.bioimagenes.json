@@ -1,0 +1,306 @@
+{
+  "address": "uba.med.bioimagenes",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente (fmed.uba.ar); resolución no publicada en la fuente",
+    "años": 5,
+    "materias": 29,
+    "correlativas": true,
+    "tituloIntermedio": "Técnico Radiólogo Universitario (3 años)",
+    "ciclos": [
+      "Técnico Radiólogo Universitario · 6 cuatrimestres · 15 materias",
+      "Licenciatura en Producción de Bioimágenes · 4 cuatrimestres · 14 materias"
+    ]
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.bioimagenes",
+      "label": "Producción de Bioimágenes"
+    }
+  ],
+  "eyebrow": "Licenciatura en Producción de Bioimágenes · Plan vigente",
+  "title": "Cinco años en dos ciclos: primero el técnico, después la imagen.",
+  "lede": "El plan real de la Facultad de Medicina: tres años de Técnico Radiólogo Universitario — anatomía, física aplicada, técnicas radiológicas — y dos años más de licenciatura que abren a la ecografía, la tomografía, la medicina nuclear y el procesamiento digital. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "fmed.uba.ar"
+    },
+    {
+      "k": "Materias",
+      "v": "29",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 29"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad de Medicina (fmed.uba.ar → Tec. Radiólogo Universitario / Lic. en Producción de Bioimágenes → Plan de Estudios), que lo presenta en dos ciclos sucesivos con correlatividades: Técnico Radiólogo Universitario (6 cuatrimestres, título intermedio) y Licenciatura (4 cuatrimestres). La fuente no publica número de resolución. Nivel L1: nombres, cuatrimestres y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 1 · Técnico Radiólogo Universitario",
+      "title": "Anatomía y física de base",
+      "note": "1º y 2º cuatrimestre. Se cursan tras el CBC.",
+      "exits": [
+        {
+          "address": "uba.med.bioimagenes.intro-fisico-quimica",
+          "name": "Introducción a la Físico Química",
+          "role": "1º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.anatomia-1",
+          "name": "Anatomía I",
+          "role": "1º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.intro-biologia-fisiologia-humana",
+          "name": "Introducción a la Biología y Fisiología Humana",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.anatomia-2",
+          "name": "Anatomía II",
+          "role": "2º cuat. · correlativa: Anatomía I",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "2º cuat. · correlativa: Introducción a la Físico Química",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Técnico Radiólogo Universitario",
+      "title": "Entrar a la producción de bioimágenes",
+      "note": "3º y 4º cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.med.bioimagenes.anatomia-3",
+          "name": "Anatomía III",
+          "role": "3º cuat. · correlativa: Anatomía I",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.clinica-bioimagenes",
+          "name": "Clínica en Bioimágenes",
+          "role": "3º cuat. · correlativa: Introducción a la Biología y Fisiología Humana",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.intro-produccion-bioimagenes",
+          "name": "Introducción a la Producción de Bioimágenes",
+          "role": "3º cuat. · correlativas: Anatomía I, Física Aplicada",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.bioestadistica-1",
+          "name": "Bioestadística I",
+          "role": "4º cuat. · correlativa: Introducción a la Producción de Bioimágenes",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.intro-radioterapia",
+          "name": "Introducción a la Radioterapia",
+          "role": "4º cuat. · correlativa: Física Aplicada",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · Técnico Radiólogo Universitario",
+      "title": "Técnicas radiológicas y título intermedio",
+      "note": "5º y 6º cuatrimestre. Cierra el ciclo de Técnico Radiólogo Universitario.",
+      "exits": [
+        {
+          "address": "uba.med.bioimagenes.tecnicas-radiologicas-1",
+          "name": "Técnicas Radiológicas I",
+          "role": "5º cuat. · correlativas: Anatomía I, Física Aplicada, Introducción a la Producción de Bioimágenes",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.radiobiologia-radioproteccion",
+          "name": "Nociones de Radiobiología y Radioprotección",
+          "role": "5º cuat. · correlativas: Introducción a la Biología y Fisiología Humana, Anatomía I, Física Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.tecnicas-radiologicas-2",
+          "name": "Técnicas Radiológicas II",
+          "role": "6º cuat. · correlativas: Técnicas Radiológicas I, Anatomía III",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.tecnicas-radiologicas-pediatricas",
+          "name": "Técnicas Radiológicas Pediátricas",
+          "role": "6º cuat. · correlativa: Introducción a la Producción de Bioimágenes",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.psicologia-etica-profesional",
+          "name": "Psicología y Ética del Ejercicio Profesional",
+          "role": "6º cuat. · correlativa: Técnicas Radiológicas I",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · Licenciatura",
+      "title": "Salud pública, fisiología y física biomédica",
+      "note": "1º y 2º cuatrimestre del ciclo de licenciatura.",
+      "exits": [
+        {
+          "address": "uba.med.bioimagenes.salud-publica-1",
+          "name": "Salud Pública I",
+          "role": "1º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.fisiologia",
+          "name": "Fisiología",
+          "role": "1º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.didactica-produccion-bioimagenes",
+          "name": "Didáctica en Producción de Bioimágenes",
+          "role": "1º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.bioinformatica",
+          "name": "Bioinformática",
+          "role": "2º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.fisica-biomedica",
+          "name": "Física Biomédica",
+          "role": "2º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.salud-publica-2",
+          "name": "Salud Pública II",
+          "role": "2º cuat. · licenciatura",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · Licenciatura",
+      "title": "Imagen computarizada, digital y radioisotópica",
+      "note": "3º y 4º cuatrimestre del ciclo de licenciatura.",
+      "exits": [
+        {
+          "address": "uba.med.bioimagenes.imagenes-computarizadas-ecograficas",
+          "name": "Técnicas en Imágenes Computarizadas y Ecográficas",
+          "role": "3º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.radioterapia",
+          "name": "Radioterapia",
+          "role": "3º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.administracion-servicios-salud",
+          "name": "Administración en Servicios de la Salud",
+          "role": "3º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.farmacologia",
+          "name": "Farmacología",
+          "role": "3º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.metodos-digitales-procesamiento-imagenes",
+          "name": "Métodos Digitales y Procesamiento de Imágenes",
+          "role": "4º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.radiofisica-sanitaria-control-calidad",
+          "name": "Radiofísica Sanitaria y Control de Calidad",
+          "role": "4º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.metodologia-investigacion-bioestadistica-2",
+          "name": "Metodología de la Investigación y Bioestadística II",
+          "role": "4º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.bioimagenes.imagenes-radioisotopicas",
+          "name": "Técnicas en Imágenes Radioisotópicas",
+          "role": "4º cuat. · licenciatura",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Tec. Radiólogo Universitario / Lic. en Producción de Bioimágenes · Plan de Estudios",
+    "url": "https://www.fmed.uba.ar/carreras/curso-de-tec-radiologo-universitario-lic-en-produccion-de-bioimagenes/plan-de-estudios"
+  }
+}

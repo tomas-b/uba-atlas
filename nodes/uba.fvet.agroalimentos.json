@@ -1,0 +1,282 @@
+{
+  "address": "uba.fvet.agroalimentos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2018,
+    "resolucion": "Res. (CS) N° 8555/17",
+    "años": 5,
+    "materias": 27,
+    "cargaHorariaTotal": 2616,
+    "creditosTotal": 163.5,
+    "optativas": "10 créditos (160 h) en espacios optativos, en cualquier momento de la carrera",
+    "correlativas": true,
+    "compartidaCon": "uba.fagro"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fvet",
+      "label": "Ciencias Veterinarias"
+    },
+    {
+      "address": "uba.fvet.agroalimentos",
+      "label": "Gestión de Agroalimentos"
+    }
+  ],
+  "eyebrow": "Licenciatura en Gestión de Agroalimentos · Plan 2018",
+  "title": "Del campo al alimento, cadena entera.",
+  "lede": "El plan real (2018, Res. CS 8555/17) de la licenciatura que Veterinaria comparte con Agronomía: cuatro años en facultad después del CBC, de las biomoléculas y la estadística a los sistemas de producción, la industrialización y la gestión de las cadenas agroalimentarias, cerrados por una práctica profesional. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2018",
+      "small": "Res. CS 8555/17"
+    },
+    {
+      "k": "Materias",
+      "v": "27",
+      "small": "propias · 2.616 h"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 27"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la FVet (fvet.uba.ar/?q=plan-agro, Plan 2018, Res. CS 8555/17) y de la grilla por año y cuatrimestre del mismo plan. Nivel L1: los nombres, años, cuatrimestres y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Los espacios optativos (10 créditos) no tienen nombre fijo en el plan y no se dibujan. El primer año es el CBC y vive en uba.cbc.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "Base científica y económica",
+      "note": "Todas requieren el CBC aprobado. Microbiología General, Estadística Analítica y Nutrición piden regular la correlativa del primer cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.fvet.agroalimentos.biomoleculas",
+          "name": "Biomoléculas",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.elementos-estadistica",
+          "name": "Elementos de Estadística",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.economia-politica",
+          "name": "Economía Política",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.microbiologia-general",
+          "name": "Microbiología General",
+          "role": "2º cuat. · correlativa: Biomoléculas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.estadistica-analitica",
+          "name": "Estadística Analítica",
+          "role": "2º cuat. · correlativa: Elementos de Estadística",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.nutricion",
+          "name": "Nutrición",
+          "role": "2º cuat. · correlativa: Biomoléculas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.intro-sistemas-productivos",
+          "name": "Introducción a los Sistemas Productivos",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "El alimento y sus sistemas de producción",
+      "exits": [
+        {
+          "address": "uba.fvet.agroalimentos.quimica-agroalimentos",
+          "name": "Química de Agroalimentos",
+          "role": "1º cuat. · correlativas: Biomoléculas, Elementos de Estadística",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.microbiologia-agroalimentos",
+          "name": "Microbiología de los Agroalimentos",
+          "role": "1º cuat. · correlativas: Microbiología General, Biomoléculas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.produccion-granos",
+          "name": "Sistemas de Producción de Granos",
+          "role": "1º cuat. · correlativas: Intro. a los Sistemas Productivos, Física Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.produccion-frutos-hortalizas",
+          "name": "Sistemas de Producción y Postcosecha de Frutos y Hortalizas",
+          "role": "1º cuat. · correlativas: Intro. a los Sistemas Productivos, Física Aplicada",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.biotecnologia-agroalimentos",
+          "name": "Biotecnología de Agroalimentos",
+          "role": "2º cuat. · correlativas: Microbiología General, Biomoléculas",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.teoria-organizaciones",
+          "name": "Teoría de las Organizaciones",
+          "role": "2º cuat. · correlativas: Economía Política, Estadística Analítica",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.produccion-animal",
+          "name": "Sistemas de Producción Animal",
+          "role": "2º cuat. · correlativas: Nutrición, Física Aplicada, Intro. a los Sistemas Productivos",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.calidad-agroalimentaria",
+          "name": "Calidad Agroalimentaria",
+          "role": "2º cuat. · correlativas: Química de Agroalimentos, Microbiología de los Agroalimentos, Microbiología General",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Industrializar, vender, gestionar",
+      "exits": [
+        {
+          "address": "uba.fvet.agroalimentos.industrializacion-animal",
+          "name": "Industrialización de los Alimentos de Origen Animal",
+          "role": "1º cuat. · correlativas: Sist. de Producción Animal, Calidad Agroalimentaria, Química y Microbiología de Agroalimentos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.etica-legislacion-seguridad",
+          "name": "Ética, Legislación y Seguridad Agroalimentaria",
+          "role": "1º cuat. · correlativas: los tres Sistemas de Producción, Calidad Agroalimentaria, Nutrición, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.comercializacion-mercados",
+          "name": "Comercialización y Mercado de Agroalimentos",
+          "role": "1º cuat. · correlativas: los tres Sistemas de Producción, Nutrición, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.sociologia-organizaciones",
+          "name": "Sociología de las Organizaciones Agroalimentarias",
+          "role": "1º cuat. · correlativas: Teoría de las Organizaciones, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.industrializacion-vegetal",
+          "name": "Industrialización de los Alimentos de Origen Vegetal",
+          "role": "2º cuat. · correlativas: Sist. de Producción de Granos y de Frutos y Hortalizas, Calidad Agroalimentaria, Química y Microbiología de Agroalimentos",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.formulacion-proyectos",
+          "name": "Formulación y Evaluación de los Proyectos Agroalimentarios",
+          "role": "2º cuat. · correlativas: Comercialización y Mercado, los tres Sistemas de Producción",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.gestion-empresa-agroalimentaria",
+          "name": "Gestión y Planificación de la Empresa Agroalimentaria",
+          "role": "2º cuat. · correlativas: Teoría de las Organizaciones, Economía Política",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.gestion-cadenas",
+          "name": "Gestión de Cadenas Agroalimentarias",
+          "role": "2º cuat. · correlativas: Ética, Legislación y Seguridad, los tres Sistemas de Producción",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Integrar y practicar",
+      "note": "Ambos espacios se ofrecen en primer y segundo cuatrimestre. Se suman 10 créditos (160 h) en optativas aprobadas por los Consejos Directivos, cursables en cualquier momento de la carrera.",
+      "exits": [
+        {
+          "address": "uba.fvet.agroalimentos.taller-integracion",
+          "name": "Taller de Integración de la Práctica Profesional",
+          "role": "1º cuat. · correlativas: ambas Industrializaciones, los tres Sistemas de Producción, Teoría de las Organizaciones, Calidad, Ética y Legislación",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.agroalimentos.practica-profesional",
+          "name": "Práctica Profesional",
+          "role": "2º cuat. · FVet y Agronomía · mismas correlativas que el Taller",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fvet.uba.ar/plan-agro · Plan 2018, Res. (CS) 8555/17 · grilla por año: agro.uba.ar lga_2018.pdf",
+    "url": "https://www.fvet.uba.ar/?q=plan-agro"
+  }
+}

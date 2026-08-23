@@ -1,0 +1,456 @@
+{
+  "address": "uba.med.enfermeria",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente · escaneo publicado en fmed.uba.ar (Expte. Nº 507.023/85)",
+    "titulos": [
+      "Enfermero/a Universitario/a (Primer Ciclo, 2½ años)",
+      "Licenciado/a en Enfermería (Segundo Ciclo, 1½ años · o Ciclo de Complementación Curricular, 2 años)"
+    ],
+    "años": 4,
+    "materias": 32,
+    "materiasCCL": 16,
+    "horasPrimerCiclo": 2136,
+    "horasSegundoCiclo": 1000,
+    "correlativas": "publicadas como imágenes (Correlatividades 1–6) en la misma página; no transcriptas en este nivel"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.enfermeria",
+      "label": "Enfermería"
+    }
+  ],
+  "eyebrow": "Licenciatura en Enfermería · Escuela de Enfermería · Facultad de Medicina",
+  "title": "Dos ciclos: primero el oficio, después la licencia.",
+  "lede": "El plan real de la Escuela de Enfermería: un Primer Ciclo de dos años y medio que forma Enfermeros/as Universitarios/as — del cuerpo (anatomofisiología, química, física) a la sala (médica, quirúrgica, materno-infantil, salud mental, pediátrica) — y un Segundo Ciclo de un año y medio que agrega investigación, didáctica y administración para la Licenciatura. Quien ya es enfermero/a titulado/a entra por el Ciclo de Complementación Curricular. Cada materia es una puerta; el CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "Expte. 507.023/85"
+    },
+    {
+      "k": "Materias",
+      "v": "32",
+      "small": "+ 16 del CCL"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 48"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad de Medicina (fmed.uba.ar/carreras/licenciatura-en-enfermeria/plan-de-estudios), donde el plan aparece como escaneo del expediente Nº 507.023/85 y el Ciclo de Complementación Curricular como tabla de asignaturas obligatorias. Nivel L1: los nombres, años, semestres y cargas horarias son reales; las correlatividades están publicadas en imágenes aparte y los temas y bibliografía de cada materia son la próxima resolución (L2). Primer Ciclo: 2.136 horas; Segundo Ciclo: 1.000 horas; todas las asignaturas son con examen final.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Primer Ciclo · Año 1",
+      "title": "El cuerpo y la primera sala",
+      "note": "654 h teóricas · 190 h prácticas · 844 h totales (más el CBC).",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.anatomofisiologia",
+          "name": "Anatomofisiología",
+          "role": "150 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "40 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.fisica-biologica",
+          "name": "Física Biológica",
+          "role": "40 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.intro-enfermeria-salud-publica",
+          "name": "Introducción a la Enfermería en Salud Pública",
+          "role": "34 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.intro-ciencias-psicosociales",
+          "name": "Introducción a las Ciencias Psicosociales",
+          "role": "54 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-medica-1",
+          "name": "Enfermería Médica I",
+          "role": "100 h teóricas · 150 h prácticas",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.deontologia-1",
+          "name": "Deontología I",
+          "role": "20 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.microbiologia-parasitologia",
+          "name": "Microbiología y Parasitología",
+          "role": "24 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.nutricion",
+          "name": "Nutrición",
+          "role": "24 h",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-salud-publica-1",
+          "name": "Enfermería en Salud Pública I",
+          "role": "24 h teóricas · 40 h prácticas",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Primer Ciclo · Año 2",
+      "title": "Las salas: médica, quirúrgica, materno-infantil, mental",
+      "note": "375 h teóricas · 465 h prácticas · 840 h totales.",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.enfermeria-salud-materno-infantil",
+          "name": "Enfermería en Salud Materno Infantil",
+          "role": "60 h teóricas · 100 h prácticas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.psicologia-evolutiva",
+          "name": "Psicología Evolutiva",
+          "role": "30 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-salud-mental",
+          "name": "Enfermería en Salud Mental",
+          "role": "30 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-salud-publica-2",
+          "name": "Enfermería en Salud Pública II",
+          "role": "30 h teóricas · 40 h prácticas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-medica-2",
+          "name": "Enfermería Médica II",
+          "role": "125 h teóricas · 175 h prácticas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-quirurgica",
+          "name": "Enfermería Quirúrgica",
+          "role": "80 h teóricas · 150 h prácticas",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.dietoterapia",
+          "name": "Dietoterapia",
+          "role": "20 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Primer Ciclo · Año 3 · 1er semestre",
+      "title": "Psiquiatría, obstetricia, pediatría — y el título de Enfermero/a",
+      "note": "162 h teóricas · 290 h prácticas · 452 h totales. Cierra el Primer Ciclo (2.136 h): Enfermero/a Universitario/a.",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.enfermeria-psiquiatrica",
+          "name": "Enfermería Psiquiátrica",
+          "role": "48 h teóricas · 100 h prácticas",
+          "tag": "año 3 · 1er sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.deontologia-2",
+          "name": "Deontología II",
+          "role": "20 h",
+          "tag": "año 3 · 1er sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-obstetrica",
+          "name": "Enfermería Obstétrica",
+          "role": "24 h teóricas · 60 h prácticas",
+          "tag": "año 3 · 1er sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-pediatrica",
+          "name": "Enfermería Pediátrica",
+          "role": "40 h teóricas · 100 h prácticas",
+          "tag": "año 3 · 1er sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.intro-administracion-enfermeria",
+          "name": "Introducción a la Administración en Enfermería",
+          "role": "30 h teóricas · 30 h prácticas",
+          "tag": "año 3 · 1er sem.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo Ciclo · Año 3 · 2do semestre",
+      "title": "Enseñar, medir, investigar",
+      "note": "180 h teóricas · 60 h prácticas · 240 h totales. Requiere el título de Enfermero/a y cuatro materias electivas del CBC.",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.didactica-enfermeria",
+          "name": "Didáctica en Enfermería",
+          "role": "60 h teóricas · 60 h prácticas",
+          "tag": "año 3 · 2do sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.bioestadistica",
+          "name": "Bioestadística",
+          "role": "60 h",
+          "tag": "año 3 · 2do sem.",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.investigacion-1",
+          "name": "Investigación I",
+          "role": "60 h",
+          "tag": "año 3 · 2do sem.",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo Ciclo · Año 4",
+      "title": "Enfermería avanzada, gestión y trabajo científico",
+      "note": "400 h teóricas · 360 h prácticas · 760 h totales. Cierra el Segundo Ciclo (1.000 h): Licenciado/a en Enfermería.",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.dinamica-de-grupos",
+          "name": "Dinámica de Grupos",
+          "role": "30 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-avanzada",
+          "name": "Enfermería Avanzada",
+          "role": "100 h teóricas · 160 h prácticas",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.seminario",
+          "name": "Seminario",
+          "role": "30 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.administracion-enfermeria",
+          "name": "Administración en Enfermería",
+          "role": "100 h teóricas · 100 h prácticas",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.enfermeria-salud-publica-3",
+          "name": "Enfermería en Salud Pública III",
+          "role": "100 h teóricas · 100 h prácticas",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.investigacion-2",
+          "name": "Investigación II",
+          "role": "40 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.trabajo-cientifico",
+          "name": "Trabajo Científico",
+          "role": "trabajo final",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Complementación Curricular · Año 1",
+      "title": "Para enfermeros/as ya titulados/as: ciencias sociales y cuidado crítico",
+      "note": "Segunda modalidad del Segundo Ciclo (2 años): ingresa quien ya tiene título de Enfermero/a. Asignaturas obligatorias por año, según la tabla oficial.",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.ccl-sociologia",
+          "name": "Sociología",
+          "role": "1º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-antropologia",
+          "name": "Antropología",
+          "role": "1º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-psicologia",
+          "name": "Psicología",
+          "role": "1º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-filosofia",
+          "name": "Filosofía",
+          "role": "1º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-investigacion-enfermeria",
+          "name": "Investigación en Enfermería",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-cuidados-criticos",
+          "name": "Enfermería en Cuidados Críticos",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-liderazgo-dinamica-grupos",
+          "name": "Liderazgo y Dinámica de Grupos en Enfermería",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-metodologia-ensenanza",
+          "name": "Metodología de la Enseñanza en Enfermería",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-bioestadistica",
+          "name": "Bioestadística",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-etica-socializacion-profesional",
+          "name": "Ética y Socialización Profesional",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-practica-integrada",
+          "name": "Práctica Integrada",
+          "role": "2º cuat.",
+          "tag": "CCL · año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Complementación Curricular · Año 2",
+      "title": "Gestión, salud pública y herramientas",
+      "exits": [
+        {
+          "address": "uba.med.enfermeria.ccl-gestion-enfermeria",
+          "name": "Gestión en Enfermería",
+          "role": "obligatoria",
+          "tag": "CCL · año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-seminario-salud-publica",
+          "name": "Seminario en Salud Pública",
+          "role": "obligatoria",
+          "tag": "CCL · año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "obligatoria",
+          "tag": "CCL · año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-informatica",
+          "name": "Informática",
+          "role": "obligatoria",
+          "tag": "CCL · año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.enfermeria.ccl-taller-investigacion",
+          "name": "Taller de Investigación",
+          "role": "obligatoria",
+          "tag": "CCL · año 2",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar/carreras/licenciatura-en-enfermeria/plan-de-estudios (escaneo del plan, Expte. Nº 507.023/85, + tabla CCL)",
+    "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-enfermeria/plan-de-estudios"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "address": "uba.ffyb.alimentos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2018",
+    "resolucion": "Resolución (CS) Nº 919/18 · EXP-UBA 87.537/2017 · 15 de agosto de 2018",
+    "interfacultad": true,
+    "facultades": ["FFyB", "FCEN"],
+    "sedeAdministrativa": "Inscripción en el Rectorado; actividades académicas en las Facultades de Farmacia y Bioquímica y de Ciencias Exactas y Naturales",
+    "titulo": "Licenciado en Ciencia y Tecnología de Alimentos",
+    "años": 5,
+    "cargaHorariaTotal": 3774,
+    "ciclos": [
+      "Ciclo Básico Común (6 asignaturas, 560 h, 1 año)",
+      "Ciclo de Formación General (8 asignaturas, 1093 h, 1,5 años)",
+      "Ciclo de Formación Específica (22 obligatorias + 2 electivas, 2121 h, 2,5 años)"
+    ],
+    "materias": 38,
+    "materiasObligatorias": 30,
+    "materiasElectivas": 8,
+    "electivasRequeridas": "2 (125 h)",
+    "practicaProfesional": "300 h, segundo cuatrimestre del quinto año",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyb",
+      "label": "Farmacia y Bioquímica"
+    },
+    {
+      "address": "uba.ffyb.alimentos",
+      "label": "Ciencia y Tecnología de Alimentos"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencia y Tecnología de Alimentos · Plan 2018 (Res. CS 919/18)",
+  "title": "Una carrera con dos sedes: la puerta de Farmacia y Bioquímica.",
+  "lede": "Licenciatura de dependencia compartida entre Farmacia y Bioquímica y Exactas, con un único recorrido: tras el CBC, un ciclo de formación general (matemática, química, biología, física) y un ciclo específico de 22 obligatorias que va de la estadística y la microbiología a la toxicología, la preservación, la tecnología de alimentos y la planta piloto, cerrado por 300 horas de práctica profesional. Desde FFyB se dictan la biología celular, la física, la analítica, la química biológica, la microbiología general, la nutrición, la toxicología, la legislación y la gestión de calidad. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2018",
+      "small": "Res. CS 919/18"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "30 oblig. + 8 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del texto ordenado del plan aprobado por Resolución (CS) Nº 919/18, publicado por FFyB en ffyb.uba.ar (página de la carrera, PDF de la resolución). El plan ordena las asignaturas por ciclo, con facultad de dictado, duración (cuatrimestral, bimestral o anual), carga horaria y correlatividades; la sigla entre paréntesis es la facultad que dicta cada materia. Nivel L1: nombres, ciclos, duraciones y facultades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 8 asignaturas · 1093 h",
+      "title": "Las bases niveladas: matemática, química, biología, física",
+      "note": "Se cursa tras aprobar el CBC. Un año y medio de duración teórica.",
+      "exits": [
+        {
+          "address": "uba.ffyb.alimentos.analisis-matematico-1",
+          "name": "Análisis Matemático 1 (FCEN)",
+          "role": "cuatrimestral · 144 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.biologia-celular-molecular",
+          "name": "Biología Celular e Introducción a la Biología Molecular (FFyB)",
+          "role": "cuatrimestral · 84 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.quimica-general",
+          "name": "Química General (FCEN)",
+          "role": "cuatrimestral · 168 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.fisica-1",
+          "name": "Física 1 (FFyB)",
+          "role": "cuatrimestral · 112 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.quimica-organica",
+          "name": "Química Orgánica (FCEN)",
+          "role": "anual · 240 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.quimica-analitica",
+          "name": "Química Analítica (FFyB)",
+          "role": "cuatrimestral · 119 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.quimica-biologica-general",
+          "name": "Química Biológica General (FFyB)",
+          "role": "cuatrimestral · 98 h",
+          "tag": "formación general",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.fisicoquimica-alimentos",
+          "name": "Fisicoquímica de Alimentos (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación general",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · obligatorias 15–26",
+      "title": "Estadística, química, microbiología, nutrición, toxicología, operaciones",
+      "exits": [
+        {
+          "address": "uba.ffyb.alimentos.estadistica",
+          "name": "Estadística (FFyB)",
+          "role": "cuatrimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.quimica-alimentos",
+          "name": "Química de Alimentos (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.microbiologia-general",
+          "name": "Microbiología General (FFyB)",
+          "role": "bimestral · 64 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.microbiologia-alimentos",
+          "name": "Microbiología de Alimentos (FCEN)",
+          "role": "bimestral · 64 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.operaciones-unitarias-1",
+          "name": "Operaciones Unitarias I (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.nutricion",
+          "name": "Nutrición (FFyB)",
+          "role": "cuatrimestral · 84 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.toxicologia-alimentos-1",
+          "name": "Toxicología de Alimentos I (FFyB)",
+          "role": "bimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.toxicologia-alimentos-2",
+          "name": "Toxicología de Alimentos II (FCEN)",
+          "role": "bimestral · 32 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.legislacion-alimentaria",
+          "name": "Legislación Alimentaria (FFyB)",
+          "role": "cuatrimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.operaciones-unitarias-2",
+          "name": "Operaciones Unitarias II (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.preservacion-alimentos-1",
+          "name": "Fundamentos de Preservación de Alimentos I (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.analisis-avanzado-alimentos",
+          "name": "Análisis Avanzado de Alimentos (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · obligatorias 27–36",
+      "title": "Preservación, biotecnología, tecnología, planta piloto, calidad y práctica",
+      "exits": [
+        {
+          "address": "uba.ffyb.alimentos.preservacion-alimentos-2",
+          "name": "Fundamentos de Preservación de Alimentos II (FCEN)",
+          "role": "cuatrimestral · 128 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.biotecnologia-alimentos-1",
+          "name": "Biotecnología de Alimentos I (FCEN)",
+          "role": "bimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.biotecnologia-alimentos-2",
+          "name": "Biotecnología de Alimentos II (FFyB)",
+          "role": "bimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.tecnologia-alimentos-1",
+          "name": "Tecnología de Alimentos I (FCEN/FFyB)",
+          "role": "cuatrimestral · 112 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.tecnologia-alimentos-2",
+          "name": "Tecnología de Alimentos II (FCEN/FFyB)",
+          "role": "bimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.tecnologia-alimentos-3",
+          "name": "Tecnología de Alimentos III (FCEN/FFyB)",
+          "role": "bimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.planta-piloto",
+          "name": "Procesamiento de Alimentos en Planta Piloto (FCEN)",
+          "role": "anual · 60 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.gestion-calidad",
+          "name": "Gestión, Control y Garantía de la Calidad en la Industria Alimentaria (FFyB)",
+          "role": "cuatrimestral · 56 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.economia-empresa-alimentaria",
+          "name": "Economía de la Empresa Alimentaria (FCEN)",
+          "role": "bimestral · 64 h",
+          "tag": "formación específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.practica-profesional",
+          "name": "Práctica Profesional (FCEN/FFyB)",
+          "role": "2º cuat. del 5º año · 300 h",
+          "tag": "formación específica",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas · se cubren 125 h con dos de ellas",
+      "title": "Las ocho electivas que nombra el plan",
+      "note": "El ciclo específico exige 125 horas en asignaturas electivas u optativas; pueden cursarse otras adicionalmente.",
+      "exits": [
+        {
+          "address": "uba.ffyb.alimentos.analisis-sensorial",
+          "name": "Análisis Sensorial (FCEN/FFyB)",
+          "role": "electiva · cuatrimestral · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.proteccion-ambiental",
+          "name": "Protección Ambiental e Higiene Industrial (FCEN)",
+          "role": "electiva · cuatrimestral · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.organizacion-gerenciamiento",
+          "name": "Organización y Gerenciamiento Empresarial (FCEN)",
+          "role": "electiva · bimestral · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.desarrollo-nuevos-productos",
+          "name": "Desarrollo de Nuevos Productos (FCEN)",
+          "role": "electiva · cuatrimestral · 64 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.control-microbiologico",
+          "name": "Control Microbiológico de Alimentos (FCEN)",
+          "role": "electiva · bimestral · 72 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.materiales-envases",
+          "name": "Materiales para Envases Alimentarios (FFyB)",
+          "role": "electiva · cuatrimestral · 63 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.componentes-bioactivos",
+          "name": "Componentes Bioactivos en Alimentos de Origen Vegetal (FFyB)",
+          "role": "electiva · bimestral · 40 h",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.alimentos.especies-vegetales",
+          "name": "Especies Vegetales de Importancia en Alimentos (FFyB)",
+          "role": "electiva · bimestral · 40 h",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Licenciatura en Ciencia y Tecnología de Alimentos · Resolución (CS) Nº 919/18 (PDF)",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Resolucion-Lic-en-Ciencia-y-Tecnologia-de-Alimentos.pdf"
+  }
+}

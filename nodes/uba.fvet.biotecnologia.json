@@ -1,0 +1,370 @@
+{
+  "address": "uba.fvet.biotecnologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2025",
+    "resolucion": "ACS-2025-299-UBA-SG#REC · Anexo ACS-2025-299-UBA-SG#REC",
+    "vigencia": "2026 (primera cohorte)",
+    "sedeAdministrativa": "Facultad de Farmacia y Bioquímica",
+    "facultades": ["FFyB", "FCEN", "FAgr", "FVet"],
+    "años": 4.5,
+    "cuatrimestres": 9,
+    "cargaHorariaTotal": 3331,
+    "cicloGeneralHoras": 1496,
+    "cicloProfesionalHoras": 1835,
+    "orientacionHoras": 350,
+    "orientaciones": {
+      "FFyB": "Biotecnología en Salud Humana",
+      "FVet": "Biotecnología en Salud y Producción Animal",
+      "FAgr": "Biotecnología Vegetal",
+      "FCEN": "Biotecnología y Desarrollo Sostenible"
+    },
+    "orientacionDeEstaPuerta": "Biotecnología en Salud y Producción Animal (FVet)",
+    "tramoComun": "Anexo I, asignaturas 7–34 (FVet no publica tabla local; el troncal se dicta en Farmacia y Bioquímica)",
+    "tituloIntermedio": "Bachiller Universitario/a en Biotecnología",
+    "materias": 32,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fvet",
+      "label": "Ciencias Veterinarias"
+    },
+    {
+      "address": "uba.fvet.biotecnologia",
+      "label": "Biotecnología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Biotecnología · Plan 2025 · puerta Veterinarias",
+  "title": "Un tronco común de cuatro facultades, la orientación animal al final.",
+  "lede": "La carrera nueva de la UBA (primera cohorte 2026): un tramo común del tercero al octavo cuatrimestre, dictado en Farmacia y Bioquímica, y un noveno cuatrimestre de orientación. Esta es la puerta de Ciencias Veterinarias: su orientación en Biotecnología en Salud y Producción Animal — reproducción, diagnóstico molecular, vacunas y mejora productiva. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2025",
+      "small": "ACS-2025-299"
+    },
+    {
+      "k": "Materias",
+      "v": "32",
+      "small": "tramo común + orientación"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 32"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: ACS-2025-299-UBA-SG#REC y su Anexo I (ACS-2025-299-UBA-SG#REC, publicado por ffyb.uba.ar, sede administrativa). Ciencias Veterinarias no publica una tabla propia del tramo común — fvet.uba.ar remite a Farmacia y Bioquímica, donde se dicta el troncal — así que el tramo común figura tal como lo lista el Anexo I (asignaturas 7 a 34), con sus horas y correlativas. La orientación en Salud y Producción Animal son las cuatro obligatorias del noveno cuatrimestre según el mismo Anexo (35 A a 38 A, 350 h). Nivel L1: nombres, cuatrimestres, horas y correlativas son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 3º cuatrimestre · 336 h",
+      "title": "Química, matemática y la célula",
+      "note": "Tramo común. Correlativa: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.quimica-general-inorganica",
+          "name": "Química General e Inorgánica",
+          "role": "3º cuat. · 126 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.matematica",
+          "name": "Matemática",
+          "role": "3º cuat. · 98 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.biologia-celular-molecular",
+          "name": "Biología Celular y Molecular",
+          "role": "3º cuat. · 112 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 4º cuatrimestre · 350 h",
+      "title": "Física, carbono, ecología y la primera biotecnología",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.fisica",
+          "name": "Física",
+          "role": "4º cuat. · 112 h · cursar: TP Matemática",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.intro-biotecnologia",
+          "name": "Introducción a la Biotecnología",
+          "role": "4º cuat. · bimestral · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "4º cuat. · 126 h · cursar: TP Química General e Inorgánica",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.ecologia",
+          "name": "Ecología",
+          "role": "4º cuat. · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 5º cuatrimestre · 350 h",
+      "title": "Analítica, química biológica, microbios y genes",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "5º cuat. · 84 h · cursar: final Qca. Gral. e Inorg. + TP Matemática",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.quimica-biologica-1",
+          "name": "Química Biológica I",
+          "role": "5º cuat. · 112 h · cursar: final Biol. Cel. y Mol. + TP Qca. Orgánica",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.microbiologia",
+          "name": "Microbiología",
+          "role": "5º cuat. · 84 h · cursar: final Biol. Cel. y Mol. + TP Qca. Orgánica + TP Ecología",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.genetica-molecular",
+          "name": "Genética Molecular",
+          "role": "5º cuat. · 70 h · cursar: final Biol. Cel. y Mol. + TP Ecología",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 6º cuatrimestre · 343 h",
+      "title": "Fisicoquímica, instrumental, biotecnología y la planta",
+      "note": "Entre el 3º y el 6º cuatrimestre se cumplen 3 actividades complementarias de introducción al rol profesional y científico.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.fisicoquimica",
+          "name": "Fisicoquímica",
+          "role": "6º cuat. · 112 h · cursar: final Qca. Gral. e Inorg. + TP Física",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "6º cuat. · 112 h · cursar: final Física + TP Qca. Analítica",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.biotecnologia",
+          "name": "Biotecnología",
+          "role": "6º cuat. · bimestral · 49 h · cursar: final Intro. Biotec. + TP Microbiología + TP Genética Mol.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.fisiologia-vegetal",
+          "name": "Fisiología Vegetal",
+          "role": "6º cuat. · 70 h · cursar: final Ecología + TP Qca. Biológica I",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 7º cuatrimestre · 336 h",
+      "title": "Ingeniería genética, industria, el animal y los datos",
+      "note": "Para cursar cualquier materia del 7º cuatrimestre: TP de Inglés y de Bioestadística aprobados.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.quimica-biologica-2",
+          "name": "Química Biológica II",
+          "role": "7º cuat. · 70 h · cursar: final Qca. Biológica I",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.ingenieria-genetica",
+          "name": "Ingeniería Genética",
+          "role": "7º cuat. · 98 h · cursar: TP Microbiología + final Genética Mol.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.microbiologia-industrial",
+          "name": "Microbiología Industrial",
+          "role": "7º cuat. · 56 h · cursar: final Microbiología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.fisiologia-animal",
+          "name": "Fisiología Animal",
+          "role": "7º cuat. · 70 h · cursar: final Ecología + TP Qca. Biológica I",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.bioinformatica-aplicada",
+          "name": "Bioinformática Aplicada a la Biotecnología",
+          "role": "7º cuat. · bimestral · 42 h · cursar: final Intro. Biotec. + TP Genética Mol.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 8º cuatrimestre · 308 h",
+      "title": "Inmunología, calidad, nano, emprender y la ley",
+      "note": "Cierra el tramo común. El título intermedio de Bachiller Universitario/a en Biotecnología se obtiene con las asignaturas 1 a 17, Biotecnología, Inglés y Bioestadística, más las 3 actividades complementarias.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.inmunologia-basica-tecnicas",
+          "name": "Inmunología Básica y Técnicas Inmunológicas",
+          "role": "8º cuat. · 84 h · cursar: TP Qca. Biológica II + TP Fisiología Animal",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.gestion-calidad",
+          "name": "Gestión de Calidad en Biotecnología",
+          "role": "8º cuat. · 84 h · cursar: finales Qca. Biológica I, Fisicoquímica y Qca. Analítica Instr.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.nanobiotecnologia",
+          "name": "Nanobiotecnología",
+          "role": "8º cuat. · 49 h · cursar: finales Fisicoquímica y Biotecnología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.desarrollo-emprendedor",
+          "name": "Desarrollo Emprendedor",
+          "role": "8º cuat. · 42 h · cursar: finales Intro. Biotec. y Biotecnología",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.legislacion-bioetica",
+          "name": "Legislación en Biotecnología y Bioética",
+          "role": "8º cuat. · bimestral · 49 h · cursar: final Intro. Biotec. + TP Biotecnología",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cursada flexible",
+      "title": "En cualquier momento del tramo común",
+      "note": "TP aprobados antes del 7º cuatrimestre; finales aprobados antes del 9º.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.ingles",
+          "name": "Inglés",
+          "role": "cualquier cuat. · 42 h · cursar: CBC aprobado",
+          "tag": "tramo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.bioestadistica",
+          "name": "Bioestadística",
+          "role": "cualquier cuat. · 56 h · cursar: TP Matemática",
+          "tag": "tramo común",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 9º cuatrimestre · Orientación Veterinarias · 350 h",
+      "title": "Biotecnología en Salud y Producción Animal",
+      "note": "Cuatro obligatorias, con el respaldo académico de la Facultad de Ciencias Veterinarias: reproducción y criopreservación, diagnóstico molecular, terapia biotecnológica y mejora productiva.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.biotecnologia-reproduccion-criopreservacion",
+          "name": "Biotecnología de la Reproducción y Criopreservación de Gametas y Embriones",
+          "role": "obligatoria · 98 h · cursar: finales Biotecnología y Fisiología Animal",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.tecnicas-diagnostico-molecular",
+          "name": "Técnicas de Diagnóstico Molecular",
+          "role": "obligatoria · 84 h · cursar: final Qca. Biológica II + TP Fisiología Animal",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.farmacologia-inmunologia-terapia-biotecnologica",
+          "name": "Aspectos Farmacológicos e Inmunológicos de la Terapia Biotecnológica",
+          "role": "obligatoria · 84 h · cursar: TP Inmunología Básica",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.biotecnologia.biotecnologia-produccion-animal",
+          "name": "Biotecnología Aplicada a la Producción Animal",
+          "role": "obligatoria · 84 h · cursar: final Biotecnología + TP Ing. Genética + TP Microbiología Ind.",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Tesis o práctica profesional",
+      "note": "300 h. Requiere todos los TP hasta el 8º cuatrimestre aprobados. Además, una Práctica Social Educativa a partir del 7º cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.fvet.biotecnologia.tesis-o-practica-profesional",
+          "name": "Tesis de Grado o Práctica Profesional",
+          "role": "300 h",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ACS-2025-299-UBA-SG#REC · Anexo I (ffyb.uba.ar, sede administrativa) · fvet.uba.ar/carrerasGrado remite a FFyB",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/09/ACS-2025-299-UBA-SGREC.pdf"
+  }
+}

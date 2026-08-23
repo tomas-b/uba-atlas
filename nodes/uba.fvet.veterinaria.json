@@ -1,0 +1,439 @@
+{
+  "address": "uba.fvet.veterinaria",
+  "level": "carrera",
+  "kind": "career",
+  "metadata": {
+    "plan": "2009",
+    "resolucion": "Resolución (CS) Nº 7309/09",
+    "ciclos": [
+      "CBC",
+      "Módulo Común",
+      "Ciclo Superior obligatorio",
+      "PPS"
+    ],
+    "cargaHorariaTotal": 4234,
+    "materias": 50,
+    "correlativas": true,
+    "pps": true
+  },
+  "groundingLevel": "L1",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fvet",
+      "label": "Ciencias Veterinarias"
+    },
+    {
+      "address": "uba.fvet.veterinaria",
+      "label": "Veterinaria"
+    }
+  ],
+  "eyebrow": "Veterinaria · Plan 2009 (Res. CS 7309/09)",
+  "title": "Del cuerpo del animal a la clínica, el campo y la mesa.",
+  "lede": "El plan real de Veterinaria: tras el CBC, un Módulo Común obligatorio que va de la anatomía y la química a la medicina, la cirugía y las producciones; un Ciclo Superior organizado en ejes de Salud Animal, Medicina Preventiva y Producción Animal; y una Práctica Profesional Supervisada con orientación a elección. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2009",
+      "small": "Res. CS 7309/09"
+    },
+    {
+      "k": "Materias",
+      "v": "50",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 50"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en fvet.uba.ar (Plan de Estudios Carrera Veterinaria) y del Código UBA (Res. CS 7309/09: CBC 512 hs + Módulo Común 2.780 hs + Ciclo Superior 582 hs + PPS 360 hs = 4.234 hs). El plan se organiza por ciclos y correlatividades, no por años: el orden de las materias es el del listado oficial. Nivel L1: nombres, códigos y cargas horarias son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "2º ciclo · Módulo Común obligatorio",
+      "title": "Fundamentos, medicina y producción",
+      "note": "Correlativas por regularidad o aprobación; se ingresa con el CBC aprobado. Para cursar el Ciclo Superior debe estar aprobado el Taller de Sociología Rural y Urbana y Prácticas Solidarias.",
+      "exits": [
+        {
+          "address": "uba.fvet.veterinaria.anatomia-1",
+          "name": "Anatomía I",
+          "role": "110 hs",
+          "tag": "cód. 201",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.quimica-organica-biomoleculas",
+          "name": "Química Orgánica de Biomoléculas",
+          "role": "70 hs",
+          "tag": "cód. 203",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.elementos-estadistica",
+          "name": "Elementos de Estadística",
+          "role": "40 hs",
+          "tag": "cód. 603",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.anatomia-2",
+          "name": "Anatomía II",
+          "role": "100 hs",
+          "tag": "cód. 206",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.fisica-biologica",
+          "name": "Física Biológica",
+          "role": "80 hs",
+          "tag": "cód. 202",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.estadistica-analitica",
+          "name": "Estadística Analítica",
+          "role": "40 hs",
+          "tag": "cód. 604",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.histologia-embriologia",
+          "name": "Histología y Embriología",
+          "role": "120 hs",
+          "tag": "cód. 205",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "100 hs",
+          "tag": "cód. 204",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.fisiologia-animal",
+          "name": "Fisiología Animal y Bioquímica Fisiológica",
+          "role": "140 hs",
+          "tag": "cód. 207",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.parasitologia",
+          "name": "Parasitología",
+          "role": "50 hs",
+          "tag": "cód. 602",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.bases-agricolas",
+          "name": "Bases Agrícolas para la Producción Animal",
+          "role": "65 hs",
+          "tag": "cód. 401",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "48 hs",
+          "tag": "cód. 208",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.taller-sociologia-rural",
+          "name": "Taller de Sociología Rural y Urbana y Prácticas Solidarias",
+          "role": "40 hs",
+          "tag": "cód. 209",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.actividades-orientacion",
+          "name": "Actividades de Orientación",
+          "role": "15 hs",
+          "tag": "cód. 701",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.sociologia",
+          "name": "Sociología",
+          "role": "48 hs",
+          "tag": "cód. 814",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.microbiologia",
+          "name": "Microbiología",
+          "role": "70 hs",
+          "tag": "cód. 301",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.nutricion-alimentacion",
+          "name": "Principios de Nutrición y Alimentación",
+          "role": "70 hs",
+          "tag": "cód. 402",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.genetica-basica",
+          "name": "Genética Básica",
+          "role": "40 hs",
+          "tag": "cód. 403",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.economia",
+          "name": "Economía",
+          "role": "40 hs",
+          "tag": "cód. 405",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.farmacologia",
+          "name": "Farmacología y Bases de la Terapéutica",
+          "role": "100 hs",
+          "tag": "cód. 302",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.medicina-1",
+          "name": "Medicina I",
+          "role": "100 hs",
+          "tag": "cód. 503",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.inmunologia-basica",
+          "name": "Inmunología Básica",
+          "role": "80 hs",
+          "tag": "cód. 303",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.patologia-basica",
+          "name": "Patología Básica",
+          "role": "130 hs",
+          "tag": "cód. 304",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.genetica-poblaciones",
+          "name": "Genética de Poblaciones",
+          "role": "40 hs",
+          "tag": "cód. 406",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.anestesiologia",
+          "name": "Principios de la Anestesiología",
+          "role": "30 hs",
+          "tag": "cód. 501",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.cirugia",
+          "name": "Cirugía",
+          "role": "45 hs",
+          "tag": "cód. 502",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.epidemiologia",
+          "name": "Principios de la Epidemiología",
+          "role": "30 hs",
+          "tag": "cód. 605",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.enfermedades-infecciosas",
+          "name": "Enfermedades Infecciosas",
+          "role": "100 hs",
+          "tag": "cód. 607",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.enfermedades-parasitarias",
+          "name": "Enfermedades Parasitarias",
+          "role": "45 hs",
+          "tag": "cód. 606",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.medicina-3",
+          "name": "Medicina III",
+          "role": "100 hs",
+          "tag": "cód. 505",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-ovinos",
+          "name": "Producción de Ovinos",
+          "role": "30 hs",
+          "tag": "cód. 407",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-bovinos-carne",
+          "name": "Producción de Bovinos de Carne",
+          "role": "30 hs",
+          "tag": "cód. 408",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-porcinos",
+          "name": "Producción de Porcinos",
+          "role": "30 hs",
+          "tag": "cód. 409",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-bovinos-lecheros",
+          "name": "Producción de Bovinos Lecheros",
+          "role": "30 hs",
+          "tag": "cód. 410",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-aves",
+          "name": "Producción de Aves",
+          "role": "30 hs",
+          "tag": "cód. 411",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-equinos",
+          "name": "Producción de Equinos",
+          "role": "30 hs",
+          "tag": "cód. 412",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.medicina-2",
+          "name": "Medicina II",
+          "role": "60 hs",
+          "tag": "cód. 504",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.medicina-4",
+          "name": "Medicina IV",
+          "role": "70 hs",
+          "tag": "cód. 506",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.virologia-animal",
+          "name": "Virología Animal",
+          "role": "34 hs",
+          "tag": "cód. 305",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.medicina-5",
+          "name": "Medicina V",
+          "role": "85 hs",
+          "tag": "cód. 507",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.salud-publica-1",
+          "name": "Salud Pública I",
+          "role": "35 hs",
+          "tag": "cód. 608",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.tecnologia-inspeccion-alimentos",
+          "name": "Tecnología, Protección e Inspección Veterinaria de Alimentos",
+          "role": "50 hs",
+          "tag": "cód. 609",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.practica-hospitalaria-pequenos-1",
+          "name": "Práctica Hospitalaria en Pequeños Animales I",
+          "role": "90 hs",
+          "tag": "cód. 508",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.practica-hospitalaria-grandes-1",
+          "name": "Práctica Hospitalaria en Grandes Animales I",
+          "role": "90 hs",
+          "tag": "cód. 509",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Superior · Eje 6 · electivas",
+      "title": "Producción de especies no tradicionales y/o alternativas",
+      "note": "Seis asignaturas electivas; se elige una. Los ejes 1 a 5 (Salud Animal en Pequeños y Grandes Animales, Medicina Preventiva y Salud Pública, Inocuidad y Calidad de Alimentos, Producciones Animales) son evaluaciones integradoras sobre materias del Módulo Común, no asignaturas nuevas.",
+      "exits": [
+        {
+          "address": "uba.fvet.veterinaria.acuicultura-ictiopatologia",
+          "name": "Acuicultura e Ictiopatología",
+          "role": "electiva · eje 6",
+          "tag": "cód. 673",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.animales-laboratorio",
+          "name": "Animales de Laboratorio",
+          "role": "electiva · eje 6",
+          "tag": "cód. 674",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.animales-granja-apicultura",
+          "name": "Animales de Granja y Apicultura",
+          "role": "electiva · eje 6",
+          "tag": "cód. 675",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-peliferos",
+          "name": "Producción de Pelíferos",
+          "role": "electiva · eje 6",
+          "tag": "cód. 676",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-caprinos-camelidos",
+          "name": "Producción de Caprinos y Camélidos Sudamericanos",
+          "role": "electiva · eje 6",
+          "tag": "cód. 677",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fvet.veterinaria.produccion-caninos",
+          "name": "Producción de Caninos",
+          "role": "electiva · eje 6",
+          "tag": "cód. 678",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "PPS · Práctica Profesional Supervisada",
+      "title": "360 hs con orientación a elección",
+      "note": "Cuatro orientaciones: Medicina de Pequeños Animales, Medicina de Grandes Animales, Medicina Preventiva y Salud Pública, Producción Animal. Requiere el área del Ciclo Superior elegida aprobada. Las asignaturas optativas (Res. CS 2210/03, 36 hs) varían por año y no se listan.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "fvet.uba.ar/veterinaria#plan · codigo.rec.uba.ar (Plan 2009, Res. CS 7309/09)",
+    "url": "https://www.fvet.uba.ar/?q=veterinaria#plan"
+  }
+}

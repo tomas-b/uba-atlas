@@ -1,0 +1,365 @@
+{
+  "address": "uba.med.obstetricia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Res. C.S. N° 3828/2011",
+    "años": 5,
+    "materias": 34,
+    "electivas": 4,
+    "correlativas": "por bloque de año: para cursar un año se aprueban las materias anuales y troncales del anterior y se regularizan las restantes; para rendir se aprueba el año anterior completo",
+    "practicaHospitalaria": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.obstetricia",
+      "label": "Obstetricia"
+    }
+  ],
+  "eyebrow": "Licenciatura en Obstetricia · Plan Res. C.S. 3828/2011",
+  "title": "Cuatro años propios, tres prácticas hospitalarias.",
+  "lede": "El plan vigente (Res. C.S. N° 3828/2011) de la Facultad de Medicina: tras el CBC, cuatro años que van del cuerpo — anatomía, fisiología, histología — a la sala de partos, con una Práctica Hospitalaria anual en cada uno de los tres últimos años. Cada materia es una puerta; clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2011",
+      "small": "Res. C.S. 3828"
+    },
+    {
+      "k": "Materias",
+      "v": "34",
+      "small": "propias + 4 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por fmed.uba.ar (PDF 'Obstetricia – Plan de Estudios', Res. C.S. N° 3828/2011). El plan numera 40 asignaturas: las seis del 1° año se cursan en el CBC y no se listan acá; las 34 restantes (2° a 5° año) más cuatro electivas nombradas son propias de la carrera. El plan indica duración (anual / cuatrimestral) y correlatividades por bloque de año, no el cuatrimestre exacto. Nivel L1: nombres, años y régimen son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "El cuerpo y la entrada al hospital",
+      "note": "Para cursar: 1–6 (CBC) aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.obstetricia.anatomia",
+          "name": "Anatomía",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.fisiologia",
+          "name": "Fisiología",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.histologia-biologia-celular-embriologia-genetica",
+          "name": "Histología, Biología Celular, Embriología y Genética",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.microbiologia-parasitologia-inmunologia",
+          "name": "Microbiología, Parasitología e Inmunología",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.fisica-biologica",
+          "name": "Física Biológica",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.salud-mental",
+          "name": "Salud Mental",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.intro-disciplina-obstetrica",
+          "name": "Introducción a la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.intro-ambiente-hospitalario",
+          "name": "Introducción al Ambiente Hospitalario",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "El embarazo normal y la primera práctica",
+      "note": "Para cursar: 7, 8, 9, 10, 12 aprobadas y 11, 13, 14, 15 regulares. Para rendir: 7–15 aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.obstetricia.obstetricia-normal",
+          "name": "Obstetricia Normal",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.psicologia-general",
+          "name": "Psicología General",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.neonatologia-normal",
+          "name": "Neonatología Normal",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.farmacologia-salud-reproductiva",
+          "name": "Farmacología General y Aplicada a la Salud Reproductiva",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.nutricion-materno-infantil",
+          "name": "Nutrición Materno Infantil",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.atencion-primaria-salud",
+          "name": "Atención Primaria de la Salud en la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.atencion-preconcepcional-perinatologica",
+          "name": "Atención Preconcepcional y Perinatológica",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.practica-hospitalaria-1",
+          "name": "Práctica Hospitalaria I",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "La patología, la ética y la segunda práctica",
+      "note": "Para cursar: 16, 17, 18, 23 aprobadas y 19, 20, 21, 22 regulares. Para rendir: 16–23 aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.obstetricia.obstetricia-patologica-quirurgica",
+          "name": "Obstetricia Patológica y Quirúrgica",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.neonatologia-patologica",
+          "name": "Neonatología Patológica",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.salud-publica",
+          "name": "Salud Pública en la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.deontologia-bioetica",
+          "name": "Deontología y Bioética Aplicada a la Obstetricia",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.psicologia-evolutiva-embarazo",
+          "name": "Psicología Evolutiva y del Embarazo",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.antropologia",
+          "name": "Antropología en la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.educacion-salud-mujer-nino",
+          "name": "Educación para la Salud de la Mujer y el Niño",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.practica-hospitalaria-2",
+          "name": "Práctica Hospitalaria II",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "La clínica, la gestión y la última práctica",
+      "note": "Para cursar: 24, 25, 28, 31 aprobadas y 26, 27, 29, 30 regulares. Para rendir: 24–31 aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.obstetricia.clinica-obstetrica",
+          "name": "Clínica Obstétrica",
+          "role": "anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.salud-reproductiva",
+          "name": "Salud Reproductiva",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.metodologia-investigacion-estadistica",
+          "name": "Metodología de la Investigación y Estadística Aplicada a la Obstetricia",
+          "role": "anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.psicoprofilaxis-obstetrica",
+          "name": "Psicoprofilaxis Obstétrica",
+          "role": "anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.salud-comunitaria-social",
+          "name": "Salud Comunitaria y Social en la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.educacion-sexual",
+          "name": "Educación Sexual",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.administracion-hospitalaria-gestion",
+          "name": "Administración Hospitalaria y Gestión en la Disciplina Obstétrica",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.tecnologia-diagnostico-ecografico",
+          "name": "Tecnología Apropiada en Diagnóstico Ecográfico",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.practica-hospitalaria-3",
+          "name": "Práctica Hospitalaria III",
+          "role": "anual",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas",
+      "title": "Cuatro asignaturas optativas nombradas por el plan",
+      "exits": [
+        {
+          "address": "uba.med.obstetricia.puericultura",
+          "name": "Puericultura",
+          "role": "cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.didactica-aplicada",
+          "name": "Didáctica Aplicada a la Obstetricia",
+          "role": "cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.obstetricia.seminario",
+          "name": "Seminario",
+          "role": "cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Licenciatura en Obstetricia · Plan de Estudios (Res. C.S. N° 3828/2011)",
+    "url": "https://fmed.uba.ar/sites/default/files/2023-04/OBSTETRICIA%20-%20PLAN%20DE%20ESTUDIOS%20DRUPAL.pdf"
+  }
+}

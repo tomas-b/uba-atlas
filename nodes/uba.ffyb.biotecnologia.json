@@ -1,0 +1,362 @@
+{
+  "address": "uba.ffyb.biotecnologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2025",
+    "resolucion": "RESCS-2025-1467-UBA-REC · Anexo I ACS-2025-299-UBA-SG#REC",
+    "vigencia": "2026 (primera cohorte)",
+    "sedeAdministrativa": "Facultad de Farmacia y Bioquímica",
+    "facultades": ["FFyB", "FCEN", "FAgr", "FVet"],
+    "años": 4.5,
+    "cuatrimestres": 9,
+    "cargaHorariaTotal": 3331,
+    "cicloGeneralHoras": 1496,
+    "cicloProfesionalHoras": 1835,
+    "orientacionHoras": 350,
+    "orientaciones": {
+      "FFyB": "Biotecnología en Salud Humana",
+      "FVet": "Biotecnología en Salud y Producción Animal",
+      "FAgr": "Biotecnología Vegetal",
+      "FCEN": "Biotecnología y Desarrollo Sostenible"
+    },
+    "orientacionDeEstaPuerta": "Biotecnología en Salud Humana (FFyB)",
+    "tituloIntermedio": "Bachiller Universitario/a en Biotecnología",
+    "materias": 32,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyb",
+      "label": "Farmacia y Bioquímica"
+    },
+    {
+      "address": "uba.ffyb.biotecnologia",
+      "label": "Biotecnología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Biotecnología · Plan 2025 · puerta Farmacia y Bioquímica",
+  "title": "El tronco en su sede, y la salud humana al final.",
+  "lede": "La carrera nueva de la UBA (primera cohorte 2026), con sede administrativa en Farmacia y Bioquímica: un tramo común del tercer al octavo cuatrimestre que se dicta en la propia facultad, y un noveno cuatrimestre de orientación en Biotecnología en Salud Humana. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2025",
+      "small": "RESCS-2025-1467"
+    },
+    {
+      "k": "Materias",
+      "v": "32",
+      "small": "troncal + orientación"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 32"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: RESCS-2025-1467-UBA-REC y su Anexo I (ACS-2025-299-UBA-SG#REC), publicados por ffyb.uba.ar/licenciatura-en-biotecnologia. El tramo común es el listado del Anexo I (asignaturas 7 a 34), tal como la facultad lo dicta; la tabla local de FFyB usa los mismos nombres y ubica Inglés en el 3º cuatrimestre y Bioestadística en el 4º, que el Anexo declara de cursada flexible — acá se sigue la ubicación de FFyB. La orientación en Salud Humana son las cuatro obligatorias del Anexo I (35H a 38H, 350 h). Nivel L1: nombres, cuatrimestres, horas y correlativas son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 3º cuatrimestre",
+      "title": "Química, matemática, la célula e inglés",
+      "note": "Correlativa: CBC aprobado. FFyB ubica Inglés en este cuatrimestre (el Anexo lo declara flexible; sus TP deben estar aprobados antes del 7º).",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-general-inorganica",
+          "name": "Química General e Inorgánica",
+          "role": "3º cuat. · 126 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.matematica",
+          "name": "Matemática",
+          "role": "3º cuat. · 98 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.biologia-celular-molecular",
+          "name": "Biología Celular y Molecular",
+          "role": "3º cuat. · 112 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.ingles",
+          "name": "Inglés",
+          "role": "3º cuat. (flexible) · 42 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 4º cuatrimestre",
+      "title": "Física, carbono, ecología y la primera biotecnología",
+      "note": "FFyB ubica Bioestadística en este cuatrimestre (el Anexo la declara flexible; correlativa TP de Matemática).",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.fisica",
+          "name": "Física",
+          "role": "4º cuat. · 112 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.intro-biotecnologia",
+          "name": "Introducción a la Biotecnología",
+          "role": "4º cuat. · bimestral · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "4º cuat. · 126 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.ecologia",
+          "name": "Ecología",
+          "role": "4º cuat. · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.bioestadistica",
+          "name": "Bioestadística",
+          "role": "4º cuat. (flexible) · 56 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 5º cuatrimestre",
+      "title": "Analítica, química biológica, microbios y genes",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "5º cuat. · 84 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-biologica-1",
+          "name": "Química Biológica I",
+          "role": "5º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.microbiologia",
+          "name": "Microbiología",
+          "role": "5º cuat. · 84 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.genetica-molecular",
+          "name": "Genética Molecular",
+          "role": "5º cuat. · 70 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 6º cuatrimestre",
+      "title": "Fisicoquímica, instrumental, biotecnología y plantas",
+      "note": "Cierra el tramo del título intermedio: con las asignaturas 1 a 17, Biotecnología, Inglés, Bioestadística y 3 actividades complementarias se obtiene Bachiller Universitario/a en Biotecnología (1743 h).",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.fisicoquimica",
+          "name": "Fisicoquímica",
+          "role": "6º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-analitica-instrumental",
+          "name": "Química Analítica Instrumental",
+          "role": "6º cuat. · 112 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.biotecnologia",
+          "name": "Biotecnología",
+          "role": "6º cuat. · bimestral · 49 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.fisiologia-vegetal",
+          "name": "Fisiología Vegetal",
+          "role": "6º cuat. · 70 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 7º cuatrimestre",
+      "title": "Ingeniería genética, industria, fisiología y bioinformática",
+      "note": "Para cursar cualquier materia del 7º: TP de Inglés y de Bioestadística aprobados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.quimica-biologica-2",
+          "name": "Química Biológica II",
+          "role": "7º cuat. · 70 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.ingenieria-genetica",
+          "name": "Ingeniería Genética",
+          "role": "7º cuat. · 98 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.microbiologia-industrial",
+          "name": "Microbiología Industrial",
+          "role": "7º cuat. · 56 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.fisiologia-animal",
+          "name": "Fisiología Animal",
+          "role": "7º cuat. · 70 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.bioinformatica-aplicada",
+          "name": "Bioinformática Aplicada a la Biotecnología",
+          "role": "7º cuat. · bimestral · 42 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 8º cuatrimestre",
+      "title": "Inmunología, calidad, nano, emprender y la ley",
+      "note": "Cierra el tramo común (asignaturas 1 a 34). Además, una Práctica Social Educativa a partir del 7º cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.inmunologia-basica-tecnicas",
+          "name": "Inmunología Básica y Técnicas Inmunológicas",
+          "role": "8º cuat. · 84 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.gestion-calidad",
+          "name": "Gestión de Calidad en Biotecnología",
+          "role": "8º cuat. · 84 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.nanobiotecnologia",
+          "name": "Nanobiotecnología",
+          "role": "8º cuat. · 49 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.desarrollo-emprendedor",
+          "name": "Desarrollo Emprendedor",
+          "role": "8º cuat. · 42 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.legislacion-bioetica",
+          "name": "Legislación en Biotecnología y Bioética",
+          "role": "8º cuat. · bimestral · 49 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 9º cuatrimestre · Orientación FFyB",
+      "title": "Biotecnología en Salud Humana",
+      "note": "Cuatro obligatorias, 350 h. Para cursar el 9º: finales de Inglés y Bioestadística aprobados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.procesos-biotecnologia",
+          "name": "Procesos de Biotecnología",
+          "role": "9º cuat. · 112 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.fisiopatologia-humana",
+          "name": "Fisiopatología Humana",
+          "role": "9º cuat. · 84 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.farmacologia-terapia-biologica",
+          "name": "Aspectos Farmacológicos de la Terapia Biológica",
+          "role": "9º cuat. · 56 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyb.biotecnologia.avances-biotecnologia-salud-humana",
+          "name": "Avances en Biotecnología Aplicada a la Salud Humana",
+          "role": "9º cuat. · 98 h",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Tesis o práctica profesional",
+      "note": "300 h, asociadas a la orientación. Requiere todos los TP hasta el 8º cuatrimestre aprobados.",
+      "exits": [
+        {
+          "address": "uba.ffyb.biotecnologia.tesis-o-practica-profesional",
+          "name": "Tesis de Grado o Práctica Profesional",
+          "role": "300 h",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar/licenciatura-en-biotecnologia · RESCS-2025-1467-UBA-REC · Anexo I ACS-2025-299-UBA-SG#REC",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/09/ACS-2025-299-UBA-SGREC.pdf"
+  }
+}

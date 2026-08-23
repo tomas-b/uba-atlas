@@ -1,0 +1,388 @@
+{
+  "address": "uba.med.nutricion",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente (fmed.uba.ar, resolución no consignada en la fuente)",
+    "años": 4,
+    "materias": 41,
+    "obligatorias": 32,
+    "electivas": 9,
+    "electivasAElegir": 3,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.nutricion",
+      "label": "Nutrición"
+    }
+  ],
+  "eyebrow": "Licenciatura en Nutrición · Escuela de Nutrición",
+  "title": "Cuatro años, de la bioquímica al servicio de alimentación.",
+  "lede": "El plan real de la Escuela de Nutrición de la Facultad de Medicina: cuatro años propios (segundo a quinto, tras el CBC) que van de la bioquímica, la anatomía y la nutrición normal a la dietoterapia, la salud pública y las prácticas en terreno, con tres electivas a elegir entre nueve. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "fmed.uba.ar"
+    },
+    {
+      "k": "Materias",
+      "v": "41",
+      "small": "32 oblig. + 9 elect."
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 41"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad de Medicina (fmed.uba.ar/carreras/licenciatura-en-nutricion/plan-de-estudios). Nivel L1: los nombres, años, régimen (anual / cuatrimestral) y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). La fuente no consigna número de resolución del plan. Se eligen tres electivas entre las nueve del quinto año.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo año",
+      "title": "El cuerpo y el alimento",
+      "note": "Correlativa: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.med.nutricion.bioquimica-nutricion",
+          "name": "Bioquímica de la Nutrición",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.anatomia",
+          "name": "Anatomía",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.fisiologia",
+          "name": "Fisiología",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.nutricion-normal",
+          "name": "Nutrición Normal",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.intro-salud-publica",
+          "name": "Introducción a la Salud Pública",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.socioantropologia",
+          "name": "Socioantropología",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.estadistica",
+          "name": "Estadística",
+          "role": "cuatrimestral",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tercer año",
+      "title": "Patología, técnica y comunidad",
+      "note": "Fisiopatología, Microbiología y Alimentación del Niño Sano exigen Anatomía, Fisiología y Bioquímica; Técnica Dietética y Bromatología exigen Bioquímica y Nutrición Normal; Producción y Mercadeo y Metodología se cursan con regularidad en Economía General y Familiar y Bioestadística respectivamente.",
+      "exits": [
+        {
+          "address": "uba.med.nutricion.fisiopatologia",
+          "name": "Fisiopatología",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.tecnica-dietetica",
+          "name": "Técnica Dietética",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.bromatologia",
+          "name": "Bromatología y Tecnología Alimentaria",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.microbiologia-parasitologia",
+          "name": "Microbiología y Parasitología",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.alimentacion-nino-sano",
+          "name": "Alimentación del Niño Sano",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.desarrollo-comunidad",
+          "name": "Desarrollo de la Comunidad",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.economia-general-familiar",
+          "name": "Economía General y Familiar",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.bioestadistica",
+          "name": "Bioestadística",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.relaciones-humanas-eticas",
+          "name": "Relaciones Humanas y Éticas",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.saneamiento-higiene-alimentos",
+          "name": "Saneamiento Ambiental e Higiene de los Alimentos",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.produccion-mercadeo-alimentos",
+          "name": "Producción y Mercadeo de Alimentos",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.metodologia-investigacion",
+          "name": "Metodología de la Investigación en Nutrición",
+          "role": "cuatrimestral",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuarto año",
+      "title": "Dietoterapia, educación y salud pública",
+      "note": "Las dietoterapias exigen Fisiopatología, Técnica Dietética y Bromatología; Educación en Nutrición suma Alimentación del Niño Sano y Desarrollo de la Comunidad; Nutrición en Salud Pública se cursa con regularidad en Epidemiología y Evaluación Nutricional.",
+      "exits": [
+        {
+          "address": "uba.med.nutricion.psicologia-nutricion",
+          "name": "Psicología de la Nutrición",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.educacion-nutricion",
+          "name": "Educación en Nutrición",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.administracion-servicios-alimentacion",
+          "name": "Administración de Servicios de Alimentación",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.planificacion-administracion-sanitaria",
+          "name": "Planificación y Administración General y Sanitaria",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.epidemiologia-nutricion",
+          "name": "Epidemiología en Nutrición",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.evaluacion-nutricional",
+          "name": "Evaluación Nutricional",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.tecnica-dietoterapica",
+          "name": "Técnica Dietoterápica",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.fisiopatologia-dietoterapia-nino",
+          "name": "Fisiopatología y Dietoterapia del Niño",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.nutricion-salud-publica",
+          "name": "Nutrición en Salud Pública",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.dietoterapia-adulto",
+          "name": "Dietoterapia del Adulto",
+          "role": "anual",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Quinto año · prácticas",
+      "title": "El terreno",
+      "note": "Correlativa: aprobadas todas las materias hasta 4° año inclusive.",
+      "exits": [
+        {
+          "address": "uba.med.nutricion.practicas-nutricion-salud-publica",
+          "name": "Prácticas de Nutrición en Salud Pública",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.practicas-dietoterapia-servicios",
+          "name": "Prácticas de Dietoterapia y Administración de Servicios de Alimentación",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.seminarios",
+          "name": "Seminarios",
+          "role": "cuatrimestral",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Quinto año · electivas",
+      "title": "Tres a elegir entre nueve",
+      "note": "Correlativa general: todo 3º año y aprobadas 3 materias anuales y 3 cuatrimestrales de 4º año. Interacción droga-alimentos exige además Dietoterapia del Adulto y Fisiopatología y Dietoterapia del Niño.",
+      "exits": [
+        {
+          "address": "uba.med.nutricion.politica-alimentaria",
+          "name": "Política Alimentaria",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.informatica",
+          "name": "Informática",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.comunicacion-audiovisuales",
+          "name": "Comunicación y Audiovisuales",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.extension-rural",
+          "name": "Extensión Rural",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.tecnica-dietetica-experimental",
+          "name": "Técnica Dietética Experimental",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.ingles-tecnico",
+          "name": "Inglés Técnico",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.interaccion-droga-alimentos",
+          "name": "Interacción droga-alimentos en enfermedades de la nutrición",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.nutricion-deporte",
+          "name": "Nutrición y Deporte",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.nutricion.nutricion-paciente-critico",
+          "name": "Nutrición en el Paciente Crítico",
+          "role": "cuatrimestral · electiva",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar/carreras/licenciatura-en-nutricion/plan-de-estudios",
+    "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-nutricion/plan-de-estudios"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "uba.med.podologia",
+  "level": "carrera",
+  "kind": "career",
+  "sealed": true,
+  "metadata": {
+    "tipo": "Ciclo de Complementación Curricular sobre la Tecnicatura Universitaria en Podología",
+    "ingreso": "título de Podólogo/a Universitario/a (UBA)",
+    "planPublicado": false,
+    "tecnicatura": "Res. CS 6122/09, mod. CS 3908/15 · 3 años · plan publicado (no es esta carrera)"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.med", "label": "Medicina" },
+    { "address": "uba.med.podologia", "label": "Podología" }
+  ],
+  "eyebrow": "Licenciatura en Podología · Facultad de Medicina",
+  "title": "Una licenciatura sin plan a la vista.",
+  "lede": "La Licenciatura en Podología es un ciclo de complementación curricular: se entra con el título de Podólogo/a Universitario/a. La Facultad publica el plan de la <b>Tecnicatura</b> (3 años, 28 materias), pero no el de la Licenciatura. Sin fuente oficial, este nodo se sella.",
+  "meta": [
+    { "k": "Tipo", "v": "CCC", "small": "complementación" },
+    { "k": "Ingreso", "v": "Podólogo/a", "small": "universitario/a" },
+    { "k": "Plan", "v": "—", "small": "no publicado" },
+    { "k": "Estado", "v": "sellado", "small": "sin fuente" }
+  ],
+  "frame": "Lo que existe en fuentes oficiales es el plan de la Tecnicatura Universitaria en Podología (fmed.uba.ar), que es otra carrera. El ciclo de licenciatura no tiene resolución ni listado de materias publicado en fmed.uba.ar, podologia.fmed.uba.ar ni uba.ar. Cuando aparezca, este nodo se abre.",
+  "groups": [],
+  "source": {
+    "label": "fmed.uba.ar · Licenciatura en Podología · plan de estudios (publica solo la Tecnicatura)",
+    "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios"
+  }
+}

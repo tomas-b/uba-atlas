@@ -1,0 +1,310 @@
+{
+  "address": "uba.med.kinesiologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Plan de Estudios vigente (PDF fmed.uba.ar, 2023)",
+    "titulo": "Licenciado/a en Kinesiología y Fisiatría",
+    "años": 5,
+    "materias": 30,
+    "correlativas": true,
+    "horasHospitalarias": "480 hs. anuales en cada clínica (4º y 5º año)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.kinesiologia",
+      "label": "Kinesiología y Fisiatría"
+    }
+  ],
+  "eyebrow": "Licenciatura en Kinesiología y Fisiatría · Facultad de Medicina",
+  "title": "Cinco años, del cuerpo a la sala de rehabilitación.",
+  "lede": "El plan oficial de la Facultad de Medicina: un primer año de ciencias básicas (Anatomía, Biofísica, Fisiología), dos años de técnicas kinésicas, fisioterapia y semiopatología, y dos clínicas hospitalarias de 480 horas — la fisiátrica médica y la kinefisiátrica quirúrgica — rodeadas de deporte, ortesis, estética, trabajo y ley. Cada materia es una puerta. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "PDF fmed"
+    },
+    {
+      "k": "Materias",
+      "v": "30",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 30"
+    }
+  ],
+  "frame": "Estructura sourceada del PDF oficial del plan (fmed.uba.ar, carrera Licenciatura en Kinesiología y Fisiatría): años, régimen (anual / cuatrimestral), carga horaria y correlatividades son reales. El PDF numera el CBC como primer año; acá los años van del 1º al 5º propios de la carrera. El PDF no consigna número de resolución. Los temas y la bibliografía de cada materia son la próxima resolución (L2), trazada por materia desde su programa de cátedra.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Primer año",
+      "title": "Las ciencias básicas y la puerta a la kinesiología",
+      "note": "Se cursan con el CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.med.kinesiologia.anatomia",
+          "name": "Anatomía",
+          "role": "anual · 180 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.biofisica",
+          "name": "Biofísica",
+          "role": "anual · 120 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.biologia-celular",
+          "name": "Biología Celular, Histología, Embriología y Genética",
+          "role": "anual · 180 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.fisiologia",
+          "name": "Fisiología",
+          "role": "anual · 180 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.modulo-introduccion",
+          "name": "Módulo de Introducción a la Kinesiología y Fisiatría",
+          "role": "cuatrimestral · 30 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.psicologia-medica",
+          "name": "Psicología Médica",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo año",
+      "title": "Biomecánica, técnicas y semiopatología",
+      "note": "Requieren Anatomía, Fisiología y el Módulo de Introducción aprobados (Biomecánica y Fisioterapia I suman Biofísica), con Biología Celular regular.",
+      "exits": [
+        {
+          "address": "uba.med.kinesiologia.biomecanica",
+          "name": "Biomecánica y Anatomía Funcional",
+          "role": "anual · 120 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.tecnicas-kinesicas-1",
+          "name": "Técnicas Kinésicas I",
+          "role": "anual · 180 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.semiopatologia-medica",
+          "name": "Semiopatología Médica",
+          "role": "anual · 180 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.evaluaciones-kinefisiatricas",
+          "name": "Evaluaciones Kinefisiátricas",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.fisioterapia-1",
+          "name": "Fisioterapia I",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tercer año",
+      "title": "El quirófano, la farmacología y la atención primaria",
+      "note": "Requieren todas las materias de primer año aprobadas. Semiopatología Quirúrgica y Técnicas Kinésicas II piden Biomecánica y Anatomía Funcional aprobada; Farmacología pide Química Biológica; Fisioterapia II pide Fisioterapia I y Semiopatología Médica.",
+      "exits": [
+        {
+          "address": "uba.med.kinesiologia.semiopatologia-quirurgica",
+          "name": "Semiopatología Quirúrgica",
+          "role": "anual · 180 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.tecnicas-kinesicas-2",
+          "name": "Técnicas Kinésicas II",
+          "role": "anual · 180 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.farmacologia",
+          "name": "Farmacología",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.fisioterapia-2",
+          "name": "Fisioterapia II y Climatoterapia",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.kinefilaxia",
+          "name": "Kinefilaxia",
+          "role": "cuatrimestral · 90 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.metodologia-investigacion",
+          "name": "Metodología de la Investigación Científica",
+          "role": "cuatrimestral · 30 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.modulo-atencion-primaria",
+          "name": "Módulo de Atención Primaria",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cuarto año",
+      "title": "La clínica fisiátrica médica",
+      "note": "Requieren todas las materias de segundo año aprobadas. La Clínica Fisiátrica Médica pide Técnicas Kinésicas II y Farmacología aprobadas; Ortesis y Prótesis y Kinesiología Deportiva piden Metodología de la Investigación Científica.",
+      "exits": [
+        {
+          "address": "uba.med.kinesiologia.clinica-fisiatrica-medica",
+          "name": "Clínica Fisiátrica Médica",
+          "role": "anual · 480 hs. hospitalarias",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.psicomotricidad",
+          "name": "Psicomotricidad y Neurodesarrollo",
+          "role": "anual · 120 hs.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.tecnicas-kinesicas-3",
+          "name": "Técnicas Kinésicas III",
+          "role": "anual · 180 hs.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.kinesiologia-deportiva",
+          "name": "Kinesiología Deportiva",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.ortesis-protesis",
+          "name": "Ortesis y Prótesis",
+          "role": "cuatrimestral · 60 hs.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Quinto año",
+      "title": "La clínica quirúrgica y las salidas profesionales",
+      "note": "Requieren todas las materias de tercer año aprobadas; la Clínica Fisiátrica Médica regular es correlativa de casi todas.",
+      "exits": [
+        {
+          "address": "uba.med.kinesiologia.clinica-kinefisiatrica-quirurgica",
+          "name": "Clínica Kinefisiátrica Quirúrgica",
+          "role": "anual · 480 hs. hospitalarias",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.bioinformatica",
+          "name": "Bioinformática y Rehabilitación Computacional",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.kinefisiatria-estetica",
+          "name": "Kinefisiatría Estética",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.kinesiologia-ocupacional-laboral",
+          "name": "Kinesiología Ocupacional y Laboral",
+          "role": "cuatrimestral · 75 hs.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.kinefisiatria-legal",
+          "name": "Kinefisiatría Legal y Deontología",
+          "role": "cuatrimestral · 60 hs.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.kinesiologia.organizacion-hospitalaria",
+          "name": "Organización Hospitalaria, Institucional y de Centros de Rehabilitación",
+          "role": "cuatrimestral · 60 hs.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Licenciatura en Kinesiología y Fisiatría · Plan de Estudios (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2023-03/PLAN%20DE%20ESTUDIOS.docx22.pdf"
+  }
+}
