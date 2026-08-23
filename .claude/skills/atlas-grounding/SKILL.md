@@ -1,9 +1,9 @@
 ---
-name: casa-grounding
-description: Expand and ground the CASA graph — source a real UBA career or materia into grounded nodes at the honest grounding level (L1 plan → L2 skeleton), fail-hard. Use when a queue job asks to index a career or generate a node, or when adding real UBA program structure under /p/learn/nodes.
+name: atlas-grounding
+description: Expand and ground the UBA Atlas graph — source a real UBA career or materia into grounded nodes at the honest grounding level (L1 plan → L2 skeleton), fail-hard. Use when a queue job asks to index a career or generate a node, or when adding real UBA program structure under /p/learn/nodes.
 ---
 
-# casa-grounding
+# atlas-grounding
 
 Turn a real UBA program into grounded graph nodes — honestly. Full methodology:
 `/p/learn/RESEARCHING-PROGRAMS.md`. Laws: `/p/learn/CONCEPT.md`. Tools: `/p/learn/extract/`.

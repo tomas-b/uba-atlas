@@ -1,6 +1,6 @@
 # --- private / local-only (never in the public repo) ---
 
-# Personal ML study notes — unrelated to CASA
+# Personal ML study notes — unrelated to UBA Atlas
 ml/
 
 # Claude Code local settings (machine-specific permissions)

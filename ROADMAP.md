@@ -1,4 +1,4 @@
-# ROADMAP — CASA
+# ROADMAP — UBA Atlas
 
 > Estado actual: piloto profundo (446 nodos por CBC, Derecho, Filosofía), ley fail-hard
 > validada con 11 agentes / cero fabricación sobreviviente. Todo lo de abajo es **futuro**,

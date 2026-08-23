@@ -1,4 +1,4 @@
-// Tiny local server for the CASA grounded navigator.
+// Tiny local server for the UBA Atlas grounded navigator.
 // Serves the shell + graph + node cache; accepts self-describing jobs into a
 // queue the idle watcher wakes on. See CLAUDE.md for the workflow.
 const http = require("http");
@@ -137,4 +137,4 @@ const server = http.createServer((req, res) => {
 });
 
 if (!fs.existsSync(QUEUE)) writeQueue([]);
-server.listen(PORT, () => console.log(`CASA on http://localhost:${PORT}  ·  graph at /graph`));
+server.listen(PORT, () => console.log(`UBA Atlas on http://localhost:${PORT}  ·  graph at /graph`));

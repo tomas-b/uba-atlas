@@ -1,4 +1,4 @@
-# CASA — grounded, navigable, generative graph over the real UBA
+# UBA Atlas — grounded, navigable, generative graph over the real UBA
 
 The main workflow. One addressable graph of the University of Buenos Aires —
 institution → faculty → career → materia → book — grounded 1:1 in real material,
@@ -33,7 +33,7 @@ can't index the un-sourced (that seals as `NOT INDEXED`).
 A queue element is a **job that describes its own research** — not just an address:
 `{ type, address, description, groundingTarget }`, where `description` says what to source
 and how (e.g. "find the plan of X" / "extract L2 for materia Y from its programa PDF"). So
-a job is self-contained work the `casa-grounding` skill can execute without extra context.
+a job is self-contained work the `atlas-grounding` skill can execute without extra context.
 
 - **index-career** — fan out subagents to index a career's whole subtree, one per program
   part. Flips `to index → to create`.
@@ -46,10 +46,10 @@ polling. A queued job → agent runs the grounding skill on its description → 
 
 ## The two skills
 
-- **`casa-grounding`** (`.claude/skills/casa-grounding/`) — **NOW.** Expand/ground the graph:
+- **`atlas-grounding`** (`.claude/skills/atlas-grounding/`) — **NOW.** Expand/ground the graph:
   source a UBA career/materia into real nodes, at the honest grounding level, fail-hard.
   Wraps `extract/` + the methodology in `RESEARCHING-PROGRAMS.md`.
-- **`casa-art-style`** (`.claude/skills/casa-art-style/`) — **LATER.** Generate a node's
+- **`atlas-art-style`** (`.claude/skills/atlas-art-style/`) — **LATER.** Generate a node's
   artistic render from its grounded books/DNA. Sibling of Synergy-Shock's
   `catalog-style-transfer`; multi-modal (photo / game texture / text-to-3D).
 

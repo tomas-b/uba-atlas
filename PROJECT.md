@@ -1,4 +1,4 @@
-# CASA — the whole thing, top to bottom
+# UBA Atlas — the whole thing, top to bottom
 ### a grounded, LLM-driven, navigable artifact-graph over the real UBA — as tool, as art, as place
 
 > Master scope. The grounding law lives in `CONCEPT.md`; this is the map of the
@@ -59,7 +59,7 @@ rim/contrast; composition: framing + `depth_of_field` + aspect; surfaces; mood] 
 bokeh-plate · palette+grain swatch · lighting-on-neutral; a Change/Keep final-prompt contract;
 already packaged as a Claude skill). **Mapping:** brand→materia, curated IG feed→the materia's real
 source books, per-brand envelope→per-materia DNA + shared house style. **One adaptation:** the
-catalog pipeline preserves a real product (image 0); CASA has no product — it generates the hero
+catalog pipeline preserves a real product (image 0); UBA Atlas has no product — it generates the hero
 *from the DNA/concept* (closer to the middle-asset generation than the final edit). Everything
 upstream transfers; only the terminal stage flips from edit-preserve to generate-from-DNA. So the
 art layer is a **sibling skill** of catalog-style-transfer, adapted.

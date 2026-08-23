@@ -1,95 +1,64 @@
-# CASA
+# 🧭 UBA Atlas
 
-**A map of the whole Universidad de Buenos Aires — every faculty, career, and
-course — where each point traces down to a real source, or it does not exist.**
+**Walk the entire Universidad de Buenos Aires — from the whole institution down
+to one course and its reading list.**
 
-**The goal: a static site that indexes the full university, with a grounded
-summary of every module. LLM agents write each node from real academic
-documents. A node with no source does not get born.**
+Every point on the map traces to a real document. If there is no document,
+there is no point.
 
-<!-- TODO: docs/graph.png — the graph surface; docs/node.gif — job → watcher → node -->
+<!-- TODO: docs/graph.png + docs/node.gif -->
 
 ## The idea
 
-Point at the real UBA and walk it. The whole institution in one screen. A
-career as structure. A course as what it is: its topics and its reading list,
-taken from the real programa PDF of the real cátedra. Every view is a **node**:
-addressable by URL and generated on demand by an agent.
+- 🏛️ **The whole real UBA as one graph** — 13 faculties, ~90 careers, ~3,000 courses
+- 📄 **Each course built from its real syllabus PDF** — topics + bibliography, source cited
+- 🚫 **No source → no node.** The map never guesses. A gap shows as a sealed node.
+- 🌐 **End goal: a static site** — one page per course, one summary you can trust
 
-The target is full coverage: 13 faculties, ~90 careers, ~3,000 modules. Each
-module gets a summary that a student can trust, with the source cited next to
-it. Where no source exists, the map says so. It shows a sealed node instead of
-a plausible guess.
+> "A confident render over missing source is a lie with good typography."
 
-> *"A node that is not backed by real material does not get born. Fail hard,
-> never soft. A confident render over missing source is a lie with good
-> typography — and it is the one failure that destroys trust in the whole
-> map."* — the first law, [CONCEPT.md](CONCEPT.md)
+## Does the no-guessing rule hold? Tested with 11 agents ✅
 
-## Numbers (the sourcing pilot)
+| | |
+|---|---|
+| careers probed end to end | **5** — Filosofía · Medicina · Informática · Abogacía · Paleontología |
+| agents | **11** — 1 researcher + 1 adversarial verifier per career |
+| fabrications that survived | **0** (in ~437k tokens) |
+| grounded nodes written | **446** |
+| syllabus PDFs → text (OCR included) | **52** |
 
-- **5 careers** probed end to end: Filosofía, Medicina, Ing. Informática, Abogacía, Paleontología
-- **11 agents**: one researcher plus one adversarial verifier per career, then synthesis
-- **0 fabrications** survived verification, across ~437k tokens
-- **446 grounded nodes** written so far, across 5 branches of the university
-- **52 programa PDFs** turned into text, OCR included, by the `extract/` pipeline
+Verdict: every gap was an honest gap. The bottleneck is *extraction* (scans,
+dead links, Drive PDFs) — not honesty, and not availability. Solvable tooling.
 
-The pilot's diagnosis: the limit is *extraction, not availability*. The plans
-are public everywhere (L1). The course programs exist, but each faculty
-publishes them differently — scans, Drive links, HTTP-only sites. That is a
-tooling problem, and [PLAN-SCRAPEO.md](PLAN-SCRAPEO.md) is the plan to solve
-it at full scale. Full findings: [PILOT-FINDINGS.md](PILOT-FINDINGS.md).
+## How it works
 
-## The plan to full coverage
+```
+syllabus PDF ──▶ extract (pdftotext / OCR) ──▶ agent writes the node ──▶ graph ──▶ static site
+```
 
-1. **Inventory.** One adapter per faculty finds the URL of every plan and every
-   programa PDF. The output is a manifest — the real coverage map of the
-   university, before any spend.
-2. **Download.** A batch runner pulls every PDF and extracts its text, with a
-   resumable ledger. Deterministic, zero tokens.
-3. **Summarize.** One agent per extracted program writes the module node: a
-   short summary, the topic list, and the bibliography — from the source text
-   only. A module with no extracted program stays sealed.
-4. **Publish.** A build step renders all nodes into a static site: one page per
-   module, the graph as the index, hosted on GitHub Pages. No server.
-
-Phases run per faculty, so the site fills in visibly: sealed frontier →
-grounded interior.
-
-## How it works today
-
-- **`serve.js`** — local server on `:4137`. It serves the graph and the node cache (`nodes/*.json`, addressed as `uba.cbc.biosalud.biologia-celular`).
-- **`queue.json`** — a queue of self-describing jobs, not clicks. Each job states what to source and how. Navigation is free. Only a deliberate *Index* or *Create* action queues work.
-- **`watch-queue.js`** — an idle watcher. It sleeps until the queue changes, then hands the jobs to the agent. No polling.
-- **`extract/`** — the stale-PDF → text pipeline: `pdftotext`, OCR fallback, Drive-link resolution. It rejects login pages instead of pretending. See [extract/README.md](extract/README.md).
-- **`.claude/skills/casa-grounding/`** — the grounding method packaged as an agent skill, so fail-hard is a contract, not a choice.
-
-A node renders only to the depth its source supports:
-
-| Level | Sourced | The node renders |
-|---|---|---|
-| **L0** | a name in an index | a sealed leaf |
-| **L1** | the plan de estudios | the career as structure |
-| **L2** | the programa PDF: semester, topics, book references | the course as what it is |
-| **L3** | the texts behind the references | the book as its own map |
+- 🕸️ **Graph** — every node addressable, like `uba.cbc.biosalud.biologia-celular`
+- 📬 **Job queue** — each job describes its own research ("extract L2 for X from its syllabus — never invent")
+- 😴 **Idle watcher** — sleeps until the queue changes, then wakes the agent. No polling.
+- 🖱️ **Clicking is free** — only a deliberate *Index* / *Create* action spends tokens
+- 🧰 **Zero dependencies** — two small Node scripts and a folder of JSON
 
 ## Run it
 
 ```bash
 node serve.js &          # graph on http://localhost:4137/graph
-node watch-queue.js &    # idle watcher — wakes the agent on a queued job
-node extract/fetch-extract.js "<pdf-url>" <name>   # stale PDF → text
+node watch-queue.js &    # wakes the agent when a job lands
 ```
 
-## Docs
+## Next
 
-- [CONCEPT.md](CONCEPT.md) — the laws, the node contract, the grounding ladder
-- [PROJECT.md](PROJECT.md) — the full scope: navigator, art layer, installation
-- [PILOT-FINDINGS.md](PILOT-FINDINGS.md) — the 11-agent pilot, measured
-- [PLAN-SCRAPEO.md](PLAN-SCRAPEO.md) — the path to full coverage and the static site
-- [ROADMAP.md](ROADMAP.md) — further out: per-module micro-videos, the art layer
+1. 🔎 **Inventory** — one scraper per faculty: find every plan + syllabus URL
+2. ⬇️ **Download** — batch-fetch and extract everything (deterministic, resumable)
+3. ✍️ **Summarize** — one agent per course, from the source text only
+4. 🚀 **Publish** — build the static site on GitHub Pages, faculty by faculty
 
-## License
+Further out: a ~1 min micro-video per course, and an art layer grounded in each
+course's real books.
 
-[MIT](LICENSE). The nodes summarize public UBA academic documents and cite
-their sources. Raw extracted PDF text stays out of the repo.
+---
+
+MIT · Deep docs in the repo: `CONCEPT.md` · `PROJECT.md` · `PILOT-FINDINGS.md` · `PLAN-SCRAPEO.md`

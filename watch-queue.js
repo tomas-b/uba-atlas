@@ -1,6 +1,6 @@
 // Idle until the queue changes, then prints the pending self-describing jobs and
 // exits — which re-invokes the agent (background-task completion). The agent runs
-// the casa-grounding skill on each job's description, writes nodes, marks them
+// the atlas-grounding skill on each job's description, writes nodes, marks them
 // done, and relaunches this watcher. No busy polling: fs.watchFile sleeps.
 const fs = require("fs");
 const path = require("path");
