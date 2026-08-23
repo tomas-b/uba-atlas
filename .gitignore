@@ -14,6 +14,10 @@ ml/
 # the grounded nodes in nodes/ carry the source URLs.
 extract/out/
 
+# Built static artifact (regenerable: node build-site.js). site/.vercel holds
+# the Vercel project link — do not delete the directory, only rebuild into it.
+site/
+
 # --- OS / tooling noise ---
 .DS_Store
 node_modules/

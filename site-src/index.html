@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UBA Atlas · navegador</title>
+<meta name="description" content="La Universidad de Buenos Aires como un grafo navegable — cada nodo trazado a su fuente real, o sellado.">
+<style>
+  :root {
+    --paper:#e1e0da; --surface:#ecebe5; --surface-2:#e7e6df;
+    --ink:#23262b; --ink-soft:#565b62; --ink-faint:#8a8e88; --hairline:#c6c6bd;
+    --steel:#2c4257; --steel-soft:#6a7f92; --accent:#bd7514; --accent-ink:#7a4c0c; --ready:#3f7d5a;
+    --font-display:ui-monospace,"SF Mono","JetBrains Mono","Cascadia Code",Menlo,Consolas,monospace;
+    --font-body:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,sans-serif;
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --paper:#15171a; --surface:#1d2024; --surface-2:#212429;
+    --ink:#e8e7e1; --ink-soft:#9ca19f; --ink-faint:#6d716e; --hairline:#34383d;
+    --steel:#7ba0c6; --steel-soft:#55708a; --accent:#db9636; --accent-ink:#e7ad57; --ready:#5fa982;
+    color-scheme:dark;
+  }}
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-body);line-height:1.55;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1000px;margin:0 auto;padding:28px 24px 80px;}
+  .crumb{font-family:var(--font-display);font-size:12px;margin-bottom:20px;color:var(--ink-faint);display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+  .crumb a{color:var(--steel);text-decoration:none;border-bottom:1px solid transparent;cursor:pointer;}
+  .crumb a:hover{border-bottom-color:var(--steel);}
+  .crumb .here{color:var(--ink);font-weight:600;}
+  .crumb .sep{color:var(--ink-faint);}
+  .titleblock{border:1.5px solid var(--ink);background:var(--surface);}
+  .titleblock.sealed{border-color:#c0453f;border-style:dashed;}
+  .sealed-strip{font-family:var(--font-display);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#c0453f;border:1px dashed #c0453f;border-radius:2px;padding:8px 14px;margin-bottom:14px;display:flex;align-items:center;gap:10px;}
+  .sealed-strip .lock{font-size:13px;}
+  .tb-main{padding:24px 26px 20px;border-bottom:1px solid var(--hairline);}
+  .tb-eyebrow{font-family:var(--font-display);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--accent-ink);margin:0 0 12px;}
+  h1{font-family:var(--font-display);font-weight:600;font-size:clamp(26px,4.5vw,40px);letter-spacing:-.01em;line-height:1.06;margin:0 0 13px;text-wrap:balance;}
+  .tb-lede{font-size:15px;color:var(--ink-soft);max-width:64ch;margin:0;}
+  .tb-lede b{color:var(--ink);font-weight:600;}
+  .tb-meta{display:grid;grid-template-columns:repeat(4,1fr);font-family:var(--font-display);}
+  .tb-cell{padding:12px 16px;border-right:1px solid var(--hairline);}
+  .tb-cell:last-child{border-right:0;}
+  .tb-cell .k{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);}
+  .tb-cell .v{font-size:19px;font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums;}
+  .tb-cell .v small{font-size:12px;font-weight:500;color:var(--ink-soft);}
+  @media(max-width:620px){.tb-meta{grid-template-columns:repeat(2,1fr);}.tb-cell:nth-child(2){border-right:0;}.tb-cell:nth-child(1),.tb-cell:nth-child(2){border-bottom:1px solid var(--hairline);}}
+  .scale{margin:22px 0 24px;display:flex;align-items:center;flex-wrap:wrap;font-family:var(--font-display);font-size:12px;}
+  .scale .lvl{display:inline-flex;align-items:center;gap:8px;padding:6px 4px;}
+  .scale .dot{width:8px;height:8px;border-radius:50%;background:var(--steel-soft);}
+  .scale .lvl.done .dot{background:var(--steel);}
+  .scale .lvl.here .dot{background:var(--accent);box-shadow:0 0 0 4px color-mix(in srgb,var(--accent) 22%,transparent);}
+  .scale .lvl.here .lbl{color:var(--ink);font-weight:600;}
+  .scale .lbl{color:var(--ink-soft);}
+  .scale .lvl.future .lbl{color:var(--ink-faint);}
+  .scale .arrow{color:var(--ink-faint);padding:0 10px;}
+  .frame{font-size:14.5px;color:var(--ink-soft);max-width:72ch;margin:0 0 24px;}
+  .frame b{color:var(--ink);}
+  .axis{margin-bottom:10px;background:var(--surface);border:1px solid var(--hairline);border-radius:2px;overflow:hidden;}
+  .axis.spine{border-left:3px solid var(--ready);}
+  .axis.problems{border-left:3px solid var(--steel);}
+  .axis.gate{border-left:3px solid var(--accent);}
+  .axis.plain{border-left:3px solid var(--hairline);}
+  .axis-head{padding:15px 20px;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;}
+  .axis-head .ax-k{font-family:var(--font-display);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-ink);}
+  .axis.problems .ax-k{color:var(--steel);} .axis.spine .ax-k{color:var(--ready);}
+  .axis-head h2{font-family:var(--font-display);font-size:16px;font-weight:600;margin:0;letter-spacing:-.01em;}
+  .axis-head .ax-note{font-size:13px;color:var(--ink-soft);flex-basis:100%;margin-top:2px;}
+  .rooms{border-top:1px solid var(--hairline);}
+  .rooms.headless{border-top:0;}
+  .room{display:grid;grid-template-columns:1fr auto auto;align-items:baseline;gap:14px;padding:11px 20px;border-bottom:1px solid var(--hairline);}
+  .room:last-child{border-bottom:0;}
+  .room .rn{font-size:14.5px;}
+  .room .rn .role{color:var(--ink-faint);font-size:12.5px;}
+  .room .rp{font-family:var(--font-display);font-size:11px;color:var(--steel-soft);text-transform:uppercase;letter-spacing:.06em;}
+  .door{font-family:var(--font-display);font-size:11px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;text-align:right;border:1px solid transparent;border-radius:2px;padding:4px 9px;background:transparent;cursor:pointer;}
+  .door.drawn{color:var(--ready);border-color:color-mix(in srgb,var(--ready) 45%,transparent);}
+  .door.drawn:hover{background:color-mix(in srgb,var(--ready) 14%,transparent);}
+  .door.undrawn{color:var(--ink-faint);border-color:var(--hairline);cursor:default;}
+  .door:focus-visible,.crumb a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  @media(max-width:560px){.room{grid-template-columns:1fr auto;}.room .rp{display:none;}}
+  .map{display:grid;grid-template-rows:0fr;transition:grid-template-rows .3s ease;}
+  .map.open{grid-template-rows:1fr;}
+  .map-inner{overflow:hidden;}
+  .map-card{margin:0 20px 16px;background:var(--surface-2);border:1px solid var(--hairline);border-left:3px solid var(--ready);border-radius:2px;padding:16px 18px;}
+  .map-card .mk{font-family:var(--font-display);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ready);margin:0 0 12px;}
+  .tree{font-family:var(--font-display);font-size:12.5px;line-height:1.85;color:var(--ink-soft);margin:0 0 10px;white-space:pre;overflow-x:auto;}
+  .map-foot{font-size:12.5px;color:var(--ink-soft);margin:0;}
+  .map-toggle{font-family:var(--font-display);font-size:11px;color:var(--ready);background:transparent;border:1px solid color-mix(in srgb,var(--ready) 45%,transparent);border-radius:2px;padding:4px 10px;cursor:pointer;margin:0 20px 15px;}
+  .map-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  .src{font-family:var(--font-display);font-size:11px;color:var(--ink-faint);margin-top:26px;padding-top:18px;border-top:1px solid var(--hairline);}
+  .src a{color:var(--steel);}
+  .mat{border:1px dashed var(--hairline);background:var(--surface);border-radius:2px;padding:34px 26px;text-align:center;}
+  .mat .m-k{font-family:var(--font-display);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent-ink);margin:0 0 12px;}
+  .mat .m-t{font-family:var(--font-display);font-size:18px;color:var(--ink);margin:0 0 8px;}
+  .mat .m-s{font-size:13.5px;color:var(--ink-soft);margin:0;max-width:52ch;margin-inline:auto;}
+  .mat .addr{font-family:var(--font-display);font-size:12px;color:var(--steel);}
+  .dk{width:8px;height:8px;border-radius:2px;display:inline-block;margin-right:7px;border:1px solid;vertical-align:baseline;}
+  .dk-course{background:#e2efe8;border-color:#3f7d5a;} .dk-unit{background:#dcecef;border-color:#2b7a86;}
+  .dk-book{background:#f2e3ea;border-color:#a34a72;} .dk-career{background:#e7e3f2;border-color:#4a3aa7;}
+  .dk-faculty{background:#dfe8f2;border-color:#2c4257;} .dk-cbc-area{background:#f7f0e4;border-color:#c98a2e;}
+</style>
+</head>
+<body>
+<div style="max-width:1000px;margin:0 auto;padding:14px 24px 0;display:flex;gap:16px;"><a id="graphlink" href="graph.html" style="font-family:var(--font-display);font-size:12px;color:var(--steel);text-decoration:none;">▚ ver en el grafo →</a><a href="https://github.com/tomas-b/uba-atlas" style="font-family:var(--font-display);font-size:12px;color:var(--ink-faint);text-decoration:none;margin-left:auto;">cómo se construye ↗</a></div>
+<div class="wrap" id="app"></div>
+<script>
+  // Static artifact: this page only reads nodes/*.json produced by the local
+  // agent machine. There is no queue and no generation here — an undrawn
+  // address renders as "sin trazar", honestly.
+  const app = document.getElementById("app");
+  let INDEX = new Set();
+
+  const esc = s => (s == null ? "" : String(s));
+  async function loadIndex() {
+    try { const r = await fetch("index.json"); const j = await r.json(); INDEX = new Set(j.addresses); } catch {}
+  }
+  const LEVELS = ["institución", "facultad", "carrera", "programa", "libros"];
+
+  function scaleHTML(level) {
+    const ci = LEVELS.indexOf(level);
+    return `<div class="scale">${LEVELS.map((l, i) => {
+      const cls = i < ci ? "done" : i === ci ? "here" : "future";
+      const lbl = l === "libros" ? "libros · 1:1" : l;
+      return `<span class="lvl ${cls}"><span class="dot"></span><span class="lbl">${lbl}</span></span>${i < LEVELS.length - 1 ? '<span class="arrow">→</span>' : ""}`;
+    }).join("")}</div>`;
+  }
+
+  function roomHTML(ex) {
+    const drawn = INDEX.has(ex.address);
+    const role = ex.role ? `<span class="role"> · ${esc(ex.role)}</span>` : "";
+    const shared = ex.shared ? `<span class="role"> · compartida ${esc(ex.shared)}</span>` : "";
+    const tag = ex.tag ? `<div class="rp">${esc(ex.tag)}</div>` : `<div class="rp"></div>`;
+    const sw = ex.kind ? `<span class="dk dk-${esc(ex.kind)}"></span>` : "";
+    const label = drawn ? "Entrar →" : "sin trazar";
+    return `<div class="room">
+      <div class="rn">${sw}${esc(ex.name)}${role}${shared}</div>
+      ${tag}
+      <button class="door ${drawn ? "drawn" : "undrawn"}" data-address="${esc(ex.address)}">${label}</button>
+    </div>`;
+  }
+
+  function groupHTML(g, gi) {
+    const head = (g.eyebrow || g.title || g.note)
+      ? `<div class="axis-head">
+          ${g.eyebrow ? `<span class="ax-k">${esc(g.eyebrow)}</span>` : ""}
+          ${g.title ? `<h2>${esc(g.title)}</h2>` : ""}
+          ${g.note ? `<p class="ax-note">${esc(g.note)}</p>` : ""}
+        </div>` : "";
+    const map = g.map ? `
+      <button class="map-toggle" data-map="${gi}">Ver el hilo →</button>
+      <div class="map" id="map-${gi}"><div class="map-inner"><div class="map-card">
+        <p class="mk">${esc(g.map.mk)}</p>
+        <pre class="tree">${esc(g.map.tree)}</pre>
+        <p class="map-foot">${esc(g.map.foot)}</p>
+      </div></div></div>` : "";
+    const rooms = (g.exits && g.exits.length)
+      ? `<div class="rooms ${head ? "" : "headless"}">${g.exits.map(roomHTML).join("")}</div>` : "";
+    return `<div class="axis ${esc(g.kind || "plain")}">${head}${map}${rooms}</div>`;
+  }
+
+  function render(node) {
+    const crumb = node.breadcrumb.map((b, i) => {
+      const last = i === node.breadcrumb.length - 1;
+      return (last ? `<span class="here">${esc(b.label)}</span>`
+                   : `<a data-address="${esc(b.address)}">${esc(b.label)}</a>`)
+        + (last ? "" : ' <span class="sep">›</span>');
+    }).join(" ");
+    const meta = (node.meta || []).map(m =>
+      `<div class="tb-cell"><div class="k">${esc(m.k)}</div><div class="v">${esc(m.v)}${m.small ? ` <small>${esc(m.small)}</small>` : ""}</div></div>`
+    ).join("");
+    const sealed = !!node.sealed;
+    app.innerHTML = `
+      <div class="crumb">${crumb}</div>
+      ${sealed ? `<div class="sealed-strip"><span class="lock">▚</span> NOT INDEXED — no existe como nodo de la estructura UBA</div>` : ""}
+      <div class="titleblock${sealed ? " sealed" : ""}">
+        <div class="tb-main">
+          <p class="tb-eyebrow">${esc(node.eyebrow)}</p>
+          <h1>${esc(node.title)}</h1>
+          <p class="tb-lede">${esc(node.lede)}</p>
+        </div>
+        <div class="tb-meta">${meta}</div>
+      </div>
+      ${scaleHTML(node.level)}
+      ${node.frame ? `<p class="frame">${esc(node.frame)}</p>` : ""}
+      ${(node.groups || []).map(groupHTML).join("")}
+      <p class="src">Ground truth · <a href="${esc(node.source && node.source.url)}" target="_blank" rel="noopener">${esc(node.source && node.source.label)}</a> · un nodo del árbol direccionable — arriba el plano, abajo los programas y los libros (el 1:1).</p>
+    `;
+    document.title = "UBA Atlas · " + node.breadcrumb[node.breadcrumb.length - 1].label;
+    const gl = document.getElementById("graphlink"); if (gl) gl.href = "graph.html#" + node.address;
+  }
+
+  function crumbFromAddress(address) {
+    const segs = address.split(".");
+    return segs.map((s, i) => {
+      const a = segs.slice(0, i + 1).join(".");
+      const last = i === segs.length - 1;
+      return (last ? `<span class="here">${esc(s)}</span>` : `<a data-address="${esc(a)}">${esc(s)}</a>`)
+        + (last ? "" : ' <span class="sep">›</span>');
+    }).join(" ");
+  }
+
+  // An undrawn address is an honest gap. The machine that draws nodes (queue +
+  // watcher + agent) runs locally, in the repo — not on this site.
+  function sinTrazar(address) {
+    app.innerHTML = `
+      <div class="crumb">${crumbFromAddress(address)}</div>
+      <div class="mat">
+        <p class="m-k">sin trazar</p>
+        <p class="m-t"><span class="addr">${esc(address)}</span></p>
+        <p class="m-s">Este nodo todavía no fue trazado a una fuente real. La máquina que lo genera corre local, en el repo — este sitio es solo el artefacto: nada se dibuja acá.</p>
+      </div>`;
+    document.title = "sin trazar · " + address;
+  }
+
+  async function loadNode(address) {
+    if (!INDEX.size) await loadIndex();
+    const r = await fetch("nodes/" + address + ".json");
+    if (r.ok) { render(await r.json()); return; }
+    sinTrazar(address);
+  }
+
+  document.addEventListener("click", (e) => {
+    const nav = e.target.closest("[data-address]");
+    if (nav) { const a = nav.dataset.address; if (location.hash === "#" + a) loadNode(a); else location.hash = "#" + a; return; }
+    const mt = e.target.closest("[data-map]");
+    if (mt) { const m = document.getElementById("map-" + mt.dataset.map); const o = m.classList.toggle("open"); mt.textContent = o ? "Cerrar hilo ×" : "Ver el hilo →"; }
+  });
+
+  function currentAddress() { return (location.hash || "#uba").slice(1); }
+  window.addEventListener("hashchange", () => loadNode(currentAddress()));
+  loadNode(currentAddress());
+</script>
+</body>
+</html>

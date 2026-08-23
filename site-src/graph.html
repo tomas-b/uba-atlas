@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UBA Atlas · grafo de grounding</title>
+<meta name="description" content="El grafo de grounding de la UBA: interior trazado vs frontera sin trazar, nodo por nodo.">
+<style>
+  :root {
+    --paper:#e1e0da; --surface:#ecebe5; --ink:#23262b; --ink-soft:#565b62; --ink-faint:#8a8e88;
+    --hairline:#c6c6bd; --steel:#2c4257; --accent:#bd7514; --accent-ink:#7a4c0c; --ready:#3f7d5a;
+    --font-display:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+    --font-body:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root{--paper:#15171a;--surface:#1d2024;--ink:#e8e7e1;--ink-soft:#9ca19f;--ink-faint:#6d716e;--hairline:#34383d;--steel:#7ba0c6;--accent:#db9636;--accent-ink:#e7ad57;--ready:#5fa982;}}
+  * { box-sizing:border-box; }
+  html,body { height:100%; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:var(--font-body); display:flex; flex-direction:column; }
+  header { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; padding:9px 16px; border-bottom:1px solid var(--hairline); }
+  header .brand { font-family:var(--font-display); font-weight:650; font-size:14px; }
+  header a { font-family:var(--font-display); font-size:12px; color:var(--steel); text-decoration:none; }
+  header a:hover { text-decoration:underline; }
+  header .title { font-family:var(--font-display); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); }
+  .legend { display:flex; gap:11px; flex-wrap:wrap; margin-left:auto; font-family:var(--font-display); font-size:10px; color:var(--ink-soft); }
+  .legend .k { display:inline-flex; align-items:center; gap:5px; }
+  .legend .sw { width:12px; height:9px; border-radius:2px; display:inline-block; border:1px solid; }
+  .sw.cbc{background:#f4ead9;border-color:#bd7514;} .sw.faculty{background:#dfe8f2;border-color:#2c4257;}
+  .sw.career{background:#e7e3f2;border-color:#4a3aa7;} .sw.course{background:#e2efe8;border-color:#3f7d5a;}
+  .sw.unit{background:#dcecef;border-color:#2b7a86;} .sw.book{background:#f2e3ea;border-color:#a34a72;}
+  .sw.sealed{background:#f6e4e2;border-color:#c0453f;border-style:dashed;}
+  .crumbbar { display:flex; align-items:center; gap:7px; flex-wrap:wrap; padding:7px 16px; border-bottom:1px solid var(--hairline); font-family:var(--font-display); font-size:12px; }
+  .crumbbar a { color:var(--steel); text-decoration:none; cursor:pointer; }
+  .crumbbar a:hover { text-decoration:underline; }
+  .crumbbar .here { color:var(--ink); font-weight:600; }
+  .crumbbar .sep { color:var(--ink-faint); }
+  .bar { display:flex; align-items:center; gap:12px; padding:6px 16px; border-bottom:1px solid var(--hairline); font-family:var(--font-display); font-size:11px; color:var(--ink-soft); min-height:34px; flex-wrap:wrap; }
+  .bar b { color:var(--ink); }
+  .ctrl { display:inline-flex; gap:4px; }
+  .ctrl button { font:inherit; font-size:11px; color:var(--ink-soft); background:var(--surface); border:1px solid var(--hairline); border-radius:2px; padding:1px 8px; cursor:pointer; }
+  .ctrl button:hover { color:var(--ink); }
+  .action { display:inline-flex; align-items:center; gap:8px; margin-left:auto; }
+  .action .sel { color:var(--ink); font-weight:600; }
+  .action .st { padding:1px 7px; border-radius:2px; border:1px solid var(--hairline); }
+  .action button { font:inherit; border-radius:2px; padding:2px 9px; cursor:pointer; background:transparent; }
+  .action .foc { color:var(--steel); border:1px solid var(--steel); }
+  .action .nav { color:var(--ready); border:1px solid var(--ready); }
+  #wrap { flex:1; overflow:auto; padding:12px; }
+  #graph { transform-origin:top left; }
+  #graph svg { max-width:none !important; height:auto; }
+  #graph .node { cursor:pointer; }
+</style>
+</head>
+<body>
+  <header>
+    <span class="brand">UBA Atlas</span>
+    <span class="title">grafo de grounding</span>
+    <a href="index.html">navegador</a>
+    <div class="legend">
+      <span class="k"><span class="sw cbc"></span>CBC</span>
+      <span class="k"><span class="sw faculty"></span>facultad</span>
+      <span class="k"><span class="sw career"></span>carrera</span>
+      <span class="k"><span class="sw course"></span>materia</span>
+      <span class="k"><span class="sw unit"></span>unidad</span>
+      <span class="k"><span class="sw book"></span>libro</span>
+      <span class="k"><span class="sw sealed"></span>sellado</span>
+    </div>
+  </header>
+  <div class="crumbbar" id="crumb"></div>
+  <div class="bar">
+    <span id="stats">cargando…</span>
+    <span class="ctrl">prof <button id="dless">−</button><span id="depthv">2</span><button id="dmore">+</button></span>
+    <span class="ctrl">zoom <button id="zout">−</button><button id="zfit">fit</button><button id="zin">+</button></span>
+    <span class="action" id="actionbar"></span>
+  </div>
+  <div id="wrap"><div id="graph"></div></div>
+
+  <script type="module">
+    // Static artifact: the graph is built client-side from graph-data.json,
+    // precomputed at build time from nodes/*.json. There is no queue here —
+    // "sin trazar" nodes are honest frontier, drawn dashed.
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+    const graphEl=document.getElementById("graph"), crumbEl=document.getElementById("crumb"),
+      statsEl=document.getElementById("stats"), actionBar=document.getElementById("actionbar"),
+      depthvEl=document.getElementById("depthv");
+    let root=(location.hash&&location.hash.length>1)?decodeURIComponent(location.hash.slice(1)):"uba", depth=2, scale=1, rid=0, META={};
+    const dark=matchMedia("(prefers-color-scheme: dark)").matches, lineColor=dark?"#ffffff":"#9a9d97";
+    mermaid.initialize({ startOnLoad:false, securityLevel:"loose", theme:"base", fontFamily:"ui-monospace, monospace",
+      flowchart:{ nodeSpacing:20, rankSpacing:36, padding:3, useMaxWidth:false }, themeVariables:{ fontSize:"10px", lineColor, defaultLinkColor:lineColor } });
+    const applyScale=()=>{ graphEl.style.transform=`scale(${scale})`; };
+    const setRoot=(a)=>{ root=a; actionBar.innerHTML=""; render(); };
+
+    const KIND_STYLE = {
+      institution: ["#e6e3da", "#6f6d67"], cbc: ["#f4ead9", "#bd7514"], cbcarea: ["#f7f0e4", "#c98a2e"],
+      faculty: ["#dfe8f2", "#2c4257"], career: ["#e7e3f2", "#4a3aa7"], course: ["#e2efe8", "#3f7d5a"],
+      unit: ["#dcecef", "#2b7a86"], book: ["#f2e3ea", "#a34a72"],
+    };
+    const clean = (s) => String(s || "").replace(/["\[\]|(){}]/g, "").replace(/\s+/g, " ").trim().slice(0, 40);
+    const id = (a) => "n_" + a.replace(/[^a-z0-9]/gi, "_");
+    const labelOf = (a) => (META[a] && META[a].l) || a.split(".").pop();
+
+    // client-side port of serve.js buildMermaid, over precomputed META
+    function buildMermaid(root, maxDepth) {
+      const all = Object.keys(META);
+      const rSeg = root.split(".").length;
+      const inScope = (a) => a === root || (a.startsWith(root + ".") && a.split(".").length - rSeg <= maxDepth);
+      const scoped = all.filter(inScope);
+      const scopedSet = new Set(scoped);
+      const hasChildren = (a) => all.some((x) => x.startsWith(a + ".") && x.split(".").length === a.split(".").length + 1);
+
+      const lines = ["flowchart LR"];
+      for (const a of scoped) {
+        const m = META[a];
+        const suf = m.g && !m.s ? ` · ${m.g}` : "";
+        const more = a !== root && a.split(".").length - rSeg >= maxDepth && hasChildren(a) ? " +" : "";
+        lines.push(`  ${id(a)}["${clean(m.l) + suf + more}"]`);
+      }
+      const edges = new Set();
+      for (const a of scoped) { const parent = a.split(".").slice(0, -1).join("."); if (parent && scopedSet.has(parent)) edges.add(`  ${id(parent)} --> ${id(a)}`); }
+      lines.push(...edges);
+      for (const a of scoped) lines.push(`  click ${id(a)} call nodeClick("${a}")`);
+      const cls = (a) => { const m = META[a]; if (m.s) return "sealed"; return m.d ? m.k : m.k + "_f"; };
+      const byClass = {};
+      for (const a of scoped) (byClass[cls(a)] ??= []).push(id(a));
+      for (const [k, ids] of Object.entries(byClass)) lines.push(`  class ${ids.join(",")} ${k};`);
+      for (const [k, [fill, stroke]] of Object.entries(KIND_STYLE)) {
+        lines.push(`  classDef ${k} fill:${fill},stroke:${stroke},color:#23262b;`);
+        lines.push(`  classDef ${k}_f fill:${fill},stroke:${stroke},color:#5a5f66,stroke-dasharray:5 4;`);
+      }
+      lines.push("  classDef sealed fill:#f6e4e2,stroke:#c0453f,color:#7a2a26,stroke-dasharray:4 3;");
+
+      const crumb = [];
+      { const segs = root.split("."); for (let i = 0; i < segs.length; i++) { const a = segs.slice(0, i + 1).join("."); crumb.push({ address: a, label: labelOf(a) }); } }
+      const counts = {
+        total: all.length, shown: scoped.length,
+        created: scoped.filter((a) => META[a].d && !META[a].s).length,
+        frontier: scoped.filter((a) => !META[a].d).length,
+        sealed: scoped.filter((a) => META[a].s).length,
+      };
+      return { mermaid: lines.join("\n"), crumb, counts };
+    }
+
+    window.nodeClick = (addr)=>{
+      const m=META[addr]||{};
+      const state=m.s?"sellado":(m.d?"creado":"sin trazar");
+      const hasChild=Object.keys(META).some(g=>g.startsWith(addr+".")&&META[g].d);
+      let html=`<span class="sel">${addr.split(".").pop()}</span> <span class="st">${state}</span>`;
+      if(hasChild) html+=` <button class="foc" data-focus="${addr}">enfocar ⤢</button>`;
+      html+=` <button class="nav" data-open="${addr}">abrir ↗</button>`;
+      actionBar.innerHTML=html;
+    };
+
+    document.addEventListener("click", (e)=>{
+      const cr=e.target.closest("[data-root]"); if(cr){ setRoot(cr.dataset.root); return; }
+      const fo=e.target.closest("[data-focus]"); if(fo){ setRoot(fo.dataset.focus); return; }
+      const op=e.target.closest("[data-open]"); if(op){ window.open("index.html#"+op.dataset.open,"_blank"); return; }
+    });
+
+    async function render(){
+      if(!Object.keys(META).length){ META=(await (await fetch("graph-data.json")).json()).meta; }
+      const d=buildMermaid(root, depth);
+      crumbEl.innerHTML=d.crumb.map((c,i)=> i<d.crumb.length-1
+        ? `<a data-root="${c.address}">${c.label}</a><span class="sep">›</span>`
+        : `<span class="here">${c.label}</span>`).join(" ");
+      statsEl.innerHTML=`<b>${d.counts.shown}</b> en vista · ${d.counts.created} creados · ${d.counts.frontier} sin trazar · ${d.counts.sealed} sellados · <span style="color:var(--ink-faint)">${d.counts.total} totales</span>`;
+      const { svg, bindFunctions }=await mermaid.render("g"+(rid++), d.mermaid);
+      graphEl.innerHTML=svg; bindFunctions?.(graphEl); applyScale();
+    }
+
+    document.getElementById("zin").onclick=()=>{scale=Math.min(scale*1.2,3);applyScale();};
+    document.getElementById("zout").onclick=()=>{scale=Math.max(scale/1.2,0.3);applyScale();};
+    document.getElementById("zfit").onclick=()=>{scale=1;applyScale();};
+    document.getElementById("dmore").onclick=()=>{depth=Math.min(depth+1,5);depthvEl.textContent=depth;render();};
+    document.getElementById("dless").onclick=()=>{depth=Math.max(depth-1,1);depthvEl.textContent=depth;render();};
+    render();
+  </script>
+</body>
+</html>
