@@ -1,0 +1,288 @@
+{
+  "address": "uba.fadu.textil",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2016,
+    "resolucion": "Res. (CS) 6183/16 · mod. Res. (CS) 8304/17",
+    "años": 5,
+    "cuatrimestres": 10,
+    "ciclos": ["CBC-FADU", "Ciclo de Formación Intermedio", "Ciclo de Formación Profesional"],
+    "cargaHorariaTotal": 2697,
+    "materias": 28,
+    "optativas": 2,
+    "correlativas": "publicadas como cuadro en el plan (Res. CS 6183/16)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.textil",
+      "label": "Diseño Textil"
+    }
+  ],
+  "eyebrow": "Diseño Textil · Plan 2016",
+  "title": "Cinco años, de la fibra a la superficie.",
+  "lede": "El plan real (2016, Res. CS 6183/16) de Diseño Textil en FADU: cuatro años propios después del CBC, con el Proyecto Textil como columna anual, técnicas de producción que avanzan de la industria nacional al textil, y una historia que se abre desde la indumentaria hacia el textil. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2016",
+      "small": "Res. CS 6183/16"
+    },
+    {
+      "k": "Materias",
+      "v": "28",
+      "small": "propias · + 2 optativas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 28"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (fadu.uba.ar/diseno-textil + Código UBA, Libro III, Título 6, Plan 2016). Nivel L1: los nombres, años y cuatrimestres son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las dos optativas del 5º año son casilleros sin nombre en el plan y no se trazan como puertas. Carga total: 2697 horas reloj en 10 cuatrimestres.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · CFI · 525 hs",
+      "title": "Medios, geometría y primer proyecto",
+      "exits": [
+        {
+          "address": "uba.fadu.textil.medios-expresivos-1",
+          "name": "Medios Expresivos I",
+          "role": "anual",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.fundamentos-geometricos-del-textil",
+          "name": "Fundamentos Geométricos del Textil",
+          "role": "1º y 2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.introduccion-al-proyecto",
+          "name": "Introducción al Proyecto",
+          "role": "1º y 2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.historia-diseno-indumentaria-textil-1",
+          "name": "Historia del Diseño de Indumentaria y Textil I",
+          "role": "1º y 2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.analisis-diseno-indumentaria-textil-1",
+          "name": "Análisis del Diseño de Indumentaria y Textil I",
+          "role": "1º y 2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-industria-nacional-1",
+          "name": "Técnicas de Producción e Industria Nacional I",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-industria-nacional-2",
+          "name": "Técnicas de Producción e Industria Nacional II",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · CFI · 600 hs",
+      "title": "Proyecto textil, teñido y estampado",
+      "exits": [
+        {
+          "address": "uba.fadu.textil.proyecto-textil-1",
+          "name": "Proyecto Textil I",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.procesos-tenido-estampado-terminacion",
+          "name": "Procesos de Teñido, Estampado y Terminación",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.medios-expresivos-2",
+          "name": "Medios Expresivos II",
+          "role": "anual",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.historia-diseno-indumentaria-textil-2",
+          "name": "Historia del Diseño de Indumentaria y Textil II",
+          "role": "1º y 2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.analisis-diseno-indumentaria-textil-2",
+          "name": "Análisis del Diseño de Indumentaria y Textil II",
+          "role": "1º y 2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-textil-1",
+          "name": "Técnicas de Producción Textil I",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-textil-2",
+          "name": "Técnicas de Producción Textil II",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · CFP · 495 hs",
+      "title": "Mercado, crítica e historia del textil",
+      "exits": [
+        {
+          "address": "uba.fadu.textil.historia-del-textil",
+          "name": "Historia del Textil",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.proyecto-textil-2",
+          "name": "Proyecto Textil II",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.proyecto-textil-3",
+          "name": "Proyecto Textil III",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.comunicacion-y-critica",
+          "name": "Comunicación y Crítica",
+          "role": "1º y 2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.sociologia",
+          "name": "Sociología",
+          "role": "1º y 2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.comercializacion-y-mercado-1",
+          "name": "Comercialización y Mercado I",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-textil-3",
+          "name": "Técnicas de Producción Textil III",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.comercializacion-y-mercado-2",
+          "name": "Comercialización y Mercado II",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.tecnicas-produccion-textil-4",
+          "name": "Técnicas de Producción Textil IV",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · CFP · 405 hs",
+      "title": "Accesorios, ética y trabajo final",
+      "note": "Dos optativas (60 hs cada una) completan el año; el plan no las nombra.",
+      "exits": [
+        {
+          "address": "uba.fadu.textil.proyecto-textil-4",
+          "name": "Proyecto Textil IV",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.proyecto-de-accesorios-1",
+          "name": "Proyecto de Accesorios I",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.etica-profesional",
+          "name": "Ética Profesional",
+          "role": "1º y 2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.trabajo-final-de-carrera",
+          "name": "Trabajo Final de Carrera",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.textil.practica-profesional-asistida",
+          "name": "Práctica Profesional Asistida",
+          "role": "60 hs",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/diseno-textil · Código UBA Libro III Tít. 6 Plan 2016 (Res. CS 6183/16)",
+    "url": "https://www.fadu.uba.ar/diseno-textil/"
+  }
+}

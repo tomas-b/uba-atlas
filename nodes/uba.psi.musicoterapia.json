@@ -1,0 +1,390 @@
+{
+  "address": "uba.psi.musicoterapia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2017",
+    "años": 5,
+    "cuatrimestres": 10,
+    "materias": 38,
+    "cargaHorariaTotal": 3228,
+    "tesis": true,
+    "ingreso": "CBC (6 materias, Res. C.S. Nº 3633) + Examen de Acreditación de Conocimientos Musicales (Cód. 305) o Curso de Formación Musical (Cód. 329)",
+    "sede": "Sede Avellaneda (Güemes 1970)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.psi",
+      "label": "Psicología"
+    },
+    {
+      "address": "uba.psi.musicoterapia",
+      "label": "Musicoterapia"
+    }
+  ],
+  "eyebrow": "Licenciatura en Musicoterapia · Plan 2017",
+  "title": "Cinco años, del instrumento a la práctica clínica.",
+  "lede": "El plan real (2017) de la Facultad de Psicología: diez cuatrimestres que van de Musicoterapia I y los talleres de instrumento a las prácticas profesionales en tres áreas y una tesis. Cada materia es una puerta — clic para trazar su programa. El CBC y el examen de acreditación musical viven aparte, como requisito de ingreso.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2017"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del documento oficial 'Estructura, Materias y Carga Horaria' y del cuadro 'Plan de Estudios 2017' publicados en psi.uba.ar/musicoterapia. Nivel L1: los nombres, años, cuatrimestres y cargas horarias son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El primer año es el CBC (seis materias) y no se lista acá. La carrera suma 3228 horas, tesis incluida.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 1º cuatrimestre",
+      "title": "Entrar a la musicoterapia y al cuerpo",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.musicoterapia-1",
+          "name": "Musicoterapia I",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.psicologia-ciclo-vital-1",
+          "name": "Psicología del Ciclo Vital I",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.sociedad-e-instituciones",
+          "name": "Sociedad e Instituciones",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.neurofisiopatologia",
+          "name": "Neurofisiopatología",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.taller-aerofonos",
+          "name": "Taller de Instrumentos Aerófonos",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.tecnicas-corporales",
+          "name": "Técnicas Corporales",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 2º cuatrimestre",
+      "title": "Grupos, voz y guitarra",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.psicologia-ciclo-vital-2",
+          "name": "Psicología del Ciclo Vital II",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.teoria-tecnica-grupos",
+          "name": "Teoría y Técnica de Grupos",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.neuropsicopatologia",
+          "name": "Neuropsicopatología",
+          "role": "2º cuat. · 90 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.taller-guitarra",
+          "name": "Taller de Guitarra",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.tecnica-vocal-1",
+          "name": "Técnica Vocal I",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 1º cuatrimestre",
+      "title": "Escuchar aplicado",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.musicoterapia-2",
+          "name": "Musicoterapia II",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.audioperceptiva-1",
+          "name": "Audioperceptiva Aplicada I",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.taller-percusion",
+          "name": "Taller de Instrumentos de Percusión",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.tecnica-vocal-2",
+          "name": "Técnica Vocal II",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.idioma-1",
+          "name": "Requisito Idioma (Inglés o Francés) · Módulo I",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 2º cuatrimestre",
+      "title": "Escuelas y ámbito educativo",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.ambito-educativo",
+          "name": "Musicoterapia en el Ámbito Educativo",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.escuelas-psicologicas",
+          "name": "Escuelas Psicológicas Contemporáneas",
+          "role": "2º cuat. · 90 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.audioperceptiva-2",
+          "name": "Audioperceptiva Aplicada II",
+          "role": "2º cuat. · 90 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.idioma-2",
+          "name": "Requisito Idioma (Inglés o Francés) · Módulo II",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 1º cuatrimestre",
+      "title": "Clínica, investigación y cultura",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.comunicacion-discapacidad",
+          "name": "Musicoterapia, Comunicación y Discapacidad",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.psicopatologia",
+          "name": "Psicopatología",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.estadistica-metodologia",
+          "name": "Estadística y Metodología de la Investigación",
+          "role": "1º cuat. · 90 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.antropologia-musica",
+          "name": "Antropología de la Música",
+          "role": "1º cuat. · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 2º cuatrimestre",
+      "title": "Salud mental e improvisación",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.musicoterapia-3",
+          "name": "Musicoterapia III",
+          "role": "2º cuat. · 90 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.salud-mental",
+          "name": "Musicoterapia en Salud Mental",
+          "role": "2º cuat. · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.grupo-improvisacion",
+          "name": "Grupo de Improvisación en Musicoterapia",
+          "role": "2º cuat. · 90 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 1º cuatrimestre · Seminarios",
+      "title": "Cuatro seminarios de 20 horas",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.ambito-hospitalario",
+          "name": "Musicoterapia en el Ámbito Hospitalario",
+          "role": "seminario · 20 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.tecnologia-informatica",
+          "name": "Tecnología e Informática Aplicada a Musicoterapia",
+          "role": "seminario · 20 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.gestion-equipo-interdisciplinario",
+          "name": "Gestión y Organización del Equipo Interdisciplinario de Salud",
+          "role": "seminario · 20 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.taller-etica-ddhh",
+          "name": "Taller: Ética Profesional y Derechos Humanos",
+          "role": "seminario · 20 h",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 2º cuatrimestre · Prácticas Profesionales",
+      "title": "Seis prácticas, dos por área, con todas las materias aprobadas",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.practica-clinica-1",
+          "name": "Práctica Profesional · Módulo I: Área Clínica",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.practica-clinica-2",
+          "name": "Práctica Profesional · Módulo II: Área Clínica",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.practica-educacional-1",
+          "name": "Práctica Profesional · Módulo I: Área Educacional",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.practica-educacional-2",
+          "name": "Práctica Profesional · Módulo II: Área Educacional",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.practica-emergente-1",
+          "name": "Práctica Profesional · Módulo I: Área Emergente",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.musicoterapia.practica-emergente-2",
+          "name": "Práctica Profesional · Módulo II: Área Emergente",
+          "role": "práctica · 90 h",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Tesis, con todas las materias aprobadas",
+      "exits": [
+        {
+          "address": "uba.psi.musicoterapia.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "180 h · al final",
+          "tag": "tesis",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "psi.uba.ar/musicoterapia · Estructura, Materias y Carga Horaria (PDF) + Plan de Estudios 2017 (cuadro)",
+    "url": "https://www.psi.uba.ar/musicoterapia/estructura_materias_cargahoraria.pdf"
+  }
+}

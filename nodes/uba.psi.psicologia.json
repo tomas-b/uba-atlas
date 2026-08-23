@@ -1,0 +1,129 @@
+{
+  "address": "uba.psi.psicologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1985",
+    "ciclos": ["Ciclo de Formación General", "Ciclo de Formación Profesional"],
+    "materiasObligatorias": 23,
+    "electivasRequeridas": "5 (2 del CFG + 3 del CFP)",
+    "electivasNombradas": 40,
+    "requisitos": ["Idioma (Inglés o Francés) Módulo I y II — Res. CD 17/99", "Tesis de Licenciatura — Res. CS 6768/13 (ingresantes CBC desde 2011)"],
+    "correlativas": "flechas de color en el plan oficial; correlativas inmediatas por electiva en la oferta"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.psi", "label": "Psicología" },
+    { "address": "uba.psi.psicologia", "label": "Licenciatura en Psicología" }
+  ],
+  "eyebrow": "Licenciatura en Psicología · Plan 1985",
+  "title": "Dos ciclos: primero las teorías y los métodos, después los campos.",
+  "lede": "El plan vigente (1985) de la Facultad de Psicología: un Ciclo de Formación General de quince materias — procesos básicos, historia, psicoanálisis, desarrollo, psicopatología y diagnóstico — y un Ciclo de Formación Profesional de siete materias de campo más una práctica profesional y de investigación. Se completan con cinco electivas elegidas de una oferta con nombre propio. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    { "k": "Plan", "v": "1985" },
+    { "k": "Materias", "v": "23", "small": "obligatorias + 5 electivas" },
+    { "k": "Grounding", "v": "L1", "small": "plan" },
+    { "k": "Trazadas", "v": "0", "small": "/ 23" }
+  ],
+  "frame": "Estructura sourceada de la página oficial de la carrera (psi.uba.ar → Licenciatura en Psicología: cuadro 'Plan de Estudios 1985' y la oferta de materias por ciclo con códigos de cátedra). Nivel L1: los nombres y los ciclos son reales; el plan no ordena por año ni cuatrimestre sino por correlatividades. Se cursan 5 electivas (2 del CFG y 3 del CFP, con la opción de una segunda Práctica Profesional y de Investigación dentro de las 3). Requisito de Idioma (Inglés o Francés, Módulo I y II; Res. CD 17/99) y Tesis de Licenciatura (Res. CS 6768/13) son requisitos, no materias. Psicoanálisis: Freud y Psicopatología son anuales. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 15 obligatorias",
+      "title": "Teorías, áreas y métodos",
+      "note": "Se agregan 2 electivas del ciclo y el Requisito de Idioma.",
+      "exits": [
+        { "address": "uba.psi.psicologia.procesos-psicologicos-basicos", "name": "Procesos Psicológicos Básicos", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-del-aprendizaje", "name": "Psicología del Aprendizaje", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.estadistica", "name": "Estadística", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-social", "name": "Psicología Social", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicoanalisis-freud", "name": "Psicoanálisis: Freud", "role": "anual · cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.neurofisiologia", "name": "Neurofisiología", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.historia-de-la-psicologia", "name": "Historia de la Psicología", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.metodologia-de-la-investigacion", "name": "Metodología de la Investigación", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.salud-publica-y-salud-mental", "name": "Salud Pública y Salud Mental", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.teoria-y-tecnica-de-grupos", "name": "Teoría y Técnica de Grupos", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.desarrollo-ninez", "name": "Psicología del Desarrollo: Niñez", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.desarrollo-adolescencia", "name": "Psicología del Desarrollo: Adolescencia", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicopatologia", "name": "Psicopatología", "role": "anual · cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.exploracion-y-diagnostico-1", "name": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I", "role": "cátedras I · II", "tag": "CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.exploracion-y-diagnostico-2", "name": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II", "role": "cátedras I · II", "tag": "CFG", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Profesional · 8 obligatorias",
+      "title": "Los campos de la práctica",
+      "note": "Se agregan 3 electivas del ciclo (una puede ser otra Práctica Profesional y de Investigación) y el Requisito de Tesis de Licenciatura.",
+      "exits": [
+        { "address": "uba.psi.psicologia.etica-deontologia-y-ddhh", "name": "Ética, Deontología y Derechos Humanos", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-organizacional-e-institucional", "name": "Psicología Organizacional e Institucional", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-educacional", "name": "Psicología Educacional", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-del-trabajo", "name": "Psicología del Trabajo", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-y-psicoterapias-1", "name": "Psicología Clínica y Psicoterapias I", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-juridica", "name": "Psicología Jurídica", "role": "cátedras I · II", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-y-psicoterapias-2", "name": "Psicología Clínica y Psicoterapias II", "role": "cátedras I · II · no correlativa con la I", "tag": "CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.practica-profesional-y-de-investigacion", "name": "Práctica Profesional y de Investigación", "role": "obligatoria · se elige entre la oferta de prácticas", "tag": "CFP", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas del Ciclo de Formación General · 15 con nombre",
+      "title": "Se eligen 2",
+      "exits": [
+        { "address": "uba.psi.psicologia.psicoanalisis-escuela-inglesa", "name": "Psicoanálisis: Escuela Inglesa", "role": "correlativa: Psicoanálisis: Freud", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicoanalisis-escuela-francesa", "name": "Psicoanálisis: Escuela Francesa", "role": "correlativa: Psicoanálisis: Freud", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-fenomenologica-y-existencial", "name": "Psicología Fenomenológica y Existencial", "role": "correlativas: Psicoanálisis: Freud · Historia", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicoanalisis-psicologia-del-yo", "name": "Psicoanálisis: Psicología del Yo", "role": "correlativa: Psicoanálisis: Freud", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.tercera-edad-y-vejez", "name": "Psicología de la Tercera Edad y Vejez", "role": "correlativa: Psicopatología", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicodiagnostico-rorschach", "name": "Psicodiagnóstico: Rorschach", "role": "correlativa: Exploración y Diagnóstico Mód. II", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.problemas-sociologicos", "name": "Problemas Sociológicos en Psicología", "role": "correlativa: CBC", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.problemas-antropologicos", "name": "Problemas Antropológicos en Psicología", "role": "correlativa: CBC", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.biologia-del-comportamiento", "name": "Biología del Comportamiento", "role": "correlativa: CBC", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.problemas-filosoficos", "name": "Problemas Filosóficos en Psicología", "role": "correlativa: CBC", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.analisis-y-modificacion-de-la-conducta", "name": "Análisis y Modificación de la Conducta", "role": "correlativa: Exploración y Diagnóstico Mód. II", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.orientacion-lacaniana", "name": "Psicoanálisis: Orientación Lacaniana. Clínica y Escritura", "role": "correlativa: Psicoanálisis: Freud", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.construccion-de-los-conceptos-psicoanaliticos", "name": "Construcción de los Conceptos Psicoanalíticos", "role": "correlativa: Psicoanálisis: Freud", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-politica", "name": "Psicología Política", "role": "correlativa: Psicología Social", "tag": "electiva CFG", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-de-la-personalidad", "name": "Psicología de la Personalidad", "role": "correlativas: Procesos Psicológicos Básicos · Psicología Social", "tag": "electiva CFG", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas del Ciclo de Formación Profesional · 25 con nombre, por área",
+      "title": "Se eligen 3",
+      "exits": [
+        { "address": "uba.psi.psicologia.psicopedagogia-clinica", "name": "Psicopedagogía Clínica", "role": "área educacional", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.orientacion-vocacional-y-ocupacional", "name": "Orientación Vocacional y Ocupacional", "role": "área educacional · área trabajo", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-de-la-discapacidad", "name": "Psicología de la Discapacidad", "role": "área educacional", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.informatica-educacion-y-sociedad", "name": "Informática, Educación y Sociedad", "role": "área educacional", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-de-ninos-y-adolescentes", "name": "Clínica de Niños y Adolescentes", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.fisiopatologia-y-enfermedades-psicosomaticas", "name": "Fisiopatología y Enfermedades Psicosomáticas", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.neuropsicologia", "name": "Neuropsicología", "role": "área clínica · correlativa: Neurofisiología", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-sistemica", "name": "Teoría y Técnica de la Clínica Sistémica", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicofarmacologia", "name": "Psicofarmacología", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-psicoanalitica", "name": "Clínica Psicoanalítica", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-de-las-toxicomanias-y-el-alcoholismo", "name": "Clínica de las Toxicomanías y el Alcoholismo", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-cognitivo-comportamental", "name": "Teoría y Técnica de la Clínica Cognitivo Comportamental", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.usos-del-sintoma", "name": "Usos del Síntoma", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-de-la-discapacidad-y-desarrollo-infantil", "name": "Clínica de la Discapacidad y Problemas en el Desarrollo Infantil", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.clinica-de-las-anorexias-bulimias-y-obesidad", "name": "Clínica de las Anorexias, las Bulimias y la Obesidad. Abordaje Interdisciplinario", "role": "área clínica", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.seleccion-e-incorporacion-de-personal", "name": "Selección e Incorporación de Personal", "role": "área trabajo · correlativa: Psicología del Trabajo", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.intervenciones-forenses-familiares", "name": "Intervenciones Psicológico-Forenses en Disfunciones y Patologías Familiares", "role": "área justicia", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-del-delito-y-del-delincuente", "name": "Psicología del Delito y del Delincuente", "role": "área justicia", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.victimologia", "name": "Victimología", "role": "área justicia", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.tecnicas-psicologicas-en-el-ambito-juridico", "name": "Técnicas Psicológicas en el Ámbito Jurídico", "role": "área justicia", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-preventiva", "name": "Psicología Preventiva", "role": "área social-comunitaria", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.estrategias-de-intervencion-comunitaria", "name": "Estrategias de Intervención Comunitaria", "role": "área social-comunitaria", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.introduccion-a-los-estudios-del-genero", "name": "Introducción a los Estudios del Género", "role": "área social-comunitaria", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.psicologia-aplicada-al-deporte", "name": "Psicología Aplicada al Deporte", "role": "área social-comunitaria", "tag": "electiva CFP", "kind": "course" },
+        { "address": "uba.psi.psicologia.rol-del-psicologo-en-el-equipo-de-salud", "name": "El Rol del Psicólogo en el Equipo Interdisciplinario de Salud", "role": "área social-comunitaria", "tag": "electiva CFP", "kind": "course" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "psi.uba.ar · Licenciatura en Psicología · Plan de Estudios 1985 + oferta de materias por ciclo",
+    "url": "https://www.psi.uba.ar/academica.php?var=psicologia/index.php"
+  }
+}

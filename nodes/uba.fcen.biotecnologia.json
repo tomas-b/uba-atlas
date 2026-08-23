@@ -1,0 +1,401 @@
+{
+  "address": "uba.fcen.biotecnologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2025",
+    "resolucion": "Anexo ACS-2025-299-UBA-SG#REC",
+    "vigencia": "2026 (primera cohorte)",
+    "sedeAdministrativa": "Facultad de Farmacia y Bioquímica",
+    "facultades": ["FFyB", "FCEN", "FAgr", "FVet"],
+    "años": 4.5,
+    "cuatrimestres": 9,
+    "cargaHorariaTotal": 3331,
+    "cicloTroncalExactasHoras": 2150,
+    "orientacionHoras": 350,
+    "orientaciones": {
+      "FCEN": "Biotecnología y Desarrollo Sostenible",
+      "FFyB": "Biotecnología en Salud Humana",
+      "FVet": "Biotecnología en Salud y Producción Animal",
+      "FAgr": "Biotecnología Vegetal"
+    },
+    "orientacionDeEstaPuerta": "Biotecnología y Desarrollo Sostenible (FCEN)",
+    "cicloTroncalExactas": "RESCD 2816/25 (cuatrimestres-LBT.pdf)",
+    "tituloIntermedio": "Bachiller Universitario/a en Biotecnología",
+    "materias": 37,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.biotecnologia",
+      "label": "Biotecnología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Biotecnología · Plan 2025 · puerta Exactas",
+  "title": "Un tronco de cuatro facultades, una orientación por puerta.",
+  "lede": "La carrera nueva de la UBA (primera cohorte 2026): un ciclo troncal de tres años que se cursa en Exactas o en Farmacia y Bioquímica, y un noveno cuatrimestre de orientación en una de cuatro facultades. Esta es la puerta de Exactas: su ciclo troncal propio y su orientación en Biotecnología y Desarrollo Sostenible. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2025",
+      "small": "ACS-2025-299"
+    },
+    {
+      "k": "Materias",
+      "v": "37",
+      "small": "troncal Exactas + orientación"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 37"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: ACS-2025-299-UBA-SG#REC y su Anexo I (ffyb.uba.ar, sede administrativa) para la carrera y las orientaciones; el ciclo troncal tal como lo dicta Exactas sale de biotecno.exactas.uba.ar (cuatrimestres-LBT.pdf, correlativas RESCD 2816/25). El troncal de Exactas es la implementación local del ciclo común: nombres y horas propios de Exactas, equivalentes al listado del Anexo. La orientación de Exactas tiene una sola obligatoria (Desarrollo Sostenible, 32 h); las 350 h se completan con optativas de la orientación, elegidas con tutor/a — acá figuran las once que el Anexo I detalla con contenidos. Nivel L1: nombres, cuatrimestres, horas y correlativas son reales; temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 3º cuatrimestre",
+      "title": "Química, organismos y el taller de matemática",
+      "note": "Ciclo troncal de Exactas. Correlativa: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.quimica-general",
+          "name": "Química General",
+          "role": "3º cuat. · 176 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.diversidad-organismos",
+          "name": "Diversidad, Fisiología y Aplicaciones Biotecnológicas de los Organismos",
+          "role": "3º cuat. · 120 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.taller-matematica",
+          "name": "Taller de Matemática para Biotecnología",
+          "role": "3º cuat. · 50 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · 4º cuatrimestre",
+      "title": "La célula, el carbono y los datos",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.ibmc",
+          "name": "Introducción a la Biología Molecular y Celular",
+          "role": "4º cuat. · 192 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.quimica-organica-1",
+          "name": "Química Orgánica I",
+          "role": "4º cuat. · 177 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.estadistica-1",
+          "name": "Estadística I",
+          "role": "4º cuat. · 39 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 5º cuatrimestre",
+      "title": "Química biológica, óptica y propiedad intelectual",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.estadistica-2",
+          "name": "Estadística II",
+          "role": "5º cuat. · 39 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "5º cuat. · 176 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.propiedad-intelectual",
+          "name": "Propiedad Intelectual",
+          "role": "5º cuat. · 20 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.taller-optica-magnetismo",
+          "name": "Taller de Óptica y Magnetismo",
+          "role": "5º cuat. · 28 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · 6º cuatrimestre",
+      "title": "Genética, microbios y bioprocesos",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.genetica-1",
+          "name": "Genética I",
+          "role": "6º cuat. · 160 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.microbiologia-general-industrial",
+          "name": "Microbiología General e Industrial",
+          "role": "6º cuat. · 120 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.operaciones-bioprocesos",
+          "name": "Operaciones en Bioprocesos",
+          "role": "6º cuat. · 64 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.bioseguridad-regulaciones",
+          "name": "Bioseguridad y Regulaciones",
+          "role": "6º cuat. · 20 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.instrumentacion-biologica",
+          "name": "Instrumentación Biológica",
+          "role": "6º cuat. · 120 h",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 7º cuatrimestre",
+      "title": "Biorreactores, analítica y las técnicas de la biotecnología",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.biorreactores-1",
+          "name": "Biorreactores I",
+          "role": "7º cuat. · 64 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.quimica-analitica",
+          "name": "Química Analítica",
+          "role": "7º cuat. · 128 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.ecologia-evolucion",
+          "name": "Ecología y Evolución",
+          "role": "7º cuat. · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.conceptos-tecnicas-biotecnologia",
+          "name": "Conceptos y Técnicas de Biotecnología",
+          "role": "7º cuat. · 160 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · 8º cuatrimestre",
+      "title": "Calidad, ética, bioeconomía y el proyecto propio",
+      "note": "Cierra el ciclo troncal; con él se obtiene el título intermedio de Bachiller Universitario/a en Biotecnología.",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.biotecnologia-socioambiental",
+          "name": "Biotecnología Socioambiental",
+          "role": "8º cuat. · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.aseguramiento-calidad",
+          "name": "Aseguramiento de Calidad",
+          "role": "8º cuat. · 20 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.bioetica",
+          "name": "Bioética",
+          "role": "8º cuat. · 20 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.bioeconomia",
+          "name": "Bioeconomía",
+          "role": "8º cuat. · 20 h",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.taller-proyecto-biotecnologico",
+          "name": "Taller de Diseño de Proyecto Biotecnológico",
+          "role": "8º cuat. · 60 h",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cursada flexible",
+      "title": "En cualquier momento del troncal",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.ingles-universitario",
+          "name": "Inglés Universitario",
+          "role": "cualquier cuat. · 48 h",
+          "tag": "troncal",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · 9º cuatrimestre · Orientación Exactas",
+      "title": "Biotecnología y Desarrollo Sostenible",
+      "note": "Una obligatoria; el resto de las 350 h se completa con optativas de la orientación, elegidas con tutor/a. Las once listadas son las que el Anexo I del plan detalla.",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.desarrollo-sostenible",
+          "name": "Desarrollo Sostenible",
+          "role": "obligatoria · 32 h",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.biotecnologia-microbiana-ambiental",
+          "name": "Biotecnología Microbiana Ambiental",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.filosofia-biologia-socioambiental",
+          "name": "Aproximaciones a las problemáticas sociales y ambientales desde la filosofía de la biología",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.economia-circular",
+          "name": "Economía Circular",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.biotecnologia-vegetal",
+          "name": "Biotecnología Vegetal",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.botanica-economica",
+          "name": "Botánica Económica",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.genomica-aplicada",
+          "name": "Genómica Aplicada",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.ingenieria-genetica-avanzada",
+          "name": "Ingeniería Genética Avanzada",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.biotecnologia-industrial-microbiologia-aplicada",
+          "name": "Biotecnología Industrial y Microbiología Aplicada",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.fisiologia-animal-comparada",
+          "name": "Fisiología Animal Comparada",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biotecnologia.intro-bioinformatica-molecular",
+          "name": "Introducción a la Bioinformática Molecular",
+          "role": "optativa",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Tesis o práctica profesional",
+      "note": "300 h, asociadas a la orientación. Requiere todos los TP hasta el 8º cuatrimestre aprobados. Además, una Práctica Social Educativa a partir del 7º cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.fcen.biotecnologia.tesis-o-practica-profesional",
+          "name": "Tesis de Grado o Práctica Profesional Supervisada",
+          "role": "300 h",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ACS-2025-299-UBA-SG#REC · Anexo I (ffyb.uba.ar) · biotecno.exactas.uba.ar/carrera.html · cuatrimestres-LBT.pdf",
+    "url": "https://biotecno.exactas.uba.ar/carrera.html"
+  }
+}

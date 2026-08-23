@@ -1,0 +1,266 @@
+{
+  "address": "uba.fcen.matematica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1982 (y modificatorias)",
+    "años": 5,
+    "materias": 24,
+    "obligatoriasPorEstudiante": 16,
+    "orientaciones": ["Matemática Pura", "Matemática Aplicada"],
+    "optativas": "15 puntos (cada materia otorga entre 1 y 5 puntos)",
+    "tesis": true,
+    "correlativas": "plan de correlatividades, no por años académicos"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.matematica",
+      "label": "Ciencias Matemáticas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Matemáticas · Plan 1982",
+  "title": "Un tronco común, dos orientaciones, una tesis.",
+  "lede": "El plan vigente del Departamento de Matemática de Exactas: ocho materias comunes que ordenan los dos primeros años, luego una bifurcación — Pura o Aplicada — de ocho obligatorias cada una, 15 puntos de optativas y una Tesis de Licenciatura. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1982"
+    },
+    {
+      "k": "Materias",
+      "v": "24",
+      "small": "16 por estudiante"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 24"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (web.dm.uba.ar · Información Licenciatura + PDF Plan de Estudio de exactas.uba.ar). La carrera se organiza por correlatividades y no por años académicos, por eso los grupos siguen la forma del plan: ciclo común y orientaciones. Nivel L1: los nombres y la pertenencia a cada ciclo son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las optativas se comunican año a año y no figuran como puertas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo común · 8",
+      "title": "Análisis y álgebra, para las dos orientaciones",
+      "note": "Se cursan en los dos primeros años aproximadamente.",
+      "exits": [
+        {
+          "address": "uba.fcen.matematica.analisis-1",
+          "name": "Análisis I",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.algebra-1",
+          "name": "Álgebra I",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.analisis-2",
+          "name": "Análisis II",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.algebra-lineal",
+          "name": "Álgebra Lineal",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.calculo-avanzado",
+          "name": "Cálculo Avanzado",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.calculo-numerico",
+          "name": "Elementos de Cálculo Numérico",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.analisis-complejo",
+          "name": "Análisis Complejo",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.probabilidades-estadistica",
+          "name": "Probabilidades y Estadística",
+          "role": "obligatoria común",
+          "tag": "ciclo común",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Matemática Pura · 8",
+      "title": "Estructuras, topología y geometría",
+      "exits": [
+        {
+          "address": "uba.fcen.matematica.analisis-real",
+          "name": "Análisis Real",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.geometria-proyectiva",
+          "name": "Geometría Proyectiva",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.algebra-2",
+          "name": "Álgebra II",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.topologia",
+          "name": "Topología",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.geometria-diferencial",
+          "name": "Geometría Diferencial",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.analisis-funcional",
+          "name": "Análisis Funcional",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.algebra-3",
+          "name": "Álgebra III",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.ecuaciones-diferenciales-a",
+          "name": "Ecuaciones Diferenciales A",
+          "role": "obligatoria · pura",
+          "tag": "pura",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Matemática Aplicada · 8",
+      "title": "Medida, estadística, cómputo y optimización",
+      "exits": [
+        {
+          "address": "uba.fcen.matematica.medida-probabilidad",
+          "name": "Medida y Probabilidad",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.intro-computacion",
+          "name": "Introducción a la Computación",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.estadistica",
+          "name": "Estadística",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.investigacion-operativa",
+          "name": "Investigación Operativa",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.analisis-numerico",
+          "name": "Análisis Numérico",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.ecuaciones-diferenciales-b",
+          "name": "Ecuaciones Diferenciales B",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.temas-fisica",
+          "name": "Temas de Física",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.matematica.optimizacion",
+          "name": "Optimización",
+          "role": "obligatoria · aplicada",
+          "tag": "aplicada",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Cierre",
+      "title": "Optativas y tesis",
+      "note": "15 puntos en materias optativas (entre 1 y 5 puntos cada una), comunicadas año a año; no figuran como puertas. La Tesis de Licenciatura es un trabajo de alrededor de un cuatrimestre bajo dirección de un profesor, evaluado por un jurado de tres miembros.",
+      "exits": [
+        {
+          "address": "uba.fcen.matematica.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "trabajo final dirigido",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "web.dm.uba.ar · Información Licenciatura en Ciencias Matemáticas · exactas.uba.ar Plan de Estudio (PDF)",
+    "url": "https://web.dm.uba.ar/index.php/component/sppagebuilder/470-informacion-licenciatura-en-ciencias-matematicas"
+  }
+}

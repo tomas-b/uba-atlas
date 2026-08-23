@@ -1,0 +1,192 @@
+{
+  "address": "uba.fcen.datos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2020,
+    "expediente": "EX-2020-01429804-UBA-DMED#SG_FCEN",
+    "ciclos": 3,
+    "años": 4.5,
+    "materias": 14,
+    "materiasNombradas": 13,
+    "horasSegundoCiclo": 2304,
+    "horasTercerCiclo": 960,
+    "tituloIntermedio": "Bachiller Universitario en Ciencias de Datos",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.datos",
+      "label": "Ciencias de Datos"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias de Datos · Plan 2020",
+  "title": "Matemática, computación y datos, en tres ciclos.",
+  "lede": "El plan real (2020) de la Licenciatura en Ciencias de Datos de Exactas: un segundo ciclo de tres años que va del análisis y los algoritmos a la probabilidad, la estadística, la optimización y el modelado continuo, y un tercer ciclo electivo que cierra con la tesis o trabajo final. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2020"
+    },
+    {
+      "k": "Materias",
+      "v": "14",
+      "small": "propias · 13 nombradas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 14"
+    }
+  ],
+  "frame": "Estructura sourceada del plan de estudios oficial (PDF publicado en lcd.exactas.uba.ar, expediente EX-2020-01429804, ACS-2020-96), contrastada con lcd.exactas.uba.ar/materias e ingresantes.exactas.uba.ar. Nivel L1: los nombres, cuatrimestres y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El Segundo Ciclo suma 14 materias (2304 h): 11 de fundamentos — una de ellas una electiva de introducción a las Ciencias Naturales, a elegir entre tres, que no se dibuja como puerta — y 3 materias núcleo. El Tercer Ciclo (960 h) es un bloque de mínimo 640 h de materias electivas según plan individual, más la Tesis de Licenciatura o Trabajo Final (320 h).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo Ciclo · cuatrimestres 3–4",
+      "title": "Análisis, álgebra y el primer algoritmo",
+      "note": "Junto con Análisis II, AED II, Laboratorio de Datos, Álgebra Lineal Computacional y la electiva de Ciencias Naturales, forman el título intermedio de Bachiller Universitario en Ciencias de Datos.",
+      "exits": [
+        {
+          "address": "uba.fcen.datos.analisis-1",
+          "name": "Análisis I",
+          "role": "cuat. 3 · 160 h · correlativa: CBC",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.algebra-1",
+          "name": "Álgebra I",
+          "role": "cuat. 3 · 160 h · correlativa: CBC",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.aed-1",
+          "name": "Algoritmos y Estructuras de Datos I",
+          "role": "cuat. 4 · 240 h · correlativa: Álgebra I",
+          "tag": "fundamentos",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo Ciclo · cuatrimestres 5–6",
+      "title": "Datos en el laboratorio",
+      "exits": [
+        {
+          "address": "uba.fcen.datos.analisis-2",
+          "name": "Análisis II",
+          "role": "cuat. 5 · 160 h · correlativa: Análisis I",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.aed-2",
+          "name": "Algoritmos y Estructuras de Datos II",
+          "role": "cuat. 5 · 240 h · correlativa: AED I",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.laboratorio-datos",
+          "name": "Laboratorio de Datos",
+          "role": "cuat. 6 · 96 h · correlativa: AED I",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.analisis-avanzado",
+          "name": "Análisis Avanzado",
+          "role": "cuat. 6 · 128 h · correlativas: Análisis II, Álgebra I",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.alc",
+          "name": "Álgebra Lineal Computacional",
+          "role": "cuat. 6 · 160 h · correlativa: Álgebra I",
+          "tag": "fundamentos",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Segundo Ciclo · cuatrimestres 7–8",
+      "title": "Probabilidad y las tres materias núcleo",
+      "note": "Las tres materias núcleo del cuatrimestre 8 son la introducción al Tercer Ciclo y orientan el plan individual de estudios.",
+      "exits": [
+        {
+          "address": "uba.fcen.datos.probabilidad",
+          "name": "Probabilidad",
+          "role": "cuat. 7 · 160 h · correlativa: Análisis Avanzado",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.aed-3",
+          "name": "Algoritmos y Estructuras de Datos III",
+          "role": "cuat. 7 · 240 h · correlativa: AED II",
+          "tag": "fundamentos",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.intro-estadistica-cd",
+          "name": "Introducción a la Estadística y Ciencia de Datos",
+          "role": "cuat. 8 · 128 h · correlativas: AED II, Probabilidad, ALC",
+          "tag": "núcleo",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.intro-io-optimizacion",
+          "name": "Introducción a la Investigación Operativa y Optimización",
+          "role": "cuat. 8 · 128 h · correlativas: AED III, Análisis II, ALC",
+          "tag": "núcleo",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.datos.intro-modelado-continuo",
+          "name": "Introducción al Modelado Continuo",
+          "role": "cuat. 8 · 128 h · correlativas: Análisis Avanzado, ALC, AED II",
+          "tag": "núcleo",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tercer Ciclo · un año y medio",
+      "title": "Electivas a medida y la tesis",
+      "note": "Mínimo 640 h de materias electivas u optativas elegidas con tutor/a en un plan individual de estudios; las electivas no tienen nombre fijo y no se dibujan como puertas.",
+      "exits": [
+        {
+          "address": "uba.fcen.datos.tesis",
+          "name": "Tesis de Licenciatura o Trabajo Final",
+          "role": "cierre del Tercer Ciclo · 320 h",
+          "tag": "tercer ciclo",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de Estudios Lic. en Cs. de Datos (PDF, EX-2020-01429804) · lcd.exactas.uba.ar/materias",
+    "url": "http://lcd.exactas.uba.ar/wp-content/uploads/2022/11/Plan-de-Estudios-Lic.-en-Cs.-Datos.pdf"
+  }
+}

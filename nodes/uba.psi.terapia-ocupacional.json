@@ -1,0 +1,263 @@
+{
+  "address": "uba.psi.terapia-ocupacional",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1994 (Res. CS 1374/94 y modificatorias) · esquema vigente publicado 2024",
+    "cuatrimestres": 6,
+    "materias": 23,
+    "cargaHoraria": "3031 h (1000 h de práctica profesional)",
+    "correlativas": true,
+    "requisitoIdioma": "Inglés o Francés, módulos I y II (Res. CS 3283/04)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.psi",
+      "label": "Psicología"
+    },
+    {
+      "address": "uba.psi.terapia-ocupacional",
+      "label": "Terapia Ocupacional"
+    }
+  ],
+  "eyebrow": "Licenciatura en Terapia Ocupacional · Plan 1994",
+  "title": "Seis cuatrimestres, del cuerpo a la práctica en terreno.",
+  "lede": "El plan real de la Facultad de Psicología: 23 materias en seis cuatrimestres, con 3031 horas de las que 1000 son práctica profesional. Cuatro ejes se trenzan — teoría y técnica de la terapia ocupacional, lo biomédico, lo psicosocial y la práctica — hasta desembocar en cuatro prácticas profesionales que solo se aprueban por promoción. Cada materia es una puerta; el CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1994",
+      "small": "Res. CS 1374/94"
+    },
+    {
+      "k": "Materias",
+      "v": "23",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 23"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad de Psicología (psi.uba.ar → Terapia Ocupacional, esquema de correlatividades 2024) y del Código UBA (Libro XIV, Título 4, Res. CS 1374/94). Nivel L1: nombres, cuatrimestres y correlatividades son reales; temas y bibliografía de cada materia son la próxima resolución (L2). El requisito de idioma (Inglés o Francés, módulos I y II) es una condición de título, no una materia de la carrera.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "1º cuatrimestre",
+      "title": "El cuerpo y la ocupación",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.teoria-tecnica-to-1",
+          "name": "Teoría y Técnica de Terapia Ocupacional I",
+          "role": "1º cuat.",
+          "tag": "cuat. 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ocupacion-proceso-1",
+          "name": "La Ocupación y su Proceso I",
+          "role": "1º cuat.",
+          "tag": "cuat. 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.anatomia",
+          "name": "Anatomía",
+          "role": "1º cuat.",
+          "tag": "cuat. 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.fisiologia",
+          "name": "Fisiología",
+          "role": "1º cuat.",
+          "tag": "cuat. 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ciclos-vitales-1",
+          "name": "Psicología de los Ciclos Vitales I",
+          "role": "1º cuat.",
+          "tag": "cuat. 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "2º cuatrimestre",
+      "title": "Clínica, movimiento y desarrollo",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.teoria-tecnica-to-2",
+          "name": "Teoría y Técnica de Terapia Ocupacional II",
+          "role": "2º cuat. · correlativa: TTTO I",
+          "tag": "cuat. 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ocupacion-proceso-2",
+          "name": "La Ocupación y su Proceso II",
+          "role": "2º cuat. · correlativa: La Ocupación y su Proceso I",
+          "tag": "cuat. 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.clinica-medica-neurologica",
+          "name": "Clínica Médica y Neurológica",
+          "role": "2º cuat. · correlativas: Fisiología, Anatomía",
+          "tag": "cuat. 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.biomecanica",
+          "name": "Biomecánica",
+          "role": "2º cuat. · correlativas: Anatomía, Fisiología",
+          "tag": "cuat. 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ciclos-vitales-2",
+          "name": "Psicología de los Ciclos Vitales II",
+          "role": "2º cuat. · correlativa: Ciclos Vitales I",
+          "tag": "cuat. 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "3º cuatrimestre",
+      "title": "Patología y primera práctica",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.teoria-tecnica-to-3",
+          "name": "Teoría y Técnica de Terapia Ocupacional III",
+          "role": "3º cuat. · correlativas: TTTO II, Ocupación II, Clínica Médica, Biomecánica",
+          "tag": "cuat. 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ocupacion-proceso-3",
+          "name": "La Ocupación y su Proceso III",
+          "role": "3º cuat. · correlativas: Ocupación II, TTTO III",
+          "tag": "cuat. 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.ortopedia",
+          "name": "Ortopedia",
+          "role": "3º cuat. · correlativas: Clínica Médica, Biomecánica",
+          "tag": "cuat. 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.psicopatologia",
+          "name": "Psicopatología",
+          "role": "3º cuat. · correlativa: Ciclos Vitales II",
+          "tag": "cuat. 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.practica-profesional-1",
+          "name": "Práctica Profesional I",
+          "role": "3º cuat. · solo por promoción",
+          "tag": "cuat. 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º cuatrimestre",
+      "title": "Instituciones, grupos y método",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.teoria-tecnica-to-4",
+          "name": "Teoría y Técnica de Terapia Ocupacional IV",
+          "role": "4º cuat. · correlativas: TTTO III, Psicopatología",
+          "tag": "cuat. 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.psicologia-social-instituciones-grupos",
+          "name": "Psicología Social de las Instituciones y de los Grupos",
+          "role": "4º cuat.",
+          "tag": "cuat. 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.metodologia-investigacion-estadistica",
+          "name": "Metodología de la Investigación y Estadística",
+          "role": "4º cuat.",
+          "tag": "cuat. 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.practica-profesional-2",
+          "name": "Práctica Profesional II",
+          "role": "4º cuat. · correlativa: Práctica Profesional I · solo por promoción",
+          "tag": "cuat. 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º cuatrimestre",
+      "title": "Ejercicio profesional",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.teoria-tecnica-to-5",
+          "name": "Teoría y Técnica de Terapia Ocupacional V",
+          "role": "5º cuat. · correlativa: TTTO IV",
+          "tag": "cuat. 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.orientacion-ejercicio-profesional",
+          "name": "Orientación para el Ejercicio Profesional",
+          "role": "5º cuat. · correlativa: TTTO V",
+          "tag": "cuat. 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.terapia-ocupacional.practica-profesional-3",
+          "name": "Práctica Profesional III",
+          "role": "5º cuat. · correlativas: Práctica Profesional II, Psicología Social, Psicopatología · solo por promoción",
+          "tag": "cuat. 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "6º cuatrimestre",
+      "title": "Cierre en terreno",
+      "exits": [
+        {
+          "address": "uba.psi.terapia-ocupacional.practica-profesional-4",
+          "name": "Práctica Profesional IV",
+          "role": "6º cuat. · correlativas: Práctica Profesional III, TTTO V, Ocupación III · solo por promoción",
+          "tag": "cuat. 6",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "psi.uba.ar/academica → Terapia Ocupacional (plan_estudios_to_2024.png) · Código UBA Libro XIV Título 4",
+    "url": "https://www.psi.uba.ar/academica.php?var=terapiaocupacional/index.php"
+  }
+}

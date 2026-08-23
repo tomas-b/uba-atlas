@@ -1,0 +1,597 @@
+{
+  "address": "uba.fcen.quimica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2024,
+    "resolucion": "RESCS-2023-1035-E-UBA-REC (14/07/2023) · texto ordenado ACS-2023-266-UBA-SG#REC",
+    "planAnterior": "1987 (Res. CS 1888/87 y modificatorias)",
+    "duracionTeorica": "6 años (1 CBC + 4 Formación General + 1 Formación Específica)",
+    "cargaHorariaTotal": 4128,
+    "ciclos": {
+      "cbc": { "asignaturas": 6, "horas": 608 },
+      "formacionGeneral": { "obligatorias": 28, "horas": 2840, "incluyePSE": 42 },
+      "formacionEspecifica": { "horas": 680, "trabajoFinal": 200, "electivas": 240, "optativas": 240 }
+    },
+    "materiasObligatorias": 28,
+    "electivasNombradas": 39,
+    "tituloIntermedio": "Bachiller Universitario en Ciencias Químicas",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.quimica",
+      "label": "Ciencias Químicas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Químicas · Plan 2024",
+  "title": "Cuatro años de química troncal, un año de rumbo propio.",
+  "lede": "El plan real (Res. CS 1035/2023, en vigencia desde 2024) de la Licenciatura en Ciencias Químicas de Exactas: un Ciclo de Formación General de veintiocho materias obligatorias — química general, inorgánica, orgánica, analítica, física, biológica e industrial, con sus laboratorios — y un Ciclo de Formación Específica con electivas de al menos dos departamentos y un trabajo final de 200 horas. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2024",
+      "small": "Res. CS 1035/23"
+    },
+    {
+      "k": "Materias",
+      "v": "30",
+      "small": "obligatorias · 39 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 69"
+    }
+  ],
+  "frame": "Estructura sourceada del texto ordenado del plan (RESCS-2023-1035-E-UBA-REC, anexo ACS-2023-266), publicado por la Comisión de Carrera de Química. Nivel L1: nombres, año orientativo, carácter (cuatrimestral / trimestral / bimestral), carga horaria y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El plan aclara que la columna de año es un recorrido orientativo: la secuencia real la fijan las correlatividades.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Formación General",
+      "title": "Química general, matemática y física de base",
+      "note": "Todas requieren CBC completo.",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.quimica-general",
+          "name": "Química General",
+          "role": "cuatrimestral · 176 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.analisis-matematico-1",
+          "name": "Análisis Matemático 1",
+          "role": "cuatrimestral · 160 h",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-inorganica-1",
+          "name": "Química Inorgánica 1",
+          "role": "cuatrimestral · 80 h · correl. Química General",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.analisis-matematico-2",
+          "name": "Análisis Matemático 2",
+          "role": "cuatrimestral · 160 h · correl. Análisis Matemático 1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.fisica-1",
+          "name": "Física 1",
+          "role": "trimestral · 130 h",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · Formación General",
+      "title": "Orgánica, inorgánica, física y estadística",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.quimica-organica-1",
+          "name": "Química Orgánica 1",
+          "role": "cuatrimestral · 96 h · correl. Química General",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.laboratorio-1-quimica-organica",
+          "name": "Laboratorio 1 de Química Orgánica",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 1 (o simultánea)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.estadistica-1",
+          "name": "Estadística 1",
+          "role": "trimestral · 39 h",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.fisica-2",
+          "name": "Física 2",
+          "role": "cuatrimestral · 128 h · correl. Física 1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.laboratorio-de-fisica",
+          "name": "Laboratorio de Física",
+          "role": "cuatrimestral · 80 h · correl. Física 2 (o simultánea)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-inorganica-2",
+          "name": "Química Inorgánica 2",
+          "role": "cuatrimestral · 96 h · correl. Química Inorgánica 1, Química Orgánica 1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-organica-2",
+          "name": "Química Orgánica 2",
+          "role": "cuatrimestral · 96 h · correl. Química Orgánica 1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.laboratorio-2-quimica-organica",
+          "name": "Laboratorio 2 de Química Orgánica",
+          "role": "trimestral · 78 h · correl. Química Orgánica 2 (o simultánea)",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.estadistica-2",
+          "name": "Estadística 2",
+          "role": "trimestral · 39 h · correl. Estadística 1",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · Formación General",
+      "title": "Analítica, química física y química biológica",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.quimica-analitica-1",
+          "name": "Química Analítica 1",
+          "role": "cuatrimestral · 128 h · correl. Química Inorgánica 1, Estadística 2",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.intro-quimica-biologica-microbiologia",
+          "name": "Introducción a Química Biológica y Microbiología",
+          "role": "cuatrimestral · 192 h · correl. Química Orgánica 1",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-analitica-2",
+          "name": "Química Analítica 2",
+          "role": "cuatrimestral · 96 h · correl. Química Analítica 1, Química Inorgánica 2",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-fisica-1",
+          "name": "Química Física 1",
+          "role": "cuatrimestral · 64 h · correl. Física 2, Laboratorio de Física, Química Analítica 1, Análisis Matemático 2",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.metodos-espectroscopicos-organica",
+          "name": "Métodos Espectroscópicos en Química Orgánica",
+          "role": "cuatrimestral · 64 h · correl. Laboratorio 2 de Química Orgánica, Química Física 1 (o simultánea)",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-biologica-metabolismo",
+          "name": "Química Biológica del Metabolismo",
+          "role": "cuatrimestral · 144 h · correl. Química Orgánica 2, Intro. a Química Biológica y Microbiología",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · Formación General",
+      "title": "Materiales, química física avanzada, industria y toxicología",
+      "note": "Incluye la Práctica Social Educativa (42 h, bimestral).",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.quimica-fisica-2",
+          "name": "Química Física 2",
+          "role": "cuatrimestral · 80 h · correl. Química Física 1",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-de-materiales",
+          "name": "Química de Materiales",
+          "role": "cuatrimestral · 64 h · correl. Métodos Espectroscópicos, Química Analítica 2, Química Física 1",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-organica-analitica",
+          "name": "Química Orgánica Analítica",
+          "role": "cuatrimestral · 112 h · correl. Métodos Espectroscópicos en Química Orgánica",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-fisica-3",
+          "name": "Química Física 3",
+          "role": "cuatrimestral · 64 h · correl. Química Física 1",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.laboratorio-1-quimica-fisica",
+          "name": "Laboratorio 1 de Química Física",
+          "role": "cuatrimestral · 64 h · correl. Química Física 3",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.laboratorio-2-quimica-fisica",
+          "name": "Laboratorio 2 de Química Física",
+          "role": "cuatrimestral · 64 h · correl. Química Física 2",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-industrial",
+          "name": "Química Industrial",
+          "role": "cuatrimestral · 144 h · correl. Laboratorio 2 de Química Orgánica, Química Analítica 1, Análisis Matemático 2, Física 1",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.toxicologia-quimica-legal",
+          "name": "Nociones de Toxicología y Química Legal",
+          "role": "cuatrimestral · 80 h · correl. Química Biológica del Metabolismo, Química Analítica 1",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.pse",
+          "name": "Práctica Social Educativa",
+          "role": "bimestral · 42 h",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 6 · Formación Específica",
+      "title": "Trabajo final",
+      "note": "200 h, al completar al menos el 75 % del Ciclo de Formación General.",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.trabajo-final",
+          "name": "Trabajo Final",
+          "role": "200 h · obligatorio",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · Formación Específica",
+      "title": "Treinta y nueve puertas, de al menos dos departamentos",
+      "note": "480 h entre electivas (240 h) y optativas (240 h); mínimo tres electivas, cada una de hasta 80 h. Se listan las electivas nombradas en el plan; las optativas no tienen nombre fijo.",
+      "exits": [
+        {
+          "address": "uba.fcen.quimica.analisis-estructural-polimeros",
+          "name": "Análisis Estructural de Materiales Poliméricos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.analisis-sensorial",
+          "name": "Análisis Sensorial",
+          "role": "cuatrimestral · 80 h · correl. Estadística 1",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.aspectos-fisicos-quimicos-alimentos",
+          "name": "Aspectos Físicos y Químicos de los Alimentos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica Analítica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.aspectos-quimicos-contaminacion-ambiental",
+          "name": "Aspectos Químicos de la Contaminación Ambiental",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.biotecnologia-ambiental-microbiana",
+          "name": "Biotecnología Ambiental Microbiana",
+          "role": "bimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.biotecnologia-bacteriana-industrial",
+          "name": "Biotecnología Bacteriana Industrial",
+          "role": "bimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.caracterizacion-de-solidos",
+          "name": "Caracterización de Sólidos",
+          "role": "cuatrimestral · 80 h · correl. Química de Materiales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.ciencia-de-datos-procesos-quimicos",
+          "name": "Ciencia de Datos Aplicada a Procesos Químicos",
+          "role": "bimestral · 80 h · correl. Química Industrial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.conceptos-biologia-molecular",
+          "name": "Conceptos de Biología Molecular",
+          "role": "bimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.contaminantes-quimicos-alimentos",
+          "name": "Contaminantes Químicos en Alimentos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica Analítica, Nociones de Toxicología y Química Legal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.desarrollo-de-productos",
+          "name": "Desarrollo de Productos",
+          "role": "cuatrimestral · 80 h · correl. Aspectos Físicos y Químicos de los Alimentos, Operaciones Unitarias de Preservación de Alimentos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.electroanalisis",
+          "name": "Electroanálisis",
+          "role": "cuatrimestral · 80 h · correl. Química Analítica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.espectrometria-de-masa-avanzada",
+          "name": "Espectrometría de Masa Avanzada",
+          "role": "bimestral · 80 h · correl. Métodos Espectroscópicos en Química Orgánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.espectroscopia-rmn",
+          "name": "Espectroscopía RMN",
+          "role": "bimestral · 80 h · correl. Métodos Espectroscópicos en Química Orgánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.fundamentos-quimicos-economia-hidrogeno",
+          "name": "Fundamentos Químicos de la Economía del Hidrógeno",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2, Química Analítica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.genetica-molecular-bacteriana-1",
+          "name": "Genética Molecular Bacteriana I",
+          "role": "bimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.inmunobiotecnologia",
+          "name": "Inmunobiotecnología",
+          "role": "cuatrimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.metodos-avanzados-analisis-alimentos",
+          "name": "Métodos Avanzados de Análisis de Alimentos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica Analítica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.metodos-cromatograficos",
+          "name": "Métodos Cromatográficos: CG, HPLC",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2, Química Analítica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.metodos-instrumentales-quimica-ambiental",
+          "name": "Métodos Instrumentales en Química Ambiental",
+          "role": "cuatrimestral · 80 h · correl. Química Analítica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.microbiologia-de-alimentos",
+          "name": "Microbiología de Alimentos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica Analítica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.nanomateriales-inorganicos",
+          "name": "Nanomateriales Inorgánicos",
+          "role": "cuatrimestral · 80 h · correl. Química de Materiales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.operaciones-unitarias-preservacion-alimentos",
+          "name": "Operaciones Unitarias de Preservación de Alimentos",
+          "role": "cuatrimestral · 80 h · correl. Química Industrial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.operaciones-unitarias-procesos-bioprocesos",
+          "name": "Operaciones Unitarias en Procesos y Bioprocesos",
+          "role": "cuatrimestral · 80 h · correl. Química Industrial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.proteccion-ambiental-higiene-industrial",
+          "name": "Protección Ambiental e Higiene Industrial",
+          "role": "cuatrimestral · 80 h · correl. Química Industrial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-coordinacion-organometalica",
+          "name": "Química de Coordinación y Organometálica",
+          "role": "cuatrimestral · 80 h · correl. Laboratorio 1 de Química Orgánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-sistemas-acuosos-naturales",
+          "name": "Química de Sistemas Acuosos Naturales",
+          "role": "cuatrimestral · 80 h · correl. Química General, Física 1, Análisis Matemático 1",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-medicinal",
+          "name": "Química Medicinal",
+          "role": "cuatrimestral · 80 h · correl. Química Biológica del Metabolismo",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-sustentable",
+          "name": "Química Sustentable",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.quimica-fisicoquimica-solidos",
+          "name": "Química y Físico-Química de Sólidos",
+          "role": "cuatrimestral · 80 h · correl. Química de Materiales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.reactores-biorreactores",
+          "name": "Reactores y Biorreactores",
+          "role": "cuatrimestral · 80 h · correl. Química Industrial",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.reologia-de-materiales",
+          "name": "Reología de Materiales",
+          "role": "bimestral · 80 h · correl. Química de Materiales",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.sintesis-materiales-polimericos",
+          "name": "Síntesis de Materiales Poliméricos",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.sintesis-organica-a",
+          "name": "Síntesis Orgánica A",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.sistemas-autoensamblados",
+          "name": "Sistemas Autoensamblados",
+          "role": "cuatrimestral · 80 h · correl. Química Orgánica 2, Química Física 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.sistemas-electroquimicos-energia",
+          "name": "Sistemas Electroquímicos de Almacenamiento y Conversión de Energía",
+          "role": "cuatrimestral · 80 h · correl. Laboratorios 1 y 2 de Química Física",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.tecnicas-espectroscopicas-avanzadas",
+          "name": "Técnicas Espectroscópicas Avanzadas",
+          "role": "cuatrimestral · 80 h · correl. Química Analítica 2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.topicos-quimica-farmacologica",
+          "name": "Tópicos de Química Farmacológica",
+          "role": "bimestral · 80 h · correl. Química Biológica del Metabolismo",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.quimica.virologia",
+          "name": "Virología",
+          "role": "bimestral · 80 h · correl. Intro. a Química Biológica y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "RESCS-2023-1035-E-UBA-REC · texto ordenado del plan (comision-quimica.exactas.uba.ar)",
+    "url": "https://comision-quimica.exactas.uba.ar/wp-content/uploads/2024/10/CS-23-1035planmodificado.pdf"
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "address": "uba.fcen.biologia",
+  "level": "carrera",
+  "kind": "career",
+  "metadata": {
+    "plan": 2019,
+    "resolucion": "(CS) 1710/18",
+    "duracionTeorica": "6 años (incl. CBC)",
+    "cargaHorariaMinima": 4512,
+    "cicloTroncal": {
+      "materias": 14,
+      "horas": 2512
+    },
+    "cicloSuperior": {
+      "horas": 1440,
+      "electivas": 1120,
+      "tesis": 320,
+      "electivasListadas": 92
+    },
+    "materias": 107,
+    "correlativas": true
+  },
+  "groundingLevel": "L1",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.biologia",
+      "label": "Ciencias Biológicas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Biológicas · Plan 2019",
+  "title": "Un tronco de catorce, después el bosque.",
+  "lede": "El plan vigente (2019, Resolución CS 1710/18) de la Comisión de Carrera de Ciencias Biológicas de Exactas: un Ciclo Troncal de catorce materias obligatorias — de la célula y la matemática a la evolución — y un Ciclo Superior armado a medida con electivas y una tesis de 320 horas. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2019"
+    },
+    {
+      "k": "Materias",
+      "v": "107",
+      "small": "14 troncales + tesis + electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 107"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Resolución CS 1710/18, publicada en cccb.exactas.uba.ar y en el Código UBA). Nivel L1: nombres, cargas horarias, correlatividades y el recorrido orientativo por año son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción. El año 1 del plan es el CBC, que no se lista acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Troncal · Año 2",
+      "title": "Moléculas, células, plantas y números",
+      "note": "Recorrido orientativo del plan (el año 1 es el CBC); el orden obligatorio surge sólo de las correlatividades.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.intro-biologia-molecular-celular",
+          "name": "Introducción a la Biología Molecular y Celular",
+          "role": "1º cuat. · 192 h · correl.: CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.matematica-1",
+          "name": "Matemática I",
+          "role": "1º cuat. · 160 h · correl.: CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.intro-botanica",
+          "name": "Introducción a la Botánica",
+          "role": "2º cuat. · 192 h · correl.: CBC",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.quimica-general-inorganica-1",
+          "name": "Química General e Inorgánica I",
+          "role": "2º cuat. · 176 h · correl.: CBC",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Troncal · Año 3",
+      "title": "Animales, física, datos y carbono",
+      "note": "Recorrido orientativo del plan (el año 1 es el CBC); el orden obligatorio surge sólo de las correlatividades.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.intro-zoologia",
+          "name": "Introducción a la Zoología",
+          "role": "1º cuat. · 192 h · correl.: Int. a la Biología Molecular y Celular",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.mecanica-termodinamica",
+          "name": "Mecánica y Termodinámica",
+          "role": "1º cuat. · 160 h · correl.: Matemática I",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biometria",
+          "name": "Biometría",
+          "role": "2º cuat. · 192 h · correl.: Int. a la Biología Molecular y Celular, Matemática I, Int. a la Botánica o Int. a la Zoología",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "2º cuat. · 176 h · correl.: Química General e Inorgánica I",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Troncal · Año 4",
+      "title": "Bioquímica, ecología, genética y cálculo",
+      "note": "Recorrido orientativo del plan (el año 1 es el CBC); el orden obligatorio surge sólo de las correlatividades.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "1º cuat. · 176 h · correl.: Química Orgánica",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-general",
+          "name": "Ecología General",
+          "role": "1º cuat. · 192 h · correl.: Int. a la Botánica, Int. a la Zoología y Biometría",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica",
+          "name": "Genética",
+          "role": "2º cuat. · 192 h · correl.: Int. a la Botánica, Int. a la Zoología, Biometría y Química Biológica",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.matematica-2",
+          "name": "Matemática II",
+          "role": "2º cuat. · 160 h · correl.: Matemática I",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Troncal · Año 5",
+      "title": "Evolución y campos — cierre del troncal",
+      "note": "Recorrido orientativo del plan (el año 1 es el CBC); el orden obligatorio surge sólo de las correlatividades.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.evolucion",
+          "name": "Evolución",
+          "role": "1º cuat. · 192 h · correl.: Genética",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.electromagnetismo-optica",
+          "name": "Electromagnetismo y Óptica",
+          "role": "1º cuat. · 160 h · correl.: Mecánica y Termodinámica",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Superior · Tesis",
+      "title": "Trescientas veinte horas de investigación propia",
+      "note": "Desde el 2º cuatrimestre del 5º año, en paralelo a las electivas.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "320 h · desde 5º año, 2º cuat.",
+          "tag": "tesis",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Ciclo Superior · Electivas · 92",
+      "title": "Un plan individual, guiado por un tutor",
+      "note": "Mínimo 1120 h en electivas u optativas (máximo 14 asignaturas, al menos 4 de 160 h), armadas en un Plan Individual de Estudios según la orientación elegida. Listado de electivas de la Resolución (CS) 1710/18; las optativas vigentes se aprueban aparte por la Comisión de Carrera.",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia.algebra-i",
+          "name": "Álgebra I",
+          "role": "160 h · correl.: CBC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.analisis-biologicos-i",
+          "name": "Análisis Biológicos I",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.analisis-i",
+          "name": "Análisis I",
+          "role": "160 h · correl.: CBC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.bioestratigrafia",
+          "name": "Bioestratigrafía",
+          "role": "120 h · correl.: Int. a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-animal-sensorial",
+          "name": "Biología Animal Sensorial",
+          "role": "160 h · correl.: Fisiología Animal Comparada o Int.a la Fisiología Animal o Fisiología del Comportamiento Animal o Fisiología Vegetal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-celular",
+          "name": "Biología Celular",
+          "role": "160 h · correl.: Electromagnetismo y Óptica y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-comparada-de-protistas",
+          "name": "Biología Comparada de Protistas",
+          "role": "160 h · correl.: Int.a la Zoología e Int.a la Botánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-de-la-conservacion",
+          "name": "Biología de la Conservación",
+          "role": "160 h · correl.: Ecología General y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-de-la-reproduccion-y-el-desarrollo",
+          "name": "Biología de la Reproducción y el Desarrollo",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-del-desarrollo-reproductivo-de-plantas",
+          "name": "Biología del Desarrollo Reproductivo de Plantas",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-del-desarrollo-vegetativo-de-plantas",
+          "name": "Biología del Desarrollo Vegetativo de Plantas",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-de-peces",
+          "name": "Biología de Peces",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-molecular",
+          "name": "Biología Molecular",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biologia-molecular-de-microorganismos-eucariotas",
+          "name": "Biología Molecular de Microorganismos Eucariotas",
+          "role": "160 h · correl.: Genética, Ecología General y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biometria-ii",
+          "name": "Biometría II",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.bioquimica-avanzada",
+          "name": "Bioquímica Avanzada",
+          "role": "120 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biotecnologia-industrial-y-microbiologia-aplicada",
+          "name": "Biotecnología Industrial y Microbiología Aplicada (Bacterias y Arqueas)",
+          "role": "120 h · correl.: Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biotecnologia-microbiana-ambiental",
+          "name": "Biotecnología Microbiana Ambiental",
+          "role": "120 h · correl.: Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.biotecnologia-vegetal",
+          "name": "Biotecnología Vegetal",
+          "role": "160 h · correl.: Genética y Biología Molecular o Genética Molecular o Ingeniería Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.botanica-economica",
+          "name": "Botánica Económica",
+          "role": "120 h · correl.: Genética o Sistemática de Plantas Vasculares",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.citogenetica",
+          "name": "Citogenética",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.conceptos-y-tecnicas-de-biotecnologia",
+          "name": "Conceptos y Técnicas de Biotecnología",
+          "role": "160 h · correl.: Genética y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-ambiental",
+          "name": "Ecología Ambiental",
+          "role": "160 h · correl.: Ecología General",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-de-comunidades-y-ecosistemas",
+          "name": "Ecología de Comunidades y Ecosistemas",
+          "role": "160 h · correl.: Ecología General",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-de-poblaciones",
+          "name": "Ecología de Poblaciones",
+          "role": "160 h · correl.: Ecología General y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-del-comportamiento-animal",
+          "name": "Ecología del Comportamiento Animal",
+          "role": "160 h · correl.: Ecología General y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-de-paisajes-y-regiones",
+          "name": "Ecología de Paisajes y Regiones",
+          "role": "160 h · correl.: Ecología Ambiental",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-y-desarrollo",
+          "name": "Ecología y Desarrollo",
+          "role": "160 h · correl.: Ecología General",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ecologia-y-epidemiologia-de-infecciones-parasitarias",
+          "name": "Ecología y Epidemiología de Infecciones Parasitarias",
+          "role": "160 h · correl.: Ecología General y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.edafologia",
+          "name": "Edafología",
+          "role": "120 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.elementos-de-biologia-floral",
+          "name": "Elementos de Biología Floral",
+          "role": "160 h · correl.: Genética y Sistemática de Plantas Vasculares",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.endocrinologia-de-vertebrados",
+          "name": "Endocrinología de Vertebrados",
+          "role": "160 h · correl.: Genética y Fisiología Animal Comparada o Int.a la Fisiología Animal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.estructura-y-funcion-de-biomoleculas",
+          "name": "Estructura y Función de Biomoléculas",
+          "role": "160 h · correl.: Electromagnetismo y Óptica y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ficologia",
+          "name": "Ficología",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-animal-comparada",
+          "name": "Fisiología Animal Comparada",
+          "role": "160 h · correl.: Electromagnetismo y Óptica y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-del-comportamiento-animal",
+          "name": "Fisiología del Comportamiento Animal",
+          "role": "160 h · correl.: Genética y Fisiología Animal Comparada o Int.a la Fisiología Animal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-del-sistema-nervioso",
+          "name": "Fisiología del Sistema Nervioso",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-vegetal",
+          "name": "Fisiología Vegetal",
+          "role": "160 h · correl.: Genética y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-y-comportamiento-de-insectos",
+          "name": "Fisiología y Comportamiento de Insectos",
+          "role": "160 h · correl.: Electromagnetismo y Óptica y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiotopatologia-molecular",
+          "name": "Fisiopatología Molecular",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fitopatologia",
+          "name": "Fitopatología",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fotointerpretacion",
+          "name": "Fotointerpretación",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-molecular-bacteriana-i",
+          "name": "Genética Molecular Bacteriana I",
+          "role": "80 h · correl.: Genética y Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-molecular-bacteriana-ii",
+          "name": "Genética Molecular Bacteriana II",
+          "role": "80 h · correl.: Genética Molecular Bacteriana I",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-de-poblaciones",
+          "name": "Genética de Poblaciones",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-molecular",
+          "name": "Genética Molecular",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-molecular-del-desarrollo",
+          "name": "Genética Molecular del Desarrollo",
+          "role": "160 h · correl.: Genética y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-toxicologica",
+          "name": "Genética Toxicológica",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genetica-y-ecologia-molecular",
+          "name": "Genética y Ecología Molecular",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.genomica-aplicada",
+          "name": "Genómica Aplicada",
+          "role": "160 h · correl.: Biología Molecular o Genética Molecular",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.geologia-marina",
+          "name": "Geología Marina",
+          "role": "120 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.geologia-y-ecologia-ambiental-de-areas-costeras",
+          "name": "Geología y Ecología Ambiental de Áreas Costeras",
+          "role": "120 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.geomorfologia",
+          "name": "Geomorfología",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.histologia-animal",
+          "name": "Histología Animal",
+          "role": "160 h · correl.: Ecología General, Electromagnetismo y Óptica y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.historia-de-la-ciencia",
+          "name": "Historia de la Ciencia",
+          "role": "120 h · correl.: Diez (10) asignaturas de la Licenciatura",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.ingenieria-genetica",
+          "name": "Ingeniería Genética",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.inmunologia-celular-y-molecular",
+          "name": "Inmunología Celular y Molecular",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.instrumentacion-biologica",
+          "name": "Instrumentación Biológica",
+          "role": "120 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.introduccion-a-la-bioinformatica-molecular",
+          "name": "Introducción a la Bioinformática Molecular",
+          "role": "120 h · correl.: Biometría, Introducción a la Biología Celular, Química Biológica e Int.a la Botánica o Int. a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.introduccion-a-la-computacion",
+          "name": "Introducción a la Computación",
+          "role": "120 h · correl.: Biometría y Matemática II",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.introduccion-a-la-fisiologia-animal",
+          "name": "Introducción a la Fisiología Animal",
+          "role": "160 h · correl.: Electromagnetismo y Óptica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.introduccion-a-la-geologia",
+          "name": "Introducción a la Geología (B)",
+          "role": "160 h · correl.: Química General e Inorgánica I",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.introduccion-a-la-toxicologia",
+          "name": "Introducción a la Toxicología",
+          "role": "160 h · correl.: Genética, Mecánica y Termodinámica y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.invertebrados-i",
+          "name": "Invertebrados I",
+          "role": "160 h · correl.: Int.a la Botánica y Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.invertebrados-ii-crustacea-y-chelicerata",
+          "name": "Invertebrados II: Crustacea y Chelicerata",
+          "role": "80 h · correl.: Ecología General, Genética, Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.invertebrados-ii-insecta-y-myriapoda",
+          "name": "Invertebrados II: Insecta y Myriapoda",
+          "role": "160 h · correl.: Ecología General, Genética, Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.limnologia",
+          "name": "Limnología",
+          "role": "160 h · correl.: Ecología General y Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.micologia",
+          "name": "Micología",
+          "role": "160 h · correl.: Genética y Morfología de Criptógamas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.fisiologia-fungica",
+          "name": "Fisiología Fúngica",
+          "role": "160 h · correl.: Int.a la Botánica y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.microbiologia",
+          "name": "Microbiología",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.microbiologia-del-suelo",
+          "name": "Microbiología del Suelo",
+          "role": "160 h · correl.: Int.a la Biología Molecular y Celular, Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.micropaleontologia",
+          "name": "Micropaleontología",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.morfologia-de-criptogamas",
+          "name": "Morfología de Criptógamas",
+          "role": "160 h · correl.: Int.a la Botánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.neurobiologia-del-aprendizaje-y-la-memoria",
+          "name": "Neurobiología del Aprendizaje y la Memoria",
+          "role": "160 h · correl.: Fisiología Animal Comparada o Int. a la Fisiología Animal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.neurofisiologia-integrativa",
+          "name": "Neurofisiología Integrativa",
+          "role": "160 h · correl.: Fisiología Animal Comparada o Int.a la Fisiología Animal o Fisiología del Sistema Nervioso",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.oceanografia-biologica",
+          "name": "Oceanografía Biológica",
+          "role": "160 h · correl.: Ecología General, Electromagnetismo y Óptica, Química Biológica, Morfología de Criptógamas o Ficología o Biología Comparada de Protistas y dos (2) materias a optar entre las siguientes 4 (cuatro): Biología de Peces, Invertebrados I, Invertebrados II: Crustacea y Chelicerata o Invertebrados II: Insecta y Myriapoda, Vertebrados",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.oceanografia-general",
+          "name": "Oceanografía General",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.organizacion-y-funcion-celular",
+          "name": "Organización y Función Celular",
+          "role": "160 h · correl.: Genética y Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleobiologia",
+          "name": "Paleobiología",
+          "role": "160 h · correl.: Evolución",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleobotanica",
+          "name": "Paleobotánica",
+          "role": "160 h · correl.: Int.a la Botánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleoecologia",
+          "name": "Paleoecología",
+          "role": "120 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleontologia",
+          "name": "Paleontología",
+          "role": "160 h · correl.: Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleontologia-de-invertebrados",
+          "name": "Paleontología de Invertebrados",
+          "role": "160 h · correl.: Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.paleontologia-de-vertebrados",
+          "name": "Paleontología de Vertebrados",
+          "role": "160 h · correl.: Vertebrados",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.palinoestatigrafia",
+          "name": "Palinoestratigrafía",
+          "role": "160 h · correl.: Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.quimica-farmacologica",
+          "name": "Química Farmacológica",
+          "role": "120 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.quimica-fisiologica",
+          "name": "Química Fisiológica",
+          "role": "160 h · correl.: Química Biológica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.sedimentologia",
+          "name": "Sedimentología",
+          "role": "160 h · correl.: Ciclo Troncal",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.sistematica-de-plantas-vasculares",
+          "name": "Sistemática de Plantas Vasculares",
+          "role": "160 h · correl.: Int.a la Botánica",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.sistematica-teorica",
+          "name": "Sistemática Teórica",
+          "role": "160 h · correl.: Genética",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.vertebrados",
+          "name": "Vertebrados",
+          "role": "160 h · correl.: Ecología General, Electromagnetismo y Óptica, Genética, Int.a la Botánica e Int.a la Zoología",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.biologia.virologia-molecular",
+          "name": "Virología Molecular",
+          "role": "160 h · correl.: Microbiología",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cccb.exactas.uba.ar/plan-2019 · Resolución (CS) 1710/18 · codigo.rec.uba.ar",
+    "url": "https://cccb.exactas.uba.ar/wp-content/uploads/2019/09/79541a_f284512137d04aeab48bcc2db3370c93.pdf"
+  }
+}

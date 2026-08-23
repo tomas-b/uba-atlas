@@ -1,0 +1,324 @@
+{
+  "address": "uba.fadu.arquitectura",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "vigente (fadu.uba.ar/arquitectura · Plan de Correlatividades abr-2025)",
+    "niveles": 5,
+    "materias": 32,
+    "correlativas": true,
+    "optativas": "240 hs (ingresantes desde 2015) · 300 hs (ingreso anterior a 2015)",
+    "ppaObligatoria": "ingresantes a partir del Ciclo Lectivo 2015"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.arquitectura",
+      "label": "Arquitectura"
+    }
+  ],
+  "eyebrow": "Arquitectura · Plan vigente · 5 niveles",
+  "title": "Cinco niveles, del taller de Arquitectura I al Proyecto Arquitectónico.",
+  "lede": "El plan real de Arquitectura en FADU: cinco niveles ordenados por taller — Arquitectura I a IV, después Proyecto Urbano y Proyecto Arquitectónico — con las líneas de Estructuras, Construcciones, Instalaciones, Historia y Morfología corriendo en paralelo. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "vigente",
+      "small": "correlativas 2025"
+    },
+    {
+      "k": "Materias",
+      "v": "32",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 32"
+    }
+  ],
+  "frame": "Estructura sourceada de la página oficial de la carrera (fadu.uba.ar/arquitectura) y del Plan de Correlatividades publicado por la facultad (PDF, abril 2025). Nivel L1: los nombres, niveles y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). El tramo de Materias Optativas (240 hs para ingresantes desde 2015; 300 hs para ingresos anteriores) no nombra materias fijas y por eso no se dibuja. La página oficial no publica año ni resolución del plan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 1",
+      "title": "Entrar al taller",
+      "note": "Correlativa de ingreso: CBC completo (ICSE, IPC, ICP I y II, Matemática, Filosofía, Taller de Dibujo).",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura.arquitectura-1",
+          "name": "Arquitectura I",
+          "role": "taller · A1",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.matematica-2",
+          "name": "Matemática II",
+          "role": "MAT2",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.sistemas-representacion-geometrica",
+          "name": "Sistemas de Representación Geométrica",
+          "role": "SRG",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.fisica-aplicada",
+          "name": "Física Aplicada a la Arquitectura",
+          "role": "FAA",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.intro-arquitectura-contemporanea",
+          "name": "Introducción a la Arquitectura Contemporánea",
+          "role": "IAC",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.intro-tipos-constructivos",
+          "name": "Introducción a los Tipos Constructivos",
+          "role": "ITC",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.intro-tipos-estructurales",
+          "name": "Introducción a los Tipos Estructurales",
+          "role": "ITE",
+          "tag": "nivel 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 2",
+      "title": "Las líneas se abren",
+      "note": "A2 requiere A1 y SRG cursadas; C1, E1 e I1 requieren los TP de ITC–ITE–MAT2 (I1: ITC–FAA–MAT2).",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura.arquitectura-2",
+          "name": "Arquitectura II",
+          "role": "taller · A2",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.estructuras-1",
+          "name": "Estructuras I",
+          "role": "E1",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.historia-1",
+          "name": "Historia I",
+          "role": "H1",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.construcciones-1",
+          "name": "Construcciones I",
+          "role": "C1",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.instalaciones-1",
+          "name": "Instalaciones I",
+          "role": "I1",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.morfologia-1",
+          "name": "Morfología I",
+          "role": "M1",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.representacion-arquitectonica",
+          "name": "Representación Arquitectónica",
+          "role": "RA",
+          "tag": "nivel 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 3",
+      "title": "Materializar",
+      "note": "A3 y MP requieren A2–M1–RA cursadas y los TP de IAC–C1–I1–E1; las segundas de cada línea requieren la primera.",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura.arquitectura-3",
+          "name": "Arquitectura III",
+          "role": "taller · A3",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.estructuras-2",
+          "name": "Estructuras II",
+          "role": "E2",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.historia-2",
+          "name": "Historia II",
+          "role": "H2",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.construcciones-2",
+          "name": "Construcciones II",
+          "role": "C2",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.instalaciones-2",
+          "name": "Instalaciones II",
+          "role": "I2",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.morfologia-2",
+          "name": "Morfología II",
+          "role": "M2",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.materializacion-de-proyectos",
+          "name": "Materialización de Proyectos",
+          "role": "MP",
+          "tag": "nivel 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 4",
+      "title": "Ciudad, teoría y terceras",
+      "note": "Las terceras de cada línea (H3, C3, E3, I3) exigen la segunda aprobada y 3º nivel completo para rendir. Desde aquí corre también el tramo de Materias Optativas (20 créditos / 240–300 hs), sin materias fijas.",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura.arquitectura-4",
+          "name": "Arquitectura IV",
+          "role": "taller · A4",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.estructuras-3",
+          "name": "Estructuras III",
+          "role": "E3",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.planificacion-urbana",
+          "name": "Planificación Urbana",
+          "role": "PU",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.construcciones-3",
+          "name": "Construcciones III",
+          "role": "C3",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.instalaciones-3",
+          "name": "Instalaciones III",
+          "role": "I3",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.historia-3",
+          "name": "Historia III",
+          "role": "H3",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.teoria-de-la-arquitectura",
+          "name": "Teoría de la Arquitectura",
+          "role": "T",
+          "tag": "nivel 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 5",
+      "title": "Proyecto y obra",
+      "note": "Proyecto Urbano requiere A4–H1–C1–E1–I1–T y los TP de H3–C3–E3–I3; Proyecto Arquitectónico requiere Proyecto Urbano. PPA (obligatoria para ingresantes desde 2015) requiere 4º nivel completo.",
+      "exits": [
+        {
+          "address": "uba.fadu.arquitectura.direccion-y-legislacion-de-obra",
+          "name": "Dirección y Legislación de Obra",
+          "role": "DyLO",
+          "tag": "nivel 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.proyecto-urbano",
+          "name": "Proyecto Urbano",
+          "role": "PUR",
+          "tag": "nivel 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.proyecto-arquitectonico",
+          "name": "Proyecto Arquitectónico",
+          "role": "PA",
+          "tag": "nivel 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.arquitectura.practicas-profesionales-asistidas",
+          "name": "Prácticas Profesionales Asistidas",
+          "role": "PPA · obligatoria desde ingreso 2015",
+          "tag": "nivel 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/arquitectura · Plan de Correlatividades ARQ (PDF, abr-2025)",
+    "url": "https://www.fadu.uba.ar/arquitectura/"
+  }
+}

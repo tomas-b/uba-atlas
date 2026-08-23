@@ -1,0 +1,121 @@
+{
+  "address": "uba.psi.profesorado",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Plan 2004",
+    "resoluciones": [
+      "Res. (CS) N° 1863/95 (creación del Profesorado)",
+      "Res. (CD) N° 1055/04 (inscripción simultánea 903 y 904)"
+    ],
+    "titulo": "Profesor de Enseñanza Media y Superior en Psicología",
+    "materias": 4,
+    "cargaHorariaPedagogica": "450 h (incluye 20 h de práctica de la enseñanza)",
+    "areas": {
+      "formacionPsicologica": "CBC + CFG de la Licenciatura + Psicología Institucional y Psicología Educacional (23 asignaturas, viven en uba.psi.psicologia)",
+      "formacionPedagogica": "4 asignaturas: 3 cuatrimestrales + 1 anual"
+    },
+    "ingreso": [
+      "Licenciados en Psicología graduados en la UBA",
+      "Estudiantes de la Licenciatura en Psicología (UBA) con CBC, CFG y Psicología Institucional + Psicología Educacional aprobadas"
+    ],
+    "correlativas": "Área pedagógica requiere las seis materias del CBC y la totalidad del Área de Formación Psicológica; 904 requiere 903 aprobada (inscripción simultánea permitida); 904 es de promoción directa y no se rinde libre",
+    "inscripcion": "cada cuatrimestre, Dirección de Alumnos",
+    "sedes": [
+      "Independencia (Psicología)",
+      "Hipólito Yrigoyen (Psicología)",
+      "Uriburu 781 (Ciencias Económicas)"
+    ]
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.psi",
+      "label": "Psicología"
+    },
+    {
+      "address": "uba.psi.profesorado",
+      "label": "Profesorado en Psicología"
+    }
+  ],
+  "eyebrow": "Profesorado de Enseñanza Media y Superior en Psicología · Plan 2004",
+  "title": "Cuatro materias y veinte horas frente a un aula.",
+  "lede": "El tramo pedagógico real de la Facultad de Psicología: 450 horas en cuatro asignaturas — tres cuatrimestrales y una anual con práctica de la enseñanza en escuelas secundarias y terciarios de la Ciudad. Se entra desde la Licenciatura: el Área de Formación Psicológica (CBC, Ciclo de Formación General, Psicología Institucional y Educacional) ya es suya y vive en su propio árbol. Cada materia es una puerta — clic para trazar su programa.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2004",
+      "small": "Res. CS 1863/95"
+    },
+    {
+      "k": "Materias",
+      "v": "4",
+      "small": "propias · 450 h"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 4"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por la Facultad (psi.uba.ar/academica → Profesorado, con el esquema Plan de Estudios 2024). El Profesorado se organiza en dos áreas: el Área de Formación Psicológica —todas las materias del CBC, las obligatorias del Ciclo de Formación General y Psicología Institucional y Psicología Educacional del Ciclo Profesional— que pertenece a la Licenciatura, y el Área de Formación Pedagógica, las cuatro materias propias que se listan acá. Para cursarlas hay que tener aprobadas las seis materias del CBC y la totalidad del Área Psicológica. Nivel L1: nombres, códigos y régimen son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Área de Formación Pedagógica · cuatrimestrales",
+      "title": "Teoría de la educación y didáctica",
+      "note": "Tres materias cuatrimestrales. Didáctica Especial de la Psicología (903) es correlativa de la anual 904; ambas pueden cursarse en simultáneo al comienzo del año (Res. CD 1055/04).",
+      "exits": [
+        {
+          "address": "uba.psi.profesorado.teorias-educacion",
+          "name": "Teorías de la Educación y Sistema Educativo Argentino",
+          "role": "cuatrimestral · cód. 901",
+          "tag": "pedagógica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.profesorado.didactica-general",
+          "name": "Didáctica General",
+          "role": "cuatrimestral · cód. 902",
+          "tag": "pedagógica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.psi.profesorado.didactica-especial",
+          "name": "Didáctica Especial de la Psicología",
+          "role": "cuatrimestral · cód. 903 · requisito de 904",
+          "tag": "pedagógica",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área de Formación Pedagógica · anual",
+      "title": "La práctica de la enseñanza",
+      "note": "Anual, de promoción directa, no se rinde libre. Requiere 903 aprobada y las 20 horas de práctica en establecimientos secundarios y terciarios gestionados por la Facultad. No admite inscripción en el segundo cuatrimestre.",
+      "exits": [
+        {
+          "address": "uba.psi.profesorado.practica-ensenanza",
+          "name": "Didáctica Especial y Práctica de la Enseñanza",
+          "role": "anual · cód. 904 · 20 h de práctica",
+          "tag": "pedagógica",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "psi.uba.ar/academica → Profesorado (plan + materias) · Plan de Estudios 2024 (esquema)",
+    "url": "https://www.psi.uba.ar/academica.php?var=profesorado/index.php"
+  }
+}

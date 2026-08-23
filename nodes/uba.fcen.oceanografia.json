@@ -1,0 +1,366 @@
+{
+  "address": "uba.fcen.oceanografia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2018,
+    "resolucion": "Res. (CS) 6444/17",
+    "titulo": "Licenciado/a en Ciencias Oceanográficas",
+    "años": 5,
+    "materias": 30,
+    "obligatoriasPropias": 17,
+    "electivas": 7,
+    "cargaHorariaTotal": 4168,
+    "correlativas": false
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.oceanografia",
+      "label": "Ciencias Oceanográficas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Oceanográficas · Plan 2018",
+  "title": "Cinco años, de la matemática al fondo del mar.",
+  "lede": "El plan real (2018, Res. CS 6444/17) del Departamento de Ciencias de la Atmósfera y los Océanos: tres ciclos que van de matemática y física a la dinámica del océano, la circulación general y una tesis. Treinta asignaturas en total: seis del CBC (que vive en su propio árbol), diecisiete obligatorias propias y siete electivas elegidas de una lista oficial.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2018",
+      "small": "Res. CS 6444/17"
+    },
+    {
+      "k": "Materias",
+      "v": "17",
+      "small": "obligatorias propias + 7 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 40"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Código UBA, Libro V, Título 19, Capítulo A: Plan 2018 · ingresantes.exactas.uba.ar). Nivel L1: los nombres, ciclos, años y cuatrimestres son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción. Carga horaria total: 4.168 horas reloj; duración teórica 5 años.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Básica · 12 propias",
+      "title": "Matemática, física y el primer océano",
+      "note": "Las otras seis del ciclo son del CBC (Análisis Matemático A, Álgebra, Física, Química, Sociedad y Estado, Pensamiento Científico) y viven en uba.cbc.",
+      "exits": [
+        {
+          "address": "uba.fcen.oceanografia.oceanografia-general",
+          "name": "Oceanografía General",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.matematica-3",
+          "name": "Matemática III",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.matematica-1",
+          "name": "Matemática I",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.fisica-1",
+          "name": "Física I",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.matematica-2",
+          "name": "Matemática II",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.laboratorio-1",
+          "name": "Laboratorio I",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.probabilidades-estadistica",
+          "name": "Probabilidades y Estadística",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.quimica-oceanografos",
+          "name": "Química General e Inorgánica para Oceanógrafos",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.fisica-2",
+          "name": "Física II",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.fisica-3",
+          "name": "Física III",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.matematica-4",
+          "name": "Matemática IV",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.calculo-numerico",
+          "name": "Cálculo Numérico",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Introductoria · 5",
+      "title": "El océano como fluido",
+      "exits": [
+        {
+          "address": "uba.fcen.oceanografia.meteorologia-oceanografia-teorica",
+          "name": "Meteorología y Oceanografía Teórica",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.dinamica-del-oceano",
+          "name": "Dinámica del Océano",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.mecanica-de-los-fluidos",
+          "name": "Mecánica de los Fluidos",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.instrumentos-metodos-observacion",
+          "name": "Instrumentos y Métodos de Observación Oceanográficos",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.circulacion-general",
+          "name": "Circulación General",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Especialización · 7 electivas + tesis",
+      "title": "Elegir el mar propio",
+      "note": "Se aprueban siete asignaturas: al menos cinco de esta lista oficial y hasta dos electivas u optativas de otra oferta. Cierra con la Tesis de Licenciatura (160 hs).",
+      "exits": [
+        {
+          "address": "uba.fcen.oceanografia.metodos-numericos",
+          "name": "Métodos Numéricos",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.intro-ingenieria-de-costas",
+          "name": "Introducción a la Ingeniería de Costas",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.metodos-estadisticos",
+          "name": "Métodos Estadísticos",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.mareas",
+          "name": "Mareas",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.olas",
+          "name": "Olas",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.olas-no-lineales",
+          "name": "Olas No Lineales",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.oceanografia-aplicada",
+          "name": "Oceanografía Aplicada",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.geologia-marina-litoral",
+          "name": "Geología Marina y Litoral",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.quimica-del-agua-de-mar",
+          "name": "Química del Agua de Mar",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.propagacion-del-sonido-en-el-mar",
+          "name": "Propagación del Sonido en el Mar",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.climatologia",
+          "name": "Climatología",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.climatologia-dinamica",
+          "name": "Climatología Dinámica",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.contaminacion-del-oceano",
+          "name": "Contaminación del Océano y sus Costas",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.dinamica-atmosfera-oceano",
+          "name": "Dinámica de la Atmósfera y el Océano",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.oceanografia-fisica",
+          "name": "Oceanografía Física",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.oceanografia-tropical",
+          "name": "Oceanografía Tropical",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.modelos-numericos",
+          "name": "Modelos Numéricos",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.recursos-hidricos-y-clima",
+          "name": "Recursos Hídricos y Clima",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.laboratorio-procesamiento-oceanografico",
+          "name": "Laboratorio de Procesamiento de Información Oceanográfica",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.laboratorio-2",
+          "name": "Laboratorio II",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.cambio-climatico",
+          "name": "Cambio Climático",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.oceanografia-satelital",
+          "name": "Oceanografía Satelital",
+          "role": "electiva",
+          "tag": "especialización",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.oceanografia.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "160 hs · defensa pública",
+          "tag": "cierre",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Código UBA · Libro V · Título 19 · Plan 2018 (Res. CS 6444/17) · ingresantes.exactas.uba.ar",
+    "url": "https://codigo.rec.uba.ar/libro_v__exactas/libro-v-facultad-de-cs-exactas-y-naturales/titulo-19-licenciatura-en-ciencias-oceanograficas/capitulo-a-plan-2018/"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "address": "uba.fcen.paleontologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2001,
+    "resoluciones": ["CS 5919/01", "CS 4739/05", "CS 1686/14", "CD 1334/2004", "CD 2712/2011"],
+    "años": 5,
+    "materias": 21,
+    "materiasObligatorias": 20,
+    "tesis": true,
+    "horasObligatorias": 3034,
+    "creditosElectivos": 800,
+    "horasTotales": 3834,
+    "departamentos": ["Ciencias Geológicas", "Ciencias Biológicas", "Ciencias de la Atmósfera y los Océanos"],
+    "correlativas": {
+      "Paleontología": ["Biodiversidad de Animales", "Biodiversidad de Vegetales", "Geología General"],
+      "Biometría": ["Biodiversidad de Animales", "Biodiversidad de Vegetales"],
+      "Fundamentos de Sedimentología y Estratigrafía": ["Geología General"],
+      "Paleobotánica": ["Paleontología"],
+      "Química Orgánica para Paleontólogos": ["Química General e Inorgánica para Paleontólogos"],
+      "Ambientes Sedimentarios": ["Fundamentos de Sedimentología y Estratigrafía"],
+      "Paleontología de Invertebrados": ["Paleontología"],
+      "Genética General": ["Introducción a la Biología Molecular para Paleontólogos", "Química Orgánica para Paleontólogos"],
+      "Vertebrados": ["Biodiversidad de Animales"],
+      "Fundamentos de Micropaleontología": ["Paleontología"],
+      "Evolución para Paleontólogos": ["Genética General"],
+      "Paleontología de Vertebrados": ["Paleontología", "Vertebrados"],
+      "Bioestratigrafía": ["Paleontología"]
+    }
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.paleontologia",
+      "label": "Paleontología"
+    }
+  ],
+  "eyebrow": "Licenciatura en Paleontología · Plan 2001 (y modificatorias)",
+  "title": "Cinco años entre la roca y el organismo.",
+  "lede": "El plan real (2001, con modificatorias hasta 2014) de la única licenciatura de Exactas que cursa a la vez en Geológicas y Biológicas: de la biodiversidad y la geología general a invertebrados, vertebrados, micropaleontología y bioestratigrafía, con 800 créditos de electivas y una tesis final. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2001",
+      "small": "modif. 2005 · 2014"
+    },
+    {
+      "k": "Materias",
+      "v": "21",
+      "small": "20 obligatorias + tesis"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 21"
+    }
+  ],
+  "frame": "Estructura sourceada del texto oficial del plan (Código UBA, Libro V, Título 18, Capítulo A: Plan 2001 y sus modificatorias — Res. CS 5919/01, 4739/05, 1686/14), cotejada con ingresantes.exactas.uba.ar (Res. CD 1334/2004 y 2712/2011). Nivel L1: nombres, años, cuatrimestres, cargas horarias y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las electivas (800 créditos a elegir de una nómina de 49) no son puertas: no forman parte fija del plan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 1",
+      "title": "Biodiversidad, Tierra y moléculas",
+      "exits": [
+        {
+          "address": "uba.fcen.paleontologia.biodiversidad-vegetales",
+          "name": "Biodiversidad de Vegetales",
+          "role": "1º cuat. · 160 hs",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.intro-atmosfera-oceanos",
+          "name": "Introducción a las Ciencias de la Atmósfera y de los Océanos",
+          "role": "1º cuat. · 128 hs",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.intro-biologia-molecular",
+          "name": "Introducción a la Biología Molecular para Paleontólogos",
+          "role": "1º cuat. · 160 hs",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.biodiversidad-animales",
+          "name": "Biodiversidad de Animales",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.geologia-general",
+          "name": "Geología General",
+          "role": "2º cuat. · 128 hs",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.fisica",
+          "name": "Física para Paleontólogos",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "El fósil entra en escena",
+      "exits": [
+        {
+          "address": "uba.fcen.paleontologia.paleontologia",
+          "name": "Paleontología",
+          "role": "1º cuat. · 160 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.biometria",
+          "name": "Biometría",
+          "role": "1º cuat. · 120 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.quimica-general-inorganica",
+          "name": "Química General e Inorgánica para Paleontólogos",
+          "role": "2º cuat. · 192 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.sedimentologia-estratigrafia",
+          "name": "Fundamentos de Sedimentología y Estratigrafía",
+          "role": "2º cuat. · 90 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.paleobotanica",
+          "name": "Paleobotánica",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Invertebrados, vertebrados, microfósiles",
+      "exits": [
+        {
+          "address": "uba.fcen.paleontologia.quimica-organica",
+          "name": "Química Orgánica para Paleontólogos",
+          "role": "1º cuat. · 160 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.ambientes-sedimentarios",
+          "name": "Ambientes Sedimentarios",
+          "role": "1º cuat. · 128 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.paleontologia-invertebrados",
+          "name": "Paleontología de Invertebrados",
+          "role": "1º cuat. · 160 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.genetica-general",
+          "name": "Genética General",
+          "role": "2º cuat. · 110 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.vertebrados",
+          "name": "Vertebrados",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.micropaleontologia",
+          "name": "Fundamentos de Micropaleontología",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Evolución y tiempo geológico",
+      "note": "El primer cuatrimestre suma electivas (no listadas: se eligen de la nómina de 49).",
+      "exits": [
+        {
+          "address": "uba.fcen.paleontologia.evolucion",
+          "name": "Evolución para Paleontólogos",
+          "role": "1º cuat. · 90 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.paleontologia-vertebrados",
+          "name": "Paleontología de Vertebrados",
+          "role": "2º cuat. · 160 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.paleontologia.bioestratigrafia",
+          "name": "Bioestratigrafía",
+          "role": "2º cuat. · 128 hs",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Electivas y tesis",
+      "note": "Ambos cuatrimestres: electivas hasta completar 800 créditos, más la tesis.",
+      "exits": [
+        {
+          "address": "uba.fcen.paleontologia.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "1º y 2º cuat. · 160 hs",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Código UBA · Libro V · Título 18 · Cap. A: Plan 2001 y sus modificatorias · cotejado con ingresantes.exactas.uba.ar",
+    "url": "https://codigo.rec.uba.ar/libro_v__exactas/libro-v-facultad-de-cs-exactas-y-naturales/titulo-18-licenciatura-en-paleontologia/capitulo-a-plan-2001-y-su-modificatorias/"
+  }
+}

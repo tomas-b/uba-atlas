@@ -1,0 +1,294 @@
+{
+  "address": "uba.fadu.indumentaria",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2016,
+    "resolucion": "Res. (CS) Nº 6182/16",
+    "años": 5,
+    "materias": 28,
+    "optativas": 2,
+    "cargaHorariaTotal": 2697,
+    "ciclos": [
+      "CBC",
+      "Ciclo de Formación Intermedio",
+      "Ciclo de Formación Profesional"
+    ],
+    "correlativas": "cuadro de correlatividades publicado por FADU (PDF)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.indumentaria",
+      "label": "Diseño de Indumentaria"
+    }
+  ],
+  "eyebrow": "Diseño de Indumentaria · Plan 2016",
+  "title": "Cinco años, del modelaje geométrico a la colección final.",
+  "lede": "El plan real (2016, Res. CS 6182/16) de la carrera de Diseño de Indumentaria de FADU: un ciclo intermedio de dos años centrado en Medios Expresivos y el primer taller de Proyecto, y un ciclo profesional donde el proyecto se cuatrimestraliza, se suman accesorios, comercialización y crítica, y se cierra con Trabajo Final y práctica profesional. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2016",
+      "small": "Res. CS 6182/16"
+    },
+    {
+      "k": "Materias",
+      "v": "28",
+      "small": "propias + 2 optativas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 28"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado en fadu.uba.ar/diseno-de-indumentaria (tabla por año con régimen, cursado y carga horaria) y del Código UBA (Libro III, Título 5, Cap. A: Plan 2016, Res. CS 6182/16; 2697 horas reloj). Nivel L1: nombres, años, cuatrimestres y cargas horarias son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las dos optativas del 5º año son cupos sin nombre en el plan y no se dibujan como salidas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Ciclo de Formación Intermedio",
+      "title": "Medios, modelaje y primer proyecto",
+      "note": "525 hs",
+      "exits": [
+        {
+          "address": "uba.fadu.indumentaria.medios-expresivos-1",
+          "name": "Medios Expresivos I",
+          "role": "anual · 240 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.fundamentos-geometricos-modelaje",
+          "name": "Fundamentos Geométricos del Modelaje",
+          "role": "1º o 2º cuat. · 60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.introduccion-proyecto",
+          "name": "Introducción al Proyecto",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.historia-indumentaria-textil-1",
+          "name": "Historia del Diseño de Indumentaria y Textil I",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.analisis-indumentaria-textil-1",
+          "name": "Análisis del Diseño de Indumentaria y Textil I",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-industria-nacional-1",
+          "name": "Técnicas de Producción e Industria Nacional I",
+          "role": "1º cuat. · 45 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-industria-nacional-2",
+          "name": "Técnicas de Producción e Industria Nacional II",
+          "role": "2º cuat. · 45 hs",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · Ciclo de Formación Intermedio",
+      "title": "Proyecto de Indumentaria y materialización",
+      "note": "600 hs",
+      "exits": [
+        {
+          "address": "uba.fadu.indumentaria.proyecto-indumentaria-1",
+          "name": "Proyecto de Indumentaria I",
+          "role": "anual · 240 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.medios-expresivos-2",
+          "name": "Medios Expresivos II",
+          "role": "anual · 120 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.materializacion-proyecto",
+          "name": "Materialización de Proyecto",
+          "role": "anual · 60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-indumentaria-1",
+          "name": "Técnicas de Producción de Indumentaria I",
+          "role": "1º cuat. · 45 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.historia-indumentaria-textil-2",
+          "name": "Historia del Diseño de Indumentaria y Textil II",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.analisis-indumentaria-textil-2",
+          "name": "Análisis del Diseño de Indumentaria y Textil II",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-indumentaria-2",
+          "name": "Técnicas de Producción de Indumentaria II",
+          "role": "2º cuat. · 45 hs",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · Ciclo de Formación Profesional",
+      "title": "Proyecto cuatrimestral, accesorios, mercado y crítica",
+      "note": "495 hs",
+      "exits": [
+        {
+          "address": "uba.fadu.indumentaria.proyecto-indumentaria-2",
+          "name": "Proyecto de Indumentaria II",
+          "role": "1º cuat. · 90 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.proyecto-indumentaria-3",
+          "name": "Proyecto de Indumentaria III",
+          "role": "2º cuat. · 90 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.proyecto-accesorios-1",
+          "name": "Proyecto de Accesorios I",
+          "role": "2º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.comunicacion-critica",
+          "name": "Comunicación y Crítica",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.sociologia",
+          "name": "Sociología",
+          "role": "1º o 2º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.comercializacion-mercado-1",
+          "name": "Comercialización y Mercado I",
+          "role": "1º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-indumentaria-3",
+          "name": "Técnicas de Producción de Indumentaria III",
+          "role": "1º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.comercializacion-mercado-2",
+          "name": "Comercialización y Mercado II",
+          "role": "2º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.tecnicas-produccion-indumentaria-4",
+          "name": "Técnicas de Producción de Indumentaria IV",
+          "role": "2º cuat. · 45 hs",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · Ciclo de Formación Profesional",
+      "title": "Último proyecto, ética, trabajo final y práctica",
+      "note": "405 hs · incluye Optativa I y II (60 hs c/u), cupos sin nombre en el plan",
+      "exits": [
+        {
+          "address": "uba.fadu.indumentaria.proyecto-indumentaria-4",
+          "name": "Proyecto de Indumentaria IV",
+          "role": "1º cuat. · 90 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.proyecto-accesorios-2",
+          "name": "Proyecto de Accesorios II",
+          "role": "1º cuat. · 45 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.etica-profesional",
+          "name": "Ética Profesional",
+          "role": "1º o 2º cuat. · 30 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.trabajo-final-carrera",
+          "name": "Trabajo Final de Carrera",
+          "role": "2º cuat. · 60 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.indumentaria.practica-profesional-asistida",
+          "name": "Práctica Profesional Asistida",
+          "role": "requisito obligatorio · 60 hs · con 4º año finalizado",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/diseno-de-indumentaria · Código UBA Libro III Tít. 5 Cap. A (Plan 2016, Res. CS 6182/16)",
+    "url": "https://www.fadu.uba.ar/diseno-de-indumentaria/"
+  }
+}

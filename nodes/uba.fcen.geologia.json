@@ -1,0 +1,244 @@
+{
+  "address": "uba.fcen.geologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1993 y modificatorias · Res. CD 2709/2011 y 2712/2011",
+    "años": "5 y medio (sin CBC)",
+    "materias": 20,
+    "correlativas": true,
+    "cicloOrientacion": "30 puntos en 6 o más materias optativas",
+    "trabajoFinal": "Trabajo Final de Licenciatura (campo, ~1 cuatrimestre)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.geologia",
+      "label": "Ciencias Geológicas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Geológicas · Plan 1993 (mod. 2011)",
+  "title": "Cinco años y medio, de la roca al mapa.",
+  "lede": "El plan vigente del Departamento de Ciencias Geológicas de Exactas: un Ciclo Básico de veinte materias obligatorias — química, física, mineralogía, petrografía, sedimentología, estructural, yacimientos, regional — seguido de un Ciclo de Orientación de treinta puntos en optativas y un Trabajo Final de campo. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1993",
+      "small": "mod. 2011"
+    },
+    {
+      "k": "Materias",
+      "v": "20",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 20"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (ingresantes.exactas.uba.ar, Res. CD 2709/2011 y 2712/2011; Código UBA Libro V Título 16 Cap. A, Plan 1993 y modificatorias; PDF 'Plan de Estudio · Recorrido Sugerido' de FCEN, 2017). La carrera se organiza por correlatividades, no por años: el reparto por año sigue el recorrido sugerido oficial. Análisis Matemático I se otorga por equivalencia con el CBC y no se cuenta como materia propia. Las optativas del Ciclo de Orientación se eligen con el Consejero de Estudios y no son puertas fijas. Nivel L1: nombres, cuatrimestres y correlativas son reales; temas y bibliografía son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 1",
+      "title": "Química, física y la primera geología",
+      "exits": [
+        {
+          "address": "uba.fcen.geologia.quimica-general-inorganica",
+          "name": "Química General e Inorgánica I",
+          "role": "1º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.fisica-1",
+          "name": "Física I",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.intro-geologia",
+          "name": "Introducción a la Geología",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.taller-informatica",
+          "name": "Taller de Informática",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "Minerales, rocas y sedimentos",
+      "exits": [
+        {
+          "address": "uba.fcen.geologia.fisica-2",
+          "name": "Física II",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.mineralogia",
+          "name": "Mineralogía",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geoestadistica",
+          "name": "Geoestadística",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.petrografia",
+          "name": "Petrografía",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.sedimentologia",
+          "name": "Sedimentología",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geoquimica",
+          "name": "Geoquímica",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Estructura, ambientes y tiempo",
+      "exits": [
+        {
+          "address": "uba.fcen.geologia.geologia-estructural",
+          "name": "Geología Estructural",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.ambientes-sedimentarios",
+          "name": "Ambientes Sedimentarios",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.paleontologia",
+          "name": "Paleontología",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geomorfologia",
+          "name": "Geomorfología",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.prospeccion-geofisica",
+          "name": "Prospección Geofísica",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geologia-historica",
+          "name": "Geología Histórica",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Yacimientos, tectónica y el campo",
+      "note": "El plan intercala aquí las primeras optativas del Ciclo de Orientación (30 puntos, 6 o más materias), elegidas con el Consejero de Estudios.",
+      "exits": [
+        {
+          "address": "uba.fcen.geologia.geologia-yacimientos",
+          "name": "Geología de Yacimientos",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geotectonica",
+          "name": "Geotectónica",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.geologia-regional",
+          "name": "Geología Regional",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.geologia.levantamiento-geologico",
+          "name": "Levantamiento Geológico",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5",
+      "title": "Orientación y trabajo final",
+      "note": "Primer cuatrimestre: optativas del Ciclo de Orientación. Segundo cuatrimestre: Trabajo Final de Licenciatura, un levantamiento geológico de campo (~15 días) más laboratorio y gabinete.",
+      "exits": [
+        {
+          "address": "uba.fcen.geologia.trabajo-final",
+          "name": "Trabajo Final de Licenciatura",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ingresantes.exactas.uba.ar · Res. CD 2709/2011 y 2712/2011 · Código UBA Plan 1993 · FCEN Recorrido Sugerido (2017)",
+    "url": "https://ingresantes.exactas.uba.ar/licenciatura-en-ciencias-geologicas/"
+  }
+}

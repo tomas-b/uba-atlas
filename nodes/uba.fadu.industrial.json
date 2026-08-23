@@ -1,0 +1,334 @@
+{
+  "address": "uba.fadu.industrial",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2017 (Plan DI18)",
+    "resolucion": "Res. (CS) 8556/17",
+    "titulo": "Diseñador/a Industrial",
+    "años": 6,
+    "cargaHorariaTotal": 3432,
+    "ciclos": [
+      "Ciclo Básico Común (CBC-FADU, año 1)",
+      "Ciclo de Formación Proyectual (años 2-4)",
+      "Ciclo de Aproximación Profesional (años 5-6)"
+    ],
+    "materias": 25,
+    "electivasNombradas": 6,
+    "electivas": "120 hs de materias electivas + 120 hs de optativas (5º o 6º año)",
+    "practicaProfesional": "60 hs entre 5º y 6º año",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.industrial",
+      "label": "Diseño Industrial"
+    }
+  ],
+  "eyebrow": "Diseño Industrial · Plan 2017 (DI18)",
+  "title": "Del análisis del objeto al proyecto final.",
+  "lede": "El plan vigente (2017, Res. CS 8556/17) de Diseño Industrial en FADU: seis años en tres ciclos. Tras el CBC, un ciclo proyectual de tres años donde el Taller de Diseño Industrial avanza junto a Tecnología y Morfología, y un ciclo profesional que cierra con Proyecto Final, gestión y práctica. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2017",
+      "small": "DI18"
+    },
+    {
+      "k": "Materias",
+      "v": "25",
+      "small": "propias + 6 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 31"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (fadu.uba.ar/nuevo-plan-de-estudios-de-diseno-industrial, cuadro de correlatividades Plan DI18 y Código UBA, Res. CS 8556/17). Nivel L1: nombres, años, ciclos y régimen son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las optativas sin nombre no se listan; las electivas con nombre en el plan sí.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Ciclo de Formación Proyectual",
+      "title": "Taller, tecnología y morfología",
+      "note": "600 hs. Primer año propio de la carrera, tras el CBC-FADU.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.taller-diseno-industrial-1",
+          "name": "Taller de Diseño Industrial 1",
+          "role": "anual · 180 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.tecnologia-1",
+          "name": "Tecnología 1",
+          "role": "anual · 120 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.morfologia-1",
+          "name": "Morfología 1",
+          "role": "anual · 120 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.matematica-1",
+          "name": "Matemática 1",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.fisica-1",
+          "name": "Física 1",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.analisis-de-productos",
+          "name": "Análisis de Productos",
+          "role": "anual · 60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · Ciclo de Formación Proyectual",
+      "title": "Ergonomía e historia entran al taller",
+      "note": "600 hs.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.taller-diseno-industrial-2",
+          "name": "Taller de Diseño Industrial 2",
+          "role": "anual · 180 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.tecnologia-2",
+          "name": "Tecnología 2",
+          "role": "anual · 180 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.morfologia-2",
+          "name": "Morfología 2",
+          "role": "anual · 120 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.ergonomia-y-factores-humanos",
+          "name": "Ergonomía y Factores Humanos",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.historia-diseno-industrial-1",
+          "name": "Historia del Diseño Industrial 1",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · Ciclo de Formación Proyectual",
+      "title": "Cierre del ciclo proyectual",
+      "note": "600 hs. Para cursar 4º hay que tener aprobados los TP de todas las materias de 2º.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.taller-diseno-industrial-3",
+          "name": "Taller de Diseño Industrial 3",
+          "role": "anual · 180 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.tecnologia-3",
+          "name": "Tecnología 3",
+          "role": "anual · 180 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.morfologia-3",
+          "name": "Morfología 3",
+          "role": "anual · 120 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.historia-diseno-industrial-2",
+          "name": "Historia del Diseño Industrial 2",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.fisica-2",
+          "name": "Física 2",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · Ciclo de Aproximación Profesional",
+      "title": "Sociedad, gestión y última tecnología",
+      "note": "360 hs más electivas/optativas. Tecnología 4 puede cursarse en 5º o en 6º junto a Proyecto Final.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.taller-diseno-industrial-4",
+          "name": "Taller de Diseño Industrial 4",
+          "role": "anual · 120 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.tecnologia-4",
+          "name": "Tecnología 4",
+          "role": "anual · 120 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.sociologia-aplicada-al-diseno",
+          "name": "Sociología Aplicada al Diseño",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.gestion-industrial",
+          "name": "Gestión Industrial",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 6 · Ciclo de Aproximación Profesional",
+      "title": "Proyecto final y práctica",
+      "note": "540 hs incluyendo 240 hs de electivas/optativas. Práctica Profesional: 60 hs entre 5º y 6º.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.proyecto-final",
+          "name": "Proyecto Final",
+          "role": "anual · 120 hs",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.gestion-de-proyecto",
+          "name": "Gestión de Proyecto",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.metodologia-investigacion-diseno",
+          "name": "Metodología de la Investigación en Diseño",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.legislacion-y-practica-profesional",
+          "name": "Legislación y Práctica Profesional",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "año 6",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.practica-profesional",
+          "name": "Práctica Profesional",
+          "role": "60 hs · entre 5º y 6º",
+          "tag": "año 6",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas nombradas · 5º o 6º año",
+      "title": "120 hs a elegir",
+      "note": "Se cursan con todas las materias de 3º aprobadas. Dos electivas de 60 hs equivalen a una de 120 hs. Las optativas (otras 120 hs) no tienen nombre fijo en el plan y no se listan.",
+      "exits": [
+        {
+          "address": "uba.fadu.industrial.diseno-de-interfaces-y-grafica-aplicada",
+          "name": "Diseño de Interfaces y Gráfica Aplicada a Productos",
+          "role": "anual · 120 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.mercadotecnia-y-gestion-empresaria",
+          "name": "Mercadotecnia y Gestión Empresaria",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.aspectos-economicos-del-diseno",
+          "name": "Aspectos Económicos del Diseño",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.diseno-e-innovacion",
+          "name": "Diseño e Innovación",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.diseno-para-la-sustentabilidad",
+          "name": "Diseño para la Sustentabilidad",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.industrial.ergonomia-y-experiencia-de-usuario",
+          "name": "Ergonomía y Experiencia de Usuario",
+          "role": "cuatrimestral · 60 hs",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/nuevo-plan-de-estudios-de-diseno-industrial · cuadro de correlatividades Plan DI18 · Código UBA Res. (CS) 8556/17",
+    "url": "https://www.fadu.uba.ar/nuevo-plan-de-estudios-de-diseno-industrial/"
+  }
+}

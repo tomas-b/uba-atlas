@@ -1,0 +1,376 @@
+{
+  "address": "uba.fcen.alimentos",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2018",
+    "resolucion": "Resolución (CS) Nº 919/18 · EXP-UBA 87.537/2017 · 15 de agosto de 2018",
+    "interfacultad": true,
+    "facultades": ["FCEN", "FFyB"],
+    "coordinacion": "Carrera coordinada y dictada conjuntamente por la Facultad de Farmacia y Bioquímica y la Facultad de Ciencias Exactas y Naturales",
+    "años": 5,
+    "ciclos": ["Ciclo Básico Común (6 asignaturas, 560 h)", "Ciclo de Formación General (8 asignaturas, 1093 h)", "Ciclo de Formación Específica (22 obligatorias + 2 electivas, 2121 h)"],
+    "materias": 38,
+    "materiasObligatorias": 30,
+    "materiasElectivas": 8,
+    "electivasRequeridas": "2 (125 h)",
+    "practicaProfesional": "300 h, segundo cuatrimestre del quinto año",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.alimentos",
+      "label": "Ciencia y Tecnología de Alimentos"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencia y Tecnología de Alimentos · Plan 2018 (Res. CS 919/18)",
+  "title": "Cinco años, de la química general a la planta piloto.",
+  "lede": "El plan real (Resolución CS 919/18) de una carrera compartida entre Exactas y Farmacia y Bioquímica: un ciclo general de química, física y biología, y un ciclo específico que atraviesa microbiología, toxicología, operaciones unitarias, preservación y tecnología de alimentos hasta la práctica profesional de 300 horas. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2018",
+      "small": "Res. CS 919/18"
+    },
+    {
+      "k": "Materias",
+      "v": "38",
+      "small": "30 oblig. + 8 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada de la Resolución (CS) Nº 919/18 (texto ordenado del plan, publicado por FFyB) y del sitio oficial de la carrera (lcta.fcen.uba.ar/academico), que ubica cada materia por año y cuatrimestre. Cada materia se dicta en FCEN, en FFyB o en ambas; la sigla entre paréntesis indica la facultad. Nivel L1: los nombres, ciclos, años y cuatrimestres son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · Año 2",
+      "title": "Las bases: matemática, química, biología, física",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.analisis-matematico-1",
+          "name": "Análisis Matemático 1 (FCEN)",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.biologia-celular-molecular",
+          "name": "Biología Celular e Introducción a la Biología Molecular (FFyB)",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.quimica-general",
+          "name": "Química General (FCEN)",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.fisica-1",
+          "name": "Física 1 (FFyB)",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.quimica-organica",
+          "name": "Química Orgánica (FCEN)",
+          "role": "anual · 2º cuat. año 2 a 1º cuat. año 3",
+          "tag": "año 2-3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.quimica-analitica",
+          "name": "Química Analítica (FFyB)",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · Año 3",
+      "title": "Química biológica y fisicoquímica de alimentos",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.quimica-biologica-general",
+          "name": "Química Biológica General (FFyB)",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.fisicoquimica-alimentos",
+          "name": "Fisicoquímica de Alimentos (FCEN)",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Año 3",
+      "title": "Estadística, química y microbiología de alimentos",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.estadistica",
+          "name": "Estadística (FFyB)",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.quimica-alimentos",
+          "name": "Química de Alimentos (FCEN)",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.microbiologia-general",
+          "name": "Microbiología General (FFyB)",
+          "role": "2º cuat. · bimestral",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.microbiologia-alimentos",
+          "name": "Microbiología de Alimentos (FCEN)",
+          "role": "2º cuat. · bimestral",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Año 4",
+      "title": "Operaciones, nutrición, toxicología y preservación",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.operaciones-unitarias-1",
+          "name": "Operaciones Unitarias I (FCEN)",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.nutricion",
+          "name": "Nutrición (FFyB)",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.toxicologia-alimentos-1",
+          "name": "Toxicología de Alimentos I (FFyB)",
+          "role": "1º cuat. · bimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.toxicologia-alimentos-2",
+          "name": "Toxicología de Alimentos II (FCEN)",
+          "role": "1º cuat. · bimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.legislacion-alimentaria",
+          "name": "Legislación Alimentaria (FFyB)",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.operaciones-unitarias-2",
+          "name": "Operaciones Unitarias II (FCEN)",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.preservacion-alimentos-1",
+          "name": "Fundamentos de Preservación de Alimentos I (FCEN)",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.analisis-avanzado-alimentos",
+          "name": "Análisis Avanzado de Alimentos (FCEN)",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Año 5",
+      "title": "Biotecnología, tecnología, planta piloto y práctica profesional",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.preservacion-alimentos-2",
+          "name": "Fundamentos de Preservación de Alimentos II (FCEN)",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.biotecnologia-alimentos-1",
+          "name": "Biotecnología de Alimentos I (FCEN)",
+          "role": "1º cuat. · bimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.biotecnologia-alimentos-2",
+          "name": "Biotecnología de Alimentos II (FFyB)",
+          "role": "1º cuat. · bimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.tecnologia-alimentos-1",
+          "name": "Tecnología de Alimentos I (FCEN/FFyB)",
+          "role": "1º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.tecnologia-alimentos-2",
+          "name": "Tecnología de Alimentos II (FCEN/FFyB)",
+          "role": "2º cuat. · bimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.tecnologia-alimentos-3",
+          "name": "Tecnología de Alimentos III (FCEN/FFyB)",
+          "role": "2º cuat. · bimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.planta-piloto",
+          "name": "Procesamiento de Alimentos en Planta Piloto (FCEN)",
+          "role": "anual",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.gestion-calidad",
+          "name": "Gestión, Control y Garantía de la Calidad en la Industria Alimentaria (FFyB)",
+          "role": "2º cuat.",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.economia-empresa-alimentaria",
+          "name": "Economía de la Empresa Alimentaria (FCEN)",
+          "role": "2º cuat. · bimestral",
+          "tag": "año 5",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.practica-profesional",
+          "name": "Práctica Profesional (FCEN/FFyB)",
+          "role": "2º cuat. · 300 h",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas · se cursan 2 (125 h)",
+      "title": "Las ocho electivas nombradas por el plan",
+      "note": "El plan exige 125 horas en asignaturas electivas u optativas, cubiertas con dos de estas ocho. Pueden cursarse otras adicionalmente.",
+      "exits": [
+        {
+          "address": "uba.fcen.alimentos.analisis-sensorial",
+          "name": "Análisis Sensorial (FCEN/FFyB)",
+          "role": "electiva · cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.proteccion-ambiental",
+          "name": "Protección Ambiental e Higiene Industrial (FCEN)",
+          "role": "electiva · cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.organizacion-gerenciamiento",
+          "name": "Organización y Gerenciamiento Empresarial (FCEN)",
+          "role": "electiva · bimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.desarrollo-nuevos-productos",
+          "name": "Desarrollo de Nuevos Productos (FCEN)",
+          "role": "electiva · cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.control-microbiologico",
+          "name": "Control Microbiológico de Alimentos (FCEN)",
+          "role": "electiva · bimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.materiales-envases",
+          "name": "Materiales para Envases Alimentarios (FFyB)",
+          "role": "electiva · cuatrimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.componentes-bioactivos",
+          "name": "Componentes Bioactivos en Alimentos de Origen Vegetal (FFyB)",
+          "role": "electiva · bimestral",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.alimentos.especies-vegetales",
+          "name": "Especies Vegetales de Importancia en Alimentos (FFyB)",
+          "role": "electiva · bimestral",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Resolución (CS) Nº 919/18 · texto ordenado del plan (ffyb.uba.ar) · lcta.fcen.uba.ar/academico",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Resolucion-Lic-en-Ciencia-y-Tecnologia-de-Alimentos.pdf"
+  }
+}

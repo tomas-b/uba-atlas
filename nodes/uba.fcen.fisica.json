@@ -1,0 +1,261 @@
+{
+  "address": "uba.fcen.fisica",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2026,
+    "vigencia": "1º cuatrimestre del ciclo lectivo 2026",
+    "planAnterior": "Plan 1987 (Res. CS 1886/87), caduca en exámenes complementarios de 2033",
+    "años": 5.5,
+    "cargaHorariaTotal": 3904,
+    "ciclos": {
+      "cbc": { "materias": 6, "horas": 608 },
+      "inicial": { "materias": 10, "horas": 1344 },
+      "avanzado": { "obligatorias": 9, "horas": 1248, "electivas": 2, "horasElectivas": 192, "tesis": 320 }
+    },
+    "materias": 24,
+    "materiasObligatorias": 20,
+    "electivasNombradas": 4,
+    "optativas": "entre 2 y 4 asignaturas, mínimo 192 horas",
+    "tituloIntermedio": "Bachiller Universitario/a en Ciencias Físicas (16 materias, 1952 horas)",
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.fisica",
+      "label": "Ciencias Físicas"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias Físicas · Plan 2026",
+  "title": "Del laboratorio a la tesis, en tres ciclos.",
+  "lede": "El plan nuevo (2026) del Departamento de Física de Exactas: un Ciclo Inicial de diez materias que cierra con un título intermedio, y un Ciclo Avanzado que pasa por electrodinámica, cuántica y estadística hasta la tesis. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2026"
+    },
+    {
+      "k": "Materias",
+      "v": "24",
+      "small": "20 obligatorias + 4 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 24"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por el Departamento de Física (carrera.df.uba.ar: Ciclo Inicial, Ciclo Avanzado, Cursada sugerida). Vigente desde el primer cuatrimestre de 2026; reemplaza al Plan 1987 (Res. CS 1886/87), que caduca en 2033. Nivel L1: los nombres, ciclos, cargas horarias y correlatividades son reales; el cuatrimestre indicado en cada puerta es el de la cursada sugerida. Las optativas (entre 2 y 4, mínimo 192 horas) no tienen nombre fijo y no se dibujan. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Inicial · 10 materias · 1344 h",
+      "title": "Física, análisis y laboratorio",
+      "note": "Al completarlo se puede optar por el título intermedio de Bachiller Universitario/a en Ciencias Físicas.",
+      "exits": [
+        {
+          "address": "uba.fcen.fisica.fisica-1",
+          "name": "Física 1",
+          "role": "1º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.analisis-1",
+          "name": "Análisis 1",
+          "role": "1º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-1",
+          "name": "Laboratorio 1",
+          "role": "1º cuat. · 96 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-2",
+          "name": "Física 2",
+          "role": "2º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.analisis-2",
+          "name": "Análisis 2",
+          "role": "2º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.matematica-aplicada-1",
+          "name": "Matemática Aplicada 1",
+          "role": "2º cuat. · 96 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-3",
+          "name": "Física 3",
+          "role": "3º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-2",
+          "name": "Laboratorio 2",
+          "role": "3º cuat. · 96 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-4",
+          "name": "Física 4",
+          "role": "4º cuat. · 160 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-3",
+          "name": "Laboratorio 3",
+          "role": "4º cuat. · 96 h",
+          "tag": "ciclo inicial",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Avanzado · 9 obligatorias · 1248 h",
+      "title": "Las tres teóricas y el laboratorio largo",
+      "note": "Cierra con la Tesis de Licenciatura (320 h), que exige Electrodinámica, Mecánica Cuántica, Mecánica Estadística y Laboratorio 6.",
+      "exits": [
+        {
+          "address": "uba.fcen.fisica.analisis-3",
+          "name": "Análisis 3",
+          "role": "3º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.mecanica-clasica",
+          "name": "Mecánica Clásica",
+          "role": "4º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.electrodinamica",
+          "name": "Electrodinámica",
+          "role": "5º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-4",
+          "name": "Laboratorio 4",
+          "role": "5º cuat. · 96 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.matematica-aplicada-2",
+          "name": "Matemática Aplicada 2",
+          "role": "5º cuat. · 96 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.mecanica-cuantica",
+          "name": "Mecánica Cuántica",
+          "role": "6º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.mecanica-estadistica",
+          "name": "Mecánica Estadística",
+          "role": "6º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-5",
+          "name": "Laboratorio 5",
+          "role": "6º cuat. · 96 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.laboratorio-6",
+          "name": "Laboratorio 6",
+          "role": "7º cuat. · 160 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.tesis",
+          "name": "Tesis de Licenciatura",
+          "role": "8º–9º cuat. · 320 h",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas · se eligen 2 de 4 · 192 h",
+      "title": "Una rama de la física a elección",
+      "note": "Dos de estas cuatro son obligatorias; heredan las cuatro Estructuras de la Materia del Plan 1987.",
+      "exits": [
+        {
+          "address": "uba.fcen.fisica.fisica-de-fluidos",
+          "name": "Física de Fluidos",
+          "role": "electiva",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-del-solido",
+          "name": "Física del Sólido",
+          "role": "electiva",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-atomica-y-molecular",
+          "name": "Física Atómica y Molecular",
+          "role": "electiva",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.fisica.fisica-de-interacciones-fundamentales",
+          "name": "Física de Interacciones Fundamentales",
+          "role": "electiva",
+          "tag": "ciclo avanzado",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "carrera.df.uba.ar · Departamento de Física, Plan 2026 (Ciclo Inicial / Ciclo Avanzado / Cursada sugerida)",
+    "url": "https://carrera.df.uba.ar/?page_id=47"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "address": "uba.fadu.grafico",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2017",
+    "resolucion": "Res. (CS) N° 8557/17",
+    "titulo": "Diseñador/a Gráfico/a",
+    "años": 5,
+    "materias": 17,
+    "ciclos": [
+      "Ciclo de Formación Inicial",
+      "Ciclo de Formación General",
+      "Ciclo de Formación Orientada"
+    ],
+    "electivas": "1 Electiva I (2º año) · 1 Electiva Socio Humanística (4º año) · 2 Electivas Orientadas + 180 hs de optativas y seminarios (5º año)",
+    "correlativas": "http://www.fadu.uba.ar/wp-content/uploads/2023/05/DG_Cuadro-de-correlatividades_PlanDG2022-1.pdf"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.grafico",
+      "label": "Diseño Gráfico"
+    }
+  ],
+  "eyebrow": "Diseño Gráfico · Plan 2017",
+  "title": "Cuatro talleres anuales de Diseño Gráfico, y todo lo que los rodea.",
+  "lede": "El plan real (2017, Res. CS 8557/17) de la carrera de Diseño Gráfico de FADU: cinco años, el primero en el CBC, y luego tres ciclos — inicial, general y orientado — organizados alrededor de la columna Diseño Gráfico I a IV. Morfología, Tipografía, Comunicación, Historia, Tecnología y Medios Expresivos la acompañan. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2017",
+      "small": "Res. CS 8557/17"
+    },
+    {
+      "k": "Materias",
+      "v": "17",
+      "small": "propias, obligatorias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 17"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (fadu.uba.ar/diseno-grafico + Código UBA, Libro III, Título 7, Capítulo A: Plan 2017). Nivel L1: nombres, años, ciclos y régimen de cursado son reales. Las electivas y optativas (Electiva I, Electiva Socio Humanística, Electivas Orientadas I y II, Materias Optativas, Seminarios optativos) son cupos sin nombre fijo en el plan y no se dibujan como salidas. Morfología II y Tipografía II pueden cursarse en 3º o en 4º año. Temas y bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2 · Ciclo de Formación Inicial",
+      "title": "El primer taller",
+      "note": "Más una Electiva I cuatrimestral (cupo sin nombre fijo).",
+      "exits": [
+        {
+          "address": "uba.fadu.grafico.diseno-grafico-1",
+          "name": "Diseño Gráfico I",
+          "role": "anual · DG1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.morfologia-1",
+          "name": "Morfología I",
+          "role": "anual · M1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.tipografia-1",
+          "name": "Tipografía I",
+          "role": "anual · TIP1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.comunicacion-1",
+          "name": "Comunicación I",
+          "role": "cuatrimestral · C1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.historia-1",
+          "name": "Historia I",
+          "role": "cuatrimestral · H1",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.tecnologia-1",
+          "name": "Tecnología I",
+          "role": "cuatrimestral · TEC1",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3 · Ciclo de Formación General",
+      "title": "El taller se duplica",
+      "note": "Morfología II y Tipografía II pueden cursarse en 3º o en 4º año.",
+      "exits": [
+        {
+          "address": "uba.fadu.grafico.diseno-grafico-2",
+          "name": "Diseño Gráfico II",
+          "role": "anual · DG2",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.morfologia-2",
+          "name": "Morfología II",
+          "role": "anual · 3º o 4º año",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.tipografia-2",
+          "name": "Tipografía II",
+          "role": "anual · TIP2 · 3º o 4º año",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.comunicacion-2",
+          "name": "Comunicación II",
+          "role": "cuatrimestral · C2",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.historia-2",
+          "name": "Historia II",
+          "role": "cuatrimestral · H2",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.medios-expresivos-1",
+          "name": "Medios Expresivos I",
+          "role": "cuatrimestral · ME1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.tecnologia-2",
+          "name": "Tecnología II",
+          "role": "cuatrimestral · TEC2",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4 · Ciclo de Formación General",
+      "title": "Profesión y medios",
+      "note": "Más una Electiva Socio Humanística cuatrimestral (se elige 1).",
+      "exits": [
+        {
+          "address": "uba.fadu.grafico.diseno-grafico-3",
+          "name": "Diseño Gráfico III",
+          "role": "anual · DG3",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.legislacion-y-practica-profesional",
+          "name": "Legislación y Práctica Profesional",
+          "role": "cuatrimestral",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.grafico.medios-expresivos-2",
+          "name": "Medios Expresivos II",
+          "role": "cuatrimestral · ME2",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 5 · Ciclo de Formación Orientada",
+      "title": "El último taller",
+      "note": "Más 2 Electivas Orientadas, 2 Materias Optativas y 3 Seminarios optativos (cupos sin nombre fijo; pueden adelantarse desde 4º año).",
+      "exits": [
+        {
+          "address": "uba.fadu.grafico.diseno-grafico-4",
+          "name": "Diseño Gráfico IV",
+          "role": "anual · DG4",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/diseno-grafico · Código UBA Libro III Tít. 7 Cap. A (Plan 2017, Res. CS 8557/17)",
+    "url": "https://www.fadu.uba.ar/diseno-grafico/"
+  }
+}

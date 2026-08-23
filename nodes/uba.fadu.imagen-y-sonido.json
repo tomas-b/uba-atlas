@@ -1,0 +1,408 @@
+{
+  "address": "uba.fadu.imagen-y-sonido",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2016,
+    "planLabel": "Plan IS17 · Resolución (CS) 6181/16",
+    "años": 5,
+    "materias": 23,
+    "materiasObligatorias": 23,
+    "electivasNombradas": 20,
+    "horasElectivasOptativas": 480,
+    "ciclos": [
+      "Ciclo Básico Común (FADU)",
+      "Ciclo de Formación Común (5 cuatrimestres)",
+      "Ciclo de Formación Orientada (3 cuatrimestres)"
+    ],
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.imagen-y-sonido",
+      "label": "Diseño de Imagen y Sonido"
+    }
+  ],
+  "eyebrow": "Diseño de Imagen y Sonido · Plan 2016 (IS17)",
+  "title": "Cuatro proyectos audiovisuales, uno por año.",
+  "lede": "El plan real de la carrera de Diseño de Imagen y Sonido de FADU (Resolución CS 6181/16): una columna de Proyecto Audiovisual 1 a 4 rodeada de guion, cámara, sonido, montaje, historia y teoría de los medios, y un tramo final de electivas donde la carrera se orienta. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2016",
+      "small": "IS17"
+    },
+    {
+      "k": "Materias",
+      "v": "23",
+      "small": "obligatorias + 20 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 43"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: el texto de la Resolución (CS) 6181/16 en el Código UBA y el cuadro de correlatividades Plan IS17 publicado por FADU. Nivel L1: los nombres, años, ciclos y cargas horarias son reales; el plan no fija cuatrimestre por materia, así que cada puerta muestra su carga horaria. Para recibirse: las 23 obligatorias más 480 horas de materias no obligatorias (mínimo 360 de electivas, máximo 120 de optativas; al menos 60 horas del área Socio-Humanística). Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "2º Año · Ciclo de Formación Común",
+      "title": "El primer proyecto y sus oficios",
+      "note": "Correlativa de cursada: CBC aprobado. Para cursar 4º hay que tener todo 2º aprobado con examen final.",
+      "exits": [
+        {
+          "address": "uba.fadu.imagen-y-sonido.proyecto-audiovisual-1",
+          "name": "Proyecto Audiovisual 1",
+          "role": "120 hs · taller central",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.narrativas-audiovisuales",
+          "name": "Narrativas Audiovisuales",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.escrituras-audiovisuales-1",
+          "name": "Escrituras Audiovisuales 1",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.dibujo-y-representacion-audiovisual",
+          "name": "Dibujo y Representación Audiovisual",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.iluminacion-y-camara-1",
+          "name": "Iluminación y Cámara 1",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.sonido-1",
+          "name": "Sonido 1",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.montaje-1",
+          "name": "Montaje 1",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.estetica",
+          "name": "Estética",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.sociologia",
+          "name": "Sociología",
+          "role": "60 hs",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "3º Año · Ciclo de Formación Común",
+      "title": "Producir, planificar, historizar",
+      "note": "Proyecto Audiovisual 2 y Producción y Planificación exigen PAV1, (EA1 o NA) y (S1 o IyC1 o M1).",
+      "exits": [
+        {
+          "address": "uba.fadu.imagen-y-sonido.proyecto-audiovisual-2",
+          "name": "Proyecto Audiovisual 2",
+          "role": "180 hs · taller central",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.escrituras-audiovisuales-2",
+          "name": "Escrituras Audiovisuales 2",
+          "role": "60 hs · correlativa EA1, NA",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.produccion-y-planificacion",
+          "name": "Producción y Planificación",
+          "role": "60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.tecnicas-audiovisuales",
+          "name": "Técnicas Audiovisuales",
+          "role": "60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.iluminacion-y-camara-2",
+          "name": "Iluminación y Cámara 2",
+          "role": "60 hs · correlativa IyC1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.sonido-2",
+          "name": "Sonido 2",
+          "role": "60 hs · correlativa S1",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.historia-analitica-medios-audiovisuales-1",
+          "name": "Historia Analítica de los Medios Audiovisuales 1",
+          "role": "60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.teorias-audiovisuales",
+          "name": "Teorías Audiovisuales",
+          "role": "60 hs",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "4º Año · Ciclo de Formación Común",
+      "title": "El tercer proyecto y el mercado",
+      "note": "Para cursar 4º: todas las materias de 2º aprobadas con examen final.",
+      "exits": [
+        {
+          "address": "uba.fadu.imagen-y-sonido.proyecto-audiovisual-3",
+          "name": "Proyecto Audiovisual 3",
+          "role": "180 hs · correlativas PAV2, (IyC2 o S2), PyP, TecAV",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.difusion-y-comercializacion-de-los-medios",
+          "name": "Difusión y Comercialización de los Medios",
+          "role": "60 hs · correlativas PAV2, PyP",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.montaje-2",
+          "name": "Montaje 2",
+          "role": "60 hs · correlativas PAV2, M1",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.historia-analitica-medios-audiovisuales-2",
+          "name": "Historia Analítica de los Medios Audiovisuales 2",
+          "role": "60 hs · correlativa HAMA1",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.teoria-y-estetica-de-los-medios",
+          "name": "Teoría y Estética de los Medios",
+          "role": "60 hs",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "5º Año · Ciclo de Formación Orientada",
+      "title": "El proyecto final",
+      "note": "Para cursar 5º: trabajos prácticos de todo 3º aprobados. Se completa con 480 hs del tramo electivo/optativo.",
+      "exits": [
+        {
+          "address": "uba.fadu.imagen-y-sonido.proyecto-audiovisual-4",
+          "name": "Proyecto Audiovisual 4",
+          "role": "120 hs · correlativas PAV3, M2, DyC",
+          "tag": "año 5",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Tramo electivo · 20 materias nombradas en el plan",
+      "title": "Donde la carrera se orienta",
+      "note": "Se cursan con todo 2º aprobado con examen final. Mínimo 6 electivas (360 hs); hasta 2 optativas (120 hs) fuera de esta lista. Las optativas no nombradas no son puertas.",
+      "exits": [
+        {
+          "address": "uba.fadu.imagen-y-sonido.escrituras-audiovisuales-3",
+          "name": "Escrituras Audiovisuales 3",
+          "role": "electiva · correlativas PAV2, EA2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.escrituras-audiovisuales-4",
+          "name": "Escrituras Audiovisuales 4",
+          "role": "electiva · correlativa EA3",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.produccion-audiovisual-ninez-y-juventud",
+          "name": "Producción Audiovisual en Niñez y Juventud",
+          "role": "electiva · correlativas PAV3, DyC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.produccion-audiovisual-sector-publico",
+          "name": "Producción Audiovisual en el Sector Público",
+          "role": "electiva · correlativas PAV3, DyC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.produccion-y-mercados-internacionales",
+          "name": "Producción y Mercados Internacionales",
+          "role": "electiva · correlativas PAV3, DyC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.economia-de-los-medios-y-derecho-aplicado",
+          "name": "Economía de los Medios y Derecho Aplicado",
+          "role": "electiva · correlativas PAV3, DyC",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.morfologias-audiovisuales",
+          "name": "Morfologías Audiovisuales",
+          "role": "electiva · correlativas PAV2, TecAV",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.direccion-de-actores",
+          "name": "Dirección de Actores",
+          "role": "electiva · correlativa PAV2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.direccion-de-arte",
+          "name": "Dirección de Arte",
+          "role": "electiva · correlativa PAV2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.direccion-de-fotografia",
+          "name": "Dirección de Fotografía",
+          "role": "electiva · correlativas PAV2, IyC2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.sonido-3",
+          "name": "Sonido 3",
+          "role": "electiva · correlativas PAV2, S2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.montaje-3",
+          "name": "Montaje 3",
+          "role": "electiva · correlativa M2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.principios-y-bases-de-la-animacion",
+          "name": "Principios y Bases de la Animación",
+          "role": "electiva · correlativas PAV2, TecAV",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.animacion-3d",
+          "name": "Animación 3D",
+          "role": "electiva · correlativas PAV2, TecAV",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.proyectos-audiovisuales-interactivos",
+          "name": "Proyectos Audiovisuales Interactivos",
+          "role": "electiva · correlativas PAV2, TecAV",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.introduccion-a-la-programacion",
+          "name": "Introducción a la Programación",
+          "role": "electiva · correlativas PAV2, TecAV",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.musica-en-medios-audiovisuales",
+          "name": "Música en Medios Audiovisuales",
+          "role": "electiva · correlativa PAV2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.diseno-y-estudios-culturales",
+          "name": "Diseño y Estudios Culturales",
+          "role": "electiva · correlativas PAV2, TEM",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.critica-del-diseno-audiovisual",
+          "name": "Crítica del Diseño Audiovisual",
+          "role": "electiva · correlativas PAV2, HAMA2",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.imagen-y-sonido.literatura-en-las-artes-audiovisuales",
+          "name": "Literatura en las Artes Audiovisuales",
+          "role": "electiva · correlativas PAV2, TAV",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Código UBA · Res. (CS) 6181/16, Plan 2016 · fadu.uba.ar cuadro de correlatividades IS17",
+    "url": "https://codigo.rec.uba.ar/libro_iii__fadu/libro-iii-facultad-de-arquitecura-diseno-y-urbanismo/titulo-4-diseno-de-imagen-y-sonido/capitulo-a-plan-2016/"
+  }
+}

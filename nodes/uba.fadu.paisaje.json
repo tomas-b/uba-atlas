@@ -1,0 +1,305 @@
+{
+  "address": "uba.fadu.paisaje",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2005,
+    "años": 5,
+    "materias": 30,
+    "cargaHorariaTotal": 3360,
+    "electivas": 3,
+    "correlativas": true,
+    "interfacultad": [
+      "uba.fadu",
+      "uba.agronomia"
+    ],
+    "sedes": "FADU (Ciudad Universitaria) y FAUBA (Agronomía); las materias troncales Planificación y Diseño del Paisaje I–IV y Vegetación I–II se dictan en ambas sedes"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fadu",
+      "label": "Arquitectura, Diseño y Urbanismo"
+    },
+    {
+      "address": "uba.fadu.paisaje",
+      "label": "Planificación y Diseño del Paisaje"
+    }
+  ],
+  "eyebrow": "Licenciatura en Planificación y Diseño del Paisaje · Plan 2005",
+  "title": "Cuatro niveles entre el taller y el vivero.",
+  "lede": "La única carrera que FADU dicta a medias con Agronomía: un taller anual de Planificación y Diseño del Paisaje como columna, rodeado de botánica, suelo, clima y ecología de un lado, y de representación, morfología, materiales e historia paisajística del otro. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2005"
+    },
+    {
+      "k": "Materias",
+      "v": "30",
+      "small": "propias + 3 electivas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 30"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial publicado por FADU (fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje) y del cuadro de carga horaria y correlatividades del Plan 2005 publicado por Agronomía (agro.uba.ar/carreras/paisaje/plan, PDF). Carrera compartida entre ambas facultades; este nodo es la puerta FADU. Los cuatro niveles siguen al CBC (que en Agronomía se numera como 1º año). Carga total: 3360 hs. Las tres electivas del plan (Electiva I en Nivel 3; Electiva II y III en Nivel 4) no son materias nombradas y no se listan como puertas. Nivel L1: nombres, niveles, cuatrimestres y cargas horarias son reales; temas y bibliografía son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 1",
+      "title": "Dibujar, medir, nombrar la planta",
+      "note": "Todas las materias exigen los finales del CBC aprobados.",
+      "exits": [
+        {
+          "address": "uba.fadu.paisaje.pdp-1",
+          "name": "Planificación y Diseño del Paisaje I",
+          "role": "anual · 180 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.sistemas-representacion-geometrica",
+          "name": "Sistemas de Representación Geométrica",
+          "role": "anual · 120 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.quimica-general",
+          "name": "Química General",
+          "role": "1º cuat. · 90 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.botanica-general",
+          "name": "Botánica General",
+          "role": "1º cuat. · 45 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "1º cuat. · 45 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.botanica-sistematica",
+          "name": "Botánica Sistemática",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.materiales-elementos-procedimientos",
+          "name": "Materiales, Elementos y Procedimientos de Construcción",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.vegetacion-1",
+          "name": "Vegetación I",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 2",
+      "title": "Suelo, clima y terreno",
+      "exits": [
+        {
+          "address": "uba.fadu.paisaje.pdp-2",
+          "name": "Planificación y Diseño del Paisaje II",
+          "role": "anual · 180 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.vegetacion-2",
+          "name": "Vegetación II",
+          "role": "anual · 120 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.fisiologia-vegetal",
+          "name": "Fisiología Vegetal",
+          "role": "1º cuat. · 45 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.edafologia",
+          "name": "Edafología",
+          "role": "1º cuat. · 75 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.instalaciones-equipamientos",
+          "name": "Instalaciones y Equipamientos",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.climatologia-fenologia",
+          "name": "Climatología y Fenología",
+          "role": "2º cuat. · 90 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.topografia",
+          "name": "Topografía",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.morfologia-comunicacion-1",
+          "name": "Morfología y Comunicación I",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 3",
+      "title": "Historia, manejo y ecología",
+      "note": "Más Electiva I (2º cuat., 60 hs), sin nombre fijo en el plan.",
+      "exits": [
+        {
+          "address": "uba.fadu.paisaje.pdp-3",
+          "name": "Planificación y Diseño del Paisaje III",
+          "role": "anual · 240 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.historia-arquitectura-paisajista-1",
+          "name": "Historia de la Arquitectura Paisajista I",
+          "role": "anual · 120 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.morfologia-comunicacion-2",
+          "name": "Morfología y Comunicación II",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.manejo-suelo-vegetacion",
+          "name": "Manejo del Suelo y la Vegetación",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.geografia",
+          "name": "Geografía",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.ecologia",
+          "name": "Ecología",
+          "role": "2º cuat. (bimestral) · 45 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.fitogeografia",
+          "name": "Fitogeografía Argentina",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Nivel 4",
+      "title": "Ciudad, región y trabajo final",
+      "note": "Más Electiva II y Electiva III (2º cuat., 60 hs cada una), sin nombre fijo en el plan.",
+      "exits": [
+        {
+          "address": "uba.fadu.paisaje.pdp-4",
+          "name": "Planificación y Diseño del Paisaje IV",
+          "role": "anual · 180 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.ecologia-paisaje",
+          "name": "Ecología del Paisaje",
+          "role": "1º cuat. · 75 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.historia-arquitectura-paisajista-2",
+          "name": "Historia de la Arquitectura Paisajista II",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.planeamiento-urbano-regional",
+          "name": "Planeamiento Urbano y Regional",
+          "role": "1º cuat. · 60 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.practica-profesional",
+          "name": "Práctica Profesional",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fadu.paisaje.trabajo-final",
+          "name": "Trabajo Final",
+          "role": "2º cuat. · 60 hs",
+          "tag": "nivel 4",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje · agro.uba.ar/carreras/paisaje/plan (Plan 2005, PDF de carga horaria y correlatividades)",
+    "url": "https://www.fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje/"
+  }
+}

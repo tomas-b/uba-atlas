@@ -1,0 +1,136 @@
+{
+  "address": "uba.fcen.atmosfera",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2018,
+    "resolucion": "Res. (CS) 6443/17",
+    "años": 5,
+    "ciclos": 3,
+    "materias": 65,
+    "obligatorias": 16,
+    "electivas": 48,
+    "tesis": true,
+    "cargaHorariaTotalMin": 3584,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.atmosfera", "label": "Ciencias de la Atmósfera" }
+  ],
+  "eyebrow": "Licenciatura en Ciencias de la Atmósfera · Plan 2018",
+  "title": "Cinco años, de la física del aire al pronóstico.",
+  "lede": "El plan real (2018, Res. CS 6443/17) del Departamento de Ciencias de la Atmósfera y los Océanos de Exactas: tres ciclos que van de matemática y física a termodinámica, dinámica, ondas y sinóptica, y cierran con electivas y una tesis. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    { "k": "Plan", "v": "2018" },
+    { "k": "Materias", "v": "65", "small": "16 obligatorias · 48 electivas · tesis" },
+    { "k": "Grounding", "v": "L1", "small": "plan" },
+    { "k": "Trazadas", "v": "0", "small": "/ 65" }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Código UBA, Libro V, Título 15, Capítulo A: Plan 2018 · ingresantes.exactas). Nivel L1: nombres, ciclos, años, régimen (C cuatrimestral / B bimestral / A anual) y correlatividades son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Carga mínima total: 3.584 horas reloj. Las seis materias del CBC no se listan acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Inicial · años 2–3",
+      "title": "Matemática, física y química de base",
+      "note": "1.344 h con el CBC. Correlativa de todo el ciclo: CBC aprobado.",
+      "exits": [
+        { "address": "uba.fcen.atmosfera.matematica-1", "name": "Matemática 1", "role": "cuatrimestral · 144 h", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.matematica-3", "name": "Matemática 3", "role": "cuatrimestral · 144 h · regular Mat. 1", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.fisica-1", "name": "Física 1", "role": "cuatrimestral · 144 h", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.quimica-general-inorganica", "name": "Química General e Inorgánica para Ciencias de la Atmósfera", "role": "cuatrimestral · 160 h", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.fisica-2", "name": "Física 2", "role": "cuatrimestral · 144 h · regular Física 1", "tag": "año 3", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Intermedia · años 2–4",
+      "title": "La atmósfera como sistema físico",
+      "note": "1.360 h. Once obligatorias: termodinámica, dinámica, radiación, clima, ondas y sinóptica.",
+      "exits": [
+        { "address": "uba.fcen.atmosfera.meteorologia-general", "name": "Meteorología General", "role": "cuatrimestral · 160 h", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.estadistica-sistema-climatico-1", "name": "Estadística para el Sistema Climático 1", "role": "cuatrimestral · 160 h · regular Mat. 1, Met. General", "tag": "año 2", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.procesos-termodinamicos", "name": "Procesos Termodinámicos en la Atmósfera", "role": "cuatrimestral · 160 h · regular Física 1, Química Gral.", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.intro-dinamica", "name": "Introducción a la Dinámica de la Atmósfera", "role": "bimestral · 80 h · regular Física 1, Mat. 3", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.radiacion", "name": "Radiación", "role": "bimestral · 80 h · regular Física 1", "tag": "año 3", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.climatologia", "name": "Climatología", "role": "cuatrimestral · 160 h · regular Dinámica, Termodinámica, Radiación", "tag": "año 3/4", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.procesos-pequena-escala", "name": "Procesos Atmosféricos en Pequeña Escala", "role": "bimestral · 80 h · regular Dinámica, Termodinámica, Estadística 1", "tag": "año 3/4", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.ondas-1", "name": "Ondas en la Atmósfera 1", "role": "bimestral · 80 h · regular Física 2, Pequeña Escala", "tag": "año 3/4", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.lab-procesamiento-info-meteorologica", "name": "Laboratorio de Procesamiento de Información Meteorológica", "role": "cuatrimestral · 160 h · regular Estadística 1", "tag": "año 3/4", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.ondas-2", "name": "Ondas en la Atmósfera 2", "role": "bimestral · 80 h · regular Física 2, Pequeña Escala", "tag": "año 4", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.meteorologia-sinoptica", "name": "Meteorología Sinóptica", "role": "cuatrimestral · 160 h · regular Climatología, Ondas 1, Lab. Procesamiento", "tag": "año 4", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Especialización · año 5",
+      "title": "Tesis",
+      "note": "880 h mínimas: 560 h de electivas + 320 h de tesis anual. Requiere TP aprobados de Ondas 2 y Sinóptica.",
+      "exits": [
+        { "address": "uba.fcen.atmosfera.tesis", "name": "Tesis de Licenciatura", "role": "anual · 320 h · regular Ondas 2, Sinóptica", "tag": "año 5", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas · 48",
+      "title": "Menú de especialización",
+      "note": "Asignaturas electivas nombradas en el plan; se cursan 560 h a elección.",
+      "exits": [
+        { "address": "uba.fcen.atmosfera.aplicaciones-climatologia", "name": "Aplicaciones en Climatología", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.calculo-numerico", "name": "Cálculo Numérico", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.cambio-climatico", "name": "Cambio Climático", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.clima-urbano", "name": "Clima Urbano", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.climatologia-extremos", "name": "Climatología de Extremos y sus Impactos", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.climatologia-sinoptica", "name": "Climatología Sinóptica", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.contaminacion-atmosferica", "name": "Contaminación Atmosférica", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.conveccion-fenomenos-severos-1", "name": "Convección y Fenómenos Severos 1", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.conveccion-fenomenos-severos-2", "name": "Convección y Fenómenos Severos 2", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.estadistica-sistema-climatico-2", "name": "Estadística para el Sistema Climático 2", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.fisica-3", "name": "Física 3", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.fisica-4", "name": "Física 4", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.fisica-atmosfera-terrestre", "name": "Física de la Atmósfera Terrestre", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.historia-ciencia", "name": "Historia de la Ciencia", "role": "cuatrimestral · 96 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.intro-geologia", "name": "Introducción a la Geología", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.intro-cambio-climatico", "name": "Introducción al Cambio Climático", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.lab-monitoreo-climatico", "name": "Laboratorio de Monitoreo Climático", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.lab-pronostico-tiempo", "name": "Laboratorio de Pronóstico del Tiempo", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.mareas", "name": "Mareas", "role": "cuatrimestral · 128 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.matematica-2", "name": "Matemática 2", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.matematica-4", "name": "Matemática 4", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.mecanica-clasica", "name": "Mecánica Clásica", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.mesometeorologia-montana", "name": "Mesometeorología de Montaña", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.meteorologia-aeronautica", "name": "Meteorología Aeronáutica", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.meteorologia-agricola-1", "name": "Meteorología Agrícola 1", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.meteorologia-agricola-2", "name": "Meteorología Agrícola 2", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.meteorologia-espacial", "name": "Meteorología Espacial", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.metodos-numericos", "name": "Métodos Numéricos", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.microclimatologia", "name": "Microclimatología", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.micrometeorologia", "name": "Micrometeorología", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.modelado-contaminacion", "name": "Modelado de la Contaminación Atmosférica", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.modelado-pequena-escala", "name": "Modelado de Procesos de Pequeña Escala", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.modelado-numerico", "name": "Modelado Numérico de la Atmósfera", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.observacion-diseno-experimental", "name": "Observación y Diseño Experimental", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.oceanografia-general", "name": "Oceanografía General", "role": "cuatrimestral · 128 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.olas", "name": "Olas", "role": "cuatrimestral · 144 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.paleo-neoclima", "name": "Paleo y Neoclima", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.paleontologia-general", "name": "Paleontología General", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.procesos-dinamicos-gran-escala", "name": "Procesos Dinámicos de Gran Escala en la Atmósfera", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.pronostico-climatico", "name": "Pronóstico Climático", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.pronostico-tiempo", "name": "Pronóstico del Tiempo", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.pronostico-inmediato", "name": "Pronóstico Inmediato", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.recursos-hidricos-clima", "name": "Recursos Hídricos y Clima", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.sensoramiento-remoto-1", "name": "Sensoramiento Remoto del Sistema Terrestre 1", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.sensoramiento-remoto-2", "name": "Sensoramiento Remoto del Sistema Terrestre 2", "role": "bimestral · 80 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.simulacion-clima", "name": "Simulación del Clima", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.tecnicas-estadisticas-sistema-climatico", "name": "Técnicas Estadísticas para el Estudio del Sistema Climático", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" },
+        { "address": "uba.fcen.atmosfera.temas-avanzados-climatologia", "name": "Temas Avanzados en Climatología", "role": "cuatrimestral · 160 h", "tag": "electiva", "kind": "course" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Código UBA · Libro V Exactas · Título 15 · Cap. A Plan 2018 (Res. CS 6443/17) · ingresantes.exactas.uba.ar",
+    "url": "https://codigo.rec.uba.ar/libro_v__exactas/libro-v-facultad-de-cs-exactas-y-naturales/titulo-15-licenciatura-en-ciencias-de-la-atmosfera/capitulo-a-plan-2018/"
+  }
+}
