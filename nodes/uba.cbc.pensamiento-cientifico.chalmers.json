@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.chalmers",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L3",
+  "metadata": { "author": "Alan F. Chalmers", "title": "¿Qué es esa cosa llamada ciencia?", "publisher": "Siglo XXI", "place": "Madrid", "year": 1984 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.chalmers", "label": "Chalmers · ¿Qué es esa cosa llamada ciencia?" }
+  ],
+  "eyebrow": "Pensamiento Científico · libro · el recorrido claro",
+  "title": "Chalmers — ¿Qué es esa cosa llamada ciencia?",
+  "lede": "El libro que ordena el arco del curso de una punta a la otra. Empieza en el inductivismo ingenuo y sus problemas, pasa al falsacionismo de Popper y sus límites, y desemboca en las teorías como estructuras — Kuhn y los paradigmas, Lakatos y los programas de investigación. La versión más legible del giro que el programa recorre.",
+  "meta": [
+    { "k": "Autor", "v": "Chalmers" },
+    { "k": "Edición", "v": "Siglo XXI", "small": "Madrid, 1984" },
+    { "k": "Grounding", "v": "L3", "small": "libro" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "Alan Chalmers escribe la introducción a la filosofía de la ciencia más difundida en la enseñanza de habla hispana. «¿Qué es esa cosa llamada ciencia?» es, en el IPC, el texto que da continuidad al debate: expone y critica el inductivismo, presenta el falsacionismo de Popper, y avanza hacia las concepciones de la ciencia como estructura (Kuhn, Lakatos). Sirve de puente entre las unidades porque narra el problema como una discusión que avanza — cada posición nace de las fallas de la anterior.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El libro, a esta resolución",
+      "title": "Qué cubre",
+      "note": "El fondo del pozo: aquí el mapa toca el terreno del texto asignado.",
+      "map": {
+        "mk": "El recorrido, comprimido",
+        "tree": "¿QUÉ ES ESA COSA LLAMADA CIENCIA?\n│\n├─ Inductivismo ingenuo · y por qué no se sostiene\n├─ Falsacionismo · Popper, la conjetura y la refutación\n├─ Teorías como estructuras · Kuhn, paradigmas\n└─ Programas de investigación · Lakatos\n        → el mismo giro que recorre el programa, narrado",
+        "foot": "Metadatos de la cátedra IPC. Acompaña las unidades 1, 2 y 4 dándoles continuidad argumental."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "IPC · bibliografía CBC UBA", "url": "https://www.cbc.uba.ar/" }
+}

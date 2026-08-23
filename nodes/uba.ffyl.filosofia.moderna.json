@@ -1,0 +1,69 @@
+{
+  "address": "uba.ffyl.filosofia.moderna",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 h",
+    "promocion": "Examen Final",
+    "codigo": "0206 - 12003",
+    "catedra": "Mendoza Hurtado (2020)",
+    "unidades": 5,
+    "bibliography": true
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.moderna", "label": "Historia de la Filosofía Moderna" }
+  ],
+  "eyebrow": "Historia de la Filosofía Moderna · Depto. de Filosofía",
+  "title": "Solo con mi razón: ¿qué puedo saber con certeza?",
+  "lede": "El tercer eslabón, y la columna vertebral de la carrera. El programa recorre la modernidad europea por sus corrientes centrales: <b>racionalismo</b> y <b>empirismo</b> tironeando por el origen del conocimiento, la <b>bisagra kantiana</b> que los reconcilia, y la Ilustración que abre el siglo XVIII. De Descartes a la disputa del panteísmo, el problema es siempre el mismo: los límites y el fundamento de lo que la razón puede.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "96 h · EF" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Bisagra", "v": "Kant", "small": "Unidad IV" }
+  ],
+  "frame": "Grounded en el programa 2020 de la cátedra (Mendoza Hurtado), código 0206-12003, repositorio.filo.uba.ar. Cinco unidades organizadas por corrientes: los contextos de emergencia (Renacimiento, humanismo, escepticismo), los racionalismos (Descartes, Spinoza, Leibniz), los empirismos (Bacon, Locke, Hume), la filosofía crítica de Kant y las filosofías del siglo XVIII (la Ilustración y sus salidas). La bibliografía obligatoria son textos primarios de la modernidad en selección de cátedra. Se recomienda tener cursadas Antigua, Medieval y Lógica.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Racionalismo, empirismo, Kant, Ilustración",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa 2020, en cinco unidades",
+        "tree": "HISTORIA DE LA FILOSOFÍA MODERNA — el origen del conocimiento\n│\n├─ I    Contextos de emergencia   Renacimiento · Moro · Montaigne · escepticismo\n├─ II   Racionalismos            Descartes · Spinoza · Leibniz\n├─ III  Empirismos               Bacon · Locke · Hume\n├─ IV   La filosofía crítica     Kant · el idealismo trascendental (la bisagra)\n└─ V    El siglo XVIII           la Ilustración · Hamann, Jacobi, Herder",
+        "foot": "Unidades del programa 2020 (Mendoza Hurtado). Racionalismo y empirismo son las dos respuestas que Kant intenta reconciliar."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.moderna.contextos", "name": "Contextos de emergencia de la modernidad", "role": "Unidad I · Renacimiento, escepticismo", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.moderna.racionalismos", "name": "Racionalismos modernos", "role": "Unidad II · Descartes, Spinoza, Leibniz", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.moderna.empirismos", "name": "Empirismos modernos", "role": "Unidad III · Bacon, Locke, Hume", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.moderna.kant", "name": "La filosofía crítica de Kant", "role": "Unidad IV", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.moderna.ilustracion", "name": "Las filosofías del siglo XVIII", "role": "Unidad V · la Ilustración", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Bibliografía · fuentes obligatorias",
+      "title": "Los textos primarios, tal como los asigna la cátedra",
+      "note": "Bibliografía obligatoria del curso: primarios de la modernidad en selección. Cada libro es un índice L3 aún sin abrir.",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.moderna.montaigne-ensayos", "name": "Ensayos", "role": "Michel de Montaigne (Cátedra)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.descartes-meditaciones", "name": "Meditaciones metafísicas / Discurso del método", "role": "R. Descartes (Obras escogidas, Charcas)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.spinoza-etica", "name": "Ética demostrada según el orden geométrico", "role": "B. Spinoza (Alianza)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.leibniz-discurso", "name": "Discurso de metafísica", "role": "G. W. Leibniz (Charcas)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.bacon-novum-organon", "name": "Novum Organon / La gran restauración", "role": "F. Bacon (Alianza)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.locke-ensayo", "name": "Ensayo sobre el entendimiento humano", "role": "J. Locke (F.C.E.)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.hume-investigacion", "name": "Investigación sobre el conocimiento humano", "role": "D. Hume (Istmo)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.kant-critica-razon-pura", "name": "Crítica de la razón pura", "role": "I. Kant (Colihue, tr. Caimi)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.outram-ilustracion", "name": "La ilustración", "role": "D. Outram (Siglo XXI)", "tag": "estudio", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Moderna (Mendoza Hurtado) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.contratos-sociedades-titulos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.contratos-sociedades-titulos", "label": "Contratos, sociedades y títulos" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 5",
+  "title": "Los instrumentos jurídicos del tráfico mercantil.",
+  "lede": "Los contratos comerciales en su concepto, clasificación y especies. Las sociedades y su regulación en la Ley General de Sociedades: tipicidad, tipos sociales y su transformación, fusión y escisión, junto a las SAS. Los títulos valores: la letra de cambio, el pagaré y el cheque.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Contratos comerciales, sociedades (LGS y SAS) y títulos valores",
+      "note": "Los contratos comerciales: concepto, clasificación, interpretación, integración, elementos, cláusulas y situaciones abusivas, y su formación, desenvolvimiento y extinción; nociones de contratos en especial (compraventa, permuta, suministro, leasing, mandato, consignación, corretaje, depósito, contratos bancarios, factoraje, cuenta corriente, contratos asociativos, agencia, concesión, franquicia, mutuo, fianza, fideicomiso, seguro, tarjeta de crédito y otros). Las sociedades: concepto, evolución, regulación en la Ley General de Sociedades, regularidad y tipicidad, sociedad unipersonal, sociedades atípicas, irregulares y de hecho, los tipos sociales y sus órganos, la transformación, fusión y escisión, disolución y liquidación, y las Sociedades por Acciones Simplificadas (SAS). Títulos valores: concepto, características, principios, reglas de circulación; la letra de cambio, el pagaré, el cheque y otros títulos valores.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

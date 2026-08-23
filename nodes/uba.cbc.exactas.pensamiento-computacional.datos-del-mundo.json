@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.datos-del-mundo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 8
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.datos-del-mundo",
+      "label": "Datos del Mundo"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A8",
+  "title": "Analizar datos reales.",
+  "lede": "Trabajar con conjuntos de datos del mundo real: leerlos, filtrarlos, resumirlos y sacar conclusiones — una primera experiencia de análisis de datos.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "8",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "actividad",
+      "small": "datos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Análisis de datos: lectura de un conjunto de datos, filtrado, agregación y resumen, extracción de conclusiones. Estructuras de datos para tablas de información.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "DATOS DEL MUNDO (Actividad 8)\n│\n├─ Problema · conjuntos de datos reales\n└─ Idea     · leer, filtrar, resumir, concluir",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

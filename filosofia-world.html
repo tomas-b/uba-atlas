@@ -1,0 +1,236 @@
+<style>
+  :root {
+    --paper: #e1e0da; --surface: #ecebe5; --surface-2: #e7e6df;
+    --ink: #23262b; --ink-soft: #565b62; --ink-faint: #8a8e88; --hairline: #c6c6bd;
+    --steel: #2c4257; --steel-soft: #6a7f92; --accent: #bd7514; --accent-ink: #7a4c0c; --ready: #3f7d5a;
+    --font-display: ui-monospace, "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    --font-body: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #15171a; --surface: #1d2024; --surface-2: #212429;
+      --ink: #e8e7e1; --ink-soft: #9ca19f; --ink-faint: #6d716e; --hairline: #34383d;
+      --steel: #7ba0c6; --steel-soft: #55708a; --accent: #db9636; --accent-ink: #e7ad57; --ready: #5fa982;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #15171a; --surface: #1d2024; --surface-2: #212429;
+    --ink: #e8e7e1; --ink-soft: #9ca19f; --ink-faint: #6d716e; --hairline: #34383d;
+    --steel: #7ba0c6; --steel-soft: #55708a; --accent: #db9636; --accent-ink: #e7ad57; --ready: #5fa982;
+    color-scheme: dark;
+  }
+  :root[data-theme="light"] {
+    --paper: #e1e0da; --surface: #ecebe5; --surface-2: #e7e6df;
+    --ink: #23262b; --ink-soft: #565b62; --ink-faint: #8a8e88; --hairline: #c6c6bd;
+    --steel: #2c4257; --steel-soft: #6a7f92; --accent: #bd7514; --accent-ink: #7a4c0c; --ready: #3f7d5a;
+    color-scheme: light;
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-body); line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 28px 24px 80px; }
+
+  /* breadcrumb — the addressable path up the tree */
+  .crumb { font-family: var(--font-display); font-size: 12px; letter-spacing: 0.02em; margin-bottom: 20px; color: var(--ink-faint); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .crumb a { color: var(--steel); text-decoration: none; border-bottom: 1px solid transparent; }
+  .crumb a:hover { border-bottom-color: var(--steel); }
+  .crumb .sep { color: var(--ink-faint); }
+  .crumb .here { color: var(--ink); font-weight: 600; }
+
+  .titleblock { border: 1.5px solid var(--ink); background: var(--surface); }
+  .tb-main { padding: 24px 26px 20px; border-bottom: 1px solid var(--hairline); }
+  .tb-eyebrow { font-family: var(--font-display); font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent-ink); margin: 0 0 12px; }
+  h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(26px, 4.5vw, 40px); letter-spacing: -0.01em; line-height: 1.06; margin: 0 0 13px; text-wrap: balance; }
+  .tb-lede { font-size: 15px; color: var(--ink-soft); max-width: 64ch; margin: 0; }
+  .tb-lede b { color: var(--ink); font-weight: 600; }
+  .tb-meta { display: grid; grid-template-columns: repeat(4, 1fr); font-family: var(--font-display); }
+  .tb-cell { padding: 12px 16px; border-right: 1px solid var(--hairline); }
+  .tb-cell:last-child { border-right: 0; }
+  .tb-cell .k { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); }
+  .tb-cell .v { font-size: 19px; font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .tb-cell .v small { font-size: 12px; font-weight: 500; color: var(--ink-soft); }
+  @media (max-width: 620px) { .tb-meta { grid-template-columns: repeat(2,1fr); } .tb-cell:nth-child(2){border-right:0;} .tb-cell:nth-child(1),.tb-cell:nth-child(2){border-bottom:1px solid var(--hairline);} }
+
+  .scale { margin: 22px 0 26px; display: flex; align-items: center; flex-wrap: wrap; font-family: var(--font-display); font-size: 12px; }
+  .scale .lvl { display: inline-flex; align-items: center; gap: 8px; padding: 6px 4px; }
+  .scale .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--steel-soft); }
+  .scale .lvl.done .dot { background: var(--steel); }
+  .scale .lvl.here .dot { background: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 22%, transparent); }
+  .scale .lvl.here .lbl { color: var(--ink); font-weight: 600; }
+  .scale .lbl { color: var(--ink-soft); }
+  .scale .lvl.done .lbl { color: var(--ink-soft); }
+  .scale .lvl.future .lbl { color: var(--ink-faint); }
+  .scale .arrow { color: var(--ink-faint); padding: 0 10px; }
+
+  .intro { font-size: 14.5px; color: var(--ink-soft); max-width: 72ch; margin: 0 0 26px; }
+  .intro b { color: var(--ink); }
+
+  .axis { margin-bottom: 10px; background: var(--surface); border: 1px solid var(--hairline); border-radius: 2px; overflow: hidden; }
+  .axis.spine { border-left: 3px solid var(--ready); }
+  .axis.problems { border-left: 3px solid var(--steel); }
+  .axis.gate { border-left: 3px solid var(--accent); }
+  .axis-head { padding: 15px 20px; display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .axis-head .ax-k { font-family: var(--font-display); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent-ink); }
+  .axis.problems .axis-head .ax-k { color: var(--steel); }
+  .axis.spine .axis-head .ax-k { color: var(--ready); }
+  .axis-head h2 { font-family: var(--font-display); font-size: 16px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+  .axis-head .ax-note { font-size: 13px; color: var(--ink-soft); flex-basis: 100%; margin-top: 2px; }
+
+  .rooms { border-top: 1px solid var(--hairline); }
+  .room { display: grid; grid-template-columns: 1fr auto auto; align-items: baseline; gap: 14px; padding: 11px 20px; border-bottom: 1px solid var(--hairline); }
+  .room:last-child { border-bottom: 0; }
+  .room .rn { font-size: 14.5px; }
+  .room .rn .role { color: var(--ink-faint); font-size: 12.5px; }
+  .room .rp { font-family: var(--font-display); font-size: 11px; color: var(--steel-soft); text-transform: uppercase; letter-spacing: 0.06em; }
+  .status { font-family: var(--font-display); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; white-space: nowrap; text-align: right; }
+  .status.ready button { font: inherit; color: var(--ready); background: transparent; border: 1px solid color-mix(in srgb, var(--ready) 45%, transparent); border-radius: 2px; padding: 3px 9px; cursor: pointer; }
+  .status.ready button:hover { background: color-mix(in srgb, var(--ready) 14%, transparent); }
+  .status.ready button:focus-visible, .crumb a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .status.planned { color: var(--ink-faint); }
+  @media (max-width: 560px) { .room { grid-template-columns: 1fr auto; } .room .rp { display: none; } }
+
+  /* the drawn map — the throughline that grounds down */
+  .map { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .3s ease; border-top: 0; }
+  .map.open { grid-template-rows: 1fr; }
+  .map-inner { overflow: hidden; }
+  .map-card { margin: 0 20px 18px; background: var(--surface-2); border: 1px solid var(--hairline); border-left: 3px solid var(--ready); border-radius: 2px; padding: 18px 20px; }
+  .map-card .mk { font-family: var(--font-display); font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ready); margin: 0 0 12px; }
+  .tree { font-family: var(--font-display); font-size: 12.5px; line-height: 1.85; color: var(--ink-soft); margin: 0 0 12px; white-space: pre; overflow-x: auto; }
+  .tree b { color: var(--ink); font-weight: 600; }
+  .tree .q { color: var(--accent-ink); }
+  .map-foot { font-size: 12.5px; color: var(--ink-soft); margin: 0; }
+  .map-foot code { font-family: var(--font-display); font-size: 11.5px; background: var(--paper); padding: 1px 5px; border-radius: 2px; color: var(--accent-ink); }
+
+  footer { margin-top: 30px; padding-top: 22px; border-top: 1px solid var(--hairline); }
+  footer .vision { background: var(--surface); border: 1px solid var(--hairline); border-radius: 2px; padding: 18px 20px; margin-bottom: 16px; }
+  footer .vision h4 { font-family: var(--font-display); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent-ink); margin: 0 0 9px; }
+  footer .vision p { margin: 0; font-size: 13.5px; color: var(--ink-soft); max-width: 76ch; }
+  footer .vision p b { color: var(--ink); }
+  footer .src { font-family: var(--font-display); font-size: 11px; color: var(--ink-faint); line-height: 1.9; }
+  footer .src a { color: var(--steel); }
+  @media (prefers-reduced-motion: reduce) { .map { transition: none; } }
+</style>
+
+<div class="wrap">
+  <div class="crumb">
+    <a href="https://claude.ai/code/artifact/883eefed-0926-4538-a26f-094cf1ef8c53">UBA · plano general</a>
+    <span class="sep">›</span>
+    <span>Filosofía y Letras · FFyL</span>
+    <span class="sep">›</span>
+    <span class="here">Filosofía</span>
+  </div>
+
+  <div class="titleblock">
+    <div class="tb-main">
+      <p class="tb-eyebrow">Licenciatura en Filosofía · plan de la carrera</p>
+      <h1>Una carrera es un edificio de dos ejes.</h1>
+      <p class="tb-lede">Zoom in one level and the room becomes its own plan. Filosofía isn't a list of subjects — it's <b>two axes crossing</b>: a spine of history walked in order, and a set of timeless problems each era answers differently. Same drawing, re-rooted. <b>No es un temario, es una estructura.</b></p>
+    </div>
+    <div class="tb-meta">
+      <div class="tb-cell"><div class="k">Plan</div><div class="v">2017</div></div>
+      <div class="tb-cell"><div class="k">Duración</div><div class="v">~5–6 <small>años</small></div></div>
+      <div class="tb-cell"><div class="k">Materias</div><div class="v">14 <small>· 11 oblig.</small></div></div>
+      <div class="tb-cell"><div class="k">Trazadas</div><div class="v">1 <small>/ eje</small></div></div>
+    </div>
+  </div>
+
+  <div class="scale" aria-label="resolution levels">
+    <span class="lvl done"><span class="dot"></span><span class="lbl">institución</span></span>
+    <span class="arrow">→</span>
+    <span class="lvl done"><span class="dot"></span><span class="lbl">facultad</span></span>
+    <span class="arrow">→</span>
+    <span class="lvl here"><span class="dot"></span><span class="lbl">carrera</span></span>
+    <span class="arrow">→</span>
+    <span class="lvl future"><span class="dot"></span><span class="lbl">programa</span></span>
+    <span class="arrow">→</span>
+    <span class="lvl future"><span class="dot"></span><span class="lbl">libros · 1:1</span></span>
+  </div>
+
+  <p class="intro">UBA teaches philosophy on <b>two axes at once</b>, and that crossing <em>is</em> the degree. Read the <b>spine</b> top-to-bottom for the story of who argued with whom; read the <b>problems</b> as the columns every era fills in differently. Plus one gate most people don't expect. Each room below is a door to the next resolution — the real <b>programa</b> of the materia, then its bibliography. Only the spine is drawn so far.</p>
+
+  <div class="axis spine">
+    <div class="axis-head">
+      <span class="ax-k">Eje 1 · el hilo histórico</span>
+      <h2>Historia de la Filosofía</h2>
+      <p class="ax-note">Four courses walked in order, each doubled by a deeper "Problemas". The direction is the value — it's the dependency graph experts tuned for decades.</p>
+    </div>
+    <div class="rooms">
+      <div class="room">
+        <div class="rn">Historia de la Filosofía Antigua <span class="role">· Presocráticos → Platón → Aristóteles → helenismo</span></div>
+        <div class="rp">obligatoria</div>
+        <div class="status ready"><button type="button" data-map="spine">Ver el hilo →</button></div>
+      </div>
+      <div class="room"><div class="rn">Historia de la Filosofía Medieval <span class="role">· Agustín → Aquino → Ockham</span></div><div class="rp">obligatoria</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Historia de la Filosofía Moderna <span class="role">· Descartes → Hume → Kant → Hegel</span></div><div class="rp">obligatoria</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Historia de la Filosofía Contemporánea <span class="role">· Marx · Nietzsche · el corte analítico/continental</span></div><div class="rp">obligatoria</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Problemas Especiales <span class="role">· Antigua / Medieval / Moderna / Contemporánea</span></div><div class="rp">tradición</div><div class="status planned">sin trazar</div></div>
+      <div class="map" id="map-spine"><div class="map-inner"><div class="map-card">
+        <p class="mk">El hilo, comprimido a 10 h — grounded en el Plan 2017</p>
+<pre class="tree"><b>WESTERN PHILOSOPHY</b> — el hilo en cuatro giros
+│
+├─ <b>ANTIGUA</b>     <span class="q">¿de qué está hecho todo, y podemos conocerlo?</span>
+│     Presocráticos → Sócrates → Platón → <b>Aristóteles</b> → helenismo
+├─ <b>MEDIEVAL</b>    <span class="q">¿pueden fe y razón ser una sola verdad?</span>
+│     Agustín → <b>Aquino</b> (la síntesis) → Ockham (la navaja)
+├─ <b>MODERNA</b>     <span class="q">solo, ¿qué puedo saber con certeza?</span>
+│     Descartes → Hume → <b>Kant</b> (la bisagra) → Hegel
+└─ <b>CONTEMPORÁNEA</b> <span class="q">¿y si la razón misma fue la ilusión?</span>
+      Marx · Nietzsche → el río se parte:
+        ├─ <b>analítica</b>    (Frege · Wittgenstein · Quine)
+        └─ <b>continental</b>  (Husserl · Heidegger · Foucault)</pre>
+        <p class="map-foot">La bifurcación analítica/continental es la que nunca hay que olvidar. Se expande hacia el <code>programa</code> de cada Historia → los textos primarios. Trazado en <code>filosofia-occidental-uba.md</code>.</p>
+      </div></div></div>
+    </div>
+  </div>
+
+  <div class="axis problems">
+    <div class="axis-head">
+      <span class="ax-k">Eje 2 · los problemas sistemáticos</span>
+      <h2>Las columnas atemporales</h2>
+      <p class="ax-note">Taken alongside the history — the questions every era answers in its own way. Not yet drawn: each is its own future room.</p>
+    </div>
+    <div class="rooms">
+      <div class="room"><div class="rn">Lógica <span class="role">· la forma del razonamiento válido</span></div><div class="rp">introductoria</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Gnoseología <span class="role">· ¿qué es conocer?</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Metafísica / Ontología <span class="role">· ¿qué es ser?</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Ética <span class="role">· ¿qué es obrar bien?</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Estética <span class="role">· arte y belleza</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Antropología Filosófica <span class="role">· ¿qué es lo humano?</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+      <div class="room"><div class="rn">Filosofía de las Ciencias <span class="role">· cómo la ciencia sabe lo que sabe</span></div><div class="rp">sistemática</div><div class="status planned">sin trazar</div></div>
+    </div>
+  </div>
+
+  <div class="axis gate">
+    <div class="axis-head">
+      <span class="ax-k">La puerta que nadie espera</span>
+      <h2>Idiomas + tesis</h2>
+      <p class="ax-note">The gate tells you what philosophy really is here: close reading, not summary.</p>
+    </div>
+    <div class="rooms">
+      <div class="room"><div class="rn">Tres niveles × dos idiomas <span class="role">· uno latino (francés/italiano/portugués) + uno sajón (inglés/alemán)</span></div><div class="rp">requisito</div><div class="status planned">porque los textos no sobreviven la traducción</div></div>
+      <div class="room"><div class="rn">Seminarios electivos + Tesis de Licenciatura <span class="role">· donde se hace filosofía, no se la resume</span></div><div class="rp">final</div><div class="status planned">sin trazar</div></div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="vision">
+      <h4>Where this sits</h4>
+      <p>This is <b>one node</b>: up is the <b>plano general</b>, down are the <b>programas</b> of each materia and then the books — the 1:1 you reground against. Every "sin trazar" is a door not yet opened, drawn by hand today; the point of the whole thing is that a <b>generator materializes each of these on demand</b>, in this same language, grounded, as you walk down. Curated, not dumped.</p>
+    </div>
+    <div class="src">
+      Ground truth · <a href="https://academica.filo.uba.ar/plan-de-estudios-filosof%C3%ADa" target="_blank" rel="noopener">Plan de Estudios Filosofía (Filo·UBA)</a> · <a href="https://filo.uba.ar/sites/default/files/2024-12/PE%20Licenciatura%20Filosof%C3%ADa%20(modificaci%C3%B3n)%202024.pdf" target="_blank" rel="noopener">Plan 2017/2024 (PDF)</a>. 14 materias (11 obligatorias) + 3 niveles de 2 idiomas + tesis; el "hilo" es una compresión a 10 h de las cuatro Historia, no un reemplazo del programa.
+    </div>
+  </footer>
+</div>
+
+<script>
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-map]");
+    if (!b) return;
+    const m = document.getElementById("map-" + b.dataset.map);
+    const showing = m.classList.toggle("open");
+    b.textContent = showing ? "Cerrar hilo ×" : "Ver el hilo →";
+  });
+</script>

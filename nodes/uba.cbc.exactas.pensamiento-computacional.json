@@ -1,0 +1,137 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "unidades": 9
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · CBC · DC-FCEN",
+  "title": "Resolver problemas programando, en Python.",
+  "lede": "Pensamiento Computacional: aprender a resolver problemas con la ayuda de un lenguaje de programación, sin conocimientos previos. Se dicta enteramente en laboratorio y con un enfoque pragmático — conceptualizar la solución, expresarla como algoritmo y programarla en Python. El recorrido son nueve actividades temáticas, de las figuritas al proyecto final. Optativa de la orientación.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "laboratorio"
+    },
+    {
+      "k": "Actividades",
+      "v": "9",
+      "small": "módulos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · sin biblio"
+    },
+    {
+      "k": "Lenguaje",
+      "v": "Python",
+      "small": "bloques→código"
+    }
+  ],
+  "frame": "Contenido de Pensamiento Computacional (Departamento de Computación, FCEN-UBA, ofrecida en el CBC): resolución de problemas con Python, dictada en laboratorio a través de nueve actividades temáticas. El proceso es común a todas — conceptualizar, algoritmizar (pseudocódigo o bloques), programar y probar. La fuente oficial no publica bibliografía formal para la materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 9 actividades",
+      "title": "El recorrido por actividades",
+      "note": "Cada actividad es un problema que introduce ideas nuevas de programación.",
+      "map": {
+        "mk": "El programa, en nueve actividades",
+        "tree": "PENSAMIENTO COMPUTACIONAL — problemas con Python\n│\n├─ A1 · Figuritas          · simulación, probabilidad\n├─ A2 · Diez Mil           · condicionales, flujo\n├─ A3 · Incendio Forestal  · grillas, iteración\n├─ A4 · Difusión           · reglas locales, evolución\n├─ A5 · Cumpleaños         · estimación de probabilidad\n├─ A6 · Criptografía       · cadenas de texto\n├─ A7 · Imágenes           · matrices de píxeles\n├─ A8 · Datos del Mundo    · análisis de datos\n└─ A9 · Proyecto Final     · integración",
+        "foot": "Actividades de la materia según el Departamento de Computación (FCEN-UBA). Sin bibliografía formal publicada."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.figuritas",
+          "name": "Figuritas",
+          "role": "A1",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.diez-mil",
+          "name": "Diez Mil",
+          "role": "A2",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.incendio-forestal",
+          "name": "Incendio Forestal",
+          "role": "A3",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.difusion",
+          "name": "Difusión",
+          "role": "A4",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.cumpleanos",
+          "name": "Cumpleaños",
+          "role": "A5",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.criptografia",
+          "name": "Criptografía",
+          "role": "A6",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.imagenes",
+          "name": "Imágenes",
+          "role": "A7",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.datos-del-mundo",
+          "name": "Datos del Mundo",
+          "role": "A8",
+          "tag": "actividad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional.proyecto-final",
+          "name": "Proyecto Final",
+          "role": "A9",
+          "tag": "actividad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias.jurisprudencia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" },
+    { "address": "uba.der.abogacia.ddhh-garantias.jurisprudencia", "label": "Análisis de jurisprudencia" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · Unidad 5",
+  "title": "Leer un fallo: de los hechos al holding.",
+  "lede": "El análisis de jurisprudencia referida al derecho de los derechos humanos: identificar las partes de un fallo —hechos, cuestión debatida, solución del caso, argumentos que la justifican, el holding o regla que surge del caso y los obiter dicta— y diferenciar los votos que hacen a la mayoría, las concurrencias y los votos en disidencia.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "DDHH y Gtías.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Las partes de un fallo y los tipos de voto",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: análisis de jurisprudencia sobre derechos humanos; partes de un fallo (hechos, cuestión debatida, solución del caso, argumentos que justifican la solución, holding o regla que surge del caso, y obiter dicta); diferenciación entre votos que hacen a la mayoría, concurrencias y votos en disidencia.",
+      "map": {
+        "mk": "Partes de un fallo",
+        "tree": "FALLO\n│\n├─ Hechos\n├─ Cuestión debatida\n├─ Solución del caso\n├─ Argumentos que la justifican\n├─ Holding · regla que surge del caso\n└─ Obiter dicta",
+        "foot": "Partes de un fallo según los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

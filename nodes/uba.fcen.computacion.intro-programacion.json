@@ -1,0 +1,42 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "10 h semanales", "unidades": 3, "bibliography": [] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.intro-programacion", "label": "Introducción a la Programación" }
+  ],
+  "eyebrow": "Introducción a la Programación · Año 1 · 1º cuat.",
+  "title": "Del problema al programa: especificar y programar.",
+  "lede": "La primera materia de la carrera. Enseña a pensar algorítmicamente: partir de un problema, especificarlo sin ambigüedad y programarlo en dos paradigmas — funcional con Haskell y luego imperativo con Python. En el medio, la lógica y los tipos de datos que dan rigor a cada paso.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "1º · teór-práct-lab" },
+    { "k": "Bloques", "v": "3", "small": "contenidos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio propia" },
+    { "k": "Carga", "v": "10 h", "small": "semanales" }
+  ],
+  "frame": "Contenido sourceado del plan oficial (computacion.dc.uba.ar/plan-de-estudios-2023) y de la transcripción de cátedra (Cuba-Wiki, plan 2023): el pensamiento algorítmico desarrollado en tres bloques — fundamentos, programación funcional (Haskell) y programación imperativa (Python). La cátedra trabaja con apuntes, guías y slides propios; no publica una bibliografía formal de libros, por lo que no se listan textos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los 3 bloques",
+      "title": "El recorrido de la materia",
+      "note": "Fundamentos, y luego cada paradigma en su lenguaje.",
+      "map": {
+        "mk": "El programa, en tres bloques",
+        "tree": "INTRODUCCIÓN A LA PROGRAMACIÓN\n│\n├─ B1 · Fundamentos · problema, especificación, lógica, TADs\n├─ B2 · Funcional · Haskell (tipos, funciones, recursión, listas)\n└─ B3 · Imperativo · Python (variables, iteración, referencias, TADs)",
+        "foot": "Temas de la cátedra (DC, plan 2023). La bibliografía es material propio de cátedra, no un libro de texto."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.intro-programacion.fundamentos", "name": "Fundamentos: problema, especificación y lógica", "role": "Bloque 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.intro-programacion.funcional-haskell", "name": "Programación funcional (Haskell)", "role": "Bloque 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.intro-programacion.imperativo-python", "name": "Programación imperativa (Python)", "role": "Bloque 3", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

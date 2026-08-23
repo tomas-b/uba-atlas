@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.averroes",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 8 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.averroes", "label": "Razón y religión en Ibn Rushd (Averroes)" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · VIII de VIII",
+  "title": "Filosofía y religión dicen la misma verdad.",
+  "lede": "El cierre del curso, con la defensa jurídica de la filosofía de Averroes: en el Tratado decisivo, filosofía y religión coinciden. Las tres clases de silogismos —demostrativos, dialécticos, retóricos— y las tres naturalezas humanas que les corresponden; la interpretación alegórica; la cuestión de la eternidad del mundo.",
+  "meta": [
+    { "k": "Unidad", "v": "VIII", "small": "de VIII" },
+    { "k": "Figura", "v": "Averroes", "small": "razón/religión" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Una defensa jurídica de la filosofía: coincidencia entre filosofía y religión en el Tratado decisivo. Las tres clases de silogismos y las tres naturalezas humanas que les corresponden: demostrativos, dialécticos y retóricos. La interpretación alegórica y el consenso unánime. La cuestión de la eternidad del mundo. Fuente: El tratado decisivo y otros textos sobre filosofía y religión.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad VIII.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "RAZÓN Y RELIGIÓN EN AVERROES (Unidad VIII)\n│\n├─ El Tratado decisivo   filosofía y religión coinciden · defensa jurídica\n├─ Tres silogismos       demostrativo · dialéctico · retórico · tres naturalezas\n└─ La eternidad del mundo   el límite de la interpretación alegórica",
+        "foot": "Temas del programa 2020. Fuente: El tratado decisivo (Winograd, 2015)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad VIII", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

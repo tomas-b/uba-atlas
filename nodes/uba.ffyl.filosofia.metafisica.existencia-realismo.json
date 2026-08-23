@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.metafisica.existencia-realismo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "de": 7, "materia": "Metafísica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.metafisica", "label": "Metafísica / Ontología" },
+    { "address": "uba.ffyl.filosofia.metafisica.existencia-realismo", "label": "Existencia, realidad y realismo" }
+  ],
+  "eyebrow": "Metafísica · unidad · 2 de 7",
+  "title": "Qué es existir, y qué es lo real.",
+  "lede": "Existencia y realidad, con el lenguaje en el centro: la relación lenguaje-mente-mundo, esquemas conceptuales y ontología, el relativismo conceptual. La cuestión del realismo — sus variedades y las del antirrealismo — y los criterios de compromiso ontológico.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 7" },
+    { "k": "Rol", "v": "ontología", "small": "realismo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Existencia y realidad. El papel del lenguaje en la metafísica contemporánea. La relación lenguaje-mente-mundo. Esquemas conceptuales y ontología. El relativismo conceptual. La cuestión del realismo: variedades de realismo y antirrealismo. Criterios de compromiso ontológico. Objetos inexistentes, entidades abstractas y hechos. La relatividad ontológica; la pregunta externa y la pregunta interna.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 2 del programa Pérez 2021.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Metafísica (Cátedra Pérez, 2021) · Unidad 2", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15162" }
+}

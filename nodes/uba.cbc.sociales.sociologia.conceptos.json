@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.sociologia.conceptos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 3,
+    "de": 4,
+    "materia": "Sociología"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.sociologia",
+      "label": "Sociología"
+    },
+    {
+      "address": "uba.cbc.sociales.sociologia.conceptos",
+      "label": "Conceptos y problemas fundamentales"
+    }
+  ],
+  "eyebrow": "Sociología · unidad · contenido 3",
+  "title": "El vocabulario y las escuelas.",
+  "lede": "Los conceptos centrales y las principales perspectivas teóricas, en su dimensión macro y microsociológica.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "3",
+      "small": "de 4"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Conceptos y problemas fundamentales y distintas perspectivas teóricas: hecho social, acción social, relaciones sociales, grupos y clases sociales, poder, normas, instituciones, orden y conflicto. Dimensiones macro y microsociológica.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

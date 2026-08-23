@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" },
+    { "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador", "label": "Estructura de un computador" }
+  ],
+  "eyebrow": "Sistemas Digitales · unidad · 1",
+  "title": "Cómo se organiza un computador por dentro.",
+  "lede": "La estructura general de un computador y el modo en que el software se conecta con el hardware.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "punto de partida" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La estructura general de un computador y el vínculo entre el software y el hardware.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ESTRUCTURA DE UN COMPUTADOR (bloque 1)\n│\n├─ Tema · estructura general de un computador\n└─ Idea · conexión entre el software y el hardware",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Sistemas Digitales, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

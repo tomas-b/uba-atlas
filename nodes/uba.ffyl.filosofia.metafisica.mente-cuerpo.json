@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.metafisica.mente-cuerpo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "de": 7, "materia": "Metafísica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.metafisica", "label": "Metafísica / Ontología" },
+    { "address": "uba.ffyl.filosofia.metafisica.mente-cuerpo", "label": "El problema mente-cuerpo" }
+  ],
+  "eyebrow": "Metafísica · unidad · 5 de 7",
+  "title": "¿La mente es el cerebro?",
+  "lede": "El problema mente-cuerpo: el dualismo frente al materialismo, el fisicalismo y el naturalismo. El giro mentalista y la metáfora del computador. El problema de la intencionalidad y los argumentos a favor y en contra de reducir lo mental.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Rol", "v": "mente", "small": "cuerpo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El problema mente-cuerpo. El dualismo. Materialismo, fisicalismo y naturalismo. El giro mentalista y la metáfora del computador. El problema de la intencionalidad. Argumentos contra la irreducibilidad de lo intencional. Argumentos en favor de la reducción funcional.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 5 del programa Pérez 2021.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Metafísica (Cátedra Pérez, 2021) · Unidad 5", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15162" }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-general-derecho", "label": "Teoría General del Derecho" }
+  ],
+  "eyebrow": "Teoría General del Derecho · CPC · Abogacía",
+  "title": "Qué es el Derecho, antes de qué dice cada ley.",
+  "lede": "Teoría General del Derecho abre el Ciclo Profesional Común con las preguntas de fondo: qué es una norma, cómo se ordena un sistema jurídico, cómo se lee e interpreta el Derecho y cómo se lo conoce. Materia cuatrimestral de 54 horas, recorre los contenidos mínimos oficiales organizados en seis unidades, del enfoque general de la disciplina a los problemas jurídicos contemporáneos.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de la cátedra del Prof. Titular Marcelo Alegre.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "Del enfoque de la disciplina a los problemas jurídicos de hoy",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "TEORÍA GENERAL DEL DERECHO\n│\n├─ Unidad 1 · Enfoque y conceptos jurídicos fundamentales\n├─ Unidad 2 · Norma y sistema jurídico\n├─ Unidad 3 · Lenguaje, discurso y argumentación\n├─ Unidad 4 · Interpretación del Derecho\n├─ Unidad 5 · Fuentes del Derecho y ética\n└─ Unidad 6 · Conocimiento jurídico y problemas contemporáneos",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Alegre."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.teoria-general-derecho.enfoque-conceptos", "name": "Enfoque y conceptos jurídicos fundamentales", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.norma-sistema", "name": "Norma y sistema jurídico", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.lenguaje-argumentacion", "name": "Lenguaje, discurso y argumentación", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.interpretacion", "name": "Interpretación del Derecho", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.fuentes-etica", "name": "Fuentes del Derecho y ética", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.conocimiento-problemas", "name": "Conocimiento jurídico y problemas contemporáneos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Literatura obligatoria del programa de la cátedra del Prof. Titular Marcelo Alegre (adjunto Vladimir Chorny). Fuente: programa de cátedra (2025).",
+      "exits": [
+        { "address": "uba.der.abogacia.teoria-general-derecho.nino-introduccion", "name": "Carlos S. Nino — Introducción al análisis del derecho", "role": "Astrea · 1980", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.hart-concepto", "name": "H. L. A. Hart — El concepto de derecho", "role": "obligatoria", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.dworkin-derechos-en-serio", "name": "Ronald Dworkin — Los derechos en serio", "role": "Ariel", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.west-genero", "name": "Robin West — Género y teoría del derecho", "role": "Uniandes / Siglo del Hombre · 2000", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-general-derecho.olsen-sexo-derecho", "name": "Frances Olsen — El sexo del derecho", "role": "artículo", "tag": "texto", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

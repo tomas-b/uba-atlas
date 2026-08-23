@@ -1,0 +1,57 @@
+{
+  "address": "uba.der.abogacia.penal",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidades": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.penal", "label": "Penal y Procesal Penal" }
+  ],
+  "eyebrow": "Elementos de Derecho Penal y de Procesal Penal · CPC · Abogacía",
+  "title": "El castigo penal, del delito a la pena y su proceso.",
+  "lede": "Elementos de Derecho Penal y de Procesal Penal recorre el poder punitivo desde su base constitucional hasta el juicio que lo aplica. Los contenidos mínimos van de las garantías del derecho penal y procesal penal a la teoría del delito como método, la respuesta punitiva, los delitos en particular y el proceso penal. Materia anual del Ciclo Profesional Común, organizada en cinco unidades.",
+  "meta": [
+    { "k": "Régimen", "v": "anual", "small": "108 h" },
+    { "k": "Unidades", "v": "5", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de la cátedra del Prof. Titular Alejandro Alagia, del Departamento de Derecho Penal y Criminología, en la línea teórica de Zaffaroni.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 5 unidades",
+      "title": "De la garantía constitucional al juicio oral",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "PENAL Y PROCESAL PENAL\n│\n├─ Unidad 1 · Garantías y ley penal\n├─ Unidad 2 · El delito y su teoría\n├─ Unidad 3 · La respuesta punitiva\n├─ Unidad 4 · Los delitos en particular\n└─ Unidad 5 · El proceso penal",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Alagia."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.penal.garantias-ley-penal", "name": "Garantías y ley penal", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.penal.teoria-delito", "name": "El delito y su teoría", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.penal.pena", "name": "La respuesta punitiva", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.penal.delitos-particular", "name": "Los delitos en particular", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.penal.proceso-penal", "name": "El proceso penal", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía obligatoria del programa de la cátedra del Prof. Titular Alejandro Alagia (Departamento de Derecho Penal y Criminología, CPC), continuadora de la línea de Zaffaroni. Fuente: programa de la cátedra (Alagia, 2011).",
+      "exits": [
+        { "address": "uba.der.abogacia.penal.zaffaroni-alagia-slokar-manual", "name": "Zaffaroni, Alagia y Slokar — Manual de Derecho Penal. Parte General", "role": "Ediar · 2ª ed. 2006", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.penal.zaffaroni-alagia-slokar-tratado", "name": "Zaffaroni, Alagia y Slokar — Derecho Penal. Parte General", "role": "Ediar · 2002", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.penal.zaffaroni-enemigo", "name": "E. Raúl Zaffaroni — El enemigo en el derecho penal", "role": "Ediar · 2006", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.penal.zaffaroni-palabra-muertos", "name": "E. Raúl Zaffaroni — La palabra de los muertos", "role": "Ediar · 2011", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.penal.codigos", "name": "Código Penal, Código Procesal Penal y Constitución Nacional", "role": "textos legales", "tag": "fuentes", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

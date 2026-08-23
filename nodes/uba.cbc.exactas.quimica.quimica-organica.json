@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.quimica-organica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.quimica-organica",
+      "label": "Química Orgánica"
+    }
+  ],
+  "eyebrow": "Química · unidad · U6",
+  "title": "La química del carbono.",
+  "lede": "Introducción a los compuestos del carbono: hidrocarburos, grupos funcionales y las principales familias orgánicas, con su nomenclatura básica.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "carbono"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El átomo de carbono y sus enlaces. Hidrocarburos: alcanos, alquenos, alquinos, aromáticos. Grupos funcionales: alcoholes, aldehídos, cetonas, ácidos, ésteres, aminas. Nomenclatura orgánica básica e isomería.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "QUÍMICA ORGÁNICA (U6)\n│\n├─ Carbono   · enlaces, hidrocarburos\n├─ Funciones · alcoholes, ácidos, aminas…\n└─ Nomenclatura · orgánica básica, isomería",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

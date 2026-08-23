@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" },
+    { "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos", "label": "Circuitos secuenciales sincrónicos" }
+  ],
+  "eyebrow": "Sistemas Digitales · unidad · 5",
+  "title": "Circuitos que recuerdan y avanzan al ritmo del reloj.",
+  "lede": "Circuitos secuenciales sincrónicos, desde el latch D y el flip-flop D hasta sumadores y contadores.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "lógica secuencial" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Los circuitos secuenciales sincrónicos, construidos a partir de latch D y flip-flop D, con sumadores y contadores.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CIRCUITOS SECUENCIALES SINCRÓNICOS (bloque 5)\n│\n├─ Tema · latch D\n├─ Tema · flip-flop D\n├─ Tema · sumadores\n└─ Idea · contadores",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Sistemas Digitales, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

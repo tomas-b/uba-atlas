@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general.hechos-actos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.civil-parte-general", "label": "Civil · Parte General" },
+    { "address": "uba.der.abogacia.civil-parte-general.hechos-actos", "label": "Hechos y actos jurídicos" }
+  ],
+  "eyebrow": "Civil · Parte General · Unidad 6",
+  "title": "Los actos que producen efectos jurídicos, y cuándo fallan.",
+  "lede": "Los hechos y actos jurídicos como fuente de efectos en el derecho, el instrumento como expresión de la forma, y las patologías del acto: los vicios de los actos jurídicos y su ineficacia.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Civil P.G.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Hechos, actos jurídicos y su ineficacia",
+      "note": "Hechos y actos jurídicos · el instrumento como expresión de la forma · vicios de los actos jurídicos · ineficacia de los actos jurídicos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

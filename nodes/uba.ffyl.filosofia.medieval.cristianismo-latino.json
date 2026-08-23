@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.cristianismo-latino",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.cristianismo-latino", "label": "Neoplatonismo y cristianismo latino" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · II de VIII",
+  "title": "Agustín y los 'libros de los platónicos'.",
+  "lede": "El neoplatonismo entra al mundo latino. Cicerón y Apuleyo, Mario Victorino como traductor y polemista, y sobre todo Agustín de Hipona: el lógos cristiano leído a través del noûs neoplatónico, los 'libros de los platónicos' que confiesa haber leído, y la cuestión de las ideas.",
+  "meta": [
+    { "k": "Unidad", "v": "II", "small": "de VIII" },
+    { "k": "Figura", "v": "Agustín", "small": "+ Victorino" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Platonismo medio y neoplatonismo en el mundo latino. Cicerón y Apuleyo. Mario Victorino, retórico, traductor y polemista. El neoplatonismo alejandrino-romano. Lógos cristiano y noûs neoplatónico. Agustín de Hipona: los 'libros de los platónicos'; la cuestión de las ideas. Fuentes: Confesiones libro VII y 'Acerca de las ideas'.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad II.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "NEOPLATONISMO Y CRISTIANISMO LATINO (Unidad II)\n│\n├─ El mundo latino     Cicerón · Apuleyo · Mario Victorino (traductor)\n├─ Lógos y noûs        el cristianismo lee al neoplatonismo\n└─ Agustín             los 'libros de los platónicos' · la cuestión de las ideas",
+        "foot": "Temas del programa 2020. Fuente central: Agustín, Confesiones VII."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad II", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

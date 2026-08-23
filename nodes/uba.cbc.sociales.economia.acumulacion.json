@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.economia.acumulacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 7,
+    "de": 10,
+    "materia": "Economía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.economia",
+      "label": "Economía"
+    },
+    {
+      "address": "uba.cbc.sociales.economia.acumulacion",
+      "label": "Acumulación y crecimiento"
+    }
+  ],
+  "eyebrow": "Economía · unidad · contenido 7",
+  "title": "El producto en el largo plazo.",
+  "lede": "El crecimiento del producto en el largo plazo, desarrollo y subdesarrollo, transnacionalización y periferia.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "7",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Acumulación y crecimiento. El crecimiento del producto en el largo plazo. La producción de bienes de capital. Factores que afectan el ritmo de crecimiento. Desarrollo y subdesarrollo. Transnacionalización y periferia. Tecnología y periferia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

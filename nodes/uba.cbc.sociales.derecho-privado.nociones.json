@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.derecho-privado.nociones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 1,
+    "de": 10,
+    "materia": "Principios Generales del Derecho Privado"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado",
+      "label": "Principios Generales del Derecho Privado"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado.nociones",
+      "label": "Nociones básicas y constitucionalización"
+    }
+  ],
+  "eyebrow": "Principios Generales del Derecho Privado · unidad · contenido 1",
+  "title": "Público, privado y el CCCN.",
+  "lede": "Derecho Público y Privado, la codificación civil y comercial y la constitucionalización del Derecho Privado.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "1",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Nociones de Derecho Romano. Concepto de Derecho Público y Derecho Privado. La codificación civil y comercial. Estado de Derecho y Derecho Privado. La constitucionalización del Derecho Privado. El control de constitucionalidad.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

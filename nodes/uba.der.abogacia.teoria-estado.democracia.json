@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.democracia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.democracia", "label": "La democracia" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 5",
+  "title": "La democracia: teorías, quiebra y consolidación.",
+  "lede": "Las teorías y los debates sobre la democracia, y el ciclo de su vida institucional: la quiebra, la transición y la consolidación democrática.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Teorías, debates y ciclo de la democracia",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: teorías y debates sobre la democracia; quiebra, transición y consolidación democrática.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

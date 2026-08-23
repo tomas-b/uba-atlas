@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia.criticas-dualismo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4, "de": 5, "materia": "Antropología Filosófica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" },
+    { "address": "uba.ffyl.filosofia.antropologia.criticas-dualismo", "label": "Las críticas del dualismo" }
+  ],
+  "eyebrow": "Antropología Filosófica · unidad · 4 de 5",
+  "title": "Deshacer la separación alma/cuerpo.",
+  "lede": "Las críticas al dualismo: Feuerbach y el 'giro antropológico', su paso al 'giro dialéctico' en Marx y Gramsci, las posiciones del evolucionismo, la crítica nietzscheana, y el cuerpo y la subjetividad desde la fenomenología (Husserl, Merleau-Ponty) hasta Beauvoir y Butler.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Rol", "v": "especial", "small": "anti-dualismo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Las críticas del dualismo. L. Feuerbach: la significación del 'giro antropológico', la crítica de Hegel y el concepto de 'género' como idea relacional del hombre sustentada en su corporeidad. Del 'giro antropológico' al 'giro dialéctico': el problema del dualismo en K. Marx y en A. Gramsci. Posiciones críticas provenientes del evolucionismo. La crítica nietzscheana. Cuerpo y subjetividad: la crítica husserliana de Descartes y los aportes de M. Merleau-Ponty. Cuerpos diferentes y subjetividad en S. de Beauvoir y J. Butler.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad IV del programa Bonilla.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Antropología Filosófica Nº 0232 (Bonilla) · Unidad IV", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

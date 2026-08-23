@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.representacion-sufragio",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.representacion-sufragio", "label": "Representación y sufragio" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 4",
+  "title": "Del contrato social al voto: representación y sufragio.",
+  "lede": "Cómo se legitima y organiza la voluntad colectiva: las teorías sobre el contrato social, la teoría de la representación política y la participación, el sufragio y los sistemas electorales, incluidos los sistemas electorales de la Argentina en el nivel federal y provincial.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Contrato social, representación, participación y sistemas electorales",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales.",
+      "map": {
+        "mk": "Los conceptos de la unidad",
+        "tree": "REPRESENTACIÓN Y SUFRAGIO\n│\n├─ Las teorías sobre el contrato social\n├─ La teoría de la representación política\n├─ Participación\n├─ Sufragio\n├─ Sistemas electorales\n└─ Los sistemas electorales en Argentina (federal y provincial)",
+        "foot": "Todos los conceptos provienen de los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,57 @@
+{
+  "address": "uba.der.abogacia.constitucional",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · CPC · Abogacía",
+  "title": "La Constitución como norma suprema: de la teoría al control.",
+  "lede": "Elementos de Derecho Constitucional recorre la Constitución Nacional como norma fundante: qué es una constitución, quién tiene el poder de dictarla y reformarla, cómo se impone su supremacía y cómo se organizan los poderes que instituye. De la teoría constitucional y sus tensiones con la democracia, pasa a la reforma, el control de constitucionalidad, la estructura federal y presidencialista, y el catálogo de derechos, garantías y derechos colectivos. Régimen cuatrimestral, seis unidades sobre los contenidos mínimos oficiales.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra de la Dra. Susana G. Cayuso, del Departamento de Derecho Público I.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "De la teoría constitucional a los derechos colectivos",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "ELEMENTOS DE DERECHO CONSTITUCIONAL\n│\n├─ Unidad 1 · Teoría constitucional\n├─ Unidad 2 · Poder constituyente y reforma\n├─ Unidad 3 · Supremacía y control\n├─ Unidad 4 · Organización de los poderes\n├─ Unidad 5 · Declaraciones, derechos y garantías\n└─ Unidad 6 · Derechos colectivos",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Cayuso."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.constitucional.teoria-constitucional", "name": "Teoría constitucional", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.constitucional.poder-constituyente", "name": "Poder constituyente y reforma", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.constitucional.supremacia-control", "name": "Supremacía y control de constitucionalidad", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.constitucional.organizacion-poderes", "name": "Organización de los poderes", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.constitucional.derechos-garantias", "name": "Declaraciones, derechos y garantías", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.constitucional.derechos-colectivos", "name": "Derechos colectivos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía general y obligatoria del programa de la cátedra de la Dra. Susana G. Cayuso (Departamento de Derecho Público I). El programa suma, a elección, un manual o tratado de derecho constitucional. Fuente: sitio de la cátedra (dchoconstitucional.wordpress.com).",
+      "exits": [
+        { "address": "uba.der.abogacia.constitucional.cayuso-constitucion", "name": "Susana G. Cayuso — Constitución de la Nación Argentina. Claves para el estudio inicial de la norma fundamental", "role": "obligatoria · La Ley 2006", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.constitucional.spota-poder-constituyente", "name": "Alberto A. Spota — Lo político, lo jurídico, el derecho y el poder constituyente", "role": "Plus Ultra", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.constitucional.miller-gelli-cayuso-poder-politico", "name": "Miller, Gelli y Cayuso — Constitución y Poder Político", "role": "Astrea · 2 t.", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.constitucional.miller-gelli-cayuso-derechos-humanos", "name": "Miller, Gelli y Cayuso — Constitución y Derechos Humanos", "role": "Astrea · 2 t.", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

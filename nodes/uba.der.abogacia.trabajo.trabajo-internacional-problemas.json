@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.trabajo.trabajo-internacional-problemas",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" },
+    { "address": "uba.der.abogacia.trabajo.trabajo-internacional-problemas", "label": "Trabajo internacional y problemas" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · Unidad 4",
+  "title": "El trabajo entre los derechos humanos y sus problemas actuales.",
+  "lede": "El derecho internacional del trabajo —articulado con el derecho internacional de los derechos humanos— y su interpretación y aplicación en el derecho interno, incluidos los derechos específicos e inespecíficos de los trabajadores. La unidad cierra con los problemas actuales que plantean los modos de producción de bienes y servicios: intermediación, descentralización y tercerización, deslocalización, huída del derecho del trabajo, precarización y relaciones transnacionales.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "Trabajo y Seg. Social", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Derecho internacional del trabajo y problemas actuales",
+      "note": "Derecho Internacional del Trabajo: Derecho Internacional de los Derechos Humanos; derechos específicos e inespecíficos de los trabajadores; interpretación y aplicación en el derecho interno. Modos de producción de bienes y servicios y derecho del trabajo (problemas actuales): intermediación, descentralización y tercerización, deslocalización, huída del derecho del trabajo, precarización y relaciones transnacionales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

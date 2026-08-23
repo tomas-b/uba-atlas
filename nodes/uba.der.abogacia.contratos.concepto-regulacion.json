@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.concepto-regulacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.concepto-regulacion", "label": "Concepto y regulación" }
+  ],
+  "eyebrow": "Contratos · Unidad 1",
+  "title": "Qué es un contrato y con qué normas se lo regula.",
+  "lede": "El concepto y la función del contrato, su definición legal y su fuerza obligatoria; las bases constitucionales del derecho de los contratos y su lugar en la economía. La unificación de los contratos civiles y comerciales, la clasificación de contratos según los criterios del Código Civil y Comercial, y el régimen normativo que los regula: normas de alcance general, imperativas y supletorias, orden público contractual, buena fe, autonomía de la voluntad, integración del contrato y prelación normativa. Cierra con los contratos internacionales: la Convención de Viena de 1980 (ley 22.765) y los Principios de UNIDROIT.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Concepto, clasificación y regulación del contrato",
+      "note": "Concepto y función del contrato; definición legal; fuerza obligatoria; el contrato en la economía; bases constitucionales. Comparaciones con acto jurídico, convención, pacto, acto de familia y acto administrativo. Unificación de contratos civiles y comerciales; contrato paritario, por adhesión y de consumo. Clasificación de contratos: criterios del Código Civil y Comercial, categorías explícitas e implícitas, clasificación por la finalidad económica. Regulación del contrato: normas de alcance general, imperativas y supletorias; orden público contractual; buena fe contractual; autonomía de la voluntad (análisis crítico); usos y costumbres; facultades de los jueces; prelación normativa; integración del contrato. Contratos internacionales: regulación, Convención de Viena de 1980 (ley 22.765) y su influencia en el Derecho interno; Principios de UNIDROIT.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

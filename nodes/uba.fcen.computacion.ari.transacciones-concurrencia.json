@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.ari.transacciones-concurrencia",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" },
+    { "address": "uba.fcen.computacion.ari.transacciones-concurrencia", "label": "Transacciones y control de concurrencia" }
+  ],
+  "eyebrow": "ARI · unidad · Unidad 3",
+  "title": "Mantener la consistencia: transacciones y concurrencia.",
+  "lede": "Cómo la base sigue siendo correcta ante fallas y accesos simultáneos. Las transacciones como unidad de trabajo atómica, y la recuperación y el control de concurrencia que las garantizan.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "consist.", "small": "transacc." },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Transacciones. Recuperación y control de concurrencia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Temas del plan reagrupados en la Unidad 3.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "TRANSACCIONES Y CONCURRENCIA (Unidad 3)\n│\n├─ Transacciones\n└─ Recuperación y control de concurrencia",
+        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.bienes-inmateriales-mercado",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.bienes-inmateriales-mercado", "label": "Bienes inmateriales y mercado" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 4",
+  "title": "Lo intangible de la empresa y las reglas del mercado.",
+  "lede": "Los bienes inmateriales en la empresa: la propiedad intelectual y los derechos de propiedad industrial —marcas, patentes, modelos y secreto comercial. El mercado, su intervención estatal, la defensa de la competencia y la lealtad comercial. El derecho del consumidor y las relaciones de consumo.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Propiedad intelectual e industrial, mercado y derecho del consumidor",
+      "note": "Los bienes inmateriales en la empresa: la propiedad intelectual y los derechos de propiedad industrial en el Código Civil y Comercial —marcas y designaciones, patentes de invención, modelos de utilidad, modelos y diseños industriales, el secreto comercial e industrial (y en el ciberespacio, Internet). Prescripción y caducidad: concepto, régimen, plazos. El mercado: concepto, delimitación, intervención estatal, abastecimiento, defensa de la competencia, lealtad comercial, inversiones extranjeras, actividad financiera y bancaria, mercados de capitales y actividad comercial del Estado. El derecho del consumidor: concepto, principios, el consumidor y el usuario, las relaciones de consumo y su regulación en el Código Civil y Comercial y la Ley de Defensa del Consumidor, incluidos los contratos bancarios con consumidores y usuarios.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.cbc.exactas.fisica.magnitudes-vectores",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "guia": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.exactas", "label": "Ciencias Exactas, Tecnología y Diseño" },
+    { "address": "uba.cbc.exactas.fisica", "label": "Física" },
+    { "address": "uba.cbc.exactas.fisica.magnitudes-vectores", "label": "Magnitudes Físicas y Vectores" }
+  ],
+  "eyebrow": "Física · unidad · Guía 1",
+  "title": "El instrumental: medir y sumar direcciones.",
+  "lede": "La primera guía, antes de que empiece la mecánica. Qué es una magnitud física y cómo se mide, y la herramienta que hace posible todo lo que sigue: los vectores, para operar con cantidades que tienen dirección.",
+  "meta": [
+    { "k": "Guía", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "base", "small": "toolkit" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El punto de partida de la mecánica. Magnitudes escalares (un número) vs. vectoriales (número + dirección). Unidades y el Sistema Internacional, dimensiones, cifras significativas. Y los vectores en sí: componentes, suma y resta, producto escalar y producto vectorial — el álgebra con la que se escribirá el resto de la materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la guía",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Guía 1.",
+      "map": {
+        "mk": "La guía, comprimida",
+        "tree": "MAGNITUDES FÍSICAS Y VECTORES (Guía 1)\n│\n├─ Magnitudes · escalares vs. vectoriales\n├─ Unidades   · SI, dimensiones, cifras significativas\n└─ Vectores   · componentes, suma/resta, productos (escalar · vectorial)",
+        "foot": "Temas de la Guía 1 de la cátedra única. El resto de la mecánica (cinemática, dinámica…) se construye sobre este instrumental."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "fisica.cbc.uba.ar · Guía 1", "url": "https://fisica.cbc.uba.ar/" }
+}

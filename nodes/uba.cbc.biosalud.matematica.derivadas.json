@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.matematica.derivadas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5,
+    "de": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.derivadas",
+      "label": "Derivadas"
+    }
+  ],
+  "eyebrow": "Matemática · unidad · Unidad 5",
+  "title": "Derivadas",
+  "lede": "La razón de cambio: la derivada como pendiente y como velocidad.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 6"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Cociente incremental · definición de derivada; Interpretación geométrica y cinética; Recta tangente; Reglas de derivación; Estudio de funciones y optimización.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "DERIVADAS\n│\n• Cociente incremental · definición de derivada\n• Interpretación geométrica y cinética\n• Recta tangente\n• Reglas de derivación\n• Estudio de funciones y optimización",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

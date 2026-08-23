@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.biologia.superficie-endomembranas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 3,
+    "de": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia",
+      "label": "Biología"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia.superficie-endomembranas",
+      "label": "La superficie celular, el sistema de endomembranas y la secreción"
+    }
+  ],
+  "eyebrow": "Biología · unidad · Unidad 3",
+  "title": "La superficie celular, el sistema de endomembranas y la secreción",
+  "lede": "El límite y el sistema interno de transporte de la célula.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "3",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Biología",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Membrana plasmática · modelos y permeabilidad; Superficie celular · diferenciaciones; Sistema de endomembranas · complejo de Golgi; Citoplasma fundamental y citoesqueleto.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA SUPERFICIE CELULAR, EL SISTEMA DE ENDOMEMBRANAS Y LA SECRECIÓN\n│\n• Membrana plasmática · modelos y permeabilidad\n• Superficie celular · diferenciaciones\n• Sistema de endomembranas · complejo de Golgi\n• Citoplasma fundamental y citoesqueleto",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

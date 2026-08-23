@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.transformaciones-matrices",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.transformaciones-matrices",
+      "label": "Transformaciones Lineales y Matrices"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U5",
+  "title": "Toda transformación es una matriz.",
+  "lede": "La conexión entre las dos herramientas. Cada transformación lineal, fijada una base, se representa por una matriz. Matriz de la composición y de la inversa, y el cambio de base — cómo cambia la matriz al cambiar el sistema de referencia.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "puente",
+      "small": "matrices"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Matriz asociada a una transformación lineal en bases dadas. Matriz de la composición y de la inversa. Matriz de cambio de base y su efecto sobre la matriz de una transformación. Matrices semejantes.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "T. LINEALES Y MATRICES (U5)\n│\n├─ Representación · matriz de una TL en bases dadas\n├─ Operaciones    · matriz de composición e inversa\n└─ Cambio de base · matrices semejantes",
+        "foot": "Temas de la cátedra de Álgebra. El enlace entre transformaciones y matrices."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

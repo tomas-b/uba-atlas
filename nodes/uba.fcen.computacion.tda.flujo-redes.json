@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.flujo-redes",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 7 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.flujo-redes", "label": "Flujo en Redes" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 7",
+  "title": "Cuánto puede pasar por la red, y al menor costo posible.",
+  "lede": "La unidad aborda las redes de flujo y el flujo máximo, el flujo de mínimo costo y el algoritmo de Edmonds-Karp. Se aplica a problemas de asignación y transporte.",
+  "meta": [
+    { "k": "Unidad", "v": "7", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "capacidad y costo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Determinar el flujo máximo y el flujo de mínimo costo en redes con Edmonds-Karp, aplicándolo a asignación y transporte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "FLUJO EN REDES (bloque 7)\n│\n├─ Tema · redes de flujo y flujo máximo\n├─ Tema · flujo de mínimo costo\n├─ Tema · algoritmo de Edmonds-Karp\n└─ Idea · problemas de asignación y transporte",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

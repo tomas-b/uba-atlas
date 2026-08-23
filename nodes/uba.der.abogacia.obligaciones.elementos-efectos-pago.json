@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.elementos-efectos-pago",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.elementos-efectos-pago", "label": "Elementos, efectos y pago" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 2",
+  "title": "De qué está hecha la obligación y cómo se cumple.",
+  "lede": "La anatomía del vínculo y su cumplimiento normal. Primero los elementos —sujetos, objeto, contenido, vínculo, fuente, finalidad, reconocimiento—; luego los efectos de las obligaciones en general, con relación al acreedor y al deudor; y por fin el pago, examinado en sus sujetos, objeto, causa, circunstancias, gastos, prueba, efectos e imputación.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Elementos, efectos y pago",
+      "note": "Elementos: sujetos · objeto · contenido · vínculo · fuente · finalidad · reconocimiento. Efectos de las obligaciones (en general): cumplimiento · efectos con relación al acreedor · efectos con relación al deudor. Pago: sujetos del pago · objeto del pago · causa del pago · circunstancias del pago · gastos del pago · prueba del pago · efectos del pago · imputación del pago.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia.disciplina",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1, "de": 5, "materia": "Antropología Filosófica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" },
+    { "address": "uba.ffyl.filosofia.antropologia.disciplina", "label": "La Antropología Filosófica: antecedentes y surgimiento" }
+  ],
+  "eyebrow": "Antropología Filosófica · unidad · 1 de 5",
+  "title": "De dónde viene la pregunta por el hombre.",
+  "lede": "Los antecedentes de la disciplina: la reflexión sobre la naturaleza humana en la filosofía antigua y medieval, el ideal proteico renacentista (Pico della Mirandola), la 'ciencia del hombre' del racionalismo moderno y Hume, y la denominación explícita de la Antropología Filosófica en los textos tardíos de Kant.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "génesis", "small": "la disciplina" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La Antropología Filosófica. Antecedentes: la reflexión sobre la naturaleza humana y el ser humano en la filosofía antigua y medieval occidental. El ideal proteico renacentista (Pico della Mirandola). La ciencia del hombre (el racionalismo moderno y D. Hume). La psicología racional. La Antropología Filosófica en el pensamiento kantiano; lecturas y discusiones contemporáneas de los textos kantianos.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad I del programa Bonilla.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Antropología Filosófica Nº 0232 (Bonilla) · Unidad I", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

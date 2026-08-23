@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.arquitectura.proposito-general",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.arquitectura", "label": "Arquitectura y Organización de Computadores" },
+    { "address": "uba.fcen.computacion.arquitectura.proposito-general", "label": "Computadores de propósito general" }
+  ],
+  "eyebrow": "Arquitectura y Organización · unidad · 3",
+  "title": "Cuando la computadora sirve para todo: memoria veloz y ejecución agresiva.",
+  "lede": "El sistema de memoria se estudia a través de la caché, el principio de localidad, la caché asociativa y los protocolos de coherencia MESI. La máquina de ejecución de instrucciones incorpora pipeline, superescalaridad, predictores de salto y ejecución fuera de orden, junto con la descripción de una FPU.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "unidad", "small": "propósito general" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "En un computador de propósito general conviven un sistema de memoria basado en caché y localidad con una máquina de ejecución segmentada, superescalar y fuera de orden.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "COMPUTADORES DE PROPÓSITO GENERAL (bloque 3)\n│\n├─ Tema · sistema de memoria: caché, localidad, asociatividad, coherencia MESI\n├─ Tema · ejecución de instrucciones: pipeline, superescalar, predicción de saltos, fuera de orden\n└─ Idea · descripción de una FPU",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

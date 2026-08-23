@@ -1,0 +1,51 @@
+{
+  "address": "uba.fcen.computacion.so",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cuatrimestre": "1º",
+    "catedra": "Sistemas Operativos (DC-FCEN)",
+    "cargaHoraria": "10 hs semanales · 160 hs totales · 35% teórica / 35% práctica / 30% laboratorio",
+    "unidades": 5,
+    "bibliography": 0
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.so", "label": "Sistemas Operativos" }
+  ],
+  "eyebrow": "Sistemas Operativos · Año 3 · 1º cuat.",
+  "title": "La capa que administra la máquina: del arranque a la virtualización.",
+  "lede": "Cómo el software administra el hardware. Del arranque de la máquina y sus interrupciones a la gestión de procesos y su scheduling, la concurrencia y sincronización, la memoria virtual y su paginación, y la protección, seguridad y virtualización. Materia con fuerte componente de laboratorio (30%).",
+  "meta": [
+    { "k": "Año", "v": "3", "small": "1º cuat." },
+    { "k": "Unidades", "v": "5", "small": "temas" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Carga", "v": "160 hs", "small": "T/P/lab" }
+  ],
+  "frame": "Contenido sourceado del Plan de Estudios 2023 (computacion.dc.uba.ar): la fuente oficial publica los contenidos mínimos y el detalle de temas de la materia, pero no un programa numerado por unidades de la cátedra ni bibliografía. Los temas oficiales se reagrupan acá en cinco unidades temáticas fieles a esa lista; la bibliografía no está publicada en fuente oficial y se deja honestamente vacía. El detalle vivo (teóricas, cronograma, lecturas) se publica por el campus (login).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los temas del plan",
+      "title": "El recorrido del sistema operativo",
+      "note": "Cinco unidades temáticas, fieles a los temas del plan de estudios.",
+      "map": {
+        "mk": "Los temas, en cinco unidades",
+        "tree": "SISTEMAS OPERATIVOS\n│\n├─ 1 · Arranque, hardware y arquitectura\n├─ 2 · Procesos, tareas y scheduling\n├─ 3 · Concurrencia: intercomunicación y sincronización\n├─ 4 · Gestión de memoria (paginación, memoria virtual)\n└─ 5 · Protección, seguridad, drivers y virtualización",
+        "foot": "Temas del Plan de Estudios 2023 (computacion.dc.uba.ar). La cátedra no publica programa numerado ni bibliografía en fuente oficial."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.so.arranque-arquitectura", "name": "Arranque, hardware y arquitectura", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.so.procesos-scheduling", "name": "Procesos, tareas y scheduling", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.so.concurrencia", "name": "Concurrencia: intercomunicación y sincronización", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.so.memoria", "name": "Gestión de memoria", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.so.proteccion-virtualizacion", "name": "Protección, seguridad, drivers y virtualización", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Plan de Estudios Lic. Cs. Computación (v07/2024)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

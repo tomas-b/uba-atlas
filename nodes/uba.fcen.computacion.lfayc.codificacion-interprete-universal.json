@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.lfayc.codificacion-interprete-universal",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
+    { "address": "uba.fcen.computacion.lfayc.codificacion-interprete-universal", "label": "Codificación e intérprete universal" }
+  ],
+  "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 5",
+  "title": "Codificar programas y ejecutarlos con un intérprete universal.",
+  "lede": "Se presenta el lenguaje S++ y la codificación de programas como datos, que habilita la construcción de un intérprete universal.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "universalidad" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La unidad codifica programas del lenguaje S++ para dar lugar a un intérprete universal.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CODIFICACIÓN E INTÉRPRETE UNIVERSAL (unidad 5)\n│\n├─ Tema · lenguaje S++ y codificación de programas\n└─ Idea · intérprete universal",
+        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

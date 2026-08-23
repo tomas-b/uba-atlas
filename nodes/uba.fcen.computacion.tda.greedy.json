@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.greedy",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.greedy", "label": "Algoritmos Greedy" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 4",
+  "title": "Elegir siempre lo mejor del momento y confiar en que alcance.",
+  "lede": "La unidad estudia las estrategias de óptimo local que conducen a un óptimo global. Se practica con ejercicios de minimización y selección.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "óptimo local" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Construir una solución tomando decisiones de óptimo local con la expectativa de alcanzar un óptimo global.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ALGORITMOS GREEDY (bloque 4)\n│\n├─ Tema · estrategias de óptimo local que conducen a un óptimo global\n└─ Idea · ejercicios de minimización y selección",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

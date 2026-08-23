@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.metafisica.particulares-universales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "de": 7, "materia": "Metafísica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.metafisica", "label": "Metafísica / Ontología" },
+    { "address": "uba.ffyl.filosofia.metafisica.particulares-universales", "label": "Particulares y universales" }
+  ],
+  "eyebrow": "Metafísica · unidad · 3 de 7",
+  "title": "Cosas individuales y lo que comparten.",
+  "lede": "Las cuestiones ontológicas clásicas: los particulares y el cambio — ¿son sustancias, haces de propiedades, sustratos desnudos? Propiedades, relaciones y tropos. Y la vieja disputa de los universales: realismo, nominalismo, conceptualismo.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 7" },
+    { "k": "Rol", "v": "ontología", "small": "universales" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Cuestiones ontológicas I: los particulares y el cambio: sustancias y eventos. Los particulares como sustancias, como haces de propiedades y como sustratos desnudos. Propiedades, relaciones y tropos. La cuestión de los universales: realismo, nominalismo, conceptualismo. Distintos tipos de propiedades.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 3 del programa Pérez 2021.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Metafísica (Cátedra Pérez, 2021) · Unidad 3", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15162" }
+}

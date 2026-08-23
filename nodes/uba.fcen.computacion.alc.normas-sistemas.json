@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.alc.normas-sistemas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "capitulo": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.alc", "label": "Álgebra Lineal Computacional" },
+    { "address": "uba.fcen.computacion.alc.normas-sistemas", "label": "Normas, sistemas lineales y factorizaciones" }
+  ],
+  "eyebrow": "ALC · unidad · Cap. II",
+  "title": "Medir el error y resolver: normas, condicionamiento, LU y QR.",
+  "lede": "Cómo medir vectores y matrices, y cuánto amplifica el error una matriz. Las normas y su equivalencia, Cauchy-Schwarz y la desigualdad triangular, el condicionamiento — y con eso, resolver sistemas lineales: eliminación gaussiana y factorización LU, matrices ortogonales y factorización QR.",
+  "meta": [
+    { "k": "Cap.", "v": "II", "small": "de 6" },
+    { "k": "Rol", "v": "núcleo", "small": "resolver" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El corazón numérico. Normas y equivalencia de normas; desigualdad de Cauchy-Schwarz y triangular; normas matriciales; error y condicionamiento de matrices. Sistemas lineales y su solución: eliminación gaussiana (caso regular) y factorización LU; matrices ortogonales y factorización QR. Aplicaciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del capítulo",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del Capítulo II.",
+      "map": {
+        "mk": "El capítulo, comprimido",
+        "tree": "NORMAS, SISTEMAS Y FACTORIZACIONES (Cap. II)\n│\n├─ Normas · equivalencia · Cauchy-Schwarz · triangular\n├─ Normas matriciales · error y condicionamiento\n├─ Sistemas lineales · eliminación gaussiana · factorización LU\n└─ Matrices ortogonales · factorización QR · aplicaciones",
+        "foot": "Temas del Cap. II del programa de la cátedra (cms.dm.uba.ar). El condicionamiento es el hilo que reaparece en toda la materia."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cms.dm.uba.ar · programa ALC · Capítulo II", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+}

@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.biologia.nucleo-ciclo-celular",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6,
+    "de": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia",
+      "label": "Biología"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia.nucleo-ciclo-celular",
+      "label": "El núcleo interfásico y el ciclo celular"
+    }
+  ],
+  "eyebrow": "Biología · unidad · Unidad 6",
+  "title": "El núcleo interfásico y el ciclo celular",
+  "lede": "El centro de control y la copia del ADN.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Biología",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Núcleo interfásico; Ciclo celular; Duplicación del ADN.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EL NÚCLEO INTERFÁSICO Y EL CICLO CELULAR\n│\n• Núcleo interfásico\n• Ciclo celular\n• Duplicación del ADN",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

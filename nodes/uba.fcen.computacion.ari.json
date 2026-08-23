@@ -1,0 +1,52 @@
+{
+  "address": "uba.fcen.computacion.ari",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cuatrimestre": "2º",
+    "catedra": "Almacenamiento y Recuperación de la Información (DC-FCEN)",
+    "cargaHoraria": "10 hs semanales · 160 hs totales · 35% teórica / 35% práctica / 30% laboratorio",
+    "correlativas": ["Ingeniería de Software", "Programación Concurrente y Paralela"],
+    "unidades": 5,
+    "bibliography": 0
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" }
+  ],
+  "eyebrow": "Almacenamiento y Recuperación de la Información · Año 3 · 2º cuat.",
+  "title": "Bases de datos: diseñar, consultar y recuperar.",
+  "lede": "La materia de bases de datos del plan. Del modelado y diseño de datos y los lenguajes de manipulación (con optimización de consultas) a las transacciones y el control de concurrencia, los modelos alternativos al relacional, las bases distribuidas y paralelas, la extracción de información y el gobierno de datos. En 2c2025 se dictó unificada con la vieja Base de Datos.",
+  "meta": [
+    { "k": "Año", "v": "3", "small": "2º cuat." },
+    { "k": "Unidades", "v": "5", "small": "temas" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Carga", "v": "160 hs", "small": "T/P/lab" }
+  ],
+  "frame": "Contenido sourceado del Plan de Estudios 2023 (computacion.dc.uba.ar; detalle de temas en la versión-propuesta del plan). La fuente oficial da los temas propuestos pero no un programa numerado de la cátedra ni bibliografía — el material vive en el campus (login). Los temas del plan se reagrupan acá en cinco unidades fieles a esa lista (la columna de detalle «puede variar» según la implementación); la bibliografía se deja honestamente vacía. Correlativas: Ingeniería de Software y Programación Concurrente y Paralela.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los temas del plan",
+      "title": "El recorrido de las bases de datos",
+      "note": "Cinco unidades temáticas, fieles a los temas propuestos del plan.",
+      "map": {
+        "mk": "Los temas, en cinco unidades",
+        "tree": "ALMACENAMIENTO Y RECUPERACIÓN DE LA INFORMACIÓN\n│\n├─ 1 · Modelado y diseño de datos\n├─ 2 · Lenguajes de manipulación y optimización de consultas\n├─ 3 · Transacciones y control de concurrencia\n├─ 4 · Modelos alternativos y bases distribuidas/paralelas\n└─ 5 · Extracción de información y gobierno de datos",
+        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar). Sin bibliografía publicada en fuente oficial."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.ari.modelado-diseno", "name": "Modelado y diseño de datos", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.lenguajes-consultas", "name": "Lenguajes de manipulación y optimización de consultas", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.transacciones-concurrencia", "name": "Transacciones y control de concurrencia", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.modelos-distribuidas", "name": "Modelos alternativos y bases distribuidas y paralelas", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.recuperacion-gobierno", "name": "Extracción de información y gobierno de datos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Propuesta Plan Lic. Cs. Computación (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

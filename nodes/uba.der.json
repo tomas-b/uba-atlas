@@ -1,0 +1,72 @@
+{
+  "address": "uba.der",
+  "level": "facultad",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.der",
+      "label": "Derecho"
+    }
+  ],
+  "eyebrow": "Facultad de Derecho",
+  "title": "Pocas puertas, una muy grande.",
+  "lede": "Una facultad angosta y profunda: casi todo el pabellón es una sola sala inmensa — Abogacía — flanqueada por dos oficios técnicos con salida propia. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "3"
+    },
+    {
+      "k": "La central",
+      "v": "Abogacía",
+      "small": "~6 años"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "1",
+      "small": "/ 3"
+    }
+  ],
+  "frame": "Derecho no reparte su masa: Abogacía es el edificio, y Traductor Público y Calígrafo Público son oficios especializados que comparten el hall de entrada pero salen por su cuenta. La sala grande se recorre en dos tiempos — un tronco común de teoría y un ciclo profesional orientado.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 3",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.der.abogacia",
+          "name": "Abogacía",
+          "role": "tronco común → ciclo profesional orientado",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.der.traductor",
+          "name": "Traductor Público",
+          "role": "en un idioma elegido · derecho + lengua",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.der.caligrafo",
+          "name": "Calígrafo Público",
+          "role": "pericia documental y de firmas",
+          "tag": "~3 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "derecho.uba.ar/academica",
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/"
+  }
+}

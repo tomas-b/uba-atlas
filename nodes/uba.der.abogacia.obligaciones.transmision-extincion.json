@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.transmision-extincion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.transmision-extincion", "label": "Transmisión, extinción y fuentes" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 6",
+  "title": "Cómo circula, cómo se apaga y de dónde nace la obligación.",
+  "lede": "El cierre del recorrido. Los medios de transmisión —cesión de créditos, pago con subrogación, transmisión de deudas, del contrato y de patrimonios especiales— y los modos de extinción: compensación, confusión, renuncia y remisión, novación, dación en pago, transacción, prescripción liberatoria y otros. Luego el análisis de las fuentes en particular y un caso especial de responsabilidad: los productos elaborados y la Ley 24.240 de Defensa del Consumidor.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Transmisión, extinción y fuentes en particular",
+      "note": "Medios de transmisión: transmisión de derechos · cesión de créditos · pago con subrogación · transmisión de deudas · transmisión del contrato · transmisión de patrimonios especiales. Modos de extinción: compensación · confusión · renuncia y remisión · novación · dación en pago · conclusión del procedimiento concursal · transacción · prescripción liberatoria · otros modos extintivos. Análisis de las fuentes en particular: contrato · voluntad unilateral · hechos ilícitos · ejercicio abusivo de los derechos · enriquecimiento sin causa · gestión de negocios · obligaciones ex lege. Casos especiales de responsabilidad: productos elaborados (concepto, naturaleza de la responsabilidad, el fabricante vendedor, el fabricante frente al usuario sin relación contractual, estado actual de la cuestión) · la Ley 24.240 de Defensa del Consumidor y su reglamentación.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,21 @@
+# --- private / local-only (never in the public repo) ---
+
+# Personal ML study notes — unrelated to CASA
+ml/
+
+# Claude Code local settings (machine-specific permissions)
+.claude/settings.local.json
+
+# --- heavy / regenerable artifacts ---
+
+# Extracted text from third-party UBA programa PDFs (5.6M, 52 files).
+# Regenerable: node extract/fetch-extract.js "<pdf-url>" <name>
+# Kept out of the public repo for size + third-party-content reasons;
+# the grounded nodes in nodes/ carry the source URLs.
+extract/out/
+
+# --- OS / tooling noise ---
+.DS_Store
+node_modules/
+*.log
+npm-debug.log*

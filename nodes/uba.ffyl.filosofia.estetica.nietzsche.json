@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.estetica.nietzsche",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "de": 5, "materia": "Estética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.estetica", "label": "Estética" },
+    { "address": "uba.ffyl.filosofia.estetica.nietzsche", "label": "La crítica radical a la estética: Nietzsche" }
+  ],
+  "eyebrow": "Estética · unidad · 5 de 5",
+  "title": "El arte contra la estética.",
+  "lede": "La crítica a la modernidad estética como crítica radical a la estética misma. El Nietzsche de El nacimiento de la tragedia y su 'metafísica del artista'; el antiplatonismo que rompe modelo/copia y verdad/apariencia; la fisiología del arte, la embriaguez y el 'gran estilo'; y los modos postnietzscheanos de pensar la tarea del arte.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Rol", "v": "ruptura", "small": "postestética" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La crítica a la modernidad estética como crítica radical a la estética. Perspectivas nietzscheanas y postnietzscheanas. Los escritos preparatorios de El nacimiento de la tragedia; lo antiguo y lo moderno; el 'socratismo'. La 'metafísica del artista' y el arte como reliquia en Humano demasiado humano. La crítica nietzscheana a la estética: el antiplatonismo (modelo/copia, verdad/apariencia, forma/contenido), contra la katharsis y el desinterés como 'arte de espectadores'. La fisiología del arte de los años ochenta: el cuerpo como punto de partida, el 'gran estilo', la embriaguez (Rausch), la antinomia clásico/romántico. Los modos postnietzscheanos: el arte como testimonio, el cuerpo, la imagen; herencias benjaminiana y heideggeriana.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad V del programa Schwarzböck.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Estética Nº 0226 (Schwarzböck) · Unidad V", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Estetica%2012%20II.doc" }
+}

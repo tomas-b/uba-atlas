@@ -1,0 +1,55 @@
+{
+  "address": "uba.der.abogacia.contratos",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidades": 7 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" }
+  ],
+  "eyebrow": "Contratos Civiles y Comerciales · CPC · Abogacía",
+  "title": "El contrato, del acuerdo de voluntades a cada tipo en especial.",
+  "lede": "Contratos Civiles y Comerciales estudia la teoría general del contrato bajo el Código Civil y Comercial unificado: qué es, cómo se forma, qué efectos produce, cómo se extingue y cómo se interpreta, para llegar a los contratos regulados en especial. Materia anual del Ciclo Profesional Común, con 108 horas de cursada. Sus contenidos mínimos oficiales se organizan en siete unidades, del concepto y la regulación del contrato hasta los tipos contractuales particulares.",
+  "meta": [
+    { "k": "Régimen", "v": "anual", "small": "108 h" },
+    { "k": "Unidades", "v": "7", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra de la Prof. Titular Graciela Lovece.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 7 unidades",
+      "title": "De la teoría general del contrato a los contratos en especial",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "CONTRATOS CIVILES Y COMERCIALES\n│\n├─ Unidad 1 · Concepto y regulación del contrato\n├─ Unidad 2 · Elementos, objeto, causa y forma\n├─ Unidad 3 · Consentimiento y tratativas\n├─ Unidad 4 · Efectos y cumplimiento\n├─ Unidad 5 · Extinción e ineficacia\n├─ Unidad 6 · Interpretación, conexidad y consumo\n└─ Unidad 7 · Contratos en especial",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Lovece."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.contratos.concepto-regulacion", "name": "Concepto y regulación del contrato", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.elementos-forma", "name": "Elementos, objeto, causa y forma", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.consentimiento-tratativas", "name": "Consentimiento y tratativas", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.efectos-cumplimiento", "name": "Efectos y cumplimiento", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.extincion-ineficacia", "name": "Extinción e ineficacia", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.interpretacion-conexos", "name": "Interpretación, conexidad y consumo", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.contratos.contratos-en-especial", "name": "Contratos en especial", "role": "Unidad 7", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía del programa de la cátedra de la Prof. Titular Graciela Lovece. El programa prescribe un texto central, más doctrina y fallos del campus y la legislación de base (CCyC, Constitución Nacional, Leyes 24.240 y 26.361). Fuente: programa de cátedra (2025).",
+      "exits": [
+        { "address": "uba.der.abogacia.contratos.lovece-contratos", "name": "Graciela Lovece — Derecho de los Contratos. Parte General y Parte Especial", "role": "texto central · Ed. Estudio 2023", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

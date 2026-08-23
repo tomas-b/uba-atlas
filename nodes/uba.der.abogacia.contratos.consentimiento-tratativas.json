@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.consentimiento-tratativas",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.consentimiento-tratativas", "label": "Consentimiento y tratativas" }
+  ],
+  "eyebrow": "Contratos · Unidad 3",
+  "title": "Cómo se forma el consentimiento y qué pasa antes del contrato.",
+  "lede": "La representación y el autocontrato; la formación del consentimiento a través de la oferta y la aceptación. Los contratos por adhesión y el control de sus cláusulas abusivas. Las tratativas contractuales previas: deberes de buena fe y confidencialidad, cartas de intención, contratos preliminares y preparatorios, y la responsabilidad precontractual.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Representación, consentimiento, adhesión y tratativas",
+      "note": "La representación: teoría general; el autocontrato; contrato por persona a designar; contrato por cuenta de quien corresponda; gestión de negocios ajenos sin representación. Consentimiento: concepto y formación; oferta, invitación a ofertar, obligatoriedad de la oferta, retractación; aceptación y sus modos; acuerdos parciales. Contratos por adhesión: concepto, requisitos, cláusulas particulares, interpretación, cláusulas abusivas, control judicial. Tratativas contractuales: libertad de negociación, prolegómenos (pourparlers), deber de buena fe y de confidencialidad, cartas de intención. Contratos preliminares: promesa de celebrar un contrato, contrato de opción, pacto de preferencia; contratos preparatorios (tipo, marco, normativo); contratos incompletos y ad referéndum. Responsabilidad precontractual: fundamento y extensión.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,57 @@
+{
+  "address": "uba.der.abogacia.reales",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · CPC · Abogacía",
+  "title": "El poder sobre las cosas: del dominio a las garantías y su defensa.",
+  "lede": "Elementos de Derechos Reales estudia los derechos que recaen directamente sobre las cosas: qué es un derecho real, cómo se ejerce el poder sobre la cosa y cuáles son sus figuras concretas. Materia cuatrimestral del Ciclo Profesional Común, recorre la teoría general y las relaciones de poder, el dominio y sus formas de propiedad, los derechos sobre cosa ajena de disfrute, los derechos reales de garantía y, por último, su defensa y publicidad. Los contenidos mínimos oficiales se organizan en cinco unidades.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "5", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra del Prof. Titular Claudio Marcelo Kiper.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 5 unidades",
+      "title": "De la teoría general a la defensa del derecho real",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "ELEMENTOS DE DERECHOS REALES\n│\n├─ Unidad 1 · Teoría general y relaciones de poder\n├─ Unidad 2 · Dominio, condominio y propiedades especiales\n├─ Unidad 3 · Superficie y derechos de disfrute\n├─ Unidad 4 · Derechos reales de garantía\n└─ Unidad 5 · Defensa y publicidad",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Kiper."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.reales.teoria-general", "name": "Teoría general y relaciones de poder", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.reales.dominio-condominio", "name": "Dominio, condominio y propiedades especiales", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.reales.superficie-disfrute", "name": "Superficie y derechos de disfrute", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.reales.garantia", "name": "Derechos reales de garantía", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.reales.defensa-publicidad", "name": "Defensa y publicidad", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía del programa de la cátedra del Prof. Titular Claudio Marcelo Kiper (adjunto Roberto Malizia). Fuente: programa de cátedra (año lectivo 2025).",
+      "exits": [
+        { "address": "uba.der.abogacia.reales.kiper-manual", "name": "Claudio Kiper — Manual de Derechos Reales", "role": "Rubinzal-Culzoni · 2016", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.reales.kiper-tratado", "name": "Claudio Kiper — Tratado de Derechos Reales", "role": "Rubinzal-Culzoni · 2 t. 2016", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.reales.kiper-malizia-casos", "name": "Kiper y Malizia — Derechos Reales. Casos para su aprendizaje", "role": "Astrea · 2005", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.reales.abreut-de-begher-manual", "name": "Liliana Abreut de Begher — Manual de Derechos Reales", "role": "Hammurabi · 3ª ed. 2019", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.reales.malizia-modelos", "name": "Roberto Malizia — Modelos de escritos. Derechos Reales", "role": "Rubinzal-Culzoni · 2018", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

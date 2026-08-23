@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.eriugena",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.eriugena", "label": "Cristianismo griego y latino" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · III de VIII",
+  "title": "El corpus del Areopagita cruza a Occidente.",
+  "lede": "El neoplatonismo cristiano griego —el corpus areopagiticum del Pseudo-Dionisio— y su llegada al Occidente latino a través del Renacimiento Carolingio. Juan Escoto Eriúgena: sus fuentes, la división de la naturaleza (Periphyseon), y la tensión entre dialéctica y teología.",
+  "meta": [
+    { "k": "Unidad", "v": "III", "small": "de VIII" },
+    { "k": "Figura", "v": "Eriúgena", "small": "+ Pseudo-Dionisio" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Neoplatonismo y cristianismo griego. El corpus areopagiticum. La recepción de los autores del cristianismo griego en el Renacimiento Carolingio. La 'traslatio' concebida por Alcuino de York. Juan Escoto Eriúgena: sus fuentes; la división de la naturaleza; dialéctica y teología. Fuentes: Pseudo-Dionisio (Teología mística, Epístola I) y Eriúgena (Periphyseon, libros I y III).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad III.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CRISTIANISMO GRIEGO Y LATINO (Unidad III)\n│\n├─ Pseudo-Dionisio    el corpus areopagiticum · teología mística\n├─ La traslatio       el Renacimiento Carolingio · Alcuino de York\n└─ Escoto Eriúgena    la división de la naturaleza · dialéctica y teología",
+        "foot": "Temas del programa 2020. Fuente central: Periphyseon I y III."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad III", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

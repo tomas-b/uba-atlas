@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.al-farabi",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.al-farabi", "label": "La teoría de los intelectos en Al-Farabi" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · VI de VIII",
+  "title": "Cuatro sentidos de 'intelecto', un rey-filósofo.",
+  "lede": "Al-Farabi y su gran síntesis: la 'armonía' entre Platón y Aristóteles, el emanatismo neoplatónico cruzado con la cosmología ptolemaica y la noética aristotélica. Los cuatro sentidos de 'intelecto' del De intellectu —en potencia, en acto, adquirido, Agente— y la proyección política del pensamiento.",
+  "meta": [
+    { "k": "Unidad", "v": "VI", "small": "de VIII" },
+    { "k": "Figura", "v": "Al-Farabi", "small": "el intelecto" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Al-Farabi y la 'armonía' entre Platón y Aristóteles. La síntesis farabiana: emanatismo neoplatónico, cosmología ptolemaica y noética aristotélica. Los sentidos de 'intelecto' en el De intellectu: intelecto en potencia, en acto, adquirido e Intelecto Agente. La proyección política del pensamiento de Al-Farabi: del 'rey-filósofo' al sabio-jefe de la comunidad islámica. Fuente: Epístola sobre los sentidos del término 'intelecto'.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad VI.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA TEORÍA DE LOS INTELECTOS EN AL-FARABI (Unidad VI)\n│\n├─ La síntesis     Platón + Aristóteles · emanatismo + Ptolomeo + noética\n├─ El intelecto    en potencia · en acto · adquirido · Agente\n└─ La política     del rey-filósofo al jefe de la comunidad",
+        "foot": "Temas del programa 2020. Fuente: la Epístola sobre el intelecto."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad VI", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.prueba-sentencia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.prueba-sentencia", "label": "Prueba, sentencia y ejecución" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 6",
+  "title": "Probar, decidir y hacer cumplir la sentencia.",
+  "lede": "La teoría de la prueba y los principios del derecho probatorio, la actividad probatoria y los diversos medios de prueba desde el punto de vista teórico-práctico, hasta la conclusión de la causa. Las resoluciones judiciales y los efectos de la sentencia entre partes y terceros, los modos anormales de terminación del proceso, la teoría de la ejecución de sentencia y los procesos especiales.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Prueba, resoluciones, sentencia y ejecución",
+      "note": "Teoría de la prueba · principios del derecho probatorio · actividad probatoria y medios de prueba (teórico-práctico) · conclusión de la causa · resoluciones judiciales · efectos de la sentencia entre partes y terceros · modos anormales de terminación del proceso · teoría de ejecución de sentencia · procesos especiales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

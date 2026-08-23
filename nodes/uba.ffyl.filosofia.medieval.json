@@ -1,0 +1,71 @@
+{
+  "address": "uba.ffyl.filosofia.medieval",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 h",
+    "promocion": "Promoción Directa",
+    "codigo": "0205 - 12002",
+    "catedra": "D'Amico / Castello Dubra (2020)",
+    "unidades": 8,
+    "bibliography": true
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" }
+  ],
+  "eyebrow": "Historia de la Filosofía Medieval · Depto. de Filosofía",
+  "title": "Mil años de filosofía leyendo lo heredado.",
+  "lede": "El segundo eslabón, y el menos previsible. El programa lee el Medioevo desde sus fuentes: qué hicieron judaísmo, cristianismo e islam con los textos que heredaron de la Antigüedad. Su eje es la <b>pluralidad de mundos medievales</b> —la transmisión del neoplatonismo y el nacimiento de la falsafa árabe—, no el arco escolar de manual. La mitad del recorrido está en el mundo islámico.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "96 h · PD" },
+    { "k": "Unidades", "v": "8", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Eje", "v": "recepción", "small": "3 religiones" }
+  ],
+  "frame": "Grounded en el programa 2020 de la cátedra (D'Amico / Castello Dubra), código 0205-12002, repositorio.filo.uba.ar. Ocho unidades bajo el título 'Pluralidad de mundos medievales': la filosofía medieval leída como asimilación productiva de la Antigüedad clásica y tardía dentro del judaísmo, el cristianismo y el islam. Advertencia de honestidad: este programa es temáticamente específico —transmisión del neoplatonismo (Filón, Agustín, Pseudo-Dionisio, Eriúgena, Eckhart) y filosofía islámica (Al-Farabi, Avicena, Averroes)—; NO recorre el arco genérico Agustín→Aquino→Ockham. Tomás de Aquino aparece solo como intérprete del Liber de Causis; Ockham no figura en este año. Cada año la cátedra elige un recorte distinto.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "De Alejandría a Averroes",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa 2020, en ocho unidades",
+        "tree": "HISTORIA DE LA FILOSOFÍA MEDIEVAL — pluralidad de mundos\n│\n├─ I    Alejandrinos      Filón · Clemente (judaísmo, cristianismo, platonismo medio)\n├─ II   Cristianismo latino   Mario Victorino · Agustín (los 'libros de los platónicos')\n├─ III  Griego y latino    Pseudo-Dionisio · Escoto Eriúgena (Periphyseon)\n├─ IV   Nueva vía neoplatónica   Liber de Causis · Alberto · Aquino · Eckhart · Porete\n├─ V    La falsafa         filosofía islámica: Al-Kindi, falsafa vs. kalam\n├─ VI   Al-Farabi          la teoría de los intelectos\n├─ VII  Avicena            la metafísica como ciencia · esencia y existencia\n└─ VIII Averroes           razón y religión · la eternidad del mundo",
+        "foot": "Unidades del programa 2020. El peso está en la transmisión neoplatónica (I–IV) y en la filosofía árabe (V–VIII)."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.medieval.alejandrinos", "name": "Judaísmo y cristianismo alejandrinos", "role": "Unidad I · Filón, Clemente", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.cristianismo-latino", "name": "Neoplatonismo y cristianismo latino", "role": "Unidad II · Victorino, Agustín", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.eriugena", "name": "Cristianismo griego y latino", "role": "Unidad III · Pseudo-Dionisio, Eriúgena", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.liber-causis", "name": "Una nueva vía neoplatónica", "role": "Unidad IV · Liber de Causis, Eckhart", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.falsafa", "name": "Introducción a la falsafa", "role": "Unidad V · filosofía islámica", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.al-farabi", "name": "La teoría de los intelectos en Al-Farabi", "role": "Unidad VI", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.avicena", "name": "La metafísica de Ibn Sina (Avicena)", "role": "Unidad VII", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.medieval.averroes", "name": "Razón y religión en Ibn Rushd (Averroes)", "role": "Unidad VIII", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Bibliografía · fuentes y estudios",
+      "title": "Los textos, tal como los asigna la cátedra",
+      "note": "Buena parte de las fuentes se leen en la antología de cátedra 'Todo y nada de todo'. Cada libro es un índice L3 aún sin abrir.",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.medieval.damico-todo-y-nada", "name": "Todo y nada de todo", "role": "C. D'Amico (ed.) · antología de fuentes", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.filon-creacion", "name": "La creación del mundo según Moisés", "role": "Filón de Alejandría (Trotta)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.agustin-confesiones", "name": "Confesiones (libro VII)", "role": "Agustín de Hipona", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.eriugena-periphyseon", "name": "Periphyseon (libros I y III)", "role": "Escoto Eriúgena", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.averroes-tratado-decisivo", "name": "El tratado decisivo", "role": "Averroes (Winograd, 2015)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.de-libera-filosofia-medieval", "name": "La filosofía medieval", "role": "A. de Libera (Docencia)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.ramon-guerrero-arabe-judia", "name": "Filosofías árabe y judía", "role": "R. Ramón Guerrero (Síntesis)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.medieval.luduena-eriugena", "name": "Eriugena", "role": "E. Ludueña (Bs. As., 2016)", "tag": "estudio", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval (D'Amico / Castello Dubra) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

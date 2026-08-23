@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.reales.defensa-publicidad",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" },
+    { "address": "uba.der.abogacia.reales.defensa-publicidad", "label": "Defensa y publicidad" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · Unidad 5",
+  "title": "Cómo se defienden y se hacen oponibles los derechos reales.",
+  "lede": "La defensa de la posesión y del derecho real a través de las acciones posesorias y las acciones reales, la publicidad registral que los hace oponibles a terceros y el derecho de retención.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Materia", "v": "D. Reales", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Acciones, publicidad y retención",
+      "note": "Acciones posesorias y acciones reales · publicidad registral · derecho de retención.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

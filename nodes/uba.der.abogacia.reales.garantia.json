@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.reales.garantia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" },
+    { "address": "uba.der.abogacia.reales.garantia", "label": "Garantía" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · Unidad 4",
+  "title": "Las cosas afectadas al cumplimiento de una obligación.",
+  "lede": "Los derechos reales de garantía, que afectan una cosa al cumplimiento de una obligación: hipoteca, anticresis y prenda.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Materia", "v": "D. Reales", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Hipoteca, anticresis y prenda",
+      "note": "Derechos reales de garantía · derecho real de hipoteca · derecho real de anticresis · derecho real de prenda.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

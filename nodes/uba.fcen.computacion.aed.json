@@ -1,0 +1,55 @@
+{
+  "address": "uba.fcen.computacion.aed",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "15 h semanales", "unidades": 4, "bibliography": ["Cormen, Leiserson, Rivest, Stein · Introduction to Algorithms", "Sedgewick · Algorithms in C", "Brassard, Bratley · Fundamentals of Algorithmics", "Gries · The Science of Programming"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.aed", "label": "Algoritmos y Estructuras de Datos" }
+  ],
+  "eyebrow": "Algoritmos y Estructuras de Datos · Año 1 · 2º cuat.",
+  "title": "Especificar, medir y estructurar los datos.",
+  "lede": "El segundo paso en programación: especificar formalmente los tipos de datos y demostrar la correctitud de los algoritmos, medir su complejidad, y diseñar las estructuras que los hacen eficientes — de los árboles balanceados al hashing. Talleres de laboratorio en Java.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "2º · teór-práct-lab" },
+    { "k": "Bloques", "v": "4", "small": "contenidos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Carga", "v": "15 h", "small": "semanales" }
+  ],
+  "frame": "Contenido sourceado del plan oficial (computacion.dc.uba.ar/plan-de-estudios-2023) y de la transcripción de cátedra (Cuba-Wiki, plan 2023). Cuatro bloques: especificación y verificación, análisis de complejidad, búsqueda y ordenamiento, y estructuras de datos. La cátedra aclara que la parte de especificación no tiene bibliografía de libro; los textos de algoritmos sí están sourceados (Cormen, Sedgewick, Brassard, Gries).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los 4 bloques",
+      "title": "El recorrido de la materia",
+      "note": "De la especificación a las estructuras eficientes.",
+      "map": {
+        "mk": "El programa, en cuatro bloques",
+        "tree": "ALGORITMOS Y ESTRUCTURAS DE DATOS\n│\n├─ B1 · Especificación formal y verificación\n├─ B2 · Análisis de algoritmos y complejidad\n├─ B3 · Búsqueda y ordenamiento\n└─ B4 · Estructuras de datos (árboles, hashing, colas de prioridad)",
+        "foot": "Temas de la cátedra (DC, plan 2023). Textos: Cormen, Sedgewick, Brassard."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.aed.especificacion-verificacion", "name": "Especificación formal y verificación", "role": "Bloque 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.aed.analisis-complejidad", "name": "Análisis de algoritmos y complejidad", "role": "Bloque 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.aed.busqueda-ordenamiento", "name": "Búsqueda y ordenamiento", "role": "Bloque 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.aed.estructuras-datos", "name": "Estructuras de datos", "role": "Bloque 4", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · sourceada",
+      "title": "Los textos de algoritmos",
+      "note": "La parte de especificación usa apuntes de cátedra, sin libro. Contenido de libros (L3): índice aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.aed.clrs", "name": "Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein", "role": "referencia", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.sedgewick", "name": "Algorithms in C — R. Sedgewick", "role": "referencia", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.brassard", "name": "Fundamentals of Algorithmics — Brassard, Bratley", "role": "complejidad", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.gries", "name": "The Science of Programming — D. Gries", "role": "precondición más débil", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

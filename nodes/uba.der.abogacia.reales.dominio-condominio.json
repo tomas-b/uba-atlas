@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.reales.dominio-condominio",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" },
+    { "address": "uba.der.abogacia.reales.dominio-condominio", "label": "Dominio y condominio" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · Unidad 2",
+  "title": "El dominio y las formas de la propiedad.",
+  "lede": "El derecho real de dominio, el modo de adquirirlo por prescripción adquisitiva y las formas plurales o especiales de la propiedad: el condominio, la propiedad horizontal, los conjuntos inmobiliarios, el tiempo compartido y los cementerios privados.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Materia", "v": "D. Reales", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Dominio, condominio y propiedades especiales",
+      "note": "Derecho real de dominio · prescripción adquisitiva · derecho real de condominio · propiedad horizontal · conjuntos inmobiliarios · tiempo compartido · cementerios privados.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

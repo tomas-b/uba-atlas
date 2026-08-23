@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.biologia.sintesis-proteica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 8,
+    "de": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia",
+      "label": "Biología"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia.sintesis-proteica",
+      "label": "La síntesis proteica: la traducción y su regulación"
+    }
+  ],
+  "eyebrow": "Biología · unidad · Unidad 8",
+  "title": "La síntesis proteica: la traducción y su regulación",
+  "lede": "De la secuencia a la proteína, y cómo se regula.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "8",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Biología",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Elementos celulares · ARNt; Etapas de la síntesis proteica; Regulación en procariontes; Regulación en eucariontes.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA SÍNTESIS PROTEICA: LA TRADUCCIÓN Y SU REGULACIÓN\n│\n• Elementos celulares · ARNt\n• Etapas de la síntesis proteica\n• Regulación en procariontes\n• Regulación en eucariontes",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

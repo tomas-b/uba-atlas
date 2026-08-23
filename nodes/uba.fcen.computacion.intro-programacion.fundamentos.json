@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.fundamentos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.intro-programacion", "label": "Introducción a la Programación" },
+    { "address": "uba.fcen.computacion.intro-programacion.fundamentos", "label": "Fundamentos" }
+  ],
+  "eyebrow": "Introducción a la Programación · bloque · B1",
+  "title": "Del problema a la especificación.",
+  "lede": "Los cimientos: qué es un problema, un algoritmo y un programa. Cómo especificar sin ambigüedad con diseño por contrato, y la lógica que lo sostiene — proposicional y trivaluada. Tipos de datos y tipos abstractos.",
+  "meta": [
+    { "k": "Bloque", "v": "1", "small": "de 3" },
+    { "k": "Rol", "v": "base", "small": "fundamentos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Problema, algoritmo, especificación y diseño por contrato. Programa de computadora; lenguajes de programación y paradigmas. Tipos de datos y tipos de datos abstractos (TADs). Repaso de lógica proposicional e introducción a la lógica trivaluada. Un lenguaje semi-formal para especificar problemas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del bloque",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del bloque.",
+      "map": {
+        "mk": "El bloque, comprimido",
+        "tree": "FUNDAMENTOS (B1)\n│\n├─ Nociones   · problema, algoritmo, programa, paradigmas\n├─ Especificar · diseño por contrato, lenguaje semi-formal\n├─ Lógica     · proposicional, trivaluada\n└─ Datos      · tipos de datos, TADs",
+        "foot": "Temas de la cátedra (DC, plan 2023)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

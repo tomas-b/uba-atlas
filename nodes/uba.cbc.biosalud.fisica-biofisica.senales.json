@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.fisica-biofisica.senales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6,
+    "de": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.fisica-biofisica",
+      "label": "Física e Introducción a la Biofísica"
+    },
+    {
+      "address": "uba.cbc.biosalud.fisica-biofisica.senales",
+      "label": "Introducción al manejo de señales en los seres vivos"
+    }
+  ],
+  "eyebrow": "Física e Introducción a la Biofísica · unidad · Unidad 6",
+  "title": "Introducción al manejo de señales en los seres vivos",
+  "lede": "Ondas, luz y sonido: las bases físicas de ver y oír.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 6"
+    },
+    {
+      "k": "Materia",
+      "v": "Física",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Fenómenos ondulatorios; Luz · características básicas; Sonido · características básicas; Bases físicas de visión y audición.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTRODUCCIÓN AL MANEJO DE SEÑALES EN LOS SERES VIVOS\n│\n• Fenómenos ondulatorios\n• Luz · características básicas\n• Sonido · características básicas\n• Bases físicas de visión y audición",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

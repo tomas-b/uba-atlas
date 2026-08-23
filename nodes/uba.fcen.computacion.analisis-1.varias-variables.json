@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.analisis-1.varias-variables",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.analisis-1", "label": "Análisis I" },
+    { "address": "uba.fcen.computacion.analisis-1.varias-variables", "label": "Funciones de Varias Variables" }
+  ],
+  "eyebrow": "Análisis I · unidad · U3",
+  "title": "Derivar en varias variables.",
+  "lede": "El corazón de la materia: funciones vectoriales y de varias variables, límite y continuidad, derivadas parciales, planos tangentes y aproximaciones lineales, la regla de la cadena, y las derivadas direccionales con el gradiente.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Rol", "v": "núcleo", "small": "cálculo diferencial" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Funciones vectoriales. Funciones de varias variables. Límite y continuidad de curvas y de funciones de 2 y 3 variables. Derivadas de curvas, recta tangente. Derivadas parciales. Planos tangentes y aproximaciones lineales. Regla de la cadena. Derivadas direccionales y gradiente. El cálculo diferencial en varias variables.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "VARIAS VARIABLES (U3)\n│\n├─ Límite      · continuidad en 2 y 3 variables\n├─ Derivadas   · parciales, planos tangentes, cadena\n└─ Gradiente   · derivadas direccionales",
+        "foot": "Temas del programa oficial del DM (Análisis I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+}

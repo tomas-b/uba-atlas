@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.so.procesos-scheduling",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.so", "label": "Sistemas Operativos" },
+    { "address": "uba.fcen.computacion.so.procesos-scheduling", "label": "Procesos, tareas y scheduling" }
+  ],
+  "eyebrow": "SO · unidad · Unidad 2",
+  "title": "Repartir el procesador: procesos, tareas y scheduling.",
+  "lede": "La abstracción central del sistema operativo. La gestión de tareas y de procesos, y el scheduling — cómo el sistema decide a quién le toca el procesador y cuándo.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Rol", "v": "núcleo", "small": "procesos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Gestión de tareas. Gestión de procesos. Scheduling. La abstracción de proceso y la política que reparte el procesador entre ellos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los temas del plan reagrupados en la Unidad 2.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "PROCESOS, TAREAS Y SCHEDULING (Unidad 2)\n│\n├─ Gestión de tareas\n├─ Gestión de procesos\n└─ Scheduling",
+        "foot": "Temas del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas SO)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

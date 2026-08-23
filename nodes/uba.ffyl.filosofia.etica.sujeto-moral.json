@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.etica.sujeto-moral",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "bloque": 2, "de": 2, "cuestiones": "8–11", "materia": "Ética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.etica", "label": "Ética" },
+    { "address": "uba.ffyl.filosofia.etica.sujeto-moral", "label": "El sujeto moral" }
+  ],
+  "eyebrow": "Ética · bloque · II de II",
+  "title": "Quién es el que obra.",
+  "lede": "El segundo bloque pasa del mapa de problemas al sujeto que los vive: su relación con la razón y la autonomía, con el deseo, con el poder, y con la interpelación del otro — donde, en la línea de Lévinas, la ética precede a la ontología.",
+  "meta": [
+    { "k": "Bloque", "v": "II", "small": "de II" },
+    { "k": "Cuestiones", "v": "4", "small": "el sujeto" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El sujeto moral (cuatro cuestiones). 8. Sujeto moral y razón (universal) y la crisis de lo público: autonomía, reconocimiento, la noción kantiana de fin-en-sí y de persona, el post-contractualismo. 9. Sujeto moral y deseo (singular) y la voluntad de poder: el cuidado de sí, ética y genealogías, ética y psicoanálisis, ética y deconstrucciones. 10. Sujeto moral y poder (soberano): sujeto moral, ciudadano y participación política; pos-liberalismo y pos-marxismo. 11. Sujeto moral e interpelación del otro: la ética precede a la ontología, responsabilidad y justicia, el sí mismo como otro, ética de la liberación e intercultural.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo del bloque", "title": "De qué se trata", "note": "Cuestiones 8–11 del programa Cullen (Parte IIa).", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Ética Nº 0214 (Cullen) · Parte IIa", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Etica%2012%20II.doc" }
+}

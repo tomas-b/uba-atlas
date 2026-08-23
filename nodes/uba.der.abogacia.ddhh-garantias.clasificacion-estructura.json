@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias.clasificacion-estructura",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" },
+    { "address": "uba.der.abogacia.ddhh-garantias.clasificacion-estructura", "label": "Clasificación y estructura" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · Unidad 3",
+  "title": "Los tipos de derechos, su anatomía y sus tensiones.",
+  "lede": "Los derechos civiles, políticos, económicos, sociales y culturales en la perspectiva del derecho argentino de fuente interna e internacional. Los criterios de clasificación de los derechos humanos y el análisis crítico de las clasificaciones. La estructura de los derechos —sujeto activo, sujeto pasivo, contenidos, garantías o medios de protección— y los conflictos o tensiones entre derechos, con sus métodos de análisis, interpretación y resolución.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "DDHH y Gtías.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Clasificación, estructura y conflictos entre derechos",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: derechos civiles, políticos, económicos, sociales y culturales de fuente interna e internacional; criterios de clasificación y análisis crítico de las clasificaciones; estructura de los derechos (sujeto activo, sujeto pasivo, contenidos, garantías o medios de protección); conflictos o tensiones entre derechos y sus métodos de análisis, interpretación y resolución.",
+      "map": {
+        "mk": "La estructura de un derecho",
+        "tree": "DERECHO\n│\n├─ Sujeto activo\n├─ Sujeto pasivo\n├─ Contenidos del derecho\n└─ Garantías o medios de protección",
+        "foot": "Elementos de la estructura según los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

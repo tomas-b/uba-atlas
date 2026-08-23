@@ -1,0 +1,51 @@
+{
+  "address": "uba.fcen.computacion.arquitectura",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "10 h semanales · 160 h (35% teór · 35% práct · 30% lab)",
+    "cuatrimestre": "2º · año 2",
+    "unidades": 5,
+    "bibliography": []
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.arquitectura", "label": "Arquitectura y Organización de Computadores" }
+  ],
+  "eyebrow": "Arquitectura y Organización de Computadores · Lic. Computación · año 2",
+  "title": "Cómo se organiza y ejecuta una computadora.",
+  "lede": "Arquitectura y Organización de Computadores mira la máquina como sistema: computadores de propósito dedicado frente a los de propósito general. De los microcontroladores (CPU, memoria, gestión de I/O) a la máquina de propósito general — jerarquía de caché, pipeline, superescalar, ejecución fuera de orden — y de ahí al diseño lógico sobre FPGA y a la síntesis de un softcore con su propio juego de instrucciones. Continúa a Sistemas Digitales.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
+    { "k": "Unidades", "v": "5", "small": "contenidos mín." },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Materia", "v": "renovada", "small": "Plan 2023" }
+  ],
+  "frame": "Materia completamente renovada del Plan 2023 (desciende de Organización del Computador I/II). No hay programa de cátedra por unidades publicado; los temas se toman verbatim de los contenidos mínimos del documento oficial del plan (computacion.dc.uba.ar). Las cinco unidades son los bloques temáticos que el propio plan enumera, en orden. Representación de la información y lógica digital NO están aquí — viven en la materia previa, Sistemas Digitales. No se publica bibliografía oficial de esta materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · los 5 bloques",
+      "title": "El recorrido, del microcontrolador al softcore",
+      "note": "Bloques temáticos de los contenidos mínimos oficiales del plan, en orden.",
+      "map": {
+        "mk": "El programa, en cinco bloques",
+        "tree": "ARQUITECTURA Y ORGANIZACIÓN DE COMPUTADORES\n│\n├─ 1 · Propósito dedicado vs. general · organización de un sistema de cómputo\n├─ 2 · Microcontroladores            · CPU, memoria, I/O (polling/interrupciones)\n├─ 3 · Propósito general             · caché (MESI), pipeline, superescalar, FPU\n├─ 4 · Dispositivos lógicos program. · FPGA, LUTs, HDL, datapath, buses\n└─ 5 · Softcores                     · ISA, opcodes, síntesis de CPU, ensamblador",
+        "foot": "Contenidos mínimos del documento oficial del Plan 2023 (DC-FCEN). Sin bibliografía oficial publicada."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.arquitectura.proposito-dedicado-general", "name": "Propósito dedicado vs. general", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.arquitectura.microcontroladores", "name": "Microcontroladores", "role": "bloque 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.arquitectura.proposito-general", "name": "Computadores de propósito general", "role": "bloque 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.arquitectura.dispositivos-programables", "name": "Dispositivos lógicos programables", "role": "bloque 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.arquitectura.softcores", "name": "Softcores", "role": "bloque 5", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

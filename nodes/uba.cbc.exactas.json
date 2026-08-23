@@ -1,0 +1,96 @@
+{
+  "address": "uba.cbc.exactas",
+  "level": "institución",
+  "kind": "cbc-area",
+  "metadata": {
+    "role": "orientación del CBC",
+    "note": "materias propias del área; las universales (Pensamiento Científico, Sociedad y Estado) viven en el padre uba.cbc"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    }
+  ],
+  "eyebrow": "CBC · orientación Ciencias Exactas, Tecnología y Diseño",
+  "title": "La orientación técnica del umbral.",
+  "lede": "Una de las tres orientaciones del CBC. Sobre las dos materias universales (que viven en el CBC) suma un núcleo de matemática y dos optativas de ciencias. Estas son las materias propias del área.",
+  "meta": [
+    {
+      "k": "Orientación",
+      "v": "3/3",
+      "small": "del CBC"
+    },
+    {
+      "k": "Materias",
+      "v": "5",
+      "small": "del área"
+    },
+    {
+      "k": "Tipo",
+      "v": "área",
+      "small": "estructural"
+    },
+    {
+      "k": "Nivel",
+      "v": "umbral"
+    }
+  ],
+  "frame": "Las materias de esta orientación del CBC. El núcleo (Análisis Matemático A, Álgebra) es fijo para el perfil exacto; las optativas se eligen entre Física, Química y Pensamiento Computacional. Las dos universales no están acá — son del CBC entero.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Materias del área",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a",
+          "name": "Análisis Matemático A",
+          "role": "núcleo",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra",
+          "name": "Álgebra",
+          "role": "núcleo",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica",
+          "name": "Física",
+          "role": "optativa",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica",
+          "name": "Química",
+          "role": "optativa",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.exactas.pensamiento-computacional",
+          "name": "Pensamiento Computacional",
+          "role": "optativa",
+          "tag": "materia CBC",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

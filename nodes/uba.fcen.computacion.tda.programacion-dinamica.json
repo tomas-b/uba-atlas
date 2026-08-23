@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.programacion-dinamica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.programacion-dinamica", "label": "Programación Dinámica" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 2",
+  "title": "Guardar lo ya resuelto para no volver a resolverlo.",
+  "lede": "La unidad desarrolla los fundamentos de la programación dinámica, sus enfoques top-down y bottom-up, la memoización y la reconstrucción de soluciones. Se ilustra con ejemplos como la suma de subconjuntos y la selección de actividades.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "subproblemas reutilizados" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Resolver problemas descomponiéndolos en subproblemas cuyas soluciones se almacenan y se reconstruyen, mediante enfoques top-down y bottom-up.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "PROGRAMACIÓN DINÁMICA (bloque 2)\n│\n├─ Tema · fundamentos de programación dinámica\n├─ Tema · enfoques top-down y bottom-up con memoización\n├─ Tema · reconstrucción de soluciones\n└─ Idea · ejemplos (suma de subconjuntos, selección de actividades)",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

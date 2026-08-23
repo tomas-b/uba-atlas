@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.estado-moderno-argentina",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.estado-moderno-argentina", "label": "Estado moderno y Argentina" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 6",
+  "title": "El Estado moderno: del absolutismo a la Argentina.",
+  "lede": "La evolución del Estado moderno a través del capitalismo, el absolutismo y el liberalismo; el Estado de bienestar y su crisis y desarticulación; la globalización, el Estado-nación y los procesos de integración. Las grandes tipologías y la evolución de la teoría política —contexto, desarrollo y transformaciones— cierran en la conformación del Estado en la Argentina y la evolución de la democracia argentina.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Evolución del Estado moderno y su conformación en la Argentina",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales.",
+      "map": {
+        "mk": "Los conceptos de la unidad",
+        "tree": "ESTADO MODERNO Y ARGENTINA\n│\n├─ Evolución del Estado moderno\n├─ Capitalismo, absolutismo y liberalismo\n├─ Estado de bienestar · crisis y desarticulación\n├─ Globalización, Estado-nación, estados y procesos de integración\n├─ Las grandes tipologías\n├─ Evolución de la teoría política: contexto, desarrollo, transformaciones\n├─ Conformación del Estado en la Argentina\n└─ Evolución de la democracia argentina",
+        "foot": "Todos los conceptos provienen de los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

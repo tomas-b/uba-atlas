@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.so.concurrencia",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.so", "label": "Sistemas Operativos" },
+    { "address": "uba.fcen.computacion.so.concurrencia", "label": "Concurrencia: intercomunicación y sincronización" }
+  ],
+  "eyebrow": "SO · unidad · Unidad 3",
+  "title": "Coordinar lo que corre a la vez: comunicación y sincronización.",
+  "lede": "El problema de la concurrencia dentro del sistema. La intercomunicación entre procesos y la sincronización — coordinar el acceso a recursos compartidos para que la ejecución concurrente sea correcta.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "concurr.", "small": "coordinar" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Intercomunicación (comunicación entre procesos). Sincronización. La coordinación del acceso a recursos compartidos en presencia de ejecución concurrente.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los temas del plan reagrupados en la Unidad 3.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CONCURRENCIA (Unidad 3)\n│\n├─ Intercomunicación (entre procesos)\n└─ Sincronización",
+        "foot": "Temas del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas SO)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

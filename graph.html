@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CASA · grafo de grounding</title>
+<style>
+  :root {
+    --paper:#e1e0da; --surface:#ecebe5; --ink:#23262b; --ink-soft:#565b62; --ink-faint:#8a8e88;
+    --hairline:#c6c6bd; --steel:#2c4257; --accent:#bd7514; --accent-ink:#7a4c0c; --ready:#3f7d5a;
+    --font-display:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+    --font-body:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root{--paper:#15171a;--surface:#1d2024;--ink:#e8e7e1;--ink-soft:#9ca19f;--ink-faint:#6d716e;--hairline:#34383d;--steel:#7ba0c6;--accent:#db9636;--accent-ink:#e7ad57;--ready:#5fa982;}}
+  * { box-sizing:border-box; }
+  html,body { height:100%; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:var(--font-body); display:flex; flex-direction:column; }
+  header { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; padding:9px 16px; border-bottom:1px solid var(--hairline); }
+  header .brand { font-family:var(--font-display); font-weight:650; font-size:14px; }
+  header a { font-family:var(--font-display); font-size:12px; color:var(--steel); text-decoration:none; }
+  header a:hover { text-decoration:underline; }
+  header .title { font-family:var(--font-display); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); }
+  .legend { display:flex; gap:11px; flex-wrap:wrap; margin-left:auto; font-family:var(--font-display); font-size:10px; color:var(--ink-soft); }
+  .legend .k { display:inline-flex; align-items:center; gap:5px; }
+  .legend .sw { width:12px; height:9px; border-radius:2px; display:inline-block; border:1px solid; }
+  .sw.cbc{background:#f4ead9;border-color:#bd7514;} .sw.faculty{background:#dfe8f2;border-color:#2c4257;}
+  .sw.career{background:#e7e3f2;border-color:#4a3aa7;} .sw.course{background:#e2efe8;border-color:#3f7d5a;}
+  .sw.unit{background:#dcecef;border-color:#2b7a86;} .sw.book{background:#f2e3ea;border-color:#a34a72;}
+  .sw.sealed{background:#f6e4e2;border-color:#c0453f;border-style:dashed;}
+  .crumbbar { display:flex; align-items:center; gap:7px; flex-wrap:wrap; padding:7px 16px; border-bottom:1px solid var(--hairline); font-family:var(--font-display); font-size:12px; }
+  .crumbbar a { color:var(--steel); text-decoration:none; cursor:pointer; }
+  .crumbbar a:hover { text-decoration:underline; }
+  .crumbbar .here { color:var(--ink); font-weight:600; }
+  .crumbbar .sep { color:var(--ink-faint); }
+  .bar { display:flex; align-items:center; gap:12px; padding:6px 16px; border-bottom:1px solid var(--hairline); font-family:var(--font-display); font-size:11px; color:var(--ink-soft); min-height:34px; flex-wrap:wrap; }
+  .bar b { color:var(--ink); }
+  .ctrl { display:inline-flex; gap:4px; }
+  .ctrl button { font:inherit; font-size:11px; color:var(--ink-soft); background:var(--surface); border:1px solid var(--hairline); border-radius:2px; padding:1px 8px; cursor:pointer; }
+  .ctrl button:hover { color:var(--ink); }
+  .action { display:inline-flex; align-items:center; gap:8px; margin-left:auto; }
+  .action .sel { color:var(--ink); font-weight:600; }
+  .action .st { padding:1px 7px; border-radius:2px; border:1px solid var(--hairline); }
+  .action button { font:inherit; border-radius:2px; padding:2px 9px; cursor:pointer; background:transparent; }
+  .action .gen { color:var(--accent-ink); border:1px solid var(--accent); }
+  .action .foc { color:var(--steel); border:1px solid var(--steel); }
+  .action .nav { color:var(--ready); border:1px solid var(--ready); }
+  .status { color:var(--accent-ink); }
+  .status.busy::after { content:""; animation:dots 1.3s steps(4,end) infinite; }
+  @keyframes dots { 0%{content:"";}25%{content:"·";}50%{content:"··";}75%{content:"···";}100%{content:"";} }
+  #wrap { flex:1; overflow:auto; padding:12px; }
+  #graph { transform-origin:top left; }
+  #graph svg { max-width:none !important; height:auto; }
+  #graph .node { cursor:pointer; }
+</style>
+</head>
+<body>
+  <header>
+    <span class="brand">CASA</span>
+    <span class="title">grafo de grounding</span>
+    <a href="/">navegador</a>
+    <div class="legend">
+      <span class="k"><span class="sw cbc"></span>CBC</span>
+      <span class="k"><span class="sw faculty"></span>facultad</span>
+      <span class="k"><span class="sw career"></span>carrera</span>
+      <span class="k"><span class="sw course"></span>materia</span>
+      <span class="k"><span class="sw unit"></span>unidad</span>
+      <span class="k"><span class="sw book"></span>libro</span>
+      <span class="k"><span class="sw sealed"></span>sellado</span>
+    </div>
+  </header>
+  <div class="crumbbar" id="crumb"></div>
+  <div class="bar">
+    <span id="stats">cargando…</span>
+    <span class="ctrl">prof <button id="dless">−</button><span id="depthv">2</span><button id="dmore">+</button></span>
+    <span class="ctrl">zoom <button id="zout">−</button><button id="zfit">fit</button><button id="zin">+</button></span>
+    <span class="action" id="actionbar"></span>
+    <span class="status" id="status"></span>
+  </div>
+  <div id="wrap"><div id="graph"></div></div>
+
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+    const graphEl=document.getElementById("graph"), crumbEl=document.getElementById("crumb"),
+      statsEl=document.getElementById("stats"), actionBar=document.getElementById("actionbar"),
+      statusEl=document.getElementById("status"), depthvEl=document.getElementById("depthv");
+    let root=(location.hash&&location.hash.length>1)?decodeURIComponent(location.hash.slice(1)):"uba", depth=2, scale=1, rid=0, GROUNDED=new Set();
+    const dark=matchMedia("(prefers-color-scheme: dark)").matches, lineColor=dark?"#ffffff":"#9a9d97";
+    mermaid.initialize({ startOnLoad:false, securityLevel:"loose", theme:"base", fontFamily:"ui-monospace, monospace",
+      flowchart:{ nodeSpacing:20, rankSpacing:36, padding:3, useMaxWidth:false }, themeVariables:{ fontSize:"10px", lineColor, defaultLinkColor:lineColor } });
+    const setStatus=(t,busy=false)=>{ statusEl.textContent=t; statusEl.className="status"+(busy?" busy":""); };
+    const applyScale=()=>{ graphEl.style.transform=`scale(${scale})`; };
+    const setRoot=(a)=>{ root=a; actionBar.innerHTML=""; render(); };
+
+    window.nodeClick = (addr)=>{
+      const created=GROUNDED.has(addr);
+      const hasChild=[...GROUNDED].some(g=>g.startsWith(addr+"."));
+      let state,klass="",action=null;
+      if(created){ state="creado"; }
+      else if(addr.split(".").length>=4){ state="a crear"; action="create"; klass="course"; }
+      else { state="a indexar"; action="index"; klass="career"; }
+      let html=`<span class="sel">${addr.split(".").pop()}</span> <span class="st">${state}</span>`;
+      if(action) html+=` <button class="gen" data-do="${action}" data-addr="${addr}">${action==="index"?"indexar":"generar"} →</button>`;
+      if(hasChild) html+=` <button class="foc" data-focus="${addr}">enfocar ⤢</button>`;
+      html+=` <button class="nav" data-open="${addr}">abrir ↗</button>`;
+      actionBar.innerHTML=html;
+    };
+
+    document.addEventListener("click", async (e)=>{
+      const cr=e.target.closest("[data-root]"); if(cr){ setRoot(cr.dataset.root); return; }
+      const fo=e.target.closest("[data-focus]"); if(fo){ setRoot(fo.dataset.focus); return; }
+      const op=e.target.closest("[data-open]"); if(op){ window.open("/#"+op.dataset.open,"_blank"); return; }
+      const g=e.target.closest("[data-do]"); if(g){ doJob(g.dataset.addr, g.dataset.do); return; }
+    });
+
+    async function doJob(addr, action){
+      setStatus((action==="index"?"indexando ":"generando ")+addr.split(".").pop(), true);
+      await fetch("/request",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({address:addr,action})});
+      const t0=Date.now();
+      const poll=setInterval(async ()=>{
+        const rr=await fetch("/nodes/"+addr+".json");
+        if(rr.ok){ clearInterval(poll); await render(); setStatus(addr.split(".").pop()+" ✓"); }
+        else if(Date.now()-t0>240000){ clearInterval(poll); setStatus("sin respuesta (¿watcher?)"); }
+      },1500);
+    }
+
+    async function render(){
+      const [mr,ir]=await Promise.all([fetch(`/mermaid?root=${encodeURIComponent(root)}&depth=${depth}`), fetch("/index")]);
+      const d=await mr.json();
+      GROUNDED=new Set((await ir.json()).addresses);
+      crumbEl.innerHTML=d.crumb.map((c,i)=> i<d.crumb.length-1
+        ? `<a data-root="${c.address}">${c.label}</a><span class="sep">›</span>`
+        : `<span class="here">${c.label}</span>`).join(" ");
+      statsEl.innerHTML=`<b>${d.counts.shown}</b> en vista · ${d.counts.created} creados · ${d.counts.frontier} pendientes · <span style="color:var(--ink-faint)">${d.counts.total} totales</span>`;
+      const { svg, bindFunctions }=await mermaid.render("g"+(rid++), d.mermaid);
+      graphEl.innerHTML=svg; bindFunctions?.(graphEl); applyScale();
+    }
+
+    document.getElementById("zin").onclick=()=>{scale=Math.min(scale*1.2,3);applyScale();};
+    document.getElementById("zout").onclick=()=>{scale=Math.max(scale/1.2,0.3);applyScale();};
+    document.getElementById("zfit").onclick=()=>{scale=1;applyScale();};
+    document.getElementById("dmore").onclick=()=>{depth=Math.min(depth+1,5);depthvEl.textContent=depth;render();};
+    document.getElementById("dless").onclick=()=>{depth=Math.max(depth-1,1);depthvEl.textContent=depth;render();};
+    render();
+  </script>
+</body>
+</html>

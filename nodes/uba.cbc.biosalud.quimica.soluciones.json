@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.quimica.soluciones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7,
+    "de": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica.soluciones",
+      "label": "Soluciones"
+    }
+  ],
+  "eyebrow": "Química · unidad · Unidad 7",
+  "title": "Soluciones",
+  "lede": "La materia disuelta: cómo se mide una concentración.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 11"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Soluto y solvente; Expresiones de concentración; Soluciones acuosas y electrolitos; Dilución y mezcla.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "SOLUCIONES\n│\n• Soluto y solvente\n• Expresiones de concentración\n• Soluciones acuosas y electrolitos\n• Dilución y mezcla",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

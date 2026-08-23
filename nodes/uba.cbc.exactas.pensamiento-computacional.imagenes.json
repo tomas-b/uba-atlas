@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.imagenes",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.imagenes",
+      "label": "Imágenes"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A7",
+  "title": "Manipular fotos como datos.",
+  "lede": "Una imagen es una matriz de píxeles: filtros, transformaciones y efectos aparecen como operaciones sobre esos números.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "actividad",
+      "small": "matrices"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Procesamiento de imágenes: la imagen como matriz de píxeles, filtros y transformaciones, recorrido y modificación de una estructura de datos grande.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "IMÁGENES (Actividad 7)\n│\n├─ Problema · editar fotos\n└─ Idea     · matriz de píxeles, filtros",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

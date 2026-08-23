@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho.lenguaje-argumentacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-general-derecho", "label": "Teoría General del Derecho" },
+    { "address": "uba.der.abogacia.teoria-general-derecho.lenguaje-argumentacion", "label": "Lenguaje y argumentación" }
+  ],
+  "eyebrow": "Teoría General del Derecho · Unidad 3",
+  "title": "El Derecho como lenguaje, discurso y argumentación.",
+  "lede": "El Derecho hecho de palabras: el lenguaje jurídico, el discurso y la argumentación como materia con la que se construye y se disputa lo jurídico.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "TGD", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Lenguaje, discurso y argumentación",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: lenguaje, discurso y argumentación.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

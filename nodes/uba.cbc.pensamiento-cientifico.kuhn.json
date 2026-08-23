@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.kuhn",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L3",
+  "metadata": { "author": "Thomas S. Kuhn", "title": "La estructura de las revoluciones científicas", "publisher": "Fondo de Cultura Económica", "place": "México", "year": 1962, "note": "orig. 1962; ed. FCE en español" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.kuhn", "label": "Kuhn · La estructura de las revoluciones científicas" }
+  ],
+  "eyebrow": "Pensamiento Científico · libro · el que cambió la pregunta",
+  "title": "Kuhn — La estructura de las revoluciones científicas.",
+  "lede": "El libro que introdujo la palabra paradigma y desplazó la mirada de la lógica a la historia. Sostiene que la ciencia no crece linealmente: alterna largos períodos de ciencia normal con rupturas revolucionarias donde un paradigma reemplaza a otro. El texto detrás de la unidad 4 y de buena parte de la filosofía de la ciencia posterior.",
+  "meta": [
+    { "k": "Autor", "v": "Kuhn" },
+    { "k": "Edición", "v": "FCE", "small": "orig. 1962" },
+    { "k": "Grounding", "v": "L3", "small": "libro" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "Thomas Kuhn (1922–1996), físico e historiador de la ciencia. «La estructura de las revoluciones científicas» (1962) es una de las obras más influyentes del siglo XX sobre el conocimiento: reemplaza la imagen acumulativa por un ciclo — ciencia normal bajo un paradigma, acumulación de anomalías, crisis, revolución, nuevo paradigma — e introduce la tesis de la inconmensurabilidad entre paradigmas rivales. En el IPC es el texto central de la unidad de revoluciones, y el contrapunto histórico frente a la reconstrucción lógica de Popper.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El libro, a esta resolución",
+      "title": "Qué cubre",
+      "note": "El fondo del pozo: aquí el mapa toca el terreno del texto asignado.",
+      "map": {
+        "mk": "El texto, comprimido",
+        "tree": "LA ESTRUCTURA DE LAS REVOLUCIONES CIENTÍFICAS\n│\n├─ Paradigma · el logro compartido que orienta una comunidad\n├─ Ciencia normal · resolver enigmas sin discutir el marco\n├─ Anomalía y crisis · cuando el marco deja de alcanzar\n├─ Revolución · el cambio de paradigma\n└─ Inconmensurabilidad · por qué no se comparan sin resto",
+        "foot": "Metadatos de la cátedra IPC. Texto central de la unidad 4 (revoluciones científicas)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "IPC · bibliografía CBC UBA", "url": "https://www.cbc.uba.ar/" }
+}

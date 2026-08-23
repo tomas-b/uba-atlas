@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.materia-atomos-moleculas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.materia-atomos-moleculas",
+      "label": "Materia, Átomos y Moléculas"
+    }
+  ],
+  "eyebrow": "Química · unidad · U2",
+  "title": "Qué es la materia y de qué está hecha.",
+  "lede": "Los conceptos fundacionales: sustancias y mezclas, propiedades, estados de agregación, y la teoría atómico-molecular — átomos, elementos, moléculas y compuestos.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "base",
+      "small": "materia"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Materia: sustancias puras y mezclas, propiedades físicas y químicas, cambios de estado. Teoría atómico-molecular: átomos, elementos, moléculas, compuestos, iones. Leyes gravimétricas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MATERIA, ÁTOMOS Y MOLÉCULAS (U2)\n│\n├─ Materia   · sustancias, mezclas, estados\n└─ Partículas · átomos, elementos, moléculas, iones",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.imperativo-python",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.intro-programacion", "label": "Introducción a la Programación" },
+    { "address": "uba.fcen.computacion.intro-programacion.imperativo-python", "label": "Programación imperativa (Python)" }
+  ],
+  "eyebrow": "Introducción a la Programación · bloque · B3",
+  "title": "El paradigma imperativo, en Python.",
+  "lede": "La segunda forma de programar: el paradigma imperativo. Con Python aparecen las variables, los procedimientos, la iteración y las referencias, y se implementan los primeros TADs — pilas, colas y arreglos.",
+  "meta": [
+    { "k": "Bloque", "v": "3", "small": "de 3" },
+    { "k": "Rol", "v": "paradigma", "small": "imperativo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Introducción al paradigma imperativo con Python. Variables. Procedimientos. Iteración. Referencias. Tipos de datos abstractos: pilas, colas y arreglos. La segunda parte de la materia: el estado y su evolución paso a paso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del bloque",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del bloque.",
+      "map": {
+        "mk": "El bloque, comprimido",
+        "tree": "IMPERATIVO · PYTHON (B3)\n│\n├─ Estado      · variables, referencias\n├─ Control     · procedimientos, iteración\n└─ TADs        · pilas, colas, arreglos",
+        "foot": "Temas de la cátedra (DC, plan 2023)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

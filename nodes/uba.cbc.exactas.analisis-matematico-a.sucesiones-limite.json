@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.sucesiones-limite",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.sucesiones-limite",
+      "label": "Sucesiones y Límite"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U2",
+  "title": "La primera idea de límite: sucesiones.",
+  "lede": "La noción central del análisis aparece acá por primera vez, en su forma más simple: el límite de una sucesión. Qué significa que una sucesión se acerque a un valor, subsucesiones, y los criterios para decidir si converge o diverge.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "límite"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El concepto de límite entra por las sucesiones (funciones de N en R). Convergencia y divergencia, noción de límite, subsucesiones, sucesiones monótonas y acotadas. Es el andamiaje conceptual sobre el que después se apoya el límite de funciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "SUCESIONES Y LÍMITE (U2)\n│\n├─ Sucesiones    · término general, monótonas, acotadas\n├─ Límite        · convergencia, divergencia\n└─ Subsucesiones",
+        "foot": "Temas de la cátedra de Análisis A. El límite, primero en su versión discreta."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

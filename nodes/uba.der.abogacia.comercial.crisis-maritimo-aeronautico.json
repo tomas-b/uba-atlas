@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.crisis-maritimo-aeronautico",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.crisis-maritimo-aeronautico", "label": "Crisis, navegación y agro" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 6",
+  "title": "La crisis de la empresa y los derechos de la navegación y el agro.",
+  "lede": "Los sistemas de prevención y resolución de la crisis empresaria: el concurso preventivo, la quiebra y los privilegios. El Derecho Marítimo o de la Navegación y el Derecho Aeronáutico en sus institutos principales. La empresa frente a los recursos naturales y el ambiente, y la empresa agraria.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Crisis empresaria, Derecho Marítimo, Aeronáutico y empresa agraria",
+      "note": "Los sistemas de prevención y resolución de la crisis económica y financiera en la empresa: nociones sobre el APE, el concurso preventivo (apertura, efectos, propuesta y votación del acuerdo) y la quiebra (efectos respecto del fallido, los acreedores y los bienes, conclusión, liquidación y distribución, privilegios). El Derecho Marítimo o de la Navegación: concepto, autonomía, instituciones, buques y artefactos navales, documentación, el armador, el capitán, el personal del buque, los prácticos, los agentes marítimos, los contratos de navegación por agua y la avería gruesa. El Derecho Aeronáutico: concepto, principios, principales institutos, las aeronaves, la responsabilidad por el transporte y el abordaje aéreo. La empresa, los recursos naturales y el ambiente; la empresa agraria, los principales contratos agrarios y la responsabilidad agropecuaria ambiental empresaria.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

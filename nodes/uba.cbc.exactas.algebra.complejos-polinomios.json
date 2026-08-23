@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.complejos-polinomios",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.complejos-polinomios",
+      "label": "Números Complejos y Polinomios"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U6",
+  "title": "Complejos, polinomios y sus raíces.",
+  "lede": "Un capítulo con vida propia. Los números complejos y sus operaciones, y los polinomios: raíces, teorema del resto, el teorema fundamental del álgebra y la interpolación de Lagrange.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "complejos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Números complejos: forma binómica, polar y exponencial, operaciones, raíces. Polinomios: operaciones, división, teorema del resto y del factor. Raíces y multiplicidad. Teorema fundamental del álgebra. Polinomio interpolador de Lagrange.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "COMPLEJOS Y POLINOMIOS (U6)\n│\n├─ Complejos  · binómica/polar, operaciones, raíces\n├─ Polinomios · división, teorema del resto, raíces\n└─ Teoremas   · fundamental del álgebra, Lagrange",
+        "foot": "Temas de la cátedra de Álgebra. Complejos y polinomios como campo propio."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

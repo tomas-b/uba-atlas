@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.contemporanea.ontologica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.contemporanea", "label": "Filosofía Contemporánea" },
+    { "address": "uba.ffyl.filosofia.contemporanea.ontologica", "label": "La perspectiva ontológica" }
+  ],
+  "eyebrow": "Filosofía Contemporánea · unidad · II de III",
+  "title": "No la estructura del lenguaje: su ser.",
+  "lede": "El eje se desplaza de la semántica a la ontología: la pregunta ya no es cómo significa el lenguaje sino qué es el ser del lenguaje. El lenguaje mesiánico de Benjamin, la radicalización hermenéutica de la fenomenología en el Ser y tiempo de Heidegger, y las derivaciones en las filosofías de la conciencia de Sartre y Merleau-Ponty.",
+  "meta": [
+    { "k": "Unidad", "v": "II", "small": "de III" },
+    { "k": "Figuras", "v": "Heidegger", "small": "Benjamin · Sartre" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Lenguaje, mesianismo y redención: Benjamin en diálogo. Radicalización y reorientación hermenéutica de la perspectiva husserliana: lenguaje y ontología en Heidegger; el análisis existenciario y su diferenciación con el enfoque semántico proposicionalista (Ser y tiempo). El trasunto trascendental: profundización y reorientación de la fenomenología en Sartre y Merleau-Ponty; el lenguaje en sus respectivas filosofías de la conciencia; diferencias y semejanzas. Fuentes: Benjamin ('Sobre el lenguaje en general…'), Heidegger (Ser y tiempo, selección), Sartre y Merleau-Ponty (Signos).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad II.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA PERSPECTIVA ONTOLÓGICA (Unidad II)\n│\n├─ Benjamin        lenguaje, mesianismo y redención\n├─ Heidegger       la hermenéutica · el ser del lenguaje (Ser y tiempo)\n└─ Sartre · Merleau-Ponty   el lenguaje en la filosofía de la conciencia",
+        "foot": "Temas del programa 2020. Eje: hermenéutica, crítica y fenomenología."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Filosofía Contemporánea (Cabanchik) · Unidad II", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" }
+}

@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.derecho-privado.buena-fe",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 5,
+    "de": 10,
+    "materia": "Principios Generales del Derecho Privado"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado",
+      "label": "Principios Generales del Derecho Privado"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado.buena-fe",
+      "label": "Buena fe, abuso y orden público"
+    }
+  ],
+  "eyebrow": "Principios Generales del Derecho Privado · unidad · contenido 5",
+  "title": "Los límites al ejercicio de los derechos.",
+  "lede": "El principio de buena fe, el abuso del derecho, el orden público y el fraude a la ley.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "5",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El principio de buena fe. El abuso del derecho. El abuso de posición dominante. El orden público. El fraude a la ley. Renuncia a las leyes y a los derechos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

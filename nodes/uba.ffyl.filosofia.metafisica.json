@@ -1,0 +1,62 @@
+{
+  "address": "uba.ffyl.filosofia.metafisica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral · promoción directa", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "rota entre Cátedra Pérez (analítica) y Cátedra Cragnolini (continental) · código 0215-12008", "unidades": 7, "bibliografia": 8, "rota": "sí — dos cátedras de scope distinto" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.metafisica", "label": "Metafísica / Ontología" }
+  ],
+  "eyebrow": "Filosofía · sistemática · Metafísica",
+  "title": "¿Qué es ser? ¿Qué hay?",
+  "lede": "El estudio de lo que hay y de sus modos de ser. La materia rota entre dos cátedras de enfoque muy distinto: una analítica (Pérez) que recorre el catálogo estable de problemas — existencia, universales, causalidad, mente-cuerpo, conciencia, libertad — y una continental (Cragnolini) que lee la historia de la metafísica por el problema del no-ser, la nada y 'el resto'. El esqueleto trazado aquí es el catálogo analítico de problemas, el más cercano a un contenido mínimo estable.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "prom. directa" },
+    { "k": "Unidades", "v": "7", "small": "cátedra Pérez" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Cátedras", "v": "2", "small": "rota" }
+  ],
+  "frame": "Contenido real del programa Nº 0215-12008. Metafísica rota entre dos cátedras: (a) Cátedra Pérez (Diana I. Pérez, programa 2021, repositorio FILO:Digital) — metafísica analítica y filosofía de la mente, el catálogo estable de problemas que se instancia como unidades aquí; (b) Cátedra Cragnolini (Mónica B. Cragnolini) — lectura continental de la historia de la metafísica por el problema de la nada / 'totalidad y resto' (Kant, Schopenhauer, Nietzsche, Rosenzweig, Heidegger, Derrida, Cacciari, Agamben). CAVEAT: no existe un 'contenido mínimo' normativo separado; el scope estable se infiere del catálogo de problemas recurrente de la cátedra Pérez. Cualquier cursada concreta depende de qué cátedra dicta ese cuatrimestre.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades (Cátedra Pérez)",
+      "title": "El catálogo de problemas de la metafísica",
+      "note": "Cada unidad del programa Pérez 2021 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa Pérez, en siete unidades",
+        "tree": "METAFÍSICA — el catálogo de problemas\n│\n├─ 1 · Qué es la metafísica · Mente, Mundo, Dios\n├─ 2 · Existencia y realidad · realismo/antirrealismo\n├─ 3 · Particulares y universales · sustancias, tropos\n├─ 4 · Los 'cementos del universo' · causalidad, superveniencia\n├─ 5 · El problema mente-cuerpo · dualismo, fisicalismo\n├─ 6 · El problema de la conciencia · zombis, qualia\n└─ 7 · Acciones, razones y causas · libertad y determinismo",
+        "foot": "Temas del programa Pérez 2021. La otra cátedra (Cragnolini) recorre en cambio la nada y 'el resto' en la historia de la metafísica."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.metafisica.que-es", "name": "Qué es la metafísica", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.existencia-realismo", "name": "Existencia, realidad y realismo", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.particulares-universales", "name": "Particulares y universales", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.causalidad", "name": "Los 'cementos del universo'", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.mente-cuerpo", "name": "El problema mente-cuerpo", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.conciencia", "name": "El problema de la conciencia", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.metafisica.accion-libertad", "name": "Acciones, razones y causas", "role": "Unidad 7", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria (Cátedra Pérez)",
+      "title": "Las fuentes",
+      "note": "Títulos reales del programa Pérez. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.metafisica.libro-aristoteles", "name": "Metafísica (Libro IV) — Aristóteles", "role": "Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-quine", "name": "Acerca de lo que hay — W.V.O. Quine (en Desde un punto de vista lógico, Ariel)", "role": "Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-carnap", "name": "Empirismo, semántica y ontología — R. Carnap (Alianza, 1971)", "role": "Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-putnam", "name": "Las mil caras del realismo — H. Putnam (Paidós, 1994)", "role": "Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-strawson", "name": "Individuos — P.F. Strawson (Taurus, 1989)", "role": "Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-armstrong", "name": "Los universales y el realismo científico — D. Armstrong (UNAM, 1989)", "role": "Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-chalmers", "name": "La mente consciente — D. Chalmers (Gedisa, 1999)", "role": "Unidades 5–6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.metafisica.libro-davidson", "name": "Subjetivo, intersubjetivo, objetivo — D. Davidson (Cátedra, 2003)", "role": "Unidad 7", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Programa de Metafísica (Cátedra Pérez, 2021)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15162" }
+}

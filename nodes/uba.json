@@ -1,0 +1,153 @@
+{
+  "address": "uba",
+  "level": "institución",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    }
+  ],
+  "eyebrow": "Universidad de Buenos Aires · plano general",
+  "title": "La casa de altos estudios, en planta.",
+  "lede": "No es la historia de la universidad — es su <b>arquitectura</b>. Un umbral compartido, trece facultades, cada carrera una sala. Abrí una facultad para ver sus salas; cada sala es una puerta a su propio plano, trazado sobre el <b>plan de estudios</b> real.",
+  "meta": [
+    {
+      "k": "Facultades",
+      "v": "13"
+    },
+    {
+      "k": "Carreras",
+      "v": "~90",
+      "small": "de grado"
+    },
+    {
+      "k": "Umbral común",
+      "v": "CBC",
+      "small": "· 1 año"
+    },
+    {
+      "k": "Nivel",
+      "v": "institución"
+    }
+  ],
+  "frame": "Pensala como un edificio: una sola puerta de entrada (el CBC, el bootstrap que todos corren primero), trece pabellones, y adentro de cada uno las carreras como salas. La dirección — qué se cursa antes de qué — es el valor; la arquitectura es lo que estás mirando.",
+  "groups": [
+    {
+      "kind": "gate",
+      "eyebrow": "Umbral",
+      "title": "CBC — Ciclo Básico Común",
+      "note": "La única puerta por la que todos entran: seis materias cuatrimestrales antes de pisar una facultad. ~1 año, hasta 3 para terminarlo, se puede cursar a distancia.",
+      "exits": [
+        {
+          "address": "uba.cbc",
+          "name": "Entrar al Ciclo Básico Común",
+          "role": "el bootstrap compartido · 6 materias · 3 áreas",
+          "tag": "umbral",
+          "kind": "cbc"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Facultades · 13 pabellones",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.med",
+          "name": "Medicina",
+          "role": "bio · salud",
+          "tag": "8 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.der",
+          "name": "Derecho",
+          "role": "sociales · humanas",
+          "tag": "3 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fce",
+          "name": "Ciencias Económicas",
+          "role": "sociales · humanas",
+          "tag": "5 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fcen",
+          "name": "Ciencias Exactas y Naturales",
+          "role": "exactas · tecno",
+          "tag": "12 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fi",
+          "name": "Ingeniería",
+          "role": "exactas · tecno",
+          "tag": "13 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fsoc",
+          "name": "Ciencias Sociales",
+          "role": "sociales · humanas",
+          "tag": "5 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.ffyl",
+          "name": "Filosofía y Letras",
+          "role": "sociales · humanas",
+          "tag": "9 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.psi",
+          "name": "Psicología",
+          "role": "sociales · humanas",
+          "tag": "3 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fadu",
+          "name": "Arquitectura, Diseño y Urbanismo",
+          "role": "exactas · diseño",
+          "tag": "7 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.ffyb",
+          "name": "Farmacia y Bioquímica",
+          "role": "bio · salud",
+          "tag": "4 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fagr",
+          "name": "Agronomía",
+          "role": "bio · salud",
+          "tag": "6 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.fvet",
+          "name": "Ciencias Veterinarias",
+          "role": "bio · salud",
+          "tag": "3 carreras",
+          "kind": "faculty"
+        },
+        {
+          "address": "uba.odo",
+          "name": "Odontología",
+          "role": "bio · salud",
+          "tag": "1 carrera",
+          "kind": "faculty"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "uba.ar/facultades · cbc.uba.ar",
+    "url": "https://www.uba.ar/facultades"
+  }
+}

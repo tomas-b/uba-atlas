@@ -1,0 +1,53 @@
+{
+  "address": "uba.der.abogacia.analisis-economico",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.analisis-economico", "label": "Análisis Económico y Financiero" }
+  ],
+  "eyebrow": "Elementos de Análisis Económico y Financiero · CPC · Abogacía",
+  "title": "El instrumental macroeconómico, leído desde el derecho.",
+  "lede": "El instrumental para estudiar la economía argentina y sus grandes variables — crecimiento, inflación, desempleo, moneda, tasas de interés — puesto al servicio de la comprensión de las normas jurídicas que las regulan. Materia cuatrimestral del CPC. Sus contenidos mínimos se ordenan en tres unidades: las variables macroeconómicas y el modelo clásico; el dinero, el sector público y la experiencia argentina; y el puente entre esas variables y el material jurídico.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "3", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de la cátedra del Prof. Eduardo Stordeur (h).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 3 unidades",
+      "title": "De las variables macro al análisis de la norma",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en tres unidades",
+        "tree": "ELEMENTOS DE ANÁLISIS ECONÓMICO Y FINANCIERO\n│\n├─ Unidad 1 · Variables macroeconómicas y modelo clásico\n├─ Unidad 2 · Dinero, sector público y experiencia argentina\n└─ Unidad 3 · Las variables macro y las normas jurídicas",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Stordeur."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.analisis-economico.variables-macro", "name": "Variables macroeconómicas y modelo clásico", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.analisis-economico.dinero-sector-publico", "name": "Dinero, sector público y experiencia argentina", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.analisis-economico.variables-derecho", "name": "Las variables macro y las normas jurídicas", "role": "Unidad 3", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía obligatoria de las primeras unidades del programa de la cátedra del Prof. Eduardo Stordeur (h). Fuente: programa de cátedra (2024).",
+      "exits": [
+        { "address": "uba.der.abogacia.analisis-economico.mankiw-principios", "name": "N. Gregory Mankiw — Principios de Economía", "role": "6ª ed. · 2012", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.analisis-economico.stordeur-aed", "name": "Eduardo Stordeur (h) — Análisis económico del derecho", "role": "texto de cátedra", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.analisis-economico.read-yo-el-lapiz", "name": "Leonard Read — Yo, el lápiz", "role": "obligatoria", "tag": "texto", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.estado-burocratico",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4, "período": "1955–1976" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.estado-burocratico", "label": "Inestabilidad y Estado burocrático-autoritario (1955–1976)" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · 1955–1976",
+  "title": "Un país que no encuentra su orden.",
+  "lede": "Dos décadas de inestabilidad política. Tras la caída del peronismo: el empate hegemónico, la proscripción, el desarrollismo y la alternancia entre gobiernos débiles y golpes militares. La categoría de O'Donnell — el Estado burocrático-autoritario — para pensar el régimen de 1966, y el ciclo que desemboca en el retorno del peronismo y su crisis.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Período", "v": "1955–1976" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El período de la inestabilidad, entre la caída del peronismo (1955) y el golpe de 1976. La proscripción del peronismo genera un empate hegemónico: ningún actor logra imponer un orden duradero. El desarrollismo intenta modernizar la economía con capital transnacional; los gobiernos civiles (Frondizi, Illia) son tutelados por las Fuerzas Armadas, que finalmente asumen el poder. La categoría central es el Estado burocrático-autoritario de Guillermo O'Donnell, que interpreta el régimen abierto en 1966: tecnocracia, exclusión política y represión. La radicalización social y política y el retorno del peronismo cierran la etapa. Conceptos: empate hegemónico, proscripción, desarrollismo, tutela militar, Estado burocrático-autoritario.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INESTABILIDAD Y ESTADO BUROCRÁTICO-AUTORITARIO (1955–1976)\n│\n├─ Empate hegemónico · proscripción del peronismo\n├─ Desarrollismo · capital transnacional, modernización\n├─ Gobiernos tutelados · Frondizi, Illia; la tutela militar\n├─ Estado burocrático-autoritario (O'Donnell) · el régimen de 1966\n└─ Radicalización y retorno del peronismo · hacia 1976",
+        "foot": "Temas de la cátedra (ICSE). La categoría de O'Donnell es la herramienta teórica que ordena el período."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

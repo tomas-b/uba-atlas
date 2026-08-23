@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.psicologia.conducta",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 2,
+    "de": 5,
+    "materia": "Psicología"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.psicologia",
+      "label": "Psicología"
+    },
+    {
+      "address": "uba.cbc.sociales.psicologia.conducta",
+      "label": "Estudio de la conducta humana"
+    }
+  ],
+  "eyebrow": "Psicología · unidad · contenido 2",
+  "title": "El conductismo.",
+  "lede": "La conducta como unidad de análisis y el método objetivo: la escuela conductista, radical y mediacionista.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "2",
+      "small": "de 5"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Estudio de la conducta humana: Ruptura con la psicología subjetiva. La psicología «científica». La conducta como unidad de análisis y el método objetivo: observación, medición, reproductividad y predictividad. Conductismo radical y conductismo mediacionista. Los niveles de integración de la conducta.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

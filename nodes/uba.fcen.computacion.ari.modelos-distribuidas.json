@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.ari.modelos-distribuidas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" },
+    { "address": "uba.fcen.computacion.ari.modelos-distribuidas", "label": "Modelos alternativos y bases distribuidas y paralelas" }
+  ],
+  "eyebrow": "ARI · unidad · Unidad 4",
+  "title": "Más allá del relacional: modelos nuevos y bases a escala.",
+  "lede": "Cuando el modelo relacional no alcanza. Sus limitaciones y los modelos alternativos de bases de datos, y las bases de datos distribuidas y paralelas que escalan el almacenamiento a muchas máquinas.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Rol", "v": "escala", "small": "distribuir" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Limitaciones del modelo relacional y modelos alternativos de bases de datos. Bases de datos distribuidas y paralelas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Temas del plan reagrupados en la Unidad 4.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MODELOS ALTERNATIVOS Y BASES DISTRIBUIDAS (Unidad 4)\n│\n├─ Limitaciones del modelo relacional · modelos alternativos\n└─ Bases de datos distribuidas y paralelas",
+        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

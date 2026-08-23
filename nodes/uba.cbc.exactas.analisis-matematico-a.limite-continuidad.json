@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.limite-continuidad",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.limite-continuidad",
+      "label": "Límite y Continuidad"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U3",
+  "title": "El límite de funciones, y funciones sin cortes.",
+  "lede": "El límite pasa de las sucesiones a las funciones. Qué es el límite de una función en un punto y en el infinito, y la idea de continuidad: funciones que no se rompen. Los teoremas de las funciones continuas cierran la unidad.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "3",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "límite"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Límite de funciones: en un punto, laterales, en el infinito, límites infinitos, álgebra de límites e indeterminaciones. Continuidad en un punto y en un intervalo, discontinuidades. Los teoremas fuertes sobre continuas en intervalos cerrados: Bolzano y Weierstrass.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LÍMITE Y CONTINUIDAD (U3)\n│\n├─ Límite de funciones · en un punto, en el infinito, indeterminaciones\n└─ Continuidad         · en un punto y en intervalos · Bolzano, Weierstrass",
+        "foot": "Temas de la cátedra de Análisis A. El límite ya en funciones — la puerta a la derivada."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

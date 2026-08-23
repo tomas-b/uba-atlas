@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.autovalores-autovectores",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.autovalores-autovectores",
+      "label": "Autovalores y Autovectores"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U7",
+  "title": "Las direcciones propias: diagonalizar.",
+  "lede": "El cierre y una de las ideas más potentes. Los autovalores y autovectores de una transformación — las direcciones que solo se estiran —, el polinomio característico, y la diagonalización, que simplifica una matriz al máximo.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "cierre",
+      "small": "diagonalizar"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Autovalores y autovectores. Polinomio característico. Subespacios propios (invariantes) y multiplicidades. Diagonalización de una matriz: condiciones y procedimiento. Aplicaciones. El punto de llegada del curso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "AUTOVALORES Y AUTOVECTORES (U7)\n│\n├─ Propios         · autovalores, autovectores\n├─ Característico   · polinomio característico, multiplicidades\n└─ Diagonalización · condiciones, procedimiento, aplicaciones",
+        "foot": "Temas de la cátedra de Álgebra. La diagonalización, cierre de la materia."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

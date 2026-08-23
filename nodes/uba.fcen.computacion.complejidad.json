@@ -1,0 +1,61 @@
+{
+  "address": "uba.fcen.computacion.complejidad",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cuatrimestre": "1º",
+    "catedra": "Complejidad Computacional (DC-FCEN)",
+    "cargaHoraria": "5 hs semanales · 50% teórica / 50% práctica",
+    "unidades": 6,
+    "bibliography": 1
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.complejidad", "label": "Complejidad Computacional" }
+  ],
+  "eyebrow": "Complejidad Computacional · Año 3 · 1º cuat.",
+  "title": "Qué se puede computar rápido — y por qué muchas cosas no.",
+  "lede": "La teoría de qué problemas son tratables. De la máquina de Turing y las clases P y NP a la NP-completitud (Cook-Levin), las jerarquías de tiempo y espacio (PSPACE, Savitch, L y NL), la jerarquía polinomial con máquinas oráculo y los circuitos booleanos. Correlativa de Lenguajes Formales, Autómatas y Computabilidad — retoma el problema de decidir, ahora midiendo el costo.",
+  "meta": [
+    { "k": "Año", "v": "3", "small": "1º cuat." },
+    { "k": "Unidades", "v": "6", "small": "temario" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 1" },
+    { "k": "Carga", "v": "5 hs", "small": "50/50 T/P" }
+  ],
+  "frame": "Materia nueva del Plan 2023 (primeras cursadas ~2024/2025). La fuente oficial (computacion.dc.uba.ar) publica solo los contenidos mínimos: «equivalencia entre lenguaje y problema de decisión; reducción de lenguajes; problemas tratables e intratables; clases de complejidad». El temario detallado y la bibliografía provienen de la transcripción pública de Cuba-Wiki (cursada 1c2025), organizada en torno a dos parciales; acá se reordena en seis unidades temáticas fieles a esa lista. El detalle vivo se publica por el campus (login).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · el temario",
+      "title": "El recorrido de la complejidad",
+      "note": "Seis unidades temáticas, fieles al temario de la cursada.",
+      "map": {
+        "mk": "El temario, en seis unidades",
+        "tree": "COMPLEJIDAD COMPUTACIONAL\n│\n├─ 1 · Máquinas de Turing, P y NP\n├─ 2 · NP-completitud y reducciones (Cook-Levin)\n├─ 3 · coNP, EXPTIME y jerarquías de tiempo (Ladner)\n├─ 4 · Complejidad de espacio (PSPACE, Savitch, L y NL)\n├─ 5 · Jerarquía polinomial y máquinas con oráculo\n└─ 6 · Circuitos booleanos (P/poly, NC, AC)",
+        "foot": "Temario según la transcripción de Cuba-Wiki (cursada 1c2025). El oficial publica solo los contenidos mínimos."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.complejidad.turing-p-np", "name": "Máquinas de Turing, P y NP", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.complejidad.np-completitud", "name": "NP-completitud y reducciones", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.complejidad.jerarquias-tiempo", "name": "coNP, EXPTIME y jerarquías de tiempo", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.complejidad.complejidad-espacio", "name": "Complejidad de espacio", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.complejidad.jerarquia-polinomial", "name": "Jerarquía polinomial y máquinas con oráculo", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.complejidad.circuitos-booleanos", "name": "Circuitos booleanos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "index",
+      "eyebrow": "Bibliografía · la referencia",
+      "title": "La lectura de base",
+      "note": "Único libro citado en la transcripción. Su contenido es un índice L3 aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.complejidad.arora-barak", "name": "Computational Complexity: A Modern Approach — Arora & Barak (Cambridge UP, 2009)", "role": "libro", "tag": "biblio", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 (contenidos mínimos) · cubawiki.com.ar (temario 1c2025)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

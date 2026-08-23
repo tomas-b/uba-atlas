@@ -1,0 +1,68 @@
+{
+  "address": "uba.der.abogacia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": { "plan": "2004 · Texto Ordenado 2023 (Res. CS 818/23)", "titulo": "Abogado/a · Bachiller Universitario en Derecho (CPC)", "ciclos": 2, "materiasCPC": 14, "orientacionesCPO": 7, "correlativas": true },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" }
+  ],
+  "eyebrow": "Abogacía · Facultad de Derecho · Plan 2004 (T.O. 2023)",
+  "title": "Un tronco común de catorce, y después la orientación.",
+  "lede": "El plan real de Abogacía se recorre en dos tiempos. Primero el Ciclo Profesional Común: catorce materias que todo abogado atraviesa —de la Teoría General del Derecho al análisis económico— y que al completarse dan el título de Bachiller Universitario en Derecho. Después el Ciclo Profesional Orientado, siete orientaciones donde se elige la especialidad por sistema de puntos. Cada materia del CPC es una puerta: clic para trazar sus contenidos mínimos oficiales por unidades.",
+  "meta": [
+    { "k": "Plan", "v": "2004", "small": "T.O. 2023" },
+    { "k": "CPC", "v": "14", "small": "materias comunes" },
+    { "k": "CPO", "v": "7", "small": "orientaciones" },
+    { "k": "Grounding", "v": "L1", "small": "plan oficial" }
+  ],
+  "frame": "Estructura sourceada del plan oficial (Texto Ordenado 2023, Res. CS 818/23, EXP-UBA 45.501/2018). El CPC —catorce materias obligatorias— está desarrollado a nivel L2: cada materia lleva sus contenidos mínimos oficiales convertidos en unidades reales; la bibliografía específica vive en cada programa de cátedra y queda pendiente de extracción. El CPO se representa solo como estructura: sus siete orientaciones son nodos a-indexar. Los cientos de cursos electivos del CPO (principales, derivados, optativos de oferta variable, por sistema de puntos) NO se enumeran ni se fabrican —exceden este alcance y cambian por cuatrimestre.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Profesional Común · 14 materias",
+      "title": "El tronco que atraviesa todo abogado",
+      "note": "Doce cuatrimestrales y dos anuales (Contratos, y Penal y Procesal Penal). Al completarse: Bachiller Universitario en Derecho. Cada puerta abre a los contenidos mínimos oficiales por unidad.",
+      "map": {
+        "mk": "El CPC, en catorce puertas",
+        "tree": "CPC — Ciclo Profesional Común\n│\n├─ Teoría General del Derecho\n├─ Teoría del Estado\n├─ Derechos Humanos y Garantías\n├─ Elementos de Derecho Constitucional\n├─ Elementos de Derecho Civil (Parte General)\n├─ Obligaciones Civiles y Comerciales\n├─ Elementos de Derecho Comercial\n├─ Contratos Civiles y Comerciales · anual\n├─ Elementos de Derecho Procesal Civil y Comercial\n├─ Elementos de Derecho Penal y de Procesal Penal · anual\n├─ Elementos de Derechos Reales\n├─ Elementos de Derecho Administrativo\n├─ Elementos de Derecho del Trabajo y de la Seguridad Social\n└─ Elementos de Análisis Económico y Financiero",
+        "foot": "Los catorce, del Texto Ordenado 2023. El orden real no es por año fijo sino por correlatividades y puntos."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.teoria-general-derecho", "name": "Teoría General del Derecho", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.teoria-estado", "name": "Teoría del Estado", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.ddhh-garantias", "name": "Derechos Humanos y Garantías", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.constitucional", "name": "Elementos de Derecho Constitucional", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.civil-parte-general", "name": "Elementos de Derecho Civil (Parte General)", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.obligaciones", "name": "Obligaciones Civiles y Comerciales", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.comercial", "name": "Elementos de Derecho Comercial", "role": "cuatrimestral · 81 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.contratos", "name": "Contratos Civiles y Comerciales", "role": "anual · 108 h", "tag": "CPC · anual", "kind": "course" },
+        { "address": "uba.der.abogacia.procesal-civil", "name": "Elementos de Derecho Procesal Civil y Comercial", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.penal", "name": "Elementos de Derecho Penal y de Procesal Penal", "role": "anual · 108 h", "tag": "CPC · anual", "kind": "course" },
+        { "address": "uba.der.abogacia.reales", "name": "Elementos de Derechos Reales", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.administrativo", "name": "Elementos de Derecho Administrativo", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.trabajo", "name": "Elementos de Derecho del Trabajo y de la Seguridad Social", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
+        { "address": "uba.der.abogacia.analisis-economico", "name": "Elementos de Análisis Económico y Financiero", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Ciclo Profesional Orientado · 7 orientaciones",
+      "title": "La especialidad, por sistema de puntos",
+      "note": "El CPO capacita para la práctica en una orientación elegida (20 puntos de cursos principales y derivados, más obligatorias comunes y puntos de libre elección; 69 puntos en total). Aquí solo se indexa la estructura: cada orientación es un nodo a-indexar. Los cursos electivos concretos NO se enumeran.",
+      "exits": [
+        { "address": "uba.der.abogacia.cpo-publico-administrativo", "name": "Derecho Público · Suborientación Derecho Administrativo", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-publico-internacional", "name": "Derecho Público · Suborientación Derecho Internacional Público", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-privado", "name": "Derecho Privado", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-penal", "name": "Derecho Penal", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-empresarial", "name": "Derecho Empresarial", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-trabajo", "name": "Derecho del Trabajo y la Seguridad Social", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-tributario", "name": "Derecho Tributario", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-notarial", "name": "Derecho Notarial, Registral e Inmobiliario", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía (Texto Ordenado 2023, Res. CS 818/23)", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

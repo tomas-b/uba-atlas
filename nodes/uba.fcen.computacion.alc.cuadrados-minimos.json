@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.alc.cuadrados-minimos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "capitulo": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.alc", "label": "Álgebra Lineal Computacional" },
+    { "address": "uba.fcen.computacion.alc.cuadrados-minimos", "label": "Formas bilineales y cuadrados mínimos" }
+  ],
+  "eyebrow": "ALC · unidad · Cap. VI",
+  "title": "Ajustar lo que no tiene solución exacta: cuadrados mínimos.",
+  "lede": "El cierre. Formas bilineales y productos internos, ortogonalidad, y el problema de cuadrados mínimos — cómo ajustar cuando el sistema no tiene solución exacta. Con eso, aproximación e interpolación de funciones.",
+  "meta": [
+    { "k": "Cap.", "v": "VI", "small": "de 6" },
+    { "k": "Rol", "v": "ajuste", "small": "aplicar" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El capítulo de aplicación. Formas bilineales y su representación matricial. Productos internos y vectores ortogonales. Problemas de cuadrados mínimos. Aproximación e interpolación; interpolación funcional. Aplicaciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del capítulo",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del Capítulo VI.",
+      "map": {
+        "mk": "El capítulo, comprimido",
+        "tree": "FORMAS BILINEALES Y CUADRADOS MÍNIMOS (Cap. VI)\n│\n├─ Formas bilineales · representación matricial\n├─ Productos internos · vectores ortogonales\n├─ Problemas de cuadrados mínimos\n└─ Aproximación e interpolación · interpolación funcional",
+        "foot": "Temas del Cap. VI del programa de la cátedra (cms.dm.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cms.dm.uba.ar · programa ALC · Capítulo VI", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+}

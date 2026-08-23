@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.trabajo.seguridad-internacional-problemas",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" },
+    { "address": "uba.der.abogacia.trabajo.seguridad-internacional-problemas", "label": "Seg. social internacional y problemas" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · Unidad 6",
+  "title": "La seguridad social ante lo internacional y su sustentabilidad.",
+  "lede": "El derecho internacional y la seguridad social —articulados con el derecho internacional de los derechos humanos— y su interpretación y aplicación en el derecho interno. La unidad aborda los problemas actuales de la seguridad social: financiamiento y sustentabilidad de los sistemas, gestión pública y gestión privada, y cambios demográficos.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Trabajo y Seg. Social", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Dimensión internacional y problemas actuales",
+      "note": "Derecho Internacional y Seguridad Social: Derecho Internacional de los Derechos Humanos; interpretación y aplicación en el derecho interno. Problemas actuales de la seguridad social: financiamiento y sustentabilidad de los sistemas, gestión pública y gestión privada, cambios demográficos y seguridad social.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

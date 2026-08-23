@@ -1,0 +1,53 @@
+{
+  "address": "uba.fcen.computacion.lfayc",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "5 h semanales (50% teór · 50% práct)",
+    "cuatrimestre": "2º · año 2",
+    "unidades": 7,
+    "bibliography": []
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" }
+  ],
+  "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · Lic. Computación · año 2",
+  "title": "Qué se puede computar, y qué no.",
+  "lede": "Lenguajes Formales, Autómatas y Computabilidad sube la escalera de la jerarquía de Chomsky: de los lenguajes regulares y sus autómatas finitos a los libres de contexto y sus autómatas de pila, hasta las máquinas de Turing. Ahí la pregunta cambia — de reconocer lenguajes a decidir qué es computable: la tesis de Church, el intérprete universal, el problema de la detención, la diagonalización y los teoremas de la Recursión y de Rice.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "5 h · año 2" },
+    { "k": "Unidades", "v": "7", "small": "regular → indecidible" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio pend." },
+    { "k": "Meta", "v": "Chomsky", "small": "→ computabilidad" }
+  ],
+  "frame": "El temario está cruzado entre la descripción oficial del Plan 2023 (computacion.dc.uba.ar), el listado de temas de la página oficial de la cátedra (Campus Exactas) y una transcripción pública del programa (cubawiki) — las tres coinciden, y la terminología propia de la materia (lenguaje S++, intérprete universal, teoremas del Parámetro/Recursión/Rice) la vuelve reconocible. Las siete unidades agrupan, en orden, los trece temas del programa. La bibliografía de la cátedra vive en el campus con login y no pudo verificarse — queda pendiente para cerrar L2.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Programa · las 7 unidades",
+      "title": "De la jerarquía de Chomsky a la computabilidad",
+      "note": "Los trece temas del programa, agrupados en siete unidades en orden.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "LENGUAJES FORMALES, AUTÓMATAS Y COMPUTABILIDAD\n│\n├─ 1 · Lenguajes formales y jerarquía de Chomsky\n├─ 2 · Lenguajes regulares      · AFD/AFND, exp. regulares, bombeo\n├─ 3 · Libres de contexto       · autómatas de pila, bombeo LLC\n├─ 4 · Máquinas de Turing       · func. parcialmente computables, tesis de Church\n├─ 5 · S++ e intérprete univ.   · codificación de programas\n├─ 6 · Computabilidad           · detención, indecidibilidad, diagonalización, reducciones\n└─ 7 · Teoremas y lenguajes c.e.· Parámetro, Recursión, Rice",
+        "foot": "Programa de la cátedra (DC-FCEN), corroborado entre fuente oficial y transcripción pública. Bibliografía no verificada (login)."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.lfayc.lenguajes-jerarquia-chomsky", "name": "Lenguajes formales y jerarquía de Chomsky", "role": "unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.lenguajes-regulares", "name": "Lenguajes regulares", "role": "unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.lenguajes-libres-contexto", "name": "Lenguajes libres de contexto", "role": "unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.maquinas-turing", "name": "Máquinas de Turing y funciones computables", "role": "unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.codificacion-interprete-universal", "name": "Codificación e intérprete universal", "role": "unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.computabilidad-indecibilidad", "name": "Computabilidad e indecidibilidad", "role": "unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.teoremas-recursion-rice", "name": "Teoremas de la Recursión y de Rice", "role": "unidad 7", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.ciencias.empirismo-logico",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "de": 8, "materia": "Filosofía de las Ciencias" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.ciencias", "label": "Filosofía de las Ciencias" },
+    { "address": "uba.ffyl.filosofia.ciencias.empirismo-logico", "label": "El empirismo lógico" }
+  ],
+  "eyebrow": "Filosofía de las Ciencias · unidad · 2 de 8",
+  "title": "El significado como verificación.",
+  "lede": "El empirismo lógico y su programa reduccionista: el criterio verificacionista del significado, los enunciados protocolarios, fisicalismo y fenomenalismo, las definiciones explícitas y oraciones reductivas, el holismo semántico y el papel de la inducción.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 8" },
+    { "k": "Rol", "v": "programa", "small": "verificación" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El empirismo lógico. Programa reduccionista. Criterio verificacionista del significado. Enunciados protocolarios. Fisicalismo y fenomenalismo. Definiciones explícitas, oraciones reductivas y sistemas interpretativos. Holismo semántico. El papel de la inducción.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 2 del programa Gentile 2021.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Filosofía de las Ciencias (Gentile, 2021) · Unidad 2", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" }
+}

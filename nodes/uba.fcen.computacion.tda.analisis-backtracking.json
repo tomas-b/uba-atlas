@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.analisis-backtracking",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.analisis-backtracking", "label": "Análisis y Backtracking" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 1",
+  "title": "Explorar todas las soluciones posibles antes de saber cuánto cuesta hacerlo.",
+  "lede": "La unidad repasa la complejidad algorítmica y presenta la fuerza bruta y el backtracking como forma de recorrer el conjunto de soluciones válidas. Se apoya en los árboles de backtracking y en su implementación recursiva.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "exploración exhaustiva" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Recorrer sistemáticamente el conjunto de soluciones válidas mediante backtracking, apoyándose en árboles de exploración y recursión.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ANÁLISIS Y BACKTRACKING (bloque 1)\n│\n├─ Tema · repaso de complejidad algorítmica\n├─ Tema · fuerza bruta y backtracking sobre el conjunto de soluciones válidas\n├─ Tema · árboles de backtracking\n└─ Idea · implementación recursiva (suma de subconjuntos)",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.proyecto-final",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 9
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.proyecto-final",
+      "label": "Proyecto Final"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A9",
+  "title": "Integrar todo en un proyecto.",
+  "lede": "El cierre integrador: un proyecto donde se combinan las habilidades adquiridas para resolver un problema de punta a punta, del planteo al programa que funciona.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "9",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "cierre",
+      "small": "integrador"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Proyecto integrador (capstone): resolución completa de un problema propio, aplicando el proceso — conceptualizar la solución, expresarla como algoritmo, implementarla y probarla en Python.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "PROYECTO FINAL (Actividad 9)\n│\n├─ Objetivo · resolver un problema de punta a punta\n└─ Idea     · integración, proceso completo",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

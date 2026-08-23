@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.registros-auxiliares",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.registros-auxiliares", "label": "Registros y auxiliares" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 2",
+  "title": "La huella escrita del comercio y quienes lo asisten.",
+  "lede": "Los registros y la documentación mercantil: la contabilidad, la registración y las facultades nacionales y provinciales. La publicidad y registración mercantil en su concepto, características y funciones, y el Registro Público con su organización, funciones, facultades y normas reglamentarias. Los estatutos especiales y los auxiliares del comercio.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Contabilidad, registración, Registro Público y auxiliares del comercio",
+      "note": "Registros y documentación; la contabilidad y la registración; facultades nacionales y provinciales; publicidad y registración mercantil (concepto, características, funciones); el Registro Público (funciones, organización, facultades, normas reglamentarias). Estatutos especiales y los auxiliares del comercio: corredores, martilleros, barraqueros, factores, acarreadores y empresarios del transporte, agentes de bolsa, despachantes de aduana, productores asesores de seguros, el agente de comercio y otros.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

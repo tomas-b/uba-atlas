@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.biologia-celular.evolucion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5,
+    "de": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia-celular",
+      "label": "Biología e Introducción a la Biología Celular"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia-celular.evolucion",
+      "label": "Evolución"
+    }
+  ],
+  "eyebrow": "Biología e Introducción a la Biología Celular · unidad · Unidad temática 5",
+  "title": "Evolución",
+  "lede": "El cambio en el tiempo: la biología de las poblaciones.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 5"
+    },
+    {
+      "k": "Materia",
+      "v": "Biología",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Biología de las poblaciones; Teorías de la evolución · evidencias; Bases genéticas de la evolución.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EVOLUCIÓN\n│\n• Biología de las poblaciones\n• Teorías de la evolución · evidencias\n• Bases genéticas de la evolución",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Programa Analítico Biología e Introd. a la Biología Celular (Cát. Skerl)",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/04.-Programa-Analitico-de-Biologia-e-Introduccion-a-la-Biologia-Celular-CBC.pdf"
+  }
+}

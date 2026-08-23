@@ -1,0 +1,60 @@
+{
+  "address": "uba.der.abogacia.trabajo",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · CPC · Abogacía",
+  "title": "El trabajo humano bajo protección: del contrato individual a la seguridad social.",
+  "lede": "Elementos de Derecho del Trabajo y de la Seguridad Social recorre dos ramas emparentadas. Del lado laboral: la teoría general, la relación individual, las relaciones colectivas y el derecho internacional del trabajo con sus problemas actuales. Del lado previsional: la teoría general de la seguridad social, sus subsistemas y su dimensión internacional. Es materia cuatrimestral del Ciclo Profesional Común, organizada en seis unidades a partir de los contenidos mínimos oficiales.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de enseñanza de la cátedra del Prof. Fabián Gianibelli, del Departamento de Derecho del Trabajo y de la Seguridad Social.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "Del derecho del trabajo a la seguridad social",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "ELEMENTOS DE DERECHO DEL TRABAJO Y DE LA SEGURIDAD SOCIAL\n│\n├─ Unidad 1 · Teoría general del derecho del trabajo\n├─ Unidad 2 · Relación individual de trabajo\n├─ Unidad 3 · Relaciones colectivas del trabajo\n├─ Unidad 4 · Derecho internacional del trabajo y problemas actuales\n├─ Unidad 5 · Teoría general de la seguridad social\n└─ Unidad 6 · Seguridad social internacional y problemas actuales",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Gianibelli."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.trabajo.teoria-general-trabajo", "name": "Teoría general del derecho del trabajo", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.trabajo.relacion-individual", "name": "Relación individual de trabajo", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.trabajo.relaciones-colectivas", "name": "Relaciones colectivas del trabajo", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.trabajo.trabajo-internacional-problemas", "name": "Derecho internacional del trabajo y problemas actuales", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.trabajo.seguridad-social", "name": "Teoría general de la seguridad social", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.trabajo.seguridad-internacional-problemas", "name": "Seguridad social internacional y problemas actuales", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía del programa de la cátedra del Prof. Fabián Gianibelli (Departamento de Derecho del Trabajo y de la Seguridad Social, CPC). El texto indicado es el Manual de Ackerman y Maza; los demás integran la bibliografía complementaria. Fuente: programa de cátedra en derecho.uba.ar.",
+      "exits": [
+        { "address": "uba.der.abogacia.trabajo.ackerman-maza-manual", "name": "Ackerman y Maza (dirs.) — Manual de Elementos de Derecho del Trabajo y de la Seguridad Social", "role": "texto indicado · Rubinzal-Culzoni", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.goldin-curso", "name": "Adrián Goldin (dir.) — Curso de Derecho del Trabajo y la Seguridad Social", "role": "La Ley · 2ª ed. 2013", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.rodriguez-mancini-curso", "name": "Jorge Rodríguez Mancini — Curso de Derecho del Trabajo y de la Seguridad Social", "role": "Astrea", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.ackerman-tratado", "name": "Mario Ackerman (dir.) — Tratado de Derecho del Trabajo", "role": "Rubinzal-Culzoni", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.vazquez-vialard", "name": "Antonio Vázquez Vialard — Derecho del Trabajo y la Seguridad Social", "role": "Astrea · 10ª ed. 2008", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.etala-contrato", "name": "Carlos A. Etala — Contrato de Trabajo", "role": "Astrea", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.trabajo.fernandez-madrid-tratado", "name": "Juan C. Fernández Madrid — Tratado Práctico de Derecho del Trabajo", "role": "La Ley · 3ª ed.", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

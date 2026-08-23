@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.quimica.magnitudes-atomico-moleculares",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5,
+    "de": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica.magnitudes-atomico-moleculares",
+      "label": "Magnitudes atómicas y moleculares"
+    }
+  ],
+  "eyebrow": "Química · unidad · Unidad 5",
+  "title": "Magnitudes atómicas y moleculares",
+  "lede": "El puente entre el átomo y el laboratorio: el mol.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 11"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Masa atómica y molecular; Mol y masa molar; Constante de Avogadro.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MAGNITUDES ATÓMICAS Y MOLECULARES\n│\n• Masa atómica y molecular\n• Mol y masa molar\n• Constante de Avogadro",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

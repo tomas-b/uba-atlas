@@ -1,0 +1,116 @@
+{
+  "address": "uba.cbc.biosalud.fisica-biofisica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Física CBC (biofísica)",
+    "unidades": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.fisica-biofisica",
+      "label": "Física e Introducción a la Biofísica"
+    }
+  ],
+  "eyebrow": "Física e Introducción a la Biofísica · CBC · Bio·Salud",
+  "title": "La física leída desde el cuerpo vivo.",
+  "lede": "La Física del perfil biológico. No es la mecánica pura del área exacta: cada bloque de física se ancla en un sistema del organismo —la biomecánica, la circulación, la termodinámica del cuerpo, la bioelectricidad—. La física como herramienta para entender lo vivo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio pend."
+    },
+    {
+      "k": "Cursan",
+      "v": "núcleo",
+      "small": "carreras"
+    }
+  ],
+  "frame": "Contenido de los contenidos mínimos oficiales del CBC. Seis unidades que van de la mecánica a las señales, pero siempre con una lectura biofísica: el hombre como estructura mecánica, el aparato circulatorio como sistema de fluidos, el organismo como sistema termodinámico. Es la variante que cursan todas las carreras de la orientación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa, en 6 unidades",
+        "tree": "FÍSICA E INTRODUCCIÓN A LA BIOFÍSICA\n│\n├─ Unidad 1 · Introducción a la Biomecánica\n├─ Unidad 2 · Bases físicas de la Circulación y la Respiración\n├─ Unidad 3 · La Termodinámica de los Seres Vivos\n├─ Unidad 4 · Las Bases Fisicoquímicas de la Vida\n├─ Unidad 5 · Bases Físicas de los Fenómenos Bioeléctricos\n└─ Unidad 6 · Introducción al manejo de señales en los seres vivos",
+        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.biomecanica",
+          "name": "Introducción a la Biomecánica",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.circulacion-respiracion",
+          "name": "Bases físicas de la Circulación y la Respiración",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.termodinamica",
+          "name": "La Termodinámica de los Seres Vivos",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.fisicoquimica",
+          "name": "Las Bases Fisicoquímicas de la Vida",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.bioelectricidad",
+          "name": "Bases Físicas de los Fenómenos Bioeléctricos",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica.senales",
+          "name": "Introducción al manejo de señales en los seres vivos",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

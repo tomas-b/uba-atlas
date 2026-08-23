@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.enlaces-compuestos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.enlaces-compuestos",
+      "label": "Enlaces, Compuestos e Interacciones"
+    }
+  ],
+  "eyebrow": "Química · unidad · U5",
+  "title": "Cómo se unen los átomos.",
+  "lede": "La unión química: enlace iónico, covalente y metálico, la geometría de las moléculas, la polaridad, y las fuerzas intermoleculares que explican muchas propiedades de las sustancias.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "enlace"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Enlace químico: iónico, covalente (polar y no polar), metálico. Estructuras de Lewis, geometría molecular. Polaridad. Interacciones intermoleculares: fuerzas de London, dipolo-dipolo, puente de hidrógeno. Nomenclatura de compuestos inorgánicos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ENLACES Y COMPUESTOS (U5)\n│\n├─ Enlace       · iónico, covalente, metálico\n├─ Molécula     · Lewis, geometría, polaridad\n└─ Interacciones · London, dipolo, puente de H",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

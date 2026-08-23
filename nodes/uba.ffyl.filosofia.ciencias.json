@@ -1,0 +1,63 @@
+{
+  "address": "uba.ffyl.filosofia.ciencias",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral · examen final", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "rota entre Cátedra Gentile y Cátedra Cassini · código 0217-12010", "unidades": 8, "bibliografia": 8, "rota": "sí — dos cátedras, mismo núcleo" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.ciencias", "label": "Filosofía de las Ciencias" }
+  ],
+  "eyebrow": "Filosofía · sistemática · Filosofía de las Ciencias",
+  "title": "Cómo la ciencia sabe lo que sabe.",
+  "lede": "El análisis filosófico del conocimiento científico. La materia tiene un núcleo estable: de la metodología de las ciencias formales a la gran discusión sobre el método de las ciencias fácticas — empirismo lógico, Popper, Kuhn, Lakatos — más los problemas de la explicación científica y el debate realismo/antirrealismo. Se dicta por dos cátedras que cubren el mismo terreno con distinto énfasis.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "examen final" },
+    { "k": "Unidades", "v": "8", "small": "cátedra Gentile" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Cátedras", "v": "2", "small": "rota" }
+  ],
+  "frame": "Contenido real del programa Nº 0217-12010. La materia rota entre dos cátedras de scope muy similar: (a) Cátedra Gentile (Prof. Nélida Gentile, programa 2021, repositorio FILO:Digital) — las 8 unidades instanciadas aquí, la secuencia clásica de la filosofía de la ciencia del siglo XX; (b) Cátedra Cassini (Prof. Alejandro Cassini) — mismo terreno reorganizado en 'ciencias formales' + 'ciencias fácticas', con la concepción semántica de las teorías y Laudan. CAVEAT: no existe un 'contenido mínimo' normativo separado; el núcleo estable (métodos formales, empirismo lógico, Popper/Kuhn/Lakatos, explicación, realismo/antirrealismo) es común a ambas. Cualquier cursada depende de qué cátedra dicta ese cuatrimestre.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades (Cátedra Gentile)",
+      "title": "El método científico, a debate",
+      "note": "Cada unidad del programa Gentile 2021 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa Gentile, en ocho unidades",
+        "tree": "FILOSOFÍA DE LAS CIENCIAS\n│\n├─ 1 · Ciencias formales · axiomática, geometrías no euclideanas\n├─ 2 · El empirismo lógico · verificacionismo, inducción\n├─ 3 · Popper · falsacionismo, demarcación\n├─ 4 · Kuhn · paradigmas, revoluciones, inconmensurabilidad\n├─ 5 · Lakatos · programas de investigación, Duhem-Quine\n├─ 6 · La explicación científica · N-D, unificación\n├─ 7 · Realismo y antirrealismo · no-milagro, inducción pesimista\n└─ 8 · van Fraassen · empirismo constructivo",
+        "foot": "Temas del programa Gentile. La cátedra Cassini reordena el mismo núcleo en ciencias formales + fácticas y suma la concepción semántica."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.ciencias.formales", "name": "La metodología de las ciencias formales", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.empirismo-logico", "name": "El empirismo lógico", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.popper", "name": "La concepción falsacionista de Popper", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.kuhn", "name": "La concepción de Thomas Kuhn", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.lakatos", "name": "El falsacionismo sofisticado de Lakatos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.explicacion", "name": "La explicación científica", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.realismo", "name": "Realismo y antirrealismo científicos", "role": "Unidad 7", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.ciencias.van-fraassen", "name": "El empirismo constructivo de van Fraassen", "role": "Unidad 8", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria (Cátedra Gentile)",
+      "title": "Las fuentes",
+      "note": "Títulos reales del programa Gentile. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.ciencias.libro-popper", "name": "La lógica de la investigación científica — K. Popper (Tecnos, 1980)", "role": "Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-kuhn", "name": "La estructura de las revoluciones científicas — T.S. Kuhn (FCE, 1980)", "role": "Unidad 4", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-lakatos", "name": "Metodología de los programas de investigación científica — I. Lakatos (Alianza, 1970)", "role": "Unidad 5", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-hempel", "name": "La explicación científica — C. Hempel (Paidós, 1979)", "role": "Unidad 6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-nagel", "name": "La estructura de la ciencia — E. Nagel (Paidós, 1961)", "role": "Unidad 6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-vanfraassen", "name": "La imagen científica — B.C. van Fraassen (Paidós, 1996)", "role": "Unidad 8", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-quine", "name": "Dos dogmas del empirismo — W.V.O. Quine (en Desde un punto de vista lógico, Ariel, 1962)", "role": "Unidad 5", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.ciencias.libro-klimovsky-boido", "name": "Las desventuras del conocimiento matemático — G. Klimovsky y G. Boido (AZ, 2005)", "role": "Unidad 1", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Programa de Filosofía de las Ciencias (Cátedra Gentile, 2021)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" }
+}

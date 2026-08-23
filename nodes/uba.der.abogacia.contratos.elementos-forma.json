@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.elementos-forma",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.elementos-forma", "label": "Elementos y forma" }
+  ],
+  "eyebrow": "Contratos · Unidad 2",
+  "title": "Presupuestos, elementos, objeto, causa y forma del contrato.",
+  "lede": "Los presupuestos, elementos y circunstancias del contrato: la voluntad jurídica y la capacidad para contratar. Los elementos esenciales, naturales y accidentales; el objeto y sus requisitos —valor patrimonial de la prestación, legitimación, casos especiales de bienes—; la causa y los actos abstractos; y la forma y la prueba del contrato, incluidos el instrumento público y el privado.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Presupuestos, elementos, objeto, causa, forma y prueba",
+      "note": "Presupuestos, elementos y circunstancias del contrato. Voluntad jurídica. Capacidad: teoría general, capacidad para contratar, inhabilidades. Elementos esenciales, naturales y accidentales. Objeto: aptitud y requisitos del objeto contractual, valor patrimonial de la prestación, legitimación, determinación por un tercero; casos especiales (bienes existentes y futuros; bienes ajenos; bienes litigiosos, gravados o sujetos a medidas cautelares); herencia futura; contratos de larga duración. Causa; actos abstractos. Forma y forma legal; libertad de formas; modificaciones al contrato. Instrumento público; instrumento privado. Prueba: medios y modos de prueba; prueba de los contratos formales; principio de prueba instrumental.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

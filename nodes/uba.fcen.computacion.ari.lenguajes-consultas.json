@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.ari.lenguajes-consultas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" },
+    { "address": "uba.fcen.computacion.ari.lenguajes-consultas", "label": "Lenguajes de manipulación y optimización de consultas" }
+  ],
+  "eyebrow": "ARI · unidad · Unidad 2",
+  "title": "Preguntarle a los datos — y hacerlo rápido.",
+  "lede": "Cómo se interroga una base de datos. Los lenguajes de manipulación de datos y la optimización de consultas — cómo el motor transforma una consulta en un plan de ejecución eficiente.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Rol", "v": "consultar", "small": "optimizar" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Lenguajes de manipulación de datos. Optimización de consultas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Temas del plan reagrupados en la Unidad 2.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LENGUAJES Y OPTIMIZACIÓN DE CONSULTAS (Unidad 2)\n│\n├─ Lenguajes de manipulación de datos\n└─ Optimización de consultas",
+        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

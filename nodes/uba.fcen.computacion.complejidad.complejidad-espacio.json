@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.complejidad.complejidad-espacio",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.complejidad", "label": "Complejidad Computacional" },
+    { "address": "uba.fcen.computacion.complejidad.complejidad-espacio", "label": "Complejidad de espacio" }
+  ],
+  "eyebrow": "Complejidad · unidad · Unidad 4",
+  "title": "Medir por memoria: PSPACE, Savitch, L y NL.",
+  "lede": "El otro recurso: el espacio. El espacio usado por un cómputo, las clases PSPACE y NPSPACE con el teorema de Savitch que las iguala, y el espacio logarítmico — L y NL, la L-reducibilidad y el teorema de Immerman-Szelepcsényi.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Rol", "v": "espacio", "small": "memoria" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Espacio usado por un cómputo. Espacio polinomial: PSPACE y NPSPACE; teorema de Savitch. Espacio logarítmico: L y NL; L-reducibilidad; teorema de Immerman-Szelepcsényi.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad 4.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "COMPLEJIDAD DE ESPACIO (Unidad 4)\n│\n├─ Espacio de un cómputo\n├─ PSPACE y NPSPACE · teorema de Savitch\n└─ Espacio logarítmico · L y NL · Immerman-Szelepcsényi",
+        "foot": "Temas de la transcripción de Cuba-Wiki (cursada 1c2025)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cubawiki.com.ar · Complejidad Computacional (temario 1c2025)", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" }
+}

@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.economia.metodo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 9,
+    "de": 10,
+    "materia": "Economía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.economia",
+      "label": "Economía"
+    },
+    {
+      "address": "uba.cbc.sociales.economia.metodo",
+      "label": "El problema del método. Economía e ideología"
+    }
+  ],
+  "eyebrow": "Economía · unidad · contenido 9",
+  "title": "Cómo se construye una teoría económica.",
+  "lede": "El análisis científico aplicado a la economía y el lugar de la ideología: teoría clásica, marxista y neoclásica.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "9",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El problema del método. Economía e ideología. El proceso de análisis científico y su aplicación a la economía. Visión preanalítica, conceptualización y construcción de modelos científicos. La ideología en las distintas fases del proceso científico. Distintas explicaciones teóricas sobre el funcionamiento del sistema económico. Teoría clásica, marxista y neoclásica.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

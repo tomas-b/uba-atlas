@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho.interpretacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-general-derecho", "label": "Teoría General del Derecho" },
+    { "address": "uba.der.abogacia.teoria-general-derecho.interpretacion", "label": "Interpretación" }
+  ],
+  "eyebrow": "Teoría General del Derecho · Unidad 4",
+  "title": "Interpretar el Derecho.",
+  "lede": "La unidad dedicada a la interpretación del Derecho: cómo se atribuye sentido a las normas y qué está en juego al hacerlo.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "TGD", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Interpretación del Derecho",
+      "note": "Concepto tomado de los contenidos mínimos oficiales: interpretación del Derecho.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

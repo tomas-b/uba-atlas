@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.concepto-metodo",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.concepto-metodo", "label": "Concepto y método" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 1",
+  "title": "Qué es una obligación y dónde la ubica el Código.",
+  "lede": "El punto de partida: concepto, definición y naturaleza jurídica de la obligación, y sus comparaciones con los derechos reales y con los derechos de familia. Aparecen las obligaciones propter rem y el derecho a la cosa, y se cierra con el método legislativo — el método interno del Código Civil y Comercial argentino, su relación con el Título Preliminar y el diálogo de fuentes.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Concepto, naturaleza y método legislativo",
+      "note": "Concepto y definición de obligación · naturaleza jurídica · comparaciones · comparación con los derechos reales · comparación con los derechos de familia · situaciones especiales · obligaciones propter rem (concepto, antecedentes, disposiciones legales, casos) · derecho a la cosa · el método legislativo en general · el método interno del Código Civil y Comercial argentino · relación con el Título Preliminar · el diálogo de fuentes.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

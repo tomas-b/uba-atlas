@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.concepto-fuentes",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.concepto-fuentes", "label": "Concepto y fuentes" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 1",
+  "title": "Qué es el Derecho Comercial y de dónde surge.",
+  "lede": "El Derecho Comercial en su concepto, contenido y características particulares, y su evolución histórica a través de las etapas de su desarrollo. El Derecho Comercial argentino y su recepción legislativa: desde el Código de Comercio hasta la unificación Civil y Comercial en la Ley 26.994. Sus fuentes, reglas y principios: la ley, la costumbre, los usos y las prácticas, y la jurisprudencia.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Concepto, evolución, recepción legislativa y fuentes",
+      "note": "El Derecho Comercial: concepto, contenido, características particulares, evolución histórica y etapas de su desarrollo. La recepción legislativa argentina: del Código de Comercio a la unificación Civil y Comercial (Ley 26.994). Fuentes, reglas y principios: la ley, la costumbre, los usos y las prácticas, la jurisprudencia.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

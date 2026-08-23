@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general.derechos-personalisimos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.civil-parte-general", "label": "Civil · Parte General" },
+    { "address": "uba.der.abogacia.civil-parte-general.derechos-personalisimos", "label": "Derechos personalísimos" }
+  ],
+  "eyebrow": "Civil · Parte General · Unidad 3",
+  "title": "El poder jurídico y los derechos sobre la propia persona.",
+  "lede": "Los derechos subjetivos como facultades reconocidas por el ordenamiento, y los derechos personalísimos que protegen los atributos más íntimos de la persona.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "Civil P.G.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Derechos subjetivos y personalísimos",
+      "note": "Derechos subjetivos · derechos personalísimos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

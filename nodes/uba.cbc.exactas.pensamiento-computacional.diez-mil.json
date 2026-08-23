@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.diez-mil",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.diez-mil",
+      "label": "Diez Mil"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A2",
+  "title": "Programar un juego de dados.",
+  "lede": "El juego de dados 'Diez Mil' como excusa para introducir reglas, condiciones y el flujo de un programa que decide según lo que sale en cada tirada.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "actividad",
+      "small": "dados"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Modelado de un juego de dados: reglas, condicionales, acumulación de puntaje, control de flujo. Traducir las reglas de un juego a instrucciones ejecutables.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "DIEZ MIL (Actividad 2)\n│\n├─ Problema · juego de dados\n└─ Idea     · condicionales, flujo, puntaje",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

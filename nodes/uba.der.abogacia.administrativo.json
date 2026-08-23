@@ -1,0 +1,56 @@
+{
+  "address": "uba.der.abogacia.administrativo",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 7 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.administrativo", "label": "Der. Administrativo" }
+  ],
+  "eyebrow": "Elementos de Derecho Administrativo · CPC · Abogacía",
+  "title": "El Estado que actúa: régimen jurídico de la Administración Pública.",
+  "lede": "Elementos de Derecho Administrativo estudia el derecho que rige a la Administración Pública en su actividad: desde el concepto y las fuentes de la disciplina hasta el acto, el contrato, la responsabilidad del Estado y el proceso contencioso administrativo. Es una materia cuatrimestral del Ciclo Profesional Común. Sus contenidos mínimos oficiales se ordenan aquí en siete unidades, del marco conceptual y constitucional a la tutela de los derechos frente a la Administración.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "7", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de enseñanza de la cátedra del Prof. Titular Carlos F. Balbín, del Departamento de Derecho Público II.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 7 unidades",
+      "title": "Del concepto de la disciplina a la tutela frente al Estado",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "ELEMENTOS DE DERECHO ADMINISTRATIVO\n│\n├─ Unidad 1 · Concepto y marco de la disciplina\n├─ Unidad 2 · Bases, funciones estatales y transparencia\n├─ Unidad 3 · Fuentes y discrecionalidad\n├─ Unidad 4 · Organización, empleo público y bienes\n├─ Unidad 5 · Intervención y servicio público\n├─ Unidad 6 · Acto, contratos y responsabilidad\n└─ Unidad 7 · Procedimiento y proceso",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Balbín."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.administrativo.concepto-marco", "name": "Concepto y marco de la disciplina", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.bases-funciones", "name": "Bases, funciones estatales y transparencia", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.fuentes-discrecionalidad", "name": "Fuentes y discrecionalidad", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.organizacion-empleo", "name": "Organización, empleo público y bienes", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.intervencion-servicio-publico", "name": "Intervención y servicio público", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.acto-contratos-responsabilidad", "name": "Acto, contratos y responsabilidad", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.administrativo.procedimiento-proceso", "name": "Procedimiento y proceso", "role": "Unidad 7", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía obligatoria del programa de la cátedra del Prof. Titular Carlos F. Balbín (Departamento de Derecho Público II, CPC). Fuente: sitio de la cátedra (balbinvega.wixsite.com/administrativo).",
+      "exits": [
+        { "address": "uba.der.abogacia.administrativo.balbin-manual", "name": "Carlos F. Balbín — Manual de Derecho Administrativo", "role": "La Ley · 4ª ed. 2018", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.administrativo.balbin-tratado", "name": "Carlos F. Balbín — Tratado de Derecho Administrativo", "role": "La Ley · 2ª ed. 2015", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

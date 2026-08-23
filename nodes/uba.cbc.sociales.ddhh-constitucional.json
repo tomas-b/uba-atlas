@@ -1,0 +1,117 @@
+{
+  "address": "uba.cbc.sociales.ddhh-constitucional",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "materia de área · requerida por las carreras de Derecho",
+    "orientacion": "Ciencias Sociales y Humanas",
+    "unidades": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.ddhh-constitucional",
+      "label": "Principios de Derechos Humanos y Derecho Constitucional"
+    }
+  ],
+  "eyebrow": "Principios de Derechos Humanos y Derecho Constitucional · CBC · orientación Sociales y Humanas",
+  "title": "La Constitución y los derechos humanos como base del Derecho Público.",
+  "lede": "Una introducción al Derecho Constitucional y a los derechos humanos: la supremacía constitucional, el sistema interamericano y la jerarquía de los tratados tras la reforma de 1994. Materia del área requerida por las carreras de Derecho.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "de área"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio pend."
+    },
+    {
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
+    }
+  ],
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): seis bloques, del concepto de derecho y la estructura de la Constitución Nacional al orden internacional de posguerra, el sistema interamericano y las violaciones masivas a los derechos humanos. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · las unidades",
+      "title": "De qué se trata",
+      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "map": {
+        "mk": "La materia, comprimida",
+        "tree": "PRINCIPIOS DE DERECHOS HUMANOS Y DERECHO CONSTITUCIONAL — contenidos mínimos\n│\n├─ 1 · ¿Qué es el derecho?\n├─ 2 · La Constitución Nacional\n├─ 3 · El orden jurídico internacional de posguerra\n├─ 4 · La protección regional de los DDHH\n├─ 5 · Jerarquía constitucional de los tratados\n└─ 6 · Violaciones masivas a los DDHH",
+        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.que-es",
+          "name": "¿Qué es el derecho?",
+          "role": "contenido 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.constitucion",
+          "name": "La Constitución Nacional",
+          "role": "contenido 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.internacional",
+          "name": "El orden jurídico internacional de posguerra",
+          "role": "contenido 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.regional",
+          "name": "La protección regional de los DDHH",
+          "role": "contenido 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.jerarquia",
+          "name": "Jerarquía constitucional de los tratados",
+          "role": "contenido 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ddhh-constitucional.violaciones",
+          "name": "Violaciones masivas a los DDHH",
+          "role": "contenido 6",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "address": "uba.cbc.exactas.quimica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Cátedra Única de Química (CBC)",
+    "unidades": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    }
+  ],
+  "eyebrow": "Química · CBC · Cátedra Única",
+  "title": "De los átomos a los ácidos y las bases.",
+  "lede": "La Química del CBC — cátedra única, teórico-práctica. Un recorrido de química general: del instrumental de cálculo y la estructura de la materia a los enlaces, la orgánica, los gases, las soluciones, las reacciones y el equilibrio, hasta ácidos y bases. Optativa de la orientación exacta.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "11",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedra",
+      "v": "única",
+      "small": "CBC"
+    }
+  ],
+  "frame": "Contenido de la cátedra única de Química del CBC: química general en once unidades, evaluadas en dos parciales (unidades 1–5 y 6–10/11). Los temas están sourceados y los textos de cátedra identificados (Angelini, EUDEBA; Di Risio y otros).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 11 unidades",
+      "title": "El recorrido de química general",
+      "note": "Cada unidad en orden. Los dos parciales parten el programa por la mitad.",
+      "map": {
+        "mk": "El programa, en once unidades",
+        "tree": "QUÍMICA CBC — química general\n│\n├─ U1  · Cálculos Básicos: Magnitudes y Unidades\n├─ U2  · Materia, Átomos y Moléculas\n├─ U3  · Estructura Atómica y Tabla Periódica\n├─ U4  · Magnitudes Atómico-Moleculares\n├─ U5  · Enlaces, Compuestos e Interacciones\n├─ U6  · Química Orgánica\n├─ U7  · Gases\n├─ U8  · Soluciones\n├─ U9  · Reacciones Químicas\n├─ U10 · Cinética y Equilibrio Químico\n└─ U11 · Ácidos y Bases",
+        "foot": "Temas de la cátedra única. Textos: Angelini (EUDEBA) y Di Risio."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.quimica.calculos-magnitudes",
+          "name": "Cálculos Básicos: Magnitudes y Unidades",
+          "role": "U1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.materia-atomos-moleculas",
+          "name": "Materia, Átomos y Moléculas",
+          "role": "U2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.estructura-atomica",
+          "name": "Estructura Atómica y Tabla Periódica",
+          "role": "U3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.magnitudes-atomico-moleculares",
+          "name": "Magnitudes Atómico-Moleculares",
+          "role": "U4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.enlaces-compuestos",
+          "name": "Enlaces, Compuestos e Interacciones",
+          "role": "U5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.quimica-organica",
+          "name": "Química Orgánica",
+          "role": "U6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.gases",
+          "name": "Gases",
+          "role": "U7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.soluciones",
+          "name": "Soluciones",
+          "role": "U8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.reacciones-quimicas",
+          "name": "Reacciones Químicas",
+          "role": "U9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.cinetica-equilibrio",
+          "name": "Cinética y Equilibrio Químico",
+          "role": "U10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.acidos-bases",
+          "name": "Ácidos y Bases",
+          "role": "U11",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · sourceada",
+      "title": "Los textos de la cátedra",
+      "note": "Textos habituales de Química del CBC. Su contenido (L3) es un índice aparte.",
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.quimica.temas-quimica-general-angelini",
+          "name": "Temas de Química General — Angelini y otros (EUDEBA)",
+          "role": "texto",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.quimica-basica-di-risio",
+          "name": "Química Básica — Di Risio, Roverano, Vázquez",
+          "role": "texto",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

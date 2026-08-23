@@ -1,0 +1,59 @@
+{
+  "address": "uba.der.abogacia.teoria-estado",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" }
+  ],
+  "eyebrow": "Teoría del Estado · CPC · Abogacía",
+  "title": "El Estado, el poder y la democracia, desde su formación hasta la Argentina.",
+  "lede": "Teoría del Estado abre el Ciclo Profesional Común con la mirada política sobre el poder organizado. Recorre los estudios políticos y su objeto, la formación del Estado y sus formas, la realidad política y sus actores, la representación y el sufragio, los debates sobre la democracia y la evolución del Estado moderno hasta su conformación en la Argentina. Materia cuatrimestral, sus contenidos mínimos se ordenan en seis unidades.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra del Prof. Titular Miguel De Luca, de orientación en ciencia política.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "Del objeto de los estudios políticos al Estado argentino",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "TEORÍA DEL ESTADO\n│\n├─ Unidad 1 · Los estudios políticos\n├─ Unidad 2 · Formación del Estado y poder\n├─ Unidad 3 · La realidad política\n├─ Unidad 4 · Representación y sufragio\n├─ Unidad 5 · La democracia\n└─ Unidad 6 · Estado moderno y Argentina",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra De Luca."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.teoria-estado.objeto-estudios-politicos", "name": "Los estudios políticos: denominaciones y objeto", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-estado.formacion-estado-poder", "name": "Formación del Estado y poder", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-estado.realidad-politica", "name": "La realidad política", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-estado.representacion-sufragio", "name": "Representación y sufragio", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-estado.democracia", "name": "La democracia", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.teoria-estado.estado-moderno-argentina", "name": "Estado moderno y Argentina", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía del programa de la cátedra del Prof. Titular Miguel De Luca. La referencia general recurrente es Vallés; el resto es bibliografía específica por unidad. Fuente: sitio de la cátedra (teoriadelestadouba.wordpress.com).",
+      "exits": [
+        { "address": "uba.der.abogacia.teoria-estado.valles-ciencia-politica", "name": "Josep M. Vallés — Ciencia política: una introducción", "role": "bibliografía general · Ariel 2000", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.weber-economia-sociedad", "name": "Max Weber — Economía y sociedad", "role": "FCE", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.dahl-poliarquia", "name": "Robert A. Dahl — La poliarquía", "role": "Tecnos", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.held-democracia-orden-global", "name": "David Held — La democracia y el orden global", "role": "Paidós · 1997", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.oszlak-formacion-estado", "name": "Oscar Oszlak — La formación histórica del Estado en América Latina", "role": "Estudios CEDES · 1978", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.mann-poder-autonomo", "name": "Michael Mann — El poder autónomo del Estado", "role": "Zona Abierta · 1991", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

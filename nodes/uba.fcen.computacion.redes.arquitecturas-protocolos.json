@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.redes.arquitecturas-protocolos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.redes", "label": "Redes de Comunicaciones y Cómputo Distribuido" },
+    { "address": "uba.fcen.computacion.redes.arquitecturas-protocolos", "label": "Arquitecturas, capas y protocolos de red" }
+  ],
+  "eyebrow": "Redes y Cómputo Distribuido · contenido · Eje 2",
+  "title": "La red por capas: quién habla con quién.",
+  "lede": "Las principales arquitecturas, capas y protocolos de red: cómo se organiza una red en niveles y qué reglas rigen la comunicación en cada uno. El núcleo estructural de la materia.",
+  "meta": [
+    { "k": "Eje", "v": "2", "small": "de 3" },
+    { "k": "Rol", "v": "contenido", "small": "mínimo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Contenido mínimo del Plan 2023: «Principales arquitecturas, capas y protocolos de red». El eje central de la materia — la organización en capas de una red. La cátedra aún no publica el desglose fino de estos temas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del eje",
+      "title": "De qué se trata",
+      "note": "El contenido mínimo, tal como lo enuncia el plan.",
+      "map": {
+        "mk": "El eje, comprimido",
+        "tree": "ARQUITECTURAS, CAPAS Y PROTOCOLOS (Eje 2)\n│\n└─ Contenido mínimo · principales arquitecturas, capas y protocolos de red",
+        "foot": "Contenido mínimo del Plan 2023 (DC-FCEN). Sin programa de cátedra publicado."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

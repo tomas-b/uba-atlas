@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.alc.espacios-vectoriales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "capitulo": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.alc", "label": "Álgebra Lineal Computacional" },
+    { "address": "uba.fcen.computacion.alc.espacios-vectoriales", "label": "Espacios vectoriales y bases" }
+  ],
+  "eyebrow": "ALC · unidad · Cap. I",
+  "title": "El lenguaje base: espacios, bases y transformaciones.",
+  "lede": "El punto de partida. Los espacios vectoriales reales y su estructura — subespacios, generadores, independencia lineal, bases y dimensión — y las transformaciones lineales con su representación matricial, hasta los cuatro subespacios fundamentales de una matriz.",
+  "meta": [
+    { "k": "Cap.", "v": "I", "small": "de 6" },
+    { "k": "Rol", "v": "base", "small": "estructura" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El fundamento algebraico de la materia. Espacios vectoriales reales; subespacios, sistemas de generadores e independencia lineal; bases y dimensión. Transformaciones lineales y su representación matricial. Los subespacios fundamentales asociados a una matriz: núcleo, imagen, co-núcleo y coimagen.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del capítulo",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del Capítulo I.",
+      "map": {
+        "mk": "El capítulo, comprimido",
+        "tree": "ESPACIOS VECTORIALES Y BASES (Cap. I)\n│\n├─ Espacios vectoriales reales\n├─ Subespacios · generadores · independencia lineal\n├─ Bases y dimensión\n├─ Transformaciones lineales · representación matricial\n└─ Subespacios fundamentales · núcleo, imagen, co-núcleo, coimagen",
+        "foot": "Temas del Cap. I del programa de la cátedra (cms.dm.uba.ar). Sobre esta estructura se construyen las factorizaciones y descomposiciones que siguen."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cms.dm.uba.ar · programa ALC · Capítulo I", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+}

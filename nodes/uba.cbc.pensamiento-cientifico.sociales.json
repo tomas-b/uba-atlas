@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.sociales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "lecturas": ["Klimovsky", "Chalmers"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.sociales", "label": "Ciencias naturales y sociales" }
+  ],
+  "eyebrow": "Pensamiento Científico · unidad · Lo social",
+  "title": "¿Las ciencias sociales juegan al mismo juego?",
+  "lede": "El cierre del curso, que vuelve la pregunta sobre sí misma. Todo lo anterior se pensó con la física de fondo. ¿Vale igual para la sociedad? El debate entre explicar (al modo de las ciencias naturales) y comprender (interpretar el sentido de la acción), y la discusión sobre la especificidad — o no — del objeto social y la neutralidad valorativa.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Lecturas", "v": "2", "small": "Klimovsky · Chalmers" },
+    { "k": "Grounding", "v": "L2", "small": "temas + lecturas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La coda que problematiza el curso entero. Las unidades previas modelaron la ciencia sobre la física; esta pregunta si las ciencias sociales encajan en ese molde. Dos posiciones: el naturalismo o monismo metodológico sostiene que hay un solo método para toda ciencia (explicar por leyes); la tradición hermenéutica sostiene que lo social exige comprender el sentido que los agentes dan a su acción. En juego: la posibilidad de leyes sociales, el papel de los valores y la objetividad, la distinción explicación / comprensión.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CIENCIAS NATURALES Y SOCIALES\n│\n├─ El molde heredado · el curso pensó la ciencia con la física de fondo\n├─ Naturalismo · un solo método: explicar por leyes\n├─ Hermenéutica · lo social se comprende, se interpreta su sentido\n└─ En disputa · ¿leyes sociales? ¿objetividad y valores? ¿objeto propio?",
+        "foot": "Temas de la cátedra (IPC). Cierra el arco del curso volviendo sobre su propio supuesto: que la ciencia se parece a la física. Lecturas: Klimovsky y Chalmers sobre la especificidad de lo social."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cbc.uba.ar · cátedra Pensamiento Científico", "url": "https://www.cbc.uba.ar/" }
+}

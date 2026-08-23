@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.dispositivos-programables",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" },
+    { "address": "uba.fcen.computacion.sistemas-digitales.dispositivos-programables", "label": "Dispositivos lógicos programables" }
+  ],
+  "eyebrow": "Sistemas Digitales · unidad · 6",
+  "title": "Diseñar lógica sobre dispositivos que se reconfiguran.",
+  "lede": "Diseño lógico sobre dispositivos programables, la estructura de una FPGA con sus LUTs y la formalización de un lenguaje de descripción de hardware.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "FPGA / HDL" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El diseño lógico sobre dispositivos lógicos programables, la estructura de una FPGA y la formalización de un HDL.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "DISPOSITIVOS LÓGICOS PROGRAMABLES (bloque 6)\n│\n├─ Tema · diseño lógico sobre dispositivos lógicos programables\n├─ Tema · estructura de una FPGA\n├─ Tema · LUTs (look-up tables)\n└─ Idea · formalización de un HDL (Verilog o VHDL)",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Sistemas Digitales, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

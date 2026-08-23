@@ -1,0 +1,154 @@
+{
+  "address": "uba.ffyl.filosofia",
+  "level": "carrera",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.filosofia",
+      "label": "Filosofía"
+    }
+  ],
+  "eyebrow": "Licenciatura en Filosofía · plan de la carrera",
+  "title": "Una carrera es un edificio de dos ejes.",
+  "lede": "Un nivel más de zoom y la sala se vuelve su propio plano. Filosofía no es una lista de materias — son <b>dos ejes que se cruzan</b>: una columna de historia recorrida en orden, y un conjunto de problemas atemporales que cada época responde distinto. Mismo dibujo, re-enraizado.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2017"
+    },
+    {
+      "k": "Duración",
+      "v": "~5–6",
+      "small": "años"
+    },
+    {
+      "k": "Materias",
+      "v": "14",
+      "small": "· 11 oblig."
+    },
+    {
+      "k": "Trazadas",
+      "v": "11",
+      "small": "/ 11"
+    }
+  ],
+  "frame": "La UBA enseña filosofía en dos ejes a la vez, y ese cruce ES la carrera. Leé la columna de arriba a abajo para la historia de quién discutió con quién; leé los problemas como las columnas que cada época rellena distinto. Más una puerta que nadie espera: los idiomas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Eje 1 · el hilo histórico",
+      "title": "Historia de la Filosofía",
+      "note": "Cuatro cursos recorridos en orden, cada uno doblado por un 'Problemas'. La dirección es el valor — es el grafo de dependencias que los expertos afinaron durante décadas.",
+      "map": {
+        "mk": "El hilo, comprimido a 10 h — grounded en el Plan 2017",
+        "tree": "WESTERN PHILOSOPHY — el hilo en cuatro giros\n│\n├─ ANTIGUA      ¿de qué está hecho todo, y podemos conocerlo?\n│     Presocráticos → Sócrates → Platón → Aristóteles → helenismo\n├─ MEDIEVAL     ¿pueden fe y razón ser una sola verdad?\n│     Agustín → Aquino (la síntesis) → Ockham (la navaja)\n├─ MODERNA      solo, ¿qué puedo saber con certeza?\n│     Descartes → Hume → Kant (la bisagra) → Hegel\n└─ CONTEMPORÁNEA  ¿y si la razón misma fue la ilusión?\n      Marx · Nietzsche → el río se parte:\n        ├─ analítica    (Frege · Wittgenstein · Quine)\n        └─ continental  (Husserl · Heidegger · Foucault)",
+        "foot": "La bifurcación analítica/continental es la que nunca hay que olvidar. Se expande hacia el programa de cada Historia → los textos primarios."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.filosofia.antigua",
+          "name": "Historia de la Filosofía Antigua",
+          "role": "Presocráticos → Platón → Aristóteles → helenismo",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.medieval",
+          "name": "Historia de la Filosofía Medieval",
+          "role": "Agustín → Aquino → Ockham",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.moderna",
+          "name": "Historia de la Filosofía Moderna",
+          "role": "Descartes → Hume → Kant → Hegel",
+          "tag": "obligatoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.contemporanea",
+          "name": "Historia de la Filosofía Contemporánea",
+          "role": "Marx · Nietzsche · el corte analítico/continental",
+          "tag": "obligatoria",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Eje 2 · los problemas sistemáticos",
+      "title": "Las columnas atemporales",
+      "note": "Cursadas junto a la historia — las preguntas que cada época responde a su manera.",
+      "exits": [
+        {
+          "address": "uba.ffyl.filosofia.logica",
+          "name": "Lógica",
+          "role": "la forma del razonamiento válido",
+          "tag": "introductoria",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.gnoseologia",
+          "name": "Gnoseología",
+          "role": "¿qué es conocer?",
+          "tag": "sistemática",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.metafisica",
+          "name": "Metafísica / Ontología",
+          "role": "¿qué es ser?",
+          "tag": "sistemática",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.etica",
+          "name": "Ética",
+          "role": "¿qué es obrar bien?",
+          "tag": "sistemática",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.estetica",
+          "name": "Estética",
+          "role": "arte y belleza",
+          "tag": "sistemática",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.antropologia",
+          "name": "Antropología Filosófica",
+          "role": "¿qué es lo humano?",
+          "tag": "sistemática",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.filosofia.ciencias",
+          "name": "Filosofía de las Ciencias",
+          "role": "cómo la ciencia sabe lo que sabe",
+          "tag": "sistemática",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "gate",
+      "eyebrow": "La puerta que nadie espera",
+      "title": "Idiomas + tesis",
+      "note": "Tres niveles × dos idiomas (uno latino, uno sajón) + seminarios + tesis. La puerta te dice qué es la filosofía acá: lectura atenta, no resumen — porque los textos no sobreviven la traducción.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "Plan 2017 · academica.filo.uba.ar",
+    "url": "https://academica.filo.uba.ar/plan-de-estudios-filosof%C3%ADa"
+  }
+}

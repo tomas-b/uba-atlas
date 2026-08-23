@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.figuritas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.figuritas",
+      "label": "Figuritas"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A1",
+  "title": "Probabilidad con el álbum del mundial.",
+  "lede": "La primera actividad: modelar cuántas figuritas hacen falta para llenar un álbum. Se introduce la idea de simular un problema con un programa y estimar una probabilidad por repetición.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "1",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "inicio",
+      "small": "simulación"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Simulación y probabilidad experimental sobre el problema del álbum de figuritas: repetición, conteo, aleatoriedad. Primer contacto con la resolución de un problema mediante un programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "FIGURITAS (Actividad 1)\n│\n├─ Problema · llenar el álbum\n└─ Idea     · simulación, probabilidad experimental",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

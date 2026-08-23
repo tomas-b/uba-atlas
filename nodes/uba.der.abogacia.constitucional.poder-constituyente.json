@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.poder-constituyente",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.poder-constituyente", "label": "Poder constituyente" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 2",
+  "title": "El poder de dictar y reformar la Constitución.",
+  "lede": "El poder constituyente en sus dos formas: originario, el que funda el orden constitucional, y derivado, el que lo modifica dentro de sus cauces. De ahí, el mecanismo de la reforma constitucional.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Poder constituyente originario y derivado · reforma constitucional",
+      "note": "Poder constituyente originario y derivado. Reforma constitucional.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

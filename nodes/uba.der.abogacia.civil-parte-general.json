@@ -1,0 +1,59 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.civil-parte-general", "label": "Civil · Parte General" }
+  ],
+  "eyebrow": "Elementos de Derecho Civil (Parte General) · CPC · Abogacía",
+  "title": "Los cimientos del derecho privado: del derecho subjetivo a la persona y sus actos.",
+  "lede": "La parte general del derecho civil, tal como la organiza el Código Civil y Comercial de la Nación. Recorre las nociones que sostienen todo el derecho privado: qué es un derecho, de dónde surgen sus fuentes, quién es persona y con qué atributos, y cómo los hechos y actos jurídicos producen efectos. Materia cuatrimestral de 54 horas del Ciclo Profesional Común, con sus contenidos mínimos ordenados en seis unidades.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía básica se toma del programa de la cátedra del Prof. Leopoldo L. Peralta Mariscal.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "De la noción de derecho a la ineficacia del acto",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "CIVIL — PARTE GENERAL\n│\n├─ Unidad 1 · Derecho objetivo y subjetivo\n├─ Unidad 2 · Fuentes del derecho y efectos de la ley\n├─ Unidad 3 · Derechos subjetivos y personalísimos\n├─ Unidad 4 · Situaciones y relaciones jurídicas\n├─ Unidad 5 · La persona y sus atributos\n└─ Unidad 6 · Hechos y actos jurídicos",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Peralta Mariscal."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.civil-parte-general.derecho-objetivo-subjetivo", "name": "Derecho objetivo y subjetivo", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.civil-parte-general.fuentes-efectos-ley", "name": "Fuentes del derecho y efectos de la ley", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.civil-parte-general.derechos-personalisimos", "name": "Derechos subjetivos y personalísimos", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.civil-parte-general.relaciones-juridicas", "name": "Situaciones y relaciones jurídicas", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.civil-parte-general.persona-atributos", "name": "La persona y sus atributos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.civil-parte-general.hechos-actos", "name": "Hechos y actos jurídicos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía básica sugerida del programa de la cátedra del Prof. Leopoldo L. Peralta Mariscal. Fuente: programa de cátedra (1º cuat. 2025).",
+      "exits": [
+        { "address": "uba.der.abogacia.civil-parte-general.rivera-crovi", "name": "Rivera y Crovi — Derecho Civil. Parte General", "role": "Abeledo Perrot · 2016", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.civil-parte-general.rivera-instituciones", "name": "Julio C. Rivera — Instituciones de Derecho Civil. Parte General", "role": "Abeledo-Perrot · 3ª ed. 2004", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.civil-parte-general.rivera-medina-codigo", "name": "Rivera y Medina (dirs.) — Código Civil y Comercial de la Nación. Comentado", "role": "La Ley · 6 t.", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.civil-parte-general.lorenzetti-codigo", "name": "Lorenzetti (dir.) — Código Civil y Comercial de la Nación. Comentado", "role": "Rubinzal-Culzoni", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.civil-parte-general.alterini-codigo", "name": "Jorge H. Alterini (dir.) — Código Civil y Comercial de la Nación. Comentado", "role": "La Ley · 2ª ed. 2016", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.civil-parte-general.herrera-caramelo-picasso-codigo", "name": "Herrera, Caramelo y Picasso (dirs.) — Código Civil y Comercial de la Nación Comentado", "role": "Infojus", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

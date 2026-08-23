@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.cinetica-equilibrio",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.cinetica-equilibrio",
+      "label": "Cinética y Equilibrio Químico"
+    }
+  ],
+  "eyebrow": "Química · unidad · U10",
+  "title": "La velocidad y el balance de las reacciones.",
+  "lede": "Dos ideas dinámicas: la cinética — a qué velocidad ocurre una reacción y qué la afecta — y el equilibrio químico, con la constante de equilibrio y el principio de Le Chatelier.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "10",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "equilibrio"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Cinética: velocidad de reacción, factores (concentración, temperatura, catalizadores). Equilibrio químico: reversibilidad, constante de equilibrio (Kc, Kp), cociente de reacción, principio de Le Chatelier.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CINÉTICA Y EQUILIBRIO (U10)\n│\n├─ Cinética  · velocidad, factores, catalizadores\n└─ Equilibrio · constante Kc/Kp, Le Chatelier",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

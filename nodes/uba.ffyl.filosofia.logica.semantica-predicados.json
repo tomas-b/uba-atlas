@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.logica.semantica-predicados",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 7, "de": 9, "materia": "Lógica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.logica", "label": "Lógica" },
+    { "address": "uba.ffyl.filosofia.logica.semantica-predicados", "label": "La semántica de la lógica de predicados" }
+  ],
+  "eyebrow": "Lógica · unidad · 7 de 9",
+  "title": "Modelos: darle un mundo a las fórmulas.",
+  "lede": "La semántica de primer orden: funciones de interpretación, la lectura objetual frente a la lectura por sustitución, y los modelos. La validez universal y la consecuencia semántica para la lógica de predicados.",
+  "meta": [
+    { "k": "Unidad", "v": "7", "small": "de 9" },
+    { "k": "Rol", "v": "semántica", "small": "predicados" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Funciones de interpretación. Interpretación objetual y por sustitución del lenguaje de la lógica de predicados; limitaciones de la interpretación por sustitución. Modelos de primer orden. Validez universal. Caracterización de la relación de consecuencia semántica para la lógica de predicados de primer orden y sus propiedades. Validez e invalidez de argumentos de primer orden.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 7 del programa Oller.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Lógica Nº 0211 (Oller) · Unidad 7", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" }
+}

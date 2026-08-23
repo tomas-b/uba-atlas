@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.etica.campo-problematico",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "bloque": 1, "de": 2, "cuestiones": "1–7", "materia": "Ética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.etica", "label": "Ética" },
+    { "address": "uba.ffyl.filosofia.etica.campo-problematico", "label": "El campo problemático de la ética" }
+  ],
+  "eyebrow": "Ética · bloque · I de II",
+  "title": "El mapa de los problemas morales.",
+  "lede": "El primer bloque recorre las siete cuestiones que constituyen la ética como campo: la distinción moral/ética, la acción y la agencia, el bien y la felicidad, la virtud, el deber, lo útil y el bienestar, y la justicia — cada una con las posiciones históricas que la disputaron.",
+  "meta": [
+    { "k": "Bloque", "v": "I", "small": "de II" },
+    { "k": "Cuestiones", "v": "7", "small": "el campo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El campo problemático de la ética (siete cuestiones). 1. Moral y ética: el lenguaje moral y los discursos sobre la moralidad; la ética como pensamiento crítico; hermenéutica de los discursos morales. 2. La acción y la agencia: teorías de la acción, razón práctica, silogismo práctico. 3. El bien y la felicidad: Platón y Aristóteles, la falacia naturalista, intuicionismo y emotivismo, el problema del mal. 4. La virtud: noción aristotélica, prudencia, comunidad y derechos humanos, relativismo. 5. El deber: iusnaturalismo, noción kantiana, el imperativo categórico, la crítica hegeliana. 6. Lo útil y el bienestar: tipos de utilitarismo (Epicuro, Bentham, Mill), la crítica de Rawls. 7. La justicia: bien común, equidad, el otro y la hospitalidad.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo del bloque", "title": "De qué se trata", "note": "Cuestiones 1–7 del programa Cullen (Parte Ia).", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Ética Nº 0214 (Cullen) · Parte Ia", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Etica%2012%20II.doc" }
+}

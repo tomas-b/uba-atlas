@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.analisis-1.taylor",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.analisis-1", "label": "Análisis I" },
+    { "address": "uba.fcen.computacion.analisis-1.taylor", "label": "Polinomio de Taylor" }
+  ],
+  "eyebrow": "Análisis I · unidad · U4",
+  "title": "Aproximar con polinomios.",
+  "lede": "Aproximar funciones por polinomios: el polinomio de Taylor en una variable, y su extensión a funciones de 2 y 3 variables con la matriz Hessiana.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Rol", "v": "herramienta", "small": "aproximación" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Polinomio de Taylor para funciones de 1 variable. Aproximaciones de Taylor para funciones de 2 y 3 variables. Matriz Hessiana. La herramienta que prepara la clasificación de extremos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "POLINOMIO DE TAYLOR (U4)\n│\n├─ 1 variable    · polinomio de Taylor\n├─ 2 y 3 var.    · aproximaciones\n└─ Hessiana      · matriz de segundas derivadas",
+        "foot": "Temas del programa oficial del DM (Análisis I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+}

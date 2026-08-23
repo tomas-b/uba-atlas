@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.quimica.compuestos-organicos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 11,
+    "de": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica.compuestos-organicos",
+      "label": "Compuestos orgánicos"
+    }
+  ],
+  "eyebrow": "Química · unidad · Unidad 11 · adicional Odontología",
+  "title": "Compuestos orgánicos",
+  "lede": "La unidad extra que cursan solo los estudiantes de Odontología.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "11",
+      "small": "de 11"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Hidrocarburos, alcoholes, aldehídos, cetonas; Ácidos carboxílicos, ésteres, éteres; Aminas, amidas; Nomenclatura e isomería.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "COMPUESTOS ORGÁNICOS\n│\n• Hidrocarburos, alcoholes, aldehídos, cetonas\n• Ácidos carboxílicos, ésteres, éteres\n• Aminas, amidas\n• Nomenclatura e isomería",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

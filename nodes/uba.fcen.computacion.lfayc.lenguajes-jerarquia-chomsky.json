@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.lfayc.lenguajes-jerarquia-chomsky",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
+    { "address": "uba.fcen.computacion.lfayc.lenguajes-jerarquia-chomsky", "label": "Lenguajes formales y jerarquía de Chomsky" }
+  ],
+  "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 1",
+  "title": "Qué es un lenguaje formal y cómo se ordena la jerarquía de Chomsky.",
+  "lede": "Se define la noción de lenguaje formal y se organiza el panorama mediante la jerarquía de Chomsky, que estratifica los lenguajes según su poder gramatical.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "fundamentos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La unidad establece el vocabulario básico de los lenguajes formales y su clasificación en la jerarquía de Chomsky.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LENGUAJES FORMALES Y JERARQUÍA DE CHOMSKY (unidad 1)\n│\n├─ Tema · definición de lenguaje formal\n└─ Idea · la jerarquía de Chomsky ordena las clases de lenguajes",
+        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

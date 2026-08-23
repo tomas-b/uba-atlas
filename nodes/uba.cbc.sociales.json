@@ -1,0 +1,54 @@
+{
+  "address": "uba.cbc.sociales",
+  "level": "institución",
+  "kind": "cbc-area",
+  "metadata": {
+    "role": "orientación del CBC",
+    "note": "materias propias del área (ciencias sociales y humanas); las universales (Pensamiento Científico, Sociedad y Estado) viven en el padre uba.cbc",
+    "ownsSubjects": true,
+    "nucleoFijo": false
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociales", "label": "Ciencias Sociales y Humanas" }
+  ],
+  "eyebrow": "CBC · orientación Ciencias Sociales y Humanas",
+  "title": "El umbral de las humanidades: un pool, no un núcleo fijo.",
+  "lede": "Una de las tres orientaciones del CBC. A diferencia de Exactas —que tiene un núcleo fijo—, acá no hay dos materias de área iguales para todos. Sobre las dos universales (que viven en el CBC), cada carrera arma sus cuatro materias restantes con subjects de un mismo pool de ciencias sociales y humanas. Estas son las materias propias del área.",
+  "meta": [
+    { "k": "Orientación", "v": "1/3", "small": "del CBC" },
+    { "k": "Materias", "v": "9", "small": "del área · pool" },
+    { "k": "Tipo", "v": "área", "small": "estructural" },
+    { "k": "Núcleo", "v": "variable", "small": "según carrera" }
+  ],
+  "frame": "Las materias de esta orientación del CBC. Ojo con la diferencia estructural: acá el par «de área» no es fijo. La normativa dice 2 universales + 2 de orientación + 2 de carrera, pero en Sociales-Humanas el bloque de orientación y el de carrera se componen desde un mismo pool según la carrera —y la combinación exacta de cada carrera vive en anexos-imagen del Código UBA que no se pudieron extraer (queda sin sourcear). Lo que sí es firme y oficial es el pool: los subjects que integran los Departamentos III y IV del CBC. Además, algunas carreras suman materias propias que no son de este pool: Económicas cursa Matemática I y II (materias del departamento de matemática, no listadas acá), y las carreras de Derecho suman las dos materias de Principios que sí figuran en el área. Las dos universales no están acá — son del CBC entero.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Materias del área · el pool de la orientación",
+      "title": "",
+      "note": "Los nueve subjects de ciencias sociales y humanas del CBC (Departamentos III y IV del Código UBA). Cada carrera del área toma cuatro; el reparto exacto por carrera vive en anexos que no se pudieron extraer.",
+      "map": {
+        "mk": "El pool, en una línea",
+        "tree": "SOCIALES Y HUMANAS · pool de materias del área\n│\n├─ Depto III · lo social y lo económico-jurídico\n│     • Sociología\n│     • Ciencia Política\n│     • Economía\n│     • Antropología\n│     • Principios Generales del Derecho Privado   (Derecho)\n│     • Principios de DDHH y Derecho Constitucional (Derecho)\n│\n└─ Depto IV · lo simbólico y lo subjetivo\n      • Filosofía\n      • Semiología\n      • Psicología",
+        "foot": "Además, fuera de este pool: Económicas cursa Matemática I y II (dpto. de matemática). Las universales (Pensamiento Científico, Sociedad y Estado) son del CBC, no del área."
+      },
+      "exits": [
+        { "address": "uba.cbc.sociales.sociologia", "name": "Sociología", "role": "pool · lo social", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.ciencia-politica", "name": "Ciencia Política", "role": "pool · lo político", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.economia", "name": "Economía", "role": "pool · lo económico", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.antropologia", "name": "Antropología", "role": "pool · lo cultural", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.filosofia", "name": "Filosofía", "role": "pool · lo problemático", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.semiologia", "name": "Semiología", "role": "pool · lo discursivo", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.psicologia", "name": "Psicología", "role": "pool · lo subjetivo", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.derecho-privado", "name": "Principios Generales del Derecho Privado", "role": "área · carreras de Derecho", "tag": "materia CBC", "kind": "course" },
+        { "address": "uba.cbc.sociales.ddhh-constitucional", "name": "Principios de Derechos Humanos y Derecho Constitucional", "role": "área · carreras de Derecho", "tag": "materia CBC", "kind": "course" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Caps. B y D",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/"
+  }
+}

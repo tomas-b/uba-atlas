@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.teoria-constitucional",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.teoria-constitucional", "label": "Teoría constitucional" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 1",
+  "title": "Qué es una constitución, y su tensión con la democracia.",
+  "lede": "La teoría constitucional y sus antecedentes: las ideas y precedentes que dan forma al constitucionalismo. En su centro, la tensión entre democracia y constitucionalismo — entre la voluntad de las mayorías y los límites que una constitución impone.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Teoría constitucional · antecedentes · democracia y constitucionalismo",
+      "note": "Teoría constitucional. Antecedentes constitucionales. Tensiones entre democracia y constitucionalismo.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

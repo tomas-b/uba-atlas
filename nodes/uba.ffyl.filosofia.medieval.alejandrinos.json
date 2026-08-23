@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.alejandrinos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.alejandrinos", "label": "Judaísmo y cristianismo alejandrinos" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · I de VIII",
+  "title": "Cuando Moisés se leyó con Platón.",
+  "lede": "El arranque, y los problemas historiográficos: dónde empieza 'lo medieval', la metafísica del Éxodo, la cultura del Libro. El encuentro entre el judaísmo y el platonismo medio en Filón de Alejandría —Moisés y Platón, la noción de Lógos— y el cristianismo como 'filosofía revelada' en Clemente.",
+  "meta": [
+    { "k": "Unidad", "v": "I", "small": "de VIII" },
+    { "k": "Figuras", "v": "Filón", "small": "· Clemente" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Problemas historiográficos relativos a la periodización. Metafísica del Éxodo y multiplicidad de mundos medievales. Filosofía y Cultura del Libro. El encuentro entre judaísmo y platonismo medio en Filón de Alejandría: Moisés y Platón; la noción de Lógos. Cristianismo y platonismo medio en Clemente de Alejandría. El cristianismo como 'filosofía revelada' y modo de vida.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad I.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "JUDAÍSMO Y CRISTIANISMO ALEJANDRINOS (Unidad I)\n│\n├─ Periodización     ¿dónde empieza el Medioevo? · metafísica del Éxodo\n├─ Filón            judaísmo + platonismo medio · Moisés y Platón · el Lógos\n└─ Clemente         el cristianismo como 'filosofía revelada'",
+        "foot": "Temas del programa 2020 (D'Amico / Castello Dubra). Fuentes: Filón y Clemente."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad I", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

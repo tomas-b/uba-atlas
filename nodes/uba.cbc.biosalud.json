@@ -1,0 +1,98 @@
+{
+  "address": "uba.cbc.biosalud",
+  "level": "institución",
+  "kind": "cbc-area",
+  "metadata": {
+    "role": "orientación del CBC",
+    "note": "materias propias del área; las universales (Pensamiento Científico, Sociedad y Estado) viven en el padre uba.cbc",
+    "ownsSubjects": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    }
+  ],
+  "eyebrow": "CBC · orientación Ciencias Biológicas y de la Salud",
+  "title": "El umbral de las carreras de la vida.",
+  "lede": "Una de las tres orientaciones del CBC. Sobre las dos materias universales (que viven en el CBC) suma un núcleo de ciencias de base biológica: Matemática, Química y una Física leída como biofísica, más una Biología que se ramifica según la carrera. Estas son las materias propias del área.",
+  "meta": [
+    {
+      "k": "Orientación",
+      "v": "Bio·Salud",
+      "small": "1 de 3"
+    },
+    {
+      "k": "Materias",
+      "v": "5",
+      "small": "del área"
+    },
+    {
+      "k": "Carreras",
+      "v": "5",
+      "small": "facultades"
+    },
+    {
+      "k": "Nivel",
+      "v": "umbral"
+    }
+  ],
+  "frame": "Las materias de esta orientación del CBC. El núcleo —Matemática, Química y Física e Introducción a la Biofísica— lo cursan las cinco carreras. La biología, en cambio, se bifurca: Medicina, Odontología, Farmacia y Bioquímica cursan Biología e Introducción a la Biología Celular; Veterinaria y Agronomía cursan Biología. Las dos universales no están acá — son del CBC entero. (Nota honesta: Agronomía y Veterinaria cursan además una Matemática con variante propia de su facultad.)",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Materias del área",
+      "title": "",
+      "note": "Tres materias de núcleo (todas las carreras) y dos versiones de biología según el destino.",
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.matematica",
+          "name": "Matemática",
+          "role": "núcleo · todas",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica",
+          "name": "Química",
+          "role": "núcleo · todas",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.biosalud.fisica-biofisica",
+          "name": "Física e Introducción a la Biofísica",
+          "role": "núcleo · todas",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular",
+          "name": "Biología e Introducción a la Biología Celular",
+          "role": "Medicina · Odontología · Farmacia · Bioquímica",
+          "tag": "materia CBC",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia",
+          "name": "Biología",
+          "role": "Veterinaria · Agronomía",
+          "tag": "materia CBC",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Materias del CBC por carrera",
+    "url": "https://www.cbc.uba.ar/misc/Materias%20CBC%20de%20carreras%20UBA.pdf"
+  }
+}

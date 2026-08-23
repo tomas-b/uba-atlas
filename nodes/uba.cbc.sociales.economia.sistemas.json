@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.economia.sistemas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 8,
+    "de": 10,
+    "materia": "Economía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.economia",
+      "label": "Economía"
+    },
+    {
+      "address": "uba.cbc.sociales.economia.sistemas",
+      "label": "Sistemas económicos y planificación"
+    }
+  ],
+  "eyebrow": "Economía · unidad · contenido 8",
+  "title": "Capitalismo, socialismo y el rol del Estado.",
+  "lede": "Capitalismo y socialismo, la planificación frente al mercado y el papel del Estado.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "8",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Sistemas económicos y planificación. Capitalismo y socialismo: Aspectos políticos y económicos. La planificación y el reemplazo de los mecanismos de mercado. La planificación del desarrollo en las economías subdesarrolladas. El papel del estado.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

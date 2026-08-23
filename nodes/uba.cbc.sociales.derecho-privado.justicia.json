@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.derecho-privado.justicia",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 2,
+    "de": 10,
+    "materia": "Principios Generales del Derecho Privado"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado",
+      "label": "Principios Generales del Derecho Privado"
+    },
+    {
+      "address": "uba.cbc.sociales.derecho-privado.justicia",
+      "label": "Justicia, derecho y legitimidad"
+    }
+  ],
+  "eyebrow": "Principios Generales del Derecho Privado · unidad · contenido 2",
+  "title": "La pregunta por lo justo.",
+  "lede": "El concepto de justicia y la relación entre derecho, ley y legitimidad.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "2",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Introducción histórica a la cuestión del concepto de justicia. Derecho, ley y legitimidad. Aproximación a la historia de las ideas filosófico-jurídicas y su relación con el Derecho Privado.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

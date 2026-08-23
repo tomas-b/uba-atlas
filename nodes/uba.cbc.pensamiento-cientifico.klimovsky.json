@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.klimovsky",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L3",
+  "metadata": { "author": "Gregorio Klimovsky", "title": "Las desventuras del conocimiento científico. Una introducción a la epistemología", "publisher": "A-Z Editora", "place": "Buenos Aires", "year": 1994 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.klimovsky", "label": "Klimovsky · Las desventuras del conocimiento científico" }
+  ],
+  "eyebrow": "Pensamiento Científico · libro · el manual de la cátedra",
+  "title": "Klimovsky — Las desventuras del conocimiento científico.",
+  "lede": "El texto vertebral del curso: la introducción a la epistemología del epistemólogo argentino que formó a generaciones. Recorre, en orden, casi todo el programa — conocimiento y método, la estructura de las teorías, contrastación, explicación, el método hipotético-deductivo — con un lenguaje llano pensado para quien entra por primera vez.",
+  "meta": [
+    { "k": "Autor", "v": "Klimovsky" },
+    { "k": "Edición", "v": "A-Z", "small": "Bs. As., 1994" },
+    { "k": "Grounding", "v": "L3", "small": "libro" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "Gregorio Klimovsky (1922–2009), matemático y epistemólogo, referencia obligada de la filosofía de la ciencia en Argentina. «Las desventuras del conocimiento científico» es el manual base del IPC: acompaña la mayoría de las unidades, del problema del conocimiento y la inducción a la estructura de las teorías, la base empírica, la contrastación de hipótesis, el método hipotético-deductivo y la explicación. Su lugar en el curso es el del hilo continuo sobre el que se apoyan las lecturas más específicas (Popper, Kuhn, Hempel, Chalmers).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El libro, a esta resolución",
+      "title": "Qué cubre",
+      "note": "El fondo del pozo: aquí el mapa toca el terreno del texto asignado.",
+      "map": {
+        "mk": "El manual, comprimido",
+        "tree": "LAS DESVENTURAS DEL CONOCIMIENTO CIENTÍFICO\n│\n├─ Conocimiento, verdad y método\n├─ Estructura de las teorías · términos, enunciados, base empírica\n├─ Contrastación de hipótesis · el método hipotético-deductivo\n└─ Explicación científica\n        → el hilo continuo del programa, unidad por unidad",
+        "foot": "Metadatos de la cátedra IPC. El contenido capítulo por capítulo sería un índice L3 más fino; a esta altura se lo referencia como el manual base del curso."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "IPC · bibliografía CBC UBA", "url": "https://www.cbc.uba.ar/" }
+}

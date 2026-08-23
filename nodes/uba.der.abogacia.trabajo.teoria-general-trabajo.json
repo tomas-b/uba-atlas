@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.trabajo.teoria-general-trabajo",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" },
+    { "address": "uba.der.abogacia.trabajo.teoria-general-trabajo", "label": "Teoría general del trabajo" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · Unidad 1",
+  "title": "Las categorías que fundan el derecho del trabajo.",
+  "lede": "La teoría general del derecho del trabajo y sus categorías conceptuales fundamentales: los sujetos, los principios, las fuentes y los medios técnicos con que la disciplina protege el trabajo humano.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Trabajo y Seg. Social", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Sujetos, principios, fuentes y medios técnicos",
+      "note": "Categorías conceptuales fundamentales de la teoría general del derecho del trabajo, en particular sujetos, principios, fuentes y medios técnicos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

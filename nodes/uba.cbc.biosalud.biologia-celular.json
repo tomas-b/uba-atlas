@@ -1,0 +1,138 @@
+{
+  "address": "uba.cbc.biosalud.biologia-celular",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Biología CBC · Cátedra Skerl (FFyB)",
+    "unidades": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia-celular",
+      "label": "Biología e Introducción a la Biología Celular"
+    }
+  ],
+  "eyebrow": "Biología e Introducción a la Biología Celular · CBC · Bio·Salud",
+  "title": "La célula como unidad de las ciencias de la salud.",
+  "lede": "La biología del perfil de la salud, centrada en la célula. Organizada en cinco unidades temáticas que van de la introducción al estudio de la vida hasta la evolución, pasando por la organización del citoplasma, el genoma y la reproducción. Es la biología de Medicina, Odontología, Farmacia y Bioquímica.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cursan",
+      "v": "Medicina",
+      "small": "carreras"
+    }
+  ],
+  "frame": "Estructura del programa analítico de la Cátedra Skerl (FFyB), que divide la materia en cinco unidades temáticas. El recorrido arma la célula por dentro —citoplasma, genoma— y después la pone en contexto: cómo se reproduce y cómo cambia a lo largo del tiempo. Su foco es la importancia de la biología celular en las ciencias de la salud humana.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa, en 5 unidades",
+        "tree": "BIOLOGÍA E INTRODUCCIÓN A LA BIOLOGÍA CELULAR\n│\n├─ Unidad temática 1 · Introducción al estudio de la Biología\n├─ Unidad temática 2 · Organización del citoplasma\n├─ Unidad temática 3 · Organización del genoma\n├─ Unidad temática 4 · Reproducción y desarrollo\n└─ Unidad temática 5 · Evolución",
+        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.introduccion",
+          "name": "Introducción al estudio de la Biología",
+          "role": "Unidad temática 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.citoplasma",
+          "name": "Organización del citoplasma",
+          "role": "Unidad temática 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.genoma",
+          "name": "Organización del genoma",
+          "role": "Unidad temática 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.reproduccion-desarrollo",
+          "name": "Reproducción y desarrollo",
+          "role": "Unidad temática 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.evolucion",
+          "name": "Evolución",
+          "role": "Unidad temática 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los libros de la cátedra",
+      "note": "Bibliografía del programa analítico de la Cátedra Skerl (FFyB, ffyb.uba.ar).",
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.de-robertis-hib",
+          "name": "De Robertis y Hib — Fundamentos de Biología Celular y Molecular",
+          "role": "4ª ed. · 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.curtis",
+          "name": "Curtis, Barnes, Schnek y Massarini — Biología",
+          "role": "7ª ed. · 2008",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia-celular.alberts",
+          "name": "Alberts y col. — Biología Molecular de la Célula",
+          "role": "5ª ed. · 2010",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Programa Analítico Biología e Introd. a la Biología Celular (Cát. Skerl)",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/04.-Programa-Analitico-de-Biologia-e-Introduccion-a-la-Biologia-Celular-CBC.pdf"
+  }
+}

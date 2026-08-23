@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.camino-minimo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.camino-minimo", "label": "Camino Mínimo" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 6",
+  "title": "La ruta más corta depende de qué tan cargado esté el grafo.",
+  "lede": "La unidad trata los algoritmos de Dijkstra y Bellman-Ford, Floyd-Warshall y los caminos mínimos en DAGs. Incluye la selección del algoritmo según se trate de grafos densos o ralos.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "distancias mínimas" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Calcular caminos mínimos con Dijkstra, Bellman-Ford, Floyd-Warshall y sobre DAGs, eligiendo el algoritmo según la densidad del grafo.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CAMINO MÍNIMO (bloque 6)\n│\n├─ Tema · algoritmos de Dijkstra y Bellman-Ford\n├─ Tema · Floyd-Warshall\n├─ Tema · caminos mínimos en DAGs\n└─ Idea · selección del algoritmo según grafos densos o ralos",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

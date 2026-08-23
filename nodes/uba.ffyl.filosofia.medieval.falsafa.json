@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.falsafa",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.falsafa", "label": "Introducción a la falsafa" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · V de VIII",
+  "title": "La filosofía nace en árabe.",
+  "lede": "El giro del curso hacia el mundo islámico. La distinción entre filosofía del Islam y filosofía en el Islam; la oposición entre la falsafa y el kalam; las condiciones históricas de su surgimiento, el movimiento de traducción abasí, y la creación del corpus 'teológico' del círculo de Al-Kindi.",
+  "meta": [
+    { "k": "Unidad", "v": "V", "small": "de VIII" },
+    { "k": "Foco", "v": "falsafa", "small": "Al-Kindi" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Filosofía del Islam y filosofía en el Islam. Distinción y oposición entre la filosofía (falsafa) y el kalam. Las condiciones históricas del surgimiento de la falsafa. La política cultural de la dinastía abasí y el movimiento de traducción de textos. La creación del corpus 'teológico' del círculo de Al-Kindi.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad V.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTRODUCCIÓN A LA FALSAFA (Unidad V)\n│\n├─ Falsafa vs. kalam    filosofía DEL islam y EN el islam\n├─ El surgimiento       la dinastía abasí · el movimiento de traducción\n└─ Al-Kindi             el primer corpus filosófico en árabe",
+        "foot": "Temas del programa 2020. Abre el bloque de filosofía islámica (unidades V–VIII)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad V", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

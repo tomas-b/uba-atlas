@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.tda.grafos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
+    { "address": "uba.fcen.computacion.tda.grafos", "label": "Grafos: representación y recorridos" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 5",
+  "title": "Nodos y aristas: la estructura que conecta todo lo demás.",
+  "lede": "La unidad presenta los conceptos básicos, los tipos de grafos y sus propiedades, junto con su representación. Cubre los recorridos DFS y BFS y el árbol generador mínimo con los algoritmos de Prim y Kruskal.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "estructura y recorridos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Representar grafos y recorrerlos con DFS y BFS, y construir el árbol generador mínimo con Prim y Kruskal.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "GRAFOS: REPRESENTACIÓN Y RECORRIDOS (bloque 5)\n│\n├─ Tema · conceptos básicos, tipos de grafos y propiedades\n├─ Tema · representación\n├─ Tema · recorridos DFS y BFS\n└─ Idea · árbol generador mínimo (Prim y Kruskal)",
+        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

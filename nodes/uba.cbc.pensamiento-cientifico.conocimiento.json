@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.conocimiento",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1, "lecturas": ["Klimovsky", "Hume", "Chalmers"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.conocimiento", "label": "Conocimiento, deducción e inducción" }
+  ],
+  "eyebrow": "Pensamiento Científico · unidad · Conocimiento y razonamiento",
+  "title": "Cómo sabemos — y el golpe de Hume.",
+  "lede": "La unidad que abre el curso. Distingue tipos de conocimiento y objetos (empíricos, accesibles a la experiencia, vs. teóricos, capturados por inferencia), y separa el razonamiento deductivo del inductivo. Termina en el problema que ordena todo lo que sigue: la inducción no se justifica lógicamente (Hume).",
+  "meta": [
+    { "k": "Unidad", "v": "apertura" },
+    { "k": "Lecturas", "v": "3", "small": "Klimovsky · Hume · Chalmers" },
+    { "k": "Grounding", "v": "L2", "small": "temas + lecturas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El montaje del curso. Conocer: objetos empíricos vs. teóricos. Razonar: deducción (válida pero no amplía) vs. inducción (amplía pero no se justifica). El golpe de Hume — no hay base lógica para pasar de casos observados a una ley general — es el problema que el resto del curso intenta resolver (Popper responderá con la falsación). Lecturas de la cátedra: Klimovsky, «Las desventuras del conocimiento científico»; Hume sobre causalidad y empirismo; Chalmers sobre el inductivismo ingenuo.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CONOCIMIENTO, DEDUCCIÓN E INDUCCIÓN\n│\n├─ ¿Qué es conocer?  · objetos empíricos vs. teóricos\n├─ Deducción         · válida, pero no amplía el conocimiento\n├─ Inducción         · amplía, pero ¿está justificada?\n└─ El problema de Hume · no: de casos a ley no hay puente lógico\n        → abre la pregunta que el curso intentará contestar",
+        "foot": "Temas de la cátedra (IPC). Las lecturas específicas (Klimovsky, Hume, Chalmers) están en el programa; el contenido de cada texto es un índice aparte."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "IPC · programa CBC UBA (cátedra)", "url": "https://idoc.pub/documents/idocpub-3no755pr0gld" }
+}

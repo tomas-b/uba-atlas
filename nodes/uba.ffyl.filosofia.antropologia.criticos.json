@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia.criticos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "de": 5, "materia": "Antropología Filosófica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" },
+    { "address": "uba.ffyl.filosofia.antropologia.criticos", "label": "La Antropología Filosófica y sus críticos" }
+  ],
+  "eyebrow": "Antropología Filosófica · unidad · 2 de 5",
+  "title": "La disciplina y quienes la impugnan.",
+  "lede": "La constitución de la Antropología Filosófica en el siglo XX y sus modelos — Buber, Cassirer, Gehlen, Scheler, y los latinoamericanos como Kusch — frente a las críticas al 'giro antropológico': Heidegger, Horkheimer, Foucault, Althusser.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Rol", "v": "estatuto", "small": "críticas" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La Antropología Filosófica y sus críticos. La constitución de la Antropología Filosófica en el siglo XX; modelos y marcos teóricos de la disciplina (M. Buber, E. Cassirer, A. Gehlen, M. Scheler; modelos latinoamericanos: R. Kusch). Críticas al 'giro antropológico' y a la Antropología Filosófica; algunos exponentes: M. Heidegger, M. Horkheimer, M. Foucault, L. Althusser.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad II del programa Bonilla.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Antropología Filosófica Nº 0232 (Bonilla) · Unidad II", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

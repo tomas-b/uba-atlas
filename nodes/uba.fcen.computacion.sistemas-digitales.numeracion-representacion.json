@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" },
+    { "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion", "label": "Numeración y representación" }
+  ],
+  "eyebrow": "Sistemas Digitales · unidad · 2",
+  "title": "Cómo se escriben los números y los símbolos en una máquina.",
+  "lede": "Sistemas y bases de numeración, junto con los sistemas de codificación como ASCII y UTF.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "numeración y códigos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Los sistemas de numeración, sus bases y los sistemas de codificación de símbolos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "NUMERACIÓN Y REPRESENTACIÓN (bloque 2)\n│\n├─ Tema · sistemas de numeración\n├─ Tema · bases de numeración\n└─ Idea · sistemas de codificación (ASCII, UTF, etc.)",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Sistemas Digitales, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

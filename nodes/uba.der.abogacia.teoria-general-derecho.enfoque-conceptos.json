@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho.enfoque-conceptos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-general-derecho", "label": "Teoría General del Derecho" },
+    { "address": "uba.der.abogacia.teoria-general-derecho.enfoque-conceptos", "label": "Enfoque y conceptos" }
+  ],
+  "eyebrow": "Teoría General del Derecho · Unidad 1",
+  "title": "El enfoque de la disciplina y sus conceptos base.",
+  "lede": "El punto de partida de la materia: el enfoque de la Teoría General del Derecho como forma de mirar lo jurídico, y los conceptos jurídicos fundamentales sobre los que se apoya todo lo demás.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "TGD", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Enfoque de la Teoría General del Derecho · conceptos jurídicos fundamentales",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: el enfoque de la Teoría General del Derecho y los conceptos jurídicos fundamentales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.matrices-determinantes",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.matrices-determinantes",
+      "label": "Matrices y Determinantes"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U3",
+  "title": "Sistemas lineales, matrices y determinantes.",
+  "lede": "La herramienta de cálculo. Sistemas de ecuaciones lineales y su resolución, matrices y sus operaciones, el rango, y los determinantes con sus propiedades — el número que decide si una matriz es inversible.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "3",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "cálculo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Sistemas de ecuaciones lineales: resolución por eliminación de Gauss, sistemas compatibles e incompatibles. Matrices: operaciones, matriz inversa, rango. Determinantes: cálculo, propiedades, relación con la inversibilidad y con los sistemas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MATRICES Y DETERMINANTES (U3)\n│\n├─ Sistemas      · ecuaciones lineales, Gauss\n├─ Matrices      · operaciones, rango, inversa\n└─ Determinantes · cálculo, propiedades, inversibilidad",
+        "foot": "Temas de la cátedra de Álgebra. El cálculo operativo del álgebra lineal."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

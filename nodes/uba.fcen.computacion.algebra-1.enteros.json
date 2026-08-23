@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.enteros",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.algebra-1", "label": "Álgebra I" },
+    { "address": "uba.fcen.computacion.algebra-1.enteros", "label": "Números enteros" }
+  ],
+  "eyebrow": "Álgebra I · unidad · U3",
+  "title": "Divisibilidad, congruencias y RSA.",
+  "lede": "La aritmética de los enteros: divisibilidad, primos, máximo común divisor y el algoritmo de Euclides. Congruencias y aritmética modular, el Teorema Chino del Resto, y su aplicación estrella — la criptografía RSA.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "núcleo", "small": "aritmética" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Divisibilidad en los enteros. Números primos. Algoritmo de división y algoritmo de Euclides. Máximo común divisor. Congruencias y aritmética modular. Teorema Chino del Resto. Aplicación: criptografía RSA. El corazón aritmético del curso, con enfoque algorítmico.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "NÚMEROS ENTEROS (U3)\n│\n├─ Divisibilidad · primos, Euclides, mcd\n├─ Congruencias · aritmética modular\n├─ Teoremas     · Teorema Chino del Resto\n└─ Aplicación   · criptografía RSA",
+        "foot": "Temas del programa oficial del DM (Álgebra I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" }
+}

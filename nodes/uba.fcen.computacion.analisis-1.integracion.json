@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.analisis-1.integracion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.analisis-1", "label": "Análisis I" },
+    { "address": "uba.fcen.computacion.analisis-1.integracion", "label": "Integración" }
+  ],
+  "eyebrow": "Análisis I · unidad · U6",
+  "title": "Integrales dobles y triples.",
+  "lede": "El cierre del curso: de las integrales impropias en una variable a las integrales dobles y triples, con el teorema de Fubini y el cambio de variables en coordenadas polares, cilíndricas y esféricas.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Rol", "v": "cierre", "small": "cálculo integral" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Integrales impropias en 1 variable. Integrales dobles en regiones rectangulares y generales. Teorema de Fubini. Integrales triples. Cambio de coordenadas: polares, cilíndricas y esféricas. Teorema de cambio de variables. El cálculo integral en varias variables.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTEGRACIÓN (U6)\n│\n├─ Impropias · en 1 variable\n├─ Dobles    · Fubini, regiones generales\n├─ Triples   · en el espacio\n└─ Cambio    · polares, cilíndricas, esféricas",
+        "foot": "Temas del programa oficial del DM (Análisis I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+}

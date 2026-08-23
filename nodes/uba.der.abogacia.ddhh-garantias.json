@@ -1,0 +1,57 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · CPC · Abogacía",
+  "title": "Los derechos humanos, de su fundamentación a su defensa ante los tribunales.",
+  "lede": "Materia cuatrimestral del Ciclo Profesional Común. Recorre la noción de derechos humanos desde su evolución y consagración jurídica hasta la práctica de defenderlos: fundamentación teórica, principios e interpretación, clasificación y estructura de los derechos, sistemas de protección internos e internacionales, análisis de jurisprudencia y resolución de casos. Los contenidos mínimos oficiales se organizan en seis unidades.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra de la Prof. Titular Mónica Pinto.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "De la noción a la práctica de los derechos humanos",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "DERECHOS HUMANOS Y GARANTÍAS\n│\n├─ Unidad 1 · Noción y fundamentación\n├─ Unidad 2 · Principios e interpretación\n├─ Unidad 3 · Clasificación y estructura\n├─ Unidad 4 · Sistemas de protección\n├─ Unidad 5 · Análisis de jurisprudencia\n└─ Unidad 6 · Práctica y defensa",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Pinto."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.ddhh-garantias.nocion-fundamentacion", "name": "Noción y fundamentación de los derechos humanos", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.ddhh-garantias.principios-interpretacion", "name": "Principios e interpretación", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.ddhh-garantias.clasificacion-estructura", "name": "Clasificación y estructura de los derechos", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.ddhh-garantias.sistemas-proteccion", "name": "Sistemas de protección", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.ddhh-garantias.jurisprudencia", "name": "Análisis de jurisprudencia", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.ddhh-garantias.practica-defensa", "name": "Práctica y defensa de derechos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía obligatoria del programa de la cátedra de la Prof. Titular Mónica Pinto (adjunto Leonardo Filippini). El texto central es «Temas de derechos humanos». Fuente: programa de cátedra.",
+      "exits": [
+        { "address": "uba.der.abogacia.ddhh-garantias.pinto-temas", "name": "Mónica Pinto — Temas de derechos humanos", "role": "texto central · Del Puerto 1997", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.ddhh-garantias.nikken-concepto", "name": "Pedro Nikken — Sobre el concepto de derechos humanos", "role": "obligatoria", "tag": "texto", "kind": "book" },
+        { "address": "uba.der.abogacia.ddhh-garantias.pinto-discriminacion-violencia", "name": "Mónica Pinto — Discriminación y violencia. Los derechos de las mujeres", "role": "Pensar en Derecho nº 9 · 2017", "tag": "texto", "kind": "book" },
+        { "address": "uba.der.abogacia.ddhh-garantias.abramovich-campo-algodonero", "name": "Víctor Abramovich — Responsabilidad estatal por la violencia de género («Campo Algodonero»)", "role": "Anuario de DDHH · 2010", "tag": "texto", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

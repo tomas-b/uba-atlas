@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general.derecho-objetivo-subjetivo",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.civil-parte-general", "label": "Civil · Parte General" },
+    { "address": "uba.der.abogacia.civil-parte-general.derecho-objetivo-subjetivo", "label": "Derecho objetivo y subjetivo" }
+  ],
+  "eyebrow": "Civil · Parte General · Unidad 1",
+  "title": "Qué es el derecho y qué lugar ocupa el civil.",
+  "lede": "Las distinciones que fundan la disciplina: derecho objetivo y derecho subjetivo, derecho natural y positivo, las ramas tradicionales y modernas. Sitúa al derecho civil por su evolución histórica y su contenido actual, y lo enmarca en los principios generales del derecho, la codificación, el método del Código Civil y Comercial de la Nación, el impacto del derecho internacional de los Derechos Humanos y las nociones elementales de derecho privado.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Civil P.G.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Nociones fundantes del derecho civil",
+      "note": "Derecho objetivo y derecho subjetivo · derecho natural y positivo: concepto · ramas tradicionales y modernas · derecho civil: evolución histórica y contenido actual · principios generales del derecho, concepto e importancia actual · la codificación · el método en el Código Civil y Comercial de la Nación · impacto del derecho internacional de los Derechos Humanos · nociones elementales de derecho privado.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

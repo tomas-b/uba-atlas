@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.trabajo.relacion-individual",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" },
+    { "address": "uba.der.abogacia.trabajo.relacion-individual", "label": "Relación individual" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · Unidad 2",
+  "title": "El vínculo entre trabajador y empleador, de principio a fin.",
+  "lede": "La relación individual de trabajo en toda su extensión: contrato y relación de trabajo, sujetos, objeto, forma y prueba, modalidades contractuales, poderes del empleador, derechos y deberes de las partes, remuneración, jornada, pausas y descansos, suspensión de la exigibilidad de la prestación, la salud del trabajador, la novación subjetiva del contrato, la terminación de la relación y la extinción y protección de los créditos laborales.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "Trabajo y Seg. Social", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Del contrato a la extinción de los créditos laborales",
+      "note": "Contrato y relación de trabajo; sujetos, objeto, forma y prueba; modalidades contractuales; poderes del empleador; derechos y deberes de las partes; remuneración; jornada de trabajo; pausas y descansos; suspensión de la exigibilidad de la prestación laboral; la salud del trabajador y la relación de trabajo; novación subjetiva del contrato; terminación de la relación de trabajo; extinción y protección de los créditos laborales.",
+      "map": {
+        "mk": "Los tramos de la relación individual",
+        "tree": "RELACIÓN INDIVIDUAL DE TRABAJO\n│\n├─ Contrato y relación de trabajo\n├─ Sujetos, objeto, forma y prueba\n├─ Modalidades contractuales\n├─ Poderes del empleador\n├─ Derechos y deberes de las partes\n├─ Remuneración\n├─ Jornada de trabajo\n├─ Pausas y descansos\n├─ Suspensión de la exigibilidad de la prestación\n├─ Salud del trabajador y relación de trabajo\n├─ Novación subjetiva del contrato\n├─ Terminación de la relación de trabajo\n└─ Extinción y protección de los créditos laborales",
+        "foot": "Conceptos de los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,101 @@
+{
+  "address": "uba.cbc",
+  "level": "institución",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    }
+  ],
+  "eyebrow": "Ciclo Básico Común · el umbral compartido",
+  "title": "La puerta única. Todos entran por acá.",
+  "lede": "Antes de pisar cualquier facultad, todo estudiante corre el mismo <b>bootstrap</b>: seis materias cuatrimestrales. Dos son de toda la universidad, dos te ubican en un área, y dos ya apuntan a tu carrera. El área que elegís es el ruteo — te encamina hacia un racimo de facultades.",
+  "meta": [
+    {
+      "k": "Materias",
+      "v": "6",
+      "small": "cuatrim."
+    },
+    {
+      "k": "Duración",
+      "v": "~1",
+      "small": "año · máx 3"
+    },
+    {
+      "k": "Áreas",
+      "v": "3"
+    },
+    {
+      "k": "Modo",
+      "v": "presencial",
+      "small": "o UBA XXI"
+    }
+  ],
+  "frame": "Pensá el CBC como el bootstrap que todo programa linkea antes de compilar. La fórmula es fija — 2 universales + 2 de área + 2 de carrera — pero el área que elegís enruta: te abre uno de los tres racimos de facultades. Por eso el umbral no es una antesala vacía, es el primer nodo del grafo que después se ramifica.",
+  "groups": [
+    {
+      "kind": "gate",
+      "eyebrow": "La fórmula · 6 = 2 + 2 + 2",
+      "title": "Qué se cursa",
+      "note": "Dos materias las cursa toda la UBA por igual; dos dependen del área; dos ya son de tu carrera. Ese es el ADN compartido de cualquier graduado de la universidad.",
+      "map": {
+        "mk": "El bootstrap, en una línea",
+        "tree": "CBC · seis materias cuatrimestrales\n│\n├─ UNIVERSALES (2) ── las corre toda la UBA\n│     • Introducción al Pensamiento Científico\n│     • Introducción al Conocimiento de la Sociedad y el Estado\n│\n├─ DE ÁREA (2) ────── según el racimo elegido\n│     Sociales·Humanas / Bio·Salud / Exactas·Tecno·Diseño\n│\n└─ DE CARRERA (2) ─── ya apuntan a tu destino\n      p.ej. Filosofía → 2 materias propias de Filo",
+        "foot": "Excepciones: Económicas lo llama 'primer tramo del Ciclo General'; FADU suma un taller anual de dibujo."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.pensamiento-cientifico",
+          "name": "Introducción al Pensamiento Científico",
+          "role": "universal · cómo se construye conocimiento",
+          "tag": "toda la UBA",
+          "kind": "course"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado",
+          "name": "Introducción al Conocimiento de la Sociedad y el Estado",
+          "role": "universal · lo político y lo común",
+          "tag": "toda la UBA",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Las tres orientaciones · el ruteo",
+      "title": "",
+      "note": "Cada área es una puerta a su racimo de facultades — acá el umbral abre el grafo.",
+      "exits": [
+        {
+          "address": "uba.cbc.sociales",
+          "name": "Ciencias Sociales y Humanas",
+          "role": "→ Derecho · Económicas · Sociales · Filo y Letras · Psicología",
+          "tag": "5 facultades",
+          "kind": "cbc-area"
+        },
+        {
+          "address": "uba.cbc.biosalud",
+          "name": "Ciencias Biológicas y de la Salud",
+          "role": "→ Medicina · Odontología · Farmacia · Veterinaria · Agronomía",
+          "tag": "5 facultades",
+          "kind": "cbc-area"
+        },
+        {
+          "address": "uba.cbc.exactas",
+          "name": "Ciencias Exactas, Tecnología y Diseño",
+          "role": "→ Exactas · Ingeniería · FADU",
+          "tag": "3 facultades",
+          "kind": "cbc-area"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar/carreras",
+    "url": "https://www.cbc.uba.ar/carreras"
+  }
+}

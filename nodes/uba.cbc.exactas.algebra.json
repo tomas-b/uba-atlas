@@ -1,0 +1,138 @@
+{
+  "address": "uba.cbc.exactas.algebra",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Coordinación de Matemática (CBC)",
+    "unidades": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    }
+  ],
+  "eyebrow": "Álgebra · CBC · exactas–ingeniería",
+  "title": "El álgebra lineal, de los vectores a la diagonalización.",
+  "lede": "El Álgebra del perfil exacto: una introducción al álgebra lineal. De los vectores y la geometría a los espacios vectoriales abstractos, las matrices y transformaciones lineales, hasta autovalores y diagonalización. Materia núcleo, complemento de Análisis en el área matemática.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "área mat."
+    }
+  ],
+  "frame": "Contenido de la cátedra de Álgebra (Álgebra A) del CBC: introducción al álgebra lineal, en siete unidades. Los temas están sourceados y el texto de cátedra identificado (Álgebra A, de Capitelli, Escayola, Fernández y Rossi).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades",
+      "title": "El recorrido del álgebra lineal",
+      "note": "Cada unidad en orden, de los vectores a la diagonalización.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "ÁLGEBRA — introducción al álgebra lineal\n│\n├─ U1 · Álgebra Vectorial\n├─ U2 · Espacios Vectoriales\n├─ U3 · Matrices y Determinantes\n├─ U4 · Transformaciones Lineales\n├─ U5 · Transformaciones Lineales y Matrices\n├─ U6 · Números Complejos y Polinomios\n└─ U7 · Autovalores y Autovectores",
+        "foot": "Temas de la cátedra de Álgebra. El texto de cátedra es Álgebra A (Capitelli et al.)."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.algebra.algebra-vectorial",
+          "name": "Álgebra Vectorial",
+          "role": "U1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.espacios-vectoriales",
+          "name": "Espacios Vectoriales",
+          "role": "U2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.matrices-determinantes",
+          "name": "Matrices y Determinantes",
+          "role": "U3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.transformaciones-lineales",
+          "name": "Transformaciones Lineales",
+          "role": "U4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.transformaciones-matrices",
+          "name": "Transformaciones Lineales y Matrices",
+          "role": "U5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.complejos-polinomios",
+          "name": "Números Complejos y Polinomios",
+          "role": "U6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.autovalores-autovectores",
+          "name": "Autovalores y Autovectores",
+          "role": "U7",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · sourceada",
+      "title": "El libro de la cátedra",
+      "note": "Texto oficial de la materia. Su contenido (L3) es un índice aparte.",
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.algebra.algebra-a-capitelli",
+          "name": "Álgebra A — Capitelli, Escayola, Fernández, Rossi",
+          "role": "texto de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

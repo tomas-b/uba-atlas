@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general.persona-atributos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.civil-parte-general", "label": "Civil · Parte General" },
+    { "address": "uba.der.abogacia.civil-parte-general.persona-atributos", "label": "La persona y sus atributos" }
+  ],
+  "eyebrow": "Civil · Parte General · Unidad 5",
+  "title": "Quién es persona y qué la define.",
+  "lede": "Las personas como sujetos de derecho: concepto y clases, persona humana y persona jurídica. Los atributos de la personalidad —su noción, enumeración y caracteres— a través del nombre, el estado, el domicilio, el patrimonio como conjunto de los bienes de una persona física y jurídica, y la capacidad.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Civil P.G.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "La persona como sujeto de derecho y sus atributos",
+      "note": "Las personas como sujetos de derecho: concepto · clases · persona humana · persona jurídica · atributos de la persona: noción, enumeración y caracteres · el nombre · el estado como atributo de la personalidad · domicilio de la persona · el patrimonio como conjunto de los bienes de una persona física y jurídica · la capacidad como atributo de la personalidad.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

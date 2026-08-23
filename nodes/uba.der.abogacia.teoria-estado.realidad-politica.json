@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.realidad-politica",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.realidad-politica", "label": "La realidad política" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 3",
+  "title": "La realidad política y sus actores.",
+  "lede": "La política tal como sucede: el comportamiento político y las fuerzas políticas, los partidos y su regulación en Argentina, los factores de poder y los grupos de presión, los viejos y nuevos movimientos políticos, las ONG y el papel de los medios de comunicación en la sociedad actual.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Comportamiento, fuerzas, partidos y actores del poder",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales.",
+      "map": {
+        "mk": "Los conceptos de la unidad",
+        "tree": "LA REALIDAD POLÍTICA\n│\n├─ Comportamiento político\n├─ Fuerzas políticas\n├─ Partidos políticos y la regulación de los sistemas de partidos en Argentina\n├─ Factores de poder\n├─ Grupos de presión\n├─ Viejos y nuevos movimientos políticos\n├─ ONG's\n└─ El papel de los medios de comunicación en la sociedad actual",
+        "foot": "Todos los conceptos provienen de los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

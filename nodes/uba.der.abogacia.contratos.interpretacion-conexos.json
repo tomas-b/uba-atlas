@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.interpretacion-conexos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.interpretacion-conexos", "label": "Interpretación y consumo" }
+  ],
+  "eyebrow": "Contratos · Unidad 6",
+  "title": "Interpretar el contrato, conectarlo con otros y proteger al consumidor.",
+  "lede": "La interpretación del contrato y sus reglas —intención común, interpretación restrictiva, literal y contextual, principio de conservación—; el subcontrato y los contratos conexos. Y los contratos de consumo: la relación de consumo, las prácticas abusivas, el deber de información, los contratos a distancia y por medios electrónicos y el derecho de revocación.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Interpretación, subcontrato, contratos conexos y de consumo",
+      "note": "Interpretación: intención común; interpretación restrictiva, literal y contextual; fuentes de interpretación; principio de conservación. Subcontrato: concepto, disposiciones generales, acciones del subcontratado y de quien no ha celebrado el subcontrato. Contratos conexos: concepto, interpretación, efectos. Contratos de consumo: concepto; relación de consumo; consumidor; interpretación y prelación normativa; formación del consentimiento; prácticas abusivas; trato digno, equitativo y no discriminatorio; deber de información; publicidad; contratos celebrados fuera del establecimiento comercial, a distancia y por medios electrónicos; lugar de cumplimiento; revocación (forma, plazo, efectos y excepciones); cláusulas abusivas, control y límites, control judicial.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

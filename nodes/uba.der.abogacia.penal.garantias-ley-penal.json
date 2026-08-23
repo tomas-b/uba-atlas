@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.penal.garantias-ley-penal",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.penal", "label": "Penal y Procesal Penal" },
+    { "address": "uba.der.abogacia.penal.garantias-ley-penal", "label": "Garantías y ley penal" }
+  ],
+  "eyebrow": "Penal y Procesal Penal · Unidad 1",
+  "title": "El derecho penal bajo la Constitución.",
+  "lede": "El derecho penal y la Constitución Nacional: las garantías del derecho penal y procesal penal como límite del poder punitivo. La relación entre derecho penal, ley penal y política criminal, y el concepto del castigo penal.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Materia", "v": "Penal", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Constitución, garantías y castigo",
+      "note": "Derecho penal y la Constitución Nacional · garantías del derecho penal y procesal penal · derecho penal, ley penal y política criminal · concepto del castigo penal.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,103 @@
+{
+  "address": "uba.cbc.sociales.ciencia-politica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "materia del área · cátedra CBC",
+    "orientacion": "Ciencias Sociales y Humanas",
+    "unidades": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.ciencia-politica",
+      "label": "Ciencia Política"
+    }
+  ],
+  "eyebrow": "Ciencia Política · CBC · orientación Sociales y Humanas",
+  "title": "La política estudiada como sistema, proceso y resultado.",
+  "lede": "Una introducción al conocimiento científico de la política: sus tradiciones de análisis, sus conceptos —poder, autoridad, legitimidad, conflicto— y su aplicación a casos concretos de América Latina y la Argentina.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "de área"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio pend."
+    },
+    {
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
+    }
+  ],
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques: qué es el conocimiento científico de la política, sus tres facetas (estructura, proceso, política pública), sus conceptos fundamentales y su aplicación a problemas concretos. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · las unidades",
+      "title": "De qué se trata",
+      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "map": {
+        "mk": "La materia, comprimida",
+        "tree": "CIENCIA POLÍTICA — contenidos mínimos\n│\n├─ 1 · El conocimiento científico de la política\n├─ 2 · La política y sus dimensiones\n├─ 3 · Conceptos y problemas fundamentales\n└─ 4 · El conocimiento politológico aplicado",
+        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.sociales.ciencia-politica.conocimiento",
+          "name": "El conocimiento científico de la política",
+          "role": "contenido 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ciencia-politica.dimensiones",
+          "name": "La política y sus dimensiones",
+          "role": "contenido 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ciencia-politica.conceptos",
+          "name": "Conceptos y problemas fundamentales",
+          "role": "contenido 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.ciencia-politica.aplicado",
+          "name": "El conocimiento politológico aplicado",
+          "role": "contenido 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

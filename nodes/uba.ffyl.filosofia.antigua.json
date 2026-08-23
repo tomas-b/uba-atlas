@@ -1,0 +1,68 @@
+{
+  "address": "uba.ffyl.filosofia.antigua",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 h",
+    "promocion": "Examen Final",
+    "codigo": "0204 - 12001",
+    "catedra": "Soares (2020)",
+    "unidades": 5,
+    "bibliography": true
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antigua", "label": "Historia de la Filosofía Antigua" }
+  ],
+  "eyebrow": "Historia de la Filosofía Antigua · Depto. de Filosofía",
+  "title": "Cómo la filosofía se soltó del mito.",
+  "lede": "El primer eslabón del hilo histórico, y para la mayoría el primer año de la carrera. El programa no recorre a todos los griegos: elige un eje —<b>filosofía, mito y poesía en el pensamiento griego</b>— y con él atraviesa cinco figuras, de los presocráticos a Aristóteles. La pregunta de fondo: qué separó al lógos del relato mítico, y qué se llevó consigo.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "96 h · EF" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Eje", "v": "mito/lógos", "small": "tema especial" }
+  ],
+  "frame": "Grounded en el programa 2020 de la cátedra (Soares), código 0204-12001, repositorio.filo.uba.ar. La materia se organiza en cinco unidades atravesadas por un tema especial —filosofía, mito y poesía—: se estudian Heráclito y Parménides, la sofística y la tragedia, y los dos clásicos del período (Platón y Aristóteles) leídos también por su relación con la poesía. La bibliografía obligatoria son fuentes primarias en selección de cátedra más secundaria en español. Cada programa es de un año y una cátedra: el tema especial rota; el arco de figuras es estable.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "El recorrido, de los presocráticos a Aristóteles",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa 2020, en cinco unidades",
+        "tree": "HISTORIA DE LA FILOSOFÍA ANTIGUA — eje: mito y lógos\n│\n├─ 1 · Introducción      el mito, los poetas y el nacer de la filosofía\n├─ 2 · Presocráticos     Heráclito · Parménides (phýsis, lógos, ser y pensar)\n├─ 3 · Sofística y tragedia   Protágoras · Gorgias · el poeta como educador\n├─ 4 · Platón            Formas, reminiscencia, caverna · la crítica a la poesía\n└─ 5 · Aristóteles       ousía y categorías · Poética: mímesis y kátharsis",
+        "foot": "Unidades del programa 2020 (Soares). El programa lista además una figura introductoria de método; las clases prácticas se dedican a Platón y Aristóteles."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.antigua.introduccion", "name": "Introducción", "role": "Unidad 1 · mito y lógos", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antigua.presocraticos", "name": "Los filósofos presocráticos", "role": "Unidad 2 · Heráclito y Parménides", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antigua.sofistica-tragedia", "name": "Sofística y tragedia griega", "role": "Unidad 3 · Protágoras y la tragedia", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antigua.platon", "name": "Platón", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antigua.aristoteles", "name": "Aristóteles", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Bibliografía · fuentes y estudios",
+      "title": "Los textos, tal como los asigna la cátedra",
+      "note": "Fuentes primarias en selección más secundaria de lectura obligatoria. Cada libro es un índice L3 aún sin abrir.",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.antigua.kirk-raven-schofield", "name": "Los filósofos presocráticos", "role": "Kirk · Raven · Schofield (Gredos)", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.guthrie", "name": "Historia de la filosofía griega", "role": "W. K. C. Guthrie (Gredos)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.detienne-maestros-verdad", "name": "Los maestros de la verdad en la Grecia arcaica", "role": "M. Detienne (Taurus)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.gomez-lobo-parmenides", "name": "Parménides", "role": "A. Gómez-Lobo (Charcas)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.platon-republica", "name": "República (II, III, X)", "role": "Platón · texto de prácticas", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.ross-ideas-platon", "name": "Teoría de las ideas de Platón", "role": "W. D. Ross (Cátedra)", "tag": "estudio", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.aristoteles-poetica", "name": "Poética", "role": "Aristóteles · texto de prácticas", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antigua.nussbaum-fragilidad", "name": "La fragilidad del bien", "role": "M. Nussbaum (Visor)", "tag": "estudio", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Antigua (Soares) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13153" }
+}

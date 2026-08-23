@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.estetica.romanticismo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "de": 5, "materia": "Estética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.estetica", "label": "Estética" },
+    { "address": "uba.ffyl.filosofia.estetica.romanticismo", "label": "El romanticismo temprano: la filosofía del arte" }
+  ],
+  "eyebrow": "Estética · unidad · 2 de 5",
+  "title": "De la absolutización del yo a la filosofía del arte.",
+  "lede": "El romanticismo de Jena resignifica las categorías estéticas después de Kant. El Athenäum y el programa de los Schlegel, la ironía de origen fichteano, el nuevo concepto de crítica de arte, y el paso — con Schelling — de la estética a la filosofía del arte.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Rol", "v": "giro", "small": "filosofía del arte" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La modernidad estética en el romanticismo temprano. Las categorías estéticas después de Kant; el romanticismo de Jena, el Athenäum y el programa estético de los hermanos Schlegel. La resignificación de las categorías en la obra temprana de Schlegel; Schlegel como lector de Kant; la nueva categoría de obra de arte. La ironía en el romanticismo temprano (origen fichteano; la crítica de Hegel y Deleuze). El concepto de crítica de arte. Estética y sistema: la estética como filosofía del arte en el idealismo trascendental de Schelling. El romanticismo leído por Benjamin y por Lacoue-Labarthe y Nancy.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad II del programa Schwarzböck.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Estética Nº 0226 (Schwarzböck) · Unidad II", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Estetica%2012%20II.doc" }
+}

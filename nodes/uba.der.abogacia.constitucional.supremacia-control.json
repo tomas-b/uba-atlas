@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.supremacia-control",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.supremacia-control", "label": "Supremacía y control" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 3",
+  "title": "La Constitución en la cima del orden jurídico.",
+  "lede": "La supremacía constitucional y su garantía: el control de constitucionalidad. Con ella, la jerarquía constitucional de los tratados y la interpretación constitucional como tarea de dar sentido a la norma suprema.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Supremacía · control de constitucionalidad · tratados · interpretación",
+      "note": "Supremacía constitucional y control de constitucionalidad. Jerarquía constitucional de los tratados. La interpretación constitucional.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

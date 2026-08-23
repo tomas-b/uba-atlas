@@ -1,0 +1,58 @@
+{
+  "address": "uba.der.abogacia.procesal-civil",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" }
+  ],
+  "eyebrow": "Elementos de Derecho Procesal Civil y Comercial · CPC · Abogacía",
+  "title": "Cómo un conflicto se vuelve proceso, y el proceso, sentencia.",
+  "lede": "Elementos de Derecho Procesal Civil y Comercial estudia el instrumento con que el Estado resuelve los conflictos de derecho privado: la función jurisdiccional y el proceso. Parte de la teoría general del proceso y su relación con el derecho de fondo, recorre jurisdicción y competencia, los métodos alternativos de resolución de conflictos, la estructura y los sujetos del proceso, sus actos y etapas, hasta la prueba, la sentencia y su ejecución. Régimen cuatrimestral (54 h), organizado en seis unidades sobre los contenidos mínimos oficiales.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía general se toma del programa de la cátedra Kielmanovich–Seltzer.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "De la teoría general del proceso a la ejecución de la sentencia",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "PROCESAL CIVIL Y COMERCIAL\n│\n├─ Unidad 1 · Teoría general del proceso\n├─ Unidad 2 · Jurisdicción y competencia\n├─ Unidad 3 · Métodos alternativos de resolución de conflictos\n├─ Unidad 4 · El proceso y sus sujetos\n├─ Unidad 5 · Actos y etapas del proceso\n└─ Unidad 6 · Prueba, sentencia y ejecución",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Kielmanovich."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.procesal-civil.teoria-general-proceso", "name": "Teoría general del proceso", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.procesal-civil.jurisdiccion-competencia", "name": "Jurisdicción y competencia", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.procesal-civil.metodos-alternativos", "name": "Métodos alternativos de resolución de conflictos", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.procesal-civil.proceso-sujetos", "name": "El proceso y sus sujetos", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.procesal-civil.actos-etapas", "name": "Actos y etapas del proceso", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.procesal-civil.prueba-sentencia", "name": "Prueba, sentencia y ejecución", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía general de la cátedra Kielmanovich–Seltzer. Fuente: sitio de la cátedra.",
+      "exits": [
+        { "address": "uba.der.abogacia.procesal-civil.kielmanovich-manual", "name": "Kielmanovich (dir.) — Manual de Derecho Procesal Civil", "role": "Erreius · 2023", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.procesal-civil.palacio-manual", "name": "Lino E. Palacio — Manual de Derecho Procesal Civil", "role": "AbeledoPerrot", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.procesal-civil.falcon-manual", "name": "Enrique M. Falcón — Manual de Derecho Procesal", "role": "Astrea · 2 t.", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.procesal-civil.arazi", "name": "Roland Arazi — Derecho procesal civil y comercial", "role": "Rubinzal-Culzoni · 2 t.", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.procesal-civil.codigos", "name": "Código Procesal Civil y Comercial y Código Civil y Comercial de la Nación", "role": "textos legales", "tag": "fuentes", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.estetica.teoria-critica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "de": 5, "materia": "Estética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.estetica", "label": "Estética" },
+    { "address": "uba.ffyl.filosofia.estetica.teoria-critica", "label": "La Teoría crítica: Benjamin y Adorno" }
+  ],
+  "eyebrow": "Estética · unidad · 3 de 5",
+  "title": "El arte en la era de su reproducción.",
+  "lede": "La modernidad estética leída por la Escuela de Frankfurt. Benjamin: la gran ciudad, Baudelaire, el aura y la reproductibilidad técnica, el Libro de los Pasajes. Adorno: la Teoría estética, mímesis y racionalidad, el arte como negación de la sociedad dentro de la sociedad, el arte moderno como expresión de lo no idéntico.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "apogeo", "small": "Frankfurt" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La modernidad estética leída por la Teoría crítica. Benjamin: la relación entre estética y gran ciudad, la bohemia y la flânerie, Baudelaire como modelo de artista, valor exhibitivo y valor cultual, recepción óptica y táctil, estética y fascismo/comunismo; el Libro de los Pasajes y la 'imagen dialéctica'. Adorno: los problemas de la Teoría estética, la pérdida de obviedad del arte, mímesis y racionalidad, el carácter enigmático de la obra, arte y sociedad, el arte moderno como expresión de lo no idéntico y la síntesis no coercitiva.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad III del programa Schwarzböck.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Estética Nº 0226 (Schwarzböck) · Unidad III", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Estetica%2012%20II.doc" }
+}

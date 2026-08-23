@@ -1,0 +1,60 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "96 hs (4 teór + 2 práct sem.)", "cuatrimestre": "2º", "catedra": "Cátedra Bonilla (Prof. Alcira B. Bonilla, programa Nº 0232-12023)", "unidades": 5, "bibliografia": 8, "rota": "sí — parte especial y cátedra rotan" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" }
+  ],
+  "eyebrow": "Filosofía · sistemática · Antropología Filosófica",
+  "title": "¿Qué es lo humano?",
+  "lede": "La pregunta filosófica por el ser humano. El programa se divide en dos: una parte general — estable — sobre el surgimiento histórico de la disciplina, sus modelos del siglo XX y las críticas a su estatuto (el 'giro antropológico' y la 'muerte del hombre'); y una parte especial que cada año recorta una temática, aquí 'Naturaleza humana, cuerpo y política'.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "teór-práct" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Foco", "v": "rota", "small": "parte especial" }
+  ],
+  "frame": "Contenido real del programa Nº 0232 (Cátedra Bonilla, filosofia.filo.uba.ar). Parte general (estable): el surgimiento de la Antropología Filosófica como disciplina (antecedentes antiguos y modernos, Pico, Hume, Kant), su constitución en el siglo XX (Scheler, Cassirer, Gehlen, Buber, Kusch) y las críticas al 'giro antropológico' (Heidegger, Horkheimer, Foucault, Althusser). Parte especial (rota por año): 'Naturaleza humana, cuerpo y política' — dualismos y monismos, la relación mente-cuerpo, el giro dialéctico, bioética y biopolítica. CAVEAT: la parte especial cambia de eje cada año; además la materia rota entre cátedras — otra (Cátedra Bertorello) la dicta desde la fenomenología hermenéutica y la teoría de la enunciación. No se localizó un 'contenido mínimo' normativo separado.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "La disciplina, sus críticos, y el cuerpo",
+      "note": "Cada unidad del programa Bonilla es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "ANTROPOLOGÍA FILOSÓFICA\n│\n├─ PARTE GENERAL (estable)\n│    I  · La Antropología Filosófica · Pico · Hume · Kant\n│    II · La AF y sus críticos · Scheler/Cassirer/Gehlen vs. Heidegger/Foucault\n└─ PARTE ESPECIAL · 'Naturaleza humana, cuerpo y política' (rota)\n     III · Cuerpo y política en la historia de la filosofía\n     IV  · Las críticas del dualismo · Feuerbach → Butler\n     V   · Entre bioéticas y biopolíticas · racismo · migración",
+        "foot": "Temas del programa Bonilla. La parte general es el núcleo estable de la materia; la especial es el recorte del año."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.antropologia.disciplina", "name": "La Antropología Filosófica: antecedentes y surgimiento", "role": "Unidad I", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.criticos", "name": "La Antropología Filosófica y sus críticos", "role": "Unidad II", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.cuerpo-historia", "name": "Naturaleza humana, cuerpo y política en la historia de la filosofía", "role": "Unidad III", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.criticas-dualismo", "name": "Las críticas del dualismo", "role": "Unidad IV", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.biopolitica", "name": "Entre las bioéticas y las biopolíticas", "role": "Unidad V", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Las fuentes",
+      "note": "Títulos reales del programa (obligatoria). No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.antropologia.libro-kant", "name": "Antropología en sentido pragmático — I. Kant (Losada, 2009)", "role": "Unidad I", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-scheler", "name": "El puesto del hombre en el cosmos — M. Scheler (Losada)", "role": "Unidad II", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-cassirer", "name": "Antropología filosófica — E. Cassirer (FCE)", "role": "Unidad II", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-foucault-palabras", "name": "Las palabras y las cosas — M. Foucault (Siglo XXI)", "role": "Unidad II", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-merleau", "name": "Fenomenología de la percepción — M. Merleau-Ponty (Gallimard, 1945)", "role": "Unidad IV", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-beauvoir", "name": "El segundo sexo — S. de Beauvoir (Gallimard, 1949)", "role": "Unidad IV", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-butler", "name": "El género en disputa — J. Butler (Paidós, 2007)", "role": "Unidad IV", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.antropologia.libro-foucault-biopolitica", "name": "El nacimiento de la biopolítica — M. Foucault (FCE, 2007)", "role": "Unidad V", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Antropología Filosófica Nº 0232 (Bonilla)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

@@ -1,0 +1,14 @@
+{
+  "address": "uba.ffyl.informacion.describir",
+  "level": "programa",
+  "sealed": true,
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.informacion", "label": "Ciencia de la Información" },
+    { "address": "uba.ffyl.informacion.describir", "label": "describir" }
+  ],
+  "eyebrow": "uba.ffyl.informacion.describir",
+  "title": "NOT INDEXED",
+  "source": { "label": "no es un nodo de la estructura UBA", "url": "https://www.uba.ar/carreras/9" }
+}

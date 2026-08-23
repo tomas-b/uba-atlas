@@ -1,0 +1,218 @@
+{
+  "address": "uba.fcen.computacion",
+  "level": "carrera",
+  "groundingLevel": "L1",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    }
+  ],
+  "eyebrow": "Licenciatura en Ciencias de la Computación · Plan 2023",
+  "title": "Cuatro años, del primer algoritmo a la tesis.",
+  "lede": "El plan real (2023) del Departamento de Computación de Exactas: cuatro años que van de programar y demostrar a sistemas, redes y cómputo distribuido. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "20",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "20",
+      "small": "/ 20"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial (computacion.dc.uba.ar/plan-de-estudios-2023 + ingresantes.exactas). Nivel L1: los nombres, años y cuatrimestres son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Año 1",
+      "title": "Programar y demostrar",
+      "exits": [
+        {
+          "address": "uba.fcen.computacion.intro-programacion",
+          "name": "Introducción a la Programación",
+          "role": "1º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.algebra-1",
+          "name": "Álgebra I",
+          "role": "1º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.aed",
+          "name": "Algoritmos y Estructuras de Datos",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.analisis-1",
+          "name": "Análisis I",
+          "role": "2º cuat.",
+          "tag": "año 1",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 2",
+      "title": "Paradigmas, máquinas y teoría",
+      "exits": [
+        {
+          "address": "uba.fcen.computacion.paradigmas",
+          "name": "Paradigmas de Programación",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.tda",
+          "name": "Técnicas de Diseño de Algoritmos",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales",
+          "name": "Sistemas Digitales",
+          "role": "1º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.ingenieria-software",
+          "name": "Ingeniería de Software",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.lfayc",
+          "name": "Lenguajes Formales, Autómatas y Computabilidad",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.arquitectura",
+          "name": "Arquitectura y Organización de Computadores",
+          "role": "2º cuat.",
+          "tag": "año 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 3",
+      "title": "Sistemas, complejidad y datos",
+      "exits": [
+        {
+          "address": "uba.fcen.computacion.alc",
+          "name": "Álgebra Lineal Computacional",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.complejidad",
+          "name": "Complejidad Computacional",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.so",
+          "name": "Sistemas Operativos",
+          "role": "1º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.estadistica",
+          "name": "Estadística Computacional",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.ari",
+          "name": "Almacenamiento y Recuperación de la Información",
+          "role": "2º cuat.",
+          "tag": "año 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Año 4",
+      "title": "Distribuido, sociedad y tesis",
+      "exits": [
+        {
+          "address": "uba.fcen.computacion.concurrente",
+          "name": "Programación Concurrente y Paralela",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.redes",
+          "name": "Redes de Comunicaciones y Cómputo Distribuido",
+          "role": "1º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.seminario-tys",
+          "name": "Seminario sobre Tecnología y Sociedad",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.pse",
+          "name": "Práctica Social Educativa",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.fcen.computacion.tesis",
+          "name": "Trabajo Final · Tesis de Licenciatura",
+          "role": "2º cuat.",
+          "tag": "año 4",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · ingresantes.exactas.uba.ar",
+    "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+  }
+}

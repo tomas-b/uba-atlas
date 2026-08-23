@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.administrativo.procedimiento-proceso",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.administrativo", "label": "Der. Administrativo" },
+    { "address": "uba.der.abogacia.administrativo.procedimiento-proceso", "label": "Procedimiento y proceso" }
+  ],
+  "eyebrow": "Elementos de Der. Administrativo · Unidad 7",
+  "title": "Cómo se reclama y se litiga frente a la Administración.",
+  "lede": "Las situaciones jurídicas subjetivas y la legitimación, en el procedimiento administrativo y en el proceso judicial. El procedimiento administrativo, los recursos y el agotamiento de la vía. Y el proceso contencioso administrativo, con el amparo, el amparo por mora, la acción declarativa, las medidas cautelares y la ejecución de sentencias contra el Estado.",
+  "meta": [
+    { "k": "Unidad", "v": "7", "small": "de 7" },
+    { "k": "Materia", "v": "Der. Adm.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Del procedimiento administrativo al proceso contencioso",
+      "note": "Situaciones jurídicas subjetivas · legitimación en el procedimiento y en el proceso judicial · tutela administrativa y judicial de los derechos económicos, sociales y culturales · derechos de incidencia colectiva y procesos colectivos · efectos de las sentencias · procedimiento administrativo: régimen jurídico, principios, órgano competente, expediente y digitalización, partes, plazos, prueba, vistas y notificaciones, medidas cautelares, conclusión · impugnación de las decisiones estatales · agotamiento de las vías administrativas · reclamo administrativo previo y sus excepciones · régimen general de los recursos, recursos extemporáneos y denuncia de ilegitimidad · proceso contencioso administrativo: competencia, habilitación de la instancia, medidas cautelares · acción de amparo · amparo por mora · acción declarativa de certeza · acción de lesividad · recursos directos · ejecución de sentencias contra el Estado · medios alternativos de resolución de conflictos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.reales.teoria-general",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" },
+    { "address": "uba.der.abogacia.reales.teoria-general", "label": "Teoría general" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · Unidad 1",
+  "title": "Qué es un derecho real y cómo se ejerce el poder sobre la cosa.",
+  "lede": "La base de la materia: la teoría general de los derechos reales y los caracteres que los distinguen. Comprende también las relaciones de poder sobre las cosas, la posesión y la tenencia.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Materia", "v": "D. Reales", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Teoría general, caracteres y relaciones de poder",
+      "note": "Teoría general de los derechos reales · caracteres de los derechos reales · relaciones de poder: posesión y tenencia.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

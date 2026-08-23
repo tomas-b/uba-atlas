@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.penal.proceso-penal",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.penal", "label": "Penal y Procesal Penal" },
+    { "address": "uba.der.abogacia.penal.proceso-penal", "label": "El proceso penal" }
+  ],
+  "eyebrow": "Penal y Procesal Penal · Unidad 5",
+  "title": "El proceso penal y sus modelos.",
+  "lede": "El proceso penal y sus garantías procesales. Los modelos de enjuiciamiento —inquisitivo, acusatorio y mixto— y el sistema procesal penal nacional: la instrucción, el juicio oral y el ministerio público.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Materia", "v": "Penal", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Garantías, modelos y sistema nacional",
+      "note": "El proceso penal · garantías procesales · modelos de enjuiciamiento: inquisitivo, acusatorio, mixto · el sistema procesal penal nacional · instrucción · juicio oral · ministerio público.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,103 @@
+{
+  "address": "uba.cbc.sociales.antropologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "materia del área · cátedra CBC",
+    "orientacion": "Ciencias Sociales y Humanas",
+    "unidades": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.antropologia",
+      "label": "Antropología"
+    }
+  ],
+  "eyebrow": "Antropología · CBC · orientación Sociales y Humanas",
+  "title": "La otredad como objeto: desnaturalizar lo humano.",
+  "lede": "Una introducción a la mirada antropológica: cómo se construyó la disciplina alrededor de la diferencia, lo distintivo y la desigualdad, y qué herramientas da para cuestionar etnocentrismos y racismos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "de área"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio pend."
+    },
+    {
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
+    }
+  ],
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques: la construcción científica de la Antropología, la constitución de lo humano, los conceptos clave (cultura, alteridad, identidad) y su aporte a problemas sociales actuales. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · las unidades",
+      "title": "De qué se trata",
+      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "map": {
+        "mk": "La materia, comprimida",
+        "tree": "ANTROPOLOGÍA — contenidos mínimos\n│\n├─ 1 · La construcción de la Antropología científica\n├─ 2 · La constitución de lo humano\n├─ 3 · Conceptos clave de la Antropología\n└─ 4 · La mirada antropológica sobre problemas actuales",
+        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.sociales.antropologia.construccion",
+          "name": "La construcción de la Antropología científica",
+          "role": "contenido 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.antropologia.humano",
+          "name": "La constitución de lo humano",
+          "role": "contenido 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.antropologia.cultura",
+          "name": "Conceptos clave de la Antropología",
+          "role": "contenido 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.antropologia.problemas",
+          "name": "La mirada antropológica sobre problemas actuales",
+          "role": "contenido 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.contratos-en-especial",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.contratos-en-especial", "label": "Contratos en especial" }
+  ],
+  "eyebrow": "Contratos · Unidad 7",
+  "title": "Los contratos regulados, uno por uno.",
+  "lede": "El tramo especial de la materia: los contratos típicos regulados por el Código Civil y Comercial y las leyes, de la compraventa a los contratos internacionales. Compraventa, permuta, suministro, locación, leasing, obra y servicios, transporte, mandato, depósito, contratos bancarios y asociativos, agencia, concesión, franquicia, mutuo, comodato, fianza, renta vitalicia, cesión, arbitraje y fideicomiso, más los contratos atípicos.",
+  "meta": [
+    { "k": "Unidad", "v": "7", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Contratos en especial",
+      "note": "Compraventa. Permuta. Suministro. Locación. Leasing. Obra y servicios. Transporte. Mandato, consignación y corretaje. Depósito. Contratos bancarios. Contratos asociativos: negocio en participación, agrupaciones de colaboración, uniones transitorias, consorcios de cooperación. Agencia. Concesión. Franquicia. Mutuo. Comodato. Fianza. Contrato oneroso de renta vitalicia. Contratos de juego y de apuesta. Cesión de derechos. Transacción. Contrato de arbitraje. Contrato de fideicomiso. Contratos atípicos. Contratos internacionales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

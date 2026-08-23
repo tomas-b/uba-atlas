@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias.nocion-fundamentacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" },
+    { "address": "uba.der.abogacia.ddhh-garantias.nocion-fundamentacion", "label": "Noción y fundamentación" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · Unidad 1",
+  "title": "Qué son los derechos humanos y sobre qué se fundan.",
+  "lede": "La evolución de la noción \"derechos humanos\" y su consagración jurídica, con sus características. Y las perspectivas teóricas desde las que se debaten las distintas posiciones sobre la fundamentación de los derechos humanos.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "DDHH y Gtías.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "La evolución de la noción y su fundamentación teórica",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: evolución de la noción \"derechos humanos\" y su consagración jurídica, con sus características; perspectivas teóricas desde las que se debaten las distintas posiciones sobre la fundamentación de los derechos humanos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

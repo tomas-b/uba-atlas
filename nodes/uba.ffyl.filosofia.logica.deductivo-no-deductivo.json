@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.logica.deductivo-no-deductivo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "de": 9, "materia": "Lógica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.logica", "label": "Lógica" },
+    { "address": "uba.ffyl.filosofia.logica.deductivo-no-deductivo", "label": "Argumentos deductivos y no deductivos" }
+  ],
+  "eyebrow": "Lógica · unidad · 2 de 9",
+  "title": "Validez, invalidez y falacias.",
+  "lede": "La anatomía del argumento y el criterio que lo separa en dos familias: los deductivos, donde la verdad se transmite, y los no-deductivos, donde solo se hace plausible. Y lo que sale mal: las falacias, formales e informales.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 9" },
+    { "k": "Rol", "v": "criterio", "small": "validez" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Los argumentos y sus elementos. La macroestructura y la microestructura de los argumentos. Argumentos deductivos y no-deductivos. Argumentos y formas de argumento. Validez e invalidez deductiva: el criterio intuitivo de validez deductiva. La clasificación de los argumentos no-deductivos; su estructura y evaluación. Falacias formales e informales: teorías acerca de las falacias.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 2 del programa Oller.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Lógica Nº 0211 (Oller) · Unidad 2", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" }
+}

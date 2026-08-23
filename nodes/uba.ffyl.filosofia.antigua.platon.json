@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.antigua.platon",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antigua", "label": "Historia de la Filosofía Antigua" },
+    { "address": "uba.ffyl.filosofia.antigua.platon", "label": "Platón" }
+  ],
+  "eyebrow": "Filosofía Antigua · unidad · 4 de 5",
+  "title": "Las Formas, la caverna y el destierro de los poetas.",
+  "lede": "Platón entero: de la búsqueda socrática de la definición a la teoría de las Formas, el conocimiento como reminiscencia, y los tres grandes símiles —el sol, la línea, la caverna—. Y su costado incómodo: por qué la República expulsa a los poetas, qué es la mímesis, y qué hace Platón con el mito que critica.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Foco", "v": "Formas", "small": "+ poesía" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Naturaleza y periodización de los escritos platónicos; filosofía y diálogo; heraclitismo y socratismo. La búsqueda socrática de la definición universal; la caracterización de las Formas en los diálogos de madurez; el conocimiento como reminiscencia; los símiles del sol, la línea dividida y la caverna; hipótesis y dialéctica; cosmología y mito en el Timeo; el demiurgo y las Ideas. La antigua discrepancia entre filosofía y poesía en la República: justicia, paideía y poesía; la reforma de la paideía tradicional; las significaciones de la mímesis poética; la exclusión de los poetas tradicionales; naturaleza y función de los mitos platónicos. Prácticas: República II, III y X.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad 4.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "PLATÓN (Unidad 4)\n│\n├─ La teoría de las Formas   definición · reminiscencia · sol/línea/caverna\n├─ Cosmología y mito         el Timeo · demiurgo e Ideas\n└─ Filosofía vs. poesía      mímesis · la expulsión de los poetas (República)",
+        "foot": "Temas del programa 2020 (Soares). En prácticas se lee República II, III y X."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Antigua (Soares) · Unidad 4", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13153" }
+}

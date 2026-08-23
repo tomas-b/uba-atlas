@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.conceptos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.conceptos", "label": "Conceptos fundamentales: sociedad y Estado" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · Las herramientas",
+  "title": "Antes de la historia, las palabras.",
+  "lede": "La unidad que arma la caja de herramientas del curso. Qué es el Estado y qué la sociedad civil; poder y dominación; las distintas concepciones del Estado — como relación de fuerzas, como aparato institucional, como monopolio de la violencia legítima. Y qué es un régimen político: democrático o no, sus formas de gobierno.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Rol", "v": "base", "small": "conceptos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El instrumental que el resto de la materia va a usar sobre la historia argentina. Se definen los términos centrales: Estado, política y sociedad civil; poder y dominación (y la legitimidad que la sostiene). Se presentan las concepciones del Estado — como relación de fuerzas sociales, como conjunto de instituciones (aparato), como la organización que reclama el monopolio de la violencia legítima sobre un territorio. Y se distingue el régimen político (las reglas del acceso y ejercicio del poder: democrático / no democrático) de los sistemas de gobierno. Conceptos: Estado, sociedad civil, poder, dominación, legitimidad, régimen político, acción social.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CONCEPTOS FUNDAMENTALES · SOCIEDAD Y ESTADO\n│\n├─ Estado, política y sociedad civil\n├─ Poder y dominación · legitimidad\n├─ Concepciones del Estado · relación de fuerzas / aparato / monopolio de la violencia\n└─ Régimen político · democrático vs. no democrático; formas de gobierno\n        → las herramientas que las demás unidades aplican",
+        "foot": "Temas de la cátedra (ICSE). Es la base conceptual; a partir de la unidad 2 estos conceptos se ponen a trabajar sobre el caso argentino. Manual: Herramientas para el análisis de la sociedad y el Estado (Eudeba)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

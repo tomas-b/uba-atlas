@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.ddhh-constitucional.internacional",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 3,
+    "de": 6,
+    "materia": "Principios de Derechos Humanos y Derecho Constitucional"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.ddhh-constitucional",
+      "label": "Principios de Derechos Humanos y Derecho Constitucional"
+    },
+    {
+      "address": "uba.cbc.sociales.ddhh-constitucional.internacional",
+      "label": "El orden jurídico internacional de posguerra"
+    }
+  ],
+  "eyebrow": "Principios de Derechos Humanos y Derecho Constitucional · unidad · contenido 3",
+  "title": "La ONU y los DDHH.",
+  "lede": "La Organización de las Naciones Unidas, el sistema universal de derechos humanos y su fundamento.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "3",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El orden jurídico internacional de la segunda posguerra mundial. La Organización de las Naciones Unidas. Los derechos humanos en el sistema universal. El fundamento de los derechos humanos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

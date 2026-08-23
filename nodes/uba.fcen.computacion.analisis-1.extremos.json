@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.analisis-1.extremos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.analisis-1", "label": "Análisis I" },
+    { "address": "uba.fcen.computacion.analisis-1.extremos", "label": "Extremos" }
+  ],
+  "eyebrow": "Análisis I · unidad · U5",
+  "title": "Máximos, mínimos y Lagrange.",
+  "lede": "Optimización en varias variables: puntos críticos y su clasificación con el Hessiano, extremos absolutos en regiones acotadas, y los multiplicadores de Lagrange para extremos ligados.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Rol", "v": "aplicación", "small": "optimización" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Puntos críticos y su clasificación mediante el Hessiano. Extremos absolutos en regiones acotadas. Multiplicadores de Lagrange y extremos ligados (con restricciones). La aplicación central del cálculo diferencial en varias variables.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EXTREMOS (U5)\n│\n├─ Críticos  · clasificación con el Hessiano\n├─ Absolutos · en regiones acotadas\n└─ Ligados   · multiplicadores de Lagrange",
+        "foot": "Temas del programa oficial del DM (Análisis I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.estructura-atomica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.estructura-atomica",
+      "label": "Estructura Atómica y Tabla Periódica"
+    }
+  ],
+  "eyebrow": "Química · unidad · U3",
+  "title": "El átomo por dentro y su orden periódico.",
+  "lede": "El interior del átomo: partículas subatómicas, número atómico y másico, isótopos, la estructura electrónica y su configuración, y cómo todo eso ordena la tabla periódica de los elementos.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "3",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "átomo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Partículas subatómicas, número atómico y de masa, isótopos. Modelo atómico y niveles de energía. Configuración electrónica. La tabla periódica: períodos, grupos y propiedades periódicas (radio, energía de ionización, electronegatividad).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ESTRUCTURA ATÓMICA (U3)\n│\n├─ Átomo    · partículas, isótopos, número atómico\n├─ Electrones · configuración electrónica\n└─ Tabla     · períodos, grupos, propiedades periódicas",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

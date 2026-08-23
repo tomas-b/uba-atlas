@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.hempel",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L3",
+  "metadata": { "author": "Carl G. Hempel", "title": "Filosofía de la ciencia natural", "publisher": "Alianza", "place": "Madrid", "year": 1979 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.hempel", "label": "Hempel · Filosofía de la ciencia natural" }
+  ],
+  "eyebrow": "Pensamiento Científico · libro · explicación y contrastación",
+  "title": "Hempel — Filosofía de la ciencia natural.",
+  "lede": "El texto breve y preciso detrás de la unidad de explicación. Hempel expone cómo se contrasta una hipótesis y, sobre todo, formula el modelo de explicación por cobertura legal: explicar un hecho es mostrar que se sigue de leyes generales. La fuente directa del modelo nomológico-deductivo y de su variante estadística.",
+  "meta": [
+    { "k": "Autor", "v": "Hempel" },
+    { "k": "Edición", "v": "Alianza", "small": "Madrid, 1979" },
+    { "k": "Grounding", "v": "L3", "small": "libro" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "Carl Hempel (1905–1997), figura central del empirismo lógico. «Filosofía de la ciencia natural» es una introducción concisa que en el IPC funciona como fuente de la unidad de explicación y del tema de la contrastación de hipótesis. De aquí sale el modelo de cobertura legal: el explanans (leyes + condiciones iniciales) del que se deduce el explanandum, en su forma nomológico-deductiva, y la forma estadístico-inductiva cuando las leyes son probabilísticas. También trata la contrastación, las hipótesis y el papel de la evidencia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El libro, a esta resolución",
+      "title": "Qué cubre",
+      "note": "El fondo del pozo: aquí el mapa toca el terreno del texto asignado.",
+      "map": {
+        "mk": "El texto, comprimido",
+        "tree": "FILOSOFÍA DE LA CIENCIA NATURAL\n│\n├─ Contrastación de hipótesis · evidencia y confirmación\n├─ Explicación nomológico-deductiva · leyes ⇒ el hecho\n├─ Explicación estadístico-inductiva · leyes probabilísticas\n└─ Leyes, teorías y el papel de la evidencia",
+        "foot": "Metadatos de la cátedra IPC. Fuente directa de la unidad 3 (explicación científica)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "IPC · bibliografía CBC UBA", "url": "https://www.cbc.uba.ar/" }
+}

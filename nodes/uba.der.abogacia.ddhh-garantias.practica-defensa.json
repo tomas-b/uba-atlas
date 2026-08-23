@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias.practica-defensa",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" },
+    { "address": "uba.der.abogacia.ddhh-garantias.practica-defensa", "label": "Práctica y defensa" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · Unidad 6",
+  "title": "Resolver casos y defender derechos en la práctica.",
+  "lede": "La resolución de casos elementales, de baja o mediana complejidad, sobre derechos humanos. Y la capacitación básica sobre la defensa de derechos humanos ante autoridades internas e internacionales.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "DDHH y Gtías.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Resolución de casos y defensa de derechos",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: resolución de casos elementales (de baja o mediana complejidad) sobre derechos humanos; capacitación básica sobre la defensa de derechos humanos ante autoridades internas e internacionales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

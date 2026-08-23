@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.informacion",
+  "level": "carrera",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.informacion", "label": "Ciencia de la Información" }
+  ],
+  "eyebrow": "Licenciatura en Ciencia de la Información",
+  "title": "Ciencia de la Información",
+  "lede": "Plan de estudios pendiente de sourcing. Sin materias indexadas todavía.",
+  "meta": [
+    { "k": "Carrera", "v": "sí", "small": "en el índice" },
+    { "k": "Plan", "v": "—", "small": "no sourceado" },
+    { "k": "Nivel", "v": "carrera" },
+    { "k": "Materias", "v": "0", "small": "indexadas" }
+  ],
+  "groups": [],
+  "source": { "label": "uba.ar/carreras/9", "url": "https://www.uba.ar/carreras/9" }
+}

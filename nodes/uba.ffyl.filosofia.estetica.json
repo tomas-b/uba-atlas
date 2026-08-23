@@ -1,0 +1,60 @@
+{
+  "address": "uba.ffyl.filosofia.estetica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral · examen final", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "Prof. Silvia Schwarzböck (programa Nº 0226-12011)", "unidades": 5, "bibliografia": 8, "rota": "sí — eje temático por año" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.estetica", "label": "Estética" }
+  ],
+  "eyebrow": "Filosofía · sistemática · Estética",
+  "title": "Arte y belleza, como problema filosófico.",
+  "lede": "La estética como campo filosófico, tomada por su eje moderno: la modernidad estética, desde su nacimiento en la Ilustración hasta su crisis contemporánea. Del juicio de gusto de Kant al romanticismo de Jena, a la Teoría crítica (Benjamin, Adorno), al 'fin del arte' (Hegel, Heidegger, Danto) y a la crítica radical de Nietzsche.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "examen final" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Eje", "v": "rota", "small": "por año" }
+  ],
+  "frame": "Contenido real del programa Nº 0226 (Prof. Silvia Schwarzböck, filosofia.filo.uba.ar), titulado 'Principio y fin de la modernidad estética'. Reconstruye la modernidad estética desde su genealogía ilustrada (Montesquieu, Hume, Burke, la Crítica del juicio de Kant) hasta su crisis, pasando por el romanticismo de Jena, la Teoría crítica (Benjamin, Adorno), el 'carácter de pasado del arte' (Hegel, Heidegger, Lukács, Danto) y la crítica nietzscheana. CAVEAT: como sistemática, la cátedra fija cada año un eje distinto para articular las unidades (p. ej. la versión 2017 se titula 'Estética y crítica cultural'); el arco de autores es estable, el recorte anual rota.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Nacimiento, apogeo y crisis de la modernidad estética",
+      "note": "Cada unidad del programa Schwarzböck es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "ESTÉTICA — la modernidad estética\n│\n├─ I  · La protomodernidad · antes y después de Kant\n│         Montesquieu · Hume · Burke · la Crítica del juicio\n├─ II · El romanticismo temprano · Jena\n│         Schlegel · la ironía · Schelling (filosofía del arte)\n├─ III · La Teoría crítica · Benjamin y Adorno\n├─ IV · Del pasado del arte a la crisis de las categorías\n│         Hegel · Heidegger · Lukács · Danto\n└─ V  · La crítica radical · Nietzsche y postnietzscheanos",
+        "foot": "Temas del programa Schwarzböck. El arco va del juicio de gusto ilustrado a la crítica que disuelve la estética misma."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.estetica.protomodernidad", "name": "La protomodernidad estética: antes y después de Kant", "role": "Unidad I", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.estetica.romanticismo", "name": "El romanticismo temprano: la filosofía del arte", "role": "Unidad II", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.estetica.teoria-critica", "name": "La Teoría crítica: Benjamin y Adorno", "role": "Unidad III", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.estetica.fin-del-arte", "name": "El carácter de pasado del arte y la crisis de las categorías", "role": "Unidad IV", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.estetica.nietzsche", "name": "La crítica radical a la estética: Nietzsche", "role": "Unidad V", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Las fuentes",
+      "note": "Títulos reales del programa (obligatoria por unidad). No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.estetica.libro-kant", "name": "Crítica del juicio — I. Kant (Espasa Calpe, 1984)", "role": "Unidad I", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-burke", "name": "De lo sublime y de lo bello — E. Burke (Altaya, 1998)", "role": "Unidad I", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-schelling", "name": "Filosofía del arte — F.W.J. Schelling (Tecnos, 1999)", "role": "Unidad II", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-benjamin", "name": "La obra de arte en la época de su reproductibilidad técnica — W. Benjamin (Las Cuarenta, 2009)", "role": "Unidad III", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-adorno", "name": "Teoría estética — T.W. Adorno (Akal, 2004)", "role": "Unidad III", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-hegel", "name": "Lecciones sobre la estética — G.W.F. Hegel (Akal, 1989)", "role": "Unidad IV", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-danto", "name": "Después del fin del arte — A. Danto (Paidós, 1999)", "role": "Unidad IV", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.estetica.libro-nietzsche", "name": "El nacimiento de la tragedia — F. Nietzsche (Alianza, 1994)", "role": "Unidad V", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Estética Nº 0226 (Schwarzböck)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Estetica%2012%20II.doc" }
+}

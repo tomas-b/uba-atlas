@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.administrativo.fuentes-discrecionalidad",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.administrativo", "label": "Der. Administrativo" },
+    { "address": "uba.der.abogacia.administrativo.fuentes-discrecionalidad", "label": "Fuentes y discrecionalidad" }
+  ],
+  "eyebrow": "Elementos de Der. Administrativo · Unidad 3",
+  "title": "Las fuentes y los límites de la discrecionalidad estatal.",
+  "lede": "Las fuentes del Derecho Administrativo y su jerarquía: la Constitución, los tratados, la ley, los reglamentos, los principios, el precedente y el soft law. El ejercicio de las potestades regladas y discrecionales, el contenido y la motivación de la decisión discrecional, los conceptos jurídicos indeterminados y la discrecionalidad técnica, y el control judicial de la discrecionalidad estatal.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 7" },
+    { "k": "Materia", "v": "Der. Adm.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Jerarquía de fuentes y control de la discrecionalidad",
+      "note": "Fuentes del Derecho Administrativo · jerarquía entre las fuentes · la Constitución · tratados internacionales y de integración · la ley · los reglamentos: clasificación y régimen constitucional y legal · los principios · el precedente · el soft law · la doctrina, la jurisprudencia y la costumbre · potestades regladas y discrecionales y el sentido de su distinción · contenido de la discrecionalidad estatal · obligatoriedad de la motivación de la decisión discrecional · conceptos jurídicos indeterminados y discrecionalidad técnica · control judicial de la discrecionalidad estatal.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

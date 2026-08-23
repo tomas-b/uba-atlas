@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias.principios-interpretacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.ddhh-garantias", "label": "Derechos Humanos y Garantías" },
+    { "address": "uba.der.abogacia.ddhh-garantias.principios-interpretacion", "label": "Principios e interpretación" }
+  ],
+  "eyebrow": "Derechos Humanos y Garantías · Unidad 2",
+  "title": "Los principios que rigen y guían la interpretación de los derechos.",
+  "lede": "Los principios básicos del derecho de los derechos humanos y su sentido para la interpretación y aplicación de sus normas. Los criterios de interpretación de esas normas y las condiciones bajo las cuales caben la reglamentación, la restricción y la suspensión de los derechos.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "DDHH y Gtías.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Principios, criterios de interpretación y límites a los derechos",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: principios básicos del derecho de los derechos humanos y su sentido para la interpretación y aplicación del derecho; criterios de interpretación de las normas; condiciones en las que caben la reglamentación, la restricción y la suspensión de los derechos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

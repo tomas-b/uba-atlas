@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.soluciones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 8
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.soluciones",
+      "label": "Soluciones"
+    }
+  ],
+  "eyebrow": "Química · unidad · U8",
+  "title": "Mezclas homogéneas y su concentración.",
+  "lede": "Las soluciones: soluto y solvente, las formas de expresar la concentración y las propiedades que dependen de ella.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "8",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "soluciones"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Soluciones: soluto y solvente, solubilidad. Unidades de concentración: % m/m, % m/V, molaridad, molalidad, fracción molar. Dilución. Propiedades coligativas (noción).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "SOLUCIONES (U8)\n│\n├─ Concepto · soluto, solvente, solubilidad\n├─ Concentración · molaridad, molalidad, %\n└─ Propiedades   · dilución, coligativas",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

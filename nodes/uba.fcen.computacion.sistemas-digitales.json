@@ -1,0 +1,53 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "10 h semanales · 160 h (35% teór · 35% práct · 30% lab)",
+    "cuatrimestre": "1º · año 2",
+    "unidades": 7,
+    "bibliography": []
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" }
+  ],
+  "eyebrow": "Sistemas Digitales · Lic. Computación · año 2",
+  "title": "Del bit a la CPU: cómo se construye el hardware.",
+  "lede": "Sistemas Digitales conecta el software con el hardware: presenta los temas fundamentales de los dispositivos de cómputo, de la representación de la información y la lógica digital hasta la estructura de una computadora. Se recorre de las compuertas y mapas de Karnaugh al diseño RTL, los circuitos secuenciales sincrónicos, las FPGA y un softcore — una CPU sencilla con su propio juego de instrucciones, sintetizada sobre lógica programable.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
+    { "k": "Unidades", "v": "7", "small": "bit → CPU" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Materia", "v": "nueva", "small": "Plan 2023" }
+  ],
+  "frame": "Materia nueva del Plan 2023 (deriva de la vieja Organización del Computador I). No hay un programa de cátedra por unidades publicado; los temas se toman verbatim de los contenidos mínimos del documento oficial del plan (computacion.dc.uba.ar). Las siete unidades son los bloques nombrados por el propio plan en su forma breve. No se publica bibliografía a nivel de plan — queda pendiente para cerrar la biblio de L2.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · los 7 bloques",
+      "title": "El recorrido, del bit al softcore",
+      "note": "Bloques nombrados en los contenidos mínimos oficiales del plan, en orden.",
+      "map": {
+        "mk": "El programa, en siete bloques",
+        "tree": "SISTEMAS DIGITALES — software ↔ hardware\n│\n├─ 1 · Estructura de un computador\n├─ 2 · Numeración y representación   · bases, ASCII/UTF\n├─ 3 · Lógica digital                · compuertas, mapas K\n├─ 4 · Diseño RTL                    · muxes, codificadores, HDL\n├─ 5 · Circuitos secuenciales sincr. · latch/FF D, sumadores, contadores\n├─ 6 · Dispositivos lógicos programables · FPGA, LUTs, Verilog/VHDL\n└─ 7 · Softcores                     · datapath, control, CPU e I/O",
+        "foot": "Contenidos mínimos del documento oficial del Plan 2023 (DC-FCEN). Sin bibliografía publicada."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador", "name": "Estructura de un computador", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion", "name": "Numeración y representación", "role": "bloque 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.logica-digital", "name": "Lógica digital", "role": "bloque 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.diseno-rtl", "name": "Diseño RTL", "role": "bloque 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos", "name": "Circuitos secuenciales sincrónicos", "role": "bloque 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.dispositivos-programables", "name": "Dispositivos lógicos programables", "role": "bloque 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.sistemas-digitales.softcores", "name": "Softcores", "role": "bloque 7", "tag": "unidad", "kind": "unit" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.contemporanea.semantica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.contemporanea", "label": "Filosofía Contemporánea" },
+    { "address": "uba.ffyl.filosofia.contemporanea.semantica", "label": "La perspectiva semántica" }
+  ],
+  "eyebrow": "Filosofía Contemporánea · unidad · I de III",
+  "title": "¿Qué es el significado? La pregunta fundadora.",
+  "lede": "El nacimiento de la filosofía analítica leído junto a la fenomenología. La teoría del sentido de Frege, la teoría denotativa de Russell, la conciencia intencional de Husserl, y el arco de Wittgenstein: del Tractatus —la figura, el límite del lenguaje, el silencio significativo— a su propia crítica en el 'último Wittgenstein'.",
+  "meta": [
+    { "k": "Unidad", "v": "I", "small": "de III" },
+    { "k": "Figuras", "v": "Frege", "small": "Russell · Wittgenstein" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El legado de Frege: la teoría abstracta del sentido; lenguaje y pensamiento; el status de la proposición; el estudio lógico de la proposición. La teoría denotativa de Russell: aspectos ontológicos, semánticos y cognoscitivos; convergencias y divergencias con Frege en el nacimiento de la filosofía analítica. La fundación del camino fenomenológico: la conciencia intencional y su impacto para la teoría de la significación (Husserl). Figura y proposición en el Tractatus de Wittgenstein; el límite del lenguaje; el silencio significativo; de la crítica del lenguaje a la filosofía como crítica en el último Wittgenstein; rupturas y continuidades.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad I.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA PERSPECTIVA SEMÁNTICA (Unidad I)\n│\n├─ Frege      sentido y referencia · el status de la proposición\n├─ Russell    la teoría denotativa · el atomismo lógico\n├─ Husserl    la conciencia intencional · la significación fenomenológica\n└─ Wittgenstein   Tractatus (figura, límite) → Investigaciones (la crítica)",
+        "foot": "Temas del programa 2020 (Cabanchik). Eje: significación, sentido y denotación."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Filosofía Contemporánea (Cabanchik) · Unidad I", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.proceso-sujetos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.proceso-sujetos", "label": "El proceso y sus sujetos" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 4",
+  "title": "La estructura del proceso y quiénes lo protagonizan.",
+  "lede": "El concepto de proceso, sus clasificaciones doctrinarias y las del Código Procesal Civil y Comercial, y la estructura del proceso de conocimiento, cautelar y de ejecución. La evaluación del proceso en los sistemas inquisitivo y dispositivo, escriturario y de oralidad, y su lectura a la luz de los principios procesales —contradicción o bilateralidad, preclusión, economía, legalidad, instrumentalidad de las formas, adquisición procesal, congruencia, inmediación y publicidad—. Los sujetos del proceso: parte, capacidad y legitimación, la representación de las partes y sus auxiliares.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "El proceso, sus sistemas, sus principios y sus sujetos",
+      "note": "Concepto de proceso · clasificaciones doctrinarias y del Código Procesal Civil y Comercial · estructura del proceso de conocimiento, cautelar y de ejecución · sistemas inquisitivo y dispositivo · sistemas escriturario y de oralidad · principios procesales: contradicción o bilateralidad, preclusión, economía, legalidad, instrumentalidad de las formas, adquisición procesal, congruencia, inmediación, publicidad · sujetos del proceso · concepto de parte, capacidad y legitimación · representación de las partes · auxiliares de las partes · colegios profesionales.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

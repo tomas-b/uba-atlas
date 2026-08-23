@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.explicacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "lecturas": ["Hempel", "Klimovsky"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.explicacion", "label": "Explicación científica" }
+  ],
+  "eyebrow": "Pensamiento Científico · unidad · Explicar",
+  "title": "Qué significa explicar un hecho.",
+  "lede": "No alcanza con describir: la ciencia explica. Hempel y el modelo nomológico-deductivo — explicar es mostrar que el hecho se sigue de leyes generales más condiciones iniciales. Y cuando las leyes son estadísticas, la explicación ya no deduce sino que hace probable. La estructura lógica de una explicación, y por qué explicar y predecir comparten forma.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Lecturas", "v": "2", "small": "Hempel · Klimovsky" },
+    { "k": "Grounding", "v": "L2", "small": "temas + lecturas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El otro trabajo de la ciencia, además de contrastar: dar cuenta de por qué las cosas ocurren. Hempel formula el modelo de cobertura legal — el explanans (leyes generales + condiciones iniciales) implica el explanandum (el hecho a explicar). En su versión nomológico-deductiva la conclusión se deduce; en la versión estadístico-inductiva las leyes son probabilísticas y confieren al hecho una alta probabilidad. Conceptos: explanans y explanandum, leyes universales y estadísticas, la simetría estructural entre explicación y predicción, requisitos de adecuación de una explicación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EXPLICACIÓN CIENTÍFICA (Hempel)\n│\n├─ Explanans → Explanandum · la estructura de toda explicación\n├─ Modelo nomológico-deductivo · leyes universales + condiciones ⇒ el hecho\n├─ Modelo estadístico-inductivo · leyes probabilísticas ⇒ el hecho es esperable\n└─ Explicar ≈ predecir · misma forma lógica, distinta dirección temporal",
+        "foot": "Temas de la cátedra (IPC). Lectura central: Hempel, «Filosofía de la ciencia natural» (la explicación y su contrastación); Klimovsky sobre leyes y explicación."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cbc.uba.ar · cátedra Pensamiento Científico", "url": "https://www.cbc.uba.ar/" }
+}

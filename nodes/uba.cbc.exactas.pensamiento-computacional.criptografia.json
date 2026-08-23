@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.criptografia",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.criptografia",
+      "label": "Criptografía"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A6",
+  "title": "Juegos de espías: cifrar y descifrar.",
+  "lede": "Codificar y decodificar mensajes con métodos clásicos de cifrado: el texto como dato que se transforma con una regla y se recupera con su inversa.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "actividad",
+      "small": "texto"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Cifrado y descifrado de mensajes: manipulación de cadenas de texto, aplicación de una transformación y su inversa. El texto como estructura de datos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "CRIPTOGRAFÍA (Actividad 6)\n│\n├─ Problema · cifrar y descifrar mensajes\n└─ Idea     · cadenas de texto, transformación e inversa",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

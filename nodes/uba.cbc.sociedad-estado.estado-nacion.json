@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.estado-nacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "período": "1880–1930" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.estado-nacion", "label": "La formación del Estado nacional (1880–1930)" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · 1880–1930",
+  "title": "Cómo un país se dio un Estado.",
+  "lede": "La primera aplicación: los conceptos puestos sobre el caso argentino. La conformación del Estado nacional y el orden conservador; el modelo agroexportador y su inserción en el mercado mundial; inmigración, urbanización y las primeras organizaciones obreras; la Ley Sáenz Peña y los gobiernos radicales que abren la política.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Período", "v": "1880–1930" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El nacimiento del Estado argentino moderno. Cómo se construyen las capacidades estatales y se consolida el orden conservador, con su régimen político restringido. En lo económico, el modelo agroexportador integra al país a la división internacional del trabajo (esquema centro-periferia) apoyado en la inversión extranjera. En lo social, la inmigración masiva y la urbanización transforman la sociedad y hacen aparecer el movimiento obrero y sus protestas. En lo político, la Ley Sáenz Peña (1912) amplía el sufragio y da paso a los gobiernos radicales. Políticas públicas en educación, salud y la reforma universitaria.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA FORMACIÓN DEL ESTADO NACIONAL (1880–1930)\n│\n├─ El Estado y el orden conservador · construcción de capacidades\n├─ Modelo agroexportador · centro-periferia, inversión extranjera\n├─ Sociedad · inmigración, urbanización, movimiento obrero\n└─ Apertura política · Ley Sáenz Peña, gobiernos radicales",
+        "foot": "Temas de la cátedra (ICSE). Primera puesta a prueba de los conceptos de la unidad 1 sobre la historia argentina."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

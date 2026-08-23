@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.acidos-bases",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.acidos-bases",
+      "label": "Ácidos y Bases"
+    }
+  ],
+  "eyebrow": "Química · unidad · U11",
+  "title": "El equilibrio ácido-base y el pH.",
+  "lede": "El cierre de la materia: las teorías de ácidos y bases, la autoionización del agua, el pH y su escala, y el equilibrio en soluciones ácidas y básicas.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "11",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "cierre",
+      "small": "pH"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Teorías ácido-base (Arrhenius, Brønsted-Lowry). Autoionización del agua, Kw. pH y pOH. Ácidos y bases fuertes y débiles, Ka y Kb. Neutralización, hidrólisis, soluciones reguladoras (noción).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ÁCIDOS Y BASES (U11)\n│\n├─ Teorías · Arrhenius, Brønsted-Lowry\n├─ pH      · autoionización del agua, escala de pH\n└─ Equilibrio · fuertes/débiles, neutralización",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

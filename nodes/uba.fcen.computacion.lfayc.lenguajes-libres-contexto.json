@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.lfayc.lenguajes-libres-contexto",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
+    { "address": "uba.fcen.computacion.lfayc.lenguajes-libres-contexto", "label": "Lenguajes libres de contexto" }
+  ],
+  "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 3",
+  "title": "Autómatas de pila y el alcance de los lenguajes libres de contexto.",
+  "lede": "Se estudian los lenguajes libres de contexto mediante autómatas de pila y el caso determinístico, y se identifican los lenguajes no libres de contexto con el lema de bombeo correspondiente.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "autómatas de pila" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La unidad presenta los lenguajes libres de contexto, sus autómatas de pila y las fronteras de la clase.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LENGUAJES LIBRES DE CONTEXTO (unidad 3)\n│\n├─ Tema · autómatas de pila\n├─ Tema · lenguajes determinísticos\n└─ Idea · lenguajes no libres de contexto y lema de bombeo para lenguajes libres de contexto",
+        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "uba.der.abogacia.comercial",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "81 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · CPC · Abogacía",
+  "title": "El derecho de la empresa, del mostrador a la quiebra.",
+  "lede": "Elementos de Derecho Comercial recorre la materia mercantil desde su concepto y evolución hasta la unificación Civil y Comercial de la Ley 26.994. Organiza los contenidos mínimos en seis unidades: las fuentes y su recepción legislativa, la registración y los auxiliares del comercio, la empresa y el fondo de comercio, los bienes inmateriales y el mercado, los contratos, sociedades y títulos valores, y la crisis empresaria junto al derecho marítimo, aeronáutico y agrario. Régimen cuatrimestral.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "81 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de enseñanza de la cátedra del Prof. Titular Daniel Roque Vítolo, del Departamento de Derecho Económico Empresarial.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "De las fuentes del comercio a la crisis de la empresa",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "ELEMENTOS DE DERECHO COMERCIAL\n│\n├─ Unidad 1 · Concepto y fuentes del Derecho Comercial\n├─ Unidad 2 · Registros, contabilidad y auxiliares del comercio\n├─ Unidad 3 · La empresa y el fondo de comercio\n├─ Unidad 4 · Bienes inmateriales, mercado y consumidor\n├─ Unidad 5 · Contratos, sociedades y títulos valores\n└─ Unidad 6 · Crisis empresaria, navegación, aeronáutica y agro",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Vítolo."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.comercial.concepto-fuentes", "name": "Concepto y fuentes del Derecho Comercial", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.comercial.registros-auxiliares", "name": "Registros, contabilidad y auxiliares del comercio", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.comercial.empresa-fondo-comercio", "name": "La empresa y el fondo de comercio", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.comercial.bienes-inmateriales-mercado", "name": "Bienes inmateriales, mercado y consumidor", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.comercial.contratos-sociedades-titulos", "name": "Contratos, sociedades y títulos valores", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.comercial.crisis-maritimo-aeronautico", "name": "Crisis empresaria, navegación, aeronáutica y agro", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía específica del programa de la cátedra del Prof. Titular Daniel Roque Vítolo (Departamento de Derecho Económico Empresarial, CPC). El programa señala un texto requerido y suma una extensa bibliografía general complementaria. Fuente: sitio de la cátedra (Vítolo, 2017).",
+      "exits": [
+        { "address": "uba.der.abogacia.comercial.vitolo-manual", "name": "Daniel Roque Vítolo — Manual de Derecho Comercial", "role": "texto requerido · Ed. Estudio 2016", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

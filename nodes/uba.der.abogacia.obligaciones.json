@@ -1,0 +1,60 @@
+{
+  "address": "uba.der.abogacia.obligaciones",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" }
+  ],
+  "eyebrow": "Obligaciones Civiles y Comerciales · CPC · Abogacía",
+  "title": "El vínculo que obliga: del concepto al pago, del daño a la extinción.",
+  "lede": "Obligaciones Civiles y Comerciales estudia la relación jurídica por la que un sujeto puede exigir de otro una prestación. Cuatrimestral, sus contenidos mínimos van del concepto y método del Código Civil y Comercial a los elementos, los efectos y el pago; luego la ejecución y la responsabilidad civil, la garantía patrimonial y el incumplimiento inimputable, la clasificación de las obligaciones y, por fin, su transmisión y extinción. Seis unidades ordenan ese recorrido.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
+    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Ciclo", "v": "CPC", "small": "común" }
+  ],
+  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la Cátedra «B» (Plan 2017), en la línea de Alterini, Ameal y López Cabana.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · 6 unidades",
+      "title": "El arco de la obligación: nacer, cumplirse, responder, extinguirse",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "OBLIGACIONES CIVILES Y COMERCIALES\n│\n├─ Unidad 1 · Concepto y método\n├─ Unidad 2 · Elementos, efectos y pago\n├─ Unidad 3 · Ejecución y responsabilidad civil\n├─ Unidad 4 · Garantía común e incumplimiento inimputable\n├─ Unidad 5 · Clasificación de las obligaciones\n└─ Unidad 6 · Transmisión, extinción y fuentes",
+        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la Cátedra «B»."
+      },
+      "exits": [
+        { "address": "uba.der.abogacia.obligaciones.concepto-metodo", "name": "Concepto y método", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.obligaciones.elementos-efectos-pago", "name": "Elementos, efectos y pago", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.obligaciones.ejecucion-responsabilidad", "name": "Ejecución y responsabilidad civil", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.obligaciones.garantia-inimputable", "name": "Garantía común e incumplimiento inimputable", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.obligaciones.clasificacion", "name": "Clasificación de las obligaciones", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.der.abogacia.obligaciones.transmision-extincion", "name": "Transmisión, extinción y fuentes", "role": "Unidad 6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos que asigna",
+      "note": "Bibliografía general del programa de la Cátedra «B» (Plan 2017). Fuente: programa de cátedra.",
+      "exits": [
+        { "address": "uba.der.abogacia.obligaciones.alterini-obligaciones", "name": "Atilio A. Alterini — Derecho de las obligaciones civiles y comerciales", "role": "Abeledo-Perrot · 2ª ed. 2004", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.alterini-ameal-lopez-cabana-curso", "name": "Alterini, Ameal y López Cabana — Curso de Obligaciones", "role": "Abeledo-Perrot", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.borda-obligaciones", "name": "Guillermo A. Borda — Tratado de Derecho Civil. Obligaciones", "role": "Abeledo-Perrot", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.cazeaux-trigo-represas", "name": "Cazeaux y Trigo Represas — Tratado de Derecho de las Obligaciones", "role": "Platense", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.boffi-boggero", "name": "Luis M. Boffi Boggero — Tratado de las Obligaciones", "role": "Astrea", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.belluscio-codigo", "name": "Belluscio (dir.) — Código Civil Anotado y Concordado", "role": "Astrea · t. 2, 3 y 5", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.obligaciones.bueres-highton-codigo", "name": "Bueres y Highton — Código Civil y Normas Complementarias", "role": "Hammurabi", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

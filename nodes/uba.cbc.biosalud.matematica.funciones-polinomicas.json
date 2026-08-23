@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.matematica.funciones-polinomicas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2,
+    "de": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.funciones-polinomicas",
+      "label": "Funciones polinómicas"
+    }
+  ],
+  "eyebrow": "Matemática · unidad · Unidad 2",
+  "title": "Funciones polinómicas",
+  "lede": "La primera familia de funciones: lineales, cuadráticas y polinomios de mayor grado.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 6"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Concepto de función · dominio e imagen; Función lineal · pendiente y ordenada; Función cuadrática · vértice y raíces; Polinomios · raíces y factorización.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "FUNCIONES POLINÓMICAS\n│\n• Concepto de función · dominio e imagen\n• Función lineal · pendiente y ordenada\n• Función cuadrática · vértice y raíces\n• Polinomios · raíces y factorización",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

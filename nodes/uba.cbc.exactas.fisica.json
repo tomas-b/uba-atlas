@@ -1,0 +1,180 @@
+{
+  "address": "uba.cbc.exactas.fisica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Cátedra Única de Física (CBC)",
+    "unidades": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.fisica",
+      "label": "Física"
+    }
+  ],
+  "eyebrow": "Física · CBC · Cátedra Única",
+  "title": "La mecánica, de los vectores a los fluidos.",
+  "lede": "La Física del CBC — cátedra única, teórico-práctica. Su foco es la mecánica: entender los conceptos base y usarlos para resolver problemas. El programa se recorre por cinco guías de problemas, de las magnitudes y vectores hasta la hidrostática.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Guías",
+      "v": "5",
+      "small": "unidades"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cátedra",
+      "v": "única",
+      "small": "CBC"
+    }
+  ],
+  "frame": "Contenido real de la cátedra única (fisica.cbc.uba.ar): mecánica clásica desarrollada a través de cinco guías de problemas. Los temas están sourceados; la bibliografía específica vive en el sitio de la cátedra y aún no fue extraída — es el paso que falta para cerrar L2.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 guías",
+      "title": "El recorrido de mecánica",
+      "note": "Cada guía es una unidad del programa, en orden.",
+      "map": {
+        "mk": "El programa, en cinco guías",
+        "tree": "FÍSICA CBC — mecánica clásica\n│\n├─ Guía 1 · Magnitudes Físicas y Vectores\n├─ Guía 2 · Cinemática\n├─ Guía 3 · Dinámica\n├─ Guía 4 · Trabajo y Energía\n└─ Guía 5 · Hidrostática",
+        "foot": "Temas de la cátedra única. La bibliografía específica está en fisica.cbc.uba.ar — sin extraer todavía."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.fisica.magnitudes-vectores",
+          "name": "Magnitudes Físicas y Vectores",
+          "role": "Guía 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.cinematica",
+          "name": "Cinemática",
+          "role": "Guía 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.dinamica",
+          "name": "Dinámica",
+          "role": "Guía 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.trabajo-energia",
+          "name": "Trabajo y Energía",
+          "role": "Guía 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.hidrostatica",
+          "name": "Hidrostática",
+          "role": "Guía 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los textos de la cátedra",
+      "note": "Bibliografía obligatoria y complementaria del programa de la Cátedra Única de Física (fisica.cbc.uba.ar): un texto básico y textos de nivel universitario más avanzado.",
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.fisica.rela",
+          "name": "Rela A. y otros — Física CBC-UBA",
+          "role": "texto básico · Villoldo Yanel",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.tipler",
+          "name": "Tipler y Mosca — Física para la ciencia y la tecnología, Vol. 1",
+          "role": "Reverté",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.resnick",
+          "name": "Resnick, Halliday y Krane — Física, Vol. 1",
+          "role": "CECSA",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.wilson",
+          "name": "Wilson, Buffa y Lou — Física",
+          "role": "Prentice Hall",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.serway",
+          "name": "Serway y Jewett — Física para ciencias e ingeniería, Vol. 1",
+          "role": "Cengage",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.young",
+          "name": "Young y Freedman — Física Universitaria, Vol. 1",
+          "role": "Pearson",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.gettys",
+          "name": "Gettys, Keller y Skove — Física Clásica y Moderna",
+          "role": "McGraw-Hill",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.giancoli",
+          "name": "Giancoli — Física para universitarios, Vol. 1",
+          "role": "Pearson",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.fisica.roederer",
+          "name": "Roederer — Mecánica Elemental",
+          "role": "Eudeba",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fisica.cbc.uba.ar · Cátedra Única de Física",
+    "url": "https://fisica.cbc.uba.ar/"
+  }
+}

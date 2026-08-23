@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional.difusion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional",
+      "label": "Pensamiento Computacional"
+    },
+    {
+      "address": "uba.cbc.exactas.pensamiento-computacional.difusion",
+      "label": "Difusión"
+    }
+  ],
+  "eyebrow": "Pensamiento Computacional · actividad · A4",
+  "title": "Modelar un proceso que se esparce.",
+  "lede": "La difusión de algo (una sustancia, un rumor) a través de un medio: cómo un modelo simple, repetido muchas veces, produce un comportamiento global.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "actividad",
+      "small": "modelo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Modelado de un proceso de difusión: reglas locales, iteración temporal, evolución de un sistema. Cómo emerge un patrón global de reglas simples repetidas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La actividad, comprimida",
+        "tree": "DIFUSIÓN (Actividad 4)\n│\n├─ Problema · algo que se esparce\n└─ Idea     · reglas locales, evolución temporal",
+        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+  }
+}

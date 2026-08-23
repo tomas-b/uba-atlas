@@ -1,0 +1,35 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.formacion-estado-poder",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.formacion-estado-poder", "label": "Formación del Estado y poder" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 2",
+  "title": "La formación del Estado, el poder y sus formas.",
+  "lede": "El proceso de formación del Estado y la naturaleza del poder que lo sostiene: la distinción entre legalidad y legitimidad, las formas de estado, y los problemas de la centralización y la descentralización territorial del poder.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Formación del Estado, poder, legitimidad y territorio",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales.",
+      "map": {
+        "mk": "Los conceptos de la unidad",
+        "tree": "FORMACIÓN DEL ESTADO Y PODER\n│\n├─ El proceso de formación del Estado\n├─ El poder\n├─ Legalidad y legitimidad\n├─ Formas de estado\n└─ Centralización y descentralización territorial del poder",
+        "foot": "Todos los conceptos provienen de los contenidos mínimos oficiales."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

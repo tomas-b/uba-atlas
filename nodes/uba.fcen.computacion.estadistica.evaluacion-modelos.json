@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.estadistica.evaluacion-modelos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.estadistica", "label": "Estadística Computacional" },
+    { "address": "uba.fcen.computacion.estadistica.evaluacion-modelos", "label": "Evaluación y selección de modelos" }
+  ],
+  "eyebrow": "Estadística · unidad · Unidad 4",
+  "title": "¿Qué modelo es mejor? Métricas y selección.",
+  "lede": "El cierre. Las métricas de evaluación y la selección de modelos, y la importancia de la inferencia estadística como fundamento del aprendizaje automático y la inteligencia artificial.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 4" },
+    { "k": "Rol", "v": "evaluar", "small": "elegir" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Métricas de evaluación y selección de modelos. Importancia de la inferencia estadística para el aprendizaje automático y la inteligencia artificial.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Contenidos mínimos reagrupados en la Unidad 4.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EVALUACIÓN Y SELECCIÓN DE MODELOS (Unidad 4)\n│\n├─ Métricas de evaluación\n├─ Selección de modelos\n└─ La inferencia estadística como base del aprendizaje automático y la IA",
+        "foot": "Contenidos mínimos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (contenidos mínimos)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.complejos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.algebra-1", "label": "Álgebra I" },
+    { "address": "uba.fcen.computacion.algebra-1.complejos", "label": "Números complejos" }
+  ],
+  "eyebrow": "Álgebra I · unidad · U4",
+  "title": "Los complejos y sus raíces.",
+  "lede": "El cuerpo de los números complejos: forma binomial y forma trigonométrica, las fórmulas de De Moivre y el cálculo de raíces n-ésimas. El plano donde todo polinomio tiene sus raíces.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Rol", "v": "cuerpo", "small": "complejos" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Números complejos. Forma binomial y forma trigonométrica (polar). Operaciones. Fórmulas de De Moivre. Raíces n-ésimas de un número complejo. El cuerpo donde se completa la resolución de ecuaciones polinómicas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "NÚMEROS COMPLEJOS (U4)\n│\n├─ Formas    · binomial, trigonométrica\n├─ De Moivre · potencias\n└─ Raíces    · raíces n-ésimas",
+        "foot": "Temas del programa oficial del DM (Álgebra I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" }
+}

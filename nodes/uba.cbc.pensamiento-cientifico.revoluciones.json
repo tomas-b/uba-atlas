@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.revoluciones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4, "lecturas": ["Kuhn", "Chalmers"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.revoluciones", "label": "Revoluciones científicas" }
+  ],
+  "eyebrow": "Pensamiento Científico · unidad · Historia y paradigmas",
+  "title": "La ciencia no acumula: cambia de piel.",
+  "lede": "El giro histórico y sociológico. Kuhn observa que la ciencia real no progresa sumando verdades: trabaja dentro de un paradigma (ciencia normal), acumula anomalías, entra en crisis y salta a un paradigma nuevo por una revolución. Y los paradigmas son inconmensurables — no se comparan punto por punto. La imagen lógica de Popper contra la imagen histórica de Kuhn.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Lecturas", "v": "2", "small": "Kuhn · Chalmers" },
+    { "k": "Grounding", "v": "L2", "small": "temas + lecturas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El sacudón del curso. Donde Popper describe cómo la ciencia debería proceder (lógica), Kuhn describe cómo procede de hecho (historia). Un paradigma es el marco compartido de una comunidad científica: teorías, métodos, problemas ejemplares. Bajo él se hace ciencia normal, resolviendo enigmas sin cuestionar el marco. Cuando las anomalías se acumulan y resisten, sobreviene la crisis, y un paradigma rival puede reemplazarlo en una revolución. Conceptos: paradigma, ciencia normal, enigmas, anomalías, crisis, revolución, inconmensurabilidad, comunidad científica.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "REVOLUCIONES CIENTÍFICAS (Kuhn)\n│\n├─ Paradigma · el marco compartido de una comunidad\n├─ Ciencia normal · resolver enigmas dentro del marco\n├─ Anomalías → Crisis · lo que el marco no logra digerir\n├─ Revolución · salto a un paradigma nuevo\n└─ Inconmensurabilidad · los paradigmas no se comparan punto por punto\n        → la ciencia no acumula, se reorganiza",
+        "foot": "Temas de la cátedra (IPC). Lectura central: Kuhn, «La estructura de las revoluciones científicas»; Chalmers presenta Kuhn frente a Popper."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cbc.uba.ar · cátedra Pensamiento Científico", "url": "https://www.cbc.uba.ar/" }
+}

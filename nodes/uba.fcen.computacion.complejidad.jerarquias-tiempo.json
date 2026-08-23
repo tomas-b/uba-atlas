@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.complejidad.jerarquias-tiempo",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.complejidad", "label": "Complejidad Computacional" },
+    { "address": "uba.fcen.computacion.complejidad.jerarquias-tiempo", "label": "coNP, EXPTIME y jerarquías de tiempo" }
+  ],
+  "eyebrow": "Complejidad · unidad · Unidad 3",
+  "title": "Más allá de NP: coNP, tiempo exponencial y Ladner.",
+  "lede": "El paisaje de clases que rodea a NP. La clase coNP, las clases EXPTIME y NEXPTIME, las jerarquías de tiempo determinístico y no-determinístico, y el teorema de Ladner sobre problemas intermedios entre P y NP-completo.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Rol", "v": "clases", "small": "tiempo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La clase coNP. Las clases EXPTIME y NEXPTIME. La jerarquía de tiempos determinísticos y la jerarquía de tiempos no-determinísticos. Teorema de Ladner.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad 3.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "coNP, EXPTIME Y JERARQUÍAS DE TIEMPO (Unidad 3)\n│\n├─ La clase coNP\n├─ EXPTIME y NEXPTIME\n├─ Jerarquías de tiempo · determinístico y no-determinístico\n└─ Teorema de Ladner",
+        "foot": "Temas de la transcripción de Cuba-Wiki (cursada 1c2025)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cubawiki.com.ar · Complejidad Computacional (temario 1c2025)", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" }
+}

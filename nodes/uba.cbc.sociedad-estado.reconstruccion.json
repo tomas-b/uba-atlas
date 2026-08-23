@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.reconstruccion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6, "período": "2001–actualidad" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.reconstruccion", "label": "La reconstrucción del Estado (2001–actualidad)" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · 2001–hoy",
+  "title": "Rearmar el Estado después del estallido.",
+  "lede": "El cierre del recorrido, en el presente. Después de 2001: el intento de reconstruir la autoridad estatal y el mercado interno, nuevos actores sociales surgidos de la crisis, la renegociación de la deuda y políticas sociales de alcance más universal. La materia llega hasta el debate abierto sobre qué Estado es posible hoy.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Período", "v": "2001–hoy" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El tramo final, que conecta la historia con el presente. Tras la crisis de 2001, el Estado busca recuperar centralidad: políticas de promoción del mercado interno, procesos de reducción y renegociación de la deuda, y políticas sociales de vocación más universal (transferencias de ingresos, ampliación de derechos). Aparecen nuevos actores sociales nacidos de la crisis (movimientos de desocupados, organizaciones territoriales). La unidad no cierra con una respuesta sino con un debate abierto sobre el papel del Estado en el capitalismo contemporáneo. Conceptos: reconstrucción estatal, mercado interno, política social universal, nuevos movimientos sociales.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA RECONSTRUCCIÓN DEL ESTADO (2001–actualidad)\n│\n├─ Después de 2001 · recuperar centralidad estatal\n├─ Economía · mercado interno, renegociación de la deuda\n├─ Política social · transferencias, alcance más universal\n└─ Nuevos actores · movimientos surgidos de la crisis\n        → cierra en debate abierto, no en respuesta",
+        "foot": "Temas de la cátedra (ICSE). El arco de la materia llega al presente y deja la pregunta sobre el Estado abierta."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

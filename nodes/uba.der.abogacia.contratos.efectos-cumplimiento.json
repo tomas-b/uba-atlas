@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.efectos-cumplimiento",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.efectos-cumplimiento", "label": "Efectos y cumplimiento" }
+  ],
+  "eyebrow": "Contratos · Unidad 4",
+  "title": "A quién obliga el contrato y qué pasa si no se cumple.",
+  "lede": "El efecto relativo del contrato entre partes y terceros —con la promesa del hecho de tercero y la estipulación a favor de tercero—; la teoría general de las obligaciones contractuales y el cumplimiento. La responsabilidad por incumplimiento y su extensión, y las garantías de saneamiento: la evicción y los vicios ocultos.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Efectos relativos, cumplimiento, responsabilidad y saneamiento",
+      "note": "Efectos: efecto relativo; partes y terceros; sucesores universales; contratación a nombre de tercero; promesa del hecho de tercero; estipulación a favor de tercero; contrato para persona a designar; contrato por cuenta de quien corresponda. Teoría general de las obligaciones contractuales; cumplimiento (sujetos, objeto, tiempo, lugar y gastos del pago); el derecho de pagar; cumplimiento en las distintas categorías de obligaciones; obligación de seguridad; obligación natural; ejecución de las obligaciones; ejercicio abusivo del derecho. Responsabilidad por incumplimiento: presupuestos; extensión del resarcimiento; cláusula penal; cláusulas limitativas y eximentes; incumplimiento inimputable (caso fortuito). Saneamiento: concepto, sujetos obligados, garantías comprendidas, disponibilidad, responsabilidad por saneamiento y por daños. Evicción: concepto, alcance, exclusiones, ejercicio, citación, cesación. Vicios ocultos: concepto, alcance, ampliación, exclusiones, subsanación, ejercicio, caducidad.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

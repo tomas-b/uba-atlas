@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia.cuerpo-historia",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "de": 5, "materia": "Antropología Filosófica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" },
+    { "address": "uba.ffyl.filosofia.antropologia.cuerpo-historia", "label": "Naturaleza humana, cuerpo y política en la historia de la filosofía" }
+  ],
+  "eyebrow": "Antropología Filosófica · unidad · 3 de 5",
+  "title": "El cuerpo, entre el alma y la máquina.",
+  "lede": "Apertura de la parte especial. Los monismos y dualismos antiguos y la posición de Aristóteles; el mecanicismo cartesiano y la potencia crítica de sus lecturas contemporáneas de la relación mente-cuerpo — Ryle, Deleuze, Foucault, Ricoeur, Nancy, Blanchot.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Rol", "v": "especial", "small": "cuerpo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Naturaleza humana, cuerpo y política en la historia de la filosofía occidental. Los monismos y dualismos antiguos y la posición de Aristóteles. El mecanicismo cartesiano y la potencia crítica de su lectura contemporánea: la relación mente-cuerpo (G. Ryle), el cuerpo como repetición de la diferencia (G. Deleuze), disciplinas y normalización (M. Foucault), el cogito herido (P. Ricoeur), el cuerpo como extensión del alma (J.-L. Nancy), cuerpos impersonales (M. Blanchot).",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad III del programa Bonilla.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Antropología Filosófica Nº 0232 (Bonilla) · Unidad III", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

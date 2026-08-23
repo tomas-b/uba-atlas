@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.analisis-economico.variables-macro",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.analisis-economico", "label": "Análisis Económico y Financiero" },
+    { "address": "uba.der.abogacia.analisis-economico.variables-macro", "label": "Variables macroeconómicas" }
+  ],
+  "eyebrow": "Análisis Económico y Financiero · Unidad 1",
+  "title": "El instrumental para leer la economía argentina.",
+  "lede": "El instrumental para el estudio de la economía argentina y sus variables macroeconómicas: el crecimiento, la inflación y el desempleo. El modelo clásico y sus falencias, el crecimiento económico, los transables y los no transables, el adelanto tecnológico. La balanza de pagos, las cuentas nacionales y las tasas de interés; el tipo de cambio real; la función de consumo; la inversión y el ciclo económico.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 3" },
+    { "k": "Materia", "v": "An. Econ.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Variables macroeconómicas, modelo clásico y ciclo",
+      "note": "Instrumental para el estudio de la economía argentina · variables macroeconómicas · crecimiento, inflación y desempleo · modelo clásico y sus falencias · crecimiento económico · transables y no transables · adelanto tecnológico · balanza de pagos, cuentas nacionales y tasas de interés · tipo de cambio real · función de consumo · inversión y ciclo económico.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.calculos-magnitudes",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.calculos-magnitudes",
+      "label": "Cálculos Básicos: Magnitudes y Unidades"
+    }
+  ],
+  "eyebrow": "Química · unidad · U1",
+  "title": "El lenguaje cuantitativo de la química.",
+  "lede": "El arranque instrumental: magnitudes físicas, unidades, notación científica, cifras significativas y factores de conversión — la aritmética con la que se trabaja toda la materia.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "1",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "base",
+      "small": "cálculo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Magnitudes y unidades (SI), notación científica, cifras significativas, exactitud y precisión, factores de conversión. La caja de herramientas de cálculo antes de la química propiamente dicha.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CÁLCULOS BÁSICOS (U1)\n│\n├─ Magnitudes · SI, notación científica\n└─ Cálculo    · cifras significativas, conversiones",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

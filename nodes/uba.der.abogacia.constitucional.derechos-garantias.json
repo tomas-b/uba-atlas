@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.derechos-garantias",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.derechos-garantias", "label": "Derechos y garantías" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 5",
+  "title": "Declaraciones, derechos y garantías de la persona.",
+  "lede": "El catálogo constitucional de declaraciones, derechos y garantías. Dentro de él, el debido proceso legal como garantía y la igualdad como principio.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Declaraciones, derechos y garantías · debido proceso · igualdad",
+      "note": "Declaraciones, derechos y garantías. El debido proceso legal. Igualdad.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

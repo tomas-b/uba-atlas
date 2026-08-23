@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.transformaciones-lineales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.transformaciones-lineales",
+      "label": "Transformaciones Lineales"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U4",
+  "title": "Las funciones que respetan la estructura.",
+  "lede": "Las transformaciones lineales son las funciones entre espacios vectoriales que preservan la suma y el producto por escalar. Núcleo e imagen, monomorfismos y epimorfismos, composición e inversa.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "funciones"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Transformación lineal: definición y ejemplos. Núcleo e imagen, teorema de la dimensión. Monomorfismos, epimorfismos e isomorfismos. Composición de transformaciones y transformación inversa. El puente entre espacios vectoriales.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "TRANSFORMACIONES LINEALES (U4)\n│\n├─ Definición · núcleo e imagen, teorema de la dimensión\n├─ Tipos      · mono / epi / isomorfismos\n└─ Álgebra    · composición, inversa",
+        "foot": "Temas de la cátedra de Álgebra. Las funciones propias del álgebra lineal."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

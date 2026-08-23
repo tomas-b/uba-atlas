@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.semiologia.enunciacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 2,
+    "de": 4,
+    "materia": "Semiología"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.semiologia",
+      "label": "Semiología"
+    },
+    {
+      "address": "uba.cbc.sociales.semiologia.enunciacion",
+      "label": "El problema de la enunciación"
+    }
+  ],
+  "eyebrow": "Semiología · unidad · contenido 2",
+  "title": "Quién habla en el discurso.",
+  "lede": "La construcción discursiva del sujeto, los géneros discursivos y los modos de organización textual (narración, descripción, argumentación).",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "2",
+      "small": "de 4"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El problema de la enunciación. La construcción discursiva del sujeto. Discurso. Enunciación y enunciado. Los actos de habla. Dialogicidad. Lo explícito y lo implícito. Polifonía y heterogeneidades discursivas. Intertextualidad. Los géneros discursivos. Modos de organización textual. La narración. La descripción. La argumentación. Perspectiva retórica. Ethos, logos y pathos. La explicación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

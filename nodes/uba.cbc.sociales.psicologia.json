@@ -1,0 +1,110 @@
+{
+  "address": "uba.cbc.sociales.psicologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "materia del área · cátedra CBC",
+    "orientacion": "Ciencias Sociales y Humanas",
+    "unidades": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.psicologia",
+      "label": "Psicología"
+    }
+  ],
+  "eyebrow": "Psicología · CBC · orientación Sociales y Humanas",
+  "title": "Las grandes corrientes que disputaron el objeto de la psicología.",
+  "lede": "Una introducción a las principales corrientes contemporáneas de la psicología —conductismo, cognitivismo, psicoanálisis y psicología social— y a los supuestos epistemológicos que las separan.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "de área"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio pend."
+    },
+    {
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
+    }
+  ],
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): cinco bloques que recorren el objeto y método de la psicología y sus grandes corrientes, cada una definida por una ruptura con la anterior. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · las unidades",
+      "title": "De qué se trata",
+      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "map": {
+        "mk": "La materia, comprimida",
+        "tree": "PSICOLOGÍA — contenidos mínimos\n│\n├─ 1 · Objeto y métodos de la Psicología\n├─ 2 · Estudio de la conducta humana\n├─ 3 · Estudio de los procesos cognitivos\n├─ 4 · Estudio de los procesos inconscientes\n└─ 5 · Estudio de la interacción humana",
+        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.sociales.psicologia.objeto",
+          "name": "Objeto y métodos de la Psicología",
+          "role": "contenido 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.psicologia.conducta",
+          "name": "Estudio de la conducta humana",
+          "role": "contenido 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.psicologia.cognitivos",
+          "name": "Estudio de los procesos cognitivos",
+          "role": "contenido 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.psicologia.inconsciente",
+          "name": "Estudio de los procesos inconscientes",
+          "role": "contenido 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociales.psicologia.interaccion",
+          "name": "Estudio de la interacción humana",
+          "role": "contenido 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

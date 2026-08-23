@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.magnitudes-atomico-moleculares",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.magnitudes-atomico-moleculares",
+      "label": "Magnitudes Atómico-Moleculares"
+    }
+  ],
+  "eyebrow": "Química · unidad · U4",
+  "title": "El mol: contar átomos por su masa.",
+  "lede": "El puente entre lo micro y lo macro. Masa atómica y molecular, el concepto de mol y el número de Avogadro, masa molar y los cálculos estequiométricos elementales.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "mol"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Masa atómica y molecular relativa. Mol y número de Avogadro. Masa molar. Composición centesimal, fórmula mínima y molecular. La base del cálculo estequiométrico.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MAGNITUDES ATÓMICO-MOLECULARES (U4)\n│\n├─ Masa · atómica y molecular relativa\n├─ Mol  · número de Avogadro, masa molar\n└─ Fórmulas · composición, mínima y molecular",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

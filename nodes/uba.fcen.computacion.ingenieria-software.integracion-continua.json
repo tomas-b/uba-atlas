@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.ingenieria-software.integracion-continua",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.ingenieria-software", "label": "Ingeniería de Software" },
+    { "address": "uba.fcen.computacion.ingenieria-software.integracion-continua", "label": "Integración continua y análisis de código" }
+  ],
+  "eyebrow": "Ingeniería de Software · unidad · 6",
+  "title": "Integrar seguido y mirar el código con herramientas.",
+  "lede": "Integración continua como práctica del desarrollo. Técnicas de análisis de código para revisarlo de forma sistemática.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Rol", "v": "unidad", "small": "CI y análisis" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La unidad aborda integración continua y técnicas de análisis de código.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTEGRACIÓN CONTINUA Y ANÁLISIS DE CÓDIGO (unidad 6)\n│\n├─ Tema · integración continua\n└─ Idea · técnicas de análisis de código",
+        "foot": "Tema de los contenidos mínimos oficiales del Plan 2023 (Ingeniería de Software, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y temas propuestos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

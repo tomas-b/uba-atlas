@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.estado-social",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "período": "1930–1955" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.estado-social", "label": "El Estado social" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · El Estado interventor",
+  "title": "Cuando el Estado se metió en todo.",
+  "lede": "El giro del Estado hacia la intervención y el bienestar. La crisis de 1930 y el fin del modelo agroexportador; el Estado que interviene en la economía; y el peronismo (1943–1955) como forma estatal — la relación entre el Estado y el movimiento obrero, la centralización del poder y la reforma constitucional de 1949.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Período", "v": "1930–1955" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El cambio de forma estatal: del Estado liberal-conservador al Estado interventor y social. La crisis mundial de 1930 quiebra el modelo agroexportador y empuja la intervención económica del Estado y la sustitución de importaciones. El peronismo (1943/46–1955) es el caso central: un Estado que incorpora al movimiento obrero como actor político y social, expande derechos laborales y sociales, centraliza el poder y reforma la Constitución en 1949. Se lee como emergencia del Estado de bienestar en clave argentina. Conceptos: intervención estatal, Estado social / de bienestar, relación Estado–sindicatos, ciudadanía social.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EL ESTADO SOCIAL\n│\n├─ Crisis de 1930 · fin del modelo agroexportador\n├─ El Estado interventor · economía y sustitución de importaciones\n├─ Peronismo (1943–1955) · Estado y movimiento obrero\n└─ Centralización y derechos · reforma constitucional de 1949",
+        "foot": "Temas de la cátedra (ICSE). El Estado cambia de rol: de garante del orden a agente de bienestar."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

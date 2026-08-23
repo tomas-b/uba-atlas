@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.reacciones-quimicas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 9
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.reacciones-quimicas",
+      "label": "Reacciones Químicas"
+    }
+  ],
+  "eyebrow": "Química · unidad · U9",
+  "title": "La transformación y su estequiometría.",
+  "lede": "El cambio químico: ecuaciones y su balanceo, la estequiometría de las reacciones, reactivo limitante, pureza y rendimiento.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "9",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "estequiom."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Ecuación química y balanceo. Estequiometría: cálculos con moles y masas. Reactivo limitante y en exceso. Pureza y rendimiento. Tipos de reacción, incluida óxido-reducción (noción).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "REACCIONES QUÍMICAS (U9)\n│\n├─ Ecuación · balanceo\n├─ Estequiometría · moles, masas, limitante\n└─ Rendimiento    · pureza, rendimiento",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

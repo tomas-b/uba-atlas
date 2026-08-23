@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho.norma-sistema",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-general-derecho", "label": "Teoría General del Derecho" },
+    { "address": "uba.der.abogacia.teoria-general-derecho.norma-sistema", "label": "Norma y sistema" }
+  ],
+  "eyebrow": "Teoría General del Derecho · Unidad 2",
+  "title": "La norma y el sistema que forma.",
+  "lede": "La unidad de la norma jurídica y del sistema que las normas componen: qué es una norma y cómo un conjunto de normas se ordena como sistema jurídico.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "TGD", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Norma y sistema jurídico",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: norma y sistema jurídico.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

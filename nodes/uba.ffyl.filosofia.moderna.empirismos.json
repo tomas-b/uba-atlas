@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.moderna.empirismos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.moderna", "label": "Historia de la Filosofía Moderna" },
+    { "address": "uba.ffyl.filosofia.moderna.empirismos", "label": "Empirismos modernos" }
+  ],
+  "eyebrow": "Filosofía Moderna · unidad · III de V",
+  "title": "Todo lo que sé, ¿no vino de la experiencia?",
+  "lede": "La respuesta contraria al racionalismo: nada en la mente que no haya pasado por los sentidos. Bacon y el nuevo método inductivo; Locke contra las ideas innatas; y Hume llevando el empirismo hasta su filo escéptico —el problema de la causalidad, la crítica a la metafísica y a la religión, la relación entre razón y sentimientos.",
+  "meta": [
+    { "k": "Unidad", "v": "III", "small": "de V" },
+    { "k": "Figuras", "v": "Bacon", "small": "Locke · Hume" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Francis Bacon: el proyecto de una nueva ciencia de la naturaleza; la doctrina de los ídolos; el nuevo órganon y el método inductivo. Las críticas de John Locke al innatismo epistemológico. David Hume: el proyecto de una ciencia experimental de la naturaleza humana; percepciones, impresiones e ideas; el principio empirista de la copia; leyes de asociación; relaciones de ideas y cuestiones de hecho; los problemas escépticos relativos a la causalidad y su solución escéptica; la crítica a la metafísica trascendente, a la religión revelada y natural; libertad y necesidad; razón y sentimientos. Fuentes: Bacon (Novum Organon), Locke y Hume (Investigación sobre el conocimiento humano).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad III.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EMPIRISMOS MODERNOS (Unidad III)\n│\n├─ Bacon    los ídolos · el método inductivo · la nueva ciencia\n├─ Locke    la crítica al innatismo\n└─ Hume     impresiones e ideas · el problema de la causalidad · escepticismo",
+        "foot": "Temas del programa 2020. Fuente central: Hume, Investigación sobre el conocimiento humano."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Moderna · Unidad III", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" }
+}

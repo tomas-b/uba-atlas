@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.espacios-vectoriales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.espacios-vectoriales",
+      "label": "Espacios Vectoriales"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U2",
+  "title": "La abstracción: espacios y bases.",
+  "lede": "El salto a lo abstracto. Un espacio vectorial es cualquier conjunto donde se puede sumar y multiplicar por escalares con las reglas conocidas. Subespacios, generadores, independencia lineal, bases y dimensión.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "estructura"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Definición de espacio vectorial. Subespacios. Combinaciones lineales, conjunto generador, dependencia e independencia lineal. Base y dimensión. Coordenadas de un vector en una base. El concepto central que unifica todo el curso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ESPACIOS VECTORIALES (U2)\n│\n├─ Estructura · espacio vectorial, subespacios\n├─ Generación · generadores, independencia lineal\n└─ Base       · base, dimensión, coordenadas",
+        "foot": "Temas de la cátedra de Álgebra. La estructura abstracta del álgebra lineal."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

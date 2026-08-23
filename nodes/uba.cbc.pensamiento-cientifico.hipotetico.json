@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico.hipotetico",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2, "lecturas": ["Klimovsky", "Popper", "Chalmers"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.pensamiento-cientifico", "label": "Pensamiento Científico" },
+    { "address": "uba.cbc.pensamiento-cientifico.hipotetico", "label": "Método hipotético-deductivo" }
+  ],
+  "eyebrow": "Pensamiento Científico · unidad · Método y falsación",
+  "title": "Si no podés probar, refutá.",
+  "lede": "La respuesta al golpe de Hume. Como la inducción no se justifica, la ciencia no verifica: conjetura hipótesis y las somete a contrastación. El método hipotético-deductivo y la falsación de Popper — una teoría vale mientras resiste los intentos de refutarla, y una que nada puede refutar no dice nada.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 5" },
+    { "k": "Lecturas", "v": "3", "small": "Klimovsky · Popper · Chalmers" },
+    { "k": "Grounding", "v": "L2", "small": "temas + lecturas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El giro central del curso. Frente al problema de la inducción, Popper propone invertir la lógica: no se parte de la observación para llegar a la ley, se parte de una conjetura audaz y se deduce de ella una predicción contrastable. Si la predicción falla, la hipótesis se refuta (modus tollens); si resiste, queda corroborada — nunca probada. De ahí el criterio de demarcación: una teoría es científica si es falsable, si prohíbe algo. Conceptos: hipótesis y consecuencias observacionales, contrastación, refutación y corroboración, conjeturas y refutaciones, la asimetría entre verificación y falsación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MÉTODO HIPOTÉTICO-DEDUCTIVO\n│\n├─ El problema heredado · la inducción no se justifica (Hume)\n├─ La inversión de Popper · conjeturar, no acumular\n├─ El método H-D · hipótesis → consecuencia observacional → contrastación\n├─ Refutación vs. corroboración · modus tollens; nunca se prueba\n└─ Criterio de demarcación · ciencia = falsable; lo que nada prohíbe, nada dice",
+        "foot": "Temas de la cátedra (IPC). Lecturas: Klimovsky (método H-D), Popper (lógica de la investigación / conjeturas y refutaciones), Chalmers (del inductivismo al falsacionismo)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cbc.uba.ar · cátedra Pensamiento Científico", "url": "https://www.cbc.uba.ar/" }
+}

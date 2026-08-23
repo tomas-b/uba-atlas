@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.metodos-alternativos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.metodos-alternativos", "label": "Métodos alternativos" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 3",
+  "title": "Resolver el conflicto sin llegar a la sentencia.",
+  "lede": "Los métodos alternativos de resolución de conflictos: negociación, mediación, tercero neutral y “amicus curiae”, conciliación y arbitraje. La mediación obligatoria: su ámbito de aplicación y el análisis del procedimiento de la ley 24.573 junto con sus normas reglamentarias y modificatorias.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Métodos alternativos y mediación obligatoria",
+      "note": "Métodos alternativos de resolución de conflictos: negociación · mediación · tercero neutral y “amicus curiae” · conciliación · arbitraje · mediación obligatoria: ámbito de aplicación · procedimiento de la ley 24.573 y sus normas reglamentarias y modificatorias.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

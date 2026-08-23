@@ -1,0 +1,57 @@
+{
+  "address": "uba.ffyl.filosofia.etica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral · promoción directa", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "Depto. de Filosofía · programa Prof. Carlos A. Cullen Soriano (Nº 0214-12006)", "unidades": 2, "temas": 11, "bibliografia": 8, "rota": "sí — foco por cátedra/año" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.etica", "label": "Ética" }
+  ],
+  "eyebrow": "Filosofía · sistemática · Ética",
+  "title": "¿Qué es obrar bien?",
+  "lede": "El planteo sistemático de los problemas de la ética como disciplina filosófica: reconocer el campo problemático — moral y ética, acción, bien, virtud, deber, utilidad, justicia — y, sobre él, la pregunta por el sujeto moral. Distinguir formas y niveles de argumentación moral, con las posiciones históricas cruzando cada problema.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "prom. directa" },
+    { "k": "Bloques", "v": "2", "small": "· 11 temas" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Foco", "v": "rota", "small": "por cátedra" }
+  ],
+  "frame": "Contenido real del programa Nº 0214 (Prof. Carlos A. Cullen Soriano, filosofia.filo.uba.ar): Ética estructurada en dos bloques — 'El campo problemático de la ética' (siete cuestiones: moral/ética, acción, bien y felicidad, virtud, deber, utilidad, justicia) y 'El sujeto moral' (cuatro ejes: razón/autonomía, deseo, poder, interpelación del otro). Este mapeo sistemático es el más cercano a un contenido mínimo estable. CAVEAT: como sistemática, Ética rota su eje por cátedra y año — otras cátedras (p. ej. Cano/D'Iorio, Garreta Leclercq) arman el recorrido en torno a autores o problemas distintos, manteniendo el mismo campo. No se localizó un 'contenido mínimo' normativo separado.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · dos bloques, once cuestiones",
+      "title": "El campo problemático y el sujeto moral",
+      "note": "Cada bloque del programa es un nodo; las once cuestiones se despliegan dentro.",
+      "map": {
+        "mk": "El programa, en dos bloques",
+        "tree": "ÉTICA — el campo problemático\n│\n├─ I · EL CAMPO PROBLEMÁTICO\n│    1 moral y ética · discursos morales\n│    2 la acción y la agencia\n│    3 el bien y la felicidad\n│    4 la virtud\n│    5 el deber (Kant)\n│    6 lo útil y el bienestar (utilitarismo)\n│    7 la justicia\n└─ II · EL SUJETO MORAL\n     8 razón y autonomía\n     9 deseo · 10 poder\n     11 la interpelación del otro",
+        "foot": "Temas del programa Cullen. La segunda parte pasa del mapa de problemas al sujeto que obra."
+      },
+      "exits": [
+        { "address": "uba.ffyl.filosofia.etica.campo-problematico", "name": "El campo problemático de la ética", "role": "Parte I · cuestiones 1–7", "tag": "bloque", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.etica.sujeto-moral", "name": "El sujeto moral", "role": "Parte II · cuestiones 8–11", "tag": "bloque", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · textos fuente",
+      "title": "Las fuentes",
+      "note": "Textos fuente reales del programa. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.filosofia.etica.libro-aristoteles", "name": "Ética nicomaquea — Aristóteles (Centro de Estudios Constitucionales, 1981)", "role": "virtud · bien", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-kant", "name": "Fundamentación de la metafísica de las costumbres — I. Kant (Espasa Calpe, 1981)", "role": "deber", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-mill", "name": "Utilitarismo — J.S. Mill (Alianza, 1984)", "role": "lo útil", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-hegel", "name": "Principios de la filosofía del derecho — G.W.F. Hegel (Sudamericana, 1975)", "role": "crítica a Kant", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-nietzsche", "name": "La genealogía de la moral — F. Nietzsche (Alianza, 1987)", "role": "sospecha", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-rawls", "name": "Teoría de la justicia — J. Rawls (FCE, 1978)", "role": "justicia", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-macintyre", "name": "Tras la virtud — A. MacIntyre (Crítica, 1987)", "role": "virtud contemp.", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.etica.libro-ricoeur", "name": "Sí mismo como otro — P. Ricoeur (Du Seuil, 1990)", "role": "sujeto moral", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Ética Nº 0214 (Cullen)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Etica%2012%20II.doc" }
+}

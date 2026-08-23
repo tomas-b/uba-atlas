@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.garantia-inimputable",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.garantia-inimputable", "label": "Garantía común e incumplimiento inimputable" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 4",
+  "title": "El patrimonio como respaldo y el incumplimiento sin culpa.",
+  "lede": "La ejecución indirecta y la reparación del daño, con las vías de ejecución y liquidación y el ejercicio de las acciones indemnizatorias. El patrimonio del deudor como garantía común de los acreedores y su dinámica. Y el incumplimiento inimputable: caso fortuito, imprevisión y sus efectos, junto a la mora del acreedor y el pago por consignación.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Garantía común e incumplimiento inimputable",
+      "note": "Ejecución indirecta · vías de ejecución y liquidación · ejercicio de las acciones indemnizatorias · reparación del daño. Resguardos del crédito como activo patrimonial · el patrimonio como garantía común de los acreedores · dinámica de la garantía común. Incumplimiento inimputable con relación al deudor · caso fortuito · imprevisión · efectos con relación al deudor · mora del acreedor · pago por consignación.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

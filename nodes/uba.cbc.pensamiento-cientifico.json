@@ -1,0 +1,133 @@
+{
+  "address": "uba.cbc.pensamiento-cientifico",
+  "level": "programa",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.pensamiento-cientifico",
+      "label": "Pensamiento Científico"
+    }
+  ],
+  "eyebrow": "Introducción al Pensamiento Científico · programa",
+  "title": "¿Qué hace que algo sea ciencia?",
+  "lede": "La única clase de epistemología que corre toda la universidad — del médico al abogado. Una sola pregunta desplegada en el tiempo: <b>¿cuándo una afirmación cuenta como conocimiento científico?</b> El curso es la historia de cómo el siglo XX soñó una respuesta segura y después la desarmó.",
+  "meta": [
+    {
+      "k": "Tipo",
+      "v": "universal",
+      "small": "toda la UBA"
+    },
+    {
+      "k": "Régimen",
+      "v": "1",
+      "small": "cuatrim."
+    },
+    {
+      "k": "Altitud",
+      "v": "programa"
+    },
+    {
+      "k": "Abajo",
+      "v": "libros",
+      "small": "el 1:1"
+    }
+  ],
+  "frame": "Un programa, a esta resolución, es un argumento con orden. Pensamiento Científico no enseña 'datos sobre la ciencia': te hace recorrer un giro. Empieza en el sueño de la certeza (la ciencia como verdades probadas que se acumulan) y termina en su reemplazo (conjetura, refutación y revoluciones). Si entendés ese arco, entendés cómo piensa la ciencia — sin ser científico.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El recorrido · las unidades en orden",
+      "title": "De la certeza a la revolución",
+      "note": "Cada unidad reacciona contra la anterior — igual que el hilo de la filosofía, pero en un cuatrimestre. Esa dirección es el programa real.",
+      "map": {
+        "mk": "El giro del curso, comprimido",
+        "tree": "PENSAMIENTO CIENTÍFICO — un giro en cinco pasos\n│\n├─ 1 · CONOCER      ¿qué es saber? deducción vs inducción\n│        y el golpe de Hume: la inducción no se justifica\n├─ 2 · POPPER       ⇒ entonces no verificás: refutás\n│        el método hipotético-deductivo, la falsación\n├─ 3 · HEMPEL       ¿qué es explicar? el modelo nomológico\n├─ 4 · KUHN         ⇒ la ciencia NO acumula: hace revoluciones\n│        paradigmas · ciencia normal · crisis\n└─ 5 · ¿Y LO SOCIAL? ¿las ciencias sociales juegan igual?",
+        "foot": "El corazón del curso es el paso 1→2→4: del sueño de probar, a solo poder refutar, a que hasta el marco cambia. Se expande hacia cada unidad → los textos."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.pensamiento-cientifico.conocimiento",
+          "name": "1 · Conocimiento, deducción e inducción",
+          "role": "el problema de Hume",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.hipotetico",
+          "name": "2 · Método hipotético-deductivo",
+          "role": "Popper · falsación",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.explicacion",
+          "name": "3 · Explicación científica",
+          "role": "Hempel",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.revoluciones",
+          "name": "4 · Revoluciones científicas",
+          "role": "Kuhn · paradigmas",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.sociales",
+          "name": "5 · Ciencias naturales y sociales",
+          "role": "la especificidad de lo social",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "gate",
+      "eyebrow": "Los textos · el 1:1",
+      "title": "La bibliografía real",
+      "note": "El fondo del pozo de resolución: acá el mapa toca el terreno. Estos son los libros que el programa efectivamente asigna — el 1:1 contra el que todo lo de arriba se regrounda.",
+      "exits": [
+        {
+          "address": "uba.cbc.pensamiento-cientifico.klimovsky",
+          "name": "Klimovsky — Las desventuras del conocimiento científico",
+          "role": "el manual de la cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.chalmers",
+          "name": "Chalmers — ¿Qué es esa cosa llamada ciencia?",
+          "role": "inducción → Popper → Kuhn, claro",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.kuhn",
+          "name": "Kuhn — La estructura de las revoluciones científicas",
+          "role": "el texto que cambió el paso 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.pensamiento-cientifico.hempel",
+          "name": "Hempel — Filosofía de la ciencia natural",
+          "role": "explicación y contrastación",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · cátedra Pensamiento Científico",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

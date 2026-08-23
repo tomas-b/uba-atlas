@@ -1,0 +1,103 @@
+{
+  "address": "uba.cbc.sociedad-estado",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "régimen": "cuatrimestral",
+    "cuatrimestre": 1,
+    "cargaHoraria": "dos clases semanales de 4 h",
+    "cátedra": "materia universal del CBC (varias cátedras)",
+    "materias": 0,
+    "unidades": 6,
+    "manual": "Pedrosa, Deich y Noce (comps.), Herramientas para el análisis de la sociedad y el Estado (Eudeba)"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" }
+  ],
+  "eyebrow": "Introducción al Conocimiento de la Sociedad y el Estado · programa",
+  "title": "Cómo se hizo el Estado — y qué hace con vos.",
+  "lede": "La otra materia que corre toda la UBA, la contracara social de Pensamiento Científico. Una pregunta desplegada en el tiempo: <b>¿qué es el Estado y cómo llegó a ser el que tenemos?</b> Arma primero las herramientas conceptuales — Estado, poder, dominación, régimen político — y después las usa para recorrer la historia argentina desde 1880 hasta hoy.",
+  "meta": [
+    { "k": "Tipo", "v": "universal", "small": "toda la UBA" },
+    { "k": "Régimen", "v": "1", "small": "cuatrim." },
+    { "k": "Unidades", "v": "6" },
+    { "k": "Grounding", "v": "L2", "small": "temas + manual" }
+  ],
+  "frame": "ICSE es interdisciplinaria por diseño: cruza historia, sociología y ciencia política para pensar la relación entre sociedad y Estado en el tiempo. No es 'historia argentina' ni 'teoría del Estado' por separado — es la teoría puesta a trabajar sobre un caso. La primera unidad entrega los conceptos (Estado, poder, dominación, legitimidad, régimen político); las siguientes los aplican como una periodización: la formación del Estado nacional (1880–1930), el Estado social del peronismo, la inestabilidad y el Estado burocrático-autoritario (1955–1976), el Estado neoliberal (1976–2001) y la reconstrucción posterior. El manual de la cátedra es «Herramientas para el análisis de la sociedad y el Estado» (Eudeba); las cátedras presenciales suman lecturas historiográficas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El recorrido · las unidades en orden",
+      "title": "De los conceptos a la historia",
+      "note": "La unidad 1 da las herramientas; el resto es una periodización del Estado argentino que las pone a prueba. Ese orden es el programa real.",
+      "map": {
+        "mk": "El arco del curso, comprimido",
+        "tree": "SOCIEDAD Y ESTADO — herramientas, luego historia\n│\n├─ 1 · CONCEPTOS    Estado, poder, dominación, régimen político\n├─ 2 · 1880–1930    formación del Estado nacional · orden conservador\n├─ 3 · ESTADO SOCIAL  peronismo · Estado interventor y de bienestar\n├─ 4 · 1955–1976    inestabilidad · Estado burocrático-autoritario\n├─ 5 · 1976–2001    dictadura · Estado neoliberal · crisis de 2001\n└─ 6 · 2001–hoy     la reconstrucción del Estado",
+        "foot": "El corazón de la materia es el paso 1→2: una vez que tenés los conceptos, la historia argentina deja de ser cronología y se vuelve el despliegue de una forma estatal que cambia. Se expande hacia cada unidad → el manual."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.sociedad-estado.conceptos",
+          "name": "1 · Conceptos fundamentales: sociedad y Estado",
+          "role": "poder, dominación, régimen político",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.estado-nacion",
+          "name": "2 · La formación del Estado nacional (1880–1930)",
+          "role": "orden conservador · modelo agroexportador",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.estado-social",
+          "name": "3 · El Estado social",
+          "role": "peronismo · Estado interventor",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.estado-burocratico",
+          "name": "4 · Inestabilidad y Estado burocrático-autoritario (1955–1976)",
+          "role": "estado tutelado · desarrollismo",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.estado-neoliberal",
+          "name": "5 · El Estado neoliberal (1976–2001)",
+          "role": "dictadura · reforma del Estado · crisis 2001",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.reconstruccion",
+          "name": "6 · La reconstrucción del Estado (2001–actualidad)",
+          "role": "nuevos actores · política social",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "gate",
+      "eyebrow": "El texto · el 1:1",
+      "title": "La bibliografía real",
+      "note": "El manual común de la materia — el compilado que la mayoría de las cátedras usa como base. Las cátedras presenciales agregan además una selección de artículos historiográficos (Oszlak, O'Donnell, Cattaruzza, Cavarozzi, Torre, entre otros) que varía según la cátedra y no se fija acá.",
+      "exits": [
+        {
+          "address": "uba.cbc.sociedad-estado.herramientas",
+          "name": "Pedrosa, Deich y Noce (comps.) — Herramientas para el análisis de la sociedad y el Estado",
+          "role": "el manual de la cátedra (Eudeba)",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": { "label": "cbc.uba.ar · ICSE + cátedra (programa)", "url": "https://www.cbc.uba.ar/" }
+}

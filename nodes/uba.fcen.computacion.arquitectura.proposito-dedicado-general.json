@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.arquitectura.proposito-dedicado-general",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.arquitectura", "label": "Arquitectura y Organización de Computadores" },
+    { "address": "uba.fcen.computacion.arquitectura.proposito-dedicado-general", "label": "Propósito dedicado vs. general" }
+  ],
+  "eyebrow": "Arquitectura y Organización · unidad · 1",
+  "title": "Dos maneras de construir una computadora, según para qué sirve.",
+  "lede": "Los computadores de propósito dedicado y los de propósito general se contrastan a partir de la organización general de un sistema de cómputo. Se identifican similitudes, diferencias y el ámbito de aplicación de cada uno.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "unidad", "small": "marco inicial" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La organización general de un sistema de cómputo sirve de base para comparar computadores de propósito dedicado y de propósito general.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "PROPÓSITO DEDICADO VS. GENERAL (bloque 1)\n│\n├─ Tema · organización general de un sistema de cómputo\n├─ Tema · similitudes y diferencias entre dedicado y general\n└─ Idea · aplicación de cada uno según el problema",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

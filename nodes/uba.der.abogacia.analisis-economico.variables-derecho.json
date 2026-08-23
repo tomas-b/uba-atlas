@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.analisis-economico.variables-derecho",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.analisis-economico", "label": "Análisis Económico y Financiero" },
+    { "address": "uba.der.abogacia.analisis-economico.variables-derecho", "label": "Variables macro y normas jurídicas" }
+  ],
+  "eyebrow": "Análisis Económico y Financiero · Unidad 3",
+  "title": "De las grandes variables a la norma jurídica.",
+  "lede": "La comprensión del comportamiento de las grandes variables de la macroeconomía — la moneda, los bancos, las tasas de interés, el nivel de actividad económica, el crecimiento, la inflación, el desempleo, los impuestos y el gasto público — para el análisis de las implicancias de las normas jurídicas que regulan estas cuestiones. La habilidad de aplicar esas conceptualizaciones a la comprensión y el análisis crítico de material jurídico relevante, de casos y problemas jurídicos.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 3" },
+    { "k": "Materia", "v": "An. Econ.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Las variables macro como clave del material jurídico",
+      "note": "Comportamiento de las grandes variables macroeconómicas — moneda, bancos, tasas de interés, nivel de actividad, crecimiento, inflación, desempleo, impuestos, gasto público — para el análisis de las implicancias de las normas jurídicas que las regulan · aplicación de esas conceptualizaciones al análisis crítico de material jurídico relevante, casos y problemas jurídicos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

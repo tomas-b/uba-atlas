@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.complejidad.circuitos-booleanos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.complejidad", "label": "Complejidad Computacional" },
+    { "address": "uba.fcen.computacion.complejidad.circuitos-booleanos", "label": "Circuitos booleanos" }
+  ],
+  "eyebrow": "Complejidad · unidad · Unidad 6",
+  "title": "Cómputo sin programa: circuitos, P/poly y las clases NC/AC.",
+  "lede": "El modelo no-uniforme. Circuitos booleanos y la clase P/poly, el teorema de Karp-Lipton, tamaño y profundidad de circuitos, las clases NCⁱ y ACⁱ, la uniformidad que define NC y AC, y la P-completitud.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Rol", "v": "circuitos", "small": "no-uniforme" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Circuitos booleanos. La clase P/poly. El teorema de Karp-Lipton. Tamaño y profundidad de circuitos. Las clases NCⁱ y ACⁱ. Uniformidad: las clases NC y AC. P-completitud.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad 6.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CIRCUITOS BOOLEANOS (Unidad 6)\n│\n├─ Circuitos booleanos · clase P/poly · Karp-Lipton\n├─ Tamaño y profundidad · clases NCⁱ y ACⁱ\n└─ Uniformidad · NC y AC · P-completitud",
+        "foot": "Temas de la transcripción de Cuba-Wiki (cursada 1c2025)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cubawiki.com.ar · Complejidad Computacional (temario 1c2025)", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" }
+}

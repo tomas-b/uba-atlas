@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.quimica.estructura-atomica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2,
+    "de": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica.estructura-atomica",
+      "label": "Estructura atómica y clasificación periódica"
+    }
+  ],
+  "eyebrow": "Química · unidad · Unidad 2",
+  "title": "Estructura atómica y clasificación periódica",
+  "lede": "Adentro del átomo: partículas, modelos y el orden de la tabla periódica.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 11"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Protones, neutrones, electrones; Número atómico y másico · isótopos e iones; Modelo de Bohr y modelo orbital; Configuración electrónica; Tabla periódica · tendencias.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ESTRUCTURA ATÓMICA Y CLASIFICACIÓN PERIÓDICA\n│\n• Protones, neutrones, electrones\n• Número atómico y másico · isótopos e iones\n• Modelo de Bohr y modelo orbital\n• Configuración electrónica\n• Tabla periódica · tendencias",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

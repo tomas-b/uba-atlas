@@ -1,0 +1,57 @@
+{
+  "address": "uba.fcen.computacion.analisis-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Matemática (DM, FCEN)", "unidades": 6, "bibliography": ["Stewart · Cálculo de varias variables", "Marsden, Tromba · Cálculo Vectorial", "Apostol · Calculus", "Rey Pastor, Pi Calleja, Trejo · Análisis Matemático"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.analisis-1", "label": "Análisis I" }
+  ],
+  "eyebrow": "Análisis I · Año 1 · 2º cuat.",
+  "title": "El cálculo en varias variables.",
+  "lede": "El análisis de la carrera: geometría del espacio y vectores, funciones de varias variables, límites y continuidad, derivadas parciales y gradiente. Polinomio de Taylor, extremos con multiplicadores de Lagrange, e integrales dobles y triples con cambio de variables.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "2º · teór-práct" },
+    { "k": "Unidades", "v": "6", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Depto", "v": "Matemática", "small": "DM" }
+  ],
+  "frame": "Contenido del programa oficial del Departamento de Matemática (web.dm.uba.ar), cruzado con la ficha de cátedra (cms.dm.uba.ar). Seis unidades de cálculo en varias variables: el cálculo de una variable se cursa antes, por lo que esta materia — que el DM cruza como 'Análisis Matemático I / Matemática 1 / Análisis II (C)' — arranca en la geometría del espacio y avanza hasta las integrales múltiples. Temas y bibliografía sourceados.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "El recorrido del cálculo",
+      "note": "De los vectores a las integrales múltiples.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "ANÁLISIS I — cálculo en varias variables\n│\n├─ U1 · Vectores y Geometría del Espacio\n├─ U2 · Curvas y Superficies Paramétricas\n├─ U3 · Funciones de Varias Variables\n├─ U4 · Polinomio de Taylor\n├─ U5 · Extremos\n└─ U6 · Integración",
+        "foot": "Temas del programa oficial del DM. Textos: Stewart, Marsden-Tromba, Apostol."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.analisis-1.vectores-geometria", "name": "Vectores y Geometría del Espacio", "role": "U1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.curvas-superficies", "name": "Curvas y Superficies Paramétricas", "role": "U2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.varias-variables", "name": "Funciones de Varias Variables", "role": "U3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.taylor", "name": "Polinomio de Taylor", "role": "U4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.extremos", "name": "Extremos", "role": "U5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.integracion", "name": "Integración", "role": "U6", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · sourceada",
+      "title": "Los textos de la materia",
+      "note": "Bibliografía del programa oficial. Su contenido (L3) es un índice aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.analisis-1.stewart", "name": "Cálculo de varias variables — J. Stewart", "role": "texto base", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.marsden-tromba", "name": "Cálculo Vectorial — Marsden, Tromba", "role": "referencia", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.apostol", "name": "Calculus — T. Apostol", "role": "referencia", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.rey-pastor", "name": "Análisis Matemático — Rey Pastor, Pi Calleja, Trejo", "role": "referencia", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+}

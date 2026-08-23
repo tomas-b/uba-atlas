@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.reales.superficie-disfrute",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.reales", "label": "Derechos Reales" },
+    { "address": "uba.der.abogacia.reales.superficie-disfrute", "label": "Superficie y disfrute" }
+  ],
+  "eyebrow": "Elementos de Derechos Reales · Unidad 3",
+  "title": "Derechos sobre cosa ajena para usar y disfrutar.",
+  "lede": "El derecho real de superficie y la propiedad comunitaria indígena, junto con los derechos reales de disfrute sobre cosa ajena: usufructo, uso, habitación y servidumbre.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 5" },
+    { "k": "Materia", "v": "D. Reales", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Superficie, propiedad comunitaria indígena y derechos de disfrute",
+      "note": "Derecho real de superficie · propiedad comunitaria indígena · derecho real de usufructo · derecho real de uso · derecho real de habitación · derecho real de servidumbre.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

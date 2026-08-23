@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.organizacion-poderes",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.organizacion-poderes", "label": "Organización de los poderes" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 4",
+  "title": "Presidencialismo, federalismo y el reparto del poder.",
+  "lede": "La estructura y el contenido de la Constitución Nacional: el presidencialismo y el federalismo como sus dos ejes de organización. De ahí, la organización de los poderes nacionales y provinciales, la autonomía municipal y el régimen de la Ciudad Autónoma de Buenos Aires.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Presidencialismo · federalismo · poderes nacionales y provinciales · CABA",
+      "note": "Estructura y contenido de la Constitución Nacional Argentina: el presidencialismo y el federalismo. Organización de los poderes nacionales y provinciales. Autonomía municipal. La Ciudad Autónoma de Buenos Aires.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.ciencias.lakatos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "de": 8, "materia": "Filosofía de las Ciencias" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.ciencias", "label": "Filosofía de las Ciencias" },
+    { "address": "uba.ffyl.filosofia.ciencias.lakatos", "label": "El falsacionismo sofisticado de Lakatos" }
+  ],
+  "eyebrow": "Filosofía de las Ciencias · unidad · 5 de 8",
+  "title": "Programas, no teorías sueltas.",
+  "lede": "La síntesis de Lakatos entre Popper y Kuhn: los programas de investigación científica y sus componentes (núcleo firme, cinturón protector, heurística), la tesis Duhem-Quine, la distinción entre historia interna y externa, y los criterios de progreso científico.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 8" },
+    { "k": "Rol", "v": "síntesis", "small": "programas" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El falsacionismo sofisticado de Imre Lakatos. Programas de investigación científica y sus componentes. Tesis Duhem-Quine. Historia interna e historia externa. Criterios de progreso científico.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 5 del programa Gentile 2021.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Filosofía de las Ciencias (Gentile, 2021) · Unidad 5", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" }
+}

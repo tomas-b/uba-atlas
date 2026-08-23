@@ -1,0 +1,66 @@
+{
+  "address": "uba.fcen.computacion.tda",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA) · cát. Bonomo–Lin",
+    "cargaHoraria": "10 h semanales (35% teór · 35% práct · 30% lab)",
+    "cuatrimestre": "1º · año 2",
+    "unidades": 7,
+    "bibliography": [
+      "Algorithm Design — Jon Kleinberg, Éva Tardos",
+      "Introduction to Algorithms (CLRS) — Cormen, Leiserson, Rivest, Stein"
+    ]
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · Lic. Computación · año 2",
+  "title": "Backtracking, dinámica, greedy, grafos y flujo.",
+  "lede": "Técnicas de Diseño de Algoritmos (ex Algoritmos y Estructuras de Datos III): cómo diseñar algoritmos eficientes y demostrar que resuelven bien el problema. El temario, basado en Kleinberg–Tardos, recorre las grandes técnicas — fuerza bruta y backtracking, programación dinámica, divide y vencerás, greedy — y luego el mundo de los grafos: recorridos, camino mínimo y flujo en redes. Se cursa con guías de ejercicios y trabajos prácticos con juez automático.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
+    { "k": "Unidades", "v": "7", "small": "técnicas + grafos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Biblio", "v": "2", "small": "Kleinberg–Tardos, CLRS" }
+  ],
+  "frame": "Contenido de la cátedra (programa Bonomo–Lin, cursada 1C2024, repo público de la materia) cruzado con la descripción oficial del Plan 2023 (computacion.dc.uba.ar): resolución de problemas en grafos, complejidad, técnicas de diseño y soluciones heurísticas. El temario se declara «basado en Kleinberg–Tardos» y se recorre por siete bloques de técnicas y estructuras. La complejidad computacional / NP se corrió a la materia posterior. El cronograma es orientativo y puede variar por cuatrimestre y turno.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las técnicas",
+      "title": "El recorrido, de las técnicas a los grafos",
+      "note": "Orden de dictado según el cronograma de la cátedra (orientativo).",
+      "map": {
+        "mk": "El programa, en siete bloques",
+        "tree": "TÉCNICAS DE DISEÑO DE ALGORITMOS\n│  (temario basado en Kleinberg–Tardos)\n├─ 1 · Análisis y backtracking     · fuerza bruta, recursión\n├─ 2 · Programación dinámica       · memoización, top-down / bottom-up\n├─ 3 · Divide y vencerás           · teorema maestro, búsqueda binaria\n├─ 4 · Algoritmos greedy           · óptimo local → global\n├─ 5 · Grafos: repres. y recorridos· DFS/BFS, AGM (Prim, Kruskal)\n├─ 6 · Camino mínimo               · Dijkstra, Bellman-Ford, Floyd-Warshall\n└─ 7 · Flujo en redes              · flujo máximo, Edmonds-Karp",
+        "foot": "Bloques del programa de la cátedra (Bonomo–Lin). La NP-completitud vive en Complejidad Computacional (materia posterior)."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.tda.analisis-backtracking", "name": "Análisis y Backtracking", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.programacion-dinamica", "name": "Programación Dinámica", "role": "bloque 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.divide-conquer", "name": "Divide y Vencerás", "role": "bloque 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.greedy", "name": "Algoritmos Greedy", "role": "bloque 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.grafos", "name": "Grafos: representación y recorridos", "role": "bloque 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.camino-minimo", "name": "Camino Mínimo", "role": "bloque 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.tda.flujo-redes", "name": "Flujo en Redes", "role": "bloque 7", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Bibliografía",
+      "title": "Los libros de la materia",
+      "note": "Referencias declaradas en el programa de la cátedra. Los contenidos de cada libro (L3) son un índice aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.tda.kleinberg-tardos", "name": "Algorithm Design — Kleinberg, Tardos", "role": "texto base", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.tda.clrs", "name": "Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein", "role": "referencia", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.biologia.transcripcion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7,
+    "de": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia",
+      "label": "Biología"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia.transcripcion",
+      "label": "Genética molecular: la transcripción"
+    }
+  ],
+  "eyebrow": "Biología · unidad · Unidad 7",
+  "title": "Genética molecular: la transcripción",
+  "lede": "El dogma central y la lectura del gen.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Biología",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Dogma central de la biología molecular; Transcripción; Ribosomas; Código genético.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "GENÉTICA MOLECULAR: LA TRANSCRIPCIÓN\n│\n• Dogma central de la biología molecular\n• Transcripción\n• Ribosomas\n• Código genético",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

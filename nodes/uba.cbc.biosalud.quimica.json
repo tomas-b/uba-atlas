@@ -1,0 +1,208 @@
+{
+  "address": "uba.cbc.biosalud.quimica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Química CBC (cátedra única)",
+    "unidades": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    }
+  ],
+  "eyebrow": "Química · CBC · Bio·Salud",
+  "title": "De la estructura del átomo al equilibrio ácido-base.",
+  "lede": "La Química del CBC. Recorre la materia desde su estructura íntima —átomos, uniones, geometría— hasta el comportamiento de gases, soluciones y reacciones, cerrando con equilibrio químico y ácidos y bases. Es una materia núcleo de toda la orientación.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "11",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cursan",
+      "v": "núcleo",
+      "small": "carreras"
+    }
+  ],
+  "frame": "Contenido de los contenidos mínimos oficiales del CBC. El programa sube de escala: primero la estructura atómica y las uniones, luego las magnitudes y estados de la materia (gases, soluciones), y finalmente la transformación química —reacciones, equilibrio, cinética, ácidos y bases—. Odontología suma una unidad de compuestos orgánicos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 11 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa, en 11 unidades",
+        "tree": "QUÍMICA\n│\n├─ Unidad 1 · Sistemas materiales\n├─ Unidad 2 · Estructura atómica y clasificación periódica\n├─ Unidad 3 · Uniones químicas y nomenclatura\n├─ Unidad 4 · Fuerzas de atracción entre partículas y propiedades físicas\n├─ Unidad 5 · Magnitudes atómicas y moleculares\n├─ Unidad 6 · Gases ideales\n├─ Unidad 7 · Soluciones\n├─ Unidad 8 · Reacciones químicas\n├─ Unidad 9 · Equilibrio químico y cinética química\n├─ Unidad 10 · Ácidos y bases\n└─ Unidad 11 · adicional Odontología · Compuestos orgánicos",
+        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.quimica.sistemas-materiales",
+          "name": "Sistemas materiales",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.estructura-atomica",
+          "name": "Estructura atómica y clasificación periódica",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.uniones-quimicas",
+          "name": "Uniones químicas y nomenclatura",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.fuerzas-intermoleculares",
+          "name": "Fuerzas de atracción entre partículas y propiedades físicas",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.magnitudes-atomico-moleculares",
+          "name": "Magnitudes atómicas y moleculares",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.gases",
+          "name": "Gases ideales",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.soluciones",
+          "name": "Soluciones",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.reacciones-quimicas",
+          "name": "Reacciones químicas",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.equilibrio-cinetica",
+          "name": "Equilibrio químico y cinética química",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.acidos-bases",
+          "name": "Ácidos y bases",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.compuestos-organicos",
+          "name": "Compuestos orgánicos",
+          "role": "Unidad 11 · adicional Odontología",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los libros de la cátedra",
+      "note": "Bibliografía del programa analítico de Química CBC (FFyB, ffyb.uba.ar): textos generales de química universitaria.",
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.quimica.chang",
+          "name": "Chang y Goldsby — Química",
+          "role": "11ª ed. · 2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.atkins",
+          "name": "Atkins y Jones — Principios de Química",
+          "role": "5ª ed. · 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.brown",
+          "name": "Brown y otros — Química: La Ciencia Central",
+          "role": "12ª ed. · 2014",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.angelini",
+          "name": "Angelini y otros — Temas de Química General",
+          "role": "2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.petrucci",
+          "name": "Petrucci y otros — Química General",
+          "role": "10ª ed. · 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.mahan",
+          "name": "Mahan y Myers — Química: Curso Universitario",
+          "role": "4ª ed. · 1995",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.quimica.fernandez-cirelli",
+          "name": "Fernández Cirelli y otros — Aprendiendo Química Orgánica",
+          "role": "2020",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

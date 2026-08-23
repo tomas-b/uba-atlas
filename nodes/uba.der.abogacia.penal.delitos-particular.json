@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.penal.delitos-particular",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.penal", "label": "Penal y Procesal Penal" },
+    { "address": "uba.der.abogacia.penal.delitos-particular", "label": "Los delitos en particular" }
+  ],
+  "eyebrow": "Penal y Procesal Penal · Unidad 4",
+  "title": "Los delitos, ordenados por bien jurídico.",
+  "lede": "Los delitos en particular: su agrupación sistemática en el Código Penal según los bienes jurídicos afectados. Entre las principales figuras, los delitos contra las personas y los delitos contra la propiedad.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 5" },
+    { "k": "Materia", "v": "Penal", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Bienes jurídicos y principales figuras",
+      "note": "Los delitos en particular · agrupación sistemática en el Código Penal según los bienes jurídicos afectados · delitos contra las personas · delitos contra la propiedad.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

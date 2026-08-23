@@ -1,0 +1,34 @@
+[
+  {
+    "address": "uba.cbc.exactas",
+    "action": "index",
+    "label": "exactas",
+    "description": "Index \"exactas\" (uba.cbc.exactas): find its plan / children from official UBA sources and write its node with the real children as exits. Fail-hard — never invent.",
+    "status": "done",
+    "requestedAt": "2026-07-22T18:45:36.109Z"
+  },
+  {
+    "address": "uba.cbc.exactas.fisica",
+    "action": "create",
+    "label": "fisica",
+    "description": "Generate \"fisica\" (uba.cbc.exactas.fisica): source it (a career → its plan de estudios; a materia → its cátedra programa PDF via extract/fetch-extract.js → cuatrimestre + topics + book references) and write its grounded node. Fail-hard.",
+    "status": "done",
+    "requestedAt": "2026-07-22T19:19:41.300Z"
+  },
+  {
+    "address": "uba.cbc.pensamiento-cientifico.conocimiento",
+    "action": "create",
+    "label": "conocimiento",
+    "description": "Generate \"conocimiento\" (uba.cbc.pensamiento-cientifico.conocimiento): source it (a career → its plan de estudios; a materia → its cátedra programa PDF via extract/fetch-extract.js → cuatrimestre + topics + book references) and write its grounded node. Fail-hard.",
+    "status": "done",
+    "requestedAt": "2026-07-22T19:23:46.294Z"
+  },
+  {
+    "address": "uba.cbc.exactas.fisica.magnitudes-vectores",
+    "action": "create",
+    "label": "magnitudes-vectores",
+    "description": "Generate \"magnitudes-vectores\" (uba.cbc.exactas.fisica.magnitudes-vectores): source it (a career → its plan de estudios; a materia → its cátedra programa PDF via extract/fetch-extract.js → cuatrimestre + topics + book references) and write its grounded node. Fail-hard.",
+    "status": "done",
+    "requestedAt": "2026-07-22T19:27:51.838Z"
+  }
+]

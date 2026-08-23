@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.administrativo.organizacion-empleo",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.administrativo", "label": "Der. Administrativo" },
+    { "address": "uba.der.abogacia.administrativo.organizacion-empleo", "label": "Organización y empleo" }
+  ],
+  "eyebrow": "Elementos de Der. Administrativo · Unidad 4",
+  "title": "Cómo se organiza el Estado y con qué medios cuenta.",
+  "lede": "La organización administrativa: la personificación del Estado, la competencia y las técnicas de distribución y redistribución de competencias —desconcentración y descentralización, delegación y avocación—, junto con los entes descentralizados. El régimen de empleo público, el control de la Administración Pública, y el dominio público y privado del Estado.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 7" },
+    { "k": "Materia", "v": "Der. Adm.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Competencia, entes, empleo, control y bienes del Estado",
+      "note": "Organización administrativa · personificación del Estado · técnicas de imputación de conductas · competencia estatal: expresas, implícitas y teoría de la especialidad · modelos y estructuras estatales · órganos estatales · desconcentración y descentralización · delegación y avocación · principios de jerarquía, colaboración y tutela · órganos constitucionales · entes descentralizados autárquicos, no autárquicos y autónomos · sector público nacional · el caso y el derecho administrativo de la Ciudad Autónoma de Buenos Aires · régimen de empleo público: derechos y obligaciones de los agentes, estabilidad, personal contratado, responsabilidad de los agentes · control de la Administración Pública: legalidad y oportunidad, control interno y externo · dominio público y privado del Estado: elementos, afectación y desafectación, caracteres y privilegios, uso público.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

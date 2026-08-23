@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.alc.autovalores",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "capitulo": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.alc", "label": "Álgebra Lineal Computacional" },
+    { "address": "uba.fcen.computacion.alc.autovalores", "label": "Autovalores y autovectores" }
+  ],
+  "eyebrow": "ALC · unidad · Cap. III",
+  "title": "Diagonalizar: del método de la potencia a Perron-Frobenius.",
+  "lede": "Los autovalores y autovectores, y cómo calcularlos. Sus propiedades, el teorema de Gerschgorin para localizarlos, la diagonalización y el teorema espectral para matrices simétricas. Los algoritmos — método de la potencia y algoritmo QR — y una aplicación notable: matrices positivas, cadenas de Markov y Perron-Frobenius.",
+  "meta": [
+    { "k": "Cap.", "v": "III", "small": "de 6" },
+    { "k": "Rol", "v": "espectral", "small": "diagonalizar" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El problema espectral. Propiedades básicas de los autovalores; teorema de Gerschgorin. Bases de autovectores y diagonalización. Autovalores de matrices simétricas: el teorema espectral. Los algoritmos: el método de la potencia y el algoritmo QR. Matrices positivas, cadenas de Markov y el teorema de Perron-Frobenius.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del capítulo",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del Capítulo III.",
+      "map": {
+        "mk": "El capítulo, comprimido",
+        "tree": "AUTOVALORES Y AUTOVECTORES (Cap. III)\n│\n├─ Propiedades · teorema de Gerschgorin\n├─ Diagonalización · teorema espectral (simétricas)\n├─ Algoritmos · método de la potencia · algoritmo QR\n└─ Matrices positivas · cadenas de Markov · Perron-Frobenius",
+        "foot": "Temas del Cap. III del programa de la cátedra (cms.dm.uba.ar)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cms.dm.uba.ar · programa ALC · Capítulo III", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+}

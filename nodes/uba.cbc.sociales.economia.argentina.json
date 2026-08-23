@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.economia.argentina",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 10,
+    "de": 10,
+    "materia": "Economía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.economia",
+      "label": "Economía"
+    },
+    {
+      "address": "uba.cbc.sociales.economia.argentina",
+      "label": "Problemas económicos argentinos"
+    }
+  ],
+  "eyebrow": "Economía · unidad · contenido 10",
+  "title": "La economía argentina, 1880-1983.",
+  "lede": "La economía argentina moderna: acumulación, distribución, rol del Estado, crisis y estabilización, de 1880 a 1983.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "10",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Problemas económicos argentinos. Período 1880-1976. Proyecto económico en la Argentina moderna. Estructura productiva, proceso de acumulación y distribución del ingreso. El rol del Estado. Articulación en el mercado mundial. Crisis cíclicas y programas de estabilización. Período 1976-1983. Liberalismo y monetarismo. Estancamiento, inflación, deuda externa y distribución del ingreso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

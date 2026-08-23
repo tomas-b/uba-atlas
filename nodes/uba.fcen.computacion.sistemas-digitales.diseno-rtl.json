@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.diseno-rtl",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 4 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" },
+    { "address": "uba.fcen.computacion.sistemas-digitales.diseno-rtl", "label": "Diseño RTL" }
+  ],
+  "eyebrow": "Sistemas Digitales · unidad · 4",
+  "title": "Describir hardware en el nivel de transferencia entre registros.",
+  "lede": "Diseño RTL con una introducción a un HDL, bloques como multiplexores, decodificadores y three-state, descritos por símbolo, tabla de verdad y código.",
+  "meta": [
+    { "k": "Unidad", "v": "4", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "diseño RTL / HDL" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El diseño RTL y una introducción a un HDL para describir bloques combinacionales por símbolo, tabla de verdad y código.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "DISEÑO RTL (bloque 4)\n│\n├─ Tema · diseño RTL (Register Transfer Logic) e introducción a un HDL\n├─ Tema · multiplexores y demultiplexores\n├─ Tema · codificadores y decodificadores\n├─ Tema · three-state (alta impedancia)\n└─ Idea · símbolo, tabla de verdad y código HDL",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Sistemas Digitales, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

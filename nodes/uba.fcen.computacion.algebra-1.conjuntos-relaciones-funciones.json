@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.conjuntos-relaciones-funciones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.algebra-1", "label": "Álgebra I" },
+    { "address": "uba.fcen.computacion.algebra-1.conjuntos-relaciones-funciones", "label": "Conjuntos, relaciones y funciones" }
+  ],
+  "eyebrow": "Álgebra I · unidad · U1",
+  "title": "El lenguaje de conjuntos.",
+  "lede": "El punto de partida del álgebra: conjuntos y sus operaciones, relaciones, y funciones con su composición y propiedades. El vocabulario común de toda la matemática.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "base", "small": "lenguaje" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Conjuntos: definiciones, pertenencia, inclusión, operaciones (unión, intersección, diferencia). Relaciones. Funciones: composición, inyectividad, sobreyectividad, biyectividad. El lenguaje básico sobre el que se construye todo el curso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CONJUNTOS, RELACIONES Y FUNCIONES (U1)\n│\n├─ Conjuntos  · pertenencia, inclusión, operaciones\n├─ Relaciones · pares, propiedades\n└─ Funciones  · composición, in/sobre/biyectividad",
+        "foot": "Temas del programa oficial del DM (Álgebra I)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" }
+}

@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.quimica.sistemas-materiales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 1,
+    "de": 11
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.biosalud.quimica.sistemas-materiales",
+      "label": "Sistemas materiales"
+    }
+  ],
+  "eyebrow": "Química · unidad · Unidad 1",
+  "title": "Sistemas materiales",
+  "lede": "El punto de partida: cómo se clasifica la materia antes de mirar el átomo.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "1",
+      "small": "de 11"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Características de la materia; Cambios de estado; Clasificación de sistemas materiales; Sustancias puras y mezclas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "SISTEMAS MATERIALES\n│\n• Características de la materia\n• Cambios de estado\n• Clasificación de sistemas materiales\n• Sustancias puras y mezclas",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

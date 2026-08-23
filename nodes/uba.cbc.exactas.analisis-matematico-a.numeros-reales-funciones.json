@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.numeros-reales-funciones",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.numeros-reales-funciones",
+      "label": "Números Reales y Funciones"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U1",
+  "title": "El terreno: la recta real y las funciones.",
+  "lede": "El punto de partida. Los números reales como cuerpo ordenado y completo: supremo e ínfimo, la propiedad que distingue a R de Q. Y las funciones reales de variable real — dominio, imagen, gráfico, composición e inversa — el objeto que la materia estudiará de principio a fin.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "1",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "base",
+      "small": "terreno"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El instrumental antes del cálculo. Se fija qué es R (orden, cotas, supremo e ínfimo, completitud) y qué es una función: dominio e imagen, gráfico, operaciones, composición, función inversa. Las funciones elementales — polinómicas, racionales, trigonométricas, exponencial y logaritmo — quedan disponibles para todo lo que sigue.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "NÚMEROS REALES Y FUNCIONES (U1)\n│\n├─ Números reales · orden, supremo e ínfimo, completitud\n└─ Funciones      · dominio/imagen, gráfico, composición, inversa",
+        "foot": "Temas de la cátedra de Análisis A. Sobre esta base se define el límite."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

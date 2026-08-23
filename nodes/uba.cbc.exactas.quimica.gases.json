@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.quimica.gases",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.gases",
+      "label": "Gases"
+    }
+  ],
+  "eyebrow": "Química · unidad · U7",
+  "title": "El estado gaseoso y sus leyes.",
+  "lede": "El comportamiento de los gases: las leyes de Boyle, Charles y Gay-Lussac, la ecuación del gas ideal y las mezclas gaseosas.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 11"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "gases"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Teoría cinético-molecular. Variables de estado: presión, volumen, temperatura. Leyes de los gases. Ecuación general del gas ideal. Mezclas de gases y presiones parciales (Dalton).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "GASES (U7)\n│\n├─ Leyes    · Boyle, Charles, Gay-Lussac\n├─ Ideal    · ecuación del gas ideal\n└─ Mezclas  · presiones parciales (Dalton)",
+        "foot": "Temas de la cátedra única de Química del CBC."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "cbc.uba.ar · Química (CBC)",
+    "url": "https://www.cbc.uba.ar/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.arquitectura.softcores",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.arquitectura", "label": "Arquitectura y Organización de Computadores" },
+    { "address": "uba.fcen.computacion.arquitectura.softcores", "label": "Softcores" }
+  ],
+  "eyebrow": "Arquitectura y Organización · unidad · 5",
+  "title": "Diseñar la propia CPU: del juego de instrucciones a la síntesis.",
+  "lede": "Los softcores integran CPU, memoria e I/O sobre lógica programable. Se diseña un juego de instrucciones con sus opcodes y modos de direccionamiento, se sintetiza una CPU sencilla y se establece la interfaz entre el ensamblador y los lenguajes de alto nivel.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Rol", "v": "unidad", "small": "CPU sintetizada" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Un softcore reúne CPU, memoria e I/O a partir del diseño de un juego de instrucciones, la síntesis de una CPU sencilla y la interfaz ensamblador-lenguajes de alto nivel.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "SOFTCORES (bloque 5)\n│\n├─ Tema · diseño de un juego de instrucciones (opcodes, modos de direccionamiento)\n├─ Tema · síntesis de una CPU sencilla con memoria e I/O\n└─ Idea · interfaz ensamblador-lenguajes de alto nivel",
+        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

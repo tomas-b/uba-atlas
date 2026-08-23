@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.contemporanea.practica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.contemporanea", "label": "Filosofía Contemporánea" },
+    { "address": "uba.ffyl.filosofia.contemporanea.practica", "label": "La perspectiva práctica" }
+  ],
+  "eyebrow": "Filosofía Contemporánea · unidad · III de III",
+  "title": "El lenguaje como poder: ideología y verdad.",
+  "lede": "La tercera mirada: el significado como práctica, con componentes ideológicos y sociales. La crítica del conocimiento y de la metafísica a través del lenguaje en Nietzsche; las formaciones discursivas y la voluntad de verdad en Foucault; y la crítica marxista del lenguaje en Bajtín/Voloshínov y Pêcheux. De la crítica a la desconstrucción.",
+  "meta": [
+    { "k": "Unidad", "v": "III", "small": "de III" },
+    { "k": "Figuras", "v": "Nietzsche", "small": "Foucault · Voloshínov" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La crítica del conocimiento y de la metafísica a través de la crítica del lenguaje en Nietzsche. Las formaciones discursivas en Michel Foucault: crítica de los procedimientos de control y selección; voluntad de verdad y coacción. La perspectiva crítica marxista en sus distintas épocas: Mijaíl Bajtín/Valentín Voloshínov y Michel Pêcheux; la concepción y articulación de la dimensión de la ideología en la semántica. De la crítica a la desconstrucción. Fuentes: Nietzsche ('Sobre verdad y mentira…'), Foucault (El orden del discurso), Voloshínov (El marxismo y la filosofía del lenguaje), Pêcheux, Eagleton.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad III.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA PERSPECTIVA PRÁCTICA (Unidad III)\n│\n├─ Nietzsche    la crítica de la metafísica por la crítica del lenguaje\n├─ Foucault     formaciones discursivas · voluntad de verdad · control\n└─ Voloshínov · Pêcheux   la crítica marxista · lenguaje e ideología",
+        "foot": "Temas del programa 2020. Eje: la verdad del lenguaje contra las deformaciones de la verdad."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Filosofía Contemporánea (Cabanchik) · Unidad III", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" }
+}

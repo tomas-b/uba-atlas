@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.alc.svd",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "capitulo": 5 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.alc", "label": "Álgebra Lineal Computacional" },
+    { "address": "uba.fcen.computacion.alc.svd", "label": "Matrices definidas positivas y SVD" }
+  ],
+  "eyebrow": "ALC · unidad · Cap. V",
+  "title": "La descomposición que todo lo explica: SVD.",
+  "lede": "Las matrices definidas positivas y su factorización de Cholesky, y la descomposición central de la materia: los valores singulares y la SVD, con la inversa generalizada. Además, las descomposiciones de Schur y la forma canónica de Jordan.",
+  "meta": [
+    { "k": "Cap.", "v": "V", "small": "de 6" },
+    { "k": "Rol", "v": "SVD", "small": "descomponer" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Descomposiciones matriciales avanzadas. Matrices definidas positivas y factorización de Cholesky. Valores singulares y la descomposición SVD; la inversa generalizada. Descomposición de Schur. Forma canónica de Jordan. Aplicaciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del capítulo",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del Capítulo V.",
+      "map": {
+        "mk": "El capítulo, comprimido",
+        "tree": "DEFINIDAS POSITIVAS Y SVD (Cap. V)\n│\n├─ Matrices definidas positivas · factorización de Cholesky\n├─ Valores singulares · descomposición SVD · inversa generalizada\n└─ Descomposición de Schur · forma canónica de Jordan · aplicaciones",
+        "foot": "Temas del Cap. V del programa de la cátedra (cms.dm.uba.ar). La SVD es la descomposición central que conecta con PCA y compresión."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cms.dm.uba.ar · programa ALC · Capítulo V", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+}

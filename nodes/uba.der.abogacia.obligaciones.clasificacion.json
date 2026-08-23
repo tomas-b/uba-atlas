@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.clasificacion",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.clasificacion", "label": "Clasificación de las obligaciones" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 5",
+  "title": "Las muchas formas de la obligación.",
+  "lede": "Un mapa de las especies según distintos criterios: por su exigibilidad, su objeto, su modalidad y su pluralidad de sujetos. Recorre las obligaciones naturales, condicionales, a plazo y con cargo; las de dar cosas ciertas, inciertas, dinero y valor; las de hacer y no hacer; las alternativas y facultativas; las de medios y resultado; y las disyuntivas, mancomunadas, divisibles e indivisibles, solidarias, concurrentes, principales y accesorias.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Clasificación de las obligaciones",
+      "note": "Criterios. Obligaciones naturales · condicionales · a plazo · con cargo · de dar cosas ciertas · de dar cosas inciertas · de dar dinero · de valor · de hacer y de no hacer · alternativas · facultativas · de resultado y de medios · disyuntivas · simplemente mancomunadas · divisibles e indivisibles · solidarias · concurrentes · principales y accesorias.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

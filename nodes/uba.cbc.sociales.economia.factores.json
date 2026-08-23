@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.economia.factores",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 3,
+    "de": 10,
+    "materia": "Economía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.economia",
+      "label": "Economía"
+    },
+    {
+      "address": "uba.cbc.sociales.economia.factores",
+      "label": "Factores de la producción y cambios tecnológicos"
+    }
+  ],
+  "eyebrow": "Economía · unidad · contenido 3",
+  "title": "Factores, remuneración y tecnología.",
+  "lede": "Los factores de la producción, su remuneración (salarios y beneficios) y el cambio tecnológico.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "3",
+      "small": "de 10"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Factores de la producción y cambios tecnológicos. Los factores de la producción: conceptos y características generales. Las relaciones técnicas; tecnología y combinaciones factoriales. La remuneración a los factores; salarios y beneficios. La empresa. Combinación de factores y equilibrio de la empresa. Cambio tecnológico; acumulación neutral y orientada.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

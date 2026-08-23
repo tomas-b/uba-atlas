@@ -1,0 +1,110 @@
+{
+  "_note": "1:1 ground truth for the generator. Faculties + real carreras de grado (official UBA sources). Node generation reads from here.",
+  "faculties": [
+    { "code": "med",  "name": "Medicina", "area": "bio · salud", "careers": [
+      { "n": "Medicina", "d": "Médico/a", "y": "~6" },
+      { "n": "Kinesiología y Fisiatría", "d": "Licenciatura", "y": "~5" },
+      { "n": "Fonoaudiología", "d": "Licenciatura", "y": "~5" },
+      { "n": "Nutrición", "d": "Licenciatura", "y": "~5" },
+      { "n": "Enfermería", "d": "Licenciatura", "y": "~5" },
+      { "n": "Obstetricia", "d": "Licenciatura", "y": "~4" },
+      { "n": "Podología", "d": "Licenciatura", "y": "~4" },
+      { "n": "Producción de Bioimágenes", "d": "Licenciatura", "y": "~4" }
+    ]},
+    { "code": "der",  "name": "Derecho", "area": "sociales · humanas", "careers": [
+      { "n": "Abogacía", "d": "Abogado/a", "y": "~6" },
+      { "n": "Traductor Público", "d": "Título profesional", "y": "~5" },
+      { "n": "Calígrafo Público", "d": "Título profesional", "y": "~3" }
+    ]},
+    { "code": "fce",  "name": "Ciencias Económicas", "area": "sociales · humanas", "careers": [
+      { "n": "Contador Público", "d": "Título profesional", "y": "~5" },
+      { "n": "Administración", "d": "Licenciatura", "y": "~5" },
+      { "n": "Economía", "d": "Licenciatura", "y": "~5" },
+      { "n": "Sistemas de Información de las Organizaciones", "d": "Licenciatura", "y": "~5" },
+      { "n": "Actuario", "d": "Título profesional", "y": "~5–6" }
+    ]},
+    { "code": "fcen", "name": "Ciencias Exactas y Naturales", "area": "exactas · tecno", "careers": [
+      { "n": "Ciencias Biológicas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias de la Computación", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias de Datos", "d": "Licenciatura", "y": "~5" },
+      { "n": "Ciencias Físicas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias Matemáticas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias Químicas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias Geológicas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias de la Atmósfera", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Oceanografía", "d": "Licenciatura", "y": "~5" },
+      { "n": "Paleontología", "d": "Licenciatura", "y": "~5" },
+      { "n": "Ciencia y Tecnología de Alimentos", "d": "Licenciatura", "y": "~5", "shared": "FFyB" },
+      { "n": "Biotecnología", "d": "Licenciatura", "y": "~5", "shared": "×4" }
+    ]},
+    { "code": "fi",   "name": "Ingeniería", "area": "exactas · tecno", "careers": [
+      { "n": "Ingeniería Civil", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería en Informática", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería Electrónica", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería Industrial", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería Mecánica", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería Química", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería en Energía Eléctrica", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería en Petróleo", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería en Alimentos", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería en Agrimensura", "d": "Ingeniería", "y": "~6" },
+      { "n": "Ingeniería Naval", "d": "Ingeniería", "y": "~6" },
+      { "n": "Bioingeniería", "d": "Ingeniería", "y": "~6" },
+      { "n": "Análisis de Sistemas", "d": "Licenciatura", "y": "~5" }
+    ]},
+    { "code": "fsoc", "name": "Ciencias Sociales", "area": "sociales · humanas", "careers": [
+      { "n": "Sociología", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencia Política", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias de la Comunicación", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Trabajo Social", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Relaciones del Trabajo", "d": "Licenciatura", "y": "~5", "prof": true }
+    ]},
+    { "code": "ffyl", "name": "Filosofía y Letras", "area": "sociales · humanas", "careers": [
+      { "n": "Filosofía", "d": "Licenciatura", "y": "~5–6", "prof": true, "slug": "filosofia" },
+      { "n": "Letras", "d": "Licenciatura", "y": "~5", "prof": true, "note": "orient. Clásicas" },
+      { "n": "Historia", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Geografía", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias Antropológicas", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Ciencias de la Educación", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Artes", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Edición", "d": "Licenciatura", "y": "~5" },
+      { "n": "Ciencia de la Información", "d": "Licenciatura (ccc)", "y": "~var" }
+    ]},
+    { "code": "psi",  "name": "Psicología", "area": "sociales · humanas", "careers": [
+      { "n": "Psicología", "d": "Licenciatura", "y": "~5–6", "prof": true },
+      { "n": "Musicoterapia", "d": "Licenciatura", "y": "~5" },
+      { "n": "Terapia Ocupacional", "d": "Licenciatura", "y": "~5" }
+    ]},
+    { "code": "fadu", "name": "Arquitectura, Diseño y Urbanismo", "area": "exactas · diseño", "careers": [
+      { "n": "Arquitectura", "d": "Arquitecto/a", "y": "~6" },
+      { "n": "Diseño Gráfico", "d": "Diseño", "y": "~5" },
+      { "n": "Diseño Industrial", "d": "Diseño", "y": "~5" },
+      { "n": "Diseño de Indumentaria", "d": "Diseño", "y": "~5" },
+      { "n": "Diseño Textil", "d": "Diseño", "y": "~5" },
+      { "n": "Diseño de Imagen y Sonido", "d": "Diseño", "y": "~5" },
+      { "n": "Planificación y Diseño del Paisaje", "d": "Licenciatura", "y": "~5", "shared": "FAgr" }
+    ]},
+    { "code": "ffyb", "name": "Farmacia y Bioquímica", "area": "bio · salud", "careers": [
+      { "n": "Farmacia", "d": "Farmacéutico/a", "y": "~5" },
+      { "n": "Bioquímica", "d": "Bioquímico/a", "y": "~5" },
+      { "n": "Biotecnología", "d": "Licenciatura", "y": "~5", "shared": "×4" },
+      { "n": "Ciencia y Tecnología de Alimentos", "d": "Licenciatura", "y": "~5", "shared": "FCEN" }
+    ]},
+    { "code": "fagr", "name": "Agronomía", "area": "bio · salud", "careers": [
+      { "n": "Agronomía", "d": "Ing. Agrónomo/a", "y": "~5" },
+      { "n": "Ciencias Ambientales", "d": "Licenciatura", "y": "~5", "prof": true },
+      { "n": "Economía y Administración Agrarias", "d": "Licenciatura", "y": "~5" },
+      { "n": "Gestión de Agroalimentos", "d": "Licenciatura", "y": "~5", "shared": "FVet" },
+      { "n": "Planificación y Diseño del Paisaje", "d": "Licenciatura", "y": "~5", "shared": "FADU" },
+      { "n": "Biotecnología", "d": "Licenciatura", "y": "~5", "shared": "×4" }
+    ]},
+    { "code": "fvet", "name": "Ciencias Veterinarias", "area": "bio · salud", "careers": [
+      { "n": "Veterinaria", "d": "Veterinario/a", "y": "~5" },
+      { "n": "Gestión de Agroalimentos", "d": "Licenciatura", "y": "~5", "shared": "FAgr" },
+      { "n": "Biotecnología", "d": "Licenciatura", "y": "~5", "shared": "×4" }
+    ]},
+    { "code": "odo",  "name": "Odontología", "area": "bio · salud", "careers": [
+      { "n": "Odontología", "d": "Odontólogo/a", "y": "~5" }
+    ]}
+  ]
+}

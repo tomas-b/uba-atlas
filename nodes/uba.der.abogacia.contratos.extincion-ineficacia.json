@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.contratos.extincion-ineficacia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.contratos", "label": "Contratos" },
+    { "address": "uba.der.abogacia.contratos.extincion-ineficacia", "label": "Extinción e ineficacia" }
+  ],
+  "eyebrow": "Contratos · Unidad 5",
+  "title": "Cómo termina y cuándo falla el contrato.",
+  "lede": "La extinción del contrato en sus modos normales y anormales: rescisión bilateral y unilateral, revocación, resolución y cláusula resolutoria. La ineficacia y la invalidez del contrato: los vicios de la voluntad y los vicios propios del acto —simulación, fraude, lesión—, la conversión y el contrato claudicante, junto con la seña penitencial.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Materia", "v": "Contratos", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Extinción, ineficacia e invalidez del contrato",
+      "note": "Extinción: concepto; normal y anormal; rescisión bilateral y distracto; rescisión unilateral y disposiciones generales de las declaraciones unilaterales; operatividad de los efectos; revocación; resolución implícita y expresa; incumplimiento (configuración y requisitos); presupuestos de la resolución por cláusula resolutoria implícita; resolución por ministerio de la ley. Ineficacia del contrato: teoría general; inoponibilidad positiva; actos revocables. Invalidez del contrato: teoría general; vicios de la voluntad en el consentimiento contractual; vicios propios del acto contractual (simulación, fraude, lesión); convalidación; conversión del contrato; contrato claudicante; contrato anulable. Seña penitencial; pacto de displicencia. Teoría de la lesión: concepto, requisitos, efectos.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

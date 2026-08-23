@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.trabajo.seguridad-social",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.trabajo", "label": "Trabajo y Seg. Social" },
+    { "address": "uba.der.abogacia.trabajo.seguridad-social", "label": "Seguridad social" }
+  ],
+  "eyebrow": "Elementos de Derecho del Trabajo y de la Seguridad Social · Unidad 5",
+  "title": "La cobertura de las contingencias sociales.",
+  "lede": "La teoría general del derecho de la seguridad social y sus categorías conceptuales fundamentales: contingencias, sujetos, fuentes y relaciones jurídicas. Comprende los subsistemas de la seguridad social —prestaciones, financiamiento, entes gestores— y el procedimiento administrativo y judicial de la seguridad social.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Trabajo y Seg. Social", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Contingencias, subsistemas y procedimiento",
+      "note": "Categorías conceptuales fundamentales de la teoría general del derecho de la seguridad social: contingencias, sujetos, fuentes y relaciones jurídicas. Subsistemas de la seguridad social: prestaciones, financiamiento, entes gestores. Procedimiento administrativo y judicial de la seguridad social.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

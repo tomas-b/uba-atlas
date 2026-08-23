@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.actos-etapas",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.actos-etapas", "label": "Actos y etapas del proceso" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 5",
+  "title": "Del primer escrito a la apertura a prueba.",
+  "lede": "Los actos procesales y los incidentes, el beneficio de litigar sin gastos, las costas y las nulidades procesales. Las diligencias preliminares y las etapas iniciales del proceso: la demanda, la contestación de la demanda, la reconvención, la declaración de puro derecho y la apertura a prueba, y la audiencia preliminar.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Actos procesales y etapas iniciales del proceso",
+      "note": "Actos procesales · incidentes · beneficio de litigar sin gastos · costas · nulidades procesales · diligencias preliminares · demanda · contestación de la demanda · reconvención · declaración de puro derecho y apertura a prueba · audiencia preliminar.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

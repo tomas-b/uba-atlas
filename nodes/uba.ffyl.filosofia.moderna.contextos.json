@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.moderna.contextos",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.moderna", "label": "Historia de la Filosofía Moderna" },
+    { "address": "uba.ffyl.filosofia.moderna.contextos", "label": "Contextos de emergencia de la modernidad" }
+  ],
+  "eyebrow": "Filosofía Moderna · unidad · I de V",
+  "title": "El mundo que hizo posible a Descartes.",
+  "lede": "Antes de los sistemas, el terreno. La crisis del feudalismo, la conquista de América, la reforma religiosa y la revolución científica; el humanismo renacentista y su crisis. La Utopía de Moro y el escepticismo de Montaigne —fideísmo incluido— como el clima del que va a salir la duda moderna.",
+  "meta": [
+    { "k": "Unidad", "v": "I", "small": "de V" },
+    { "k": "Foco", "v": "Renacimiento", "small": "+ escepticismo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El mundo europeo del Renacimiento y el Humanismo: la crisis del feudalismo, la conquista de América y la configuración de la economía-mundo moderna; la reforma religiosa; la revolución científica. Antiguos y modernos. El humanismo renacentista y su crisis: la Utopía de Tomás Moro. Escepticismos antiguos y modernos; fideísmo; Michel de Montaigne y la 'Apología de Raimundo Sabunde'.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad I.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "CONTEXTOS DE EMERGENCIA (Unidad I)\n│\n├─ El mundo moderno    feudalismo en crisis · América · reforma · revolución científica\n├─ El humanismo        Moro y la Utopía · antiguos y modernos\n└─ El escepticismo     Montaigne · fideísmo · la Apología de Sabunde",
+        "foot": "Temas del programa 2020 (Mendoza Hurtado). Fuentes: Moro y Montaigne."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Moderna · Unidad I", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" }
+}

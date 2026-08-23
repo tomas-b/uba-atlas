@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.obligaciones.ejecucion-responsabilidad",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.obligaciones", "label": "Obligaciones" },
+    { "address": "uba.der.abogacia.obligaciones.ejecucion-responsabilidad", "label": "Ejecución y responsabilidad civil" }
+  ],
+  "eyebrow": "Obligaciones · Unidad 3",
+  "title": "Cuando no se cumple: hacer efectiva la prestación y responder.",
+  "lede": "Qué ocurre ante el incumplimiento. Por un lado, la ejecución específica y sus modos de hacerla efectiva: ejecución forzada, astreintes, ejecución por un tercero. Por otro, la responsabilidad civil —por incumplimiento, en sus órbitas contractual y extracontractual—, sus presupuestos, el incumplimiento objetivo y la mora del deudor, y los factores de atribución, el daño y la causalidad.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "Obligaciones", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Ejecución específica y responsabilidad civil",
+      "note": "Ejecución específica · modos de hacerla efectiva · ejecución forzada · astreintes · ejecución por un tercero · modo de actuar los efectos normales. Responsabilidad civil · responsabilidad por incumplimiento · órbitas contractual y extracontractual · presupuestos de la responsabilidad · incumplimiento objetivo · relevancia del incumplimiento: mora del deudor. Factores de atribución · daño · causalidad.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

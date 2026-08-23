@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.aplicaciones-derivada",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.aplicaciones-derivada",
+      "label": "Aplicaciones de la Derivada"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U5",
+  "title": "Lo que la derivada revela de una función.",
+  "lede": "La derivada puesta a trabajar. Los teoremas del valor medio (Fermat, Rolle, Lagrange), la regla de L'Hôpital para indeterminaciones, el estudio completo de funciones y los problemas de optimización. Y el teorema de Taylor, que aproxima una función por polinomios.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "aplicación",
+      "small": "análisis"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "El teorema del valor medio y sus casos (Fermat, Rolle, Lagrange) y sus consecuencias. Regla de L'Hôpital. Estudio de funciones: crecimiento, extremos, concavidad, asíntotas, gráfico. Problemas de optimización. Polinomio y teorema de Taylor como aproximación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "APLICACIONES DE LA DERIVADA (U5)\n│\n├─ Teoremas    · valor medio (Fermat, Rolle, Lagrange), L'Hôpital\n├─ Estudio     · extremos, concavidad, asíntotas, optimización\n└─ Taylor      · aproximación polinómica",
+        "foot": "Temas de la cátedra de Análisis A. La derivada como instrumento de análisis."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.jurisdiccion-competencia",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.jurisdiccion-competencia", "label": "Jurisdicción y competencia" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 2",
+  "title": "Quién juzga, y ante qué juez va cada causa.",
+  "lede": "El sentido de la función jurisdiccional y su relación con las funciones del Estado; la función jurisdiccional judicial. Los conceptos de jurisdicción y competencia y sus diferencias, los tipos de competencia —federal y ordinaria o local—, la competencia de la Corte Suprema de Justicia de la Nación y los criterios que distribuyen la competencia: territorio, materia, persona, valor, grado y turno. Todo sobre la organización judicial argentina.",
+  "meta": [
+    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Función jurisdiccional, competencia y organización judicial",
+      "note": "Función jurisdiccional y su relación con las funciones del Estado · función jurisdiccional judicial · conceptos de jurisdicción y competencia: diferencias · tipos de competencia: federal y ordinaria o local · caracteres de la competencia federal · competencia de la Corte Suprema de Justicia de la Nación · criterios de distribución: territorio, materia, persona, valor, grado y turno · organización judicial argentina.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

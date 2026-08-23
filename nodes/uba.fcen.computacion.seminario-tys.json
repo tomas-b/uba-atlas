@@ -1,0 +1,45 @@
+{
+  "address": "uba.fcen.computacion.seminario-tys",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "seminario · bimestral",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "56 h (7 h semanales · teórica)",
+    "cuatrimestre": "2º · año 4",
+    "correlativas": ["Ingeniería de Software (recomendada)"],
+    "unidades": 0
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.seminario-tys", "label": "Seminario sobre Tecnología y Sociedad" }
+  ],
+  "eyebrow": "Seminario sobre Tecnología y Sociedad · año 4 · DC-FCEN",
+  "title": "La computación mirada desde afuera.",
+  "lede": "Seminario sobre Tecnología y Sociedad: no una materia de contenidos técnicos sino un espacio de reflexión sobre el oficio y su lugar en el mundo. El marco legal de la Informática en la Argentina, los delitos informáticos y las licencias de software; los aspectos éticos del ejercicio profesional y científico y de la construcción de tecnología; el profesionalismo; y las reflexiones sobre ciencia, tecnología, sociedad y desarrollo. Seminario teórico obligatorio (56 h), 2º cuatrimestre del último año.",
+  "meta": [
+    { "k": "Formato", "v": "seminario", "small": "teórico · 56 h" },
+    { "k": "Temas", "v": "4 ejes", "small": "reflexión" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Recom.", "v": "Ing. Soft.", "small": "correlativa" }
+  ],
+  "frame": "Contenido del Seminario sobre Tecnología y Sociedad según los contenidos mínimos del Plan 2023 (computacion.dc.uba.ar). Es un seminario de reflexión, no una materia técnica con unidades y prácticos: por eso se presenta como un mapa de ejes temáticos, sin subdividir en nodos-unidad. Nivel L2 por temas; la cátedra aún no publica bibliografía formal.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos mínimos · los ejes de reflexión",
+      "title": "De qué se ocupa el seminario",
+      "note": "Ejes temáticos del contenido mínimo, no unidades de una cursada regular.",
+      "map": {
+        "mk": "El seminario, en cuatro ejes",
+        "tree": "SEMINARIO SOBRE TECNOLOGÍA Y SOCIEDAD\n│\n├─ Marco legal de la Informática en la Argentina · delitos informáticos · licencias de software\n├─ Aspectos éticos · ejercicio profesional y científico · construcción de tecnología\n├─ Profesionalismo\n└─ Reflexiones sobre ciencia, tecnología, sociedad y desarrollo",
+        "foot": "Contenidos mínimos del Plan 2023 (DC-FCEN). Seminario teórico; sin bibliografía formal publicada."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

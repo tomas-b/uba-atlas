@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.filosofia.critica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 3,
+    "de": 4,
+    "materia": "Filosofía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.filosofia",
+      "label": "Filosofía"
+    },
+    {
+      "address": "uba.cbc.sociales.filosofia.critica",
+      "label": "La crítica como instancia filosófica"
+    }
+  ],
+  "eyebrow": "Filosofía · unidad · contenido 3",
+  "title": "Cuestionar los lugares comunes.",
+  "lede": "La crítica de las creencias propias y ajenas y la filosofía como un trabajo sobre uno mismo.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "3",
+      "small": "de 4"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "La crítica como instancia filosófica fundamental. El cuestionamiento de los lugares comunes en torno a las realidades culturales y a las creencias ajenas y propias. La filosofía como un trabajo sobre uno mismo en las concepciones contemporáneas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

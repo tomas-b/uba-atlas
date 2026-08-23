@@ -1,0 +1,45 @@
+{
+  "address": "uba.cbc.sociedad-estado.herramientas",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L3",
+  "metadata": {
+    "author": "Fernando Pedrosa, Florencia Deich y Mariana Noce (comps.)",
+    "title": "Herramientas para el análisis de la sociedad y el Estado",
+    "publisher": "Eudeba",
+    "place": "Buenos Aires",
+    "year": 2021,
+    "note": "manual de la materia ICSE; compilación de capítulos de varios autores"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.herramientas", "label": "Herramientas para el análisis de la sociedad y el Estado" }
+  ],
+  "eyebrow": "Sociedad y Estado · libro · el manual de la cátedra",
+  "title": "Herramientas para el análisis de la sociedad y el Estado.",
+  "lede": "El manual común de ICSE, publicado por Eudeba. Un compilado de capítulos de docentes e investigadores de la materia que sigue el arco del programa: primero las herramientas conceptuales para analizar la relación entre sociedad y Estado, y después su aplicación a la historia argentina y latinoamericana.",
+  "meta": [
+    { "k": "Comps.", "v": "Pedrosa · Deich · Noce" },
+    { "k": "Edición", "v": "Eudeba", "small": "Bs. As." },
+    { "k": "Grounding", "v": "L3", "small": "libro" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "El libro base de la materia, dirigido explícitamente a los estudiantes de ICSE del CBC. Reúne trabajos de especialistas y docentes que analizan de forma sistemática la relación entre la sociedad y su Estado. Su organización acompaña el programa: aporta primero las categorías (Estado, poder, dominación, régimen político) y luego las pone en juego sobre el proceso histórico argentino. Es el texto contra el que se regrounda el resto del curso; las cátedras presenciales lo complementan con una selección de artículos historiográficos que varía según la cátedra.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El libro, a esta resolución",
+      "title": "Qué cubre",
+      "note": "El fondo del pozo: aquí el mapa toca el terreno del texto asignado.",
+      "map": {
+        "mk": "El manual, comprimido",
+        "tree": "HERRAMIENTAS PARA EL ANÁLISIS DE LA SOCIEDAD Y EL ESTADO\n│\n├─ Conceptos · Estado, poder, dominación, régimen político\n├─ Formación del Estado nacional y modernización\n├─ Estado social, inestabilidad y autoritarismo\n└─ Neoliberalismo y reconstrucción del Estado\n        → compilación que sigue el arco del programa",
+        "foot": "Metadatos de la cátedra ICSE (Eudeba). Es una compilación por capítulos; el detalle capítulo por autor sería un índice L3 más fino."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Eudeba · ficha del libro / ICSE CBC UBA", "url": "https://eudeba.com.ar/productos/herramientas-para-el-analisis-de-la-sociedad-y-el-estado/" }
+}

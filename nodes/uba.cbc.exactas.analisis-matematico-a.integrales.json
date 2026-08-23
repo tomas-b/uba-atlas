@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.integrales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.integrales",
+      "label": "Integrales y Aplicaciones"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U6",
+  "title": "La operación inversa: integrar.",
+  "lede": "El cálculo integral cierra la materia. La integral definida como área y la indefinida como antiderivada, unidas por el teorema fundamental del cálculo. Métodos de integración y las aplicaciones: área entre curvas y una primera mirada a las ecuaciones diferenciales.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "6",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "cierre",
+      "small": "integral"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Integral indefinida (primitivas) y definida (área bajo una curva); el teorema fundamental del cálculo que las liga. Métodos de integración: sustitución, por partes, fracciones simples. Aplicaciones: área entre curvas, y una introducción a las ecuaciones diferenciales.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTEGRALES Y APLICACIONES (U6)\n│\n├─ Integral       · indefinida (primitivas), definida (área)\n├─ TFC            · teorema fundamental del cálculo\n├─ Métodos        · sustitución, por partes, fracciones simples\n└─ Aplicaciones   · área entre curvas, ecuaciones diferenciales",
+        "foot": "Temas de la cátedra de Análisis A. El cálculo integral, cierre de la materia."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.medieval.avicena",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 7 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.medieval", "label": "Historia de la Filosofía Medieval" },
+    { "address": "uba.ffyl.filosofia.medieval.avicena", "label": "La metafísica de Ibn Sina (Avicena)" }
+  ],
+  "eyebrow": "Filosofía Medieval · unidad · VII de VIII",
+  "title": "Qué estudia la metafísica, y la esencia indiferente.",
+  "lede": "Avicena convierte la metafísica en ciencia. El problema del objeto y de la unidad de la metafísica aristotélica, la reorganización de sus contenidos, las 'nociones primeras' —'existente' y 'cosa' (esencia)— y la célebre doctrina de la 'indiferencia' de la esencia, que atraviesa todo el pensamiento posterior.",
+  "meta": [
+    { "k": "Unidad", "v": "VII", "small": "de VIII" },
+    { "k": "Figura", "v": "Avicena", "small": "la esencia" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El problema del objeto y de la unidad de la metafísica aristotélica. El aporte de Al-Farabi. Hacia una sistematización de la metafísica como ciencia. El problema del subiectum de la metafísica y la reorganización de sus contenidos. Las 'nociones primeras': 'existente' y 'cosa' (esencia). La doctrina de la 'indiferencia' de la esencia. Fuente: Liber de philosophia prima sive scientia divina (selección).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad VII.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "LA METAFÍSICA DE AVICENA (Unidad VII)\n│\n├─ El objeto de la metafísica   ¿qué estudia? · el subiectum · el aporte de Al-Farabi\n├─ Las nociones primeras        'existente' y 'cosa' (esencia)\n└─ La esencia indiferente       la doctrina que hereda el latín",
+        "foot": "Temas del programa 2020. Fuente: la Metafísica del Šifā', selección."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval · Unidad VII", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+}

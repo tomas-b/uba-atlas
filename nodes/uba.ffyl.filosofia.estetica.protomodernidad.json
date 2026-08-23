@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.estetica.protomodernidad",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1, "de": 5, "materia": "Estética" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.estetica", "label": "Estética" },
+    { "address": "uba.ffyl.filosofia.estetica.protomodernidad", "label": "La protomodernidad estética: antes y después de Kant" }
+  ],
+  "eyebrow": "Estética · unidad · 1 de 5",
+  "title": "Cuando el gusto se volvió filosofía.",
+  "lede": "El nacimiento de la disciplina en el siglo XVIII: del sentimiento al juicio. La reflexión sobre el gusto en Montesquieu, lo trágico en Hume, lo bello y lo sublime en Burke — y el giro de la Crítica del juicio de Kant, que desfisiologiza el gusto y funda el juicio estético desinteresado.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "génesis", "small": "el gusto" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La protomodernidad estética. La formación del punto de vista estético; del sentimiento al juicio. La reflexión sobre el gusto en Montesquieu; lo trágico en Hume; lo bello y lo sublime en Burke. La Crítica del juicio y el giro de la estética: la desfisiologización del gusto, las facultades del juicio de gusto, los cuatro momentos de la 'Analítica de lo bello', la 'finalidad sin fin', juicio puro y desinterés. La analítica de lo sublime (matemático y dinámico) y su posterioridad (Lyotard, Deleuze). La teoría del genio como teoría kantiana del arte.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad I del programa Schwarzböck.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Estética Nº 0226 (Schwarzböck) · Unidad I", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Estetica%2012%20II.doc" }
+}

@@ -1,0 +1,201 @@
+{
+  "address": "uba.cbc.biosalud.biologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Biología CBC (cátedra)",
+    "unidades": 10
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.biologia",
+      "label": "Biología"
+    }
+  ],
+  "eyebrow": "Biología · CBC · Bio·Salud",
+  "title": "Biología celular, del plan de la vida a la herencia.",
+  "lede": "La Biología del CBC que cursan Veterinaria y Agronomía. Diez unidades de biología celular y molecular: cómo está organizada la materia viva, de qué está hecha, cómo transforma energía, cómo copia y expresa su información y cómo la hereda.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cursan",
+      "v": "Veterinaria",
+      "small": "carreras"
+    }
+  ],
+  "frame": "Contenido de los contenidos mínimos oficiales del CBC. El programa recorre la célula como sistema: su plan de organización y composición química, sus membranas y organoides, la transducción de energía, y el eje genético completo —núcleo, transcripción, síntesis proteica, división celular y herencia—.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 10 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa, en 10 unidades",
+        "tree": "BIOLOGÍA\n│\n├─ Unidad 1 · Biología celular: el plan de organización de la materia viva\n├─ Unidad 2 · Composición química de los seres vivos\n├─ Unidad 3 · La superficie celular, el sistema de endomembranas y la secreción\n├─ Unidad 4 · El sistema de endomembrana y la digestión celular\n├─ Unidad 5 · La transducción de energía\n├─ Unidad 6 · El núcleo interfásico y el ciclo celular\n├─ Unidad 7 · Genética molecular: la transcripción\n├─ Unidad 8 · La síntesis proteica: la traducción y su regulación\n├─ Unidad 9 · La división celular\n└─ Unidad 10 · Herencia",
+        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.biologia.organizacion-materia-viva",
+          "name": "Biología celular: el plan de organización de la materia viva",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.composicion-quimica",
+          "name": "Composición química de los seres vivos",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.superficie-endomembranas",
+          "name": "La superficie celular, el sistema de endomembranas y la secreción",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.digestion-celular",
+          "name": "El sistema de endomembrana y la digestión celular",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.transduccion-energia",
+          "name": "La transducción de energía",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.nucleo-ciclo-celular",
+          "name": "El núcleo interfásico y el ciclo celular",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.transcripcion",
+          "name": "Genética molecular: la transcripción",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.sintesis-proteica",
+          "name": "La síntesis proteica: la traducción y su regulación",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.division-celular",
+          "name": "La división celular",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.herencia",
+          "name": "Herencia",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los libros de la cátedra",
+      "note": "Bibliografía de la cátedra de Biología CBC (Cátedra Castiñeira de Dios, biologia-cbc.es.tl): textos generales de biología.",
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.biologia.audesirk",
+          "name": "Audesirk y col. — Biología. La vida en la Tierra",
+          "role": "6ª ed. · 2003",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.campbell",
+          "name": "Campbell y col. — Biología. Conceptos y relaciones",
+          "role": "3ª ed. · 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.curtis",
+          "name": "Curtis y Barnes — Biología",
+          "role": "6ª ed. · 2000",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.invitacion",
+          "name": "Curtis, Barnes, Schnek y Flores — Invitación a la Biología",
+          "role": "6ª ed. · 2006",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.de-robertis-hib",
+          "name": "De Robertis y Hib — Fundamentos de Biología Celular y Molecular",
+          "role": "4ª ed. · 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.purves",
+          "name": "Purves y col. — Vida, la ciencia de la biología",
+          "role": "6ª ed. · 2003",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.biologia.solomon",
+          "name": "Solomon y col. — Biología de Villee",
+          "role": "5ª ed. · 2001",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

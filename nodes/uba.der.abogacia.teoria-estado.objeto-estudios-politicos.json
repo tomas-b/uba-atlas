@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.teoria-estado.objeto-estudios-politicos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.teoria-estado", "label": "Teoría del Estado" },
+    { "address": "uba.der.abogacia.teoria-estado.objeto-estudios-politicos", "label": "Los estudios políticos" }
+  ],
+  "eyebrow": "Teoría del Estado · Unidad 1",
+  "title": "Los estudios políticos: sus denominaciones y su objeto.",
+  "lede": "Punto de partida de la materia: qué son los estudios políticos, cómo se los ha denominado y cuál es su objeto. La delimitación del campo antes de entrar al Estado, al poder y a la política.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "T. del Estado", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Denominaciones y objeto de los estudios políticos",
+      "note": "Conceptos tomados de los contenidos mínimos oficiales: los estudios políticos — sus denominaciones y su objeto.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

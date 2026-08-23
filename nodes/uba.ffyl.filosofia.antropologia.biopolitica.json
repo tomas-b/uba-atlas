@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia.biopolitica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "de": 5, "materia": "Antropología Filosófica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antropologia", "label": "Antropología Filosófica" },
+    { "address": "uba.ffyl.filosofia.antropologia.biopolitica", "label": "Entre las bioéticas y las biopolíticas" }
+  ],
+  "eyebrow": "Antropología Filosófica · unidad · 5 de 5",
+  "title": "El cuerpo humano como campo político.",
+  "lede": "El cierre contemporáneo: la Antropología Filosófica entre las bioéticas y las biopolíticas. Las lecturas biopolíticas del racismo y el etnocentrismo, el fenómeno migratorio, y el impacto de la medicalización y la biotecnología sobre la concepción actual de la persona.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 5" },
+    { "k": "Rol", "v": "especial", "small": "biopolítica" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La Antropología Filosófica contemporánea entre las bioéticas y las biopolíticas. Antropología filosófica y biopolíticas: la larga historia del racismo y las lecturas biopolíticas de los racismos y etnocentrismos actuales; enfoques latinoamericanos; el fenómeno migratorio como fenómeno biopolítico. Antropología filosófica y bioética: ¿aceptación o normatización de lo natural?; el impacto de la medicalización y de los desarrollos biotecnológicos en la concepción actual de la persona; la norma de la salud y la enfermedad, control de natalidad y gestión etaria.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad V del programa Bonilla.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Antropología Filosófica Nº 0232 (Bonilla) · Unidad V", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+}

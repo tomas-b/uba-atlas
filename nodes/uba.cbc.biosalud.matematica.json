@@ -1,0 +1,145 @@
+{
+  "address": "uba.cbc.biosalud.matematica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "catedra": "Cátedra Única (CBC · código 51)",
+    "unidades": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    }
+  ],
+  "eyebrow": "Matemática · CBC · Bio·Salud",
+  "title": "El cálculo, de los reales a la integral.",
+  "lede": "La Matemática del CBC para el perfil biológico y de la salud. Un curso de análisis de una variable: se parte de los números reales y las coordenadas, se recorre el catálogo de funciones y se llega a las dos herramientas centrales del cálculo, la derivada y la integral.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "teór-práct"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cursan",
+      "v": "núcleo",
+      "small": "carreras"
+    }
+  ],
+  "frame": "Contenido del programa analítico de la cátedra única (código 51). El eje es la función: primero los conjuntos numéricos y el plano cartesiano, después las familias de funciones (polinómicas, racionales, trigonométricas, exponenciales) y finalmente el cálculo diferencial e integral. Es la Matemática que cursan Medicina, Odontología, Farmacia y Bioquímica; Agronomía y Veterinaria cursan una variante propia de su facultad (Matemática · Agronomía).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa, en 6 unidades",
+        "tree": "MATEMÁTICA\n│\n├─ Unidad 1 · Números reales y coordenadas cartesianas\n├─ Unidad 2 · Funciones polinómicas\n├─ Unidad 3 · Funciones racionales\n├─ Unidad 4 · Funciones trigonométricas y exponenciales\n├─ Unidad 5 · Derivadas\n└─ Unidad 6 · Integración",
+        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+      },
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.matematica.numeros-reales",
+          "name": "Números reales y coordenadas cartesianas",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.funciones-polinomicas",
+          "name": "Funciones polinómicas",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.funciones-racionales",
+          "name": "Funciones racionales",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.funciones-trascendentes",
+          "name": "Funciones trigonométricas y exponenciales",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.derivadas",
+          "name": "Derivadas",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.integracion",
+          "name": "Integración",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias",
+      "title": "Los libros del programa",
+      "note": "Bibliografía del programa analítico de la cátedra única (código 51, ffyb.uba.ar).",
+      "exits": [
+        {
+          "address": "uba.cbc.biosalud.matematica.sadosky-guber",
+          "name": "Sadosky y Guber — Elementos de cálculo diferencial e integral",
+          "role": "ed.",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.piskunov",
+          "name": "Piskunov — Cálculo diferencial e integral",
+          "role": "ed.",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.spiegel",
+          "name": "Spiegel — Estadística",
+          "role": "ed.",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

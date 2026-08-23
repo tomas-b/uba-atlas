@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.algebra.algebra-vectorial",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra",
+      "label": "Álgebra"
+    },
+    {
+      "address": "uba.cbc.exactas.algebra.algebra-vectorial",
+      "label": "Álgebra Vectorial"
+    }
+  ],
+  "eyebrow": "Álgebra · unidad · U1",
+  "title": "Vectores, rectas y planos en el espacio.",
+  "lede": "El comienzo geométrico. Vectores en R2 y R3, las operaciones entre ellos, y cómo describen rectas y planos. La geometría analítica que da intuición a todo el álgebra lineal que viene después.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "1",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "base",
+      "small": "geometría"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Vectores en el plano y el espacio: suma, producto por escalar, producto escalar y producto vectorial. Norma, ángulo, perpendicularidad. Ecuaciones de rectas y planos, intersecciones y distancias. La base geométrica del curso.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "ÁLGEBRA VECTORIAL (U1)\n│\n├─ Vectores · operaciones, producto escalar y vectorial\n└─ Geometría · rectas y planos, intersecciones, distancias",
+        "foot": "Temas de la cátedra de Álgebra. La geometría que motiva el álgebra lineal."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
+    "url": "https://www.mate.cbc.uba.ar/"
+  }
+}

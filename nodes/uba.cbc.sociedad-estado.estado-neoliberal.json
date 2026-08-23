@@ -1,0 +1,38 @@
+{
+  "address": "uba.cbc.sociedad-estado.estado-neoliberal",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 5, "período": "1976–2001" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
+    { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" },
+    { "address": "uba.cbc.sociedad-estado.estado-neoliberal", "label": "El Estado neoliberal (1976–2001)" }
+  ],
+  "eyebrow": "Sociedad y Estado · unidad · 1976–2001",
+  "title": "El Estado que se achica — y estalla.",
+  "lede": "El desmantelamiento del Estado interventor. La última dictadura (1976–1983) y el terrorismo de Estado inauguran el giro; la transición democrática de 1983; y en los noventa la reforma del Estado, las privatizaciones, la desindustrialización y la flexibilización laboral. El ciclo neoliberal que termina en la crisis de 2001.",
+  "meta": [
+    { "k": "Unidad", "v": "5", "small": "de 6" },
+    { "k": "Período", "v": "1976–2001" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La transformación neoliberal del Estado argentino. La dictadura de 1976–1983 (terrorismo de Estado, endeudamiento, apertura económica) quiebra el modelo previo y sienta las bases del giro. La transición democrática de 1983 reconstruye el régimen democrático pero hereda una crisis económica y de deuda. En los años noventa se despliega el Estado neoliberal: reforma del Estado, privatizaciones, desregulación, desindustrialización, flexibilización laboral y mercantilización de la política social. El ciclo culmina en la crisis de 2001. Conceptos: terrorismo de Estado, transición democrática, reforma del Estado, neoliberalismo, deuda externa, crisis de representación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual, no un cronograma fechado.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "EL ESTADO NEOLIBERAL (1976–2001)\n│\n├─ Dictadura (1976–1983) · terrorismo de Estado, giro económico\n├─ Transición democrática (1983) · reconstrucción del régimen\n├─ Los noventa · reforma del Estado, privatizaciones, flexibilización\n└─ Crisis de 2001 · el agotamiento del ciclo",
+        "foot": "Temas de la cátedra (ICSE). El Estado interventor se desmonta; el hilo llega hasta el estallido de 2001."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "ICSE · programa CBC UBA (cátedra)", "url": "https://www.cbc.uba.ar/" }
+}

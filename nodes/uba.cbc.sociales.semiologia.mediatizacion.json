@@ -1,0 +1,71 @@
+{
+  "address": "uba.cbc.sociales.semiologia.mediatizacion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenido": 4,
+    "de": 4,
+    "materia": "Semiología"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.sociales",
+      "label": "Ciencias Sociales y Humanas"
+    },
+    {
+      "address": "uba.cbc.sociales.semiologia",
+      "label": "Semiología"
+    },
+    {
+      "address": "uba.cbc.sociales.semiologia.mediatizacion",
+      "label": "Mediatización"
+    }
+  ],
+  "eyebrow": "Semiología · unidad · contenido 4",
+  "title": "La realidad construida por los medios.",
+  "lede": "Semiótica, cultura y sociedad; discurso, poder e ideología; la construcción mediatizada de la realidad social.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "4",
+      "small": "de 4"
+    },
+    {
+      "k": "Rol",
+      "v": "tema",
+      "small": "cont. mín."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Mediatización. Semiótica, cultura y sociedad. Discurso, poder e ideología. La construcción mediatizada de la realidad social. La imagen en los medios masivos. Consumos culturales.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El contenido mínimo",
+      "title": "Qué cubre",
+      "note": "Bloque de los contenidos mínimos oficiales de la materia.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Título 16 (CBC) · Cap. D · contenidos mínimos",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

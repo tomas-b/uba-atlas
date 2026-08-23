@@ -1,0 +1,74 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a.derivadas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a",
+      "label": "Análisis Matemático A"
+    },
+    {
+      "address": "uba.cbc.exactas.analisis-matematico-a.derivadas",
+      "label": "Derivadas"
+    }
+  ],
+  "eyebrow": "Análisis · unidad · U4",
+  "title": "La razón de cambio: la derivada.",
+  "lede": "El corazón del cálculo diferencial. La derivada como límite del cociente incremental — la pendiente de la recta tangente, la velocidad instantánea. Reglas de derivación y el aparato para derivar cualquier función elemental.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 6"
+    },
+    {
+      "k": "Rol",
+      "v": "núcleo",
+      "small": "cálculo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Definición de derivada como límite del cociente incremental; interpretación geométrica (recta tangente) y física. Reglas de derivación: suma, producto, cociente, regla de la cadena. Derivadas de las funciones elementales, derivada de la inversa, derivadas sucesivas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "DERIVADAS (U4)\n│\n├─ Definición · cociente incremental, recta tangente\n├─ Reglas     · producto, cociente, cadena\n└─ Cálculo    · funciones elementales, inversa, sucesivas",
+        "foot": "Temas de la cátedra de Análisis A. La herramienta del cálculo diferencial."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
+    "url": "https://www.mate.cbc.uba.ar/66.html"
+  }
+}

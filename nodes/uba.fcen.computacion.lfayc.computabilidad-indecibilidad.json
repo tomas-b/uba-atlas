@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.lfayc.computabilidad-indecibilidad",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 6 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
+    { "address": "uba.fcen.computacion.lfayc.computabilidad-indecibilidad", "label": "Computabilidad e indecidibilidad" }
+  ],
+  "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 6",
+  "title": "El problema de la detención y las técnicas de la indecidibilidad.",
+  "lede": "Se aborda el problema de la detención como caso central de indecidibilidad, junto con la diagonalización y las reducciones como técnicas para demostrarla.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 7" },
+    { "k": "Rol", "v": "unidad", "small": "límites del cómputo" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "La unidad demuestra la indecidibilidad a partir del problema de la detención mediante diagonalización y reducciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la unidad.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "COMPUTABILIDAD E INDECIDIBILIDAD (unidad 6)\n│\n├─ Tema · el problema de la detención (halting problem)\n├─ Tema · diagonalización\n└─ Idea · indecidibilidad y reducciones",
+        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

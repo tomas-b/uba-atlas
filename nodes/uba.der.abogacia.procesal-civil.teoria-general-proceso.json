@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.procesal-civil.teoria-general-proceso",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.procesal-civil", "label": "Procesal Civil y Comercial" },
+    { "address": "uba.der.abogacia.procesal-civil.teoria-general-proceso", "label": "Teoría general del proceso" }
+  ],
+  "eyebrow": "Procesal Civil y Comercial · Unidad 1",
+  "title": "Qué es el derecho procesal y de dónde saca sus reglas.",
+  "lede": "La teoría general del proceso y el análisis crítico del concepto de derecho procesal: sus caracteres y su relación con el derecho de fondo. Los principios constitucionales del proceso, el sistema de fuentes del derecho procesal en el sistema de derecho continental, y el derecho procesal en la Argentina con la distribución de competencias entre la Nación y las provincias.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Materia", "v": "Procesal C. y C.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "El derecho procesal: concepto, caracteres y fuentes",
+      "note": "Teoría general del proceso · concepto de derecho procesal y su relación con el derecho de fondo · caracteres del derecho procesal · principios constitucionales del proceso · sistema de fuentes del derecho procesal en el derecho continental · el derecho procesal en la Argentina: distribución de competencias entre Nación y provincias.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

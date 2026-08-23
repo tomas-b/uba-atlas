@@ -1,0 +1,39 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.funcional-haskell",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 2 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.intro-programacion", "label": "Introducción a la Programación" },
+    { "address": "uba.fcen.computacion.intro-programacion.funcional-haskell", "label": "Programación funcional (Haskell)" }
+  ],
+  "eyebrow": "Introducción a la Programación · bloque · B2",
+  "title": "El paradigma funcional, en Haskell.",
+  "lede": "La primera forma de programar de la materia: el paradigma funcional. Con Haskell se construyen las ideas de tipo de dato, función, recursión y listas — programar como definir y componer funciones.",
+  "meta": [
+    { "k": "Bloque", "v": "2", "small": "de 3" },
+    { "k": "Rol", "v": "paradigma", "small": "funcional" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Introducción al paradigma funcional con Haskell. Tipo de dato. Función. Recursión. Listas. La primera parte de la materia: resolver problemas definiendo y componiendo funciones.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del bloque",
+      "title": "De qué se trata",
+      "note": "El orden conceptual del bloque.",
+      "map": {
+        "mk": "El bloque, comprimido",
+        "tree": "FUNCIONAL · HASKELL (B2)\n│\n├─ Tipos     · tipo de dato\n├─ Funciones · definición y composición\n├─ Recursión · pensar recursivamente\n└─ Listas    · procesamiento de listas",
+        "foot": "Temas de la cátedra (DC, plan 2023)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+}

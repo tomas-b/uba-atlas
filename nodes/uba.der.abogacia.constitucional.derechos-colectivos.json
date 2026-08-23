@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.constitucional.derechos-colectivos",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.constitucional", "label": "Constitucional" },
+    { "address": "uba.der.abogacia.constitucional.derechos-colectivos", "label": "Derechos colectivos" }
+  ],
+  "eyebrow": "Elementos de Derecho Constitucional · Unidad 6",
+  "title": "Los derechos colectivos: ambiente, usuarios y consumidores.",
+  "lede": "Los derechos colectivos como categoría constitucional: la protección del ambiente y los derechos de usuarios y consumidores.",
+  "meta": [
+    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Materia", "v": "Const.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "Derechos colectivos · protección del ambiente · usuarios y consumidores",
+      "note": "Los derechos colectivos: la protección del ambiente y derechos de los usuarios y consumidores.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

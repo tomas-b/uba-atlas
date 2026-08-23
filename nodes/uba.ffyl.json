@@ -1,0 +1,114 @@
+{
+  "address": "uba.ffyl",
+  "level": "facultad",
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    }
+  ],
+  "eyebrow": "Facultad de Filosofía y Letras · FFyL",
+  "title": "Nueve disciplinas bajo un mismo techo.",
+  "lede": "Una facultad es un pabellón: adentro, cada disciplina es una carrera, y cada carrera se abre a su propia planta. FFyL reúne las humanidades y las ciencias sociales de la UBA — de la filosofía a la geografía.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "9"
+    },
+    {
+      "k": "Cada una",
+      "v": "Lic.",
+      "small": "+ Prof."
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "1",
+      "small": "/ 9"
+    }
+  ],
+  "frame": "Casi todas las disciplinas de FFyL ofrecen una Licenciatura y un Profesorado sobre el mismo núcleo. Elegí una sala: se abre a su plan de estudios como arquitectura — no un temario, una estructura.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 9 disciplinas",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.ffyl.filosofia",
+          "name": "Filosofía",
+          "role": "Lic. + Prof. · ~5–6 años",
+          "tag": "obligatorias",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.letras",
+          "name": "Letras",
+          "role": "Lic. + Prof. · orient. Clásicas",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.historia",
+          "name": "Historia",
+          "role": "Lic. + Prof.",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.geografia",
+          "name": "Geografía",
+          "role": "Lic. + Prof.",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.antropologia",
+          "name": "Ciencias Antropológicas",
+          "role": "Lic. + Prof.",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.educacion",
+          "name": "Ciencias de la Educación",
+          "role": "Lic. + Prof.",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.artes",
+          "name": "Artes",
+          "role": "Lic. + Prof.",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.edicion",
+          "name": "Edición",
+          "role": "Licenciatura",
+          "tag": "",
+          "kind": "career"
+        },
+        {
+          "address": "uba.ffyl.informacion",
+          "name": "Ciencia de la Información",
+          "role": "Lic. (ccc)",
+          "tag": "",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "uba.ar/carreras/9 · academica.filo.uba.ar",
+    "url": "https://www.uba.ar/carreras/9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.gnoseologia.wittgenstein-giddens-bourdieu",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "de": 3, "materia": "Gnoseología" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.gnoseologia", "label": "Gnoseología" },
+    { "address": "uba.ffyl.filosofia.gnoseologia.wittgenstein-giddens-bourdieu", "label": "El sentido práctico en las ciencias sociales" }
+  ],
+  "eyebrow": "Gnoseología · unidad · 3 de 3",
+  "title": "El conocimiento como práctica.",
+  "lede": "El conocimiento que no pasa por la conciencia reflexiva: los juegos de lenguaje y formas de vida de Wittgenstein, la conciencia práctica y la teoría de la estructuración de Giddens, y el sentido práctico corporal e irreflexivo de Bourdieu — habitus, campo, reproducción.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 3" },
+    { "k": "Rol", "v": "cierre", "small": "praxis" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Wittgenstein y las ciencias sociales: juegos de lenguaje, formas de vida, reglas y normatividad, el problema de comprender al otro. Teoría de la estructuración y conciencia práctica en Anthony Giddens: doble estructuración, doble hermenéutica, las prácticas como fundamento de la acción social, agenciamiento. El sentido práctico irreflexivo en la teoría social crítico-reproductivista de Pierre Bourdieu: habitus, campo, sedimentación, prácticas de reproducción social, sentido práctico corporal.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad III del programa Banega 2020.", "exits": [] }
+  ],
+  "source": { "label": "repositorio.filo.uba.ar · Programa de Gnoseología (Banega 2020) · Unidad III", "url": "https://repositorio.filo.uba.ar/handle/filodigital/13160" }
+}

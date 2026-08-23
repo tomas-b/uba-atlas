@@ -1,0 +1,55 @@
+{
+  "address": "uba.fcen.computacion.algebra-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Matemática (DM, FCEN)", "unidades": 5, "bibliography": ["Gentile · Notas de Álgebra I", "Krick · Álgebra I (Fascículo 9)", "Sánchez · Lecciones de Álgebra"] },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.algebra-1", "label": "Álgebra I" }
+  ],
+  "eyebrow": "Álgebra I · Año 1 · 1º cuat.",
+  "title": "De los conjuntos a los polinomios, con inducción.",
+  "lede": "El álgebra fundacional de la carrera, compartida con Matemática. Del lenguaje de conjuntos, relaciones y funciones al principio de inducción; de la aritmética de los enteros — divisibilidad, congruencias, RSA — a los números complejos y los polinomios sobre un cuerpo. Con enfoque algorítmico.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "1º · teór-práct" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Depto", "v": "Matemática", "small": "DM" }
+  ],
+  "frame": "Contenido del programa oficial del Departamento de Matemática (web.dm.uba.ar). Cinco unidades, de conjuntos a polinomios. Desde 2013 el enfoque es algorítmico, con un taller de programación asociado. Temas y bibliografía sourceados (Gentile, Krick, Sánchez).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "El recorrido del álgebra",
+      "note": "Cada unidad en orden, de conjuntos a polinomios.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "ÁLGEBRA I\n│\n├─ U1 · Conjuntos, relaciones y funciones\n├─ U2 · Números naturales e Inducción\n├─ U3 · Números enteros\n├─ U4 · Números complejos\n└─ U5 · Polinomios",
+        "foot": "Temas del programa oficial del DM. Texto base: Gentile, Krick."
+      },
+      "exits": [
+        { "address": "uba.fcen.computacion.algebra-1.conjuntos-relaciones-funciones", "name": "Conjuntos, relaciones y funciones", "role": "U1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.algebra-1.naturales-induccion", "name": "Números naturales e Inducción", "role": "U2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.algebra-1.enteros", "name": "Números enteros", "role": "U3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.algebra-1.complejos", "name": "Números complejos", "role": "U4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.algebra-1.polinomios", "name": "Polinomios", "role": "U5", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · sourceada",
+      "title": "Los textos de la materia",
+      "note": "Bibliografía del programa oficial. Su contenido (L3) es un índice aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.algebra-1.notas-algebra-gentile", "name": "Notas de Álgebra I — E. Gentile", "role": "texto base", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.algebra-krick", "name": "Álgebra I (Fascículo 9) — T. Krick", "role": "cursos de grado DM", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.lecciones-sanchez", "name": "Lecciones de Álgebra — C. Sánchez", "role": "cursos de grado DM", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" }
+}

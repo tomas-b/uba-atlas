@@ -1,0 +1,30 @@
+{
+  "address": "uba.der.abogacia.comercial.empresa-fondo-comercio",
+  "level": "programa",
+  "kind": "unit",
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.der", "label": "Derecho" },
+    { "address": "uba.der.abogacia", "label": "Abogacía" },
+    { "address": "uba.der.abogacia.comercial", "label": "Elem. de Derecho Comercial" },
+    { "address": "uba.der.abogacia.comercial.empresa-fondo-comercio", "label": "Empresa y fondo de comercio" }
+  ],
+  "eyebrow": "Elementos de Derecho Comercial · Unidad 3",
+  "title": "La empresa como organización y su transferencia.",
+  "lede": "La empresa en su concepto, estructura, organización y actividad, hasta su clasificación según actividad, sector, origen del capital y tamaño. El empresario individual y colectivo y su estatuto. El fondo de comercio y la transferencia de establecimientos, junto al Capital Emprendedor, el financiamiento colectivo y las SAS.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Materia", "v": "Com.", "small": "CPC" }
+  ],
+  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Conceptos",
+      "title": "La empresa, el empresario, el fondo de comercio y las SAS",
+      "note": "La empresa: concepto, estructura, organización y actividad; la empresa familiar; la empresa como actividad, organización y sistema; sus elementos y el principio de continuación en el Código Civil y Comercial. Clasificación de las empresas según actividad, sector, origen del capital y tamaño: la Gran Empresa y las Pequeñas y Medianas Empresas (Pymes). Contratos de colaboración empresaria. El empresario: el empresario individual (persona física) y el colectivo o social (persona jurídica), su estatuto y los microemprendimientos. El fondo de comercio: concepto, conformación y transferencia de establecimientos comerciales e industriales. El Capital Emprendedor, los Sistemas Colectivos de Financiamiento y las Sociedades por Acciones Simplificadas.",
+      "exits": []
+    }
+  ],
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+}

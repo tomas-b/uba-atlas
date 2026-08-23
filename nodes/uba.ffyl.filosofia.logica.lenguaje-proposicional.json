@@ -1,0 +1,28 @@
+{
+  "address": "uba.ffyl.filosofia.logica.lenguaje-proposicional",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 3, "de": 9, "materia": "Lógica" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.logica", "label": "Lógica" },
+    { "address": "uba.ffyl.filosofia.logica.lenguaje-proposicional", "label": "El lenguaje de la lógica proposicional" }
+  ],
+  "eyebrow": "Lógica · unidad · 3 de 9",
+  "title": "El primer lenguaje formal.",
+  "lede": "Construir el lenguaje de la lógica proposicional: sus constantes lógicas, las reglas que dicen qué fórmula está bien formada, y el arte de traducir del castellano al cálculo. Con su límite: qué no puede expresar.",
+  "meta": [
+    { "k": "Unidad", "v": "3", "small": "de 9" },
+    { "k": "Rol", "v": "sintaxis", "small": "proposicional" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "El vocabulario de la lógica proposicional. Las constantes lógicas del lenguaje de la lógica proposicional. Reglas de formación de fórmulas bien formadas. Traducción del castellano al lenguaje de la lógica proposicional. Formalización de argumentos en el lenguaje proposicional. Limitaciones expresivas del lenguaje de la lógica proposicional.",
+  "groups": [
+    { "kind": "spine", "eyebrow": "El hilo de la unidad", "title": "De qué se trata", "note": "Contenidos de la Unidad 3 del programa Oller.", "exits": [] }
+  ],
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Lógica Nº 0211 (Oller) · Unidad 3", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" }
+}

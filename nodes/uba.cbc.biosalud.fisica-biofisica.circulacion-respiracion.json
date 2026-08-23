@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.fisica-biofisica.circulacion-respiracion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 2,
+    "de": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.fisica-biofisica",
+      "label": "Física e Introducción a la Biofísica"
+    },
+    {
+      "address": "uba.cbc.biosalud.fisica-biofisica.circulacion-respiracion",
+      "label": "Bases físicas de la Circulación y la Respiración"
+    }
+  ],
+  "eyebrow": "Física e Introducción a la Biofísica · unidad · Unidad 2",
+  "title": "Bases físicas de la Circulación y la Respiración",
+  "lede": "Hidrostática, gases y fluidos aplicados a la sangre y el aire.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 6"
+    },
+    {
+      "k": "Materia",
+      "v": "Física",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, según los contenidos oficiales: Hidrostática · presión · principio de Pascal; Gases · ecuación de estado · Ley de Dalton; Dinámica de fluidos · Bernoulli · continuidad; Viscosidad · Ley de Poiseuille; El aparato circulatorio como sistema.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en orden.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "BASES FÍSICAS DE LA CIRCULACIÓN Y LA RESPIRACIÓN\n│\n• Hidrostática · presión · principio de Pascal\n• Gases · ecuación de estado · Ley de Dalton\n• Dinámica de fluidos · Bernoulli · continuidad\n• Viscosidad · Ley de Poiseuille\n• El aparato circulatorio como sistema",
+        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

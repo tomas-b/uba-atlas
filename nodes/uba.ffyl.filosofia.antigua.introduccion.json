@@ -1,0 +1,39 @@
+{
+  "address": "uba.ffyl.filosofia.antigua.introduccion",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": { "unidad": 1 },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.filosofia", "label": "Filosofía" },
+    { "address": "uba.ffyl.filosofia.antigua", "label": "Historia de la Filosofía Antigua" },
+    { "address": "uba.ffyl.filosofia.antigua.introduccion", "label": "Introducción" }
+  ],
+  "eyebrow": "Filosofía Antigua · unidad · 1 de 5",
+  "title": "Antes de la filosofía estaban los poetas.",
+  "lede": "El punto de partida: qué es estudiar el pasado filosófico y de dónde salió la filosofía. Los períodos y direcciones de la Antigüedad, y el eje del curso —el paso del relato mítico al lógos—, con los poetas tradicionales todavía en el lugar de los que dicen la verdad.",
+  "meta": [
+    { "k": "Unidad", "v": "1", "small": "de 5" },
+    { "k": "Rol", "v": "apertura", "small": "método + eje" },
+    { "k": "Grounding", "v": "L2", "small": "temas" },
+    { "k": "Tipo", "v": "unidad" }
+  ],
+  "frame": "Presentación del curso y del tema especial: filosofía, mito y poesía en el pensamiento griego. Períodos y principales direcciones filosóficas de la Antigüedad. El relato mítico. Los poetas tradicionales como 'maestros de verdad'. Mito y lógos: la distinción que funda a la filosofía como disciplina autónoma sin dejar de arrastrar lo que niega.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "El orden conceptual de la Unidad 1.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "INTRODUCCIÓN (Unidad 1)\n│\n├─ Estudiar el pasado   problemas de las fuentes · períodos y direcciones\n├─ El relato mítico     los poetas como 'maestros de verdad'\n└─ Mito y lógos         el corte que instaura la filosofía",
+        "foot": "Temas del programa 2020 (Soares). Es la puerta de entrada a la carrera para la mayoría."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Antigua (Soares) · Unidad 1", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13153" }
+}
