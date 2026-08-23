@@ -1,101 +1,95 @@
-# CASA — The Grounded Resolution Navigator
+# CASA
 
-**A navigable, generative graph over the real Universidad de Buenos Aires — where a map
-point either traces down to the territory, or it does not exist.**
+**A map of the whole Universidad de Buenos Aires — every faculty, career, and
+course — where each point traces down to a real source, or it does not exist.**
 
-Point at the real UBA and walk it: the whole institution in one screen, a faculty as a
-floor-plan, a career as structure, a course as what it actually *is* — its topics and its
-reading list, extracted from the real programa PDF of the real cátedra. Every view is a
-**node**: addressable, generated on demand by an LLM agent, and — the law everything else
-serves — **never rendered beyond what the real source supports**.
+**The goal: a static site that indexes the full university, with a grounded
+summary of every module. LLM agents write each node from real academic
+documents. A node with no source does not get born.**
 
-> *"A node that is not backed by real material does not get born. Fail hard, never soft.
-> A confident render over missing source is a lie with good typography — and it's the one
-> failure that destroys trust in the whole map."* — the first law, [CONCEPT.md](CONCEPT.md)
+<!-- TODO: docs/graph.png — the graph surface; docs/node.gif — job → watcher → node -->
 
-This is a personal project / proof of concept: an anti-hallucination discipline turned
-into the constitution of a system, then stress-tested with a multi-agent pilot.
+## The idea
 
-<!-- TODO(screenshots): docs/graph.png — the /graph surface with the three node states;
-     docs/node.gif — click-to-expand → enqueue → watcher wakes → node drawn. See PUBLICAR.md. -->
+Point at the real UBA and walk it. The whole institution in one screen. A
+career as structure. A course as what it is: its topics and its reading list,
+taken from the real programa PDF of the real cátedra. Every view is a **node**:
+addressable by URL and generated on demand by an agent.
 
-## The hard data: 11 agents, zero surviving fabrication
+The target is full coverage: 13 faculties, ~90 careers, ~3,000 modules. Each
+module gets a summary that a student can trust, with the source cited next to
+it. Where no source exists, the map says so. It shows a sealed node instead of
+a plausible guess.
 
-Before scaling, a sourcing pilot ran over **5 diverse careers** (Filosofía, Medicina,
-Ingeniería Informática, Abogacía, Paleontología): one researcher agent + one **adversarial
-verifier** agent per career, then synthesis — **11 agents, 0 errors, ~437k tokens**.
+> *"A node that is not backed by real material does not get born. Fail hard,
+> never soft. A confident render over missing source is a lie with good
+> typography — and it is the one failure that destroys trust in the whole
+> map."* — the first law, [CONCEPT.md](CONCEPT.md)
 
-**The result that matters most: zero fabrication survived verification.** Every gap was an
-honest gap, never an invention. The diagnosed limit was *thinness and extraction* (un-OCR'd
-scans, dead links, Drive-hosted PDFs) — not lying. Full findings, per-career coverage
-tables, and the honest ceiling per grounding level: [PILOT-FINDINGS.md](PILOT-FINDINGS.md).
+## Numbers (the sourcing pilot)
 
-## How it works
+- **5 careers** probed end to end: Filosofía, Medicina, Ing. Informática, Abogacía, Paleontología
+- **11 agents**: one researcher plus one adversarial verifier per career, then synthesis
+- **0 fabrications** survived verification, across ~437k tokens
+- **446 grounded nodes** written so far, across 5 branches of the university
+- **52 programa PDFs** turned into text, OCR included, by the `extract/` pipeline
 
-### The grounding ladder
+The pilot's diagnosis: the limit is *extraction, not availability*. The plans
+are public everywhere (L1). The course programs exist, but each faculty
+publishes them differently — scans, Drive links, HTTP-only sites. That is a
+tooling problem, and [PLAN-SCRAPEO.md](PLAN-SCRAPEO.md) is the plan to solve
+it at full scale. Full findings: [PILOT-FINDINGS.md](PILOT-FINDINGS.md).
 
-A node may only be drawn to the depth its source actually supports. Below that, it seals.
+## The plan to full coverage
 
-| Level | Sourced | The node may render |
+1. **Inventory.** One adapter per faculty finds the URL of every plan and every
+   programa PDF. The output is a manifest — the real coverage map of the
+   university, before any spend.
+2. **Download.** A batch runner pulls every PDF and extracts its text, with a
+   resumable ledger. Deterministic, zero tokens.
+3. **Summarize.** One agent per extracted program writes the module node: a
+   short summary, the topic list, and the bibliography — from the source text
+   only. A module with no extracted program stays sealed.
+4. **Publish.** A build step renders all nodes into a static site: one page per
+   module, the graph as the index, hosted on GitHub Pages. No server.
+
+Phases run per faculty, so the site fills in visibly: sealed frontier →
+grounded interior.
+
+## How it works today
+
+- **`serve.js`** — local server on `:4137`. It serves the graph and the node cache (`nodes/*.json`, addressed as `uba.cbc.biosalud.biologia-celular`).
+- **`queue.json`** — a queue of self-describing jobs, not clicks. Each job states what to source and how. Navigation is free. Only a deliberate *Index* or *Create* action queues work.
+- **`watch-queue.js`** — an idle watcher. It sleeps until the queue changes, then hands the jobs to the agent. No polling.
+- **`extract/`** — the stale-PDF → text pipeline: `pdftotext`, OCR fallback, Drive-link resolution. It rejects login pages instead of pretending. See [extract/README.md](extract/README.md).
+- **`.claude/skills/casa-grounding/`** — the grounding method packaged as an agent skill, so fail-hard is a contract, not a choice.
+
+A node renders only to the depth its source supports:
+
+| Level | Sourced | The node renders |
 |---|---|---|
-| **L0 · name** | exists in an index | a sealed leaf: name only |
-| **L1 · plan** | plan de estudios: year + correlatividades | the career as structure |
-| **L2 · skeleton** | semester + topics + book references, from programa PDFs (stale is fine — a class is time-invariant) | the course as what-it-is: topic map + reading list |
-| **L3 · contents** | the actual texts behind the references | the book as its own map |
-
-### The machinery (no frameworks, event-driven)
-
-- **`serve.js`** — local server (`:4137`): serves the shell (`/`) and the graph (`/graph`),
-  the node cache (`nodes/*.json`, addressable as `uba.cbc.biosalud.biologia-celular`),
-  and accepts jobs onto the queue.
-- **`queue.json`** — a queue of **self-describing jobs**, not clicks:
-  `{ type, address, description, groundingTarget }`, where `description` states what to
-  source and how ("extract L2 for materia Y from its programa PDF — fail-hard, never
-  invent"). A job carries its own research brief.
-- **`watch-queue.js`** — an **idle watcher**: `fs.watchFile` sleeps until the queue
-  changes, then hands pending jobs to the agent and returns to idle. No busy polling.
-  The agent runs the grounding skill per job, writes nodes, marks them done.
-- **Node state machine**: `to index → research → to create → generate → created`.
-  You can't create the un-indexed; you can't index the un-sourced (it seals as
-  `NOT INDEXED`). Clicking the graph is always free navigation; only the deliberate
-  *Index* / *Create* actions enqueue work — wandering never triggers LLM spend.
-- **`extract/`** — the stale-PDF → text pipeline (`pdftotext -layout`, OCR fallback via
-  tesseract, HTTP-tolerant fetcher, Google-Drive link resolution, rejects login pages
-  instead of pretending). This is what turns cited-but-unreadable programa PDFs into
-  L2 ground truth. See [extract/README.md](extract/README.md).
-- **`.claude/skills/casa-grounding/`** — the grounding methodology packaged as an agent
-  skill, so fail-hard is enforced by contract, not by discretion.
-
-### The laws (never bent)
-
-1. **Grounded or it doesn't exist.** Better a sealed leaf than a beautiful lie.
-2. **Link only to the indexed structure.** Un-sourced targets render as `NOT INDEXED`.
-3. **The word matches the ground.** Anything a node says is recoverable from its cited source.
-4. **Nodes are experience, not commentary.** No meta inside the piece.
+| **L0** | a name in an index | a sealed leaf |
+| **L1** | the plan de estudios | the career as structure |
+| **L2** | the programa PDF: semester, topics, book references | the course as what it is |
+| **L3** | the texts behind the references | the book as its own map |
 
 ## Run it
 
 ```bash
-node serve.js &          # navigator + graph on http://localhost:4137 (/ and /graph)
-node watch-queue.js &    # idle watcher — wakes the agent when a job is queued
-node extract/fetch-extract.js "<pdf-url>" <name>   # stale PDF → text (L2 source)
+node serve.js &          # graph on http://localhost:4137/graph
+node watch-queue.js &    # idle watcher — wakes the agent on a queued job
+node extract/fetch-extract.js "<pdf-url>" <name>   # stale PDF → text
 ```
-
-Ground truth lives in `sources/uba.json` (the 13 faculties and their real careers, from
-official UBA sources); generated nodes in `nodes/*.json` (446 nodes at time of writing —
-deep pilots through a few branches: CBC, Exactas, Derecho, Filosofía y Letras, Medicina —
-not the whole university, and the project says so; that's law #2).
 
 ## Docs
 
 - [CONCEPT.md](CONCEPT.md) — the laws, the node contract, the grounding ladder
-- [PROJECT.md](PROJECT.md) — full scope, all layers (navigator → art layer → installation)
+- [PROJECT.md](PROJECT.md) — the full scope: navigator, art layer, installation
 - [PILOT-FINDINGS.md](PILOT-FINDINGS.md) — the 11-agent pilot, measured
-- [RESEARCHING-PROGRAMS.md](RESEARCHING-PROGRAMS.md) — the grounding methodology (spec of the skill)
-- [ROADMAP.md](ROADMAP.md) — what's next (faculty-wide scraping fan-out, per-module micro-videos)
+- [PLAN-SCRAPEO.md](PLAN-SCRAPEO.md) — the path to full coverage and the static site
+- [ROADMAP.md](ROADMAP.md) — further out: per-module micro-videos, the art layer
 
 ## License
 
-[MIT](LICENSE). The grounded nodes summarize publicly available UBA academic documents
-(planes de estudio, programas de cátedra) and cite their sources; raw extracted PDF text
-is kept out of the repo.
+[MIT](LICENSE). The nodes summarize public UBA academic documents and cite
+their sources. Raw extracted PDF text stays out of the repo.
