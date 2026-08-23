@@ -1,0 +1,139 @@
+{
+  "address": "uba.fcen",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 12
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    }
+  ],
+  "eyebrow": "Facultad de Ciencias Exactas y Naturales",
+  "title": "Doce puertas, ninguna manda.",
+  "lede": "Una facultad sin sala central: doce licenciaturas del mismo rango, una por ciencia — de la matemática pura al fondo del océano. Cada puerta se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "12"
+    },
+    {
+      "k": "Compartidas",
+      "v": "2",
+      "small": "con otras facultades"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "1",
+      "small": "/ 12"
+    }
+  ],
+  "frame": "Exactas no tiene una carrera-edificio: reparte su masa en doce ciencias pares, casi todas de ~5 años y con salida de licenciatura. Dos son compartidas — Ciencia y Tecnología de Alimentos con Farmacia y Bioquímica, y Biotecnología entre cuatro facultades. Varias suman un profesorado sobre la misma base. Una sola sala está trazada por dentro: Ciencias de la Computación.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 12",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.fcen.biologia",
+          "name": "Ciencias Biológicas",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.computacion",
+          "name": "Ciencias de la Computación",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.datos",
+          "name": "Ciencias de Datos",
+          "role": "licenciatura",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.fisica",
+          "name": "Ciencias Físicas",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.matematica",
+          "name": "Ciencias Matemáticas",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.quimica",
+          "name": "Ciencias Químicas",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.geologia",
+          "name": "Ciencias Geológicas",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.atmosfera",
+          "name": "Ciencias de la Atmósfera",
+          "role": "licenciatura · con profesorado",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.oceanografia",
+          "name": "Oceanografía",
+          "role": "licenciatura",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.paleontologia",
+          "name": "Paleontología",
+          "role": "licenciatura",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.alimentos",
+          "name": "Ciencia y Tecnología de Alimentos",
+          "role": "licenciatura · compartida con FFyB",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.fcen.biotecnologia",
+          "name": "Biotecnología",
+          "role": "licenciatura · compartida entre 4 facultades",
+          "tag": "~5 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "exactas.uba.ar/ensenanza",
+    "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/"
+  }
+}

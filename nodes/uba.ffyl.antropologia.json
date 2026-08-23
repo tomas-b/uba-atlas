@@ -1,0 +1,501 @@
+{
+  "address": "uba.ffyl.antropologia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2023",
+    "vigencia": "rige desde 2024 (reemplaza al plan 1985, Res. CS 79/85)",
+    "resoluciones": {
+      "licenciatura": "RESCS-2023-1297-UBA-REC",
+      "profesorado": "RESCS-2023-1298-UBA-REC"
+    },
+    "titulos": [
+      "Licenciado/a en Ciencias Antropológicas (con orientación en Antropología Sociocultural o Arqueología)",
+      "Profesor/a de Enseñanza Secundaria y Superior en Ciencias Antropológicas"
+    ],
+    "duracionTeorica": "6 años (Licenciatura)",
+    "cargaHorariaTotal": "3200 horas (Licenciatura)",
+    "ciclos": [
+      "Ciclo Básico Común (CBC) — vive aparte, en uba.cbc",
+      "Ciclo de Formación General (CFG) — 9 materias, tronco común",
+      "Ciclo de Formación Orientada (CFO) — Antropología Sociocultural o Arqueología",
+      "Ciclo de Formación Específica (CFE) — solo Profesorado, tramo pedagógico"
+    ],
+    "orientaciones": ["Antropología Sociocultural", "Arqueología"],
+    "materias": 54,
+    "correlativas": "CBC aprobado para el CFG; 5 materias del CFG para entrar al CFO; cadenas propias en Arqueología",
+    "idiomas": "3 niveles de un idioma anglosajón + 3 de un idioma latino (uno acreditable como lengua originaria)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.antropologia",
+      "label": "Ciencias Antropológicas"
+    }
+  ],
+  "eyebrow": "Ciencias Antropológicas · Lic. + Prof. · Plan 2023",
+  "title": "Un tronco común que se bifurca: sociocultural o arqueología.",
+  "lede": "El plan 2023 (vigente desde 2024, sucesor del histórico plan 1985): un Ciclo de Formación General de nueve materias compartidas, y luego la elección — Antropología Sociocultural o Arqueología — con su propio tramo metodológico, seminario de investigación anual y 160 horas de tesis. El Profesorado comparte el tronco y suma el tramo pedagógico: didácticas, ESI y prácticas de la enseñanza. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "54",
+      "small": "nombradas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 54"
+    }
+  ],
+  "frame": "Estructura sourceada de las resoluciones oficiales del Consejo Superior: RESCS-2023-1297-UBA-REC (Licenciatura) y RESCS-2023-1298-UBA-REC (Profesorado), publicadas en academica.filo.uba.ar. Nivel L1: ciclos, orientaciones, nombres, carácter y régimen son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 9 materias",
+      "title": "El tronco común de las dos orientaciones",
+      "note": "Obligatorias para Licenciatura y Profesorado. Correlatividad: CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.epistemologia",
+          "name": "Epistemología de las Ciencias Sociales",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.historia-teoria-1",
+          "name": "Historia y Teoría de la Antropología I",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.historia-teoria-2",
+          "name": "Historia y Teoría de la Antropología II",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.problemas-social-politica",
+          "name": "Problemas de Antropología Social y Política",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.problemas-economica",
+          "name": "Problemas de Antropología Económica",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.problemas-simbolica",
+          "name": "Problemas de Antropología Simbólica",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologia-biologica",
+          "name": "Antropología Biológica",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.intro-arqueologia",
+          "name": "Introducción a la Arqueología",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-legislacion-comunidad",
+          "name": "Arqueología, Legislación y Comunidad",
+          "role": "obligatoria · 96 hs",
+          "tag": "cfg",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Antropología Sociocultural · CFO",
+      "title": "Etnografía, teoría social y el camino a la tesis",
+      "note": "Además: 2 electivas de área (grupo siguiente), 1 electiva libre, seminarios optativos de orientación y PST, y 160 horas de tesis. Entre las dos electivas nombradas se elige una.",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.sociedades-america-prehispanica",
+          "name": "Sociedades, Culturas y Estados en América Prehispánica y Colonial",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.pueblos-indigenas-americanos",
+          "name": "Pueblos Indígenas Americanos",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.procesos-culturales-folklore",
+          "name": "Procesos Culturales, Folklore y Prácticas Subalternas",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologia-linguistica",
+          "name": "Antropología Lingüística",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.teoria-social",
+          "name": "Teoría Social",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.teorias-subjetividad",
+          "name": "Teorías de la Subjetividad",
+          "role": "obligatoria · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.metodologia-investigacion",
+          "name": "Metodología e Investigación Antropológica",
+          "role": "obligatoria · anual · 192 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.enfoque-cuantitativo",
+          "name": "Enfoque Cuantitativo de Investigación en Antropología Sociocultural",
+          "role": "electiva · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.ejercicio-profesional-sociocultural",
+          "name": "Ejercicio Profesional de la Antropología Sociocultural",
+          "role": "electiva · 96 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.seminario-investigacion-sociocultural",
+          "name": "Seminario de Investigación en Antropología Sociocultural",
+          "role": "obligatoria · anual · 128 hs",
+          "tag": "sociocultural",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas de área · Orientación Sociocultural",
+      "title": "Cuatro áreas temáticas, catorce materias",
+      "note": "Se cursan 2 de la misma área (o un trayecto especial autorizado). En el Profesorado, América en Contexto y Antropología y Educación son obligatorias del CFG.",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.conquistas-resistencias-memorias",
+          "name": "Conquistas, Resistencias y Memorias Indígenas",
+          "role": "área Antropología histórica y memoria",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.pueblos-indigenas-estados",
+          "name": "Pueblos Indígenas y Estados",
+          "role": "área Antropología histórica y memoria",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologias-latinoamericanas",
+          "name": "Antropologías Latinoamericanas",
+          "role": "área Antropología histórica y memoria",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.america-en-contexto",
+          "name": "América en Contexto",
+          "role": "área Antropología histórica y memoria",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.capitalismo-trabajo",
+          "name": "Capitalismo Actual, Trabajo y Trabajadores",
+          "role": "área Procesos socioeconómicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.configuraciones-socioambientales",
+          "name": "Configuraciones Socioambientales y Territoriales en el Espacio Urbano y Rural",
+          "role": "área Procesos socioeconómicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.genero-cuidados",
+          "name": "Relaciones de Género y Organización Social de los Cuidados",
+          "role": "área Procesos socioeconómicos",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologia-estado-politicas",
+          "name": "Antropología del Estado y las Políticas Públicas",
+          "role": "área Procesos políticos, instituciones y prácticas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.sujetos-sociales-politicos",
+          "name": "Sujetos Sociales y Políticos en Perspectiva Antropológica",
+          "role": "área Procesos políticos, instituciones y prácticas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.salud-biociencias",
+          "name": "Abordajes Antropológicos de la Salud y las Biociencias",
+          "role": "área Procesos políticos, instituciones y prácticas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologia-educacion",
+          "name": "Antropología y Educación",
+          "role": "área Procesos políticos, instituciones y prácticas",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.dinamicas-campo-cultura",
+          "name": "Dinámicas Contemporáneas del Campo de la Cultura",
+          "role": "área Procesos culturales, ideología y poder",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.discurso-imagen-alteridad",
+          "name": "Discurso, Imagen y Alteridad",
+          "role": "área Procesos culturales, ideología y poder",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.religiones-mitos-rituales",
+          "name": "Religiones, Mitos y Rituales en la Modernidad",
+          "role": "área Procesos culturales, ideología y poder",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación Arqueología · CFO",
+      "title": "Del registro material al trabajo de campo y laboratorio",
+      "note": "Además: 2 electivas de la orientación (grupo siguiente), seminarios optativos de orientación y PST, y 160 horas de tesis.",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-africa-eurasia-oceania",
+          "name": "Arqueología de África, Eurasia y Oceanía",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-americana-1",
+          "name": "Arqueología Americana y Argentina I",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-americana-2",
+          "name": "Arqueología Americana y Argentina II",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-argentina",
+          "name": "Arqueología Argentina",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.materiales-arqueologicos",
+          "name": "Materiales Arqueológicos y sus Tecnologías",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.geologia-arqueologos",
+          "name": "Geología para Arqueólogos",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.teorias-arqueologicas",
+          "name": "Teorías Arqueológicas Contemporáneas",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.modelos-metodos-analisis",
+          "name": "Modelos y Métodos de Análisis en Arqueología",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.metodologia-tecnicas-arqueologica",
+          "name": "Metodología y Técnicas de la Investigación Arqueológica",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.metodos-cuantitativos-arqueologia",
+          "name": "Métodos Cuantitativos en Arqueología",
+          "role": "obligatoria · 96 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.seminario-investigacion-arqueologia",
+          "name": "Seminario de Investigación en Arqueología, Trabajo de Campo y Laboratorio",
+          "role": "obligatoria · anual · 128 hs",
+          "tag": "arqueología",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Electivas · Orientación Arqueología",
+      "title": "Cuatro electivas de la orientación",
+      "note": "Se cursan 2 de las 4.",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.ejercicio-profesional-arqueologia",
+          "name": "Ejercicio Profesional de la Arqueología",
+          "role": "electiva · 96 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.materiales-biologicos",
+          "name": "Materiales Biológicos en Arqueología",
+          "role": "electiva · 96 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.arqueologia-tiempos-modernos",
+          "name": "Arqueología de Tiempos Modernos",
+          "role": "electiva · 96 hs",
+          "tag": "electiva",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.estudios-interdisciplinarios",
+          "name": "Estudios Interdisciplinarios en Arqueología",
+          "role": "electiva · 96 hs",
+          "tag": "electiva",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Profesorado · tramo específico",
+      "title": "Del aula antropológica a la práctica de la enseñanza",
+      "note": "El Profesorado comparte el CFG y toma 5 materias de las orientaciones; suma estas propias del plan y 2 electivas del Departamento de Ciencias de la Educación (que viven en su propia carrera).",
+      "exits": [
+        {
+          "address": "uba.ffyl.antropologia.metodologia-investigacion-educacion",
+          "name": "Metodología de la Investigación Antropológica en Educación",
+          "role": "obligatoria · 96 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.antropologia-conocimiento",
+          "name": "Antropología y Conocimiento",
+          "role": "obligatoria · 96 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.seminario-esi",
+          "name": "Seminario de Educación Sexual Integral",
+          "role": "obligatoria · 64 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.didactica-general",
+          "name": "Didáctica General",
+          "role": "obligatoria · anual · 192 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.didactica-especial",
+          "name": "Didáctica Especial y Prácticas de la Enseñanza",
+          "role": "obligatoria · anual · 224 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.antropologia.experiencias-socioeducativas",
+          "name": "Experiencias Socioeducativas Situadas",
+          "role": "obligatoria · 96 hs",
+          "tag": "profesorado",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "academica.filo.uba.ar · RESCS-2023-1297-UBA-REC (Lic.) · RESCS-2023-1298-UBA-REC (Prof.)",
+    "url": "https://academica.filo.uba.ar/plan-de-estudios-ciencias-antropologicas"
+  }
+}

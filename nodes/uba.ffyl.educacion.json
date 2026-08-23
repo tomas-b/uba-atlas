@@ -1,0 +1,586 @@
+{
+  "address": "uba.ffyl.educacion",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2016",
+    "planModificaciones": "2024",
+    "resoluciones": {
+      "licenciatura": "Res. (CS) 6198/16 · modif. ACS-2024-304-UBA-SG#REC",
+      "profesorado": "modif. ACS-2024-303-UBA-SG#REC",
+      "validezNacional": "RES 2879-17"
+    },
+    "titulos": [
+      "Licenciado/a en Ciencias de la Educación",
+      "Profesor/a de Enseñanza Secundaria y Superior en Ciencias de la Educación"
+    ],
+    "ciclos": {
+      "licenciatura": ["Ciclo Básico Común", "Ciclo de Formación General (18)", "Ciclo de Formación Orientada (11)"],
+      "profesorado": ["Ciclo Básico Común", "Ciclo de Formación General (18)", "Ciclo de Formación Específica (9)"]
+    },
+    "orientacionesCFO": 7,
+    "materias": 60,
+    "materiasCFG": 18,
+    "idiomas": "2 idiomas extranjeros modernos (uno latino, uno sajón)",
+    "correlativas": "CFG con correlatividades; para iniciar el CFO: Didáctica I, Psicología Educacional, Investigación Educacional I, Proyecto I, Educación y Experiencias Sociocomunitarias y Política Educacional regularizadas"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.educacion",
+      "label": "Ciencias de la Educación"
+    }
+  ],
+  "eyebrow": "Licenciatura y Profesorado en Ciencias de la Educación · Plan 2016",
+  "title": "Un tronco común de 18 materias y siete orientaciones para ramificar.",
+  "lede": "El plan 2016 (con modificaciones 2024) del Departamento de Ciencias de la Educación de Filo: un Ciclo de Formación General de 18 materias con correlatividades, y después un Ciclo de Formación Orientada donde cada estudiante arma un recorrido de 11 materias dentro de una de siete áreas — de lo socio-histórico a la psicopedagogía. El Profesorado comparte el tronco y lo cierra con talleres de asesoramiento y una residencia anual. Cada materia es una puerta. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2016",
+      "small": "modif. 2024"
+    },
+    {
+      "k": "Materias",
+      "v": "60",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 60"
+    }
+  ],
+  "frame": "Estructura sourceada de las resoluciones oficiales del plan 2016 con modificaciones 2024 (educacion.filo.uba.ar/plan-de-estudios-2016). Nivel L1: los nombres de las materias, sus ciclos, áreas de orientación y correlatividades son reales; el plan no fija años ni cuatrimestres. Los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · tramo 1",
+      "title": "Cuatro puertas de entrada",
+      "note": "Se cursan con el CBC aprobado. Todo lo demás del CFG cuelga de estas cuatro.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.pedagogia",
+          "name": "Pedagogía",
+          "role": "corr. CBC",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.historia-social-general-educacion",
+          "name": "Historia Social General de la Educación",
+          "role": "corr. CBC",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.sociologia-educacion",
+          "name": "Sociología de la Educación",
+          "role": "corr. CBC",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.teorias-psicologicas-subjetividad",
+          "name": "Teorías Psicológicas de la Subjetividad",
+          "role": "corr. CBC",
+          "tag": "CFG",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · tramo 2",
+      "title": "Lo que abre Pedagogía",
+      "note": "Requieren Pedagogía regularizada para cursar y aprobada para rendir.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.problemas-pedagogicos-contemporaneos",
+          "name": "Problemas Pedagógicos Contemporáneos",
+          "role": "corr. Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-experiencias-sociocomunitarias",
+          "name": "Educación y Experiencias Sociocomunitarias",
+          "role": "corr. Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.filosofia-educacion",
+          "name": "Filosofía de la Educación",
+          "role": "corr. Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-discapacidades",
+          "name": "Educación y Discapacidades",
+          "role": "corr. Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.didactica-1",
+          "name": "Didáctica I",
+          "role": "corr. Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · tramo 3",
+      "title": "Didáctica, psicología, historia, política e investigación",
+      "note": "Cada una cuelga de una materia anterior del CFG. Proyecto I cierra el ciclo.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.didactica-2",
+          "name": "Didáctica II",
+          "role": "corr. Didáctica I",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-tecnologias",
+          "name": "Educación y Tecnologías",
+          "role": "corr. Didáctica I",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.psicologia-educacional",
+          "name": "Psicología Educacional",
+          "role": "corr. Teorías Psicológicas de la Subjetividad",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.historia-educacion-argentina",
+          "name": "Historia de la Educación Argentina",
+          "role": "corr. Historia Social General de la Educación",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.politica-educacional",
+          "name": "Política Educacional",
+          "role": "corr. Historia de la Educación Argentina",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.administracion-educacion",
+          "name": "Administración de la Educación",
+          "role": "corr. Historia de la Educación Argentina",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.investigacion-educacional-1",
+          "name": "Investigación Educacional I",
+          "role": "corr. Teorías Psicológicas + Sociología de la Educación",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.investigacion-educacional-2",
+          "name": "Investigación Educacional II",
+          "role": "corr. Investigación Educacional I",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.proyecto-1",
+          "name": "Proyecto I",
+          "role": "corr. Inv. Educacional I + Hist. Social General + Pedagogía",
+          "tag": "CFG",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Orientada · común",
+      "title": "Los dos proyectos de toda orientación",
+      "note": "Cada recorrido del CFO (11 materias) suma 4 obligatorias del área, Proyecto II, Proyecto III, 2 electivas de otro CFO, un seminario PST, un seminario o materia de otro CFO y una materia de otra carrera de la UBA. Para entrar al CFO: Didáctica I, Psicología Educacional, Investigación Educacional I, Proyecto I, Educación y Experiencias Sociocomunitarias y Política Educacional regularizadas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.proyecto-2",
+          "name": "Proyecto II (Investigación)",
+          "role": "obligatoria de todo CFO",
+          "tag": "CFO",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.proyecto-3",
+          "name": "Proyecto III (Práctica Profesional o Intervención)",
+          "role": "obligatoria de todo CFO",
+          "tag": "CFO",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · A. Área socio-histórico-cultural",
+      "title": "Educación en la historia y en América Latina",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.historia-educacion-latinoamericana",
+          "name": "Historia de la Educación Latinoamericana",
+          "role": "obligatoria del área",
+          "tag": "CFO A",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.teorias-sociologicas-educacion",
+          "name": "Teorías Sociológicas y Educación",
+          "role": "obligatoria del área",
+          "tag": "CFO A",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problemas-sociales-culturales-educacion-america-latina",
+          "name": "Problemas Sociales y Culturales de la Educación en América Latina",
+          "role": "obligatoria del área",
+          "tag": "CFO A",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.investigacion-socio-historica-cultural-educacion",
+          "name": "Investigación Socio Histórica Cultural en Educación",
+          "role": "obligatoria del área",
+          "tag": "CFO A",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · B. Área de Pedagogía",
+      "title": "Corrientes, praxis e investigación pedagógica",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.educacion-popular",
+          "name": "Educación Popular",
+          "role": "obligatoria del área",
+          "tag": "CFO B",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problemas-corrientes-pedagogicas-contemporaneas",
+          "name": "Problemas y Corrientes Pedagógicas Contemporáneas",
+          "role": "obligatoria del área",
+          "tag": "CFO B",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.pedagogias-criticas-praxis-america-latina",
+          "name": "Pedagogías Críticas y Experiencias de la Praxis en América Latina",
+          "role": "obligatoria del área",
+          "tag": "CFO B",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.investigacion-pedagogia",
+          "name": "Investigación en Pedagogía: Problemas Epistemológicos y Metodológicos",
+          "role": "obligatoria del área",
+          "tag": "CFO B",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · C. Área de Política y Administración",
+      "title": "Políticas, planeamiento y economía de la educación",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.politicas-educativas-contemporaneas",
+          "name": "Políticas Educativas Contemporáneas",
+          "role": "obligatoria del área",
+          "tag": "CFO C",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.planeamiento-evaluacion-educacion",
+          "name": "Planeamiento y Evaluación de la Educación",
+          "role": "obligatoria del área",
+          "tag": "CFO C",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.economia-politica-educacion",
+          "name": "Economía Política de la Educación",
+          "role": "obligatoria del área",
+          "tag": "CFO C",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-comparada",
+          "name": "Educación Comparada",
+          "role": "obligatoria del área",
+          "tag": "CFO C",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · D. Área de Educación, Tecnologías y Comunicación",
+      "title": "Lo virtual, lo mediático y el conocimiento",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.educacion-distancia-virtual",
+          "name": "Educación a Distancia y Virtual",
+          "role": "obligatoria del área",
+          "tag": "CFO D",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.diseno-gestion-evaluacion-proyectos-tic",
+          "name": "Diseño, Gestión y Evaluación de Proyectos Educativos con TIC",
+          "role": "obligatoria del área",
+          "tag": "CFO D",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.comunicacion-educacion",
+          "name": "Comunicación y Educación",
+          "role": "obligatoria del área",
+          "tag": "CFO D",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.tecnologia-cultura-conocimiento",
+          "name": "Tecnología, Cultura y Conocimiento",
+          "role": "obligatoria del área",
+          "tag": "CFO D",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · E. Área de Didáctica",
+      "title": "Currículum y didácticas por nivel",
+      "note": "Dos obligatorias y dos problemáticas de nivel a elegir entre cuatro.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.diseno-curricular",
+          "name": "Diseño Curricular",
+          "role": "obligatoria del área",
+          "tag": "CFO E",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.didacticas-especificas",
+          "name": "Didácticas Específicas",
+          "role": "obligatoria del área · también CFE Profesorado",
+          "tag": "CFO E",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-nivel-inicial",
+          "name": "Problemáticas Pedagógicas y Didácticas de Nivel Inicial",
+          "role": "electiva del área",
+          "tag": "CFO E",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-nivel-primario",
+          "name": "Problemáticas Pedagógicas y Didácticas de Nivel Primario",
+          "role": "electiva del área",
+          "tag": "CFO E",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-nivel-secundario",
+          "name": "Problemáticas Pedagógicas y Didácticas de Nivel Secundario",
+          "role": "electiva del área · también CFE Profesorado",
+          "tag": "CFO E",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-nivel-superior",
+          "name": "Problemáticas Pedagógicas y Didácticas de Nivel Superior",
+          "role": "electiva del área · también CFE Profesorado",
+          "tag": "CFO E",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · F. Área Psicopedagogía, Psicología y Aprendizaje",
+      "title": "Dos suborientaciones: Psicología y Psicopedagogía",
+      "note": "Psicología del Desarrollo es obligatoria para ambas; Análisis Institucional o Psicopedagogía Institucional, una a elegir. Después, tres obligatorias según la suborientación.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.psicologia-desarrollo",
+          "name": "Psicología del Desarrollo",
+          "role": "obligatoria del área",
+          "tag": "CFO F",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.analisis-institucional-escuela",
+          "name": "Análisis Institucional de la Escuela",
+          "role": "electiva del área",
+          "tag": "CFO F",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.psicopedagogia-institucional",
+          "name": "Psicopedagogía Institucional",
+          "role": "electiva del área",
+          "tag": "CFO F",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.psicologia-genetica-aprendizajes-escolares",
+          "name": "Psicología Genética, Construcción de Conocimientos y Aprendizajes Escolares",
+          "role": "obligatoria · subor. Psicología",
+          "tag": "CFO F.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.teoria-socio-historica-aprendizaje-educacion",
+          "name": "Teoría Socio-Histórica, Aprendizaje y Educación",
+          "role": "obligatoria · subor. Psicología",
+          "tag": "CFO F.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.psicoanalisis-educacion",
+          "name": "Psicoanálisis y Educación",
+          "role": "obligatoria · subor. Psicología",
+          "tag": "CFO F.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.teoria-tecnica-diagnostico-psicopedagogico",
+          "name": "Teoría y Técnica del Diagnóstico Psicopedagógico",
+          "role": "obligatoria · subor. Psicopedagogía",
+          "tag": "CFO F.2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.teoria-tecnica-asistencia-psicopedagogica",
+          "name": "Teoría y Técnica de la Asistencia Psicopedagógica",
+          "role": "obligatoria · subor. Psicopedagogía",
+          "tag": "CFO F.2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.neuropsicologia-aprendizaje",
+          "name": "Neuropsicología del Aprendizaje",
+          "role": "obligatoria · subor. Psicopedagogía",
+          "tag": "CFO F.2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "CFO · G. Área Formación Docente, Educación y Trabajo",
+      "title": "Dos suborientaciones: Trabajo y Formación Docente",
+      "note": "Escenarios Contemporáneos es común a ambas. Trabajo suma tres obligatorias; Formación Docente suma Problemáticas de la Formación Docente I y II y electivas de otras áreas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.escenarios-contemporaneos-formacion-docente-trabajo",
+          "name": "Escenarios Contemporáneos en los Procesos de Formación Docente y Formación para el Trabajo",
+          "role": "obligatoria del área",
+          "tag": "CFO G",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-trabajo",
+          "name": "Educación y Trabajo",
+          "role": "obligatoria · subor. Trabajo",
+          "tag": "CFO G.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.educacion-jovenes-adultos",
+          "name": "Educación de Jóvenes y Adultos",
+          "role": "obligatoria · subor. Trabajo",
+          "tag": "CFO G.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.ambitos-practicas-formacion-mundo-trabajo",
+          "name": "Ámbitos y Prácticas de la Formación para el Mundo del Trabajo",
+          "role": "obligatoria · subor. Trabajo",
+          "tag": "CFO G.1",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-formacion-docente-1",
+          "name": "Problemáticas de la Formación Docente I",
+          "role": "obligatoria · subor. Formación Docente · también CFE Profesorado",
+          "tag": "CFO G.2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.problematicas-formacion-docente-2",
+          "name": "Problemáticas de la Formación Docente II",
+          "role": "obligatoria · subor. Formación Docente · también CFE Profesorado",
+          "tag": "CFO G.2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Profesorado · Ciclo de Formación Específica",
+      "title": "Asesorar y residir",
+      "note": "El CFE tiene 9 asignaturas: Problemáticas de la Formación Docente I o II, Didácticas Específicas, Problemáticas de Nivel Secundario o Superior, un Taller de Asesoramiento del otro nivel, un seminario PST, tres electivas de cualquier CFO y la Residencia. Las que ya son materias del CFO figuran arriba; acá van las propias del Profesorado.",
+      "exits": [
+        {
+          "address": "uba.ffyl.educacion.taller-asesoramiento-nivel-secundario",
+          "name": "Taller de Asesoramiento Pedagógico para Nivel Secundario",
+          "role": "electiva · uno de los dos talleres",
+          "tag": "CFE",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.taller-asesoramiento-nivel-superior",
+          "name": "Taller de Asesoramiento Pedagógico para Nivel Superior",
+          "role": "electiva · uno de los dos talleres",
+          "tag": "CFE",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.educacion.residencia",
+          "name": "Residencia",
+          "role": "anual · 224 hs · corr. Problemáticas de nivel + Taller",
+          "tag": "CFE",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "educacion.filo.uba.ar/plan-de-estudios-2016 · Resoluciones Plan 2016 Licenciatura y Profesorado con modificaciones 2024",
+    "url": "https://educacion.filo.uba.ar/plan-de-estudios-2016"
+  }
+}

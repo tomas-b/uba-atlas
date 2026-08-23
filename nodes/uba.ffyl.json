@@ -30,7 +30,7 @@
     },
     {
       "k": "Trazadas",
-      "v": "1",
+      "v": "9",
       "small": "/ 9"
     }
   ],
@@ -93,7 +93,7 @@
         {
           "address": "uba.ffyl.edicion",
           "name": "Edición",
-          "role": "Licenciatura",
+          "role": "título Editor · ~3 años",
           "tag": "",
           "kind": "career"
         },

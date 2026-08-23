@@ -1,0 +1,111 @@
+{
+  "address": "uba.med",
+  "level": "facultad",
+  "kind": "faculty",
+  "metadata": {
+    "careers": 8
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    }
+  ],
+  "eyebrow": "Facultad de Medicina",
+  "title": "Un quirófano central, siete salas de guardia.",
+  "lede": "La facultad más masiva del área salud: una carrera inmensa — Medicina, seis años de anfiteatros y hospitales — rodeada por siete licenciaturas que sostienen el resto del sistema sanitario. Cada sala se abre a su plan como estructura, no como temario.",
+  "meta": [
+    {
+      "k": "Carreras de grado",
+      "v": "8"
+    },
+    {
+      "k": "La central",
+      "v": "Medicina",
+      "small": "~6 años"
+    },
+    {
+      "k": "Nivel",
+      "v": "facultad"
+    },
+    {
+      "k": "Trazadas",
+      "v": "1",
+      "small": "/ 8"
+    }
+  ],
+  "frame": "Medicina concentra la masa: ciclo biomédico, ciclo clínico e internado anual rotatorio, con el hospital como aula final. Alrededor, las licenciaturas — del movimiento (Kinesiología) a la voz (Fonoaudiología), de la alimentación (Nutrición) al cuidado (Enfermería), del parto (Obstetricia) al pie (Podología) y a la imagen diagnóstica (Bioimágenes) — reparten el cuerpo humano en oficios de cuatro a cinco años, cada uno con salida propia.",
+  "groups": [
+    {
+      "kind": "plain",
+      "eyebrow": "Carreras · 8",
+      "title": "",
+      "exits": [
+        {
+          "address": "uba.med.medicina",
+          "name": "Medicina",
+          "role": "ciclo biomédico → ciclo clínico → internado rotatorio",
+          "tag": "~6 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.kinesiologia",
+          "name": "Kinesiología y Fisiatría",
+          "role": "licenciatura · movimiento y rehabilitación",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.fonoaudiologia",
+          "name": "Fonoaudiología",
+          "role": "licenciatura · voz, habla y audición",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.nutricion",
+          "name": "Nutrición",
+          "role": "licenciatura · alimentación clínica y comunitaria",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.enfermeria",
+          "name": "Enfermería",
+          "role": "licenciatura · cuidado y gestión del paciente",
+          "tag": "~5 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.obstetricia",
+          "name": "Obstetricia",
+          "role": "licenciatura · embarazo, parto y puerperio",
+          "tag": "~4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.podologia",
+          "name": "Podología",
+          "role": "licenciatura · patología y cuidado del pie",
+          "tag": "~4 años",
+          "kind": "career"
+        },
+        {
+          "address": "uba.med.bioimagenes",
+          "name": "Producción de Bioimágenes",
+          "role": "licenciatura · imagen diagnóstica y radiología",
+          "tag": "~4 años",
+          "kind": "career"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar/carreras-y-tecnicaturas",
+    "url": "https://www.fmed.uba.ar/carreras-y-tecnicaturas/carreras-de-grado"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "address": "uba.der.traductor",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2008 · texto ordenado Res. (CS) Nº 4961/12",
+    "titulo": "Traductor Público en Idioma… (el idioma en que se especializó el estudiante)",
+    "duracion": "≈ 5 años y medio (sin CBC)",
+    "idiomas": ["alemán", "francés", "inglés", "italiano", "portugués"],
+    "materias": 32,
+    "estructura": "22 asignaturas específicas de Traductorado + 10 asignaturas jurídicas comunes con Abogacía"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.der",
+      "label": "Derecho"
+    },
+    {
+      "address": "uba.der.traductor",
+      "label": "Traductor Público"
+    }
+  ],
+  "eyebrow": "Carrera de Traductor Público · Plan 2008 (t.o. 2012)",
+  "title": "Dos lenguas, un solo derecho.",
+  "lede": "El plan real del Traductorado Público de Derecho: 32 materias en dos columnas — una específica, que teje lengua, fonología, traducción e interpretación en el idioma elegido (alemán, francés, inglés, italiano o portugués), y una jurídica, cursada codo a codo con Abogacía. El título habilita como perito auxiliar de la justicia en ese idioma. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2008",
+      "small": "t.o. 2012"
+    },
+    {
+      "k": "Materias",
+      "v": "32",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 32"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: Resolución (CS) Nº 4961/12 (texto ordenado del Plan 2008, Res. CS Nº 3835/08) y la página de materias de la Facultad de Derecho. Nivel L1: nombres, régimen (anual/cuatrimestral) y cargas horarias son reales, tomados del Anexo I de la resolución; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo en Facultad · específicas",
+      "title": "Lengua, traducción e interpretación",
+      "note": "Las 22 asignaturas propias del Traductorado, cursadas en el idioma elegido: gramática y lingüística, fonología, derecho en lengua extranjera, la escalera Traducción I–IV, interpretación, contabilidad y el régimen legal del oficio.",
+      "exits": [
+        {
+          "address": "uba.der.traductor.lengua-1",
+          "name": "Lengua I: Gramática",
+          "role": "anual · 144 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.traduccion-1",
+          "name": "Traducción I: Historia de la traducción y traducción técnica",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.derecho-1",
+          "name": "Derecho I (en lengua extranjera)",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.fonologia-1",
+          "name": "Fonología de la lengua extranjera I",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.lengua-2",
+          "name": "Lengua II: Lingüística",
+          "role": "anual · 144 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.traduccion-2",
+          "name": "Traducción II: Técnicas de traducción, traducción jurídica básica",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.derecho-2",
+          "name": "Derecho II (en lengua extranjera)",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.fonologia-2",
+          "name": "Fonología de la lengua extranjera II",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.lengua-derecho-1",
+          "name": "Lengua y Derecho I",
+          "role": "anual · 144 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.traduccion-3",
+          "name": "Traducción III: Traducción jurídica",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.interpretacion-1",
+          "name": "Interpretación I",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.lengua-derecho-2",
+          "name": "Lengua y Derecho II",
+          "role": "anual · 144 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.traduccion-4",
+          "name": "Traducción IV: Traducción jurídica y económico empresarial",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.interpretacion-2",
+          "name": "Interpretación II",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.contabilidad-1",
+          "name": "Contabilidad, Economía y Finanzas I (en español)",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.contabilidad-2",
+          "name": "Contabilidad, Economía y Finanzas II (en lengua extranjera)",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.regimen-legal",
+          "name": "Régimen Legal de la Traducción y del Traductor Público",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.lengua-espanola-1",
+          "name": "Lengua española I",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.lengua-espanola-2",
+          "name": "Lengua española II",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.estudios-contrastivos",
+          "name": "Estudios lingüísticos contrastivos",
+          "role": "cuatrimestral · 48 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.traduccion-inversa",
+          "name": "Traducción Inversa",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.taller-interpretacion-consecutiva",
+          "name": "Taller de traducción e interpretación consecutiva",
+          "role": "cuatrimestral · 72 h",
+          "tag": "específica",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo en Facultad · jurídicas",
+      "title": "El derecho argentino, con Abogacía",
+      "note": "Las 10 asignaturas jurídicas del plan, comunes a la carrera de Abogacía: el sistema legal que el traductor tiene que dominar en español antes de verterlo a la otra lengua.",
+      "exits": [
+        {
+          "address": "uba.der.traductor.derecho-civil",
+          "name": "Elementos de Derecho Civil (Parte General)",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.derecho-constitucional",
+          "name": "Elementos de Derecho Constitucional",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.obligaciones",
+          "name": "Obligaciones Civiles y Comerciales",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.derecho-comercial",
+          "name": "Elementos de Derecho Comercial",
+          "role": "cuatrimestral · 72 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.derechos-reales",
+          "name": "Elementos de Derechos Reales",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.contratos",
+          "name": "Contratos Civiles y Comerciales",
+          "role": "anual · 96 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.familia-sucesiones",
+          "name": "Derecho de Familia y Sucesiones",
+          "role": "cuatrimestral · 72 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.sociedades",
+          "name": "Sociedades Civiles y Comerciales",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.procesal-civil",
+          "name": "Elementos de Derecho Procesal Civil y Comercial",
+          "role": "cuatrimestral · 48 h",
+          "tag": "jurídica",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.traductor.penal-procesal-penal",
+          "name": "Elementos de Derecho Penal y de Procesal Penal",
+          "role": "anual · 96 h",
+          "tag": "jurídica",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Res. (CS) Nº 4961/12 · derecho.uba.ar/academica/carreras_grado/traductorado_materias.php",
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/res-4961-12.pdf"
+  }
+}

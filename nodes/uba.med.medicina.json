@@ -1,0 +1,439 @@
+{
+  "address": "uba.med.medicina",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "Res. (CS) 2861/92",
+    "titulo": "Médico/a",
+    "años": 6,
+    "ciclos": ["Ciclo Biomédico", "Ciclo Clínico", "Internado Anual Rotatorio"],
+    "materias": 44,
+    "correlativas": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    }
+  ],
+  "eyebrow": "Carrera de Medicina · Plan (CS) 2861/92",
+  "title": "Tres ciclos: el cuerpo, la clínica, el hospital.",
+  "lede": "El plan oficial de la Facultad de Medicina: un Ciclo Biomédico de dos años y medio que arma el cuerpo sano (Anatomía, Histología, Fisiología, Química Biológica), un Ciclo Clínico que lo reparte en especialidades — Medicina, Cirugía, Tocoginecología, Pediatría — y un Internado Anual Rotatorio que termina en la sala. Cada materia es una puerta. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2861/92",
+      "small": "Res. CS"
+    },
+    {
+      "k": "Materias",
+      "v": "44",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "1",
+      "small": "/ 44"
+    }
+  ],
+  "frame": "Estructura sourceada del PDF oficial del plan (fmed.uba.ar, Res. CS 2861/92): ciclos, años, semestres y correlatividades son reales. Microbiología, Parasitología e Inmunología cruza el puente entre ciclos (1º semestre de tercer año y 1º semestre del Ciclo Clínico); Patología I y Farmacología I son requisito para entrar al Ciclo Clínico. Los temas y la bibliografía de cada materia son la próxima resolución (L2), trazada por materia desde su programa de cátedra.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Biomédico · Primer año",
+      "title": "La estructura del cuerpo sano",
+      "note": "Se cursan con el CBC aprobado.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.anatomia",
+          "name": "Anatomía",
+          "role": "1º año",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.histologia",
+          "name": "Histología, Biología Celular, Embriología y Genética",
+          "role": "1º año",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental",
+          "name": "Salud Mental",
+          "role": "1º año",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1",
+          "name": "Bioética I",
+          "role": "1º año",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1",
+          "name": "Medicina Familiar I",
+          "role": "1º año",
+          "tag": "biomédico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Biomédico · Segundo año",
+      "title": "Cómo funciona",
+      "note": "Requieren Histología, Biología Celular, Embriología y Genética aprobada y Anatomía regular.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.quimica-biologica",
+          "name": "Química Biológica",
+          "role": "2º año",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.fisiologia",
+          "name": "Fisiología y Biofísica",
+          "role": "2º año · anual",
+          "tag": "biomédico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Biomédico · Tercer año (1º semestre)",
+      "title": "El puente al Ciclo Clínico",
+      "note": "Patología I y Farmacología I aprobadas son requisito para inscribirse al Ciclo Clínico. Microbiología se cursa a caballo de los dos ciclos.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.microbiologia",
+          "name": "Microbiología, Parasitología e Inmunología",
+          "role": "3º año · 1º sem. + 1º sem. clínico",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1",
+          "name": "Patología I",
+          "role": "3º año · 1º sem.",
+          "tag": "biomédico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1",
+          "name": "Farmacología I",
+          "role": "3º año · 1º sem.",
+          "tag": "biomédico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Clínico · Medicina",
+      "title": "Semiología, medicina interna y sus especialidades",
+      "note": "Medicina 1 requiere Farmacología I y Patología I aprobadas; el resto requiere Medicina A y Patología II.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-1",
+          "name": "Medicina 1 (Semiología · Fisiopatología)",
+          "role": "Medicina A",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2",
+          "name": "Medicina 2 (Medicina Interna)",
+          "role": "Medicina B",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.nutricion",
+          "name": "Nutrición",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes",
+          "name": "Diagnóstico por Imágenes",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia",
+          "name": "Dermatología",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.infectologia",
+          "name": "Infectología",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia",
+          "name": "Neumonología",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.neurologia",
+          "name": "Neurología",
+          "role": "especialidad básica",
+          "tag": "clínico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Clínico · Cirugía",
+      "title": "El quirófano y sus ramas",
+      "note": "Requieren Medicina A y Patología II aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general",
+          "name": "Cirugía General",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.urologia",
+          "name": "Urología",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia",
+          "name": "Ortopedia y Traumatología",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia",
+          "name": "Oftalmología",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia",
+          "name": "Otorrinolaringología",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia",
+          "name": "Neurocirugía",
+          "role": "cirugía",
+          "tag": "clínico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Clínico · Tocoginecología y Pediatría",
+      "title": "El parto, la mujer, el niño",
+      "note": "Requieren Medicina A y Patología II aprobadas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.obstetricia",
+          "name": "Obstetricia",
+          "role": "tocoginecología",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia",
+          "name": "Ginecología",
+          "role": "tocoginecología",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.pediatria",
+          "name": "Pediatría",
+          "role": "pediatría",
+          "tag": "clínico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Clínico · Transversales",
+      "title": "Patología, farmacología, salud pública y ley",
+      "note": "Patología II y Salud Pública I requieren Farmacología I y Patología I; Farmacología II requiere Medicina 1 regular; Medicina Legal requiere Psiquiatría; Bioética II requiere Bioética I.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.patologia-2",
+          "name": "Patología II",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2",
+          "name": "Farmacología II",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1",
+          "name": "Salud Pública I",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2",
+          "name": "Salud Pública II",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria",
+          "name": "Psiquiatría",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal",
+          "name": "Medicina Legal y Deontología Médica",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia",
+          "name": "Toxicología",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2",
+          "name": "Bioética II",
+          "role": "transversal",
+          "tag": "clínico",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Internado Anual Rotatorio",
+      "title": "El hospital como aula final",
+      "note": "Rotaciones del último año.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.iar-medicina",
+          "name": "Medicina",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.iar-cirugia",
+          "name": "Cirugía",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.iar-tocoginecologia",
+          "name": "Tocoginecología",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.iar-pediatria",
+          "name": "Pediatría",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.iar-salud-mental",
+          "name": "Salud Mental",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.iar-atencion-primaria",
+          "name": "Atención Primaria en Áreas Programáticas (Medicina Familiar 2ª parte · Terapia y Urgencias Hospitalarias)",
+          "role": "rotación",
+          "tag": "internado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Electivas",
+      "title": "En cualquier ciclo de la carrera",
+      "exits": [
+        {
+          "address": "uba.med.medicina.bioinformatica",
+          "name": "Bioinformática",
+          "role": "electiva",
+          "tag": "cualquier ciclo",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.ingles",
+          "name": "Inglés",
+          "role": "electiva",
+          "tag": "cualquier ciclo",
+          "kind": "course"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion",
+          "name": "Metodología de la Investigación",
+          "role": "electiva",
+          "tag": "cualquier ciclo",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Plan de Estudios de la Carrera de Medicina (CS) 2861/92 (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf"
+  }
+}

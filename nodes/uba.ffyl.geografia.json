@@ -1,0 +1,479 @@
+{
+  "address": "uba.ffyl.geografia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2020",
+    "titulos": [
+      "Licenciado/a en Geografía",
+      "Profesor/a de Enseñanza Media y Superior en Geografía"
+    ],
+    "resoluciones": {
+      "licenciatura": "RESCS-2020-557-UBA-REC",
+      "profesorado": "RESCS-2020-578-UBA-REC"
+    },
+    "vigencia": "ingresantes desde 2021",
+    "ciclos": [
+      "Ciclo de Formación General (8 obligatorias)",
+      "Ciclo de Formación Específica (Lic.: 15 · Prof.: 16)",
+      "Ciclo de Graduación (solo Licenciatura)"
+    ],
+    "orientaciones": [
+      "Geografía Natural",
+      "Geografía Humanístico Social"
+    ],
+    "materias": 51,
+    "materiasNota": "materias y seminarios del Departamento de Geografía listados en el plan (CFG + áreas Natural, Instrumental, Humanístico-Social y para la Enseñanza)",
+    "correlativas": "no publicadas en la versión abreviada del plan"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.geografia",
+      "label": "Geografía"
+    }
+  ],
+  "eyebrow": "Geografía · Licenciatura y Profesorado · Plan 2020",
+  "title": "Un tronco de ocho materias y cuatro áreas para elegir el territorio.",
+  "lede": "El plan 2020 del Departamento de Geografía de Filosofía y Letras: un Ciclo de Formación General de ocho materias obligatorias, un Ciclo de Formación Específica que se arma por áreas — Natural, Instrumental, Humanístico-Social y para la Enseñanza — según la orientación elegida, y un Ciclo de Graduación con tesis o seminarios. Cada materia es una puerta. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2020"
+    },
+    {
+      "k": "Materias",
+      "v": "51",
+      "small": "del Depto."
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 51"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial 2020 publicado por el Departamento de Geografía (versiones abreviadas de Licenciatura y Profesorado, con el cuadro de materias por áreas). Nivel L1: nombres, ciclos y áreas son reales; el plan no ordena las materias por año sino por ciclo y área. Las materias electivas de otros departamentos y facultades (Historia, Antropología, Economía, Sociología, Ciencia Política, Biología, Agronomía, Ciencias de la Educación) forman parte de la oferta pero no de esta planta. Los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General · 8 obligatorias",
+      "title": "El tronco común de Licenciatura y Profesorado",
+      "note": "Ocho materias obligatorias, iguales para ambos títulos.",
+      "exits": [
+        {
+          "address": "uba.ffyl.geografia.introduccion-geografia",
+          "name": "Introducción a la Geografía",
+          "role": "obligatoria",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.historia-social-general",
+          "name": "Historia Social General",
+          "role": "obligatoria · Depto. Historia",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.cartografia",
+          "name": "Cartografía",
+          "role": "obligatoria · Área Instrumental",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-fisica",
+          "name": "Geografía Física",
+          "role": "obligatoria · Área Natural",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.ecologia-biogeografia",
+          "name": "Ecología y Biogeografía",
+          "role": "obligatoria · Área Natural",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-economica",
+          "name": "Geografía Económica",
+          "role": "obligatoria · Sub-área Económica",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-social",
+          "name": "Geografía Social",
+          "role": "obligatoria · Sub-área Social",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.metodologia-investigacion",
+          "name": "Metodología de la Investigación",
+          "role": "obligatoria · Sub-área Metodología",
+          "tag": "CFG",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Área Natural",
+      "title": "Relieve, clima y agua",
+      "note": "Orientación Natural (Lic.): Geomorfología I, Geomorfología II y Climatología son obligatorias. Profesorado: Climatología y Geomorfología II obligatorias, más una electiva. Se suman a la oferta Ecología de Poblaciones, Ecología de Comunidades y Ecosistemas y Ecología Ambiental (Biología, Exactas) y Edafología (Agronomía).",
+      "exits": [
+        {
+          "address": "uba.ffyl.geografia.geomorfologia-1",
+          "name": "Geomorfología I (estructural)",
+          "role": "oblig. orient. Natural",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geomorfologia-2",
+          "name": "Geomorfología II (climática)",
+          "role": "oblig. orient. Natural · Prof.",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.climatologia",
+          "name": "Climatología",
+          "role": "oblig. orient. Natural · Prof.",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.hidrologia-continental",
+          "name": "Hidrología Continental",
+          "role": "electiva",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.oceanografia",
+          "name": "Oceanografía",
+          "role": "electiva",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-fisica-argentina",
+          "name": "Geografía Física de la Argentina",
+          "role": "electiva",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-hidrogeomorfologia",
+          "name": "Seminario de Hidrogeomorfología",
+          "role": "seminario electivo",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-recursos-naturales",
+          "name": "Seminario de Recursos Naturales",
+          "role": "seminario electivo",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-planificacion-ambiental",
+          "name": "Seminario de Planificación Ambiental",
+          "role": "seminario electivo",
+          "tag": "Natural",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-clasificacion-usos-suelo",
+          "name": "Seminario de Clasificación y Usos del Suelo",
+          "role": "seminario electivo",
+          "tag": "Natural",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Área Instrumental",
+      "title": "Medir, mapear y computar",
+      "note": "Orientación Natural (Lic.): Sensores Remotos (análisis visual) es obligatoria, más 2 electivas. Orientación Humanístico Social y Profesorado: 1 electiva del área.",
+      "exits": [
+        {
+          "address": "uba.ffyl.geografia.sensores-remotos",
+          "name": "Sensores Remotos (análisis visual)",
+          "role": "oblig. orient. Natural",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.analisis-matematico",
+          "name": "Análisis Matemático",
+          "role": "electiva",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.probabilidad-estadistica",
+          "name": "Probabilidad y Estadística",
+          "role": "electiva",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.elementos-computacion",
+          "name": "Elementos de Computación",
+          "role": "electiva",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sig",
+          "name": "Sistemas Automáticos de Información Geográfica",
+          "role": "electiva",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-sensores-remotos-digital",
+          "name": "Seminario de Sensores Remotos (análisis digital)",
+          "role": "seminario electivo",
+          "tag": "Instrumental",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-semiologia-cartografica",
+          "name": "Seminario de Semiología Cartográfica",
+          "role": "seminario electivo",
+          "tag": "Instrumental",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Área Humanístico-Social",
+      "title": "Economía, sociedad, teoría, política y método",
+      "note": "Cinco sub-áreas: Económica, Social, Historia y Teoría Geográfica, Planificación y Geografía Política, Metodología y Epistemología. Orientación Humanístico Social (Lic.): 5 electivas del área + 5 de otras carreras (Historia / Antropología / Economía / Sociología / Ciencia Política), reemplazables por Geografía Urbana, Geografía Rural, Geografía Política, Teoría y Política Económica y Análisis Espacial. Profesorado: Geografía Social Latinoamericana y Geografía Social Argentina obligatorias, más 1 electiva.",
+      "exits": [
+        {
+          "address": "uba.ffyl.geografia.teoria-politica-economica",
+          "name": "Teoría y Política Económica",
+          "role": "electiva · Económica",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.analisis-espacial",
+          "name": "Análisis Espacial",
+          "role": "electiva · Económica",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-circulacion",
+          "name": "Geografía de la Circulación",
+          "role": "electiva · Económica",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-industrial",
+          "name": "Geografía Industrial",
+          "role": "electiva · Económica",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-social-latinoamericana",
+          "name": "Geografía Social Latinoamericana",
+          "role": "oblig. Prof. · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-social-argentina",
+          "name": "Geografía Social Argentina",
+          "role": "oblig. Prof. · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-urbana",
+          "name": "Geografía Urbana",
+          "role": "electiva · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-rural",
+          "name": "Geografía Rural",
+          "role": "electiva · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.recursos-sociedad",
+          "name": "Recursos y Sociedad",
+          "role": "electiva · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-geografia-urbana",
+          "name": "Seminario de Geografía Urbana",
+          "role": "seminario · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-geografia-rural",
+          "name": "Seminario de Geografía Rural",
+          "role": "seminario · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-geografia-historica",
+          "name": "Seminario de Geografía Histórica",
+          "role": "seminario · Social",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.teorias-contemporaneas-1",
+          "name": "Teorías Contemporáneas en Geografía I (Período Clásico 1870-1950)",
+          "role": "electiva · Historia y Teoría",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.teorias-contemporaneas-2",
+          "name": "Teorías Contemporáneas en Geografía II (Período Moderno 1950 a la actualidad)",
+          "role": "electiva · Historia y Teoría",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-historia-pensamiento-geografico",
+          "name": "Seminario de Historia del Pensamiento Geográfico",
+          "role": "seminario · Historia y Teoría",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.planificacion-ordenamiento-territorial",
+          "name": "Planificación y Ordenamiento Territorial",
+          "role": "electiva · Planificación y Política",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.geografia-politica",
+          "name": "Geografía Política",
+          "role": "electiva · Planificación y Política",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-geografia-politica",
+          "name": "Seminario de Geografía Política",
+          "role": "seminario · Planificación y Política",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.epistemologia-geografia",
+          "name": "Epistemología de la Geografía",
+          "role": "electiva · Metodología y Epistemología",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-metodologia-1",
+          "name": "Seminario de Metodología I (técnicas cualitativas)",
+          "role": "seminario · Metodología y Epistemología",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-metodologia-2",
+          "name": "Seminario de Metodología II (técnicas cuantitativas)",
+          "role": "seminario · Metodología y Epistemología",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-diseno-investigacion",
+          "name": "Seminario de Diseño de Investigación en Geografía",
+          "role": "seminario · Ciclo de Graduación (Lic.)",
+          "tag": "Hum.-Social",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación Específica · Área para la Enseñanza",
+      "title": "Enseñar el territorio",
+      "note": "Profesorado: 7 del área — Problemas Territoriales I y II, Seminario de Investigación Geográfica en Práctica Docente, Didáctica Especial y Prácticas de la Enseñanza, y 3 electivas del Departamento de Ciencias de la Educación (Didáctica I, Didáctica II, Análisis Institucional de la Escuela, Sociología de la Educación, Problemática de la Formación Docente II, Historia de la Educación Argentina, Historia de la Educación Latinoamericana, Política Educacional, Problemas Pedagógicos Contemporáneos). El Profesorado suma además tres niveles de idiomas modernos.",
+      "exits": [
+        {
+          "address": "uba.ffyl.geografia.problemas-territoriales-1",
+          "name": "Problemas Territoriales I",
+          "role": "oblig. Prof. · Lic. electiva",
+          "tag": "Enseñanza",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.problemas-territoriales-2",
+          "name": "Problemas Territoriales II",
+          "role": "oblig. Prof. · Lic. electiva",
+          "tag": "Enseñanza",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.sem-investigacion-practica-docente",
+          "name": "Seminario de Investigación Geográfica en Práctica Docente",
+          "role": "oblig. Prof. · Lic. electiva",
+          "tag": "Enseñanza",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.geografia.didactica-especial",
+          "name": "Didáctica Especial y Prácticas de la Enseñanza",
+          "role": "oblig. Prof.",
+          "tag": "Enseñanza",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Ciclo de Graduación · Licenciatura",
+      "title": "Tres salidas",
+      "note": "Se opta por una: 3 seminarios temáticos de la orientación elegida; el Seminario de Diseño de Investigación Geográfica y una tesis; o el mismo seminario y 200 horas de investigación. Una de las electivas del CFE debe ser un seminario de Prácticas Socioeducativas Territorializadas (PST).",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "geografia.filo.uba.ar/content/plan-de-estudios · Plan 2020 (versiones abreviadas Lic. y Prof.) · academica.filo.uba.ar/plan-de-estudios-geografia",
+    "url": "https://geografia.filo.uba.ar/content/plan-de-estudios"
+  }
+}

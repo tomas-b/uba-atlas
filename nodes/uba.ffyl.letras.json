@@ -1,0 +1,550 @@
+{
+  "address": "uba.ffyl.letras",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 2023,
+    "resolucion": "ACS-2023-58-UBA (EX-2022-06948796-UBA-DME#FFYL)",
+    "titulos": ["Licenciado/a en Letras", "Profesor/a en Letras"],
+    "duracionTeorica": "5 años",
+    "cargaHorariaTotal": 3008,
+    "materias": 62,
+    "ciclos": ["CBC", "Ciclo de Formación General", "Ciclo de Formación Orientada"],
+    "orientaciones": ["Lingüística", "Literatura", "Letras Clásicas"],
+    "recorrido": "30 asignaturas (6 CBC + 10 CFG + 14 CFO) + 3 niveles de 2 lenguas modernas"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    }
+  ],
+  "eyebrow": "Licenciatura y Profesorado en Letras · Plan 2023",
+  "title": "Cinco años, de la gramática al sánscrito.",
+  "lede": "El plan real (2023) de la carrera de Letras de Filosofía y Letras: tras el CBC, un Ciclo de Formación General de cuatro troncales y electivas de área, y un Ciclo de Formación Orientada con tres orientaciones — Lingüística, Literatura y Letras Clásicas. El catálogo propio suma 62 materias; cada recorrido cursa 30 asignaturas más tres niveles de dos lenguas modernas. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2023"
+    },
+    {
+      "k": "Materias",
+      "v": "62",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 62"
+    }
+  ],
+  "frame": "Estructura sourceada de la resolución oficial del plan 2023 (ACS-2023-58, publicada en letras.filo.uba.ar). Nivel L1: los nombres de las materias y su agrupamiento por ciclo y área son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2). Las orientaciones ordenan itinerarios sobre este catálogo y no otorgan título con mención; los seminarios (slots sin nombre fijo) y los niveles de idioma no se dibujan como nodos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Formación General",
+      "title": "Cuatro troncales",
+      "note": "Obligatorias comunes a Licenciatura y Profesorado; requieren el CBC completo. Las electivas del CFG se toman del catálogo de áreas de abajo.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios",
+          "name": "Fundamentos de los Estudios Literarios",
+          "role": "obligatoria · 96 hs",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.gramatica",
+          "name": "Gramática",
+          "role": "obligatoria · 128 hs",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-y-analisis-literario",
+          "name": "Teoría y Análisis Literario",
+          "role": "obligatoria · 128 hs",
+          "tag": "CFG",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica",
+          "name": "Lingüística",
+          "role": "obligatoria · 128 hs",
+          "tag": "CFG",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Literaturas Extranjeras y Comparadas",
+      "title": "Las literaturas del mundo",
+      "note": "Alimenta las electivas del CFG y la orientación en Literatura.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-alemana",
+          "name": "Literatura Alemana",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xix",
+          "name": "Literatura del Siglo XIX",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx",
+          "name": "Literatura del Siglo XX",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-europea-del-renacimiento",
+          "name": "Literatura Europea del Renacimiento",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-europea-medieval",
+          "name": "Literatura Europea Medieval",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa",
+          "name": "Literatura Francesa",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-inglesa",
+          "name": "Literatura Inglesa",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-italiana",
+          "name": "Literatura Italiana",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-norteamericana",
+          "name": "Literatura Norteamericana",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas",
+          "name": "Literaturas Eslavas",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada",
+          "name": "Teoría de la Literatura Comparada",
+          "role": "cuatrimestral",
+          "tag": "extranjeras",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Literaturas Hispánicas",
+      "title": "La tradición española",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval",
+          "name": "Literatura Española Medieval",
+          "role": "cuatrimestral",
+          "tag": "hispánicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-del-siglo-de-oro",
+          "name": "Literatura Española del Siglo de Oro",
+          "role": "cuatrimestral",
+          "tag": "hispánicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea",
+          "name": "Literatura Española Moderna y Contemporánea",
+          "role": "cuatrimestral",
+          "tag": "hispánicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola",
+          "name": "Problemas de Literatura Española",
+          "role": "cuatrimestral",
+          "tag": "hispánicas",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Literatura Argentina y Latinoamericana",
+      "title": "Lo propio y lo continental",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-argentina-1",
+          "name": "Literatura Argentina I (Siglos XVI-XIX)",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-argentina-2",
+          "name": "Literatura Argentina II (Siglos XX y XXI)",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-brasilena",
+          "name": "Literatura Brasileña",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1",
+          "name": "Literatura Latinoamericana I (Siglos XV-XIX)",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2",
+          "name": "Literatura Latinoamericana II (Siglos XX y XXI)",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina",
+          "name": "Problemas de Literatura Argentina",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana",
+          "name": "Problemas de Literatura Latinoamericana",
+          "role": "cuatrimestral",
+          "tag": "arg · latam",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Teoría Literaria",
+      "title": "Pensar la literatura",
+      "note": "Continúan la troncal Teoría y Análisis Literario del CFG.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.teoria-literaria-2",
+          "name": "Teoría Literaria II",
+          "role": "cuatrimestral",
+          "tag": "teoría",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-literaria-3",
+          "name": "Teoría Literaria III",
+          "role": "cuatrimestral",
+          "tag": "teoría",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Lingüística",
+      "title": "La ciencia del lenguaje",
+      "note": "Base de la orientación en Lingüística y sus cuatro áreas: Sistemas Gramaticales; Lenguaje y Cognición; Lenguaje, Cultura y Sociedad; Estudios del Discurso. Sociolingüística y Sintaxis son obligatorias de la orientación.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sintaxis",
+          "name": "Sintaxis",
+          "role": "obligatoria de orientación · 96 hs",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica",
+          "name": "Sociolingüística",
+          "role": "obligatoria de orientación · 96 hs",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia",
+          "name": "Fonología y Morfología",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica",
+          "name": "Semántica y Pragmática",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico",
+          "name": "Estudios del Léxico",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto",
+          "name": "Lingüística del Texto",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal",
+          "name": "Lingüística Formal",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional",
+          "name": "Lingüística Computacional",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1",
+          "name": "Psicolingüística I (Adquisición del Lenguaje)",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2",
+          "name": "Psicolingüística II (Procesos de Comprensión y Producción)",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica",
+          "name": "Neurolingüística",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana",
+          "name": "Dialectología Hispanoamericana",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica",
+          "name": "Glotopolítica",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.etnolinguistica",
+          "name": "Etnolingüística",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola",
+          "name": "Historia de la Lengua Española",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica",
+          "name": "Lingüística Diacrónica",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-de-los-lenguajes-de-los-medios",
+          "name": "Análisis de los Lenguajes de los Medios",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso",
+          "name": "Análisis del Discurso",
+          "role": "cuatrimestral",
+          "tag": "lingüística",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área · Letras Clásicas",
+      "title": "La lengua y la cultura de la Antigüedad",
+      "note": "Base de la orientación en Letras Clásicas, dictada por el Departamento de Lenguas y Literaturas Clásicas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-1",
+          "name": "Lengua y Cultura Griegas I",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2",
+          "name": "Lengua y Cultura Griegas II",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3",
+          "name": "Lengua y Cultura Griegas III",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4",
+          "name": "Lengua y Cultura Griegas IV",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5",
+          "name": "Lengua y Cultura Griegas V",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-1",
+          "name": "Lengua y Cultura Latinas I",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2",
+          "name": "Lengua y Cultura Latinas II",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3",
+          "name": "Lengua y Cultura Latinas III",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4",
+          "name": "Lengua y Cultura Latinas IV",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5",
+          "name": "Lengua y Cultura Latinas V",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua",
+          "name": "Literatura Griega Antigua",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latina-antigua",
+          "name": "Literatura Latina Antigua",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega",
+          "name": "Filología Griega",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina",
+          "name": "Filología Latina",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.latin-posclasico",
+          "name": "Latín Posclásico",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito",
+          "name": "Sánscrito",
+          "role": "cuatrimestral",
+          "tag": "clásicas",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Plan de Estudios 2023 (Res. ACS-2023-58, Licenciatura en Letras)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf"
+  }
+}

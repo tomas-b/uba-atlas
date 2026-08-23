@@ -1,0 +1,377 @@
+{
+  "address": "uba.ffyl.historia",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": 1985,
+    "resolucion": "Res. (CS) Nº 468/85 y modificatorias hasta 2004",
+    "vigencia": "Plan 1985 vigente hasta 2030; Plan 2024 rige para ingresantes desde 2025",
+    "titulos": [
+      "Licenciado/a en Historia",
+      "Profesor/a en Enseñanza Media y Superior en Historia"
+    ],
+    "asignaturasParaTitulo": {
+      "licenciatura": "31 asignaturas (materias, seminarios y tesis) + 2 idiomas",
+      "profesorado": "30 asignaturas (materias y seminarios) + 2 idiomas"
+    },
+    "ciclos": {
+      "cicloDeGrado": 17,
+      "cicloDeOrientacion": 7,
+      "idiomas": 2
+    },
+    "orientaciones": [
+      "Antigua",
+      "Medieval",
+      "Moderna",
+      "Contemporánea",
+      "Argentina",
+      "Americana"
+    ],
+    "materias": 38,
+    "correlativas": "no publicadas en el esquema oficial"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    }
+  ],
+  "eyebrow": "Licenciatura y Profesorado en Historia · Plan 1985",
+  "title": "Doce épocas obligatorias, una orientación, dos idiomas.",
+  "lede": "El plan oficial (1985, vigente hasta 2030) del Departamento de Historia de Filosofía y Letras: un Ciclo de Grado de 17 asignaturas — cinco generales y doce específicas que recorren de Oriente antiguo a la Argentina de hoy — y un Ciclo de Orientación de 7 (electivas, seminarios y, para el Profesorado, didácticas). Se completa con dos idiomas y, en la Licenciatura, una tesis. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1985"
+    },
+    {
+      "k": "Materias",
+      "v": "31",
+      "small": "+ 2 idiomas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 38"
+    }
+  ],
+  "frame": "Estructura sourceada del esquema oficial del Plan 1985 (academica.filo.uba.ar/plan-de-estudios-historia). Nivel L1: los nombres, ciclos y carácter obligatorio/electivo son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se trazan por materia desde los programas de cátedra. Existe además un Plan 2024 para ingresantes desde 2025, publicado por el Departamento; no está trazado aquí.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Grado · Materias Generales (5)",
+      "title": "Las herramientas de las ciencias sociales",
+      "note": "Historia Social General es obligatoria. Se eligen dos entre las cuatro historias temáticas y dos entre las cuatro materias de otras disciplinas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-social-general",
+          "name": "Historia Social General",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica",
+          "name": "Historia Social de la Ciencia y de la Técnica",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos",
+          "name": "Historia de los Sistemas Económicos",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos",
+          "name": "Historia de los Sistemas Políticos",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion",
+          "name": "Historia de la Colonización y Descolonización",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores",
+          "name": "Economía (para Historiadores)",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores",
+          "name": "Sociología (para Historiadores)",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.antropologia-sistematica-1",
+          "name": "Antropología Sistemática I (Organización Social y Política)",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica",
+          "name": "Geografía Histórica",
+          "role": "electiva · 2 de 4",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Grado · Materias Específicas Obligatorias (12)",
+      "title": "De Oriente antiguo a la Argentina de hoy",
+      "note": "Las doce son obligatorias para ambos títulos.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1",
+          "name": "Historia Antigua I (Oriente)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2",
+          "name": "Historia Antigua II (Clásica)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval",
+          "name": "Historia Medieval",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna",
+          "name": "Historia Moderna",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-contemporanea",
+          "name": "Historia Contemporánea",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1",
+          "name": "Historia de América I (de los orígenes hasta la conquista)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2",
+          "name": "Historia de América II (Colonial)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3",
+          "name": "Historia de América III (Independiente)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1",
+          "name": "Historia Argentina I (1776 – 1862)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2",
+          "name": "Historia Argentina II (1862 – 1916)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3",
+          "name": "Historia Argentina III (1916 hasta la fecha)",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia",
+          "name": "Teoría e Historia de la Historiografía",
+          "role": "obligatoria",
+          "tag": "ciclo de grado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo de Orientación (7) · Antigua / Medieval / Moderna / Contemporánea / Argentina / Americana",
+      "title": "Tres electivas y los seminarios",
+      "note": "Se eligen tres materias entre las listadas (o de otros departamentos y facultades de la UBA). Las cuatro asignaturas restantes son seminarios: en la Licenciatura, combinaciones de Seminarios de Investigación, Temáticos y el Seminario Anual de Tesis; en el Profesorado, dos seminarios más las dos didácticas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-de-espana",
+          "name": "Historia de España",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos",
+          "name": "Historia de los Estados Unidos de América",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-rusia",
+          "name": "Historia de Rusia",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.problemas-latinoamericanos-contemporaneos",
+          "name": "Problemas Latinoamericanos Contemporáneos",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.demografia-historica",
+          "name": "Demografía Histórica",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.metodos-cuantitativos-computacion",
+          "name": "Métodos Cuantitativos y Computación Aplicada a la Historia",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-asia-africa-contemporanea",
+          "name": "Historia de Asia y África Contemporánea",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.prehistoria-arqueologia-americana",
+          "name": "Elementos de Prehistoria y Arqueología Americana (para historiadores)",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.problemas-historia-americana",
+          "name": "Problemas de Historia Americana",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.problemas-historia-argentina",
+          "name": "Problemas de Historia Argentina",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.problemas-historiografia",
+          "name": "Problemas de Historiografía",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.problemas-mundiales-contemporaneos",
+          "name": "Problemas Mundiales Contemporáneos",
+          "role": "electiva · 3 de la lista",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.didactica-general",
+          "name": "Didáctica General",
+          "role": "Profesorado",
+          "tag": "orientación",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.didactica-especial-practicas",
+          "name": "Didáctica Especial y Prácticas de la Enseñanza",
+          "role": "Profesorado",
+          "tag": "orientación",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Idiomas (2) · Tesis",
+      "title": "Dos lenguas y el trabajo final",
+      "note": "Tres niveles de cada idioma. La Tesis corresponde solo a la Licenciatura.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.idioma-sajon",
+          "name": "Idioma Sajón (Tres Niveles)",
+          "role": "idioma",
+          "tag": "idiomas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.idioma-latino",
+          "name": "Idioma Latino (Tres Niveles)",
+          "role": "idioma",
+          "tag": "idiomas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.historia.tesis",
+          "name": "Tesis",
+          "role": "Licenciatura",
+          "tag": "tesis",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "academica.filo.uba.ar/plan-de-estudios-historia · Esquema de Plan 1985 (HI - Plan.pdf) · historia.filo.uba.ar/content/plan-de-estudios",
+    "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+  }
+}

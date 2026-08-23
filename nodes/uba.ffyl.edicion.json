@@ -1,0 +1,235 @@
+{
+  "address": "uba.ffyl.edicion",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "1997",
+    "resolucion": "Res. (CS) Nº 5294/97",
+    "vigenciaDesde": "1 de agosto de 1997",
+    "titulo": "Editor",
+    "duracion": "6 cuatrimestres (equivalente a 3 años)",
+    "materias": 16,
+    "materiasCBC": 2,
+    "idiomas": "3 niveles de inglés + 1 nivel de francés, alemán, portugués o italiano",
+    "cierre": "pasantía (mín. 192 h) o tesina",
+    "correlativas": false,
+    "regimen": "todas las materias son cuatrimestrales"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.edicion",
+      "label": "Edición"
+    }
+  ],
+  "eyebrow": "Carrera de Edición · Plan 1997 · Res. (CS) 5294/97",
+  "title": "Dieciséis materias sin correlativas, del original al libro en venta.",
+  "lede": "El plan real (1997) de la carrera de Edición de Filosofía y Letras: seis cuatrimestres, dieciséis materias de grado, cuatro niveles de idioma y una pasantía o tesina. No hay correlatividades — cada materia se cursa en cualquier orden. El título es Editor. Cada materia es una puerta — clic para trazar su programa (temas + bibliografía). Las dos materias del CBC viven aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "1997"
+    },
+    {
+      "k": "Materias",
+      "v": "16",
+      "small": "de grado"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 16"
+    }
+  ],
+  "frame": "Estructura sourceada de la Res. (CS) Nº 5294/97 (Anexo I, plan de estudios de Edición) publicada por el Departamento de Edición, y de la agrupación por áreas que el mismo Departamento usa en edicion.filo.uba.ar. El plan no asigna año ni cuatrimestre a las materias: las agrupa el área. Nivel L1: nombres, carga horaria y contenidos mínimos son reales; los programas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Área Edición",
+      "title": "El texto y el objeto libro",
+      "note": "Las dos materias 'a elegir' son slots del plan: una entre Teoría y Análisis Literario o Semiología; otra entre Edición Electrónica y Multimedia o Edición de Publicaciones Periódicas.",
+      "exits": [
+        {
+          "address": "uba.ffyl.edicion.edicion-editorial",
+          "name": "Edición Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "edición",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.registro-materiales",
+          "name": "Registro y Organización de Materiales Editoriales",
+          "role": "cuatrimestral · 96 h",
+          "tag": "edición",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.correccion-estilo",
+          "name": "Corrección de Estilo",
+          "role": "cuatrimestral · 96 h",
+          "tag": "edición",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.teoria-literaria-o-semiologia",
+          "name": "Teoría y Análisis Literario o Semiología",
+          "role": "a elegir · 96 h",
+          "tag": "edición",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.electronica-o-periodicas",
+          "name": "Edición Electrónica y Multimedia o Edición de Publicaciones Periódicas",
+          "role": "a elegir · 96 h",
+          "tag": "edición",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Producción",
+      "title": "Tipografía, diseño e impresión",
+      "exits": [
+        {
+          "address": "uba.ffyl.edicion.produccion-impresos",
+          "name": "Fundamentos de la Producción de Impresos",
+          "role": "cuatrimestral · 96 h",
+          "tag": "producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.diseno-grafico",
+          "name": "Fundamentos de Diseño Gráfico para Editores",
+          "role": "cuatrimestral · 96 h",
+          "tag": "producción",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.informatica-produccion",
+          "name": "Informática Aplicada a la Producción Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "producción",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Gestión",
+      "title": "La empresa editorial",
+      "exits": [
+        {
+          "address": "uba.ffyl.edicion.intro-actividad-editorial",
+          "name": "Introducción a la Actividad Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "gestión",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.administracion-editorial",
+          "name": "Administración de la Empresa Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "gestión",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.informatica-administracion",
+          "name": "Informática Aplicada a la Administración Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "gestión",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.marketing-editorial",
+          "name": "Marketing Editorial",
+          "role": "cuatrimestral · 96 h",
+          "tag": "gestión",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.derechos-editoriales",
+          "name": "Derechos Editoriales y del Autor",
+          "role": "cuatrimestral · 96 h",
+          "tag": "gestión",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Transversales",
+      "title": "Medios, método y seminario",
+      "note": "El Seminario Obligatorio no tiene contenido fijo: el plan prevé seminarios de temática variable dictados por el Departamento u otras unidades de la UBA.",
+      "exits": [
+        {
+          "address": "uba.ffyl.edicion.teoria-medios-cultura",
+          "name": "Teoría de los Medios y de la Cultura",
+          "role": "cuatrimestral · 96 h",
+          "tag": "transversal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.epistemologia-metodologia",
+          "name": "Epistemología y Metodología de la Investigación Social",
+          "role": "cuatrimestral · 96 h",
+          "tag": "transversal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.seminario-obligatorio",
+          "name": "Seminario Obligatorio",
+          "role": "cuatrimestral · 48 h",
+          "tag": "transversal",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Idiomas y cierre",
+      "title": "Cuatro niveles y una pasantía o tesina",
+      "note": "Requisitos del plan además de las 16 materias: tres niveles de inglés, un nivel de francés, alemán, portugués o italiano, y una pasantía de al menos 192 horas o una tesina.",
+      "exits": [
+        {
+          "address": "uba.ffyl.edicion.ingles",
+          "name": "Idioma inglés · tres niveles",
+          "role": "requisito",
+          "tag": "idiomas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.segundo-idioma",
+          "name": "Otro idioma · un nivel (francés, alemán, portugués o italiano)",
+          "role": "requisito",
+          "tag": "idiomas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.edicion.pasantia-o-tesina",
+          "name": "Pasantía o Tesina",
+          "role": "cierre · pasantía ≥ 192 h",
+          "tag": "final",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Res. (CS) Nº 5294/97 · Plan de Estudios de Edición (PDF, edicion.filo.uba.ar) · academica.filo.uba.ar/plan-de-estudios-edicion",
+    "url": "http://edicion.filo.uba.ar/sites/edicion.filo.uba.ar/files/Res.%20CS%20N%C2%BA%205294-97%20-%20Plan%20de%20Estudios%20de%20Edici%C3%B3n%20(2).pdf"
+  }
+}

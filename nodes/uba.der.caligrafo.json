@@ -1,0 +1,277 @@
+{
+  "address": "uba.der.caligrafo",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2015",
+    "resolucion": "Res. (CS) 2531/15 · mod. Res. (CS) 2717/15 y RESCS-2020-675-UBA-REC",
+    "años": 3,
+    "materias": 25,
+    "materiasEspecificas": 22,
+    "materiasComunesAbogacia": 3,
+    "cargaHorariaTotal": "2132 horas reloj",
+    "cuatrimestre": "16 semanas (18 en las asignaturas de Derecho)",
+    "modalidad": "todas obligatorias y presenciales",
+    "correlativas": "cuadro oficial de correlatividades (Plan 2015)",
+    "cbcRequerido": [
+      "Principios Generales del Derecho Latinoamericano",
+      "Introducción al Pensamiento Científico",
+      "Trabajo y Sociedad"
+    ],
+    "vigencia": "ingresantes a la Facultad desde el 1/1/2016"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.der",
+      "label": "Derecho"
+    },
+    {
+      "address": "uba.der.caligrafo",
+      "label": "Calígrafo Público"
+    }
+  ],
+  "eyebrow": "Calígrafo Público · Plan 2015",
+  "title": "Tres años para leer lo que la mano delata.",
+  "lede": "El plan real (2015) de la Facultad de Derecho: 25 materias que van de la caligrafía y el dibujo a la óptica, la fotografía pericial, la química del papel y la tinta, hasta el informe pericial y su defensa oral. El plan no numera años: se recorre por correlativas, y así está trazado acá. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2015",
+      "small": "Res. CS 2531/15"
+    },
+    {
+      "k": "Materias",
+      "v": "25",
+      "small": "22 propias + 3 comunes"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 25"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial: la lista de asignaturas y su régimen vienen de derecho.uba.ar (Plan 2015); los contenidos mínimos y la carga horaria total (2132 horas reloj, 3 años teóricos) del Código UBA, Libro VIII, Título 7; el orden de los tramos sigue el cuadro oficial de correlatividades de la Facultad. Nivel L1: nombres, régimen y correlativas son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2), que se traza por materia con el pipeline de extracción.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Tramo 1 · sin correlativas",
+      "title": "Mano, ojo y ley de base",
+      "note": "Las siete puertas de entrada: se cursan con el CBC aprobado y nada más.",
+      "exits": [
+        {
+          "address": "uba.der.caligrafo.caligrafia-1",
+          "name": "Caligrafía I",
+          "role": "cuatrimestral",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.tecnica-profesional-1",
+          "name": "Técnica Profesional I",
+          "role": "cuatrimestral",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.dibujo-lineal",
+          "name": "Dibujo Lineal",
+          "role": "cuatrimestral",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.fisica-aplicada",
+          "name": "Física Aplicada",
+          "role": "cuatrimestral",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.fotografia-pericial-1",
+          "name": "Fotografía Pericial I",
+          "role": "cuatrimestral",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.derecho-privado-1",
+          "name": "Elementos de Derecho Privado I",
+          "role": "cuatrimestral · 18 semanas",
+          "tag": "entrada",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.derecho-constitucional",
+          "name": "Elementos de Derecho Constitucional",
+          "role": "cuatrimestral · 18 semanas · común a Abogacía",
+          "tag": "entrada",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tramo 2 · una correlativa",
+      "title": "Escritura mecánica, cotejo y proceso",
+      "note": "Cada materia se abre con una sola del tramo anterior aprobada.",
+      "exits": [
+        {
+          "address": "uba.der.caligrafo.caligrafia-2",
+          "name": "Caligrafía II",
+          "role": "anual · tras Caligrafía I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.tecnica-profesional-2",
+          "name": "Técnica Profesional II",
+          "role": "anual · tras Técnica Profesional I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.escrituras-mecanograficas",
+          "name": "Escrituras Mecanográficas, Artes Gráficas e Impresiones",
+          "role": "anual · tras Fotografía Pericial I y Técnica Profesional I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.ingles-1",
+          "name": "Inglés I",
+          "role": "anual · tras Técnica Profesional I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.dibujo-ornamental",
+          "name": "Dibujo Ornamental",
+          "role": "cuatrimestral · tras Dibujo Lineal",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.derecho-privado-2",
+          "name": "Elementos de Derecho Privado II",
+          "role": "cuatrimestral · 18 semanas · tras Derecho Privado I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.derecho-procesal-civil",
+          "name": "Elementos de Derecho Procesal Civil y Comercial",
+          "role": "cuatrimestral · 18 semanas · común a Abogacía · tras Derecho Privado I",
+          "tag": "tramo 2",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.derecho-penal",
+          "name": "Elementos de Derecho Penal y Procesal Penal",
+          "role": "anual · 18 semanas · común a Abogacía · tras Derecho Constitucional",
+          "tag": "tramo 2",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tramo 3 · cierre de las cadenas",
+      "title": "Los cuatro tipos escriturales, el laboratorio y la ética",
+      "note": "Terceros eslabones de cada cadena, más la deontología que abre el tramo final.",
+      "exits": [
+        {
+          "address": "uba.der.caligrafo.caligrafia-3",
+          "name": "Caligrafía III",
+          "role": "anual · tras Caligrafía II",
+          "tag": "tramo 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.tecnica-profesional-3",
+          "name": "Técnica Profesional III",
+          "role": "anual · tras Técnica Profesional II",
+          "tag": "tramo 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.ingles-2",
+          "name": "Inglés II",
+          "role": "anual · tras Inglés I",
+          "tag": "tramo 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.quimica-aplicada",
+          "name": "Química Aplicada",
+          "role": "anual · tras Física Aplicada",
+          "tag": "tramo 3",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.deontologia-pericial",
+          "name": "Deontología Pericial",
+          "role": "cuatrimestral · tras Derecho Constitucional y Derecho Procesal Civil y Comercial",
+          "tag": "tramo 3",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Tramo 4 · el perito en el juzgado",
+      "title": "Procedimiento, imagen, patología del trazo",
+      "note": "Todo pasa por Deontología Pericial: la práctica forense, las herramientas digitales y la escritura alterada.",
+      "exits": [
+        {
+          "address": "uba.der.caligrafo.procedimientos-periciales",
+          "name": "Procedimientos Periciales",
+          "role": "anual · tras Escrituras Mecanográficas, Técnica Profesional II y Deontología Pericial",
+          "tag": "tramo 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.informatica-aplicada",
+          "name": "Informática Aplicada",
+          "role": "anual · tras Escrituras Mecanográficas y Deontología Pericial",
+          "tag": "tramo 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.fotografia-pericial-2",
+          "name": "Fotografía Pericial II",
+          "role": "cuatrimestral · tras Fotografía Pericial I",
+          "tag": "tramo 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.grafopatologia",
+          "name": "Grafopatología",
+          "role": "cuatrimestral · tras Deontología Pericial",
+          "tag": "tramo 4",
+          "kind": "course"
+        },
+        {
+          "address": "uba.der.caligrafo.psicologia-juridica",
+          "name": "Psicología Jurídica",
+          "role": "cuatrimestral · tras Deontología Pericial y Grafopatología",
+          "tag": "tramo 4",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "derecho.uba.ar · Plan de Estudio 2015 + cuadro de correlatividades · Código UBA Libro VIII Tít. 7 Cap. A",
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/caligrafo_plan_estudios_2015.php"
+  }
+}

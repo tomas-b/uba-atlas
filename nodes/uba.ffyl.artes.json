@@ -1,0 +1,505 @@
+{
+  "address": "uba.ffyl.artes",
+  "level": "carrera",
+  "kind": "career",
+  "groundingLevel": "L1",
+  "metadata": {
+    "plan": "2019",
+    "planVigenteDesde": "2020",
+    "resoluciones": [
+      "RESCS-2019-859-UBA-REC (Licenciatura)",
+      "RESCS-2024-1507-UBA-REC (modificación Licenciatura + Bachiller Universitario en Artes)",
+      "RESCS-2019-1670-UBA-REC (Profesorado de Enseñanza Secundaria y Superior en Artes)"
+    ],
+    "titulos": [
+      "Licenciado/a en Artes (con orientación en Artes Visuales, Música, Artes Escénicas, Cine y Artes Audiovisuales, Arte Latinoamericano y Argentino, o Arte Moderno y Contemporáneo)",
+      "Profesor/a de Enseñanza Secundaria y Superior en Artes"
+    ],
+    "años": 5,
+    "ciclos": {
+      "cicloBasicoComun": 6,
+      "cicloTroncal": 8,
+      "cicloOrientado": "14 asignaturas + Seminario de Gestión y Políticas Culturales (obligatorio) + Seminario Específico (optativo)"
+    },
+    "orientaciones": {
+      "disciplinares": ["Artes Visuales", "Música", "Artes Escénicas", "Cine y Artes Audiovisuales"],
+      "transversales": ["Arte Latinoamericano y Argentino", "Arte Moderno y Contemporáneo"]
+    },
+    "idiomas": "3 niveles de un idioma latino (italiano, francés o portugués) + 3 niveles de un idioma sajón (inglés o alemán)",
+    "materias": 54,
+    "cargaHorariaMateria": "6 h semanales · 96 h cuatrimestrales (seminarios: 4 h · 64 h)",
+    "correlativas": "Ciclo Troncal requiere CBC aprobado; el Ciclo Orientado requiere el grupo de materias introductorias del Troncal; Epistemología y Metodología requiere 5 materias del Ciclo Orientado; seminarios requieren 3 materias del Ciclo Orientado"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.artes",
+      "label": "Artes"
+    }
+  ],
+  "eyebrow": "Licenciatura y Profesorado en Artes · Plan 2019",
+  "title": "Un tronco común y seis orientaciones.",
+  "lede": "El plan real (2019, vigente desde 2020) del Departamento de Artes de Filosofía y Letras: un Ciclo Troncal de ocho materias que recorre las cuatro artes, y luego una orientación a elección — Artes Visuales, Música, Artes Escénicas, Cine y Artes Audiovisuales, o las transversales Arte Latinoamericano y Argentino y Arte Moderno y Contemporáneo. Cada materia es una puerta — clic para trazar su programa. El CBC vive aparte, en su propio árbol.",
+  "meta": [
+    {
+      "k": "Plan",
+      "v": "2019",
+      "small": "mod. 2024"
+    },
+    {
+      "k": "Materias",
+      "v": "54",
+      "small": "propias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan"
+    },
+    {
+      "k": "Trazadas",
+      "v": "0",
+      "small": "/ 54"
+    }
+  ],
+  "frame": "Estructura sourceada del plan oficial aprobado por el Consejo Superior (RESCS-2019-859-UBA-REC, modificado por RESCS-2024-1507-UBA-REC), publicado por la Facultad. El Ciclo Orientado se compone de 14 asignaturas: unas pocas obligatorias por orientación y el resto electivas tomadas de grupos cerrados de materias del Departamento (más dos de otros Departamentos de FFyL). Las dos orientaciones transversales no agregan materias nuevas: se arman con materias de las cuatro disciplinares. Nivel L1: los nombres, ciclos y carácter son reales; los temas y la bibliografía de cada materia son la próxima resolución (L2).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Troncal · 8 obligatorias",
+      "title": "Las cuatro artes, la estética y la mirada social",
+      "note": "Se cursa con el CBC aprobado. Sus cuatro materias introductorias son la llave del Ciclo Orientado.",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.intro-artes-visuales",
+          "name": "Introducción a las Artes Visuales",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.intro-musica",
+          "name": "Introducción a la Música",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.intro-artes-escenicas",
+          "name": "Introducción a las Artes Escénicas",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.intro-cine-audiovisuales",
+          "name": "Introducción al Cine y las Artes Audiovisuales",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estetica",
+          "name": "Estética",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.teoria-medios-comunicacion",
+          "name": "Teoría de los Medios y de la Comunicación",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.sociologia-antropologia-arte",
+          "name": "Sociología y Antropología del Arte",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.psicologia-arte",
+          "name": "Psicología del Arte",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "troncal",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Ciclo Orientado · común a todas las orientaciones",
+      "title": "Investigar y gestionar",
+      "note": "Toda orientación cierra con Epistemología y Metodología (tras 5 materias del ciclo), el Seminario de Gestión y Políticas Culturales y un Seminario Específico; a eso se suman 2 electivas de otros Departamentos de FFyL.",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.epistemologia-metodologia",
+          "name": "Epistemología y Metodología de la Investigación en Artes",
+          "role": "Obligatoria · cuatrimestral",
+          "tag": "orientado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.seminario-gestion-politicas-culturales",
+          "name": "Seminario de Gestión y Políticas Culturales",
+          "role": "Obligatorio · 4 h",
+          "tag": "orientado",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.seminario-especifico",
+          "name": "Seminario Específico",
+          "role": "Optativo · 4 h",
+          "tag": "orientado",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación disciplinar · Artes Visuales",
+      "title": "Historiografía y siete historias de lo visual",
+      "note": "Una obligatoria; 3 electivas del grupo A (Europa), 3 del grupo B (América y Argentina) y 1 del grupo C.",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.teoria-historiografia-artes-visuales",
+          "name": "Teoría e Historiografía de las Artes Visuales",
+          "role": "Obligatoria de la orientación",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-antiguedad",
+          "name": "Historia de las Artes Visuales – Antigüedad",
+          "role": "Electiva · grupo A",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-edad-media",
+          "name": "Historia de las Artes Visuales – Edad Media",
+          "role": "Electiva · grupo A",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-europa-xiv-xvi",
+          "name": "Historia de las Artes Visuales – Europa Siglos XIV-XVI",
+          "role": "Electiva · grupo A",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-europa-xvi-xviii",
+          "name": "Historia de las Artes Visuales – Europa Siglos XVI-XVIII",
+          "role": "Electiva · grupo A",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-europa-xviii-xx",
+          "name": "Historia de las Artes Visuales – Europa Siglos XVIII-XX",
+          "role": "Electiva · grupo A",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-siglos-xx-xxi",
+          "name": "Historia de las Artes Visuales – Siglos XX-XXI",
+          "role": "Electiva · grupo A (también grupo A de Cine)",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-america-prehispanica",
+          "name": "Historia de las Artes Visuales – América Prehispánica",
+          "role": "Electiva · grupo B",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-america-xvi-xviii",
+          "name": "Historia de las Artes Visuales – América Siglos XVI-XVIII",
+          "role": "Electiva · grupo B",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-america-latina-caribe-xix-xxi",
+          "name": "Historia de las Artes Visuales – América Latina y el Caribe Siglos XIX-XXI",
+          "role": "Electiva · grupo B",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-argentina-xvi-xix",
+          "name": "Historia de las Artes Visuales – Argentina Siglos XVI-XIX",
+          "role": "Electiva · grupo B",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hav-argentina-xx-xxi",
+          "name": "Historia de las Artes Visuales – Argentina Siglos XX-XXI",
+          "role": "Electiva · grupo B",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estudios-fotografia",
+          "name": "Estudios sobre Fotografía",
+          "role": "Electiva · grupo C (también grupo B de Cine)",
+          "tag": "artes visuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.taller-practicas-artisticas",
+          "name": "Taller de Prácticas Artísticas",
+          "role": "Electiva · grupo C",
+          "tag": "artes visuales",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación disciplinar · Música",
+      "title": "Lenguaje, morfología y cinco historias del sonido",
+      "note": "Tres obligatorias; 3 electivas del grupo A (historias) y 2 del grupo B (estudios).",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.lenguaje-musical-1",
+          "name": "Lenguaje Musical I",
+          "role": "Obligatoria de la orientación",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.lenguaje-musical-2",
+          "name": "Lenguaje Musical II",
+          "role": "Obligatoria de la orientación",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.morfologia",
+          "name": "Morfología",
+          "role": "Obligatoria de la orientación",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hm-antiguedad-edad-media",
+          "name": "Historia de la Música – Antigüedad Clásica y Edad Media",
+          "role": "Electiva · grupo A",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hm-europa-xv-xviii",
+          "name": "Historia de la Música – Europa Siglos XV-XVIII (Renacimiento y Barroco)",
+          "role": "Electiva · grupo A",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hm-europa-xviii-xix",
+          "name": "Historia de la Música – Europa Siglos XVIII-XIX (Clasicismo y Romanticismo)",
+          "role": "Electiva · grupo A",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hm-siglos-xx-xxi",
+          "name": "Historia de la Música – Siglos XX-XXI",
+          "role": "Electiva · grupo A",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.hm-america-latina-argentina",
+          "name": "Historia de la Música – América Latina y Argentina Siglos XVI-XXI",
+          "role": "Electiva · grupo A",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.artes-sonoras",
+          "name": "Artes Sonoras",
+          "role": "Electiva · grupo B (también grupo B de Cine)",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.psicologia-musica",
+          "name": "Psicología de la Música",
+          "role": "Electiva · grupo B",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estetica-musica",
+          "name": "Estética de la Música",
+          "role": "Electiva · grupo B",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.antropologia-musica",
+          "name": "Antropología de la Música",
+          "role": "Electiva · grupo B",
+          "tag": "música",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estudios-musicas-populares",
+          "name": "Estudios de Músicas Populares",
+          "role": "Electiva · grupo B",
+          "tag": "música",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación disciplinar · Artes Escénicas",
+      "title": "Teatro, danza y cuerpo",
+      "note": "Dos obligatorias; 3 electivas del grupo A (historias y literatura) y 2 del grupo B (danza y performance).",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.teoria-critica-teatro",
+          "name": "Teoría y Crítica del Teatro",
+          "role": "Obligatoria de la orientación",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estetica-teorias-teatrales",
+          "name": "Estética y Teorías Teatrales",
+          "role": "Obligatoria de la orientación",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-teatro-1",
+          "name": "Historia del Teatro I",
+          "role": "Electiva · grupo A",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-teatro-2",
+          "name": "Historia del Teatro II",
+          "role": "Electiva · grupo A",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-teatro-latinoamerica-argentina",
+          "name": "Historia del Teatro – Latinoamérica y Argentina",
+          "role": "Electiva · grupo A",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.literatura-artes-audiovisuales-performaticas",
+          "name": "Literatura en las Artes Audiovisuales y Performáticas",
+          "role": "Electiva · grupo A (también grupo B de Cine)",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.antropologia-performance-corporeidad",
+          "name": "Antropología de la Performance y de la Corporeidad",
+          "role": "Electiva · grupo B",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-danza",
+          "name": "Historia de la Danza",
+          "role": "Electiva · grupo B",
+          "tag": "artes escénicas",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.problemas-danza",
+          "name": "Problemas de la Danza",
+          "role": "Electiva · grupo B",
+          "tag": "artes escénicas",
+          "kind": "course"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Orientación disciplinar · Cine y Artes Audiovisuales",
+      "title": "Análisis, estética y tres historias del cine",
+      "note": "Dos obligatorias; 3 electivas del grupo A (historias, incluye Historia de las Artes Visuales – Siglos XX-XXI) y 2 del grupo B (incluye Literatura en las Artes Audiovisuales y Performáticas, Estudios sobre Fotografía y Artes Sonoras, listadas en sus orientaciones de origen).",
+      "exits": [
+        {
+          "address": "uba.ffyl.artes.analisis-critica-estudios-cine",
+          "name": "Análisis, Crítica y Estudios sobre Cine",
+          "role": "Obligatoria de la orientación",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.estetica-cine-teorias-audiovisuales",
+          "name": "Estética del Cine y Teorías Audiovisuales",
+          "role": "Obligatoria de la orientación",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-cine-1",
+          "name": "Historia del Cine I",
+          "role": "Electiva · grupo A",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-cine-2",
+          "name": "Historia del Cine II",
+          "role": "Electiva · grupo A",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.historia-cine-latinoamerica-argentina",
+          "name": "Historia del Cine – Latinoamérica y Argentina",
+          "role": "Electiva · grupo A",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.problemas-cine-audiovisual-latinoamerica",
+          "name": "Problemas del Cine y el Audiovisual en Latinoamérica",
+          "role": "Electiva · grupo A",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        },
+        {
+          "address": "uba.ffyl.artes.pensamiento-audiovisual",
+          "name": "Pensamiento Audiovisual (Cine y Literatura)",
+          "role": "Electiva · grupo B",
+          "tag": "cine y audiovisuales",
+          "kind": "course"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Plan de estudios Licenciatura en Artes (modificación 2024) · filo.uba.ar · artes.filo.uba.ar/licenciatura-en-artes · academica.filo.uba.ar/plan-de-estudios-artes",
+    "url": "https://filo.uba.ar/sites/default/files/2024-12/PE%20Licenciatura%20Artes%20(modificaci%C3%B3n)%202024.pdf"
+  }
+}
