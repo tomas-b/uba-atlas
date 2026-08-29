@@ -1,0 +1,213 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (mín. 6 y máx. 10 hs semanales)",
+    "cuatrimestre": "2º · 2026 (el programa imprime «2º CUATRIMESTRE 2026» y «AÑO: 2026»)",
+    "codigo": "15014-D",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "Profesora: PALACIOS, JIMENA (Dra. Jimena Palacios, Profesora Asociada Regular; firma también como Directora del Departamento de Lenguas y Literaturas Clásicas). El programa no consigna otras cátedras ni explica la letra «D» del código.",
+    "equipoDocente": [
+      "PALACIOS, Jimena (profesora)",
+      "BREIJO, Mariana (jefa de trabajos prácticos)",
+      "DIOLAITI, Enzo (ayudante de primera)",
+      "PALERMO, Nerina (ayudante de primera)"
+    ],
+    "modalidad": "presencial, ajustada a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual, sincrónica o asincrónica)",
+    "unidades": 5,
+    "bibliografia": 12
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3",
+      "label": "Lengua y Cultura Latinas III"
+    }
+  ],
+  "eyebrow": "Letras · Letras Clásicas · Lengua y Cultura Latinas III",
+  "title": "Completar la lengua y leer el siglo I.",
+  "lede": "Se cierra la gramática latina —subordinación sustantiva, adjetiva y adverbial, oratio obliqua, valores y usos del sistema de casos— y se abre la métrica: prosa rítmica, verso dactílico, eólico y yambo-trocaico. Con esa lengua se lee el corpus de los siglos I a.C. y I d.C. en cuatro frentes: la retórica y la oratoria de Cicerón (In Catilinam, Pro Caelio, Philippicae), la historiografía de Salustio, César y Tácito, la poesía nueva de Catulo y el Corpus Priapeorum, y la poesía didáctica de Lucrecio y Virgilio. Un mismo hilo atraviesa los cuatro: cómo cada género construye la masculinidad romana y la alteridad — la educación del vir civis Romanus, el ethos del orador, el bárbaro de la etnografía, la invectiva y el humor agresivo, el enunciatario del poema didáctico.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "código 15014-D"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Latinas III, código 15014-D, Departamento de Lenguas y Literaturas Clásicas (FFyL-UBA), a cargo de la Profesora Jimena Palacios, 2º cuatrimestre de 2026 (año impreso en la portada: 2026), publicado en letrasclasicas.filo.uba.ar como «Último Programa aprobado». Equipo docente impreso: JTP Mariana Breijo; ayudantes de primera Enzo Diolaiti y Nerina Palermo, con la nota al pie del propio programa de que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». El programa no consigna resolución de aprobación del programa: las resoluciones que cita son REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen de promoción directa) y Res. (CD) Nº 1117/10 (RTARMEM). Tampoco explica la letra «D» del código ni menciona otras cátedras. La etiqueta de área —Letras Clásicas— viene del plan 2023 en el nodo padre, no de este PDF. SELECCIÓN DECLARADA: se dibujan como nodo libro (a) las obras de lectura completa en español que el programa lista por unidad y (b) los dos títulos de volumen de la bibliografía obligatoria (Wiseman, López Olano). EXCLUSIONES DECLARADAS: no se dibujan los artículos de revista, los capítulos en obras colectivas, las traducciones y fichas de cátedra ni el material didáctico de la Unidad 1 (Sinopsis de fonética, fonología y métrica latina; Esquema de usos de los casos; Oratio obliqua; Léxico institucional romano, ficha de cátedra de J. Palacios, 2026); tampoco la «Bibliografía general (Instrumenta Studiorum)» de la Unidad 1 —diccionarios, gramáticas históricas y manuales de métrica y retórica (Ernout-Meillet, Gaffiot, Oxford Latin Dictionary, Thesaurus linguae Latinae, Pinkster, Crusius, Lausberg, entre otros)— ni la bibliografía complementaria de las Unidades 2 a 5. DUPLICACIÓN REGISTRADA EN EL ORIGINAL: la lista de Instrumenta Studiorum imprime dos veces el mismo manual con datos distintos, «GARAVELLI, B. (1988). Manual de retórica. Barcelona.» y «MORTARA GARAVELLI, B. (1988). Manual de Retórica. Madrid.»; no se resuelve. Wiseman, Catullus and his World (1995) figura a la vez en la obligatoria y en la complementaria de la Unidad 4: se dibuja una sola vez. El PDF imprime además erratas menores en la bibliografía complementaria (rangos de páginas fundidos, «Impire» por «Empire»); esas entradas no se dibujan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "De la sintaxis al corpus del siglo I",
+      "note": "Cada unidad del programa 15014-D es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LENGUA Y CULTURA LATINAS III · código 15014-D · Palacios\n│\n├─ 1 · LENGUA\n│      subordinación, oratio obliqua, casos · fonética, prosodia\n│      prosa rítmica · métrica dactílica, eólica, yambo-trocaica\n│\n├─ 2 · RETÓRICA, PERFORMANCE Y MASCULINIDADES\n│      la educación del vir civis Romanus · preceptiva y géneros oratorios\n│      Cicerón: In Catilinam, Pro Caelio, Philippicae\n│\n├─ 3 · HISTORIA, EJEMPLARIDAD Y ALTERIDAD\n│      historiografía y etnografía · ejemplaridad, género, etnocentrismo\n│      Salustio, De coniuratione Catilinae · César, Bellum Gallicum · Tácito, Germania\n│\n├─ 4 · MASCULINIDADES E INDAGACIÓN POÉTICA\n│      neotéricos, gender y genre · invectiva y política · humor y agresión\n│      Catulo, Carmina · Corpus Priapeorum\n│\n└─ 5 · POESÍA, CONOCIMIENTO E IDENTIDAD\n       poesía didáctica, destinación múltiple, generización del conocimiento\n       Lucrecio, De Rerum Natura · Virgilio, Georgica",
+        "foot": "Las cinco unidades del programa Palacios 2026. La Unidad 1 cierra el aparato de lengua —sintaxis, fonética y métrica— y las cuatro restantes recorren un género del siglo I a.C. y I d.C. cada una, todas con selección de pasajes en lengua original (la frase «en su lengua original» está impresa solo en las Fuentes de la Unidad 2)."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.lengua",
+          "name": "Lengua",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.retorica-performance-masculinidades",
+          "name": "Retórica, performance y masculinidades",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.historia-ejemplaridad-alteridad",
+          "name": "Historia, ejemplaridad y alteridad",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.masculinidades-indagacion-poetica",
+          "name": "Masculinidades e indagación poética",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.poesia-conocimiento-identidad",
+          "name": "Poesía, conocimiento e identidad",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · obras de lectura completa y volúmenes obligatorios",
+      "title": "El corpus",
+      "note": "Las obras que el programa manda leer completas en español —«cualquier traducción disponible»— por unidad, más los dos títulos de volumen de la bibliografía obligatoria. El programa además imprime, unidad por unidad, ediciones críticas latinas bajo el rótulo «Fuentes» (Clark y Fedeli para Cicerón, Du Pontet para César, Reynolds y McGushin para Salustio, Anderson y Audano para Tácito, Schuster-Eisenhut, Bardon y Goold para Catulo, Deufert y Bailey para Lucrecio, Mynors para Virgilio) y, en la Unidad 2, una selección de pasajes de la Rhétorique à Herennius (así, en francés, lo imprime el programa), De inventione y Rhetorica de Cicerón, la Institutionis oratoriae (grafía del programa) de Quintiliano y el Dialogus de oratoribus de Tácito; esas ediciones no se dibujan por separado. Los artículos, capítulos, fichas de cátedra, el material didáctico de la Unidad 1, la bibliografía general (Instrumenta Studiorum) y la complementaria no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-ciceron-catilinarias",
+          "name": "Catilinarias — Cicerón",
+          "role": "Unidad 2 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-ciceron-pro-caelio",
+          "name": "En defensa de M. Celio — Cicerón",
+          "role": "Unidad 2 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-ciceron-filipicas",
+          "name": "Filípicas — Cicerón",
+          "role": "Unidad 2 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-cesar-guerra-galias",
+          "name": "La guerra de las Galias — César",
+          "role": "Unidad 3 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-salustio-catilina",
+          "name": "Conjuración de Catilina — Salustio (traducción recomendada por el programa: edición bilingüe con introducción, traducción y notas de M. E. Steinberg, Madrid, 2007)",
+          "role": "Unidad 3 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-tacito-germania",
+          "name": "Germania — Tácito",
+          "role": "Unidad 3 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-catulo-poemas",
+          "name": "Poemas — Catulo",
+          "role": "Unidad 4 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-priapeas",
+          "name": "Priapeas — sin autor consignado (traducción recomendada por el programa: Priapea, C. Codoñer y J. González Iglesias, Journal of Classical Philology, Anejo III, Universidad de Huelva, 2014)",
+          "role": "Unidad 4 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-lucrecio-rerum-natura",
+          "name": "Sobre la naturaleza de las cosas — Lucrecio (el programa lista junto a la lectura completa la edición bilingüe De Rerum Natura, traducción de L. Pégolo y equipo, Buenos Aires, 2020)",
+          "role": "Unidad 5 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-virgilio-georgicas",
+          "name": "Geórgicas — Virgilio",
+          "role": "Unidad 5 · lectura completa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-wiseman-catullus",
+          "name": "Catullus and his World. A Reappraisal — T. P. Wiseman (Cambridge, 1995) · cap. 1, «Un mundo distinto al nuestro», traducción de M. Pozzi",
+          "role": "Unidad 4 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3.libro-lopez-olano-lucrecio",
+          "name": "Lucrecio. De Rerum Natura. Una introducción crítica — M. I. López Olano (Buenos Aires, 2005)",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · «Último Programa aprobado» — Lengua y Cultura Latinas III, código 15014-D (Prof. Jimena Palacios, 2º cuatrimestre 2026)",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15014%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20III%20-%20D%20-%20PALACIOS.pdf"
+  }
+}

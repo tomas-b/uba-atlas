@@ -1,0 +1,544 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 hs semanales) · teóricas 4 hs semanales · trabajos prácticos 2 hs semanales",
+    "cuatrimestre": "2º",
+    "anio": "2026",
+    "codigo": "0551-C / 15011-C",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · Dr. Daniel Alejandro Torres (Prof. Regular Asociado) · programa 2º cuatrimestre 2026",
+    "equipoDocente": [
+      "TORRES, Daniel Alejandro (Prof. Regular Asociado, a cargo)",
+      "ABRITTA, Alejandro (ayudante de primera regular)",
+      "PRADA, Gastón Alejandro (ayudante de primera interino)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual)",
+    "unidades": 5,
+    "bibliografia": 57
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5",
+      "label": "Lengua y Cultura Griegas V"
+    }
+  ],
+  "eyebrow": "Letras · Clásicas · Lengua y Cultura Griegas V",
+  "title": "Mil años de cantarle a los dioses.",
+  "lede": "El quinto nivel de griego se organiza entero alrededor de un género: el himno. Se entra por la cultura —qué hace el mito dentro de un himno, cómo se transmitió el corpus, qué aporta la epigrafía, qué pasa cuando un himno se ejecuta ante una audiencia, cómo se clasifica la himnodia y qué relación guarda con la plegaria— y se sigue por la literatura, recorriendo el corpus en tres bloques: los Himnos homéricos, los himnos líricos (Anacreonte, el Peán 2 de Píndaro, el «himno» a Pan del Áyax de Sófocles, Aristónoo, el poema a Hermias de Aristóteles, Mesomedes) y los hexamétricos (Isidoro, los órficos, Proclo, Calímaco, los Dióscuros de Teócrito). La lengua se trabaja sobre un solo texto: el Himno homérico a Deméter, traducido íntegramente y comentado en los trabajos prácticos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "B.1 · B.2 · B.3"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Griegas V, código 0551-C / 15011-C, Departamento de Lenguas y Literaturas Clásicas, carrera de Letras (FFyL-UBA), a cargo del Dr. Daniel Alejandro Torres, 2º cuatrimestre 2026 (el PDF imprime «AÑO: 2026»). El programa no consigna resolución de aprobación del programa: la única resolución citada para el dictado es REDEC-2024-2526-UBA-DCT#FFYL, que fija las pautas de modalidad para el ciclo lectivo 2026; el régimen de promoción directa remite al Reglamento Académico Res. (CD) Nº 4428/17 y el régimen transitorio a Res. (CD) Nº 1117/10. El programa no menciona otras cátedras de la materia. SELECCIÓN DECLARADA: se dibujan las cinco unidades de contenido tal como el programa las agrupa (B.1 parte general de Cultura; B.2 parte especial I de Literatura, en sus tres bloques B.2.1, B.2.2 y B.2.3; B.3 parte especial II de Lengua) y los 57 títulos de volumen de la bibliografía. EXCLUSIÓN DECLARADA: no se dibujan como nodo libro los artículos de revista ni los capítulos sueltos de la sección C.2 (Abrach 2019; Abritta 2012 ×2, 2014, 2015, 2017 y 2019; Crespo 2001-2; De Hoz 1998; Furley 1995; Harder 1992; Hopkinson 1984; Janko 1981; Kurz 1991; Laursen 1992 —obligatoria pero artículo—; Pulleyn 1994; Ristorto 2017; Torres 2003; Torres-Guerra 2002), ni la tesis doctoral de Abrach (2022). Los volúmenes que alojan un capítulo citado sí se dibujan, con el capítulo nombrado. El propio programa advierte que «la bibliografía consignada es común a todas las unidades», de modo que NO se asigna unidad a ningún libro: el rol de cada exit registra la sección del programa (C.1 Ediciones, C.2 Crítica, C.3 Instrumenta studiorum) y el asterisco de obligatoriedad tal como están impresos. La unidad con estudio filológico de un texto único es B.3.1 (Himno homérico a Deméter); los tramos B.2.2-B.2.3 también nombran textos puntuales en sus contenidos («las indicadas en los Contenidos» son obligatorias), y las lecturas obligatorias declaradas son las colecciones completas de Himnos homéricos, los Himnos de Calímaco, los Himnos órficos y los Himnos de Proclo. ERRATAS DEL ORIGINAL, CONSERVADAS: el programa imprime «Liddle, H. G.» por el Lexicon de Oxford; imprime «Bremer, I.» en C.1 (Greek Hymns) y «Bremer, J. M.» en C.2; imprime «Aproches» en el título del volumen de Bouchon et al. NOTA DEL PROGRAMA: «La bibliografía crítica será ampliada en clase, en particular en lo concerniente al manejo de revistas especializadas».",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · el programa 0551-C (Torres, 2º cuatrim. 2026)",
+      "title": "Cultura, literatura, lengua",
+      "note": "Las cinco unidades de contenido del programa, en el orden y con el agrupamiento que el propio programa les da.",
+      "map": {
+        "mk": "El himno griego, en tres partes",
+        "tree": "LENGUA Y CULTURA GRIEGAS V · 0551-C / 15011-C · Torres\n│\n├─ B.1 · PARTE GENERAL — CULTURA\n│      El lenguaje de la representación mitológica\n│      transmisión manuscrita · epigrafía · mito y función · paralelismos\n│      orientales · performance y audiencias · tripartición y plegaria ·\n│      clasificación · orígenes cultuales · Himno a Apolo, Delos y Delfos\n│\n├─ B.2 · PARTE ESPECIAL I — LITERATURA\n│   ├─ B.2.1 · Himnos homéricos · clasificación, cronología, composición,\n│   │           transmisión · el corpus\n│   ├─ B.2.2 · Himnos líricos · Anacreonte (PMG 348) · Peán 2 de Píndaro ·\n│   │           Pan en Áyax 693-705 · Aristónoo · Aristóteles (Hermias) ·\n│   │           Mesomedes\n│   └─ B.2.3 · Himnos hexamétricos · Isidoro · órficos · Proclo ·\n│               Calímaco (a Zeus, al baño de Palas) · Teócrito (Idilio XXII)\n│\n└─ B.3 · PARTE ESPECIAL II — LENGUA\n       B.3.1 · Estudio filológico del Himno homérico a Deméter (II)\n               traducción integral y comentario en los trabajos prácticos",
+        "foot": "Los teóricos (4 hs semanales) exponen los contenidos de literatura con atención a las variantes dialectales; los trabajos prácticos (2 hs semanales) ejercitan la sintaxis de los niveles I-II-III sobre la traducción integral del Himno homérico a Deméter."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.representacion-mitologica",
+          "name": "El lenguaje de la representación mitológica",
+          "role": "B.1 · Parte general — Cultura",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.himnos-homericos",
+          "name": "Himnos homéricos",
+          "role": "B.2.1 · Parte especial I — Literatura",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.himnos-liricos",
+          "name": "Himnos líricos",
+          "role": "B.2.2 · Parte especial I — Literatura",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.himnos-hexametricos",
+          "name": "Himnos hexamétricos",
+          "role": "B.2.3 · Parte especial I — Literatura",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.himno-a-demeter",
+          "name": "Estudio filológico del Himno homérico a Deméter (II)",
+          "role": "B.3.1 · Parte especial II — Lengua",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · C.1 Ediciones",
+      "title": "Los textos",
+      "note": "Las catorce ediciones y comentarios de la sección C.1 del programa. El asterisco de obligatoriedad es el que imprime el programa. El programa declara que su bibliografía es común a todas las unidades, así que no se asigna unidad a ningún título. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-cassola-inni-omerici",
+          "name": "Inni Omerici — F. Càssola (Milano, 1997; 1ª ed. 1975)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-dalessio-callimaco",
+          "name": "Callimaco: Inni, Epigrammi, Ecale — G. B. D’Alessio (Milano, 1996)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-faulkner-hymn-aphrodite",
+          "name": "The Homeric Hymn to Aphrodite: Introduction, Text, and Commentary — A. Faulkner (Oxford, 2008)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-foley-hymn-demeter",
+          "name": "The Homeric Hymn to Demeter — H. Foley (Princeton, 1994)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-furley-bremer-greek-hymns",
+          "name": "Greek Hymns. Vol. 1: The Texts in Translation · Vol. 2: Greek Texts and Commentary — W. Furley e I. Bremer (Tübingen, 2001) (el programa imprime «Bremer, I.» aquí y «Bremer, J. M.» en C.2)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-garvie-ayax",
+          "name": "Sophocles. Ayax — A. F. Garvie (Oxford, 1998)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-page-poetae-melici",
+          "name": "Poetae Melici Graeci — D. L. Page (Oxford, 1962)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-richardson-hymn-demeter",
+          "name": "The Homeric Hymn to Demeter — N. J. Richardson (Oxford, 1974)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-ricciardelli-inni-orfici",
+          "name": "Inni Orfici — G. Ricciardelli (Milano, 2000)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-rutherford-pindars-paeans",
+          "name": "Pindar’s Paeans. A Reading of the Fragments with a Survey of the Genre — I. Rutherford (Oxford, 2001)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-sens-theocritus-dioscuri",
+          "name": "Theocritus, Dioscuri (Idyll 22): Introduction, text and commentary — A. Sens (Göttingen, 1997)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-stephens-callimachus-hymns",
+          "name": "Callimachus: The Hymns — S. Stephens (Oxford, 2015)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-van-den-berg-proclus-hymns",
+          "name": "Proclus’ Hymns. Essays, Translations, Commentary — R. M. Van den Berg (Leiden, 2000)",
+          "role": "C.1 Ediciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-vanderlip-isidorus",
+          "name": "The Four Greek Hymns of Isidorus and the Cult of Isis — V. F. Vanderlip (Toronto, 1972)",
+          "role": "C.1 Ediciones · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · C.2 Crítica",
+      "title": "La discusión",
+      "note": "Los volúmenes de la sección C.2. Los artículos de revista, los capítulos sueltos y la tesis doctoral que la sección también lista no se dibujan como nodo libro; los volúmenes que alojan un capítulo citado sí, con el capítulo nombrado. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-bouchon-hymnes",
+          "name": "Hymnes de la Grèce antique. Aproches littéraires et historiques — R. Bouchon, P. Brillet-Dubois y N. Le Meur-Weissman (eds.) (Lyon, 2012) (el programa imprime «Aproches»)",
+          "role": "C.2 Crítica · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-versnel-faith-hope-worship",
+          "name": "Faith, Hope and Worship. Aspects of Religious Mentality in the Ancient World — H. S. Versnel (ed.) (Leiden, 1981) · cap. J. M. Bremer, “Greek Hymns”, 193-215",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-bremmer-greek-religion",
+          "name": "Greek Religion — J. Bremmer (Oxford, 1994)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-bremmer-interpretations",
+          "name": "Interpretations of Greek Mythology — J. Bremmer (ed.) (London, 1990)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-budelmann-greek-lyric",
+          "name": "The Cambridge Companion to Greek Lyric — F. Budelmann (Cambridge, 2009)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-burkert-greek-religion",
+          "name": "Greek Religion — W. Burkert (Cambridge, Mass., 1985)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-burkert-mystery-cults",
+          "name": "Ancient Mystery Cults — W. Burkert (Cambridge, Mass., 1987)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-cameron-callimachus-critics",
+          "name": "Callimachus and his Critics — A. Cameron (Princeton, 1995)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-crespo-martignone",
+          "name": "“¿A quién, otra vez, he de persuadir?” Intercambios discursivos entre hombres y dioses en la épica y la tragedia griegas — M. I. Crespo y H. Martignone (comps.) (Buenos Aires, 2014)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-duchemin-mythes-grecs",
+          "name": "Mythes grecs et sources orientales — J. Duchemin (Paris, 1995)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-faulkner-homeric-hymns-essays",
+          "name": "The Homeric Hymns. Interpretative essays — A. Faulkner (ed.) (Oxford, 2011)",
+          "role": "C.2 Crítica · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-ford-aristotle-as-poet",
+          "name": "Aristotle as Poet. The Song for Hermias and Its Contexts — A. Ford (Oxford, 2011)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-guzman-guerra-metrica",
+          "name": "Manual de Métrica Griega — A. Guzmán Guerra (Madrid, 1997)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-harder-callimachus-2",
+          "name": "Callimachus II — M. A. Harder (ed.) (Groningen, 2004)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-harder-callimachus-1",
+          "name": "Callimachus I — M. A. Harder, R. F. Regtuit y G. C. Wakker (eds.) (Groningen, 1993)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-hunter-theocritus",
+          "name": "Theocritus and the Archaeology of Greek Poetry — R. Hunter (Cambridge, 1996)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-kirk-mitos-griegos",
+          "name": "La naturaleza de los mitos griegos — G. S. Kirk (Barcelona, 1992)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-lamberton-homer-theologian",
+          "name": "Homer the Theologian: Neoplatonist Allegorical Reading and the Growth of the Epic Tradition — R. Lamberton (Berkeley, 1986)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-morand-hymnes-orphiques",
+          "name": "Études sur les Hymnes orphiques — A.-F. Morand (Leiden, 2001)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-ogden-companion-greek-religion",
+          "name": "A Companion to Greek Religion — D. Ogden (ed.) (Oxford, 2007)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-sicking-verslehre",
+          "name": "Griechische Verslehre — C. M. J. Sicking (München, 1993) · «Hay traducción al español realizada por la cátedra»",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-stephens-seeing-double",
+          "name": "Seeing Double. Intercultural Poetics in Ptolemaic Alexandria — S. Stephens (Berkeley, 2003)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-torres-himnodia-griega",
+          "name": "La himnodia griega antigua. Culto, performance y desarrollo de las convenciones del género — D. A. Torres (ed.) (Buenos Aires, 2017) · incluye Ristorto, “Los himnos trágicos. Himno a Pan en Áyax de Sófocles”, 90-106",
+          "role": "C.2 Crítica · obligatoria (*)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-van-liefferinge-theurgie",
+          "name": "La Théurgie. Des Oracles Chaldaïques à Proclus — C. Van Liefferinge (Liège, 1999)",
+          "role": "C.2 Crítica",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · C.3 Instrumenta studiorum",
+      "title": "Las herramientas",
+      "note": "Diccionarios (C.3.1) y gramáticas (C.3.2) del programa: el aparato con que se trabaja la lengua. Ninguno lleva asterisco de obligatoriedad en el original. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-bailly-dictionnaire",
+          "name": "Dictionnaire grec-français — A. Bailly (Paris, 1963)",
+          "role": "C.3.1 Diccionarios",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-chantraine-dictionnaire",
+          "name": "Dictionnaire étymologique de la langue grecque — P. Chantraine (Paris, 1968-1980)",
+          "role": "C.3.1 Diccionarios",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-liddle-scott-lexicon",
+          "name": "A Greek-English Lexicon — H. G. Liddle, R. Scott, H. S. Jones y R. McKenzie (Oxford, 1961) (el programa imprime «Liddle»)",
+          "role": "C.3.1 Diccionarios",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-pabon-diccionario",
+          "name": "Diccionario manual griego-español — J. Pabón (Barcelona, 1973)",
+          "role": "C.3.1 Diccionarios",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-yarza-diccionario",
+          "name": "Diccionario griego español — F. S. Yarza (Barcelona, 1972)",
+          "role": "C.3.1 Diccionarios",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-adrados-nueva-sintaxis",
+          "name": "Nueva sintaxis del griego antiguo — F. R. Adrados (Madrid, 1992)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-bonifazi-particles",
+          "name": "Particles in Ancient Greek Discourse: Five Volumes Exploring Particle Use across Genres — A. Bonifazi, A. Drummen y M. de Kreij (Washington DC, 2016)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-buck-greek-dialects",
+          "name": "The Greek Dialects — C. D. Buck (Chicago, 1968)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-chantraine-grammaire-homerique",
+          "name": "Grammaire homérique, 2 vols. — P. Chantraine (Paris, 1968-1980)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-chantraine-morfologia",
+          "name": "Morfología histórica del griego — P. Chantraine (Barcelona, 1983; 2ª ed. francesa: Paris, 1967)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-curtius-gramatica-griega",
+          "name": "Gramática griega — J. Curtius (Buenos Aires, 1951)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-denniston-greek-particles",
+          "name": "The Greek Particles — J. D. Denniston (Oxford, 1954)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-goodwin-moods-tenses",
+          "name": "Syntax of the Moods and Tenses of the Greek Verb — W. W. Goodwin (Philadelphia, 1992; 1ª ed. 1890)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-humbert-syntaxe-grecque",
+          "name": "Syntaxe grecque — J. Humbert (Paris, 1960)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-lasso-de-la-vega-sintaxis",
+          "name": "Sintaxis griega — J. Lasso de la Vega (Madrid, 1968)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-ragon-grammaire-grecque",
+          "name": "Grammaire grecque — E. Ragon (Paris, 1976)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-schwyzer-griechische-grammatik",
+          "name": "Griechische Grammatik, 4 vols. — E. Schwyzer et al. (Munich, 1939-1994)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-smyth-greek-grammar",
+          "name": "Greek Grammar — H. Smyth (Harvard, 1984; 1ª ed. 1920)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-5.libro-torres-metodo-filologico",
+          "name": "Método filológico-didáctico para el estudio del griego clásico — D. A. Torres (Buenos Aires, 2015)",
+          "role": "C.3.2 Gramáticas",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Griegas V, código 0551-C / 15011-C (Prof. Dr. Daniel Alejandro Torres, 2º cuatrimestre 2026) · publicado como «Último Programa aprobado» por el Departamento de Lenguas y Literaturas Clásicas. El programa no consigna resolución de aprobación; cita REDEC-2024-2526-UBA-DCT#FFYL para la modalidad de dictado.",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0551%20-%2015011%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20V%20-%20C-%20TORRES.pdf"
+  }
+}

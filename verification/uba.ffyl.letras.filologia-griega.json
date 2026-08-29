@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.letras.filologia-griega",
+  "wave": "letras-3-clasicas",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 15, "books_found": 15,
+  "not_found": [
+    "'Snell-Maehler para Píndaro' claimed as named in contenidos — bibliography-only (L207); Píndaro contenidos name no edition (L94)",
+    "'Page, Poetae Melici Graeci' — contenidos print only 'Page' (L92); title is bibliography-only (L202)",
+    "'Lobel-Page (1955) y Voigt (1971) para Safo y Alceo' — print attaches them to Alceo; Safo cited 'Page' (L92-93)",
+    "Pfeiffer 'mismo pie (Madrid, 1981)' imprecise — L115 has Gredos, L116 no publisher"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Units 5/5 with the printed 2.1/2.2/2.3 misnumbering under Unidad 3 registered, not corrected. Books 15/15 mechanically verified: exactly 16 asterisked entries in source, 15 volumes all drawn, the 16th (Torres Circe 26/1) an article correctly excluded and disclosed. Honest gaps kept (Christidis/Ercolani no publisher; Allen de-dittoed). Contradictions real: Himnodia 2016/2017 (L212/214), Jeffery L.H. 1963 vs L.K 1969 (L137/168), Bremer 'Ian' verbatim (L192). Modalidad recorded without inventing adopted percentage. Área attribution verified against parent. Fixes: relocate Snell-Maehler claim to bibliography, reduce PMG to 'Page', attach Lobel-Page/Voigt to Alceo, restate Pfeiffer as same-place-year-different-publisher. Minor: 'Jefa de Trabajos Prácticos' silent gender normalization of printed 'JEFE' (L39); Furley-Bremer Vol.2 title truncated; Allen role Unidades 3-4 is an inference, hedged."
+}

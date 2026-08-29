@@ -1,0 +1,310 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 horas semanales de dictado)",
+    "cuatrimestre": "2º cuatrimestre 2026 (año impreso en el programa: 2026)",
+    "codigo": "0546-G / 15016-G",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "Prof. SUÁREZ, MARCELA ALEJANDRA — firma el programa como «Profesora Regular Titular Plenaria». El programa no consigna letra ni número de cátedra más allá del código 0546-G / 15016-G",
+    "equipoDocente": [
+      "SUÁREZ, MARCELA ALEJANDRA (PROFESOR/A según el PDF; el bloque EQUIPO DOCENTE solo trae a Nenadic)",
+      "NENADIC, ROXANA (JTP)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual, sincrónica o asincrónica)",
+    "unidades": 2,
+    "tramos": 3,
+    "bibliografia": 28
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5",
+      "label": "Lengua y Cultura Latinas V"
+    }
+  ],
+  "eyebrow": "Letras · Lenguas y Literaturas Clásicas · Lengua y Cultura Latinas V",
+  "title": "El último latín se lee en la escena y en la novela.",
+  "lede": "Quinto nivel de lengua latina: se consolida el conocimiento del latín en su aspecto léxico, sintáctico, morfológico y fonético, se analiza el latín coloquial sobre los testimonios literarios existentes y se completa el manejo de la métrica con los esquemas propios de la comedia y la tragedia. El panorama de la literatura latina se cierra con tres géneros nuevos —comedia, tragedia y novela—, trabajados por análisis filológico y comentario de pasajes: la palliata de Plauto y Terencio (Curculio, Hecyra), la Medea de Séneca, y la prosa ficcional del Satyricon de Petronio y las Metamorphoses de Apuleyo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "2",
+      "small": "3 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Latinas V, código 0546-G / 15016-G, Departamento de Lenguas y Literaturas Clásicas, carrera de Letras (FFyL-UBA): programa de la Prof. Marcela Alejandra Suárez, 2º cuatrimestre 2026 (el PDF imprime «AÑO: 2026»), publicado como «Último Programa aprobado» en letrasclasicas.filo.uba.ar. El programa no consigna resolución de aprobación: la única resolución que cita para el dictado es REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026, hasta 30% de virtualidad), y para la evaluación el Reglamento Académico Res. (CD) Nº 4428/17 y el RTARMEM Res. (CD) Nº 1117/10. Equipo docente según el PDF: JTP Roxana Nenadic, con la nota al pie de que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». El programa no menciona otras cátedras de la materia ni correlatividades: nada de eso se afirma acá. SELECCIÓN DE BIBLIOGRAFÍA DECLARADA: se dibujan como nodo libro únicamente los títulos de volumen de las listas OBLIGATORIA de las dos unidades — obras leídas completas, monografías y volúmenes colectivos citados por un capítulo (el capítulo se nombra en el nodo). NO se dibujan: los artículos de revista, las actas de jornadas (Diez 2012, Actas de las IV Jornadas Nacionales de Investigación y Crítica Teatral, AINCRIT), las listas COMPLEMENTARIA de ambas unidades, la sección FUENTES (ediciones, comentarios y traducciones de Plauto, Terencio, Séneca, Petronio y Apuleyo), la BIBLIOGRAFÍA GENERAL (diccionarios, gramáticas, métrica y léxicos latinos) y la Filmografía y teatro que el programa lista para la Unidad 1 (Así es la vida, dir. Arturo Ripstein, 2001; Medea en Manhattan, «Autor: Dea Loher» (así impreso), dir. Lía Jelín, 2016). Los nombres y datos editoriales de los libros se transcriben tal como los imprime el programa, sin corregirlos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 2 unidades del programa",
+      "title": "Teatro y novela",
+      "note": "Las dos unidades del programa, con los tramos numerados que las componen, en orden.",
+      "map": {
+        "mk": "El programa, en dos unidades",
+        "tree": "LENGUA Y CULTURA LATINAS V · código 0546-G / 15016-G · Suárez\n│\n├─ UNIDAD 1 · Géneros teatrales en Roma\n│   ├─ 1.1 · La comedia · palliata plautina y terenciana — Curculio y Hecyra\n│   └─ 1.2 · La tragedia · la tragedia de Séneca — Medea\n│\n└─ UNIDAD 2 · La prosa narrativa ficcional en Roma\n       Satyricon de Petronio · Metamorphoses de Apuleyo",
+        "foot": "Cada tramo se trabaja por análisis filológico y comentario de una selección de pasajes; las obras completas se leen en español."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.comedia",
+          "name": "La comedia · palliata plautina y terenciana",
+          "role": "Unidad 1 · 1.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.tragedia",
+          "name": "La tragedia · la Medea senecana",
+          "role": "Unidad 1 · 1.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.prosa-narrativa-ficcional",
+          "name": "La prosa narrativa ficcional en Roma",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · títulos de volumen",
+      "title": "Lo que se lee",
+      "note": "Obras completas, monografías y volúmenes colectivos de las listas OBLIGATORIA de las dos unidades. Los artículos de revista, las actas de jornadas, la bibliografía complementaria, las FUENTES (ediciones y traducciones) y la bibliografía general no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-plauto-curculio",
+          "name": "Curculio (Gorgojo) — Plauto (lectura completa en español)",
+          "role": "Unidad 1 · 1.1 comedia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-terencio-hecyra",
+          "name": "Hecyra (La suegra) — Terencio (lectura completa en español)",
+          "role": "Unidad 1 · 1.1 comedia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-seneca-medea",
+          "name": "Medea — Séneca (lectura completa en español)",
+          "role": "Unidad 1 · 1.2 tragedia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-generos-literarios-romanos",
+          "name": "Géneros literarios romanos. Aproximación a su estudio — D. Estefanía y A. Pociña (eds.) (Madrid, 1996) · cap. Pociña, “La comedia latina: definición, clases, nacimiento”",
+          "role": "Unidad 1 · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-estudios-sobre-plauto",
+          "name": "Estudios sobre Plauto — A. Pociña y B. Rabaza (eds.) (Madrid, 1998) · cap. Pociña y Pociña, “Texto literario y texto escénico en la comedia plautina”",
+          "role": "Unidad 1 · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-comicidad-humor-terencio",
+          "name": "Comicidad, humor y performance en Terencio — E. Diolaiti y M. Suárez (comps.) (Buenos Aires, 2024) · cap. Suárez, “El atractivo cómico de Hecyra”",
+          "role": "Unidad 1 · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-ensenar-y-dominar",
+          "name": "Enseñar y dominar: las estrategias preceptivas en Roma — E. Caballero de del Sastre y A. Schniebs (eds.) (Buenos Aires, 2007; el programa consigna «Editorial de la Facultad de Filosofía y Letras» en la entrada de Palacios) · caps. Tola, “Una poética del exemplum: la Medea de Séneca” y Palacios, “Mujeres infieles, narradores desleales: la ineficacia didáctica de los exempla en Apul. Met. 9.14-31”",
+          "role": "Unidad 1 · 1.2 y Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-petronio-satiricon",
+          "name": "Satiricón — Petronio (lectura completa en español)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-apuleyo-metamorfosis",
+          "name": "Metamorfosis — Apuleyo (lectura completa en español)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-boyce",
+          "name": "The Language of the Freedmen in Petronius' Cena Trimalchionis — B. Boyce (Leiden, 1991)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-carmignani",
+          "name": "El Satyricon de Petronio. Tradición literaria e intertextualidad — M. Carmignani (Córdoba, 2011)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-conte",
+          "name": "The Hidden Author: An Interpretation of Petronius' Satyricon — G. B. Conte (Berkeley, 1996)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-fedeli-dimundo",
+          "name": "I Racconti del Satyricon — P. Fedeli y R. Dimundo (Salerno Editrice, Roma, 1990)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-gianotti-magnaldi",
+          "name": "Apuleio. Storia del testo e interpretazioni — G. F. Gianotti y G. Magnaldi (Torino, 2000)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-oxford-readings-roman-novel",
+          "name": "Oxford Readings in the Roman Novel — S. J. Harrison (ed.) (Oxford, 1999)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-harrison-latin-sophist",
+          "name": "Apuleius: a Latin Sophist — S. Harrison (Oxford, 2000)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-harrison-characterisation",
+          "name": "Characterisation in Apuleius' Metamorphoses. Nine Studies — S. Harrison (ed.) (Cambridge, 2015)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-hofmann-latin-fiction",
+          "name": "Latin Fiction. The Latin Novel in Context — H. Hofmann (ed.) (London - New York, 1999)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-kirichenko",
+          "name": "A Comedy of Storytelling, Theatricality and Narrative in Apuleius’ Golden Ass — A. Kirichenko (Heidelberg, 2010)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-may",
+          "name": "Apuleius and the Drama. The Ass on Stage — R. May (Oxford, 2007)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-nagore",
+          "name": "Estrategias intertextuales en la narrativa latina: el Satyricon de Petronio — J. Nagore (ed.) (Buenos Aires, Eudeba, 2003)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-panayotakis",
+          "name": "Theatrical Elements in the Satyrica of Petronius — C. Panayotakis (Leiden, 1995)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-rimmel",
+          "name": "Petronius and the Anatomy of Fiction — V. Rimmel (Cambridge, 2002) · así lo imprime el programa",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-apuleius-and-africa",
+          "name": "Apuleius and Africa — B. Todd Lee, E. Finkelpearl y L. Graverini (edd.) (New York and London, 2014)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-winkler",
+          "name": "Auctor and Actor. A narratological Reading of Apuleius’s The golden Ass — J. Winkler (Berkeley, 1985)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-nostoi",
+          "name": "Nostoi. Estudios a la memoria de Elena F. Huber — A. Atienza et al. (edd.) (Buenos Aires, EUDEBA, 2012) · cap. Palacios, “La verdad desnuda: discurso, cuerpo y género en Metamorphoses de Apuleyo”",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-discursos-del-cuerpo-en-roma",
+          "name": "Discursos del cuerpo en Roma — A. Schniebs (ed.) (Buenos Aires, Editorial de la Facultad de Filosofía y Letras, 2011) · cap. Palacios, “El cuerpo del amante como manjar (Apul. Met. 8.9.6)”",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5.libro-monstruos-y-maravillas",
+          "name": "Monstruos y maravillas en la literatura latina y medieval y sus proyecciones — E. Caballero de Del Sastre, B. Rabaza y C. Valentín (comps.) (Rosario, Centro de Estudios Latinos - Homo Sapiens, 2006) · cap. Palacios, “Mujeres engendran monstruos: la construcción de los vicios femeninos en Apuleyo Metamorfosis IV-VI”",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Latinas V, código 0546-G / 15016-G (Prof. Marcela Alejandra Suárez, 2º cuatrimestre 2026), publicado como «Último Programa aprobado» por el Departamento de Lenguas y Literaturas Clásicas",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0546%20-%2015016%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20V%20-%20G-%20SU%C3%81REZ.pdf"
+  }
+}

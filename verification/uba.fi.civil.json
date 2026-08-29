@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.civil",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Extract /Users/tomb/p/learn/extract/out/fi-civil-plan.txt (146 KB) is the Anexo of the PDF named RESCD_2023_720_Civil_Plan_2023 — header 'Ingeniería Civil · Plan de Estudios · Actualización 2023 | Plan 2020 y resoluciones modificatorias', totals 251 créditos / 4016 hs / 11 cuatrimestres match node metadata exactly. The Anexo body never literally prints 'Res. (CD) 720/2023' (that number comes only from the PDF filename/URL); the resolución citation is plausible but not confirmed inside the extracted text. All 38 exit names match the Segundo Ciclo caja curricular (3º–11º cuatrimestre) verbatim after accent/case/line-wrap normalization; cuatrimestre placement and créditos per exit also match (spot-checked all). Trabajo Profesional o Tesis is listed as 6+6 créditos across 10º and 11º = 12, as the node states. Source obligatorias not in node: only 'Electivas' credit slots (4/6/6/8 = 24, noted in node) and 'Inglés' requisito (noted) — correctly excluded. CBC/ciclo básico (38 créditos) omitted as expected. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

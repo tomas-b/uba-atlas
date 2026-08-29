@@ -1,0 +1,20 @@
+{
+  "address": "uba.fagr.agroalimentos",
+  "source_reachable": true,
+  "exits_total": 27,
+  "found": 27,
+  "not_found": [],
+  "omitted_from_source": [
+    "Matemática (CBC)",
+    "Química (CBC)",
+    "Introducción al Conocimiento de la Sociedad y el Estado (CBC)",
+    "Biología (CBC)",
+    "Física e introducción a la Biofísica (CBC)",
+    "Introducción al Pensamiento Científico (CBC)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source URL returns HTTP 200 application/pdf (92371 bytes). Extract header reads 'PLAN DE ESTUDIOS DE LA CARRERA DE LICENCIATURA EN GESTION DE AGROALIMENTOS 2018 / Res CS 8555/2017', footer 'Dirección de Ingreso, Alumnos y Graduados, octubre 2023' — identity matches node's frame/source label. All 27 exit names found verbatim in the extract (Teoría de las Organizaciones is line-wrapped 'Organiza|aciones' in the extract; matched). One minor wording divergence: the source's own heading for the year-3 course is 'Sistemas de Producción y Postcosechas, Frutos y Hortalizas (4)' while the node uses 'Sistemas de Producción y Postcosecha de Frutos y Hortalizas' — this exact form appears in the source's correlativa lists (source is internally inconsistent, also uses 'Frutas'); not a fabrication. Non-CBC course count in source: 9+8+8+2 = 27, matching node's materias=27; source's '32 espacios curriculares obligatorios y la Práctica Profesional' = 33 = 27 + 6 CBC, consistent. Credits '163.5 créditos = 2.616 horas', optativos 10 créditos, FVet flags, and years/cuatrimestres/credits per course all match. Only omissions are the 6 CBC courses (by design). Did not byte-compare the live PDF against the extract, but the extract's header/URL filename (lga_2018.pdf) are consistent.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

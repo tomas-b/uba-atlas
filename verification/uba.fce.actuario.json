@@ -1,0 +1,13 @@
+{
+  "address": "uba.fce.actuario",
+  "source_reachable": true,
+  "exits_total": 37,
+  "found": 37,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched https://www.economicas.uba.ar/alumnos/actuario/ (169,898 bytes, title 'Actuario - Económicas UBA'); saved to /Users/tomb/p/learn/extract/out/verify-fce-actuario.html. All 37 exit names (6 ciclo general + 23 ciclo profesional + 8 electivas) found verbatim after accent/case/entity normalization; all 37 códigos found. Page lists 29 Obligatoria rows (all in node), 8 ELECTIVA rows (all in node), and 3 OPTATIVA rows (741 Elementos de Topología para Economía y Gestión, 750 Métodos Cuantitativos, 763 Teoría de los Juegos — 'vigente en 2026', oferta variable) which the node deliberately excludes per its frame text. Plan metadata matches: 'Resol. Consejo Superior Nº 2210/03', 'Duración teórica: 5 años', 'Carga Horaria Total: 2.628 horas', 'VEINTINUEVE (29) asignaturas Obligatorias y DOS (2) asignaturas Electivas u Optativas'. Spot-checked requisitos (262 CG, 279→601, 291→542, 548→279-602, 784→752-746) and hours (108/72) — match. Minor: page spells electiva 541 as 'História' (typo on the page); node uses 'Historia' — not a fabrication.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

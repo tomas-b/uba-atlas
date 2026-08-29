@@ -1,0 +1,13 @@
+{
+  "address": "uba.fadu.industrial",
+  "source_reachable": true,
+  "exits_total": 31,
+  "found": 31,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source page (fadu.uba.ar/nuevo-plan-de-estudios-de-diseno-industrial, saved to extract/out/verify-fadu-industrial.html) lists all 25 non-CBC obligatorias in the node; names match modulo roman/arabic numerals (source: 'Taller de Diseño Industrial I', 'Morfología I', 'Tecnología IV', 'Fisica II') and casing ('Ergonomía y factores humanos', 'Sociología aplicada al Diseño', 'Gestión de proyecto', 'Metodología de la investigación en diseño'). Hours per materia match the page. The 6 named electivas are NOT on the HTML page — they come only from the linked correlatividades PDF (wp-content/uploads/2022/04/DI_cuadro-de-correlatividades-Plan-DI18.pdf, extract at extract/out/fadu-industrial-plan.txt), which the node's source.label does cite; all 6 found there, with spelling normalized ('Diseño de Interfases y Grafica Aplicada a Productos' -&gt; 'Interfaces'). Nothing obligatorio in the source is missing from the node (CBC omitted by design; the HTML CBC list differs from the PDF's: page has Semiología, PDF has Antropología — not the node's concern). Plan: page says nothing about year/resolución; PDF says 'Plan DI18'; Código UBA (codigo.rec.uba.ar ... titulo-8-diseno-industrial/capitulo-a-plan-2017) confirms 'Plan 2017', footnote 'Resolución (CS) 8556/17', and 3432 hs total — matches node metadata. Minor: node says año 5 = 360 hs + electivas and año 6 = 540 hs incl. 240 hs electivas/optativas; page totals are 480 hs (5º, incl. 120 hs opt/elect) and 420 hs (6º) — the node's per-year hour framing is a reinterpretation, not a fabrication of names.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

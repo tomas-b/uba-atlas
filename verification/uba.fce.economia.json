@@ -1,0 +1,13 @@
+{
+  "address": "uba.fce.economia",
+  "source_reachable": true,
+  "exits_total": 55,
+  "found": 55,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched https://economicas.uba.ar/alumnos/economia/ (179,881 bytes, saved to /Users/tomb/p/learn/extract/out/verify-fce-economia.html). All 55 exit names and all 55 códigos appear in the page's plan tables (accent/case-normalized match). All 25 obligatorias on the page (6 Ciclo General + 19 Ciclo Profesional) are in the node; the four '# ELECTIVA u OPTATIVA ORIENTADA' placeholder slots (2×148 h + 2×72 h) are not exits, correctly described in the node note. Hours (108/72), 'Ciclo General Aprobado' prerequisites and every correlativa chain spot-checked against the table match exactly (e.g. 547: 262-541-543-556; 548: 283-546-549). Plan metadata matches: 'CARGA HORARIA TOTAL 2600', '4 años y medio' present on page, three ciclos and three orientaciones (Empresarial / Gobierno y Políticas Públicas / Análisis e Investigación Económica) present, '25 obligatorias + 4 electivas u optativas' stated verbatim on page; orientation rules (2 exclusivas + 2 generales; Análisis: Seminario de Integración obligatorio + 3, at least 1 exclusiva) match. Exclusiva/General and ELECTIVA/OPTATIVA labels in roles match the page's Condición/Carácter columns; '(vigente en 2026)' tags on optativas support 'oferta 2026'. No resolución number on the page, as the node's frame states. Only trivia: page has typos 'História de la Economía…' and 'Economístas' which the node silently corrects; 'Economía Sraffiana' (522) is listed on the page as General, and the node correctly labels it 'optativa general' despite placing it in the Análisis group.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

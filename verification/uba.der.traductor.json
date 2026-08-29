@@ -1,0 +1,15 @@
+{
+  "address": "uba.der.traductor",
+  "source_reachable": true,
+  "exits_total": 32,
+  "found": 32,
+  "not_found": [],
+  "omitted_from_source": [
+    "CBC only (expected): Introducción al Conocimiento de la Sociedad y el Estado, Introducción al Pensamiento Científico, Semiología, Principios Generales del Derecho Latinoamericano, Sociología, Principios de Derechos Humanos y Derecho Constitucional"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "PDF res-4961-12.pdf fetched (43 pages, OCR, 40 pages OCR'd, truncated but Anexo I fully captured on pp.4-5). Anexo I lists exactly 22 'Asignaturas específicas de Traductorado' + 10 'Asignaturas Jurídicas (comunes a la carrera de Abogacía)'; every exit name, régimen (anual/cuatrimestral) and hour load in the node matches the PDF line by line (e.g. Lengua I 144h anual, Traducción I 72h, Derecho I 48h, Contratos anual 96h, Penal/Procesal Penal anual 96h). Faculty page traductorado_materias.php independently lists the same 22+10 with the same régimen and cites Res. CS 3835/08 + modificatoria 4961/12. Node metadata (Plan 2008, Res. CS 3835/08, t.o. Res. CS 4961/12, título 'Traductor Público en Idioma…', 5 idiomas) matches PDF Art. 1/2 and Anexo II pt. 3. Minor: PDF correlatividades table (p.11) spells Traducción IV as 'económica empresarial' whereas Anexo I and the web page say 'económico empresarial' — node follows Anexo I; not a discrepancy of substance. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

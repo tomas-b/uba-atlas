@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.geologia",
+  "source_reachable": true,
+  "exits_total": 21,
+  "found": 21,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Live page (59.5KB fetched) lists exactly the 20 obligatorias in the node's exits plus 'Trabajo final de Licenciatura' (node writes 'Trabajo Final de Licenciatura' — case only) and '6 materias electivas' (node renders as Ciclo de Orientación note, not a fixed exit). Source states 'Resoluciones (CD) 2709/2011 y 2712/2011' — matches node. Page says duration 5.5 años sin CBC and ~30 puntos optativas — matches metadata. Page does not itself mention 'Plan 1993'; node attributes that to Código UBA Libro V, a separate cited source not verified here. Year/cuatrimestre placement of exits is not on this page (attributed to FCEN Recorrido Sugerido 2017, not verified). Correlativas in source: Levantamiento Geológico requires only Intro a la Geología and is a prerequisite for Geología Estructural, so placing it in año 4 (after Estructural in año 3) is suspicious vs the correlativa chain, though not a name fabrication. OCR extract missed 'Química General e Inorgánica I' and 'Física II' only due to text-splitting noise; both present in HTML.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

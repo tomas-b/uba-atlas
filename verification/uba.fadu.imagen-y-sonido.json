@@ -1,0 +1,13 @@
+{
+  "address": "uba.fadu.imagen-y-sonido",
+  "source_reachable": true,
+  "exits_total": 43,
+  "found": 43,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source fetched (145 KB, saved to /Users/tomb/p/learn/extract/out/verify-fadu-dis.html and .txt). All 23 obligatorias match the source's per-year tables (2º: 9, 3º: 8, 4º: 5, 5º: 1) name-for-name with identical hour loads (PAV1 120, PAV2/PAV3 180, PAV4 120, rest 60). All 20 electivas are named verbatim in the source (sections 3 'Propuestas' and 5.4 'Áreas'). Only omissions are the 7 CBC materias (by design; source counts 30 obligatorias = 7 CBC + 23). Source header 'CAPÍTULO A: PLAN 2016' and footnote 'Plan de Estudios aprobado por Resolución (CS) 6181/16' match the node's plan 2016 / Res. 6181/16; the 'IS17' label is not on the Código UBA page — it comes from the cited FADU correlatividades cuadro (extract/out/fadu-dis-plan.txt), which itself contains 35/43 of the names; the 8 it lacks are all present on the Código UBA page. 480/360/120-hour electiva/optativa rules and the 60-hr Socio-Humanística minimum also match the source. No fabricated exits found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

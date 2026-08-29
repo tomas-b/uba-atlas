@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.paleontologia",
+  "source_reachable": true,
+  "exits_total": 21,
+  "found": 21,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 21 exit names appear verbatim (accent/case-normalized) in the cited Código UBA page (Libro V, Tít. 18, Cap. A: Plan 2001 y su modificatorias; HTTP 200, saved to /Users/tomb/p/learn/extract/out/verify-fcen-paleo.html). Hours and year/cuatrimestre placement also match the source table (e.g. Biometría 120, Sedimentología 90, Química Gral 192, Genética 110, Evolución 90, Tesis 160; totals 3034 obligatorias + 800 electivas = 3834). Source lists exactly these 20 obligatorias + Tesis; only omissions are CBC (by design) and 'Electivas/optativas' slots (not fixed materias, correctly excluded; 49-item electiva list matches). Resoluciones CS 5919/01, 1686/14, 4739/05 appear as footnotes on the Código page; CD 1334/2004 and 2712/2011 appear on ingresantes.exactas.uba.ar (second source, HTTP 200). Second source uses slightly different names for two items ('Introducción a las Ciencias de la Atmósfera y de los Océanos' and 'Fundamentos de Micropaleontología' not matched verbatim there, e.g. it says 'Biodiversidad Animal'), but the node cites Código UBA as primary and those names are exact there. Correlativas not verified line-by-line against ingresantes (out of scope).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

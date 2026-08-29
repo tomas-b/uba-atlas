@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.artes",
+  "source_reachable": true,
+  "exits_total": 54,
+  "found": 54,
+  "not_found": [],
+  "omitted_from_source": [
+    "Idioma sajón - Nivel Elemental / Medio / Superior (k.2.4, obligatorias, 4 h · 64 h)",
+    "Idioma latino - Nivel Elemental / Medio / Superior (k.2.4, obligatorias, 4 h · 64 h)",
+    "CBC (6 materias, listed at k.2.1 — node deliberately defers these to the CBC tree)",
+    "Electivas de otros Departamentos de FFyL (Letras, Historia, Filosofía, Antropología, Educación, Clásicas — closed lists at *** footnotes, mentioned in node note but not as exits)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source URL (filo.uba.ar .../PE Licenciatura Artes (modificación) 2024.pdf) returns HTTP 200 application/pdf; extracted text header is RESCS-2024-1507-E-UBA-REC (24 Oct 2024), texto ordenado of the plan approved by RESCS-2019-859-E-UBA-REC, Anexo ACS-2024-287-UBA-SG#REC — matches the node's resoluciones. All 54 exit names match the source after accent/case/dash normalization: 8 Ciclo Troncal (source rows 7-14), Epistemología y Metodología de la Investigación en Artes, Seminario de Gestión y Políticas Culturales, Seminario Específico (row 30, Optativo, 4 h/64 h), and all orientation lists (Artes Visuales A/B/C, Música A/B, Artes Escénicas A/B, Cine A/B, plus the Departamento de Artes closed list at source lines 521-569). Minor: 'Estética y Teorías Teatrales' appears as 'ESTÉTICA Y TEORÍAS TEATRALES' in the Escénicas table (row 16) but as 'ESTÉTICA Y TEORÍA TEATRALES' in the closed electivas list — node uses the table form, acceptable. Structure claims verified: CBC 6 / Troncal 8 / Orientado 14 + 1 seminario obligatorio (Gestión y Políticas Culturales) + 1 seminario específico optativo; 6 h/96 h per materia, seminars 4 h/64 h; 2 idiomas modernos (latino + sajón), 3 niveles each; Bachiller Universitario/a en Artes intermediate title present (section m). Plan-year caveat: node says 'vigente desde 2020' but the source only says the plan 'entrará en vigencia al momento de su aprobación en Consejo Superior' and references 'plan 2019' in equivalence tables; the 2020 start date is not stated in this PDF (likely from the faculty page, not the resolution). The Profesorado resolution RESCS-2019-1670 is not in this source (it is a separate plan) — node cites it but does not derive exits from it. Count check: 'materias: 54' in node equals the exits listed, but excludes the 6 idioma levels which the source treats as obligatorias — not a fabrication, but a scope choice worth noting.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

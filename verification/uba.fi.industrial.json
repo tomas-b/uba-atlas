@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.industrial",
+  "source_reachable": true,
+  "exits_total": 59,
+  "found": 59,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "Extracted text /Users/tomb/p/learn/extract/out/fi-industrial-plan-2024mod.txt is confirmed as the document at source.url: it carries 'Número: RESCS-2024-63-E-UBA-REC' (18 Mar 2024, EX-2023-04474759-UBA-DIMEDA#SA_FI, 'Plan de Estudios de la carrera de Ingeniería Industrial - Texto ordenado', 58 pages), and fi.uba.ar/grado/carreras/ingenieria-industrial/plan-de-estudios links exactly that PDF as 'Plan de estudios de Ingeniería Industrial 2023'; the PDF URL returns HTTP 200. All 59 exit names (28 obligatorias + 'Trabajo Profesional de Ingeniería Industrial / Tesis de Ingeniería Industrial' + 30 named electivas) were found verbatim (accent/case/whitespace-normalized) in the 3º–10º cuatrimestre tables and the 'ASIGNATURAS ELECTIVAS CICLO PROFESIONAL' table. Credits and correlativas spot-checked against the tables match (e.g. Taller de Manufactura 3 cr., Proyecto Industrial 8 cr., 24 electiva credits split 8+16 in 9º/10º). Source summary table: 28 obligatorias + 1 Proyecto Final + 6 electivas/optativas = 35 second-cycle, 41 total with CBC, 236 créditos, 3776 h — consistent with node metadata; no obligatoria in the source is missing from the node (CBC omitted by design). Only 'Taller de Manufactura' is absent from the older fi-industrial-plan.txt, but present in the cited 2024 text, so no fabrication. plan_matches=false is a minor provenance flag, not a fabrication: the node cites 'Res. CD 525/2023' but the string 525/2023 (or any RESCD) does not appear anywhere in the source PDF nor on the fi.uba.ar page; the PDF only references Res. CD 1235/18 (Plan 2020) and RESCS-2024-63. The 'Plan 2023' / 'Res. CS 63/2024' / 'ingresantes desde 2023' claims do match the source and the page ('sólo vigente para ingresantes previos al 2023' for the 2011 plan). Recommend dropping or separately sourcing the 'Res. CD 525/2023' citation.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

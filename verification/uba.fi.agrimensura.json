@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.agrimensura",
+  "source_reachable": true,
+  "exits_total": 56,
+  "found": 56,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Verified against /Users/tomb/p/learn/extract/out/fi-agrimensura-plan.txt (115 KB, header 'Ingeniería en Agrimensura · Plan de Estudios · Actualización 2023 | Plan 2020 y resoluciones modificatorias · ANEXO', totals 227 créditos / 3632 h, 10 cuatrimestres — consistent with the cited RESCD_2023_881 PDF). Accent/case/punctuation-normalized substring search found 55/56 names directly; the one miss, 'Cálculo Avanzado de Marcos de Referencia', is present in the ASIGNATURAS ELECTIVAS table (lines 622-624) but line-wrapped with interleaved correlativa text ('Cálculo Avanzado de Marcos de / Referencia'); the contenidos-mínimos heading at line 1535 spells it singular 'Marco de Referencia' — trivial, not a fabrication. All 36 obligatorias in the 3°-10° cuatrimestre tables (lines ~440-590) are in the node, and their credits sum to 161 exactly as the source states for second-cycle obligatorias (173 incl. the 12-credit TIF); the 20 electivas in the source table match the node's 20 one-to-one, none extra, none missing. CBC (ICSE, IPC, Análisis Matemático A, Álgebra A, Física, Pensamiento Computacional) correctly omitted. The string '881' does not appear in the extracted text (the resolution number comes from the PDF filename/URL, not the body); the body describes itself as Plan 2020 updated 2023, matching the node's resolucion field. Minor: source electivas table writes the correlativa of 'Herramientas para la Representación de Planos Digitales' as 'Dibujo Topográfico y Cartográfico' (inverted word order vs. the obligatoria name); node's role text uses the obligatoria's canonical name, which is fine.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

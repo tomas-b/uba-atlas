@@ -1,0 +1,13 @@
+{
+  "address": "uba.ffyb.alimentos",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Local extract of Res. (CS) 919/18 (EXP-UBA 87.537/2017, 15 Aug 2018) read from /Users/tomb/p/learn/extract/out/alimentos-lic-resolucion.txt (URL not re-fetched; extract is the cited PDF's text). All 38 exit names (8 CFG + 22 CFE obligatorias + 8 electivas) found verbatim after accent/case/whitespace normalization; faculty tags, durations and hour loads in the node match the table (items 7-44). Source numbers obligatorias 15-36 and electivas 37-44; node omits only CBC (1-6), by design. Hour totals (3774, 2121, 125 electivas, 300 h Práctica Profesional in 2nd cuatrimestre of 5th year) match section 8-9 of the Anexo. Minor: source spells 'Componentes bioactivos en alimentos de origen vegetal' and 'Materiales para envases Alimentarios' in lower case; node title-cases them (not a fabrication). No 'Polisacáridos para la industria alimentaria' (moved to optativa per source) or 'Comercialización de Alimentos' (dropped from old plan) in node, correctly.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

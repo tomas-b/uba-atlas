@@ -1,0 +1,1299 @@
+{
+  "paisaje-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/p.pdf",
+    "method": "text",
+    "pages": 7,
+    "ocrPages": null,
+    "chars": 26256,
+    "ok": true
+  },
+  "med-l2-dermatologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-09/dermatologia.pdf",
+    "method": "ocr",
+    "pages": 8,
+    "ocrPages": 8,
+    "chars": 12514,
+    "ok": true
+  },
+  "med-l2-dermatologia-26": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/26-Dermatologia_0.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 19718,
+    "ok": true
+  },
+  "fvet-agroalimentos-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/lga_2018.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 10313,
+    "ok": true
+  },
+  "med-l2-farmacologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-07/Programa%20de%20Farmacologia%20I.pdf",
+    "method": "text",
+    "pages": 26,
+    "ocrPages": null,
+    "chars": 56975,
+    "ok": true
+  },
+  "letras-griegas5-torres": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0551%20-%2015011%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20V%20-%20C-%20TORRES.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 18357,
+    "ok": true
+  },
+  "letras-griegas3-rodriguez": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15009%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20III%20-%20B%20-%20RODR%C3%8DGUEZ%20-%20BUIS.pdf",
+    "method": "text",
+    "pages": 19,
+    "ocrPages": null,
+    "chars": 67774,
+    "ok": true
+  },
+  "fsoc-trabajo-social-plan": {
+    "url": "https://trabajosocial.sociales.uba.ar/wp-content/uploads/sites/13/2016/03/Resolucion-CS-Plan-5962-2012.pdf",
+    "method": "text",
+    "pages": 59,
+    "ocrPages": null,
+    "chars": 241198,
+    "ok": true
+  },
+  "fsoc-trabajo-social-plan-corto": {
+    "url": "https://trabajosocial.sociales.uba.ar/wp-content/uploads/sites/13/2016/03/Plan-de-estudios.pdf",
+    "method": "text",
+    "pages": 33,
+    "ocrPages": null,
+    "chars": 77049,
+    "ok": true
+  },
+  "letras-hist-lengua-fuentes-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0565%2015059%20HISTORIA%20DE%20LA%20LENGUA%20ESPA%C3%91OLA%20FUENTES%202026.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 30336,
+    "ok": true
+  },
+  "med-l2-diagnostico": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/15-Diagnostico%20por%20Imagenes_0.pdf",
+    "method": "text",
+    "pages": 19,
+    "ocrPages": null,
+    "chars": 39230,
+    "ok": true
+  },
+  "med-l2-salud-publica": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-08/Salud%20P%C3%BAblica%20I.pdf",
+    "method": "ocr",
+    "pages": 7,
+    "ocrPages": 7,
+    "chars": 15452,
+    "ok": true
+  },
+  "letras-renacimiento-sforza-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0584%20-%2015039%20LITERATURA%20EUROPEA%20DEL%20RENACIMIENTO%202026.pdf",
+    "method": "text",
+    "pages": 15,
+    "ocrPages": null,
+    "chars": 35979,
+    "ok": true
+  },
+  "med-l2-medicina-2": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/17-Medicina%20B_0.pdf",
+    "method": "text",
+    "pages": 27,
+    "ocrPages": null,
+    "chars": 95473,
+    "ok": true
+  },
+  "anatomia-verify": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/01-Anatomia_0.pdf",
+    "method": "ocr",
+    "pages": 52,
+    "ocrPages": 52,
+    "chars": 123474,
+    "ok": true
+  },
+  "fi-energia-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_de_Ingenieria_en_Energia_Electrica_3e14c1c1d3.pdf",
+    "method": "text",
+    "pages": 48,
+    "ocrPages": null,
+    "chars": 136876,
+    "ok": true
+  },
+  "verify-traductor": {
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/res-4961-12.pdf",
+    "method": "ocr",
+    "pages": 43,
+    "ocrPages": 40,
+    "chars": 90189,
+    "ok": true
+  },
+  "fi-petroleo-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_726_Petroleo_Plan_2023_Aprobacion_5663903ff7_adb28bbff0.pdf",
+    "method": "text",
+    "pages": 39,
+    "ocrPages": null,
+    "chars": 114794,
+    "ok": true
+  },
+  "med-l2-urologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/34-Urologia_0.pdf",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 10182,
+    "ok": true
+  },
+  "fcen-datos-plan": {
+    "url": "http://lcd.exactas.uba.ar/wp-content/uploads/2022/11/Plan-de-Estudios-Lic.-en-Cs.-Datos.pdf",
+    "method": "text",
+    "pages": 27,
+    "ocrPages": null,
+    "chars": 139687,
+    "ok": true
+  },
+  "med-l2-nutricion": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/16-Nutricion_0.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 29299,
+    "ok": true
+  },
+  "letras-esp-medieval-funes-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0557%20-%2015021%20LITERATURA%20ESPA%C3%91OLA%20I%20%28MEDIEVAL%29%202026.pdf",
+    "method": "text",
+    "pages": 19,
+    "ocrPages": null,
+    "chars": 59141,
+    "ok": true
+  },
+  "letras-latinas5-suarez": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0546%20-%2015016%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20V%20-%20G-%20SU%C3%81REZ.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 30138,
+    "ok": true
+  },
+  "fsoc-politica-plan": {
+    "url": "http://cienciapolitica.sociales.uba.ar/wp-content/uploads/sites/6/2019/04/PLAN-NUEVO-DE-CP-8558-17.pdf",
+    "method": "ocr",
+    "pages": 32,
+    "ocrPages": 32,
+    "chars": 87832,
+    "ok": true
+  },
+  "fcen-matematica-plan": {
+    "url": "https://exactas.uba.ar/wp-content/uploads/2015/12/Plan-de-Estudios-Lic.-en-Cs.-Matem%C3%A1ticas.pdf",
+    "method": "ocr",
+    "pages": 2,
+    "ocrPages": 2,
+    "chars": 4294,
+    "ok": true
+  },
+  "fagr-prof-ambiental-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/plan_de_estudios_profesorado.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 8041,
+    "ok": true
+  },
+  "verify-letras": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf",
+    "method": "text",
+    "pages": 77,
+    "ocrPages": null,
+    "chars": 314298,
+    "ok": true
+  },
+  "letras-esp-moderna-topuzian-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0559%2015023%20LITERATURA%20ESPA%C3%91OLA%20III%20MODERNA%20Y%20CONTEMPOR%C3%81NEA%20TOPUZIAN_0.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 43394,
+    "ok": true
+  },
+  "artes-lic-plan-2024": {
+    "url": "https://filo.uba.ar/sites/default/files/2024-12/PE%20Licenciatura%20Artes%20(modificaci%C3%B3n)%202024.pdf",
+    "method": "text",
+    "pages": 60,
+    "ocrPages": null,
+    "chars": 183488,
+    "ok": true
+  },
+  "fi-informatica-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700.pdf",
+    "method": "text",
+    "pages": 32,
+    "ocrPages": null,
+    "chars": 101566,
+    "ok": true
+  },
+  "letras-siglo-de-oro-vila": {
+    "url": "http://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0558%2015022%20LITERATURA%20ESPA%C3%91OLA%20DEL%20SIGLO%20DE%20ORO%20VILA.pdf",
+    "method": "text",
+    "pages": 17,
+    "ocrPages": null,
+    "chars": 52534,
+    "ok": true
+  },
+  "letras-latinas4-pegolo": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15015%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20IV%20-%20F%20-%20P%C3%89GOLO.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 24044,
+    "ok": true
+  },
+  "fce-sistemas-plan": {
+    "url": "https://economicas.uba.ar/internacionales/wp-content/uploads/ECTS-Sistemas-2024.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 4159,
+    "ok": true
+  },
+  "educacion-plan-2016-resumen": {
+    "url": "https://educacion.filo.uba.ar/sites/educacion.filo.uba.ar/files/PLAN%202016%20RESUMEN%20F.pdf",
+    "method": "text",
+    "pages": 6,
+    "ocrPages": null,
+    "chars": 3951,
+    "ok": true
+  },
+  "educacion-plan-2016-licenciatura": {
+    "url": "https://educacion.filo.uba.ar/sites/educacion.filo.uba.ar/files/RESOLUCION%20PLAN%20DE%20ESTUDIOS%20LICENCIATURA%202016%20CON%20MODIFICACIONES%202024.pdf",
+    "method": "text",
+    "pages": 54,
+    "ocrPages": null,
+    "chars": 172675,
+    "ok": true
+  },
+  "educacion-plan-2016-profesorado": {
+    "url": "https://educacion.filo.uba.ar/sites/educacion.filo.uba.ar/files/RESOLUCION%20PLAN%20DE%20ESTUDIOS%20PROFESORADO%202016%20CON%20MODIFICACIONES%202024.pdf",
+    "method": "text",
+    "pages": 44,
+    "ocrPages": null,
+    "chars": 130130,
+    "ok": true
+  },
+  "med-obstetricia-plan": {
+    "url": "https://fmed.uba.ar/sites/default/files/2023-04/OBSTETRICIA%20-%20PLAN%20DE%20ESTUDIOS%20DRUPAL.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 6069,
+    "ok": true
+  },
+  "med-podologia-plan": {
+    "url": "https://fmed.uba.ar/sites/default/files/2021-03/PLAN%20DE%20ESTUDIOS%20de%20la%20Tecnicatura%20de%20Podolog%C3%ADa.pdf",
+    "method": "text",
+    "pages": 5,
+    "ocrPages": null,
+    "chars": 7710,
+    "ok": true
+  },
+  "med-podologia-correlatividades": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2021-03/Correlatividades.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 3797,
+    "ok": true
+  },
+  "letras-griegas1-sapere": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0547-15007-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20I%20-%20J%20-%20SAPERE.pdf",
+    "method": "text",
+    "pages": 18,
+    "ocrPages": null,
+    "chars": 57193,
+    "ok": true
+  },
+  "med-l2-ortopedia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/32-Ortopedia%20y%20Traumatologia_0.pdf",
+    "method": "ocr",
+    "pages": 10,
+    "ocrPages": 10,
+    "chars": 16569,
+    "ok": true
+  },
+  "letras-europea-medieval-balestrini": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0583%2015038%20LITERATURA%20EUROPEA%20MEDIEVAL%20BALESTRINI.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 34906,
+    "ok": true
+  },
+  "med-l2-neurocirugia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/29-Neurocirugia_0.pdf",
+    "method": "ocr",
+    "pages": 3,
+    "ocrPages": 3,
+    "chars": 2311,
+    "ok": true
+  },
+  "letras-lit-griega-crespo": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/O5003%20-%2015005%20-%20LITERATURA%20GRIEGA%20ANTIGUA%20-D%20-%20CRESPO.pdf",
+    "method": "text",
+    "pages": 23,
+    "ocrPages": null,
+    "chars": 96593,
+    "ok": true
+  },
+  "verify-psi-mt": {
+    "url": "https://www.psi.uba.ar/musicoterapia/estructura_materias_cargahoraria.pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 6272,
+    "ok": true
+  },
+  "sintaxis-borzi-0570": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0570%20SINTAXIS%20BORZI_0.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 34684,
+    "ok": true
+  },
+  "sintaxis-borzi-alt": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/SINTAXIS%20BORZI.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 32250,
+    "ok": true
+  },
+  "fagr-agronomia-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/agro-plan-2017-con-res-cs-1096-23.pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 15103,
+    "ok": true
+  },
+  "med-l2-medicina-legal": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/36-Medicina%20Legal%20y%20Deontolog%C3%ADa%20M%C3%A9dica_0.pdf",
+    "method": "ocr",
+    "pages": 17,
+    "ocrPages": 17,
+    "chars": 27237,
+    "ok": true
+  },
+  "tal-c-delfino": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0554%20C%20TEOR%C3%8DA%20Y%20AN%C3%81LISIS%20LITERARIO%20C%20DELFINO.pdf",
+    "method": "text",
+    "pages": 27,
+    "ocrPages": null,
+    "chars": 79197,
+    "ok": true
+  },
+  "letras-latinas1-manfredini": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0542%20-%2015012%20LENGUA%20Y%20CULTURA%20LATINAS%20I%20-%20A%20-%20MANFREDINI.pdf",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 21203,
+    "ok": true
+  },
+  "fsoc-rrtt-plan": {
+    "url": "https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2018/07/Plan-de-Estudios-74-85.pdf",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 15366,
+    "ok": true
+  },
+  "fi-naval-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Naval_92471f6cb7.pdf",
+    "method": "text",
+    "pages": 59,
+    "ocrPages": null,
+    "chars": 147535,
+    "ok": true
+  },
+  "gramatica-kornfeld": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0595-A%20GRAM%C3%81TICA%20KORNFELD_0.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 40223,
+    "ok": true
+  },
+  "gramatica-kornfeld-b": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0595-A%20GRAM%C3%81TICA%20A%20KORNFELD.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 39988,
+    "ok": true
+  },
+  "letras-filologia-griega-torres": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15017%20-%20FILOLOG%C3%8DA%20GRIEGA%20-%20TORRES_2.pdf",
+    "method": "text",
+    "pages": 7,
+    "ocrPages": null,
+    "chars": 19027,
+    "ok": true
+  },
+  "antropologia-plan-2023-lic": {
+    "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/CA0B46~1.PDF",
+    "method": "text",
+    "pages": 43,
+    "ocrPages": null,
+    "chars": 115707,
+    "ok": true
+  },
+  "antropologia-plan-2023-prof": {
+    "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/CA046C~1.PDF",
+    "method": "text",
+    "pages": 35,
+    "ocrPages": null,
+    "chars": 96624,
+    "ok": true
+  },
+  "letras-fonologia-barbeito-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0569%2015047%20FONOLOG%C3%8DA%20Y%20MORFOLOG%C3%8DA%20BARBEITO.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 26809,
+    "ok": true
+  },
+  "fadu-dis-plan": {
+    "url": "http://www.fadu.uba.ar/wp-content/uploads/2023/03/DIS_Cuadro-de-correlatividades-plan-IS17-corregido.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 6443,
+    "ok": true
+  },
+  "letras-latinas2-ventura": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0543%20-%2015013%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20II%20-%20B-%20VENTURA.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 34408,
+    "ok": true
+  },
+  "litarg1-laera-2021": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0511-A%20LITERATURA%20ARGENTINA%20I%20A%20LAERA.pdf",
+    "method": "text",
+    "pages": 21,
+    "ocrPages": null,
+    "chars": 44569,
+    "ok": true
+  },
+  "litarg1-amante-2021": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0511-%20B%20LITERATURA%20ARGENTINA%20I%20B%20AMANTE.pdf",
+    "method": "text",
+    "pages": 32,
+    "ocrPages": null,
+    "chars": 82288,
+    "ok": true
+  },
+  "verify-medicina": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 12927,
+    "ok": true
+  },
+  "letras-griegas4-coscolla": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15010%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20IV%20-%20A%20-%20COSCOLLA.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 29187,
+    "ok": true
+  },
+  "med-l2-medicina-1": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/13-Medicina%20A_0.pdf",
+    "method": "text",
+    "pages": 26,
+    "ocrPages": null,
+    "chars": 84554,
+    "ok": true
+  },
+  "med-l2-toxicologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-10/Toxicolog%C3%ADa.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 23112,
+    "ok": true
+  },
+  "fi-alimentos-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_1014_Alimentos_Plan_2023_Aprobacion_fa0ea90fef.pdf",
+    "method": "text",
+    "pages": 40,
+    "ocrPages": null,
+    "chars": 116418,
+    "ok": true
+  },
+  "biotecnologia-lic-plan": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/09/ACS-2025-299-UBA-SGREC.pdf",
+    "method": "text",
+    "pages": 35,
+    "ocrPages": null,
+    "chars": 101684,
+    "ok": true
+  },
+  "biotecnologia-lic-cuatrimestres": {
+    "url": "https://biotecno.exactas.uba.ar/pdf/cuatrimestres-LBT.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 6177,
+    "ok": true
+  },
+  "verify-historia": {
+    "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 8757,
+    "ok": true
+  },
+  "med-l2-ingles": {
+    "url": "https://docs.google.com/document/d/1ncEs56Tbdwd8DTLKGk5-AtfUXNlOcxGU/export?format=pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 6165,
+    "ok": true
+  },
+  "letras-griegas2-fernandez": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0548%20-%2015008%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20II%20-%20I%20-%20FERN%C3%81NDEZ%20DIVENOSA.pdf",
+    "method": "text",
+    "pages": 7,
+    "ocrPages": null,
+    "chars": 16120,
+    "ok": true
+  },
+  "fsoc-sociologia-plan": {
+    "url": "https://sociologia.sociales.uba.ar/wp-content/uploads/sites/7/2024/05/Plan-de-estudios-Sociologia.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 46270,
+    "ok": true
+  },
+  "fi-agrimensura-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_881_Agrimensura_Plan_2023_1ca938d170.pdf",
+    "method": "text",
+    "pages": 42,
+    "ocrPages": null,
+    "chars": 112878,
+    "ok": true
+  },
+  "litarg2-saitta": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0515%2015031%20LITERATURA%20ARGENTINA%20II%20-%20LITERATURA%20ARGENTINA%20II%20SIGLOS%20XX%20Y%20XXI%20SAITTA.pdf",
+    "method": "text",
+    "pages": 17,
+    "ocrPages": null,
+    "chars": 44930,
+    "ok": true
+  },
+  "litarg2-2018": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/2018-1%20LITERATURA%20ARGENTINA%20II%20PROGRAMA_0.pdf",
+    "method": "text",
+    "pages": 23,
+    "ocrPages": null,
+    "chars": 47379,
+    "ok": true
+  },
+  "med-l2-medicina-familiar-1": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-03/PROGRAMA%20MEDICINA%20FAMILIAR%202019.pdf",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 33880,
+    "ok": true
+  },
+  "med-l2-medicina-familiar-1-2025": {
+    "url": "https://fmed.uba.ar/sites/default/files/2024-12/Programa%20de%20Medicina%20Familiar-2025%20.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 48206,
+    "ok": true
+  },
+  "med-l2-oftalmologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/31-Oftalmologia_0.pdf",
+    "method": "ocr",
+    "pages": 8,
+    "ocrPages": 8,
+    "chars": 18735,
+    "ok": true
+  },
+  "med-l2-patologia-2": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/Patologia%20II.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 1709,
+    "ok": true
+  },
+  "med-l2-patologia-2-oficial": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-08/programa%20oficial%20pato2_0.pdf",
+    "method": "ocr",
+    "pages": 15,
+    "ocrPages": 15,
+    "chars": 43106,
+    "ok": true
+  },
+  "agroalimentos-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/lga_2018.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 10313,
+    "ok": true
+  },
+  "latinoamericana1-colombi": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0555-A%20LITERATURA%20LATINOAMERICANA%20I%20A%20COLOMBI.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 30389,
+    "ok": true
+  },
+  "latinoamericana1-anon": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0555%2C%2015032%20LITERATURA%20LATINOAMERICANA%20I%20A%20A%C3%91ON.pdf",
+    "method": "text",
+    "pages": 17,
+    "ocrPages": null,
+    "chars": 55102,
+    "ok": true
+  },
+  "med-l2-salud-publica-2": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-08/Salud%20P%C3%BAblica%20II.pdf",
+    "method": "ocr",
+    "pages": 9,
+    "ocrPages": 9,
+    "chars": 15351,
+    "ok": true
+  },
+  "geografia-lic-2020-abrev": {
+    "url": "https://drive.google.com/file/d/1zBuuwqsZsAKW8KGzLarMt1fgu7kiPxz2/view?usp=sharing",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 10016,
+    "ok": true
+  },
+  "geografia-prof-2020-abrev": {
+    "url": "https://drive.google.com/file/d/1Ud9B2LJ1KCL2GhE2LJrM3SnI4u-n38a1/view?usp=sharing",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 8186,
+    "ok": true
+  },
+  "letras-latinas3-palacios": {
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15014%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20III%20-%20D%20-%20PALACIOS.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 32164,
+    "ok": true
+  },
+  "med-l2-farmacologia-2": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-10/Programa%20de%20Farmacologia%20II.pdf",
+    "method": "text",
+    "pages": 31,
+    "ocrPages": null,
+    "chars": 86915,
+    "ok": true
+  },
+  "med-l2-ginecologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/28-Ginecologia_0.pdf",
+    "method": "ocr",
+    "pages": 12,
+    "ocrPages": 12,
+    "chars": 21327,
+    "ok": true
+  },
+  "letras-semantica-saab-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0571%20-%2015048%20SEM%C3%81NTICA%20Y%20PRAGM%C3%81TICA.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 21041,
+    "ok": true
+  },
+  "med-l2-histologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/02-Histologia,%20Biologia%20Celular,%20Embriologia%20y%20Genetica_0.pdf",
+    "method": "text",
+    "pages": 48,
+    "ocrPages": null,
+    "chars": 152822,
+    "ok": true
+  },
+  "med-kinesiologia-plan": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2023-03/PLAN%20DE%20ESTUDIOS.docx22.pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 6819,
+    "ok": true
+  },
+  "verify-alimentos": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Resolucion-Lic-en-Ciencia-y-Tecnologia-de-Alimentos.pdf",
+    "method": "text",
+    "pages": 32,
+    "ocrPages": null,
+    "chars": 97018,
+    "ok": true
+  },
+  "fadu-industrial-plan": {
+    "url": "http://www.fadu.uba.ar/wp-content/uploads/2022/04/DI_cuadro-de-correlatividades-Plan-DI18.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 5024,
+    "ok": true
+  },
+  "fce-administracion-ects": {
+    "url": "https://economicas.uba.ar/internacionales/wp-content/uploads/ECTS-Lic-Administracion-2024.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 5678,
+    "ok": true
+  },
+  "med-l2-psiquiatria": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20PSIQUIATRIA.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 25540,
+    "ok": true
+  },
+  "cmp-psiq-2023": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2023-08/PSIQUIATR%C3%8DA.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 27067,
+    "ok": true
+  },
+  "cmp-psiq-2019-03": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-03/PROGRAMA%20PSIQUIATRIA_0.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 24847,
+    "ok": true
+  },
+  "med-l2-bioetica-2": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/14-Bioetica%20II_0.pdf",
+    "method": "ocr",
+    "pages": 6,
+    "ocrPages": 6,
+    "chars": 11900,
+    "ok": true
+  },
+  "med-l2-bioetica-2-canonical": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-03/PROGRAMA%20BIO%C3%89TICA%20II.pdf",
+    "method": "text",
+    "pages": 6,
+    "ocrPages": null,
+    "chars": 11501,
+    "ok": true
+  },
+  "letras-teoria3-vitagliano-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0594%2015044%20TEOR%C3%8DA%20LITERARIA%20III.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 32512,
+    "ok": true
+  },
+  "fi-mecanica-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Mecanica_7d8331e1c8_78e0784ec3.pdf",
+    "method": "text",
+    "pages": 47,
+    "ocrPages": null,
+    "chars": 132978,
+    "ok": true
+  },
+  "fi-mecanica-rescs": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCS_2024_580_Plan_de_Estudios_modif_Ingenieria_Mecanica_b8f150415a.pdf",
+    "method": "text",
+    "pages": 48,
+    "ocrPages": null,
+    "chars": 134879,
+    "ok": true
+  },
+  "ffyb-farmacia-plan": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2023/08/Farmacia-Plan-simplificado.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 6802,
+    "ok": true
+  },
+  "ffyb-farmacia-plan-full": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Plan-Farmacia-2008-modificatoria-2016.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 2575,
+    "ok": true
+  },
+  "odo-odontologia-plan": {
+    "url": "http://odontologia.uba.ar/wp-content/uploads/2024/02/PLAN-DE-ESTUDIOS-2024.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 36245,
+    "ok": true
+  },
+  "letras-siglo-xix-bernini-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0568%201540%20LITERATURA%20DEL%20SIGLO%20XIX%20BERNINI%20LEDESMA.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 26118,
+    "ok": true
+  },
+  "fadu-arquitectura-plan": {
+    "url": "https://www.fadu.uba.ar/wp-content/uploads/2025/04/Correlativas-ARQ.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 3828,
+    "ok": true
+  },
+  "med-l2-patologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-08/programa.pdf",
+    "method": "text",
+    "pages": 12,
+    "ocrPages": null,
+    "chars": 32798,
+    "ok": true
+  },
+  "medicina-plan": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 12927,
+    "ok": true
+  },
+  "med-l2-pediatria": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/20-Pediatria_0.pdf",
+    "method": "ocr",
+    "pages": 13,
+    "ocrPages": 13,
+    "chars": 35250,
+    "ok": true
+  },
+  "med-l2-orl": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/33-Otorrinolaringologia_0.pdf",
+    "method": "ocr",
+    "pages": 19,
+    "ocrPages": 19,
+    "chars": 28979,
+    "ok": true
+  },
+  "edicion-plan-1997": {
+    "url": "http://edicion.filo.uba.ar/sites/edicion.filo.uba.ar/files/Res.%20CS%20N%C2%BA%205294-97%20-%20Plan%20de%20Estudios%20de%20Edici%C3%B3n%20(2).pdf",
+    "method": "ocr",
+    "pages": 13,
+    "ocrPages": 13,
+    "chars": 22132,
+    "ok": true
+  },
+  "teoria-literaria-2-kohan-2021": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0593%20TEORIA%20LITERARIA%20KOHAN.pdf",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 19428,
+    "ok": true
+  },
+  "teoria-literaria-2-2023": {
+    "url": "https://repositorio.filo.uba.ar/bitstreams/f56379e8-d7cf-407a-8af5-ae76db24af5e/download",
+    "method": "text",
+    "pages": 7,
+    "ocrPages": null,
+    "chars": 15906,
+    "ok": true
+  },
+  "alimentos-lic-plan": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Plan-de-estudios-Lic-en-Ciencia-y-Tecnologia-de-Alimentos.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 2136,
+    "ok": true
+  },
+  "alimentos-lic-resolucion": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2022/12/Resolucion-Lic-en-Ciencia-y-Tecnologia-de-Alimentos.pdf",
+    "method": "text",
+    "pages": 32,
+    "ocrPages": null,
+    "chars": 97018,
+    "ok": true
+  },
+  "latam2-uba-2017": {
+    "url": "https://repositorio.filo.uba.ar/bitstreams/6eda4506-eaa9-45ed-acdb-8683c7333be5/download",
+    "method": "text",
+    "pages": 15,
+    "ocrPages": null,
+    "chars": 39360,
+    "ok": true
+  },
+  "latam2-uba-2023": {
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/d7e83222-db0f-4d13-a11e-3504a7be0976/content",
+    "method": "text",
+    "pages": 15,
+    "ocrPages": null,
+    "chars": 46243,
+    "ok": true
+  },
+  "linguistica-ciapuscio-2019": {
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/8b1dd887-c487-4bee-abdd-c1ccca581c32/content",
+    "method": "ocr",
+    "pages": 13,
+    "ocrPages": 13,
+    "chars": 32307,
+    "ok": true
+  },
+  "linguistica-menendez-2023": {
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/1c420559-f53f-4884-b539-73a5749beffd/content",
+    "method": "text",
+    "pages": 7,
+    "ocrPages": null,
+    "chars": 13088,
+    "ok": true
+  },
+  "fcen-fisica-plan": {
+    "url": "https://www.df.uba.ar/attachments/article/6945/PLAN%20DE%20ESTUDIOS.pdf",
+    "method": "text",
+    "pages": 17,
+    "ocrPages": null,
+    "chars": 47655,
+    "ok": true
+  },
+  "med-l2-infectologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/27-Enfermedades%20Infecciosas_0.pdf",
+    "method": "text",
+    "pages": 6,
+    "ocrPages": null,
+    "chars": 14371,
+    "ok": true
+  },
+  "med-l2-infectologia-alt": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-10/Programa%20Infectologia.pdf",
+    "method": "ocr",
+    "pages": 5,
+    "ocrPages": 5,
+    "chars": 10659,
+    "ok": true
+  },
+  "psi-musicoterapia-plan": {
+    "url": "https://www.psi.uba.ar/musicoterapia/estructura_materias_cargahoraria.pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 6272,
+    "ok": true
+  },
+  "med-l2-salud-mental": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20SALUD%20MENTAL_0.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 16063,
+    "ok": true
+  },
+  "med-l2-salud-mental-v0": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20SALUD%20MENTAL_0.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 16063,
+    "ok": true
+  },
+  "fcen-quimica-plan": {
+    "url": "https://comision-quimica.exactas.uba.ar/wp-content/uploads/2024/10/CS-23-1035planmodificado.pdf",
+    "method": "text",
+    "pages": 47,
+    "ocrPages": null,
+    "chars": 134074,
+    "ok": true
+  },
+  "ffyb-bioquimica-plan": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/02/Bioquimica-Plan-2023-simplificado.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 7530,
+    "ok": true
+  },
+  "ffyb-bioquimica-plan-2023-res": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/02/Resolucion-Consejo-Superior-modificatoria-Plan-de-estudios-2023-Bioquimica.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 2582,
+    "ok": true
+  },
+  "ffyb-bioquimica-plan-2023-texto-ordenado": {
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/06/Resolucion-Texto-ordenado-Plan-de-Estudios-2023-BIOQUIMICA.pdf",
+    "method": "text",
+    "pages": 31,
+    "ocrPages": null,
+    "chars": 92630,
+    "ok": true
+  },
+  "verify-fi-energia": {
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_de_Ingenieria_en_Energia_Electrica_3e14c1c1d3.pdf",
+    "method": "text",
+    "pages": 48,
+    "ocrPages": null,
+    "chars": 136876,
+    "ok": true
+  },
+  "fcen-geologia-plan": {
+    "url": "https://exactas.uba.ar/wp-content/uploads/2015/12/Plan-de-Estudios-Lic.-en-Ciencias-Geol%C3%B3gicas.pdf",
+    "method": "ocr",
+    "pages": 2,
+    "ocrPages": 2,
+    "chars": 4698,
+    "ok": true
+  },
+  "fagr-ambientales-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/lca_2017.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 12749,
+    "ok": true
+  },
+  "letras-l2-fundamentos": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/15001-A%20FUNDAMENTOS%20DE%20ESTUDIOS%20LITERARIOS%20RUIZ.pdf",
+    "method": "text",
+    "pages": 16,
+    "ocrPages": null,
+    "chars": 40715,
+    "ok": true
+  },
+  "letras-l2-fundamentos-b": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/15001-B%20%20FUNDAMENTOS%20DE%20LOS%20ESTUDIOS%20LITERARIOS%20B%20DE%20MENDON%C3%87A.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 39414,
+    "ok": true
+  },
+  "fi-quimica-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_880_Quimica_Plan_2023_507cc321e0.pdf",
+    "method": "text",
+    "pages": 39,
+    "ocrPages": null,
+    "chars": 118777,
+    "ok": true
+  },
+  "med-l2-neumonologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/37-Neumonologia_0.pdf",
+    "method": "text",
+    "pages": 6,
+    "ocrPages": null,
+    "chars": 13978,
+    "ok": true
+  },
+  "fi-industrial-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_525_Industrial_Plan_2023_Aprobacion_2743f4c98b.pdf",
+    "method": "text",
+    "pages": 45,
+    "ocrPages": null,
+    "chars": 139729,
+    "ok": true
+  },
+  "fi-industrial-plan-2024mod": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCS_2024_63_Industrial_Plan_2023_Modificacion_b6f5d44f65_7e4ff9c5bb.pdf",
+    "method": "text",
+    "pages": 60,
+    "ocrPages": null,
+    "chars": 159612,
+    "ok": true
+  },
+  "fi-civil-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_720_Civil_Plan_2023_Aprobacion_6e607f13ca_6d88fe31d5.pdf",
+    "method": "text",
+    "pages": 52,
+    "ocrPages": null,
+    "chars": 143285,
+    "ok": true
+  },
+  "fcen-biologia-plan": {
+    "url": "https://cccb.exactas.uba.ar/wp-content/uploads/2019/09/79541a_f284512137d04aeab48bcc2db3370c93.pdf",
+    "method": "text",
+    "pages": 55,
+    "ocrPages": null,
+    "chars": 199215,
+    "ok": true
+  },
+  "fi-bioingenieria-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/Plan_de_estudios_Bioingenieria_1a33eedbd4.pdf",
+    "method": "text",
+    "pages": 52,
+    "ocrPages": null,
+    "chars": 138240,
+    "ok": true
+  },
+  "med-l2-neurologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/24-Neurologia_0.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 27658,
+    "ok": true
+  },
+  "verify-l2-histologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/02-Histologia,%20Biologia%20Celular,%20Embriologia%20y%20Genetica_0.pdf",
+    "method": "text",
+    "pages": 48,
+    "ocrPages": null,
+    "chars": 152822,
+    "ok": true
+  },
+  "verify-fi-informatica": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700.pdf",
+    "method": "text",
+    "pages": 32,
+    "ocrPages": null,
+    "chars": 101566,
+    "ok": true
+  },
+  "med-l2-obstetricia-materia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/30-Obstetricia_0_0.pdf",
+    "method": "ocr",
+    "pages": 8,
+    "ocrPages": 8,
+    "chars": 15883,
+    "ok": true
+  },
+  "med-l2-cirugia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/22-Cirugia_0.pdf",
+    "method": "ocr",
+    "pages": 18,
+    "ocrPages": 18,
+    "chars": 38057,
+    "ok": true
+  },
+  "fagr-economia-plan": {
+    "url": "https://www.agro.uba.ar/sites/default/files/documentos/cartelera/plan-leaa-2026.pdf",
+    "method": "text",
+    "pages": 2,
+    "ocrPages": null,
+    "chars": 10898,
+    "ok": true
+  },
+  "fi-electronica-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_727_Electronica_2023_Aprobacion_b3db6da6d9.pdf",
+    "method": "text",
+    "pages": 44,
+    "ocrPages": null,
+    "chars": 132680,
+    "ok": true
+  },
+  "med-l2-quimica-biologica": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/05-Bioquimica_0.pdf",
+    "method": "ocr",
+    "pages": 15,
+    "ocrPages": 15,
+    "chars": 33498,
+    "ok": true
+  },
+  "verify-fcen-datos": {
+    "url": "http://lcd.exactas.uba.ar/wp-content/uploads/2022/11/Plan-de-Estudios-Lic.-en-Cs.-Datos.pdf",
+    "method": "text",
+    "pages": 27,
+    "ocrPages": null,
+    "chars": 139687,
+    "ok": true
+  },
+  "socio-zullo-2020": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/SOCIOLING%C3%9C%C3%8DSTICA%20ZULLO%201%C2%B0%20CUATRI%202020.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 17922,
+    "ok": true
+  },
+  "socio-zullo-2023": {
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/b05dbeba-99c3-4def-94ea-4975cc60c4e2/content",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 19000,
+    "ok": true
+  },
+  "med-plan-2861": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf",
+    "method": "text",
+    "pages": 4,
+    "ocrPages": null,
+    "chars": 12927,
+    "ok": true
+  },
+  "med-l2-microbiologia": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/21-Microbiologia%20y%20Parasitologia%20I_0.pdf",
+    "method": "text",
+    "pages": 5,
+    "ocrPages": null,
+    "chars": 10941,
+    "ok": true
+  },
+  "med-l2-bioetica-1": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-03/PROGRAMA%20DE%20BIOETICA%20I.pdf",
+    "method": "text",
+    "pages": 6,
+    "ocrPages": null,
+    "chars": 11172,
+    "ok": true
+  },
+  "letras-siglo-xx-bentivegna-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0567%20-%2015041%20LITERATURA%20DEL%20SIGLO%20XX%202026.pdf",
+    "method": "text",
+    "pages": 27,
+    "ocrPages": null,
+    "chars": 47662,
+    "ok": true
+  },
+  "fi-sistemas-plan": {
+    "url": "https://cms.fi.uba.ar/uploads/Licenciatura_en_Analisis_de_Sistemas_1986_V2014_2ae2b76148.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 50718,
+    "ok": true
+  },
+  "smoke-test-guard": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20SALUD%20MENTAL_0.pdf",
+    "method": "text",
+    "pages": 8,
+    "ocrPages": null,
+    "chars": 16063,
+    "ok": true,
+    "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+  }
+}

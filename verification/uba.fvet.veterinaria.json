@@ -1,0 +1,13 @@
+{
+  "address": "uba.fvet.veterinaria",
+  "source_reachable": true,
+  "exits_total": 50,
+  "found": 50,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "Page fetched (89.9 KB) to /Users/tomb/p/learn/extract/out/verify-fvet-veterinaria.html (text dump: verify-fvet-veterinaria.txt). All 44 Módulo Común rows (cód+name+hs) and all 6 Eje 6 electivas (673-678) match the source table exactly; hours match for all 44; source table has exactly 44 obligatorias and none are missing from the node. Two names appear only in abbreviated form in the plan table ('Práct. Hospitalaria en Pequeños/Grandes Animales I', cód 508/509) — the unabbreviated 'Práctica Hospitalaria en Pequeños/Grandes Animales' appears in the Eje 1/2 correlativas text; not fabrication. Other node names expand source abbreviations ('Bases Agrícolas para la Prod. Animal', 'Pract. Solidarias', 'Producción de Bov. de Carne/Lecheros', 'Producc. de Equinos', 'Tecnología Protec. e Inspección Veter. de Alimen.') but each full form also appears elsewhere on the page. plan_matches=false only in the narrow sense that the fvet page never states 'Plan 2009', 'Res. CS 7309/09', or the 4234/2780/582/360 hour totals — those are attributed to Código UBA (codigo.rec.uba.ar), not to the cited URL, and were not verified here. Page does confirm Res. CS 2210/03 (optativas, 36 hs), the ciclo structure (CBC / Módulo Común / Ciclo Superior obligatorio / PPS with orientación), Taller de Sociología prerequisite for Ciclo Superior, and Ejes 1-5 as evaluations. Note: node lists 'Resolución Decano 839-2020' annotations were ignored (source-only). No edits made.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

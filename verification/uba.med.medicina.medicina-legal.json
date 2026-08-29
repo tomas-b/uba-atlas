@@ -1,0 +1,26 @@
+{
+  "address": "uba.med.medicina.medicina-legal",
+  "source_reachable": true,
+  "units_total": 16,
+  "units_found": 16,
+  "books_total": 3,
+  "books_found": 3,
+  "not_found": [],
+  "omitted": [
+    "SEGUNDO PUNTO: OBJETIVOS — the entire objectives section (1 Conocimientos, 2 Destrezas y habilidades, 3 Actitudinales, ~30 bullets, pp. 3-7) has no representation anywhere in the node",
+    "CUARTO PUNTO: METODOLOGÍA — Talleres de Integración Práctica (voluntary, docente de experiencia, refuerzo del tema princeps) and Ateneos de Discusión (extra-programática) are absent from metadata and frame",
+    "Plan-level correlativa: med-plan-2861.txt requires Psiquiatría aprobada BOTH 'para cursarla' and 'para rendir'; the node records only the programa's 'para rendir examen final'",
+    "Unidad 2 · El tratado de Montevideo y sus modificaciones actuales",
+    "Unidad 6 · Ley 26812/13; comité de bioética hospitalario; objeción de conciencia; decisiones anticipadas",
+    "Unidad 7 · Resoluciones 228/P3, 19/98 y 105/97 (establecimientos de salud, accidente laboral, perinatología)",
+    "Unidad 10 · Ley 26326/07 (obligaciones y prohibiciones de los médicos); rol del médico forense generalista y psiquiatra",
+    "Unidad 11 · Nociones de Criminalística; inhumación/exhumación/cremación bajo Ley 4977/14",
+    "Unidad 13 · DR 1011/10 (reglamentario de la 26485)",
+    "Unidad 15 · anencefalia y malformaciones incompatibles con la vida; ligadura tubaria y vasectomía; DR 1110/06; DR 956/13"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Source URL returns HTTP 200, application/pdf, 8.2 MB, last-modified 2018-12-06 — consistent with the cited 17-page scan; extract ends 'Pagina 17 de 17'. REFUTATION ATTEMPT FAILED: every one of the 16 unit exits maps 1:1 onto a numbered 'Unidad N' block in the TERCER PUNTO of the OCR text, in the same order, and every one of the 3 book exits is verbatim in the SÉPTIMO PUNTO (Patitó/Akadia/2009, Covelli/Alfaomega/2014, Basile/El Ateneo/2015). I grep-verified all 46 distinctive tokens cited in the roles — 17.132, DR 6216/67, 26413/08, 4977/14, 26529, 26742/12, 26743/12, 23984 arts 174/177/240/242/243/244/252, Informe Belmont, 23798/90, DR 1244/91, 22990, 24455/95, 24754/96, 20.744, 19.587, Dto 351/79, Dto 658/96, 24.557, 24193/93, Dto 512/95, 26066/06, Res MS 275/10, 24417, CABA 1265/03 y 1688/05, 26485/09, 26791/12, Acordada 39/06 CSJN, 25087, Plenario Natividad Frías, fallo CSJN 13/02/2012, ley 1044 CABA, 418/00, 439/00, 26130/06, 26862/13, 26657, art 34 inc 1 CP, plankton — all present, zero hits absent. No fabricated citation found. CONTRADICTION CONFIRMED AND CORRECTLY REGISTERED: the programa's SEXTO PUNTO says 'Inserción: se cursa en el 5to o 6to año de la carrera', while the plan extract (med-plan-2861.txt line 182) lists 'Medicina Legal - Deodontología Médica' inside the Ciclo Clínico correlativity table with no year column at all — only correlatives. The frame's note about the 'Deodontología' spelling is TRUE and verifiable: the plan PDF spells it that way, the programa spells it 'DEONTOLOGÍA'. CORRELATIVA CONFIRMED: 'Correlatividades; para rendir examen final: Psiquiatría aprobada' plus the follow-on paragraph 'sería aconsejable, además tener aprobada la asignatura Psiquiatría para rendir examen final, también deban tener aprobadas las siguientes asignaturas: Pediatría, Ginecología, Obstetricia' (the source sentence is grammatically mangled in the original/OCR; the node's rendering is a faithful reading of its intent). METADATA CONFIRMED: 'Carga horaria: 72 horas distribuidas en 24 clases de 3 horas' verbatim; 'Duración: un cuatrimestre'; 'La asignatura se dicta el primer y el segundo cuatrimestre de cada año - Cursos de verano'; evaluación conceptual grupal cada 4 clases sin nota, examen final oral, regularidad 80% presentismo — all verbatim. The 'no cátedra' claim holds: the only names in 17 pages are Dr. Fernando G. Casset (Secretario de Asuntos Legales) and Luciano Ariel Martínez (Jefe División Trámite) — administrative expediente signatures, no titular or cátedra. TWO MINOR IMPRECISIONS, below the fabrication threshold: (a) the frame enumerates the PRIMER PUNTO cross-subjects as 'psiquiatría, ginecología, obstetricia, bioética, cirugía, ortopedia y traumatología, pediatría, neurología y toxicología' but the text's first entry is 'psicología médica y psiquiatría' — 'psicología médica' is dropped; (b) Unidad 14's role says 'con acceso carnal' where the text says 'con penetración carnal', and drops 'con aprovechamiento de la inmadurez de la víctima'. Neither invents anything. The word 'transversal' is the atlas's own grouping label (it appears in the parent node uba.med.medicina.json, not in the plan PDF), but it is used as an editorial characterization of the plan's structure rather than presented as a quote, and the underlying fact — no year assigned in the plan — is true.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

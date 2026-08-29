@@ -1,0 +1,247 @@
+{
+  "address": "uba.ffyl.letras.filologia-griega",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales)",
+    "cuatrimestre": "2º",
+    "codigo": "15017",
+    "año": 2026,
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · Prof. Dr. Daniel Alejandro Torres, Prof. Regular Titular Plenario de Filología Griega (programa Nº 15017, 2º cuatrim. 2026)",
+    "equipoDocente": [
+      "TORRES, Daniel Alejandro (profesor)",
+      "SAPERE, Analía (JTP regular —el PDF imprime «JEFE DE TRABAJOS PRÁCTICOS»—)"
+    ],
+    "modalidad": "presencial, ajustada a REDEC-2024-2526-UBA-DCT#FFYL (el programa transcribe la norma general que habilita hasta un 30% de clases virtuales, pero no declara el porcentaje adoptado)",
+    "evaluacion": "3 instancias de evaluación parcial + 1 recuperatorio · Reglamento Académico Res. (CD) Nº 4428/17 · promoción con promedio ≥ 7 y 80% de asistencia, o examen final",
+    "unidades": 5,
+    "bibliografia": 15
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.filologia-griega",
+      "label": "Filología Griega"
+    }
+  ],
+  "eyebrow": "Letras · área Letras Clásicas · Filología Griega",
+  "title": "Piedra, papiro, manuscrito: por dónde llega el texto.",
+  "lede": "La filología como método, y después el método sobre un corpus. Se entra por el concepto y la historia de la disciplina —de la Antigüedad a hoy— y por las ciencias con las que trabaja: papirología, epigrafía, paleografía, crítica textual, lingüística histórica (alfabetos y dialectos griegos, morfología histórica, los modos sintácticos leídos sobre Homero). Se sale aplicándolo a la himnodia griega antigua por las tres vías en que un texto griego sobrevive: manuscrita —Himnos homéricos V y VI a Afrodita en jónico-épico, Safo y Alceo en eólico, Píndaro y Baquílides en dórico, con sus escolios y sus metros—, epigráfica —las leyes sagradas de los santuarios, el Himno cretense a Zeus Dicteo— y papirológica: los dos fragmentos nuevos de Safo publicados en 2014 y el “Poema de los hermanos”.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "7 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa Nº 15017 de Filología Griega (Prof. Dr. Daniel Alejandro Torres, 2º cuatrimestre 2026; el PDF imprime «AÑO: 2026»), publicado por el Departamento de Lenguas y Literaturas Clásicas en letrasclasicas.filo.uba.ar bajo el rótulo «Último Programa aprobado». El PDF consigna la modalidad de dictado por REDEC-2024-2526-UBA-DCT#FFYL, pero NO imprime resolución de aprobación del programa: no se le atribuye ninguna. El documento tampoco nombra la carrera —se identifica por Departamento (Lenguas y Literaturas Clásicas), código 15017 y materia—: la ubicación en Letras, área de Letras Clásicas, proviene del Plan de Estudios 2023 (Res. ACS-2023-58) citado en el nodo padre, no de este programa. Del nombre del archivo («15017 - FILOLOGÍA GRIEGA - TORRES_2.pdf») el código y el apellido están confirmados en el texto impreso; el sufijo «_2» es un artefacto del archivo y no significa nada dentro del documento. ERRATA DEL ORIGINAL: los tres apartados de la Unidad 3 vienen numerados «2.1», «2.2» y «2.3» en el impreso; acá se dibujan como los tres tramos de la Unidad 3 conservando en el rótulo la numeración impresa. La bibliografía de las Unidades 3 y 4 va bajo un encabezado único en el original. SELECCIÓN DECLARADA de bibliografía: el propio programa marca con asterisco la «bibliografía de consulta obligatoria»; se dibujan como libro las quince obras de volumen así marcadas. NO se dibujan: la extensa bibliografía complementaria (historia de la filología, papirología, epigrafía, crítica textual, lingüística, prosodia y métrica); los artículos de revista —incluido el obligatorio Torres, «Safo, el nuevo “Poema de los hermanos”…», Circe 26/1, 2022— ni las ediciones críticas de los textos primarios, que el programa nombra dentro de los contenidos: Sokolowski, Lois sacrées de l’Asie Mineur y Lois sacrées des cités grecques (y su Suppl.); Lobel-Page (1955) y Voigt (1971) para Alceo, «Page» a secas para los fragmentos de Safo; Poetae Melici Graeci; Maehler para Baquílides (Snell-Maehler para Píndaro aparece solo en la bibliografía, sin asterisco; los contenidos de Píndaro no consignan edición). CONTRADICCIONES REGISTRADAS, no resueltas: la misma entrada de Torres (ed.), La himnodia griega antigua, lleva impreso «(2016)» al comienzo y «Buenos Aires, 2017» al final; The Local Scripts of Archaic Greece figura dos veces con datos distintos —«Jeffery, L. H. … Clarendon Press, 1963» bajo Epigrafía y «Jeffery, L.K … Clarendon Press, 1969» bajo Lingüística—; Pfeiffer aparece en dos entradas de título distinto con el mismo lugar y año (Madrid, 1981; solo la primera con editorial, Gredos); y Greek Hymns se imprime a nombre de «Furley, William & Bremer, Ian», forma que se conserva tal como está impresa. El equipo docente se registra como lo imprime el PDF (JTP regular: Dra. Analía Sapere), con la nota al pie del propio programa de que los/as docentes interinos/as quedan sujetos a la designación que apruebe el Consejo Directivo.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "El método, y las tres vías de transmisión",
+      "note": "Cada unidad del programa Nº 15017 es un nodo, en orden; la Unidad 3 se abre en sus tres tramos dialectales.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "FILOLOGÍA GRIEGA · código 15017 · Torres\n│\n├─ 1 · La filología: concepto, historia y método\n│      papirología · epigrafía · paleografía · crítica textual\n│      lingüística: alfabetos y dialectos, morfología histórica, modos sintácticos en Homero\n│\n├─ 2 · Los orígenes de la escritura y las leyes sagradas\n│      a · Heródoto 5.58, 2.145, 2.49, 5.59\n│      b · inscripciones sagradas en sitios de culto (Sokolowski, selección)\n│\n├─ 3 · TRANSMISIÓN MANUSCRITA, directa e indirecta, por dialecto\n│   ├─ 3.1 · jónico-épico · Himnos homéricos V y VI (a Afrodita) · la himnodia griega antigua\n│   ├─ 3.2 · eólico · Safo y Alceo · el Peán a Apolo y la transmisión indirecta · metros eólicos\n│   └─ 3.3 · dórico · Píndaro (Olímpicas 2, 3, 7 y 12, con escolios) y Baquílides · metros dóricos\n│\n├─ 4 · TRANSMISIÓN EPIGRÁFICA · el Himno cretense a Zeus Dicteo\n│\n└─ 5 · TRANSMISIÓN PAPIROLÓGICA · los dos fragmentos nuevos de Safo (2014) y el “Poema de los hermanos”",
+        "foot": "Los tramos de la Unidad 3 vienen numerados «2.1», «2.2» y «2.3» en el impreso: es una errata del original, registrada, no corregida. Las ediciones de los textos primarios que el programa nombra en los contenidos —Sokolowski, Lobel-Page, Voigt, Page, Snell-Maehler, Maehler— no se dibujan como libro."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.filologia-griega.filologia-concepto-y-metodo",
+          "name": "La filología: concepto, historia y método · ciencias auxiliares",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.origenes-de-la-escritura",
+          "name": "Heródoto sobre los orígenes de la escritura · inscripciones sagradas",
+          "role": "Unidad 2 · a y b",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.dialecto-jonico-epico",
+          "name": "Dialecto jónico-épico · Himnos homéricos V y VI (a Afrodita)",
+          "role": "Unidad 3 · impreso «2.1»",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.dialecto-eolico",
+          "name": "Dialecto eólico · Safo y Alceo",
+          "role": "Unidad 3 · impreso «2.2»",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.dialecto-dorico",
+          "name": "Dialecto dórico · Píndaro y Baquílides",
+          "role": "Unidad 3 · impreso «2.3»",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.himno-cretense",
+          "name": "Transmisión epigráfica · el Himno cretense a Zeus Dicteo",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.transmision-papirologica",
+          "name": "Transmisión papirológica · los nuevos fragmentos de Safo",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía de consulta obligatoria (marcada con * en el programa)",
+      "title": "El aparato de lectura",
+      "note": "Las obras de volumen que el programa señala con asterisco como bibliografía de consulta obligatoria, por unidad. La bibliografía complementaria, los artículos de revista y las ediciones críticas de los textos primarios no se dibujan como libro. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-reynolds-wilson",
+          "name": "Scribes & Scholars. A Guide to the Transmission of Greek & Latin Literature — L. D. Reynolds y N. G. Wilson (Clarendon Press, 2ª ed. rev. y ampliada 1974, repr. 1978; el programa anota que hay traducción castellana)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-cortes-copete",
+          "name": "Epigrafía griega — J. M. Cortés Copete (ed.) (Cátedra, 1999)",
+          "role": "Unidad 1 · epigrafía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-christidis",
+          "name": "A History of Ancient Greek: From the Beginnings to Late Antiquity — A. F. Christidis (2010; el programa no consigna editorial)",
+          "role": "Unidad 1 · lingüística",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-torres-metodo",
+          "name": "Método filológico-didáctico para el estudio del griego clásico — D. A. Torres (Colección Libros de Cátedra, FILO-UBA, 2015)",
+          "role": "Unidad 1 · lingüística",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-agocs-carey-rawles",
+          "name": "Reading the Victory Ode — P. Agócs, C. Carey y R. Rawles (eds.) (Cambridge University Press, 2012)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-bouchon-brillet-lemeur",
+          "name": "Hymnes de la Grèce antique: approches littéraires et historiques — R. Bouchon, P. Brillet-Dubois y N. Le Meur-Weissman (eds.) (Lyon, 2012; actas del coloquio internacional de Lyon, 24-25 de junio de 2008)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-budelmann",
+          "name": "The Cambridge Companion to Greek Lyric — F. Budelmann (Cambridge, 2009)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-cavallero",
+          "name": "Leer a Homero. Ilíada, Odisea y la mitología griega — P. Cavallero (Quadrata, 2014)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-currie",
+          "name": "Pindar and the Cult of Heroes — B. Currie (Oxford, 2005)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-ercolani",
+          "name": "Omero. Introduzione allo studio dell’epica greca arcaica — A. Ercolani (el programa no consigna editorial ni año)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-faulkner",
+          "name": "The Homeric Hymns. Interpretative Essays — A. Faulkner (ed.) (Oxford University Press, 2011)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-furley-bremer",
+          "name": "Greek Hymns, vol. 1: The Texts in Translation · vol. 2: Greek Texts and Commentary — W. Furley e I. Bremer (Tübingen, 2001; el programa imprime «Bremer, Ian»)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-torres-escatologia",
+          "name": "La escatología en la lírica de Píndaro y sus fuentes — D. A. Torres (Serie Textos y Estudios del Instituto de Filología Clásica, FFyL-UBA, 2007)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-torres-himnodia",
+          "name": "La himnodia griega antigua. Culto, performance y desarrollo de las convenciones del género — D. A. Torres (ed.) (Colección Saberes, FFyL-UBA; la entrada imprime «(2016)» y «Buenos Aires, 2017»)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-griega.libro-allen-vox-graeca",
+          "name": "Vox Graeca — W. S. Allen (Cambridge University Press, 1987)",
+          "role": "prosodia y métrica · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Filología Griega Nº 15017 (Prof. Dr. Daniel A. Torres, 2º cuatrim. 2026, año impreso 2026), publicado como «Último Programa aprobado» por el Departamento de Lenguas y Literaturas Clásicas · modalidad de dictado según REDEC-2024-2526-UBA-DCT#FFYL (el programa no consigna resolución de aprobación)",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15017%20-%20FILOLOG%C3%8DA%20GRIEGA%20-%20TORRES_2.pdf"
+  }
+}

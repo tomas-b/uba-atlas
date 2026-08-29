@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.quimica",
+  "source_reachable": true,
+  "exits_total": 69,
+  "found": 69,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Extract /Users/tomb/p/learn/extract/out/fcen-quimica-plan.txt is the cited document (header: RESCS-2023-1035-E-UBA-REC, 14/07/2023, anexo ACS-2023-266-UBA-SG#REC, EX-2023-02232766). All 30 obligatorias (rows 7-35 of the Ciclo de Formación General table incl. Práctica Social Educativa, plus Trabajo Final) and all 39 named electivas of the Ciclo de Formación Específica table match the source verbatim (accent/whitespace-normalized search). Source electivas table contains exactly 39 rows, so nothing named is omitted; only CBC (6 asignaturas, 608 h) is omitted by design. Metadata checks: 4128 h total, 28 obligatorias / 2840 h in Formación General, 680 h Formación Específica, título intermedio Bachiller Universitario en Ciencias Químicas, plan anterior Res. CS 1888/87 — all in source. 'Plan 2024' is an inference from the vigencia clause (entra en vigencia el ciclo lectivo posterior a la aprobación, July 2023), not a literal '2024' in the document; acceptable. Minor: metadata.materiasObligatorias=28 vs meta 'Materias 30' — both defensible (28 per source count; 30 = +PSE +Trabajo Final).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

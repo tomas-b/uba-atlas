@@ -1,0 +1,17 @@
+{
+  "address": "uba.med.medicina.quimica-biologica",
+  "source_reachable": true,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 7,
+  "books_found": 7,
+  "not_found": [],
+  "omitted": [
+    "Material bibliográfico editado por docentes del Dpto. de Bioquímica (4th 'De consulta' entry, extract line 217 — present in programa, absent from node exits; node note says 'tres de consulta' and meta says 'Referencias 7' where the text lists 8 bibliography entries)"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Adversarial pass found NO fabricated exits. All 8 unit exits match verbatim unit headers in the OCR extract: UNIDAD I BIOQUIMICA DE MACROMOLECULAS (l.235-237), UNIDAD II BIOENERGETICA, ENZIMAS Y BIOQUIMICA MITOCONDRIAL (l.264-266), UNIDAD Ill BIOLOGIA_MOLECULAR I: ACIDOS NUCLEICOS Y SENALIZACION INTRACELULAR (l.372-374, OCR drops the tilde on SEÑALIZACION), UNIDAD IV BIOLOGIA MOLECULAR Il. PROTEINAS, AMINOACIDOS Y SUS DERIVADOS, LAS PROTEINAS COMO RECEPTORES (l.464-467), UNIDAD V METODOS DE LABORATORIO EN BIOQUIMICA MEDICA (l.562-564), UNIDAD VI METABOLISMO DE LOS HIDRATOS DE CARBONO (l.616-618), UNIDAD Vil METABOLISMO DE LIPIDOS (l.672-674, OCR renders VII as 'Vil'), UNIDAD VII! BIOQUIMICA INTEGRADA. REGULACION DEL METABOLISMO (l.751-753, OCR renders VIII as 'VII!'). All 7 book exits are in the Bibliografia block (l.204-222): Stryer 4a Reverte; Harper/Murray, Granner, Mayes y Rodwell 15a castellano, El Manual Moderno; Devlin ('Devlin' OCR'd as 'Devlin' with acute) 4ta Reverte; Lehninger Principios de Bioquimica 4ta Omega; then under 'De consulta': Montgomery, Conway, Spector, Chappell (HarcourtBrace); Podesta 'La Razon de las hormonas' Coleccion Ciencia Joven EUDEBA; Pisarev 'Tratado Argentino de Tiroides' e-Book. Metadata all verified: 'Dos cuatrimestres' (l.181); '124 hs (Clases obligatorias). El dictado de clases teoricas comprende otras 124 hs' (l.201-202) matches the node's '124 hs obligatorias + 124 hs de teoricas'; correlativas para cursar/rendir match l.192-197 word for word in substance; 'Se cursa en el tercer cuatrimestre de la carrera, junto con Fisiologia' (l.198) plus 'la ubicacion de Bioquimica en el 2do ano de la carrera' (l.73) support the cuatrimestre field; expediente CUDAP EXP-UBA 0043596/2014 appears on every page header. The title/body discrepancy the node claims is REAL and correctly stated: header reads 'PROGRAMA DE QUIMICA BIOLOGICA' (l.4) while the body consistently calls the asignatura 'Bioquimica'. Cátedra 'Dpto. de Bioquimica' is a light inference (text says 'docentes Del Dpto. de Bioquimica', l.217, and 'el plantel docente de Bioquimica', l.29-30) rather than an explicit cátedra statement — supported but not verbatim. Lede/clinical hooks all check out in text: infarto agudo de miocardio (l.312, 321, 353), Diabetes Mellitus (l.579, 667), Gota (l.394-395), Alzheimer (l.252, 440-441), Ictericias (l.800). Residual risks (not refutations): (1) the node was verified against the OCR extract, not against a fresh render of the 12MB live PDF — the extract's internal page markers ('10.-', '12.-', '13.-') indicate the programa is a slice of a larger protocolized expediente, so an independent re-extract would be needed to rule out content outside the captured range; (2) the only real defect is the omitted 4th consulta item and the resulting off-by-one in 'Referencias 7' / 'tres de consulta'. No exit in the node is unrecoverable from the cited text.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

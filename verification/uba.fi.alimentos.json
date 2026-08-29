@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.alimentos",
+  "source_reachable": true,
+  "exits_total": 50,
+  "found": 50,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Extracted text /Users/tomb/p/learn/extract/out/fi-alimentos-plan.txt (118,799 bytes) is the FIUBA 'Ingeniería de Alimentos — Plan de Estudios — Actualización 2023 | Plan 2020 y resoluciones modificatorias — ANEXO' document, consistent with the cited PDF URL (RESCD_2023_1014_Alimentos_Plan_2023_Aprobacion). All 36 obligatorias and all 14 named electivas in the node appear verbatim in the source's correlativas tables (lines 489-717); the one automated miss, 'Trabajo Integrador Final de Ingeniería en Alimentos', is a line-wrap (source lines 650-651 / 664-665) and is confirmed present. Credits, correlativas, cuatrimestre placements, 4-of-12 / 8-of-12 electiva split, 243 credits, 3888 hours, 36 obligatorias, and 2020/act.2023 plan all match. Source obligatorias count = 36 (3º:4, 4º:5, 5º:4, 6º:4, 7º:3, 8º:4, 9º:5, 10º:5 new, 11º:2), identical to node; only CBC (6 materias) omitted, which is correct. Caveats: (1) the resolución number 'Res. CD 1014/2023' does not appear in the extracted body text — it is attested only by the PDF filename in the URL; the body cites Res. CD 1235/18 (Plan 2020 framework). (2) Minor casing: source writes 'Química de los compuestos orgánicos' (lowercase), node capitalizes. (3) Node's 'Trazadas 0 / 50' fine. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.educacion",
+  "source_reachable": true,
+  "exits_total": 60,
+  "found": 60,
+  "not_found": [],
+  "omitted_from_source": [
+    "CBC materias (Introducción al Conocimiento de la Sociedad y el Estado, Introducción al Pensamiento Científico, Sociología, Psicología, Filosofía, electiva) — node deliberately defers CBC to its own tree",
+    "Idiomas (Sajón/Latino Elemental/Medio/Superior) — summarized in metadata.idiomas, not exits",
+    "Generic slots: Seminario PST, Materia de otro CFO, Seminario aprobado para el CFO, Materia de otra carrera de la UBA, Asignatura electiva — placeholders, not named materias"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source page educacion.filo.uba.ar/plan-de-estudios-2016 links exactly the two PDFs used (RESOLUCION PLAN DE ESTUDIOS LICENCIATURA/PROFESORADO 2016 CON MODIFICACIONES 2024) plus RES 2879-17 validez. Extracted texts are RESCS-2024-1561 (anexo ACS-2024-304, Licenciatura) and RESCS-2024-1667 (anexo ACS-2024-303, Profesorado), both citing Res. (CS) 6198/16 as the original plan — matches node metadata. Structure claims verified: CFG 18 asignaturas, CFO 7 orientaciones with 11-asignatura recorrido and 2 sub-orientaciones (F, G), CFE 9 asignaturas, Residencia anual 224 hs, CFG correlatividades and CFO entry prerequisites all match. All 60 exit names matched via accent/case-insensitive search across both resolution texts. Minor: Profesorado CFE table spells 'PROBLEMÁTICA DE LA FORMACIÓN DOCENTE I/II' (singular) while electives list uses plural; node uses plural, consistent with Licenciatura text. Per-area obligatoria/electiva roles for D, E, F, G were not exhaustively re-checked against the un-read second half of the Licenciatura PDF, but every name is confirmed present in the official elective roster.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

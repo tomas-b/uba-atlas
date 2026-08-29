@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4",
+  "wave": "letras-3-clasicas",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 10, "units_found": 10,
+  "books_total": 35, "books_found": 35,
+  "not_found": [
+    "frame 'la única norma que cita' false as exhaustiveness: programa also cites Res. (CD) 1117/10 (l.481) and arts. 39-40 Reglamento (l.437); underlying no-approval-resolution claim true",
+    "frame's stated exclusion reason wrong for Schadewaldt and Murphy: their host volumes ARE listed as own entries (Wright & Jones l.229-230; López Eire l.389-390) — still correctly excluded under complementaria/Fuentes rules, only the reason misstated",
+    "metadata.modalidad overreads: programa says 'presencial' and reproduces the general 30% REDEC allowance without adopting a percentage (l.403)"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Graph layer clean: 10/10 tramos literal, 35/35 books recounted exactly (3 texts + 20 Instrumenta + 8 U1 + 4 U2 + 0 U3). Volume-first vs chapter-first rule applied evenly; U3-all-articles claim confirmed (l.325-334). Koster contradiction real (l.157 vs l.204, initials also differ W.J/W.J.W). Liddell-Scott duplicate real. All erratas literal (Biliograf l.139, Littlefied l.189, Humbert '30 ed., 19' l.147, Bizos l.143, Smyth sd l.149). Contenidos 'aticismos' correctly preferred over Fundamentación 'arcaísmos'. Three prose fixes recommended (norma enumeration, exclusion reasons, modalidad wording)."
+}

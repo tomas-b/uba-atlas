@@ -1,0 +1,13 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2",
+  "wave": "letras-3-clasicas",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4, "units_found": 4,
+  "books_total": 50, "books_found": 50,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "UNITS 4/4 literal (L65/79/87/95). BOOKS 50/50 both directions: U1-U2 26 entries minus DGE = 25 drawn; U3-U4 19; Fuentes 6. The 12 excluded journal articles independently reconstructed = exactly the node's list. Chapter-in-volume handling correct (Easterling-Knox one volume, 3 chapters annotated). Codes 0548-I/15008-I literal (L6, L24). Professor-order inversion real (L15-16 vs L32-34). Nameless AYUDANTE line real (L37). Choice-set L148 quoted verbatim and not hardened. All 6 erratas literal. NITS: frame says 'tilde' where the missing mark is a diéresis; 'pp. 418-432' silently expands '418-32'; Docenda period-for-comma; Cantarella unclosed quote silently closed; Fuentes single-unit roles are inferences from contenidos (Aristóteles/Sófocles correctly hedged U3-U4); equipoDocente drops the nameless line (disclosed in frame); metadata.bibliografia counts drawn nodes not printed entries (63 printed)."
+}

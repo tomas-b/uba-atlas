@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-3",
+  "wave": "letras-3-clasicas",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 12, "books_found": 12,
+  "not_found": [],
+  "omitted": [
+    "Fuentes parenthetical partial: Wilkins/Cicerón (L244-245), Constans/César (L317), Ellis/Catullus (L386), Codoñer-González Iglesias reprinted in Fuentes (L387-388) unnamed",
+    "Unregistered erratas in undrawn material: 'G. M. Nisbet' (L470, should be R.G.M.), 'Cambridge. Cambridge' (L216), merged Caballero de Del Sastre entry (L346-348)"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "All refutation attempts failed. UNITS 5/5 literal. BOOKS 12/12: 10 lectura-completa works (3+3+2+2) + Wiseman + López Olano; exclusion symmetry audited — no volume-form obligatoria entry wrongly dropped. Wiseman double real (L332-333 vs L376), drawn once with disclosure. Priapeas genuinely authorless (L339). Garavelli double real (L137 Barcelona vs L152 Madrid). Erratas 175189/5976/Impire all real, all in complementaria as scoped. Área attribution verified against parent (Res. ACS-2023-58, Área Letras Clásicas). NITS to tighten: map.foot 'todas con selección de pasajes en lengua original' — 'en lengua original' printed only in U2 Fuentes block; Fuentes note Latinizes 'Rhétorique à Herennius'→'Rhetorica ad Herennium' and 'Institutionis oratoriae'→'Institutio oratoria'; plural 'Traducciones recomendadas:' header ambiguity (U4) unregistered."
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.psi.musicoterapia",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-fetched PDF as verify-psi-mt (3 pages, 6272 chars); byte-identical to researcher extract. All 38 exit names match source codes 7-43 plus Tesis, tolerating punctuation: node uses 'Requisito Idioma (Inglés o Francés) · Módulo I/II' for source 'Requisito Idioma: Inglés o Francés. Módulo I/II', and 'Práctica Profesional · Módulo X: Área Y' for source 'Práctica Profesional. Módulo X: Área Y.'. Only embellishment: exit 'Tesis de Licenciatura' where the PDF says just 'Tesis' (180 h matches). Every per-exit hour value matches the PDF; cuatrimestre placement matches the Subtotal groupings; total 3228 h matches. Only omissions are the 6 CBC materias (by design). Metadata not verifiable from this PDF alone: 'Plan 2017', 'Res. C.S. 3633', exam codes 305/329, 'Sede Avellaneda' — node attributes these to the separate 'Plan de Estudios 2017' cuadro on psi.uba.ar, not checked here. Source-internal quirk (not node error): 5th-year summary table lists 310/310 while itemized subtotals are 80 (seminarios) + 540 (prácticas); node follows the itemized version.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

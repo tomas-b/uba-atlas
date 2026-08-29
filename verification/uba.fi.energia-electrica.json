@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.energia-electrica",
+  "source_reachable": true,
+  "exits_total": 51,
+  "found": 51,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-fetched https://cms.fi.uba.ar/uploads/Plan_de_Estudios_de_Ingenieria_en_Energia_Electrica_3e14c1c1d3.pdf (HTTP 200, application/pdf, 48 pages) into extract/out/verify-fi-energia.txt; byte-identical to the cached extract/out/fi-energia-plan.txt. Document identity confirmed: 'Ingeniería en Energía Eléctrica — Plan de Estudios, Actualización 2024', expediente EX-2023-06060044-UBA-DIMEDA#SA_FI, signed as RESCS-2024-581-E-UBA-REC (30 May 2024). All 33 obligatorias (32 + Trabajo Integrador Final, matching source table 'Asignaturas Obligatorias: 32') found in the 3º–11º cuatrimestre tables with matching créditos/horas and cuatrimestre placement; all 18 named electivas found in the 'Asignaturas Electivas' table with matching credits (Investigación Operativa 8/128, rest 4/64). Elective credit blocks per cuatrimestre (4/4/10 = 18) and totals (250 créditos, 4000 h, 11 cuatrimestres: 2 CBC + 9) match. Search used accent/case/punctuation/whitespace-insensitive normalization. No fabrication detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

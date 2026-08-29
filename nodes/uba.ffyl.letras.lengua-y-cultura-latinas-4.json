@@ -1,0 +1,424 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · examen final (EF), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "128 horas (mín. 6 y máx. 10 hs semanales: 4 teóricas de la Titular, 2 teórico-prácticas del JTP, 2 prácticas del Ayudante de 1ª)",
+    "cuatrimestre": "2º cuatrimestre 2026",
+    "codigo": "15015-F",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · PROFESOR/A: PÉGOLO, LILIANA (firma como Prof. Dra. Liliana Pégolo, Prof. Titular). El programa no consigna cátedra para esta materia ni cátedras paralelas (la palabra aparece solo en la cláusula REDEC y como editorial).",
+    "equipoDocente": [
+      "PÉGOLO, Liliana (Profesora Titular)",
+      "POZZI, Martín (Jefe de Trabajos Prácticos)",
+      "RUSSO, Hugo Nicolás (Ayudante de Primera)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual, sincrónica o asincrónica)",
+    "unidades": 4,
+    "bibliografia": 43,
+    "año": 2026,
+    "ciclo": "Materia del Departamento de Lenguas y Literaturas Clásicas. El programa no consigna ciclo, año ni orientación del plan; el plan de Letras, según el nodo padre, la lista como cuatrimestral en el grupo de clásicas."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4",
+      "label": "Lengua y Cultura Latinas IV"
+    }
+  ],
+  "eyebrow": "Letras · clásicas · Lengua y Cultura Latinas IV",
+  "title": "Cada género, su metro.",
+  "lede": "Cuarto nivel de latín: la lengua ya no se aprende suelta, se lee en verso. Se parte de la morfosintaxis y la prosodia —el sistema de casos y sus variaciones, la oración compuesta según tipos discursivos, la prosodia latina en sincronía y diacronía— y desde ahí cada unidad ata un género a su metro. El didáctico y el bucólico, en hexámetro dactílico: Lucrecio (De rerum natura 5.735-750 y 772-804), Virgilio (Georgicon 2.458-494 y Égloga 6), la Copa de la Appendix Vergiliana, Ovidio (Metamorphoses 1.1-150). Los sujetos eróticos, en galiambo y dístico elegíaco: el Atis y las bodas de Tetis y Peleo de Catulo, la herida de la Dido virgiliana (Aeneis 4.1-70), Tibulo 1.1, Propercio 2.1, Ovidio (Amores 1.1) y la voz femenina de Sulpicia. El banquete horaciano, en metros líricos eolios y yámbicos: Epodon 2, Carmina 1.1, 1.11, 1.13, 1.14, 3.30, 2.19 y el Carmen Saeculare. El horizonte cultural romano se lee desde una perspectiva de género, en el marco previsto por las leyes de ESI.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "examen final"
+    },
+    {
+      "k": "Carga",
+      "v": "128 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "código 15015-F"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Latinas IV, código 15015-F, Departamento de Lenguas y Literaturas Clásicas (FFyL-UBA), Prof. Liliana Pégolo, 2º cuatrimestre 2026 (el PDF imprime «AÑO: 2026»), publicado en letrasclasicas.filo.uba.ar como «Último Programa aprobado». El programa declara régimen de promoción con examen final (EF), 128 horas y modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL; no consigna resolución de aprobación del programa ni otras cátedras de la materia. SELECCIÓN DECLARADA: se dibujan como nodo libro únicamente los títulos de volumen de la BIBLIOGRAFÍA OBLIGATORIA de las cuatro unidades. Quedan fuera —aunque el programa las lista— la bibliografía complementaria de cada unidad y las secciones «Fuentes y traducciones» (ediciones críticas y traducciones de Lucrecio, Virgilio, Ovidio, Catulo, Tibulo, Propercio y Horacio: Teubner, Oxford Clarendon, Gredos, Colihue, Las Cuarenta, entre otras). EXCLUSIÓN CONSISTENTE: los artículos de revista de la obligatoria (Argos, Auster, Arys, Harvard Studies in Classical Philology, Revista de Estudios Clásicos, Florentia Iliberritana, Actas del Instituto de Historia Antigua, Medieval y Moderna) no se dibujan; los capítulos en obras colectivas sí se dibujan, pero como el volumen que los contiene, con el capítulo indicado. ERRATAS DEL ORIGINAL, registradas y no corregidas: la Unidad 4 numera sus ítems 1, 2, 2, 3 —repite el «2»— y acá se respeta la secuencia impresa; el título de la Unidad 3 cierra con comilla pero abre sin ella; la Unidad 2, ítem 2, deja un paréntesis sin cerrar («Lucrecio (De rerum natura 5.735-750 y 772-804 y Virgilio (Georgicon 2.458-494)»); la Unidad 2, ítem 3, termina en doble punto. DUPLICACIONES DEL ORIGINAL: Fontanier, Amor Romanus (2008) figura a la vez en la obligatoria y en la complementaria de la Unidad 3, y Davis, A Companion to Horace (2010) a la vez en la obligatoria y en la complementaria de la Unidad 4; se dibujan una sola vez, desde la obligatoria. Los nombres, editoriales y años se transcriben tal como los imprime el programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "De la prosodia a la oda",
+      "note": "Cada unidad del programa es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "LENGUA Y CULTURA LATINAS IV · código 15015-F · Pégolo\n│\n├─ 1 · Perspectivas sociolingüísticas en el estudio de la morfosintaxis y la prosodia latinas\n│      casos · oración compuesta · prosodia sincrónica y diacrónica · métrica y géneros\n│\n├─ 2 · Cosmogonía y sucesión de las estaciones · género didáctico y universo bucólico\n│      Lucrecio · Virgilio (Georgicon, Egloga 6) · la Copa · Ovidio · HEXÁMETRO DACTÍLICO\n│\n├─ 3 · Sujetos eróticos en la literatura latina · la preceptiva amorosa\n│      Catulo 63 y 64 · Dido (Aeneis 4) · Tibulo · Propercio · Ovidio · Sulpicia\n│      GALIAMBO Y DÍSTICO ELEGÍACO\n│\n└─ 4 · Tiempos de vino y rosas: banquete y poesía en las odas de Horacio\n       Epodon 2 · Carmina 1.1, 1.11, 1.13, 1.14, 3.30 · 2.19 · Carmen Saeculare\n       METROS LÍRICOS EOLIOS Y YÁMBICOS",
+        "foot": "La métrica atraviesa las cuatro unidades: cada una cierra profundizando el estudio y la práctica del metro propio del género que acaba de leer."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.morfosintaxis-prosodia",
+          "name": "Perspectivas sociolingüísticas en el estudio de la morfosintaxis y la prosodia latinas",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.cosmogonia-bucolica",
+          "name": "Acerca de la cosmogonía y la sucesión de las estaciones. Género didáctico y universo bucólico",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.sujetos-eroticos",
+          "name": "Sujetos eróticos en la literatura latina. La preceptiva amorosa: la clausura del género",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.banquete-horacio",
+          "name": "Tiempos de vino y rosas: banquete y poesía en las odas de Horacio",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Títulos de volumen de la bibliografía obligatoria de las cuatro unidades. Los artículos de revista no se dibujan; los capítulos en obras colectivas se dibujan como el volumen que los contiene. La bibliografía complementaria y las secciones «Fuentes y traducciones» del programa quedan fuera de esta selección. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-banos-sintaxis-clasico",
+          "name": "Sintaxis del latín clásico — J. M. Baños y Baños (coord.) (Liceus, 2009)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-bassols-sintaxis-historica",
+          "name": "Sintaxis histórica de la lengua latina — M. Bassols de Climent (CSIC, 1948)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-bassols-sintaxis-latina",
+          "name": "Sintaxis latina, 2 t. — M. Bassols de Climent (CSIC, 1956)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-bassols-fonetica",
+          "name": "Fonética latina — M. Bassols de Climent (CSIC, 1983)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-crusius-metrica",
+          "name": "Iniciación a la métrica latina — F. Crusius (Bosch, 1981)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-di-tullio",
+          "name": "Manual de gramática del español — A. Di Tullio (Waldhuter, 2010)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-ernout-morphologie",
+          "name": "Morphologie historique du latin — A. Ernout (Klincksieck, 1989)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-ernout-thomas-syntaxe",
+          "name": "Syntaxe Latine — A. Ernout y F. Thomas (Klincksieck, 1989)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-latin-vulgar-y-tardio",
+          "name": "Latín vulgar y tardío. Homenaje a Veikko Väänänen (1905-1997) — B. García Hernández (ed.) (Ediciones clásicas, 2000) · cap. González Rolán, “La contribución de los lenguajes sectoriales a la evolución y renovación del latín”",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-luque-moreno-arsis",
+          "name": "Arsis, thesis, ictus. Las marcas del ritmo en la música y en la métrica antigua — J. Luque Moreno (Universidad de Granada, 1994)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-niedermann-phonetique",
+          "name": "Précis de phonétique historique du latin — M. Niedermann (Klinksieck, 1945)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-prieto-parataxis",
+          "name": "Parataxis e hipotaxis — E. Prieto (Facultad de Filosofía, Letras y Ciencias de la Educación, Rosario, 1959)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-schroeder-sintaxis",
+          "name": "Sintaxis latina — A. J. Schroeder (Huemul, 1970)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-ensenar-y-dominar",
+          "name": "Enseñar y dominar. Las estrategias preceptivas en Roma — E. Caballero de del Sastre y A. Schniebs (eds.) (Facultad de Filosofía y Letras, 2007)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-dalzell-didactic",
+          "name": "The Criticism of Didactic poetry: Essays on Lucretius, Virgil, and Ovid — A. Dalzell (University of Toronto Press, 1996)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-generos-literarios-romanos",
+          "name": "Géneros literarios romanos — D. Estefanía y A. Pociña (eds.) (Ediciones Clásicas, 1996)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-gale-myth-lucretius",
+          "name": "Myth and poetry in Lucretius — M. Gale (Cambridge University Press, 1994)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-transformaciones-ovidianas",
+          "name": "Transformaciones ovidianas. Estudios sobre Metamorfosis y su recepción — Ph. Hardie, A. Barchiesi y S. Hinds (eds.) (Facultad de Filosofía y Letras, 2009)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-hinds-allusion",
+          "name": "Allusion and Intertext. Dynamics of Appropiation in Roman Poetry — S. Hinds (Cambridge University Press, 1998)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-lopez-olano-lucrecio",
+          "name": "Lucrecio, De Rerum Natura. Una introducción crítica — M. I. López Olano (Santiago Arcos editor, 2005)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-debates-en-clasicas-cultura",
+          "name": "Debates en clásicas: cultura — A. Schniebs (coord.) (Facultad de Filosofía y Letras, 2010) · cap. Pozzi, “Aproximaciones a la poesía didáctica latina”",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-tola-metamorfosis",
+          "name": "Ovidio. Metamorfosis. Una introducción crítica — E. Tola (Santiago Arcos, 2005)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-volk-poetics-didactic",
+          "name": "The Poetics of Latin Didactic Lucretius, Vergil, Ovid, Manilius — K. Volk (Oxford University Press, 2002)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-ziogas-ovid-hesiod",
+          "name": "Ovid and Hesiod. The Metamorphosis of the Catalogue of Women — I. Ziogas (Cambridge University Press, 2013)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-alvarez-poetica-propercio",
+          "name": "La poética de Propercio. (Autobiografía artística del Calímaco romano) — A. Álvarez Hernández (Accademia properziana del Subasio, 1997)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-aries-sexualidades",
+          "name": "Sexualidades occidentales — Ph. Ariès et al. (Paidós, 1987)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-barchiesi-poeta-principe",
+          "name": "Il poeta e il principe. Ovidio e il discorso Augusteo — A. Barchiesi (Laterza, 1994)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-barthes-discurso-amoroso",
+          "name": "El discurso amoroso — R. Barthes (Paidós, 2011)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-discurso-femenino",
+          "name": "El discurso femenino en la literatura grecolatina — E. Caballero de del Sastre, E. Huber y B. Rabaza (comps.) (Homo Sapiens, 2000)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-duran-mujeres-tardorrepublica",
+          "name": "Cornelia, Clodia, Hortensia y Sulpicia. Mujeres de la tardo-república romana — L. C. Durán (Tesseo Express, 2021)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-fontanier-amor-romanus",
+          "name": "Amor Romanus. Amours romaines. Études et anthologie — J.-M. Fontanier (PUR, 2008)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-foucault-historia-sexualidad",
+          "name": "Historia de la sexualidad, 3 vol. — M. Foucault (Siglo XXI editores, 2008 [2003])",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-galan-la-romana",
+          "name": "La romana. Presencia de la mujer en las Elegías del Corpus Tibullianum — L. Galán (UNLP, 1998)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-skinner-sexuality",
+          "name": "Sexuality in Greek and Roman Culture — M. Skinner (Blackwell, 2005)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-schniebs-de-tibulo",
+          "name": "De Tibulo al Ars Amatoria — A. Schniebs (Facultad de Filosofía y Letras, 2006)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-veyne-elegia-erotica",
+          "name": "La elegía erótica romana: la poesía de amor en Occidente — P. Veyne (FCE, 1991)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-davis-polyhymia",
+          "name": "Polyhymia. The Rhetoric of Horatian Lyric Discourse — G. Davis (University of California, 1991)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-davis-companion-horace",
+          "name": "A Companion to Horace — G. Davis (Blackwell Publishing Ltd, 2010)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-feeney-literature-religion",
+          "name": "Literature and Religion at Rome. Cultures, Contexts and Beliefs — D. Feeney (Cambridge University Press, 1998)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-nisbet-rudd-odes-3",
+          "name": "A Commentary on Horace: Odes Book III — R. G. Nisbet y N. Rudd (Oxford Clarendon Press, 2004)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-olliensis-rhetoric-authority",
+          "name": "Horace and the Rhetoric of Authority — E. Olliensis (Cambridge University Press, 1998)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-putnam-carmen-saeculare",
+          "name": "Horace’Carmen Saeculare. Ritual Magic and the Poet’s Art — M. Putnam (Yale University, 2000)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4.libro-zanker-augusto",
+          "name": "Augusto y el poder de las imágenes — P. Zanker (Alianza, 1992)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Latinas IV, código 15015-F (Prof. Liliana Pégolo, 2º cuatrimestre 2026; «Último Programa aprobado» según la página de programación del Departamento de Lenguas y Literaturas Clásicas)",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15015%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20IV%20-%20F%20-%20P%C3%89GOLO.pdf"
+  }
+}

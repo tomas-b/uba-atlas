@@ -1,0 +1,13 @@
+{
+  "address": "uba.med.kinesiologia",
+  "source_reachable": true,
+  "exits_total": 30,
+  "found": 30,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF returns HTTP 200 (application/pdf, 399KB); extract/out/med-kinesiologia-plan.txt (6960 bytes) is unambiguously the Kinesiología y Fisiatría plan (CBC year + Módulo de Introducción a la Kinesiología y Fisiatría, Clínica Kinefisiátrica Quirúrgica, etc.), so no re-fetch was needed. All 30 exit names match the source once OCR letter-spacing/line-wrap artifacts are tolerated (e.g. 'F I S I O L O G I A', 'FISIOTER API A I', 'F ARM ACOLOGI A', 'KINEFILAXI A', 'TECNICAS KINESICAS I I I'). One trivial wording difference: source reads 'ORGANIZACIÓN HOSPITALARIA, INSTITUCIONAL Y DE CENTRO DERAHABILITACION' (singular/typo) vs node 'Centros de Rehabilitación'. Every regime and hour figure matches the PDF (180/120/30/75/90/60/480 hospitalarias). Year mapping is honest: PDF numbers CBC as 1º and career years 2º–6º; node shifts to 1º–5º and says so in 'frame'. Materia count 6+6+7+5+6=30 matches metadata. No obligatorias in the source are missing from the node beyond the CBC (by design). Correlativity notes spot-checked against the APROBADAS column also agree (e.g. Farmacología ← Química Biológica; Clínica Fisiátrica Médica ← TK II + Farmacología). No resolution number in PDF, as the node states.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fvet.agroalimentos",
+  "source_reachable": true,
+  "exits_total": 27,
+  "found": 27,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 27 exit names match the FVet page (fvet.uba.ar/?q=plan-agro, saved to /Users/tomb/p/learn/extract/out/verify-fvet-agro.html) verbatim after accent/case normalization. 24/27 also match the Agronomía grid extract (fvet-agroalimentos-plan.txt); the 3 that differ there are only wording variants of the same materias in the FAgro PDF ('Biotecnología de los Agroalimentos', 'Comercialización y Mercados de Agroalimentos', 'Formulación y Evaluación de Proyectos Agroalimentarios') — the node follows the FVet cited source's spelling. Plan 2018 / 'Resolución (CS) N° 8555/17' present verbatim on the page; the FAgro extract says 'Res CS 8555/2017', 163.5 créditos = 2.616 h, consistent with metadata. Non-CBC obligatorias in the source: 27 = node's 27 (Segundo Ciclo through Práctica Profesional); only the 6 CBC materias are omitted, by design. Minor non-name observation: the FAgro PDF says '32 espacios curriculares obligatorios' (27 + CBC, roughly), the node says 27 propias — not a contradiction. Correlativas in roles spot-checked against the page (e.g. Calidad Agroalimentaria, Gestión de Cadenas, Taller) and match.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

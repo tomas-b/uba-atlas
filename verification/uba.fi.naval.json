@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.naval",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF fetched live (HTTP 200, 661408 bytes); pdftotext output is byte-identical to extract/out/fi-naval-plan.txt, confirming the cached text is the cited document. 37 of 38 exit names match verbatim (accent/case/line-wrap-normalized) in the segundo-ciclo table (pp. 13-16). The 38th, 'Trabajo Integrador Final · Trabajo Profesional o Tesis de Ingeniería Naval', is a compressed rendering of the source's table entry 'Trabajo Integrador Final: Trabajo Profesional de Ingeniería Naval o Tesis de Ingeniería Naval' (12 créditos, corr. 180 créditos, split 4+8 across 10º/11º) — same entity, slightly shortened wording, not a fabrication. No obligatorias from the plan's cuatrimestre 3-11 table are missing from the node; only the CBC block (6 materias, 38 créditos) is omitted, which is by design. Créditos and correlativas per exit spot-checked against the table and match. Plan metadata verified in source: 'Actualización 2023 | Plan 2020 y resoluciones modificatorias', ACS-2024-371-UBA-SG#REC, EX-2023-06080427-UBA-DIMEDA#SA_FI, Resolución ME Nº 2617/2023, 4160 hs total, 260 créditos, 222 créditos/3552 hs segundo ciclo, 8+10=18 créditos electivos. Minor: node says 'materiasObligatorias: 38' while source's summary table line 493 says 47 asignaturas total for the career (includes CBC 6 + electivas counted as blocks + TIF); the 38 figure is the node's own count of obligatorias in cuatrimestres 3-11 including TIF and is internally consistent.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

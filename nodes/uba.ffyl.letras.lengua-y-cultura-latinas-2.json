@@ -1,0 +1,258 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · examen final (EF), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 horas (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º",
+    "anio": "2026",
+    "codigo": "0543-B / 15013-B",
+    "departamento": "Lenguas y Literaturas Clásicas (Directora del Departamento: Dra. Jimena Palacios)",
+    "catedra": "Prof. Mariana Silvia Ventura (firma como Profesora Regular Adjunta) · programa 2º cuatrimestre 2026, código 0543-B / 15013-B",
+    "equipoDocente": [
+      "VENTURA, Mariana Silvia (profesora a cargo)",
+      "COCE, María Victoria (JTP)",
+      "KLEINMAN, Ileana (ayudante de primera)",
+      "ANTONINI, Sergio Rubén (ayudante de segunda)"
+    ],
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual)",
+    "unidadesTematicas": 2,
+    "unidades": 6,
+    "bibliografia": 17,
+    "ciclo": "Área de Letras Clásicas según el plan 2023 registrado en el nodo padre; el programa no consigna área ni ciclo"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2",
+      "label": "Lengua y Cultura Latinas II"
+    }
+  ],
+  "eyebrow": "Letras · Área Letras Clásicas · Lengua y Cultura Latinas II",
+  "title": "El canon latino, desde el centro y desde el margen.",
+  "lede": "Segundo tramo de latín en Letras. La lengua se amplía —verbos deponentes, irregulares y defectivos, conjugaciones perifrásticas, modo subjuntivo, gerundio, gerundivo y supino, y la subordinación adjetiva, sustantiva y adverbial— y los textos se eligen por su lugar en el canon que fija Quintiliano en Instituciones oratorias 10.1. De ahí en más el recorrido literario se ordena por distancia al centro: entre el centro y la periferia, la lírica y el epigrama —Catulo en la estética neotérica, las Odas de Horacio en la literatura augustal, la poesía “menor” de Marcial—; en el centro mismo, la épica de Virgilio, con la Eneida, los personajes de Dido y Eneas en los libros 1 y 4 y la teoría de las dos voces; al margen, el Satiricón de Petronio, su polifonía y su parodia de la épica en la matrona de Éfeso. Un hilo atraviesa tres de las cuatro zonas (2.2, 2.3 y 2.4): los estereotipos sociales y de género.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "examen final"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "2 unidades temáticas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Latinas II, código 0543-B / 15013-B, Departamento de Lenguas y Literaturas Clásicas (FFyL-UBA), Prof. Mariana Silvia Ventura, 2º cuatrimestre de 2026 (el PDF imprime “AÑO: 2026”), publicado en letrasclasicas.filo.uba.ar como último programa aprobado. El programa se estructura en dos unidades temáticas: la primera es de lengua (morfología y sintaxis) y la segunda recorre los géneros canónicos y no canónicos de la literatura latina en cuatro tramos (la lectura «del canon a sus márgenes» es un ordenamiento editorial de este nodo, no un rótulo del programa). LA LETRA “B”: el programa no declara cuántas cátedras dictan la materia ni imprime un campo «Cátedra:» (la palabra aparece solo en las fichas OPFyL y en la cláusula REDEC); la “B” proviene del código impreso (0543-B / 15013-B) y de la ficha de cátedra que el propio programa cita, titulada “El epigrama. Textos y ejercitación para los trabajos prácticos de Lengua y Cultura Latina II ‘B’”. VARIACIÓN REGISTRADA en esa cita: la ficha imprime “Lengua y Cultura Latina II” (singular) mientras el encabezado del programa imprime “LENGUA Y CULTURA LATINAS II” (plural). ERRATAS DEL ORIGINAL: en los contenidos de 2.2 el PDF imprime “Libro de los Espectáctulos”, mientras que en la bibliografía obligatoria del mismo tramo imprime “Libro de los espectáculos” —acá se usa la forma de la bibliografía—; en la bibliografía complementaria de 2.2 el PDF imprime “FORDYCE, C.J. (ed. 1061), Catullus. A Commentary, Oxford” (no dibujado). OBSERVACIÓN REGISTRADA, NO RESUELTA: ningún tramo de los contenidos nombra a Plinio el Joven, pero la bibliografía sí lo incluye —en Fuentes (Guillemin, Pline le Jeune, Lettres), en la complementaria de 2.2 (Sánchez y Márquez, Plinio el Joven, Epistulae; Sherwin-White; Iribarren y Ventura sobre las Epístolas de Plinio)—; el programa no explica la relación. SELECCIÓN Y EXCLUSIONES declaradas: se dibujan como nodo libro únicamente los volúmenes de la BIBLIOGRAFÍA OBLIGATORIA (los textos latinos de la Unidad 2, los dos manuales de lengua de la Unidad 1 y los volúmenes de los que se toman los estudios críticos obligatorios, cuyo capítulo se nombra en el rol). No se dibujan: la bibliografía complementaria, la bibliografía general, la sección de Fuentes (ediciones críticas de Peterson, Bardon, Shackleton Bailey, Mynors, Müller, Warmington, Keil, Guillemin), los artículos de revista (Varela Iglesias, Schniebs), la ficha de cátedra sobre el epigrama (Ventura, Coce, Iribarren y Nasta 2015), las síntesis de morfología y sintaxis preparadas por la profesora, ni el “Diccionario de latín a elección” que la obligatoria pide sin nombrar título.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las dos unidades temáticas",
+      "title": "La lengua y el canon",
+      "note": "Los seis tramos numerados del programa, en el orden impreso: dos de lengua, cuatro de literatura.",
+      "map": {
+        "mk": "Dos unidades temáticas, seis tramos",
+        "tree": "LENGUA Y CULTURA LATINAS II · código 0543-B / 15013-B\n│\n├─ 1 · LENGUA LATINA\n│   ├─ 1.1 · Morfología · deponentes, irregulares, defectivos; perifrásticas; subjuntivo; gerundio, gerundivo, supino\n│   └─ 1.2 · Sintaxis · casos; gerundio/gerundivo/supino; subjuntivo en la oración simple; subordinadas\n│\n└─ 2 · GÉNEROS CANÓNICOS Y NO CANÓNICOS\n    ├─ 2.1 · El canon literario latino · Quintiliano, Inst. or. 10.1\n    ├─ 2.2 · Del centro a la periferia · lírica y epigrama · Catulo, Horacio, Marcial\n    ├─ 2.3 · En el centro del canon · la épica de Virgilio · la Eneida\n    └─ 2.4 · Al margen del canon · el Satiricón de Petronio",
+        "foot": "La Unidad 2 está ordenada por distancia al canon que fija Quintiliano: del canon mismo (2.1) a su periferia (2.2), a su centro (2.3) y a su margen (2.4). Los estereotipos sociales y de género se retoman en 2.2, 2.3 y 2.4."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.morfologia",
+          "name": "Morfología · verbo deponente, irregular y defectivo; perifrásticas; subjuntivo; gerundio, gerundivo y supino",
+          "role": "Unidad temática 1 · 1.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.sintaxis",
+          "name": "Sintaxis · casos, gerundio, gerundivo y supino; subjuntivo; subordinadas adjetivas, sustantivas y adverbiales",
+          "role": "Unidad temática 1 · 1.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.canon-literario-latino",
+          "name": "El canon literario latino",
+          "role": "Unidad temática 2 · 2.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.lirica-y-epigrama",
+          "name": "Del centro a la periferia del canon: poesía lírica y epigrama",
+          "role": "Unidad temática 2 · 2.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.epica-de-virgilio",
+          "name": "En el centro del canon: la poesía épica de Virgilio",
+          "role": "Unidad temática 2 · 2.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.satiricon-de-petronio",
+          "name": "Al margen del canon: el Satiricón de Petronio",
+          "role": "Unidad temática 2 · 2.4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Los textos y el aparato de lectura",
+      "note": "Volúmenes de la bibliografía obligatoria del programa, por tramo. Los textos latinos se piden “en cualquier traducción disponible”. Los estudios críticos obligatorios se dibujan a través del volumen que los contiene, con el capítulo nombrado en el rol. La complementaria, la general, las Fuentes (ediciones críticas), los artículos de revista y las fichas de cátedra no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-banos-banos",
+          "name": "Sintaxis del latín clásico — J. Baños Baños (Madrid, 2009)",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-molina-yevenes",
+          "name": "Iniciación a la fonética, fonología y morfología latinas — J. Molina Yévenes (Barcelona, 1993)",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-quintiliano",
+          "name": "Instituciones oratorias, 10.1 — Marco Fabio Quintiliano",
+          "role": "Unidad 2.1 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-catulo-poemas",
+          "name": "Poemas — Gayo Valerio Catulo",
+          "role": "Unidad 2.2 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-horacio-odas",
+          "name": "Odas — Quinto Horacio Flaco",
+          "role": "Unidad 2.2 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-marcial-epigramas",
+          "name": "Libro de los espectáculos y Epigramas — Marco Valerio Marcial",
+          "role": "Unidad 2.2 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-virgilio-eneida",
+          "name": "Eneida — Publio Virgilio Marón",
+          "role": "Unidad 2.3 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-petronio-satiricon",
+          "name": "Satiricón — Petronio",
+          "role": "Unidad 2.4 · texto latino",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-codoner-historia",
+          "name": "Historia de la literatura latina — C. Codoñer (ed.) (Madrid, 1997)",
+          "role": "Unidades 2.1, 2.2 y 2.4 · caps. Alberte “Quintiliano”, Fernández Corte “Catulo y los poetas neotéricos”, Alvar Ezquerra “Horacio. 1. La poesía lírica de Horacio”, Cortés “Marcial y el epigrama”, Callebat “Petronio. El Satyricon”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-sulla-canon",
+          "name": "El canon literario — E. Sullá (comp.) (Madrid, 1998)",
+          "role": "Unidad 2.1 · cap. “El debate sobre el canon literario”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-rudd-horace-2000",
+          "name": "Horace 2000. A celebration. Essays for the Bimillenium — N. Rudd (ed.) (London, 1993)",
+          "role": "Unidad 2.2 · cap. Arkins, “The Cruel Joke of Venus: Horace as Love Poet”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-martin-gaillard",
+          "name": "Les genres littéraires à Rome — R. Martin y J. Gaillard (Nathan, Paris, 1990)",
+          "role": "Unidad 2.2 · cap. “L’epigramme”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-spazio-letterario",
+          "name": "Lo spazio letterario di Roma antica — G. Cavallo, P. Fedeli y A. Giardina (eds.) (Roma, 1993, 5 vol.)",
+          "role": "Unidades 2.2 y 2.4 · caps. Fedeli “La poesía de amor…” (vol. 1) e “Il romanzo” (vol. I)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-conte-letteratura-latina",
+          "name": "Letteratura latina. Manuale storico dalle origini alla fine dell’impero romano — G. B. Conte (Firenze, 1987)",
+          "role": "Unidad 2.3 · cap. “Virgilio”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-pomeroy-diosas",
+          "name": "Diosas, rameras, esposas y esclavas. Mujeres en la Antigüedad Clásica — S. B. Pomeroy (Madrid, 1987)",
+          "role": "Unidad 2.3 · caps. “La matrona romana al final de la República y comienzo del Imperio” y “Las mujeres de las clases bajas romanas”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-nagore-petronio",
+          "name": "Petronio, Satyricon. Una introducción crítica — J. Nagore (Buenos Aires, 2005)",
+          "role": "Unidad 2.4 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2.libro-contribuciones-eneida",
+          "name": "Contribuciones al estudio de la Eneida — Ventura et al. (comp.) (Buenos Aires, OPFyL, Colección Fichas de Cátedra) · estudios obligatorios: Duckworth (pp. 43-53), Otis (pp. 21-41), Fowler (pp. 89-100), Parry (pp. 107-123)",
+          "role": "Unidad temática 2 · 2.3 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Latinas II, código 0543-B / 15013-B (Prof. Mariana Silvia Ventura, 2º cuatrimestre 2026), publicado como “Último Programa aprobado”",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0543%20-%2015013%20-%20LENGUA%20Y%20CULTURA%20LATINAS%20II%20-%20B-%20VENTURA.pdf"
+  }
+}

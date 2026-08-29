@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-5",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3, "units_found": 3,
+  "books_total": 28, "books_found": 28,
+  "not_found": [
+    "'Último Programa aprobado' is a site label, absent from the PDF (unverifiable offline)",
+    "Apuleius and Africa: node '(New York - London, 2014)' vs printed 'New York and London' — contradicts 'tal como los imprime'",
+    "'autora Dea Loher' — source prints 'Autor:' (L285), silent normalization",
+    "metadata.equipoDocente conflates Suárez into the EQUIPO block that contains only Nenadic (frame gets it right)"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Counts reconcile exactly: 45 obligatoria entries enumerated, 29 volume slots minus shared 'Enseñar y dominar' = 28 drawn. 1.1/1.2 subdivision is the program's own (L61, L76 with its stray space). Cross-unit merge correct with per-entry capitalization tracked (Caballero de del/Del Sastre). Preserved grafías all real (Rimmel L352, Todd Lee L353, golden Ass L355). Resolutions literal, correctly characterized. Verdict clean with 4 cosmetic fixes queued: equipoDocente split, Apuleius hyphen, Dea Loher autor/a, and the U1 1.1/1.2 book split acknowledged as entailed inference."
+}

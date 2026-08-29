@@ -1,0 +1,13 @@
+{
+  "address": "uba.fce.sistemas",
+  "source_reachable": true,
+  "exits_total": 37,
+  "found": 37,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched https://economicas.uba.ar/alumnos/sistemas/ (HTTP 200, 167647 bytes) to /Users/tomb/p/learn/extract/out/verify-fce-sistemas.html. All 37 exit names (30 obligatorias + 7 optativas) matched the page after accent/case/entity normalization; all 37 códigos present. Page lists exactly 30 obligatorias (6 Ciclo General + 24 Ciclo Profesional) and 7 optativas vigentes 2026 — node covers every one; nothing omitted. Correlativas in roles match page 'Requisitos Previos' (e.g. 1660 req 740-1654, 1799 req 658-662, 279 req 276). Page states 'Duración: 5 años promedio; Carga Horaria Total: 2.736 horas', '30 asignaturas obligatorias y 2 Optativas', Resol. Consejo Superior Nº 2210/03 — all match metadata. Minor: optativa hour totals (108 h / 72 h) are not printed on the page (only weekly V.H. 6/4 with no V.H.T. column); node's values are derived by the same 18x factor the page uses for obligatorias, so consistent but inferred rather than literal.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

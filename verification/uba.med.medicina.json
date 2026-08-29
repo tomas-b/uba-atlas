@@ -1,0 +1,13 @@
+{
+  "address": "uba.med.medicina",
+  "source_reachable": true,
+  "exits_total": 44,
+  "found": 44,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-fetched the cited PDF (https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf, 4 pages) and it is byte-identical (whitespace-normalized) to extract/out/medicina-plan.txt. All 44 exits appear in the source: Ciclo Biomédico (Anatomía; Histología-Biología Celular-Embriología-Genética; Salud Mental; Bioética I; Medicina Familiar I; Química Biológica; Fisiología y Biofísica; Microbiología-Parasitología-Inmunología; Patología I; Farmacología I), Ciclo Clínico (Medicina 1 Semiología-Fisiopatología; Medicina 2 Medicina Interna; Nutrición; Diagnóstico por imágenes; Dermatología; Infectología; Neumonología; Neurología; Cirugía General; Urología; Ortopedia-Traumatología; Oftalmología; Otorrinolaringología; Neurocirugía; Obstetricia; Ginecología; Pediatría; Patología II; Farmacología II; Salud Pública I; Salud Pública II; Psiquiatría; Medicina Legal-Deodontología Médica; Toxicología; Bioética II), Internado Anual Rotatorio all 6 rotations named verbatim under 'CICLO INTERNADO ANUAL ROTATORIO' (Medicina, Cirugía, Tocoginecología, Pediatría, Salud Mental, Atención Primaria en Áreas Programáticas [Medicina Familiar (2º Parte) y Terapia y Urgencias Hospitalarias]), and the 3 electivas (Bioinformática, Inglés, Metodología de la Investigación). Nothing in the source is omitted from the node except the 6 CBC materias (expected/correct). Plan 'Res. (CS) 2861/92' matches the source header 'Plan de Estudios de la Carrera de Medicina (CS) 2861/92'. Correlativity notes in the node (Patología I + Farmacología I required for Ciclo Clínico; Microbiología spanning both ciclos; Medicina Legal requires Psiquiatría; Bioética II requires Bioética I; Farmacología II requires Medicina 1 regular) all match the source. Minor cosmetic only: node writes 'Deontología' where the PDF has the typo 'Deodontología'; node adds a 'Transversales' grouping label not present in the source (source lists those materias under the Ciclo Clínico with no sub-heading) — not a fabrication of any materia. Verification copy left at extract/out/verify-medicina.txt.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

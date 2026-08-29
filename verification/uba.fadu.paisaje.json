@@ -1,0 +1,13 @@
+{
+  "address": "uba.fadu.paisaje",
+  "source_reachable": true,
+  "exits_total": 30,
+  "found": 30,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 30 exit names appear in BOTH the FADU page (curl'd, 92KB, plan table present) and the Agronomía Plan 2005 PDF extract. Minor orthographic variants only: FADU page writes 'Historia de la Arquitectura Paisajística I/II' while the Agronomía PDF (and node) write 'Paisajista' (PDF itself uses both spellings); FADU lists 'Fitogeografía' while PDF/node say 'Fitogeografía Argentina'; PDF OCR has 'Vegetación I I' and 'Morfologia'. Plan 2005, 3360 total hours, 'Carga Horaria Total de la Carrera: 3360', and Electiva I (4º año PDF = Nivel 3) / Electiva II–III (5º año = Nivel 4) at 60 hs each all confirmed by the PDF; the FADU page states no plan year or total and lists electives only as 'Asignaturas Optativas'. Omitting the 3 unnamed electivas and the 7 CBC materias is by design. Node's per-materia hours and cuatrimestres follow the Agronomía PDF exactly, but the FADU page disagrees with the PDF on several: Química General 60 (FADU) vs 90 (PDF/node), Botánica General 75 vs 45, Química Biológica 60 vs 45, Botánica Sistemática 45 vs 60, Fisiología Vegetal 90 vs 45, Edafología 90 vs 75, Ecología 60 vs 45, Ecología del Paisaje 60 vs 75; Geografía is 2º cuat on FADU vs 1º cuat in PDF/node; Fitogeografía is 1º cuat on FADU vs 2º cuat in PDF/node; FADU also lists Química General, Química Biológica and Fisiología Vegetal as '1º y 2º Cuat.'. Both are official sources; the node's frame explicitly credits the Agronomía PDF for hours, so this is a documented cross-source inconsistency, not fabrication. Node 'sedes' claim that Vegetación I–II and PDP I–IV are taught at both sedes matches the PDF's NOTA FINAL.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

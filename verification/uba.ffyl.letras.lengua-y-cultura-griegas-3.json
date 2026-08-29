@@ -1,0 +1,14 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 8, "books_found": 8,
+  "not_found": [],
+  "omitted": [
+    "Under rule (b) as stated, at least 6 more volumes should have been drawn: Foley Female Acts (also standalone at L386), Zelenak (L410), Segal Dionysiac Poetics (L595), Nussbaum Fragilidad del bien, Pomeroy Diosas rameras, Romero Mariscal thesis; plus Silk 1996 and Oxford Readings 1983 printed without (ed.)"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "All 5 units and 8 books survive refutation literally; erratas Better/Jurte/Curtius G-J all printed; resolutions correctly characterized; ~404 bibliography entries counted, 'varios cientos' accurate; carrera attribution verified upstream. ERRORS (rule prose, not exits): (1) inclusion rule (b) 'el único volumen del que procede una entrada de la especial obligatoria' FALSE — at least 6 other obligatoria entries come from named volumes not covered by the declared exclusions; (2) undisclosed conflict: the drawn Lisias Eudeba 2022 is itself printed in the excluded 'Ediciones y traducciones recomendadas' list (L828-829); (3) lede attributes 'traducción de pasajes' to tragedia/comedia/prosa distributively — program prescribes it only for Unidad 5 (exits get it right). Fix: restate criterion (b), disclose the Lisias overlap, narrow the lede."
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.psi.psicologia",
+  "source_reachable": true,
+  "exits_total": 63,
+  "found": 63,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "notes": "HTML at source.url lists all 23 obligatorias by ciclo with cátedra codes and all 40 named electivas (matched after normalizing accents/entities/punctuation; minor source variants: 'Psicoanálisis, Freud *' vs node 'Psicoanálisis: Freud', trailing period on 'Orientación Lacaniana. Clínica y Escritura.' and 'Abordaje Interdisciplinario.'). The only exit not in the HTML text is 'Práctica Profesional y de Investigación', which appears verbatim as an obligatoria in the plan image linked from that same page (/psicologia/plan_estudios_psicologia_2026_new.png, titled 'Plan de Estudios 1985'); the HTML instead lists the individual named prácticas (182 'Cát: Única' entries). The string '1985' does not occur in the HTML; it comes from the image. Image also confirms 5 electivas (2 CFG + 3 CFP), Requisito Idioma Res. CD 17/99, Tesis Res. CS 6768/13, Clínica I/II no correlativas. No obligatoria from source missing in node (CBC omitted by design). Source page additionally offers electivas not named in the node (e.g. Criminología, Epidemiología, Metodología Psicoanalítica, Psicopatología Infanto Juvenil, Clínica del Autismo y la Psicosis en la Infancia, Psicología aplicada a las organizaciones, Niños y Adolescentes en Conflicto con la Ley Penal, Diagnóstico y Abordaje de las Crisis Infanto Juveniles) — incompleteness, not fabrication. Suggest citing the plan PNG explicitly as a second source URL.",
+  "verdict": "clean",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

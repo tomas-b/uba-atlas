@@ -1,0 +1,24 @@
+{
+  "address": "uba.fagr.paisaje",
+  "source_reachable": true,
+  "exits_total": 30,
+  "found": 30,
+  "not_found": [],
+  "omitted_from_source": [
+    "Taller de Dibujo (CBC)",
+    "Introducción al Conocimiento de la Sociedad y del Estado (CBC)",
+    "Introducción al Conocimiento Proyectual I (CBC)",
+    "Matemática (CBC)",
+    "Introducción al Conocimiento Científico (CBC)",
+    "Introducción al Conocimiento Proyectual II (CBC)",
+    "Biología (CBC)",
+    "Electiva I",
+    "Electiva II",
+    "Electiva III"
+  ],
+  "plan_matches": true,
+  "notes": "Source: local extract /Users/tomb/p/learn/extract/out/paisaje-plan.txt of agro.uba.ar p.pdf (Plan 2005 Carga Horaria y Correlatividades). All 30 exit names found verbatim modulo OCR ('Vegetación I I', 'Morfologia'). Per-course hours, period (anual/cuat/3º bimestre), promoción directa flags and correlativas all match the source. Total 3360 hs and CBC 630 hs match. CBC omission and unnamed Electivas are by design and stated in the node frame/notes. Two minor observations, not fabrications: (1) source labels Física Aplicada '1º Cuat' but its hours only reconcile with the 2º-cuatrimestre total (360 = FA 60 + Materiales 60 + Bot.Sist 60 + Veg I 60 + PDP I 60 + SRG 60), so the source itself carries a likely typo and the node copies it; (2) metadata.materias=30 with small text 'propias + 3 electivas' is ambiguous (30 named + 3 electivas = 33 non-CBC slots).",
+  "verdict": "clean",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

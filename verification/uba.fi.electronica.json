@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.electronica",
+  "source_reachable": true,
+  "exits_total": 70,
+  "found": 70,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Verified against /Users/tomb/p/learn/extract/out/fi-electronica-plan.txt (135 KB, extracted from the cited PDF RESCD_2023_727_Electronica_2023_Aprobacion). Text header reads 'Ingeniería Electrónica · Plan de Estudios · Actualización 2023 | Plan 2020 y resoluciones modificatorias · ANEXO', with 3648 h / 10 cuatrimestres / 228 créditos / segundo ciclo 3040 h 190 créd. / 28 obligatorias + 4 electivas (24 créd.) + TIF 12 créd. — all matching node metadata. 69/70 names matched verbatim after accent/case/punctuation normalization; the 70th, 'Trabajo Integrador Final de Ingeniería Electrónica', is present in the source but line-wrapped with the correlativa column interleaved ('Trabajo Integrador Final de / Ingeniería Electrónica (Trabajo profesional / Tesis de grado)', 4+8 créd. in 9º/10º) — confirmed genuine by manual read. All 28 obligatorias in the source's MATERIAS OBLIGATORIAS DEL PLAN table (3º–10º cuatrimestre) appear in the node with matching créditos, horas, cuatrimestre and correlativas; only CBC and the generic 'Electivas' slots are omitted, which is correct. All 41 entries in MATERIAS ELECTIVAS DEL PLAN appear in the node with matching créditos and correlativas (minor casing differences in source, e.g. 'Comunicaciones aeroespaciales B', 'Introducción a la industria...'). One caveat: the resolution number 'Res. CD 727/2023' does not appear in the extracted body text (the annex only cites Res. CD 1235/18 for Plan 2020); the 727/2023 attribution rests on the PDF filename in the cited URL, which is consistent but not stated in-text.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

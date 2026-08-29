@@ -1,0 +1,13 @@
+{
+  "address": "uba.med.nutricion",
+  "source_reachable": true,
+  "exits_total": 41,
+  "found": 41,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "First curl returned 0 bytes (transient); retry with UA returned HTTP 200, 79KB Drupal page. All 41 exit names (32 obligatorias + 9 electivas) match the page after accent/case/punctuation normalization; only cosmetic source variants: 'Socio antropología', 'Salud Publica', 'Dietoterapica', 'Administración de Servicios de alimentación'. Page lists no obligatoria beyond the node's set except CBC (6 subjects, omitted by design). Structure verified: 2nd yr 7 (4 anual/3 cuatr), 3rd yr 12, 4th yr 10, 5th yr 3 prácticas + 9 electivas, 'El alumno deberá seleccionar tres asignaturas electivas'; anual/cuatrimestral roles all match; correlativa notes match (incl. Interacción droga-alimentos special prereqs, 'Regular en' rules, 5th-year 'todas hasta 4° año'). No resolution number on page, as node states. Minor: node metadata 'años: 4' counts own years (2nd-5th) — consistent with lede. Saved: /Users/tomb/p/learn/extract/out/verify-med-nutricion.html and .txt.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

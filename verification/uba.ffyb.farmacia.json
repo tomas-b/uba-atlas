@@ -1,0 +1,13 @@
+{
+  "address": "uba.ffyb.farmacia",
+  "source_reachable": true,
+  "exits_total": 37,
+  "found": 37,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Cited PDF (Plan-Farmacia-2008-modificatoria-2016.pdf, HTTP 200, 970KB) re-downloaded and re-extracted; its text is identical in content to extract/out/ffyb-farmacia-plan-full.txt (header 'PLAN FARMACIA 2008 modificatoria 2016'). ffyb-farmacia-plan.txt is a different, correlativas-table version of the plan (numbered 7-43) — same plan, not the cited URL. All 37 exit names found verbatim (accent/case-normalized) in the cited source and in the live PDF, across the 8 spine cuatrimestres, 3 orientation courses and 5 free-timing obligatorias. Source lists no additional named obligatorias; the 2 optativas per orientation are unnamed (annual offer), as the node states. Plan label '2008 modificatoria 2016' matches. Only oddity: the correlativas-version extract spells #31 as 'Farmacología Clínica y Asistencial' (apparent typo in that document) whereas the cited source says 'Farmacia Clínica y Asistencial', which the node uses — correct per cited source. Metadata claim 'materias: 37' consistent with numbering 7-43 (37 items; #38 absent in the correlativas version). Not verified: 'obligatoriasPorCuatrimestre: 29' is a derived count (3+3+3+3+4+4+5+4 = 29, correct).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

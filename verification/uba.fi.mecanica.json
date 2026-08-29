@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.mecanica",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source URL returns HTTP 200 application/pdf (650 KB). Extracted text /Users/tomb/p/learn/extract/out/fi-mecanica-plan.txt is the cited document: header 'Ingeniería Mecánica · Plan de Estudios · Actualización 2024 | Plan 2020 y resoluciones modificatorias', expediente EX-2023-06060030-UBA-DIMEDA#SA_FI, RESCS-2024-580 mentioned once, ACS-2024-113-UBA-SG#REC page footers. All 38 exit names appear verbatim in the 'MATERIAS OBLIGATORIAS DEL PLAN' table (lines 540-686). Automated normalized match hit 37/38; the single miss, 'Trabajo Profesional de Ingeniería Mecánica o Tesis de Ingeniería Mecánica', is a PDF column-interleave line-wrap artifact (lines 661-663 / 679-681) and is confirmed present by manual reading, also as separate contenidos-minimos entries at lines 1470 and 1493. Credits and hours per exit match the table exactly. Source totals: 37 obligatorias + 1 Trabajo Profesional/Tesis = 38 (matches node), 14 electiva credits (8 in 10º + 6 in 11º), 250 credits / 4000 h, CBC 6 subjects (correctly omitted). No obligatoria from the source is missing from the node. Plan/resolution/expediente/credit totals in node metadata all match the source.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

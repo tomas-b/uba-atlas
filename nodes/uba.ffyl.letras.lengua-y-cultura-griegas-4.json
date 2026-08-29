@@ -1,0 +1,410 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "128 horas · mínimo de 8 hs semanales (4 teóricas, 2 teórico-prácticas, 2 prácticas)",
+    "cuatrimestre": "2º",
+    "anio": "2026 (año impreso en el programa)",
+    "codigo": "15010-A",
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · Prof. Dra. María José Coscolla (firma como Profesora Adjunta Regular) · 2º cuatrimestre 2026",
+    "equipoDocente": [
+      "COSCOLLA, María José (profesora)",
+      "RIVAS, Ezequiel Gustavo (jefe de trabajos prácticos)",
+      "VISSANI, Guillermo Daniel (ayudante de primera)"
+    ],
+    "modalidad": "presencial; el programa transcribe el tope general del 30% virtual de la REDEC-2024-2526-UBA-DCT#FFYL sin declarar el porcentaje que adopta",
+    "evaluacion": "3 instancias de evaluación parcial · 1 recuperatorio · aprobación por Opción A (80% de asistencia y promedio ≥ 7 sin aplazos) u Opción B (75% de prácticos y examen final)",
+    "unidades": 3,
+    "tramos": 10,
+    "bibliografia": 35
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4",
+      "label": "Lengua y Cultura Griegas IV"
+    }
+  ],
+  "eyebrow": "Letras · Lenguas y Literaturas Clásicas · Griegas IV",
+  "title": "El griego deja de ser uno solo.",
+  "lede": "Los niveles anteriores asentaron el ático clásico como variedad de referencia; acá aparece la variación dialectal y la historicidad de la lengua, por la vía del dialecto homérico. Se entra por la Ilíada: fonética y morfología históricas del indoeuropeo al dialecto épico, peculiaridades de los modos y la subordinación, hexámetro dactílico con sus cesuras y licencias, y traducción y escansión de segmentos de los cantos VI y XXII. Se sigue por Troyanas de Eurípides —la misma materia mítica reescrita bajo la Guerra del Peloponeso— con su métrica de recitativos y de cantos corales. Y se cierra con la Poética de Aristóteles en su lengua original: mímesis, kátharsis, eikós, peripéteia, hamartía, katastrophé, anagnórisis. Tres registros —arcaico, clásico poético, clásico en prosa filosófica— y una primera entrada al aparato crítico.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "128 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "10 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Griegas IV, código 15010-A, carrera de Letras (FFyL-UBA), Prof. Dra. María José Coscolla, 2º cuatrimestre 2026 — el PDF publicado bajo el rótulo «Último Programa aprobado» en letrasclasicas.filo.uba.ar/programacion (atribución a esa página; el PDF no se autodenomina así). El programa NO consigna resolución de aprobación del programa: las normas que cita son REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado del Ciclo Lectivo 2026, y la Res. (CD) Nº 4428/17 del Reglamento Académico para el régimen de promoción. Lo firman Coscolla (Profesora Adjunta Regular) y la Prof. Dra. Jimena Paula Palacios, Directora del Departamento. El programa no consigna correlatividades, ni ciclo ni orientación: la ubicación de esta materia en el área de Letras Clásicas viene del nodo padre (plan de Letras), no de este PDF. Los cargos del equipo docente llevan la nota del propio programa: los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo. SELECCIÓN DE BIBLIOGRAFÍA DECLARADA: se dibujan como nodo libro (a) los tres textos griegos que los contenidos mandan leer —Ilíada VI y XXII, Troyanas, Poética—, (b) todos los volúmenes del bloque «Bibliografía general complementaria sobre lengua griega / Instrumenta studiorum» (diccionarios, gramáticas, gramáticas de lengua homérica y métrica, historias de la literatura), y (c) las entradas de volumen de la bibliografía OBLIGATORIA de cada unidad. EXCLUSIONES DECLARADAS, aplicadas parejo: los artículos de revista; los capítulos citados dentro de un volumen que el programa no lista además como entrada propia dibujada —Hooker, Easterling, Vernant/Vidal-Naquet, Halliwell, Heath; los volúmenes de Schadewaldt y Murphy sí figuran, pero en la complementaria y en Fuentes, bloques excluidos— (Hooker, Schadewaldt, Easterling «A Show for Dionysus», Vernant y Vidal-Naquet, Halliwell, Heath, Murphy); la «Bibliografía complementaria» de cada unidad; y los bloques «Fuentes, ediciones y comentarios» y «Traducciones recomendadas», que listan decenas de ediciones críticas y traducciones sin designar ninguna como la del curso — por eso los tres textos se dibujan por su título y no por una edición. CONSECUENCIA REGISTRADA: la bibliografía obligatoria de la Unidad 3 es íntegramente de artículos y capítulos, de modo que esa unidad no aporta ningún nodo libro fuera de la propia Poética. CONTRADICCIÓN REGISTRADA: el Traité de métrique grecque de Koster figura dos veces con datos distintos — «(1953) Leide» en Instrumenta studiorum y «(1952) Leyde, A.W. Sijthoff» en la complementaria de la Unidad 1; se registran ambos, no se resuelve. El Greek-English Lexicon de Liddell-Scott aparece repetido en dos sub-bloques del mismo Instrumenta studiorum, con los mismos datos; se dibuja una sola vez. ERRATAS DEL ORIGINAL, conservadas tal como se imprimen: «Biliograf» por Bibliograf (Pabón), «Littlefied» por Littlefield (Pucci), el pie de edición truncado de Humbert («30 ed., 19»), y la entrada de Bizos sin nombre de pila y la de Smyth sin fecha.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades y sus 10 tramos",
+      "title": "Del hexámetro a la Poética",
+      "note": "Cada tramo numerado del programa es un nodo, en orden. La Unidad 1 abre con un encabezado sin numerar —el dialecto épico como dialecto ‘literario’: eolismos, jonismos, aticismos— que enmarca sus cinco tramos y no se dibuja aparte.",
+      "map": {
+        "mk": "Tres registros del griego, en tres unidades",
+        "tree": "LENGUA Y CULTURA GRIEGAS IV · código 15010-A · Coscolla\n│\n├─ 1 · PERÍODO ARCAICO: POESÍA HOMÉRICA\n│      el dialecto épico como dialecto ‘literario’ · eolismos, jonismos, aticismos\n│   ├─ I.1 · Fonética histórica · del indoeuropeo al dialecto homérico y al ático\n│   ├─ I.2 · Morfología histórica · declinaciones, pronombres, conjugación\n│   ├─ I.3 · Sintaxis · modos, subordinación, verboides\n│   ├─ I.4 · Métrica · hexámetro dactílico, cesuras, digamma\n│   └─ I.5 · Texto · Ilíada VI y XXII · Aquiles y Héctor\n│\n├─ 2 · PERÍODO CLÁSICO: EL TEATRO DE EURÍPIDES\n│   ├─ II.1 · Eurípides, la polémica y la innovación transgresora\n│   ├─ II.2 · Troyanas · análisis filológico, traducción, métrica de recitativos\n│   └─ II.3 · Métrica de cantos corales, amebeos kommói y monodias\n│\n└─ 3 · LA PROSA ÁTICA: ARISTÓTELES\n    ├─ III.1 · Génesis, estructura y conceptos de la Poética\n    └─ III.2 · Análisis filológico integral de pasajes de la Poética",
+        "foot": "Único programa publicado para esta materia en el sitio del Departamento de Lenguas y Literaturas Clásicas; no se consignan otras cátedras."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.fonetica-historica",
+          "name": "Fonética histórica",
+          "role": "Unidad 1 · I.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.morfologia-historica",
+          "name": "Morfología histórica",
+          "role": "Unidad 1 · I.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.sintaxis-homerica",
+          "name": "Sintaxis · modos, subordinación y verboides de la lengua arcaica",
+          "role": "Unidad 1 · I.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.metrica-hexametro",
+          "name": "Métrica · hexámetro dactílico",
+          "role": "Unidad 1 · I.4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.texto-iliada",
+          "name": "Texto · Ilíada VI y XXII",
+          "role": "Unidad 1 · I.5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.euripides-polemica",
+          "name": "Eurípides o el teatro de la polémica y la innovación transgresora",
+          "role": "Unidad 2 · II.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.troyanas-analisis",
+          "name": "Análisis filológico y traducción de Troyanas · métrica de los recitativos",
+          "role": "Unidad 2 · II.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.metrica-cantos-corales",
+          "name": "Análisis métrico de cantos corales, amebeos kommói y monodias de Troyanas",
+          "role": "Unidad 2 · II.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.poetica-conceptos",
+          "name": "Génesis, estructura y conceptos centrales de la Poética",
+          "role": "Unidad 3 · III.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.poetica-analisis",
+          "name": "Análisis filológico integral de pasajes de la Poética",
+          "role": "Unidad 3 · III.2",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes, instrumenta y bibliografía obligatoria",
+      "title": "Los textos y las herramientas",
+      "note": "Los tres textos griegos que mandan los contenidos, el bloque completo de Instrumenta studiorum y las entradas de volumen de la bibliografía obligatoria de cada unidad. Los artículos, los capítulos sueltos, la bibliografía complementaria y las listas de ediciones y traducciones no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-iliada",
+          "name": "Ilíada — Homero · selección de segmentos de los cantos VI y XXII",
+          "role": "fuente · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-troyanas",
+          "name": "Troyanas — Eurípides · selección",
+          "role": "fuente · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-poetica",
+          "name": "Poética — Aristóteles · selección de pasajes",
+          "role": "fuente · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-bailly",
+          "name": "Dictionnaire Grec-Français — A. Bailly (Hachette, 1960)",
+          "role": "instrumenta · diccionario",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-liddell-scott",
+          "name": "A Greek-English Lexicon — H. G. Liddell y R. Scott (comps.) (Clarendon Press, 1989, 15ª ed., rev. Stuart Jones y McKenzie)",
+          "role": "instrumenta · diccionario",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-pabon",
+          "name": "Diccionario manual griego-español — J. Pabón (Barcelona: «Biliograf», tal como lo imprime el programa, 1973)",
+          "role": "instrumenta · diccionario",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-berenguer",
+          "name": "Gramática griega — J. Berenguer Amenós (Bosch, 1959)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-bizos",
+          "name": "Syntaxe grecque — Bizos (Librairie Vuibert, 1997; el programa no imprime nombre de pila)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-crespo-conti-maquieira",
+          "name": "Sintaxis del griego clásico — E. Crespo, L. Conti y H. Maquieira (Gredos, 2003)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-curtius",
+          "name": "Gramática griega elemental — J. Curtius (Desclée de Brouwer, Bs. As., 1946)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-goodwin",
+          "name": "Syntax of the moods and tenses of the Greek verb — W. Goodwin (Macmillan, 1966)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-humbert",
+          "name": "Syntaxe grecque — J. Humbert (Klincksieck, 1960; el pie de edición se imprime truncado: «30 ed., 19»)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-lukinovich-rousset",
+          "name": "Grammaire du grec ancien — A. Lukinovich y M. Rousset (Georg Éditeur, Genève, 1989)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-smyth",
+          "name": "Greek grammar — H.-W. Smyth (Harvard University Press; el programa consigna «sd», sin fecha)",
+          "role": "instrumenta · gramática",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-chantraine-etimologico",
+          "name": "Dictionnaire étymologique de la langue Grecque — P. Chantraine (Klincksieck, 1999, 2ª ed.)",
+          "role": "instrumenta · lengua homérica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-chantraine-grammaire-homerique",
+          "name": "Grammaire Homérique — P. Chantraine (Klincksieck, 1958) · T. I Morphologie y T. II Syntaxe",
+          "role": "instrumenta · lengua homérica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-chantraine-morfologia",
+          "name": "Morfología histórica del griego — P. Chantraine (Avesta, Barcelona, 1983)",
+          "role": "instrumenta · lengua homérica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-koster",
+          "name": "Traité de métrique grecque — W. J. Koster (Leide, 1953; el mismo título reaparece en la complementaria de la Unidad 1 como «Leyde, A. W. Sijthoff, 1952»)",
+          "role": "instrumenta · métrica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-lejeune",
+          "name": "Traité de phonétique Grecque — M. Lejeune (Klincksieck, 1987, 3ª ed.)",
+          "role": "instrumenta · fonética histórica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-bowra",
+          "name": "Historia de la literatura griega — C. Bowra (FCE, México, 1996)",
+          "role": "instrumenta · historia de la literatura",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-dover-west-griffin",
+          "name": "Ancient Greek literature — Dover, West y Griffin (Oxford, 1980)",
+          "role": "instrumenta · historia de la literatura",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-easterling-knox",
+          "name": "Historia de la literatura clásica (Cambridge University) — P. Easterling y P. Knox (Gredos, 1985; trad. Federico Zaragoza Alberich)",
+          "role": "instrumenta · historia de la literatura",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-lesky",
+          "name": "Historia de la literatura griega — A. Lesky (Gredos, 1976)",
+          "role": "instrumenta · historia de la literatura",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-introduccion-a-homero",
+          "name": "Introducción a Homero, I-II — Fr. Rodríguez Adrados, M. Fernández-Galiano, L. Gil y J. S. Lasso de la Vega (Madrid, 1984 [1963]) · selección",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-kirk-commentary",
+          "name": "The Iliad: A Commentary — G. S. Kirk (ed.), 6 vols. (Cambridge, 1987-93)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-havelock",
+          "name": "Prefacio a Platón — E. Havelock (Visor, 1994) · caps. 4, 7 y 8",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-latacz",
+          "name": "Troya y Homero. Hacia la resolución de un enigma — J. Latacz (Ediciones Destino, 2003)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-seaford-reciprocity-ritual",
+          "name": "Reciprocity and Ritual. Homer and Tragedy in the Developing City-State — R. Seaford (Clarendon Press, 1994)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-reciprocity-ancient-greece",
+          "name": "Reciprocity in Ancient Greece — C. Gill, N. Postlethwaite y R. Seaford (eds.) (Oxford, 1998)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-morris-powell",
+          "name": "A New Companion to Homer — I. Morris y B. Powell (eds.) (Leiden-Nueva York-Colonia, 1997)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-pucci",
+          "name": "The Song of the Sirens. Essays on Homer — P. Pucci (Oxford: Rowman and «Littlefied», tal como lo imprime el programa, 1998) · caps. 4-7",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-critchley",
+          "name": "La tragedia, los griegos y nosotros — S. Critchley (Turner Noema, 2020; trad. Daniel López González) · selección",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-gentili-garelli",
+          "name": "Lo trágico — C. Gentili y G. Garelli (Machado, 2015; trad. Cooperativa Aeiou Traductores) · cap. III",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-loraux-maneras-tragicas",
+          "name": "Maneras trágicas de matar a una mujer — N. Loraux (Machado, 2020; trad. Ramón Buenaventura)",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-4.libro-loraux-meres-en-deuil",
+          "name": "Les mères en deuil — N. Loraux (Du Seuil, 1990) · pp. 57-85",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Griegas IV, código 15010-A (Prof. Dra. María José Coscolla, 2º cuatrimestre 2026); publicado como «Último Programa aprobado» en letrasclasicas.filo.uba.ar/programacion",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15010%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20IV%20-%20A%20-%20COSCOLLA.pdf"
+  }
+}

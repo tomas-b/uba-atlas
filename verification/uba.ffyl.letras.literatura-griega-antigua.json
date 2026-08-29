@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.literatura-griega-antigua",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 13, "units_found": 13,
+  "books_total": 60, "books_found": 60,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Load-bearing layer clean: 13/13 units literal, 26/26 corpus + 34/34 crítica volumes recounted independently, draw/exclude rule consistent both directions (traps passed: Hutchinson 1988 vs 2001, Erskine obligatoria vs general), zero fabricated figures. Contradictions real (Lesky 1963/1976; ficha 2013/2023) and erratas literal (Segal 19992 L755, Franco 2912 L275, Knox 19982, Hornblower 19993). Área attribution verified against parent (ACS-2023-58). Four prose defects: lede 'alfabeto griego a mano' unsupported (source says 'uso instrumental', L85-86); 'Fuentes: traducciones recomendadas de cada unidad' false — exists for 9 of 13 units; map groups Unidad 6 under 'POESÍA GRIEGA ARCAICA' where the program prints 'Lírica griega arcaica' (editorial supra-headers, partially disclosed); metadata.modalidad transcribes the >350-inscriptos REDEC rule as if a property of this materia."
+}

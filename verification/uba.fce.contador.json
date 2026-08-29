@@ -1,0 +1,20 @@
+{
+  "address": "uba.fce.contador",
+  "source_reachable": true,
+  "exits_total": 26,
+  "found": 26,
+  "not_found": [],
+  "omitted_from_source": [
+    "241 Análisis Matemático I",
+    "242 Economía",
+    "243 Sociología",
+    "244 Metodología de las Ciencias Sociales",
+    "245 Álgebra",
+    "246 Historia Económica y Social General"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Raw HTML fetched (175,702 bytes; dateModified 2026-08-18) to /Users/tomb/p/learn/extract/out/verify-fce-contador.html. All 26 exit names found verbatim (accent-insensitive match) in the plan tables, each adjacent to its stated código. All 26 códigos found. Hours and correlativas in every `role` match the page row-for-row (e.g. 1361 · 108 h · req 273-279-355-1330; 1330 · 36 h · req 1352; 1374 · 72 h · req 278–1352). Page states 'Duración: 5 años y medio promedio; Carga Horaria Total: 2.808 horas' and table total 'CARGA HORARIA TOTAL (1+2) 2808' — matches metadata. Electiva/Optativa requirement and Res. CS 2210/03 both present on page. Only omissions are the six Primer Tramo materias (241–246), which the node explicitly delegates to uba.cbc by design; electivas/optativas lists are deliberately not drawn as children and the node says so. No fabrication detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

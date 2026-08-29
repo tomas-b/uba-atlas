@@ -1,0 +1,26 @@
+{
+  "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 49,
+  "books_found": 49,
+  "not_found": [],
+  "omitted": [
+    "U1 Bibliografía sugerida (4): Butler «Conclusión: De la parodia a la política»; Said Los comienzos cap. I; Williams «El poema como campo de acción»; Zanetti «La lectura en la literatura latinoamericana»",
+    "U1 Bibliografía complementaria (26): AAVV Escalera al cielo; Auden; Bajtín; A. C. César; Butler (Feminaria); Deleuze Pintura; Deleuze y Guattari; Ducrot y Todorov; Genette Ficción y dicción; Geertz; Jauss; Louis Sin objeto; Meschonnic; Paz; Peirce; Pezzoni; Pound; Rest; Reyes El deslinde; J-M. Schaeffer; P. Schaeffer; Scott; Süssekind; Todorov; R. Williams «Los géneros»; Woolf",
+    "U2 Bibliografía sugerida (4): Carrera; De Toro; Glissant; Sontag",
+    "U2 Bibliografía complementaria (27): Alcalde; Aristóteles (García Yebra); Artaud; Barthes x3; Benn; Beristáin; Brecht x2; Brossard; Eagleton; Frith «La voz»; Grüner; Koch; López Eire; Olson; Porrúa; Ramos; Rest; Rinesi; Ruiz x2; Saavedra y Stupía; Tatián; Villegas; R. Williams",
+    "U3 primer bloque rotulado 'Bibliografía complementaria' (3, erratum — ocupa el lugar de 'sugerida'): Bajtín «Épica y novela»; De Lauretis; Jakobson",
+    "U3 segundo bloque complementaria (21): Abrams; Adorno; Arendt; Bajtín (Dostoievski); Bal; Benjamin; Bessière; Colombi; De Quincey; Emerson; Frye; Foucault; Merchant; Lacoue-Labarthe y Nancy; Latour; Lukács x2; Martínez y Scheffel; Ruiz; Terán; Volóshinov",
+    "U4 Bibliografía complementaria (26): AAVV Texto crítico 6; Amante; Adorno; Balderston; Brathwaite; Bourdieu; Colombi; Compagnon; 'Culler, Jona'; Eagleton; Freud; Frith; Grüner; Hernaiz; Hobsbawm; Kusher; Latour; López; Marcus; Rama La ciudad letrada; Ruiz; Sazbón; Schaeffer; Spinoza; Todorov; Viveiros de Castro",
+    "U5 Bibliografía complementaria (16): Angiletta; Barthes; Castillo Zapata; Domínguez; Fogwill; Grüner; Kohan; Marcus; Oubiña; Portelli; Ruiz x2; Schwarzböck; Shklovski; Tarkovsky; Wolf",
+    "U5 Fuentes no-libro (3, exclusión declarada en la nota del grupo): Don Siegel The Killers (1964); Tarkovsky The Killers (1956); Caetano Veloso «Elegia» (1979)",
+    "Secciones del PDF sin nodo (no bibliográficas): b. Objetivos; e. Organización del dictado; f. Organización de la evaluación (PD Opción A/B, recuperatorio, vigencia de regularidad, RTARMEM); g. Recomendaciones + 14 enlaces de bibliotecas"
+  ],
+  "metadata_matches": true,
+  "notes": "SOURCE: extract en /Users/tomb/p/learn/extract/out/letras-l2-fundamentos.txt (15001-A Ruiz) y letras-l2-fundamentos-b.txt (15001-B de Mendonça). UNIDADES 5/5 FOUND, títulos verbatim (líneas 126/140/154/164/175). OBLIGATORIA 28/28 FOUND, y el reparto por unidad del nodo coincide exactamente con el PDF (U1=4, U2=5, U3=4, U4=8, U5=7). FUENTES 21/21 FOUND, incl. las marcas [Prácticos] correctas (U2: Lope, Racine, Shakespeare; U3: Austen, Machado de Assis, Sōseki) — el conteo de fuentes-libro del PDF es 3+7+8+3=21, exacto. CERO exits fabricados; ningún libro dibujado sale de sugerida/complementaria. METADATA: 96 HORAS (l.27), PD (l.26), 1º CUATRIMESTRE 2024 (l.28), 15001-A (l.23), REDEC-2023-2382-UBA-DCT#FFYL + 30% virtual asincrónico (l.25, 562-578), 'LITERATURA, UN PENTAGRAMA' (l.42), 'Dr. Facundo Ruiz / Profesor Asociado' (l.690-691) — todo verificado. DIVERGENCIA CÁTEDRA B CONFIRMADA: los 5 títulos citados en el frame son verbatim del PDF B (l.82-112) y su metadata también (15001-B, EF, 2º cuat 2025, 96 hs, de Mendonça). TRES DEFECTOS MENORES, ninguno una fabricación de exit: (1) el frame afirma que la Unidad 3 duplica 'Bibliografía complementaria' 'donde las otras unidades imprimen Bibliografía sugerida y luego complementaria' — falso para las Unidades 4 y 5, que NO tienen bloque 'sugerida' en absoluto (sólo U1 y U2 lo tienen); la caracterización del erratum de U3 es correcta pero la generalización sobre 'las otras unidades' no. (2) el nodo corrige silenciosamente dos erratas del PDF sin declararlas junto a las otras: 'Lautrémont' → 'Lautréamont' (exit libro-rama-marti) y 'Bras Cubas' → 'Brás Cubas' (fuente-machado-de-assis); el frame declara explícitamente que 'nada de eso se corrige aquí'. (3) 'ciclo: Ciclo de Formación General · troncal' y el eyebrow 'CFG · troncal' NO están en ninguno de los dos PDFs — provienen del plan 2023 registrado en el nodo padre /Users/tomb/p/learn/nodes/uba.ffyl.letras.json (l.59-65), es decir grounding cruzado legítimo, pero no recuperable del programa citado. También menor: el PDF B se rotula '[Plan 2023]' y firma 'Dra.' (el nodo dice 'Prof.'), y el exit libro-guerrero abrevia el capítulo 'Horacio: Si me lyricus vatibus inseres' a «Horacio». VEREDICTO: sin fabricación — todo exit dibujado es recuperable del texto citado.",
+  "verdict": "clean",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

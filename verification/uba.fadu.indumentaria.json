@@ -1,0 +1,16 @@
+{
+  "address": "uba.fadu.indumentaria",
+  "source_reachable": true,
+  "exits_total": 28,
+  "found": 28,
+  "not_found": [],
+  "omitted_from_source": [
+    "Optativa I (MO1, 60 hs, 5º año — intentionally excluded as unnamed slot, per node frame)",
+    "Optativa II (MO2, 60 hs, 5º año — same)"
+  ],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "All 28 exit names appear verbatim (accent-insensitive) in the fetched fadu.uba.ar plan table; role fields (anual/1º/2º/1º y 2º cuat., hours) and per-year totals (525/600/495/405 hs) match the source exactly. PPA note ('requisito obligatorio, con 4º año finalizado') matches. CBC materias present in source but omitted by design. plan_matches=false only because the cited URL contains NO mention of 'Plan 2016', 'Res. CS 6182/16', '2697' hours, or the cycle names 'Ciclo de Formación Intermedio/Profesional' — those come from the Código UBA reference in source.label, which has no URL and was not verified here (grep counts: 6182=0, 2016=0, 2697=0). Sum of years 2-5 on page = 2025 hs; the 2697 figure is unverifiable from the cited source. No fabricated exits.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

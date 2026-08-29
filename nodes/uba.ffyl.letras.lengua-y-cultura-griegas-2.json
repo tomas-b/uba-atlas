@@ -1,0 +1,492 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 horas (noventa y seis); comprende 6 (seis) horas semanales de dictado de clases",
+    "cuatrimestre": "2º",
+    "anio": "2026",
+    "codigo": "0548-I / 15008-I",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · Profs. Tomás Fernández y Marisa Divenosa (programa del 2º cuatrimestre 2026; el PDF no consigna letra de cátedra fuera del sufijo «-I» del código)",
+    "equipoDocente": [
+      "FERNÁNDEZ, TOMÁS (profesor; firma como Prof. Adjunto)",
+      "DIVENOSA, MARISA (profesora; firma como Prof. Adjunta)",
+      "CORTEZ, PALOMA (ayudante de primera)",
+      "D’ARINO, JULIETA (ayudante de primera)",
+      "SORTER, SANTIAGO (ayudante de primera)"
+    ],
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de sus clases en modalidad virtual)",
+    "evaluacion": "3 instancias de evaluación parcial · 1 recuperatorio · Opción A: 80% de asistencia y promedio ≥ 7 sin aplazos; Opción B: 75% de asistencia a prácticos, mínimo 4 en cada instancia y examen final",
+    "unidades": 4,
+    "bibliografia": 50,
+    "firmaDepartamento": "Dra. Jimena Palacios, Directora del Departamento de Lenguas y Literaturas Clásicas"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2",
+      "label": "Lengua y Cultura Griegas II"
+    }
+  ],
+  "eyebrow": "Letras · Lenguas y Literaturas Clásicas · Griegas II",
+  "title": "Traducir el ático y medir el suspenso.",
+  "lede": "Segundo tramo del griego del período clásico, dialecto ático, partido en dos mitades. La de lengua retoma la morfología del primer nivel y la completa —la tercera declinación en su conjunto, con atención a los temas en yod y wau; los adjetivos de segunda y tercera clase; los verbos contractos, consonánticos, polirrizos y en -μι; los aspectos infectivo, perfectivo y confectivo; los verboides, los adjetivos verbales y nociones del dual— y sigue con la sintaxis: modos sintácticos, coordinación y subordinación, genitivo absoluto, participios verbalizados, proposiciones adverbiales, uso de los casos. La mitad de cultura se pregunta por el tiempo del relato: la Odisea, la “ley de Zielinski” y el agenciamiento narrativo de acciones simultáneas frente a la Ilíada; el triángulo de la narratividad de Sternberg —curiosidad, suspenso y sorpresa— y lo que separa a la épica del drama y de la novela; después el carácter, con el héroe cómico enfrentado al héroe épico y al novelesco, el Sócrates de Nubes de Aristófanes, y el mito en Platón: Prometeo en Protágoras.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "6 hs semanales"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "2 lengua · 2 cultura"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Griegas II, código Nº 0548-I / 15008-I, Departamento de Lenguas y Literaturas Clásicas (FFyL-UBA), 2º cuatrimestre de 2026 (el PDF imprime «AÑO: 2026»), profesores Tomás Fernández y Marisa Divenosa. El programa no consigna resolución de aprobación: la única resolución citada para el dictado es REDEC-2024-2526-UBA-DCT#FFYL, que fija pautas complementarias para el Ciclo Lectivo 2026; el régimen de evaluación remite a la Res. (CD) Nº 4428/17 y el Régimen Transitorio a la Res. (CD) Nº 1117/10. El PDF no menciona otras cátedras de la materia, y aquí no se afirma que las haya ni que no las haya. VARIACIÓN INTERNA REGISTRADA: la portada imprime «PROFESOR/A: DIVENOSA, MARISA / FERNÁNDEZ, TOMÁS» y la segunda página «PROFESORES: FERNÁNDEZ, TOMÁS / DIVENOSA, MARISA» —el mismo par en orden invertido—; los cargos «Prof. Adjunta» y «Prof. Adjunto» sólo aparecen en el bloque de firmas del final. ERRATA DEL ORIGINAL: la lista del equipo docente abre con una línea «AYUDANTE DE PRIMERA:» sin nombre, seguida de las tres con nombre (Cortez, D’Arino, Sorter); el programa aclara en nota al pie que «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». SELECCIÓN DE BIBLIOGRAFÍA: se dibujan como nodo libro todas las entradas que nombran un volumen —monografías, diccionarios, gramáticas, volúmenes colectivos (con el capítulo citado anotado en el nombre) y ediciones de fuentes—; NO se dibujan los artículos de revista, que se declaran aquí: Bouvier (Oral Tradition 18/1, 2003), Cavallero (AFC 22, 2009), Errecalde (Synthesis 7, 2000), T. Fernández (Quaderni urbinati di cultura classica, 2023) y (Circe de clásicos y modernos, 2023), Marinoni (AFC 22, 2009), Verde Castro (Synthesis 18, 2011), Zecchin de Fasano (Synthesis 9, 2002), Campbell (JHS 104, 1984), Deli (Argos 1, 1977), C. Fernández «El Pensadero era una fiesta o cómo interpretar el final de Nubes» (AFC 18-19, 2005) y Gil (Estudios Clásicos 61-82, 1974-1975). Tampoco se dibuja el «DGE, Diccionario griego-español en línea [desde la alpha hasta la epsilón]» (http://dge.cchs.csic.es/xdge/), único recurso de la lista que no es volumen. LA OBLIGATORIA DE CULTURA ES UN CONJUNTO DE OPCIÓN, no una lista cerrada: el programa establece que «serán obligatorios al menos dos artículos y/o libros de A), y uno de B), C), D) y E)» —las cinco secciones son Épica homérica, Tragedia, Comedia, Diálogo platónico y Teoría literaria—, de modo que ningún título de las Unidades 3 y 4 es obligatorio en sí. Las Fuentes se declaran como «solo traducciones recomendadas, pero podrá utilizarse cualquier otra», y el PDF las encabeza «Fuentes (correspondiente a las Unidades 3 y 4)» para luego subtitular la lista «Bibliografía general». ERRATAS TIPOGRÁFICAS DEL ORIGINAL conservadas al pie de la letra en los nombres de los libros: «Berenger Amenós» por Berenguer, «A Dictionnaire grec-français» (Bailly), «Linguística griega» sin tilde (Brandenstein), «Descleé de Brouwer», «Genéve» y «Buenos Aihes» (Aristóteles, Poética). Ningún título resultó ilegible: el PDF trae capa de texto y se extrajo entero, sin OCR.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "Dos de lengua, dos de cultura",
+      "note": "Las cuatro unidades del programa, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "LENGUA Y CULTURA GRIEGAS II · 0548-I / 15008-I\n│\n├─ LENGUA\n│   ├─ 1 · Morfología · 3ª declinación (temas en yod y wau), adjetivos de 2ª y 3ª clase,\n│   │       contractos, aspectos, verboides, consonánticos, polirrizos, -μι, dual\n│   └─ 2 · Sintaxis · modos, coordinación y subordinación, genitivo absoluto,\n│           participios verbalizados, proposiciones adverbiales, uso de los casos\n│\n└─ CULTURA\n    ├─ 3 · Curiosidad, suspenso y sorpresa en la narrativa griega\n    │       Odisea, ley de Zielinski, Ilíada, triángulo de Sternberg, Eurípides\n    └─ 4 · Desarrollo de carácter. Mito\n            comedia, héroe cómico, Nubes, Prometeo en Protágoras",
+        "foot": "La materia avanza en dos frentes a la vez: la adquisición sistemática del ático (Unidades 1 y 2) y la pregunta por la temporalidad y el punto de vista entre los inicios de la literatura griega y el período posclásico (Unidades 3 y 4)."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.morfologia",
+          "name": "Lengua. Morfología",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.sintaxis",
+          "name": "Lengua. Sintaxis",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.curiosidad-suspenso-sorpresa",
+          "name": "Cultura. Curiosidad, suspenso y sorpresa en la narrativa griega",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.caracter-mito",
+          "name": "Cultura. Desarrollo de carácter. Mito",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · Unidades 1 y 2",
+      "title": "Los instrumentos de la lengua",
+      "note": "Diccionarios, gramáticas y lingüística citados para las unidades de lengua: tres títulos obligatorios y el resto complementarios. El «DGE, Diccionario griego-español en línea» no se dibuja por no ser volumen. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-pabon",
+          "name": "Diccionario manual griego-español — J. Pabón (Vox, Barcelona, 1975)",
+          "role": "obligatoria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-mascialino",
+          "name": "Guía para el aprendizaje del Griego Clásico I — L. Mascialino (UNSAM Edita, Buenos Aires, 2018)",
+          "role": "obligatoria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-berenguer-amenos",
+          "name": "Gramática griega — J. Berenger Amenós [así impreso] (Bosch, Barcelona, 1979)",
+          "role": "obligatoria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-bailly",
+          "name": "A Dictionnaire grec-français [así impreso] — A. Bailly (Hachette, Paris, 1963)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-balague",
+          "name": "Diccionario griego-español — M. Balagué (Rodríguez, Madrid, 1971)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-beekes",
+          "name": "Etymological Dictionary of Greek — R. Beekes (Brill, Leiden and Boston, 2009)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-chantraine-dictionnaire",
+          "name": "Dictionnaire étymologique de la langue grecque — P. Chantraine (Klincksieck, Paris, 1976)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-liddell-scott-jones",
+          "name": "Greek-English Dictionary — H. Liddell, R. Scott y H. Jones (Clarendon Press, Oxford, 1996)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-rocci",
+          "name": "Vocabolario greco-italiano — L. Rocci (Società D. Alighieri, Roma, 1943)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-yarza",
+          "name": "Diccionario griego-español — F. Yarza (Sopena, Barcelona, 1984)",
+          "role": "complementaria · diccionario · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-crespo-conti-maquieira",
+          "name": "Sintaxis del griego clásico — E. Crespo, L. Conti y H. Maquieira (Gredos, Madrid, 2003)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-curtius",
+          "name": "Gramática griega elemental — J. Curtius (Descleé de Brouwer [así impreso], Buenos Aires, 1946)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-fernandez-galiano",
+          "name": "Manual práctico de morfología verbal griega — M. Fernández Galiano (Gredos, Madrid, 1981)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-goodwin-school-grammar",
+          "name": "A school greek grammar — W. Goodwin (MacMillan, London, 1903)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-goodwin-moods-tenses",
+          "name": "Syntax of the moods and tenses of the greek verb — W. Goodwin (MacMillan, London, 1966)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-humbert",
+          "name": "Syntaxe grecque — J. Humbert (Klincksieck, Paris, 1960)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-lukinovich-rousset",
+          "name": "Grammaire de grec ancien — A. Lukinovich y M. Rousset (Georg Editeur, Genéve [así impreso], 2002)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-morwood",
+          "name": "The Oxford Grammar of Classical Greek — J. Morwood (Oxford University Press, New York, 2001)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-smyth-messing",
+          "name": "Greek Grammar — H. Smyth y G. Messing (Harvard University Press, 2003)",
+          "role": "complementaria · gramática · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-brandenstein",
+          "name": "Linguística griega [así impreso] — W. Brandenstein (Gredos, Madrid, 1994)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-chantraine-morphologie",
+          "name": "Morphologie historique du grec — P. Chantraine (Klincksieck, Paris, 1973)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-denniston",
+          "name": "The greek particles — J. Denniston (Clarendon Press, Oxford, 1954)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-lejeune",
+          "name": "Traité de phonétique grecque — M. Lejeune (Klincksieck, Paris, 1947)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-martinet",
+          "name": "De las estepas a los océanos. El indoeuropeo y los indoeuropeos — A. Martinet (Gredos, Madrid, 2004)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-vendryes",
+          "name": "Traité d´accentuation grecque — J. Vendryès (Klincksieck, Paris, 1945)",
+          "role": "complementaria · lingüística · U1-U2",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · Unidades 3 y 4",
+      "title": "El aparato de lectura de la cultura",
+      "note": "Volúmenes de las cinco secciones de la bibliografía de cultura —A) Épica homérica, B) Tragedia, C) Comedia, D) Diálogo platónico, E) Teoría literaria—. Es un conjunto de opción: el programa exige al menos dos entradas de A) y una de B), C), D) y E). Los artículos de revista no se dibujan (declarados en el marco). No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-cairns-oxford-readings",
+          "name": "Oxford Readings in Homer´s Iliad — D. L. Cairns (ed.) (Oxford University Press, Oxford, 2001)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-cavallero-leer-a-homero",
+          "name": "Leer a Homero. Ilíada, Odisea y la mitología griega — P. Cavallero (Quadrata, Buenos Aires, 2014)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-dodds",
+          "name": "Los griegos y lo irracional — E. R. Dodds (Alianza Universidad, Madrid, 1981)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-finley",
+          "name": "El mundo de Odiseo — M. I. Finley (FCE, Buenos Aires, 1983)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-kirk",
+          "name": "Los poemas de Homero — G. S. Kirk (Paidós, Barcelona, 1962)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-latacz",
+          "name": "Troya y Homero — J. Latacz (Destino, Barcelona, 2003)",
+          "role": "A) Épica homérica · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-cantarella",
+          "name": "La literatura griega clásica — R. Cantarella, trad. de A. Camaeror (Losada, Buenos Aires, 1971) · cap. “Tucídides y el anónimo de la ‘Constitución de Atenas’”, pp. 416-435",
+          "role": "B) Tragedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-crespo-martignone",
+          "name": "¿A quién he de persuadir otra vez? Intercambios discursivos entre hombres y dioses en la épica y la tragedia griegas — M. Crespo y H. Martignone (comps.) (Editorial de la FFyL-UBA, Buenos Aires, 2014)",
+          "role": "B) Tragedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-easterling-knox",
+          "name": "Historia de la literatura clásica. I. Literatura griega — P. Easterling y B. Knox (eds.) (Gredos, Madrid, 1990) · caps. de Gould (pp. 293-312), Winnington-Ingram (pp. 288-292) y Sandbach (pp. 520-540)",
+          "role": "B) Tragedia y D) Diálogo platónico · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-lesky",
+          "name": "La tragedia griega — A. Lesky (Labor, Barcelona, 1966)",
+          "role": "B) Tragedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-scodel",
+          "name": "La tragedia griega. Una introducción — R. Scodel (FCE, Buenos Aires, 2015)",
+          "role": "B) Tragedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-docenda",
+          "name": "Docenda. Homenaje a Gerardo H. Pagés — R. Buzón et alii (edd.) (UBA, Buenos Aires, 2008) · cap. de E. Buis, “Hacia una imagen del juez dramático en la escena aristofánica”, pp. 77-114",
+          "role": "C) Comedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-estudios-clasicos-milenio",
+          "name": "Los estudios clásicos ante el cambio de milenio — R. Buzón et alii (edd.) (UBA, Buenos Aires, 2002) · cap. de C. Fernández, “La ruta más rápida al Hades”, pp. 418-432",
+          "role": "C) Comedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-konstan",
+          "name": "Greek Comedy and Ideology — D. Konstan (Oxford University Press, Oxford, 1995) · caps. “Birds”, pp. 29-44, y “Frogs”, pp. 61-74",
+          "role": "C) Comedia · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-guthrie",
+          "name": "Historia de la Filosofía Griega. Vol. IV: Platón, el hombre y sus diálogos, primera época — W. K. C. Guthrie (Gredos, Madrid, 1998)",
+          "role": "D) Diálogo platónico · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-auerbach",
+          "name": "Mimesis. La representación de la realidad en la literatura occidental — E. Auerbach (México D.F., 1994; el programa no imprime editorial) · esp. pp. 9-30, “La cicatriz de Ulises”",
+          "role": "E) Teoría literaria · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-bajtin",
+          "name": "Teoría y estética de la novela — M. Bajtín, trad. de H. S. Kriúkova y V. Cazcarra (Taurus, Madrid, 1989)",
+          "role": "E) Teoría literaria · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-lukacs",
+          "name": "Teoría de la novela — G. Lukács, trad. de M. Ortelli (Godot, Buenos Aires, 2010)",
+          "role": "E) Teoría literaria · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-shklovsky",
+          "name": "Theory of Prose — V. Shklovsky, trad. de B. Sher (Champaign – London – Dublin, 1990 [original ruso 1929]; el programa no imprime editorial)",
+          "role": "E) Teoría literaria · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes · Unidades 3 y 4",
+      "title": "Los textos, en traducción",
+      "note": "Las ediciones que el programa lista bajo «Fuentes (correspondiente a las Unidades 3 y 4)» —subtituladas allí «Bibliografía general»— con la aclaración de que «se trata solo de traducciones recomendadas, pero podrá utilizarse cualquier otra». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-aristofanes-comedias",
+          "name": "Comedias. Vol. 2: Las nubes. Las avispas. La paz. Aves — Aristófanes (Gredos, Madrid, 2011)",
+          "role": "fuente · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-aristoteles-poetica",
+          "name": "Poética — Aristóteles, trad. E. Sinnot (Colihue, “Buenos Aihes” [así impreso], 2004)",
+          "role": "fuente · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-euripides-tragedias",
+          "name": "Tragedias I-II — Eurípides, trads. de A. Medina González (vol. I) y J. L. Calvo Martínez (vol. II) (Gredos, Madrid, 1991)",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-homero-odisea",
+          "name": "Odisea — Homero, trad. J. L. Calvo (Cátedra, Madrid, 1993)",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-platon-dialogos",
+          "name": "Diálogos. Volumen I: Apología. Critón. Eutifrón. Ion. Lisis. Cármides. Hipias menor. Hipias mayor. Laques. Protágoras — Platón, trads. J. Calonge Ruiz, E. Lledó Íñigo y C. García Gual (Gredos, Madrid, 2003)",
+          "role": "fuente · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-2.libro-sofocles-tragedias",
+          "name": "Tragedias — Sófocles, trad. A. Alamillo (Gredos, Madrid, 1981)",
+          "role": "fuente · U3-U4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Griegas II, código Nº 0548-I / 15008-I (Profs. Tomás Fernández y Marisa Divenosa, 2º cuatrimestre 2026), Departamento de Lenguas y Literaturas Clásicas, FFyL-UBA · publicado como “Último Programa aprobado”",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/0548%20-%2015008%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20II%20-%20I%20-%20FERN%C3%81NDEZ%20DIVENOSA.pdf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fsoc.sociologia",
+  "source_reachable": true,
+  "exits_total": 16,
+  "found": 16,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source page (sociologia.sociales.uba.ar/plan-de-estudios, saved to extract/out/verify-fsoc-sociologia.html) lists exactly 16 obligatorias (codes 251-266); all 16 node exit names match verbatim, and hours + correlativas per exit match the page table (e.g. 263 Sociología Política 4hs: 260-253-256 = Sist., HSMyC, Econ II). Page also confirms 9 optativas (6 Soc. Especiales + 3 Teorías Sociológicas), 200hs investigación, idioma francés/inglés. Page itself does not state '1988' or the expediente; those come from the linked Plan-de-estudios-Sociologia.pdf whose OCR extract (extract/out/fsoc-sociologia-plan.txt) shows 'Expte. 6.100/88' and '1988' repeatedly. Correlatividades resolución RESCD-2024-186-E-UBA-DCT_FSOC is linked from the page as the 'Nuevo Régimen de Correlatividades' PDF. No fabrications found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.atmosfera",
+  "source_reachable": true,
+  "exits_total": 65,
+  "found": 65,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source (Código UBA Libro V Tít.15 Cap.A, 147KB HTML fetched to /Users/tomb/p/learn/extract/out/verify-fcen-atmosfera.html) lists Ciclo Básico: 6 CBC + 5 obligatorias; Ciclo Formación Intermedia: 11 obligatorias; Ciclo Especialización: 48 electivas + Tesis de Licenciatura. Node's 5+11+48+1 = 65 exits match 1:1 by name (accent/case-insensitive). Only CBC's 6 are omitted (by design). Plan 2018, Res. CS 6443/17, 5 años, 3 ciclos, 3.584 horas reloj mínimo all confirmed in source. Minor casing difference: source 'Simulación del clima' vs node 'Simulación del Clima'. Correlativas not verified item-by-item (out of scope).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

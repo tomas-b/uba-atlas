@@ -1,0 +1,13 @@
+{
+  "address": "uba.fagr.ambientales",
+  "source_reachable": true,
+  "exits_total": 60,
+  "found": 60,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF returns HTTP 200 application/pdf (194020 bytes); extract header confirms identity: 'PLAN DE ESTUDIOS DE LA LICENCIATURA EN CIENCAS AMBIENTALES – 2017, Res CS 8187/2017, CS73/19 mod alcances, CS295/21 Tit. intermedio', Dirección de Ingreso, Alumnos y Graduados Oct./22 — matches node metadata.plan and frame. 39 obligatorias (incl. Derechos Humanos and Trabajo Final) and 21 named electivas all found verbatim modulo capitalization. Only source items absent from node are the 6 CBC materias (by design) and unnamed optativas (unnamed in source). Credits spot-checked (Modelos de Simulación 2.5, Derechos Humanos 1, Trabajo Final 14, totals 211.5 cr = 3384 h) match. Minor discrepancy not affecting names: node lists Química de la Contaminación y Toxicología correlativas as Biomoléculas + Edafología, source also lists Inglés and Informática as requirements for it; and Economía Política has *Informática in source, omitted in node role — role-field detail, not a fabrication.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

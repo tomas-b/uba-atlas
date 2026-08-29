@@ -1,0 +1,13 @@
+{
+  "address": "uba.psi.terapia-ocupacional",
+  "source_reachable": true,
+  "exits_total": 23,
+  "found": 23,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Chart PNG (plan_estudios_to_2024.png, 2481x1754) downloaded and read visually: all 23 exit names match the boxes exactly (5+5+5+4+3+1 per cuatrimestre; only casing/accents differ, chart is uppercase unaccented). Column placement per cuatrimestre matches the node. Chart shows no obligatorias beyond the 23 (CBC column and dashed 'Requisito Idioma I y II' box are excluded by design, consistent with node frame). Cited HTML page confirms: career created 14 Dec 1994 by Res. CS, 6 cuatrimestres, 3031 h with 1000 h práctica profesional, 23 materias, idioma requirement (Inglés/Francés Módulos I y II). Res. CS 1374/94 number and Res. CS 3283/04 are not on the psi.uba.ar page; Código UBA Libro XIV was not reachable via curl (uba.ar/codigo-uba/libro-xiv returned 500; PDF guess returned 000), so those two resolution numbers remain unverified by me but are not exit names. Correlativas in node roles were spot-checked against chart arrows (e.g. TTTO III &lt;- TTTO II/Ocupación II/Clínica/Biomecánica; PP IV &lt;- PP III/TTTO V/Ocupación III) and are consistent.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

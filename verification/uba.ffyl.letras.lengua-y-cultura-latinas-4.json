@@ -1,0 +1,12 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-4",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4, "units_found": 4,
+  "books_total": 43, "books_found": 43,
+  "not_found": ["metadata.catedra 'el programa no imprime la palabra cátedra' literally false — printed at L326 (REDEC boilerplate 'estructura de cátedra') and L172 (publisher Ediciones Cátedra); intended claim true"],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "43/43 books verified per-unit (13+11+12+7); all four numbering/punctuation erratas confirmed printed (U4 items 1,2,2,3; U3 unbalanced quote; U2 unclosed paren and double period); all four preserved typos real, with Klinksieck/Klincksieck correctly differentiated per entry. Duplicates Fontanier and Davis drawn once with disclosure. 128 hs consistent twice. Resolutions correctly characterized. Ciclo attribution verified against parent. One fix: narrow the cátedra sentence. Sub-threshold: 'Égloga' accent normalization, journal name shortened, map foot loose for U1."
+}

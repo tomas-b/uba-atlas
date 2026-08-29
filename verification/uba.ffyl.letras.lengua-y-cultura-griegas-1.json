@@ -1,0 +1,12 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-1",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7, "units_found": 7,
+  "books_total": 13, "books_found": 13,
+  "not_found": ["claim 'el PDF no usa la palabra cátedra' FALSE — printed at L799 ('estructura de cátedra', REDEC boilerplate) and 3× as publisher; intended claim (no cátedra designated) true"],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "13/13 books, 7/7 tramos literal; exclusions complete both directions (11 excluded obligatoria articles = exactly the source's 11 non-volume items; complementaria ~150 counted vs 'más de cien' conservative). All 3 erratas printed (Kühner/Stegmann Latin grammar among Greek L332; Reynolds & Wilson double-dated L234/L750; Moreno M.I. Conde L231). REDEC correctly modalidad-only; no approval resolution exists. Carrera attribution verified bidirectionally. Fixes: narrow the cátedra sentence; 'siguiendo ese corte' imprecise (bibliography cut yields 6 blocks, 7 drawn — declared but wording self-contradicts); Sapere Textos griegos role should read '3-4, 5.2 y 5.3' (5.1 Fuentes has no Texto original). Cross-node note: bibliographic policy diverges from griegas-2 (obligatoria-only vs complementaria-drawn) — both declared."
+}

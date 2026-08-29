@@ -1,0 +1,33 @@
+{
+  "address": "uba.med.medicina.obstetricia",
+  "source_reachable": true,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 5,
+  "books_found": 5,
+  "not_found": [],
+  "omitted": [
+    "U1 contenidos: 'Conceptos de genética, Epigenética y prevención de las enfermedades crónicas no transmisibles en perinatología'",
+    "U1 contenidos: 'Diagnóstico de embarazo'",
+    "U1 contenidos: 'Laboratorio y diagnóstico por imágenes'",
+    "U1 contenidos: 'Exámenes complementarios: odontológicos, mamario y evaluación del tracto genital inferior'",
+    "U2 contenidos: 'Pesquisa de malformaciones estructurales'",
+    "U2 contenidos: 'Medidas preventivas: nutrición, suplementos dietéticos, inmunizaciones y ecografía transvaginal'",
+    "U3 contenidos: 'huevo anembrionado, embarazo detenido'",
+    "U4 contenidos: 'Localización placentaria, inserción anómala de la placenta'",
+    "U4 contenidos: 'polihidramnios y oligoamnios'",
+    "U5 contenidos: 'Feto muerto'",
+    "U5 contenidos: 'Hepatopatias. Colestasis'",
+    "U6 contenidos: 'Normas de bioseguridad, instrumental quirúrgico'",
+    "U6 contenidos: 'Desproporción pélvico cefálica'",
+    "U6 contenidos: 'Atención del periodo dilatante' / 'Atención del periodo expulsivo' / 'Tratamiento del periné' / 'Compromiso de la vitalidad fetal'",
+    "U7 contenidos: 'infección de herida quirúrgica'",
+    "Punto 7 no-libro: 2 blogs (cursadadeobstetricia / cursada-obstetricia-santojanni), Aula virtual Campus CITEP, canal YouTube Hospital Rivadavia, Simulador USINA-CITEP, app 'Obstáculos Obstétricos' — omitidos pero DECLARADOS explícitamente en la nota del grupo de bibliografía",
+    "Punto 1 (Fundamentación) y punto 2 (Objetivos generales, incl. la lista de derechos de la embarazada) no se exponen como exits"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "REFUTATION FAILED — no fabricated exit found. Independently re-fetched the cited PDF (HTTP 200, 4.3MB, pdfinfo Pages: 8, matching the node's 'PDF de 8 páginas') and cross-read BOTH the OCR extract at /Users/tomb/p/learn/extract/out/med-l2-obstetricia-materia.txt AND the PDF embedded text layer via pdftotext. UNITS 8/8 FOUND: all eight exit names are verbatim 'Unidad temática N.' headings (lines 156/182/201/215/231/251/275/287 of the text layer), including the preserved source typo 'primer consulta' in U1. Every role bullet is recoverable from that unit's contenidos block. UNIDAD 8 MARGIN-CLIP RESOLVED AND CONFIRMED: the OCR file truncates page 6 to 'efropatías. / cción urinaria. / ermedades neurológicas. / ndocrinopatías.'; the embedded text layer independently yields 'Nefropatfas. / Infección urinaria. / Enfermedades neurológicas / Endocrinopatías.' (the 'f' for 'í' is an OCR-font artifact in the layer itself). All four node claims — Nefropatías, Infección urinaria, Enfermedades neurológicas, Endocrinopatías — FOUND. BOOKS 5/5 FOUND, exactly five and no sixth: punto 7 lists CODEP Tocoginecología (Provenzano S, Valenti E, en prensa, EUDEBA, Buenos Aires 2017, Disponible en PDF); Nassif JC / Keklikian R coord., Panamericana 1ª ed. 2012; Voto LS Hipertensión en el Embarazo, Corpus 2ª ed. 2015; Valenti E Clases de Obstetricia, Ascune 1ª ed. 2009; Gadow Fiorillo Obstetricia en esquemas, El Ateneo 1ª ed. 2004. Each role string (editorial/edición/año) matches the source. METADATA ALL MATCH: '5 semanas' verbatim (text layer line 416 'Este programa se desarrolla durante el transcurso de 5 semanas'); 50/25/25 verbatim (lines 418-419 plus the OCR-only tail giving the 25% práctica clínica and 25% grupos de discusión wording); NO CÁTEDRA is correct — the only occurrence is 'a cargo del personal docente de la Cátedra', unnamed, exactly as the node states; the programa contains NO correlativas section, and the node correctly attributes 'Medicina A, Patología II' (cursar AND rendir) to the plan, verified at extract/out/med-plan-2861.txt lines 146-148 under CICLO CLÍNICO &gt; Especialidades Básicas &gt; TOCOGINECOLOGÍA — which also grounds the 'año' field. Evaluación (80% asistencia, parciales mín. 4 puntos, concepto de alumno, evaluación final sobre objetivos cognoscitivos) and práctica (mín. 4 guardias en Centro Obstétrico, consultorios externos rotativos, salas de internación, Quirófano Central, muñecos simuladores) are all verbatim-recoverable. ONE PROVENANCE GAP (not a fabrication): the frame asserts a 'lectura cruzada de la capa de texto del PDF', but no text-layer artifact is persisted in extract/out — only the OCR file, which alone does NOT contain readable Unidad 8 items. The claim is TRUE (I reproduced it) but is not reproducible from the repo without re-fetching the PDF; persisting a pdftotext dump would close this. MINOR WORDING FLAG: U5 role says 'isoinmunización', a clinical paraphrase of the source's 'Incompatibilidad sanguínea materno fetal' — synonymous and defensible, but it is the one exit token not literally present in the programa. TRAP AVOIDED: /Users/tomb/p/learn/extract/out/med-obstetricia-plan.txt is the LICENCIATURA EN OBSTETRICIA plan (Res. C.S. 3828/2011), a different career; it is not this node's source and the node's frame explicitly warns against that confusion. All omissions above are compressions consistent with L2 skeleton grounding, and the only omission a reader could mistake for completeness (the non-book resources) is disclosed in the node's own group note.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

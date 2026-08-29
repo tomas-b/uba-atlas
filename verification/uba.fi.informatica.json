@@ -1,0 +1,15 @@
+{
+  "address": "uba.fi.informatica",
+  "source_reachable": true,
+  "exits_total": 25,
+  "found": 24,
+  "not_found": [
+    "Trabajo Profesional o Tesis de Ingeniería Informática"
+  ],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF (HTTP 200, 32 pages) re-extracted to extract/out/verify-fi-informatica.txt and is byte-identical to the cached fi-informatica-plan.txt, so the text is the cited document. All 24 obligatorias in the node appear verbatim in the source's ASIGNATURAS OBLIGATORIAS table with matching cuatrimestre, créditos and correlativas. The single NOT FOUND is a naming merge, not a fabrication: the source lists two alternative rows 'Tesis de Ingeniería Informática' ó 'Trabajo Profesional de Ingeniería Informática' (6 de 12 créditos per cuatrimestre, 9º-10º, correlativa 140 Créditos), and the summary table calls it 'Trabajo Profesional o Tesis'; the node's combined label is a faithful paraphrase. Nothing obligatorio in the source is missing from the node (CBC correctly omitted). Metadata matches: 2 CBC + 8 segundo-ciclo cuatrimestres, 24 obligatorias, 24 electiva credits, 226 credits, 3616 hours. Caveat: the PDF body never states 'RESCD 2023-526'; it self-titles 'Actualización 2023 | Plan 2020 y resoluciones modificatorias' (ANEXO) and the resolution number is evidenced only by the URL filename. Vigencia is 'a partir del primer cuatrimestre posterior a su aprobación por el Consejo Superior', so 'Plan 2023' is a reasonable label but the source does not literally name it 'Plan 2023'. Minor: planAnterior '1986' is not stated in the text (source references plan transition via Res. 2022-1721).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

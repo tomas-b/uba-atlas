@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyb.biotecnologia",
+  "source_reachable": true,
+  "exits_total": 32,
+  "found": 32,
+  "not_found": [],
+  "omitted_from_source": [
+    "Práctica Social Educativa (obligatoria a partir del 7º cuatrimestre; mentioned in a group note, not an exit)",
+    "3 actividades complementarias de introducción al rol profesional (required; mentioned in a note, not an exit)",
+    "CBC asignaturas 1–6 (omitted by design)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 32 exit names (28 troncal, asignaturas 7–34 of Anexo I, plus 4 orientación Salud Humana 35H–38H) match verbatim (accent/case/whitespace-normalized) in /Users/tomb/p/learn/extract/out/biotecnologia-lic-plan.txt (Anexo I ACS-2025-299-UBA-SG#REC). 31/32 also appear on the live FFyB page (/Users/tomb/p/learn/extract/out/verify-ffyb-biotec.html, 383 KB fetched); only 'Tesis de Grado o Práctica Profesional' is absent from the web table but present in the PDF (item 34, 300 h). Hours per exit spot-checked against the PDF table (e.g. QGI 126, Bioinformática 42, Nanobiotecnología 49, Tesis 300) and match. The FFyB page links RESCS-2025-1467-UBA-REC.pdf, consistent with the node's metadata.resolucion. Anexo I lists Inglés (32) and Bioestadística (33) as flexible; the node's placement in 3º/4º follows FFyB's table and is disclosed in the frame. No fabricated names detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

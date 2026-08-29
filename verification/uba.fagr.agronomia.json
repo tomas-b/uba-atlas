@@ -1,0 +1,13 @@
+{
+  "address": "uba.fagr.agronomia",
+  "source_reachable": true,
+  "exits_total": 71,
+  "found": 71,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Extract /Users/tomb/p/learn/extract/out/fagr-agronomia-plan.txt is titled 'PLAN DE ESTUDIOS DE LA CARRERA DE AGRONOMÍA — Res CS 6180/2016, mod CS 430/21 y CS 1096/2023', signed 'Dirección de Ingreso, Alumnos y Graduados, noviembre/25', matching the node's stated resolución/plan and frame. The cited PDF URL returns HTTP 200. All 71 exit names (48 obligatorias incl. 3 Talleres de Práctica, Taller de Trabajo Final, Derechos Humanos, Trabajo Final; 23 electivas across Producción Animal 9 / Producción Vegetal 4 / Libre Elección 10) match the source verbatim under accent/case/punctuation normalization. Every non-CBC obligatoria in the source appears in the node; only CBC materias are omitted (by design). Credits, bimestre/cuatrimestre roles, totals (234.5 cr = 3.752 hs, 117 cr Bachiller, 13.5 electivas, 2 optativas, 220.5 for Trabajo Final) all agree with the source. Minor non-fabrication nit: source lists 'Bases Biológicas de la Producción Animal' as the course but the Nutrición correlativa text says 'Bases Biológicas para la Producción Animal'; node uses the course-title form, which is correct.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

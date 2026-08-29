@@ -1,0 +1,618 @@
+{
+  "address": "uba.ffyl.letras.literatura-griega-antigua",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "O5003-D / 15005-D (así impreso en el PDF, con letra O inicial)",
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "regimen": "cuatrimestral · examen final (EF), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 horas — 4 hs semanales de clases teóricas (optativas) y 2 hs de trabajos prácticos",
+    "cuatrimestre": "2º — el programa imprime «2º CUATRIMESTRE 2026» y «AÑO: 2026»",
+    "anio": 2026,
+    "catedra": "Profesora: CRESPO, MARÍA INÉS — firma el programa como «Profesora Titular Regular»",
+    "equipoDocente": [
+      "MARTIGNONE, Hernán Carlos (Jefe de Trabajos Prácticos)",
+      "BELELLI, Camila Lucía (Ayudante de 1ª)",
+      "PERROTTI, Victoria (Ayudante de 1ª)"
+    ],
+    "notaEquipoDocente": "el programa aclara al pie: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual, sincrónica o asincrónica; con más de 350 inscriptos/as y sin estructura de cátedra para desdoblar (regla general de la REDEC, no un dato de esta materia), las teóricas se dictan en forma virtual)",
+    "unidades": 13,
+    "corpus": 26,
+    "bibliografia": 34,
+    "regularidad": "75% de asistencia a trabajos prácticos y 2 instancias de parcial aprobadas con mínimo de 4 puntos; UN (1) recuperatorio; la regularidad vale 4 años y 3 mesas examinadoras",
+    "examenFinal": "oral, mínimo 4 puntos; con promedio de 7 o más en los parciales y no menos de 7 en el segundo, el final consiste en la lectura completa de la Ilíada y la Odisea, un tema especial con bibliografía específica y su relación con otros textos de la cursada",
+    "regimenTransitorio": "RTARMEM, Res. (CD) Nº 1117/10"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-griega-antigua",
+      "label": "Literatura Griega Antigua"
+    }
+  ],
+  "eyebrow": "Letras · área Letras Clásicas · Literatura Griega Antigua",
+  "title": "Toda la literatura griega, leída por el lado del género.",
+  "lede": "Un panorama de la literatura griega desde la época arcaica hasta el período helenístico, leído íntegramente en traducción: la épica homérica y la cuestión homérica, la cosmogonía de Hesíodo, la elegía y el yambo, la lírica de Safo y Alceo, la tragedia de Esquilo, Sófocles y Eurípides, la comedia de Aristófanes y la poesía erudita de Alejandría. El recorte de este programa pasa el corpus por una sola pregunta: cómo la cultura griega configura los roles masculino y femenino, en la persona poética y en el mundo representado —Penélope y Clitemnestra, la Pandora de Hesíodo, el yambo de Semónides sobre las mujeres, la Medea de Eurípides, la Lisístrata de Aristófanes, las epigramatistas helenísticas—. Se trabaja con el alfabeto griego para uso instrumental y reconocimiento de palabras clave (así lo dice el programa), para reconocer los términos que sostienen el análisis: areté, timé, géras, aidós, kléos, hýbris, áte, hamartía, páthei máthos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "EF",
+      "small": "final oral"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "4 teóricas + 2 TP"
+    },
+    {
+      "k": "Unidades",
+      "v": "13",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Literatura Griega Antigua, código O5003-D / 15005-D, Departamento de Lenguas y Literaturas Clásicas (FFyL-UBA): Prof. Titular Regular María Inés Crespo, 2º cuatrimestre de 2026, 96 horas, régimen con EXAMEN FINAL (Res. (CD) Nº 4428/17), dictado presencial ajustado a REDEC-2024-2526-UBA-DCT#FFYL. Trece unidades de la época arcaica al helenismo, con los textos leídos en traducción y el género como eje declarado del recorte de este año. ÁREA: la ubicación en el área «Letras Clásicas» viene del plan 2023 que dibuja el nodo padre, NO del PDF; el programa sólo consigna el Departamento de Lenguas y Literaturas Clásicas. QUÉ SE DIBUJA: las trece unidades; el corpus, es decir cada obra o selección de las líneas «Lectura obligatoria» (26 entradas — las Unidades 1, 2 y 12 no llevan lectura obligatoria); y, de la «Bibliografía obligatoria» de cada unidad, las 34 entradas citadas como volumen. NO SE DIBUJAN, por regla declarada: las entradas con título de artículo o de capítulo entrecomillado —aun cuando el volumen que las contiene sea una monografía del mismo autor, como Madrid, «Introducción», La misoginia en Grecia, o Gambon, «Medea», La institución imaginaria del oikos—, las fichas de cátedra, las tesis (Marinoni 2012, Martignone 2016), toda la bibliografía complementaria, las secciones «Fuentes: traducciones recomendadas» de 9 de las 13 unidades (las Unidades 1, 2, 7 y 12 no la traen) y la «Bibliografía general: obras generales de consulta» del cierre. Bajo esa regla, las Unidades 4, 5, 7, 8, 10 y 11 no aportan ningún volumen. CONTRADICCIONES REGISTRADAS, no resueltas: (a) la Historia de la literatura griega de Lesky se cita como «(1963), Madrid: Gredos» en la Unidad 1 y como «(1976), Madrid, Gredos» en la Unidad 3 y en la bibliografía general; (b) la ficha de cátedra sobre los poemas homéricos aparece como «Crespo, María Inés y otros (2013) Ficha de Cátedra» en la Unidad 2 y como «Crespo, M. I. y otros (2023) Fichas de Cátedra» en la Unidad 3, con el mismo título. ERRATAS DEL ORIGINAL: el PDF imprime varios años con el número de edición pegado —«Segal, C. (19992)», «Knox, B. (19982)», «Hornblower & Spawforth (19993)»— y al menos un año imposible, «Franco, C. (2912)»; donde esas entradas se dibujan se transcriben como están y no se corrigen. La materia no consigna otras cátedras en la fuente sourceada: el recorte por perspectiva de género es el de esta cátedra en este ciclo, no un contenido fijo de la materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 13 unidades",
+      "title": "De la Edad de Bronce a la Biblioteca de Alejandría",
+      "note": "Cada unidad del programa Crespo 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en trece unidades",
+        "tree": "LITERATURA GRIEGA ANTIGUA · O5003-D / 15005-D · Crespo, 2º cuatr. 2026\n│\n├─ 1 · Introducción · cronología, géneros, oralidad, escritura y filología\n│\n├─ POESÍA HEXAMÉTRICA\n│   ├─ 2 · Épica heroica · la cuestión homérica y el código heroico\n│   ├─ 3 · La Ilíada y la Odisea · mênis, nóstos, anagnórisis\n│   └─ 4 · Épica teocosmogónica · Hesíodo, el Caos y Pandora\n│\n├─ POESÍA GRIEGA ARCAICA (agrupador editorial; la Unidad 6 imprime «Lírica griega arcaica»)\n│   ├─ 5 · La elegía y el yambo · Arquíloco, Mimnermo, Solón, Semónides\n│   └─ 6 · Monodia y poesía coral · Safo, Alceo, Anacreonte, Píndaro\n│\n├─ DRAMA\n│   ├─ 7 · La tragedia ática · el escenario de Dioniso\n│   ├─ 8 · Esquilo · díke, páthei máthos, Clitemnestra\n│   ├─ 9 · Sófocles · Antígona y Edipo rey\n│   ├─ 10 · Eurípides · Medea e Hipólito\n│   └─ 11 · La comedia ática · Aristófanes y Lisístrata\n│\n└─ LITERATURA HELENÍSTICA\n    ├─ 12 · El helenismo y la nueva literatura · el Museo y la Biblioteca\n    └─ 13 · Los poetas helenísticos · Calímaco, Teócrito, Apolonio",
+        "foot": "Los prefijos «Poesía hexamétrica», «Poesía griega arcaica», «Lírica griega arcaica», «Drama» y «Literatura helenística» son los que el propio programa imprime en los títulos de las unidades; la Unidad 13, «Los poetas helenísticos», va sin prefijo. Las Unidades 1, 2 y 12 no llevan línea de lectura obligatoria."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.introduccion",
+          "name": "Introducción a la literatura griega",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.epica-heroica",
+          "name": "Poesía hexamétrica: Épica heroica",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.iliada-y-odisea",
+          "name": "Poesía hexamétrica: La Ilíada y la Odisea",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.epica-teocosmogonica",
+          "name": "Poesía hexamétrica: Épica teocosmogónica",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.elegia-y-yambo",
+          "name": "Poesía griega arcaica: la elegía y el yambo",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.lirica-arcaica",
+          "name": "Lírica griega arcaica: monodia y poesía coral",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.tragedia-atica",
+          "name": "Drama: la tragedia ática",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.esquilo",
+          "name": "Drama: Esquilo",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.sofocles",
+          "name": "Drama: Sófocles",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.euripides",
+          "name": "Drama: Eurípides",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.comedia-atica",
+          "name": "Drama: La comedia ática",
+          "role": "Unidad 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.helenismo",
+          "name": "Literatura helenística: El helenismo y la nueva literatura",
+          "role": "Unidad 12",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.poetas-helenisticos",
+          "name": "Los poetas helenísticos",
+          "role": "Unidad 13",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Corpus · lecturas obligatorias",
+      "title": "Los textos que se leen",
+      "note": "Cada obra o selección de las líneas «Lectura obligatoria» del programa, en el orden de las unidades. Se leen en traducción: el programa no fija una edición para la lectura obligatoria, sino que lista «Fuentes: traducciones recomendadas» por unidad, que no se dibujan. Las Unidades 1, 2 y 12 no llevan lectura obligatoria. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-iliada",
+          "name": "Ilíada — Homero",
+          "role": "Unidad 3 · cantos I, VI, IX, XVI, XXII y XXIV; obra completa para el Examen Final",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-odisea",
+          "name": "Odisea — Homero",
+          "role": "Unidad 3 · cantos VI, VII, VIII, IX, X, XI y XXII; obra completa para el Examen Final",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-teogonia",
+          "name": "Teogonía — Hesíodo",
+          "role": "Unidad 4 · vv. 1-206",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-trabajos-y-dias",
+          "name": "Trabajos y días — Hesíodo",
+          "role": "Unidad 4 · vv. 54-104",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-arquiloco",
+          "name": "Arquíloco — fragmentos 1, 2, 5, 114, 128, 191, 193 y 196 W",
+          "role": "Unidad 5",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-mimnermo",
+          "name": "Mimnermo — fragmentos 1, 2, 4, 5, 6 y 12 W",
+          "role": "Unidad 5",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-solon",
+          "name": "Solón — fragmentos 18, 21, 20, 23, 25 y 26 W (en el orden impreso por el programa)",
+          "role": "Unidad 5",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-semonides",
+          "name": "Semónides — fragmento 7 W",
+          "role": "Unidad 5",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-alceo",
+          "name": "Alceo — fragmentos 42, 208, 338, 346 y 366 Voigt",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-safo",
+          "name": "Safo — fragmentos 1, 16, 31, 47, 48, 49, 94, 102, 130 y 168b Voigt",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-anacreonte",
+          "name": "Anacreonte — fragmentos 358, 360, 413, 417 y 428 PMG",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-estesicoro",
+          "name": "Estesícoro — fragmentos 192 y 223 PMG",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-ibico",
+          "name": "Íbico — fragmentos 286, 287 y 288 PMG",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-pindaro",
+          "name": "Píndaro — Olímpica 14, Pítica 11 e Ístmica 8",
+          "role": "Unidad 6",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-tucidides",
+          "name": "Guerra del Peloponeso — Tucídides · «Discurso fúnebre de Pericles», II 35-46",
+          "role": "Unidad 7",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-agamenon",
+          "name": "Agamenón — Esquilo",
+          "role": "Unidad 8",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-antigona",
+          "name": "Antígona — Sófocles",
+          "role": "Unidad 9",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-edipo-rey",
+          "name": "Edipo rey — Sófocles",
+          "role": "Unidad 9",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-medea",
+          "name": "Medea — Eurípides",
+          "role": "Unidad 10",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-hipolito",
+          "name": "Hipólito — Eurípides",
+          "role": "Unidad 10",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-lisistrata",
+          "name": "Lisístrata — Aristófanes",
+          "role": "Unidad 11",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-calimaco-himno-v",
+          "name": "Himno V, El baño de Palas — Calímaco",
+          "role": "Unidad 13",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-himnos-homericos-atenea",
+          "name": "Himnos homéricos a Atenea (XI y XXVIII)",
+          "role": "Unidad 13 · intertexto del Himno V de Calímaco",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-himno-orfico-atenea",
+          "name": "Himno órfico a Atenea",
+          "role": "Unidad 13 · intertexto del Himno V de Calímaco",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-teocrito-idilios",
+          "name": "Idilios II y XI — Teócrito",
+          "role": "Unidad 13",
+          "tag": "lectura",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.libro-epigramas-helenisticos",
+          "name": "Selección de epigramas helenísticos de composición femenina (el programa no consigna autoras ni piezas)",
+          "role": "Unidad 13",
+          "tag": "lectura",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · los volúmenes",
+      "title": "El aparato de lectura",
+      "note": "De la «Bibliografía obligatoria» de cada unidad se dibujan sólo las entradas citadas como volumen: 34 títulos. Las entradas con título de artículo o de capítulo entrecomillado —el grueso de la obligatoria—, las fichas de cátedra, las tesis, toda la bibliografía complementaria, las «Fuentes: traducciones recomendadas» y la «Bibliografía general: obras generales de consulta» del cierre están en el programa y no se dibujan. Las Unidades 4, 5, 7, 8, 10 y 11 no aportan ningún volumen bajo esta regla. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-pomeroy",
+          "name": "La antigua Grecia. Historia política, social y cultural — S. B. Pomeroy, S. M. Burstein, W. Donlan y J. T. Roberts (Crítica, 2001 [1999]) · síntesis realizada por la Cátedra",
+          "role": "Unidad 1",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-placido-introduccion",
+          "name": "Introducción al mundo antiguo: problemas teóricos y metodológicos — D. Plácido (Síntesis, 1995), pp. 13-23",
+          "role": "Unidad 1",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-lesky",
+          "name": "Historia de la literatura griega — A. Lesky (Gredos; el programa imprime 1963 en la Unidad 1 y 1976 en la Unidad 3 y en la bibliografía general)",
+          "role": "Unidad 1 (síntesis de la Cátedra) y Unidad 3 (caps. II y III, pp. 23-107)",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-cantarella-clasica",
+          "name": "La literatura griega clásica — R. Cantarella (Losada, 1971) · síntesis realizada por la Cátedra",
+          "role": "Unidad 1",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-cantarella-helenistica",
+          "name": "La literatura griega helenística e imperial — R. Cantarella (Losada, 1972) · síntesis realizada por la Cátedra",
+          "role": "Unidad 1",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-introduccion-a-homero",
+          "name": "Introducción a Homero — F. Rodríguez Adrados, M. Fernández-Galiano, L. Gil y J. S. Lasso de la Vega (Labor, 1984), pp. 237-308 y 465-487",
+          "role": "Unidad 2",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-vidal-naquet-homero",
+          "name": "El mundo de Homero — P. Vidal-Naquet (FCE, 2001)",
+          "role": "Unidad 2",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-canevaro",
+          "name": "Women of Substance in Homeric Epic: Objects, Gender, Agency — L. Canevaro (Oxford University Press, 2018)",
+          "role": "Unidad 3",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-griffin-homero",
+          "name": "Homero — J. Griffin (Alianza, 1984), pp. 7-62",
+          "role": "Unidad 3",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-redfield",
+          "name": "La tragedia de Héctor. Naturaleza y cultura en la Ilíada — J. Redfield (Destino, 1992), pp. 203-232",
+          "role": "Unidad 3",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-adrados-origenes-lirica",
+          "name": "Orígenes de la lírica griega — F. R. Adrados (Revista de Occidente, 1976)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-adrados-mundo-lirica",
+          "name": "El mundo de la lírica griega antigua — F. R. Adrados (Alianza, 1981)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-fernandez-galiano-safo",
+          "name": "Safo — M. Fernández-Galiano (Cuadernos de la Fundación Pastor, 1958)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-iriarte-safo",
+          "name": "Safo (Siglos VII/VI a. C.) — A. Iriarte (Ediciones del Orto, 1997)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-palomo",
+          "name": "Mujeres, diosas y musas: tejedoras de la memoria — M. Palomo (El Colegio de México, 1996)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-schadewaldt",
+          "name": "Safo. Mundo y poesía, existencia en el amor — W. Schadewaldt (Eudeba, 1973)",
+          "role": "Unidad 6",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-ahl",
+          "name": "Sophocles' Oedipus. Evidence and self-conviction — F. Ahl (Cornell University Press, 1991)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-brody",
+          "name": "«Fate» in Oedipus Tyrannus: a textual approach — J. Brody (State University of New York at Buffalo, 1985)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-goux",
+          "name": "Edipo filósofo — J.-J. Goux (Biblos, 1995)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-pucci-oedipus",
+          "name": "Oedipus and the fabrication of the father. Oedipus Tyrannus in Modern Criticism and Philosophy — P. Pucci (The Johns Hopkins University Press, 1992)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-reinhardt",
+          "name": "Sófocles — K. Reinhardt (Destino, 1991)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-schlesinger",
+          "name": "El Edipo Rey de Sófocles — E. Schlesinger (Facultad de Humanidades y Cs. de la Educación, La Plata, 1950)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-segal-oedipus",
+          "name": "Oedipus Tyrannus. Tragic heroism and the limitations of knowledge — C. Segal (Twayne, 1993)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-segal-tragedy-civilization",
+          "name": "Tragedy and civilization: an interpretation of Sophocles — C. Segal (University of Oklahoma Press; el programa imprime el año como «19992», con el número de edición pegado)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-winnington-ingram-sophocles",
+          "name": "Sophocles. An interpretation — R. P. Winnington-Ingram (Cambridge University Press, 1980)",
+          "role": "Unidad 9",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-clauss-cuypers",
+          "name": "A Companion to Hellenistic Literature — J. Clauss y M. Cuypers (eds.) (Wiley-Blackwell, 2010)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-erskine",
+          "name": "A Companion to the Hellenistic World — A. Erskine (ed.) (Blackwell, 2005)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-hutchinson-hellenistic",
+          "name": "Hellenistic Poetry — G. Hutchinson (Oxford University Press, 1988)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-korte-handel",
+          "name": "La poesía helenística — A. Körte y P. Handel (Labor, 1973)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-long",
+          "name": "La filosofía helenística — A. Long (Alianza Editorial, 1984)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-onians",
+          "name": "Arte y pensamiento en la época helenística. La visión griega del mundo (350 a. C.–50 a. C.) — J. Onians (Alianza, 1996)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-placido-crisis",
+          "name": "La crisis de la ciudad clásica y el nacimiento del mundo helenístico — D. Plácido (Miño y Dávila, 2017)",
+          "role": "Unidad 12",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-fantuzzi-hunter",
+          "name": "Tradition and Innovation in Hellenistic Poetry — M. Fantuzzi y R. Hunter (Cambridge University Press, 2004)",
+          "role": "Unidad 13",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-griega-antigua.critica-snyder",
+          "name": "The Woman and the Lyre. Women Writers in Classical Greece and Rome — J. Snyder (Carbondale, IL, 1989)",
+          "role": "Unidad 13",
+          "tag": "crítica",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Literatura Griega Antigua, código O5003-D / 15005-D (Prof. Titular Regular María Inés Crespo, 2º cuatrimestre 2026) · el sitio del Departamento lo lista en /programacion como «Último Programa aprobado» (dato del sitio, no del PDF)",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/O5003%20-%2015005%20-%20LITERATURA%20GRIEGA%20ANTIGUA%20-D%20-%20CRESPO.pdf"
+  }
+}

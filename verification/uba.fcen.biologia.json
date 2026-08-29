@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.biologia",
+  "source_reachable": true,
+  "exits_total": 107,
+  "found": 107,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Node has no `exits` array; the 107 names live in `groups[].items` (14 troncales + Tesis de Licenciatura + 92 electivas). Source PDF (cccb.exactas.uba.ar/.../79541a_...pdf) returns HTTP 200 application/pdf; extract is a noisy OCR (accents dropped, 'l' for 'I', line-wraps, garbled correlatividades). All 14 troncales match the Ciclo Troncal table (lines ~254-290). All 92 electivas match the Ciclo Superior table (lines ~305-600) and/or the contenidos-mínimos headers, allowing OCR noise: e.g. 'lntroduccion a la Geologia (B)', 'lnvertebrados II: lnsecta y Myriapoda', 'Genetica lblolecular', 'Instrurnentacion Biologica', 'Ecololqia y Epidemiologia de lnfecciones Parasitarias'. The 3 declared typo fixes are confirmed in the source as typo forms: 'Fisiotopatologia Molecular' (line 452), 'Palinoestatigrafia' (576, 2407), 'Biotecnoloqia Industrial...' (1271). One caveat: 'Inmunología Celular y Molecular' is not legible in the electivas table (that row is OCR-garbled, line ~386 'U b I Ib,IUCI') but appears as a materia header in the contenidos mínimos section (line 1970), so it is in the cited resolución. No obligatorias in the source are missing from the node (CBC omitted by design). Plan check: PDF is dated 27 NOV 2018, EXP-UBA 96.055/2017, approves the texto ordenado of Lic. en Ciencias Biológicas; cccb.exactas.uba.ar labels it 'Resolución Plan 2019' — plan year 2019 matches. The resolución number '1710/18' is NOT visible in the OCR text (stamped number lost) and I could not confirm it on the cccb or codigo.rec.uba.ar pages via curl; treat the number itself as plausible but unverified from this pass.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

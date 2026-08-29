@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.analisis-de-sistemas",
+  "source_reachable": true,
+  "exits_total": 25,
+  "found": 25,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Verified against /Users/tomb/p/learn/extract/out/fi-sistemas-plan.txt (51 KB, extracted today 19:46; not re-fetched). Text header reads 'Plan de Estudios / Licenciatura en Análisis de Sistemas / Actualización 2016 / Plan 1986 modificado en 2014 / vigente ... 2º cuatrimestre de 2015' and closes with 'RESOLUCIÓN CONSEJO SUPERIOR Nº 1662 DEL 17 DE DICIEMBRE DE 2014' — consistent with the cited URL (Licenciatura_en_Analisis_de_Sistemas_1986_V2014). All 25 exit names appear verbatim in the Segundo Ciclo table (lines 173-233), several line-wrapped (e.g. 'Métodos y Modelos en la Ingeniería de / Software I', 'Trabajo Profesional de Licenciatura en / Análisis de Sistemas', 'Legislación y Ejercicio Profesional en / Sistemas e Informática', 'Estándares de Calidad y Modelos de / Referencia'). Every código in roles (81.01, 81.02, 95.14, 81.11, 95.57, 95.15, 81.04, 91.39, 95.58, 95.02, 91.41, 95.03, 95.20, 95.08, 91.04, 95.21, 95.05, 91.42, 91.05, 95.24, 95.59, 95.60, 95.61, 91.40, 95.30), its créditos, cuatrimestre and correlativas match the source exactly. Source obligatorias in Segundo Ciclo = 25, node = 25; only CBC (6 materias) omitted, which is correct. Per-cuatrimestre notes (22/20/24/26 incl. 6 elec/28 incl. 6/28 incl. 8/28 incl. 8) match TOTAL rows. Metadata matches: Res. (CS) 1662/14, 4.5 años, 9 cuatrimestres, 7 in segundo ciclo, 176 créditos (148 OBL + 28 ELEC), 3424 horas. Electives named in 'frame' (Criptografía, Teoría de Algoritmos I, Inteligencia Artificial, Simulación, Minería de Datos) all appear in the ASIGNATURAS ELECTIVAS list. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

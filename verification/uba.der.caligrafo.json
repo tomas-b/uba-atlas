@@ -1,0 +1,13 @@
+{
+  "address": "uba.der.caligrafo",
+  "source_reachable": true,
+  "exits_total": 25,
+  "found": 25,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 25 exits (22 específicas + 3 comunes a Abogacía) appear verbatim on the cited derecho.uba.ar Plan 2015 page; régimen (anual/cuatrimestral) matches for every one. CBC (Principios Generales del Derecho Latinoamericano, Introducción al Pensamiento Científico, Trabajo y Sociedad) correctly omitted as exits and listed in metadata.cbcRequerido. Plan year 2015 matches the page title. Resolution numbers (Res. CS 2531/15 etc.), 2132 horas reloj, 18-week Derecho cuatrimestre and correlativas are NOT on this page — node attributes them to Código UBA Libro VIII Tít. 7 and the correlatividades chart, which were not verified here. Tramo grouping is the node's own arrangement by correlativas, not the source's ordering.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

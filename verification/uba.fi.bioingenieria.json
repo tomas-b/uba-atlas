@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.bioingenieria",
+  "source_reachable": true,
+  "exits_total": 34,
+  "found": 34,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Extracted text at /Users/tomb/p/learn/extract/out/fi-bioingenieria-plan.txt is the cited document: header 'Bioingeniería Plan de Estudios · Publicación 2024 | Plan 2020 y resoluciones', every page stamped ACS-2024-372-UBA-SG#REC / EX-2024-04512130-UBA-DIMEDA#SA_FI, 50 pages. (URL identity inferred from content/filename; not re-fetched.) All 34 exit names match the Segundo Ciclo table (pp. 15-18) verbatim after accent/case/line-wrap normalization, including the combined 'Tesis de Bioingeniería o Trabajo Profesional de Bioingeniería'. Cuatrimestre placement of every exit matches the plan's suggested distribution (3º-11º). Source lists 33 obligatorias + 1 TP/Tesis = 34 in the second cycle; node has exactly those 34, nothing omitted; CBC (6 materias) correctly excluded; electivas (16 cr) correctly not listed as exits. Metadata verified against source: 11 cuatrimestres, 4000 h, 250 créditos, 16 créditos electivos, 12 cr TIF, duración teórica '5 años y un cuatrimestre', no codes assigned to second-cycle asignaturas. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

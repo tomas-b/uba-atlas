@@ -1,0 +1,25 @@
+{
+  "address": "uba.med.medicina.farmacologia-1",
+  "source_reachable": true,
+  "units_total": 15,
+  "units_found": 15,
+  "books_total": 6,
+  "books_found": 6,
+  "not_found": [
+    "frame prose (no exit): 'aprobarla es requisito para entrar al Ciclo Clínico' — the strings 'Ciclo Clínico'/'ciclo clinico' do not appear anywhere in the programa; section G only states correlativas to CURSAR and to RENDIR Farmacología I, plus 'La asignatura es parte del ciclo biomédico, y se cursa en el 3er año'",
+    "frame prose (no exit): 'el programa es común' [a las tres cátedras] — an inference from the document being a single departmental programa; the text says only 'se dicta en tres cátedras con régimen distinto de evaluación'",
+    "metadata prose (no exit): regimen='cuatrimestral' — the programa never uses that word for the asignatura; it says 'Oferta del curso: Se dicta tanto en el primero como en el segundo cuatrimestre' + 'Carga horaria: 96 horas'. Defensible inference, not verbatim"
+  ],
+  "omitted": [
+    "B) OBJETIVOS GENERALES DE LA ASIGNATURA — 7 numbered objectives, no node representation",
+    "C) HABILIDADES Y DESTREZAS A DESARROLLAR — 20 numbered clinical skills (historia clínica farmacológica, recetas, cálculo de dosis, notificación ANMAT, búsqueda en PubMed, QTc/Tp-e), no node representation",
+    "E) METODOLOGÍA — seminarios de asistencia obligatoria + trabajos prácticos, not in metadata",
+    "F) MODO DE EVALUACIÓN — 'exámenes orales, de opción múltiple o de desarrollo' según cátedra, not in metadata",
+    "Per-unit 'Objetivos específicos' and 'Contenidos' bodies (the bulk of pp. 5-24) — correctly deferred to L3, but no exit or field records that this depth exists in the source"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "REFUTATION ATTEMPT FAILED on every exit. All 21 exits are recoverable verbatim from the cited text. Units 1-15 FOUND at extract lines 116, 174, 249, 307, 334, 386, 411, 453, 534, 604, 721, 767, 808, 868, 901 — the node's exit names match the source headings word-for-word (unit 10 adds only commas to 'HORMONAS SEXUALES HORMONA DE CRECIMIENTO FARMACOLOGÍA DEL METABOLISMO DEL CALCIO Y DEL FÓSFORO. VITAMINAS'). No invented unit, no invented ordering, no unit merged or split. All 6 references FOUND in section H (lines 986-1002) with edition/publisher/city/year matching: Brunton/G&amp;G 12ª McGraw-Hill México 2012; Rang-Dale-Ritter-Flower-Henderson 7ma Elsevier Madrid 2012; Flórez 6ta Elsevier Masson 2015; Katzung 13ª McGraw-Hill 2016; Velázquez 18ª Médica Panamericana Buenos Aires 2009; Birkett y col. IUPHAR, Basic Clin Pharmacol Toxicol 2010 Jul;107(1):531-59 — the node correctly labels this last one 'artículo', matching the source (it is a journal article, not a book). SOURCE INTEGRITY: I did not trust the local extract. I re-downloaded the PDF live from the cited URL (HTTP 200, application/pdf, 893055 bytes) and re-ran pdftotext independently; the fresh extraction reproduces the same headings, the same 14-vs-15 line, the same bibliography, '96 horas' and 'tres cátedras'. The extract file at extract/out/med-l2-farmacologia.txt is genuine, not fabricated. DISCREPANCY CONFIRMED: the node's map foot claim is true. Extract line 111 (fresh re-extract line 80) reads 'A continuación se detallan las 14 unidades temáticas de que se compone la Asignatura', yet the document enumerates 1) through 15). The node listing 15 and flagging the announced 14 is the correct, honest handling. METADATA: '96 horas' verbatim (line 982); 'se dicta en tres cátedras' verbatim (line 967); correlativas 'Fisiología y Biofísica y Química Biológica' verbatim for both cursar and rendir (lines 975-978); '3er año'/'ciclo biomédico' verbatim (lines 979-980); 'primero como en el segundo cuatrimestre' verbatim (line 981); 'Departamento Toxicología y Farmacología' + 'Agosto de 2018' verbatim (lines 10, 17); unidades=15 and bibliography=6 match the enumeration. ONLY DEFECT — three unsourced prose assertions, none of which is an exit or a node address: (1) the frame states approving Farmacología I is a requisite for entering the Ciclo Clínico; grep for 'clínico'/'ciclo' returns nothing supporting this — the programa states only the inbound correlativas. This may well be true of the Medicina plan, but it is NOT recoverable from THIS cited source and violates 'the word matches the ground'; it should be dropped, or re-grounded against the plan de estudios and cited there. (2) 'el programa es común' to the three cátedras is an inference. (3) metadata.regimen='cuatrimestral' is an inference from the offering line, not a verbatim descriptor. Verdict clean rather than fabrication: zero fabricated exits, zero fabricated bibliography, zero fabricated metadata values; the defect is over-claiming in narrative prose, fixable by deleting one clause.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

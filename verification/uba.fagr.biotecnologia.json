@@ -1,0 +1,13 @@
+{
+  "address": "uba.fagr.biotecnologia",
+  "source_reachable": true,
+  "exits_total": 33,
+  "found": 33,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 33 exit names matched verbatim (accent/case/whitespace-normalized) in Anexo I ACS-2025-299 text (extract/out/biotecnologia-lic-plan.txt): troncal asignaturas 7-34 (27 items incl. Inglés, Bioestadística, Tesis de Grado o Práctica Profesional) plus the five Orientación Vegetal obligatorias 35V-39V (Producción Vegetal 56h, Microbiología Agrícola y Ambiental 56h, Bioinsumos Microbiológicos Aplicados a la Producción Vegetal 56h, Mejoramiento Genético Vegetal 98h, Biotecnología Agrícola 84h). Hours in node roles cross-checked against table and match (e.g. Microbiología 84, Microbiología Industrial 56, Bioinformática 42 bimestral, Nanobiotecnología 49, Legislación 49 bimestral). No troncal obligatoria from Anexo I is missing besides CBC items 1-6 (by design). Plan metadata verified: ACS-2025-299-UBA-SG#REC, EX-2025-03342534-UBA-DME#SSA_FFYB, total 3331 h, ciclo general 1496 h, ciclo profesional 1835 h, orientación 350 h, vigencia 2026, título intermedio Bachiller Universitario/a en Biotecnología, 3 actividades complementarias + Práctica Social Educativa desde 7º. The agro.uba.ar page (fetched to extract/out/verify-fagr-biotec.html, 63 KB) publishes no materia table itself; it links to ffyb.uba.ar/wp-content/uploads/2025/10/Lic.-en-Biotecnologia-Plan-simplificado.pdf, consistent with the node's stated 'remite al plan simplificado de FFyB'. Only 3 names appear on the HTML page incidentally (Microbiología, Biotecnología, Producción Vegetal); grounding rests on the Anexo I, which the node cites in source.label.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

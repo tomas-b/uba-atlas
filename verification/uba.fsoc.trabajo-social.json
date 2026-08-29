@@ -1,0 +1,13 @@
+{
+  "address": "uba.fsoc.trabajo-social",
+  "source_reachable": true,
+  "exits_total": 30,
+  "found": 30,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 30 exit names found verbatim in the programa-de-materias HTML (https://trabajosocial.sociales.uba.ar/programa-de-materias/, saved to extract/out/verify-fsoc-ts.html, page header reads 'Res. (CS) 5962/2012 – Programa de Materias') and in the OCR of the resolución PDF (extract/out/fsoc-trabajo-social-plan.txt). Five names failed automated PDF matching only due to OCR noise ('lnstitucional', 'Taller Nivel Ill', 'lnvestigacion', 'lnstitucionales', line-wrapped 'Psicologia del desarrollo / y de la subjetividad') and were confirmed by manual inspection. PDF structure matches node: CFP = Trayecto General 7 + Subtrayecto socio-histórico-político 8 + Fundamentos 10 + Prácticas 4 talleres + 1 seminario (=30 named) + 2 electivas (from 19 offered) + 1 optativa = 33; CBC 6 asignaturas 384 h; CFP 2340 h; total 2724 h; 3 niveles de idioma (portugués/inglés); tesina; electivas/optativas from 4th year. Electivas (19 listed in the PDF) and optativas are intentionally not traced as exits, consistent with node frame. Minor: PDF OCR body cites EXP-UBA 28.643/2012 and does not clearly OCR the '5962' number itself, but the second official source ties the plan to Res. CS 5962/2012. No fabrication detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,27 @@
+{
+  "address": "uba.med.medicina.toxicologia",
+  "source_reachable": true,
+  "units_total": 26,
+  "units_found": 26,
+  "books_total": 7,
+  "books_found": 7,
+  "not_found": [],
+  "omitted": [
+    "Objetivos Generales (3) y Objetivos Específicos (5) del programa — no representados en el nodo",
+    "Los 9 puntos de 'El alumno al finalizar la cursada deberá estar en condiciones de' (interrogatorio dirigido, examen físico, criterios de internación/alta, historia clínica toxicológica, búsquedas bibliográficas, medidas preventivas)",
+    "Metodología: 'Uso del Campus Académico' y 'Resolución de Guías de Trabajos Prácticos de la Cátedra' (el metadata resume solo clases/ateneos/casos)",
+    "Evaluación: punto 3 (recuperaciones estipuladas) y punto 5 (mantenimiento de regularidad según normas vigentes de la Facultad) — el metadata cita los otros cuatro",
+    "Unidad 10: bloque final Naftaleno / Paradiclorobenceno (no aparece en el role)",
+    "Unidad 12: 'Preparados magistrales. Medicación homeopática' y nafazolina/aminofilina/vitaminas",
+    "Unidad 13: síndrome extrapiramidal y tiramínico, reacciones idiosincráticas, farmacovigilancia e interacción medicamentosa",
+    "Unidad 21: 'Otros: miriápodos, peces, enfermedad potamotrigónica' y sueros heterólogos/reacciones adversas",
+    "Unidad 15: anticolinérgicos/antiparkinsonianos, GHB, fenciclidina, ketamina, escopolamina, peyote",
+    "Unidad 17: concepto de IDA (Ingesta Diaria Admisible)",
+    "Unidad 24: diferencia contaminación/polución, contaminantes atmosféricos, epidemiología ambiental"
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Refutación fallida. Source PDF alcanzable (HTTP 200, application/pdf, 224756 bytes) en la URL citada. Las 26 unidades del nodo se corresponden 1:1 con las 26 unidades numeradas de la sección UNIDADES TEMATICAS del texto extraído (líneas 138-564), en el mismo orden y con títulos fieles; cada 'role' es recuperable palabra por palabra del cuerpo de su unidad — verifiqué los 26 individualmente, incluidos DL50 (u2 'Dosis Letal 50'), toxidromes (u3), botiquín toxicológico (u4), anión gap aumentado (u5), endoscopía en la urgencia (u7), cámara hiperbárica (u9), paraquat/2,4D/glifosato (u11), neuroléptico maligno y serotoninérgico (u13), Wernicke-Korsakoff y delirium tremens (u16), acrodinia (u18), HACRE y fluorosis (u19), CMP/IBE/EPP/neumoconiosis (u20), Loxosceles/Latrodectus/Phoneutria y Bothrops/Crotalus/Micrurus (u21), disruptores hormonales (u23), biomagnificación (u24), ANMAT/INAL/SENASA/ETA (u25), armas de destrucción masiva y radiaciones (u26). Nota menor: el programa escribe 'piretrodes' (typo del PDF) y 'Pphoneutria'; el nodo normaliza a 'piretroides' y 'Phoneutria' — corrección ortográfica, no fabricación. Las 7 referencias corresponden exactamente a las 7 entradas de 'Bibliografía recomendada' (líneas 100-134), con autores, editorial, año y dominios de URL fieles. Único dato inferido: 'guía nacional 2021' para la guía de tabaco — el texto no da año en el título, pero el slug de la URL es 'guia_tabaco_2021'; inferencia trazable, defendible. METADATA: cuatrimestral ✓ (l.80), 76 horas ✓ (l.85), correlativas 'Medicina A y Patología II, aprobadas' ✓ (l.81, literal), 80% asistencia + parciales + integrador + concepto del docente + final oral o escrito ✓ (l.90-98), 11 páginas ✓ ('Página 11 de 11'), COPDI-2022-05410618-UBA-SAA#FMED ✓, cátedra no consignada ✓ (el texto solo dice 'Guías de Trabajos Prácticos de la Cátedra' sin nombrarla, y remite a la 1ra Cátedra de Toxicología en la ref. 5 — exactamente como declara el nodo). CONTRADICCIÓN DE INSERCIÓN CONFIRMADA Y HONESTAMENTE ETIQUETADA: el PDF dice 'Inserción en la carrera: Puede cursarse a partir de 3er. Año y hasta el final de la carrera' (l.82-83); la ubicación como transversal del Ciclo Clínico NO está en este PDF — proviene del nodo carrera /Users/tomb/p/learn/nodes/uba.med.medicina.json, sourceado del plan Res. CS 2861/92, donde Toxicología figura como exit 'transversal' del Ciclo Clínico. El nodo declara esa doble procedencia dos veces (metadata.año y frame), igual que sus hermanos medicina-legal y bioetica-2. HALLAZGO ADICIONAL (no reportado por el nodo): la contradicción es más profunda de lo anotado y es interna al propio programa — exige Medicina A (= Medicina 1) y Patología II aprobadas, y ambas son asignaturas del Ciclo Clínico según el plan, por lo que 'a partir de 3er año' es incompatible con sus propias correlativas, no solo con el plan. El nodo enmarca la tensión como programa-vs-plan; en rigor también es programa-vs-programa. Recomendación (no aplicada, no edito): ampliar metadata.año para registrarlo. Inconsistencia cosmética: la nota del grupo de bibliografía dice 'Un tratado de la especialidad y seis fuentes normativas', pero dos exits llevan tag 'libro' (Damin y Albiano); Albiano es a la vez libro y publicación normativa de la SRT, así que la nota subcuenta los libros. Ninguna fabricación detectada: cero unidades y cero referencias no recuperables del texto citado.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

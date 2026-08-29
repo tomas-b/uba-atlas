@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.edicion",
+  "source_reachable": true,
+  "exits_total": 19,
+  "found": 19,
+  "not_found": [],
+  "omitted_from_source": [
+    "Introducción al Pensamiento Científico (CBC — node deliberately excludes CBC, count stated as materiasCBC: 2)",
+    "Introducción al Conocimiento de la Sociedad y el Estado (CBC — same)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 16 grado materias match Res. (CS) 5294/97 Anexo I §4.3/§4.6 (OCR'd PDF) and the edicion.filo.uba.ar plan page, including the two 'a elegir' slots (Teoría y Análisis Literario o Semiología; Edición Electrónica y Multimedia o Edición de Publicaciones Periódicas) and Seminario Obligatorio. Requirement exits verified: 3 niveles inglés + 1 de francés/alemán/portugués/italiano (§4.4); pasantía ≥192 h o tesina (§4.5). Plan 1997, vigencia 1/8/1997 (Art. 3), título Editor (Art. 6 and §5) — not Licenciado. Hours: 96 h per materia and 48 h Seminario are consistent with the §4.6 table (OCR noise on some rows). Minor internal inconsistency in the resolution itself: §4.1 says 18 materias (counting the 2 CBC), §5 says 16 grado + 2 CBC — the node's 16 + 2 is correct. Web page groups 'Metodología de la investigación' under a shortened name; the resolution's full name matches the node. Note the resolution states nothing about correlativas explicitly; 'correlativas: false' is an inference, not sourced text.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

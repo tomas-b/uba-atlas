@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.antropologia",
+  "source_reachable": true,
+  "exits_total": 54,
+  "found": 54,
+  "not_found": [],
+  "omitted_from_source": [
+    "CBC materias (Introducción al Conocimiento de la Sociedad, Introducción al Pensamiento Científico, Antropología, Filosofía, 2 electivas Semiología/Economía/Sociología/Psicología) — deliberately excluded, node says CBC lives in uba.cbc",
+    "Seminario optativo (64 hs) and Seminario PST (64 hs) — unnamed generic slots, not concrete materias",
+    "2 electivas del Departamento de Ciencias de la Educación (Profesorado) — unnamed slots, node notes them"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 54 exit names matched verbatim (accent/case-normalized) against the extracted RESCS-2023-1297 (Lic.) and RESCS-2023-1298 (Prof.) texts; the 14 area electives and 4 Arqueología electives appear as explicit lists in the Lic. resolution, and the 6 Profesorado-specific materias appear in the Prof. table. Source page academica.filo.uba.ar/plan-de-estudios-ciencias-antropologicas links both 2023 resolution PDFs and states plan 2023 effective 2024 replacing plan 1985 (CS 79/85), matching node metadata (1297/1298, 79/85, 3200 hs all present in source text). Minor: node exit 'Metodología de la Investigación Antropológica en Educación' is confirmed by full-name search but the Prof. table only shows the wrapped prefix 'METODOLOGÍA DE LA'; full name exists elsewhere in the text. Hours/régimen in roles (96/192/128/64/224, anual) agree with the tables. Nothing fabricated.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

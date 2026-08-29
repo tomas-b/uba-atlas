@@ -1,0 +1,16 @@
+{
+  "address": "uba.med.enfermeria",
+  "source_reachable": true,
+  "exits_total": 48,
+  "found": 48,
+  "not_found": [],
+  "omitted_from_source": [
+    "Introducción al Conocimiento Científico (72 h, marked (*) as CBC per Res. 6/85 — omitted by design)",
+    "Introducción al Conocimiento de la Sociedad y del Estado (72 h, same (*) CBC note — omitted by design)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched https://www.fmed.uba.ar/carreras/licenciatura-en-enfermeria/plan-de-estudios; downloaded Plan de Estudio 1-3 and CCL 1 to /Users/tomb/p/learn/extract/out/verify-med-enf-{1..4}.png (upscaled copies *-big.png) and read them. All 32 main-plan names match the scan exactly by year/semester (Año1: 10, Año2: 7, Año3-1er sem: 5, Año3-2do sem: 3, Año4: 7) and all 16 CCL names match the 'Asignaturas obligatorias por año' table (Año1 1er cuat 4, 2do cuat 7; Año2 5). Per-materia teórica/práctica hours all match the scan. Subtotals verified: Año1 654/190/844 (the 844 includes the two starred CBC courses, node's note 'más el CBC' is accurate), Año2 375/465/840, Año3-1 162/290/452, Primer Ciclo total 2.136, Año3-2 180/60/240, Año4 400/360/760, Segundo Ciclo total 1.000. Expte. Nº 507.023/85 visible on scan page 1; 'Todas las asignaturas ... son con examen final' visible on page 3. Primer Ciclo 'dos y medio (2 1/2) años' confirmed. Node note that Segundo Ciclo requires 4 CBC electives is consistent with page text ('Son 4 materias a elegir entre'). Trabajo Científico has no hours in the scan ('---'), node correctly gives role 'trabajo final' rather than inventing hours. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

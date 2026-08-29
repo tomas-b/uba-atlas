@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.petroleo",
+  "source_reachable": true,
+  "exits_total": 51,
+  "found": 51,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Verified against /Users/tomb/p/learn/extract/out/fi-petroleo-plan.txt (1683 lines, 117 KB), which is the anexo for 'Ingeniería en Petróleo — Plan de Estudios — Actualización 2023 | Plan 2020 y resoluciones modificatorias' from FIUBA; consistent with the URL filename RESCD_2023_726_Petroleo_Plan_2023. All 34 obligatorias (3º–11º cuatrimestre, including TIF I/II) and all 17 named electivas match the source tables by name, credits and correlativas after accent/case normalization. The only automated miss, 'Inteligencia Artificial en la Exploración y Producción de Hidrocarburos', is a table line-wrap artifact (source lines 610-612: 'INTELIGENCIA ARTIFICIAL EN LA EXPLORACIÓN ... Y PRODUCCIÓN DE HIDROCARBUROS') — manually confirmed FOUND. No obligatoria in the source is missing from the node (CBC omitted as intended; per-cuatrimestre 'ELECTIVAS' credit slots of 4/6/4 are represented as group notes, not exits). Plan numbers match: 3856 hs total, 241 créditos, 11 cuatrimestres, 38 CBC créditos. Minor caveat: the literal string '726/2023' does not appear inside the extracted text body — the resolución number is asserted only by the PDF filename/URL, not by the anexo text itself.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

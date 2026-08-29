@@ -1,0 +1,13 @@
+{
+  "address": "uba.med.obstetricia",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF returns HTTP 200 (application/pdf, 452KB). Extract /Users/tomb/p/learn/extract/out/med-obstetricia-plan.txt header confirms identity: 'FACULTAD DE MEDICINA - UBA / LICENCIATURA EN OBSTETRICIA / PLAN DE ESTUDIOS Res. C.S. N° 3828/2011'. All 34 obligatorias (items 7-40) and all 4 electivas (I-IV) match the source verbatim, including line-wrapped titles (e.g. 'Farmacología General y Aplicada a la Salud Reproductiva', 'Metodología de la Investigación y Estadística Aplicada a la Obstetricia', 'Tecnología Apropiada en Diagnóstico Ecográfico'). Duración (Anual/Cuatrimestral) per exit matches. Year assignment matches. Only items 1-6 (CBC) are omitted, by design. Correlatividad notes per year match the source blocks (e.g. Año 3 cursar: 7,8,9,10,12 aprobadas + 11,13,14,15 regulares). Resolución stated (Res. C.S. N° 3828/2011) matches source. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

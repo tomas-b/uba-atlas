@@ -1,0 +1,17 @@
+{
+  "address": "uba.fsoc.comunicacion",
+  "source_reachable": true,
+  "exits_total": 65,
+  "found": 65,
+  "not_found": [],
+  "omitted_from_source": [
+    "CBC: Introducción al Pensamiento Científico, Introducción al Conocimiento de la Sociedad y el Estado, Semiología, Sociología, Economía, Psicología (omitted by design)",
+    "Idiomas (plan 504/23 page lists Inglés I-III, Francés I-III, Italiano I-III as rows; node mentions them in note/metadata only)",
+    "Plan 440/90 (old plan) materias: Teorías y prácticas de la comunicación I/II/III, Semiótica I/II, Taller de expresión I/II/III, Derecho a la información, Elementos de Semiología y Análisis del Discurso, Historia general de los medios y sistemas de comunicación, Políticas y planificación de la comunicación, Seminario de diseño gráfico y publicidad, Seminario de cultura popular y cultura masiva, Seminario de informática y sociedad, Taller de comunicación comunitaria/publicitaria/periodística, orientation materias (Periodismo, Comunicación y Procesos Educativos, Opinión Pública y Publicidad, Comunicación Comunitaria, Políticas y Planificación) — correctly excluded, belong to planAnterior"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Raw HTML saved to /Users/tomb/p/learn/extract/out/verify-fsoc-comunicacion.html (167 KB). Every one of the 65 exit names matched the page text after accent/case/punctuation normalization; four area headers (Comunicacional, Práctica, Problemas del Campo, Ciencias Sociales) and the Introductorias/Aplicadas/Específicas tiers appear on the page as stated. Page labels the plan 'Plan Nuevo 504/23' and 'Plan 440-90' as the old plan, matching metadata.plan and planAnterior. Minor: the 504/23 page lists explicit idioma rows (Inglés/Francés/Italiano I-III) that the node does not list as exits; node's note says 'francés, inglés, alemán, italiano o portugués' — alemán and portugués were not found in the page text, so that idioma list is not fully supported by this source. Did not verify the count 'materias: 65' against a stated number on the page (none found); it equals the exit count.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

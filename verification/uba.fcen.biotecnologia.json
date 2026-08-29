@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.biotecnologia",
+  "source_reachable": true,
+  "exits_total": 37,
+  "found": 37,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "All 37 exit names verified against the three sources (accent/case/line-wrap tolerant). Two required manual matching: (1) 'Taller de Diseño de Proyecto Biotecnológico' — cuatrimestres-LBT.pdf line 64 has it line-wrapped as 'Taller Diseño de Proyecto / biotecnológico' (no 'de' after Taller; the node added one — harmless normalization, not fabrication). (2) 'Tesis de Grado o Práctica Profesional Supervisada' — Anexo I item 34 is 'Tesis de Grado o Práctica Profesional' (300 h); carrera.html says 'Tesina o Práctica Profesional supervisada, 300hs'. The node's name is a merge of both; real, but not verbatim in either source. Troncal coverage: the node reproduces the Exactas troncal (cuatrimestres-LBT.pdf, 27 non-CBC materias incl. Inglés) 1:1, nothing omitted; the Anexo I generic listing (items 7-33: Química General e Inorgánica, Física, Fisicoquímica, Química Biológica II, Inmunología, Nanobiotecnología, Desarrollo Emprendedor, Legislación en Biotecnología y Bioética, Bioestadística, etc.) is a different naming set that the node's own frame explicitly says it does not use (Exactas implementation instead) — flagged for awareness, not an omission per the node's stated methodology. Orientación FCEN: 'Desarrollo Sostenible' (35 D, 32 h) plus 11 optativas all found in Anexo I and carrera.html. Plan/resolución: metadata says 'RESCS-2025-1467-UBA-REC (Anexo ACS-2025-299-UBA-SG#REC)'. The Anexo text confirms ACS-2025-299-E-UBA-SG#REC (signed 2025-09-10), 3331 h, 4.5 años / 9 cuatrimestres, Bachiller intermedio, 4 orientaciones — all match. But the string '1467' appears in NONE of the three sources (0 hits in plan txt and carrera.html); the RESCS number is unverifiable from cited material, hence plan_matches=false on that one datum. 'RESCD 2816/25' is confirmed in the cuatrimestres file header. Metadata 'cicloTroncalExactasHoras: 2150' not directly checkable (file gives 'Total bloque años 1-4: 2701' incl. CBC; 2701-560 CBC = 2141, ~not 2150 — minor, unverified).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

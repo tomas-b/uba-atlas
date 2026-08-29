@@ -1,0 +1,13 @@
+{
+  "address": "uba.fagr.profesorado-ambiental",
+  "source_reachable": true,
+  "exits_total": 43,
+  "found": 43,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Live PDF fetched (HTTP 200, application/pdf) and re-extracted; text is byte-identical to extract/out/fagr-prof-ambiental-plan.txt (8227 bytes, header 'Res CS1121/21', Dirección de Ingreso, Alumnos y Graduados, Octubre/21). Automated accent/case-insensitive match found 41/43; the 2 misses ('Enseñanza de las Ciencias Ambientales mediada por Tecnología (TIC)', 'Metodología de la Investigación e Historia de las Ciencias Ambientales') are two-column line-wraps in the layout extract and were manually confirmed verbatim in the source. All 34 ciclo-profesional obligatorias and all 9 electivas listed in the PDF appear in the node; only the 6 CBC materias are omitted (by design). Metadata checks: 40 obligatorias, 4 créditos electivos, 182 créditos = 2912 horas, 1 crédito = 16 hs, requisitos inglés e informática, Pedagogía and Política Educacional dictated at FFyL, credit values and correlativas spot-checked all match. Minor: the PDF writes 'Res CS1121/21'; the node's expanded 'RESCS-2021-1121-E-UBA-REC' and the 'Código UBA Libro II Tít. 13 Cap. A' citation are not in this PDF and were not independently verified here. Cosmetic: source writes correlativa 'Didáctica general' lowercase for the TIC course; node uses 'Didáctica General'.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

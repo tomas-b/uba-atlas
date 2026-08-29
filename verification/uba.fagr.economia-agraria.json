@@ -1,0 +1,13 @@
+{
+  "address": "uba.fagr.economia-agraria",
+  "source_reachable": true,
+  "exits_total": 45,
+  "found": 45,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-downloaded https://www.agro.uba.ar/sites/default/files/documentos/cartelera/plan-leaa-2026.pdf (2 pages, 192 KB) and ran pdftotext -layout; output is byte-identical to extract/out/fagr-economia-plan.txt, so the researcher extract is authentic. Automated normalized substring match (accents/case/punctuation stripped) found 41/45 directly; the remaining 4 (Aspectos Metodológicos para la Elaboración del Proyecto de Trabajo Final; Economía de la Producción y Complejos Agroindustriales; Economía y Política de los Recursos Naturales y Sustentabilidad; Comercio Interno y Externo de Productos Agropecuarios) failed only because the PDF's two-column layout interleaves their line-wrapped names with the adjacent column; each was confirmed by manual reading of the source text (e.g. 'Aspectos Metodológicos para la Elaboración del Proyecto ... de Trabajo Final (48)', 'Economía de la Producción y Complejos / Agroindustriales (48)'). All 16 electivas match the source's 'Asignaturas/espacios curriculares electivos (216 hs)' list exactly, including Teoría Contable (108, FCE). Hours and cuatrimestre/bimestre roles spot-checked and match. Source obligatorias (excluding CBC): 8 in year 2, 8 in year 3, 12 in year 4, plus Trabajo Final = 29, all present in the node; no omissions beyond the intentional CBC. Plan/resolución: source header reads 'Res CS 1653/2025', matching the node; source also states 35 asignaturas, 216 hs electivas, 108 hs optativas, Trabajo Final 184 hs, Analista 1604 hs, total 2600 hs — all consistent with node metadata. Minor: the node's source label also cites 'Código UBA Libro II Tít. 6 Cap. A' and the RESCS-2025-1653-UBA-REC identifier, neither of which appears in this PDF (unverified here but not a name fabrication).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

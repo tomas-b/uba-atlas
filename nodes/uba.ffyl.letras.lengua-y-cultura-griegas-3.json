@@ -1,0 +1,186 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) · Reglamento Académico Res. (CD) Nº 4428/17, tres instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º (programa del 2º cuatrimestre 2026)",
+    "codigo": "15009-B",
+    "catedra": "Depto. de Lenguas y Literaturas Clásicas · código 15009-B · Profesores Asociados Elsa Rodríguez Cidre y Emiliano J. Buis (2º cuatrimestre 2026)",
+    "equipoDocente": [
+      "RODRÍGUEZ CIDRE, Elsa (Profesora Asociada Regular)",
+      "BUIS, Emiliano J. (Profesor Asociado Regular)",
+      "RIVAS, Ezequiel (JTP)",
+      "MARESCA, Victoria (ayudante de primera)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual)",
+    "ejeDeLectura": "«Género y política en la Atenas clásica» (eje principal de lectura propuesto para el bloque de literatura)",
+    "unidades": 5,
+    "bibliografia": 8,
+    "año": "2026"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3",
+      "label": "Lengua y Cultura Griegas III"
+    }
+  ],
+  "eyebrow": "Letras · área Letras Clásicas · Lengua y Cultura Griegas III",
+  "title": "Cerrar la gramática, abrir los géneros.",
+  "lede": "Tercer tramo del griego clásico: las dos primeras unidades recapitulan y sistematizan lo que ya se sabe —verbos consonánticos y verbos en –μι, casos anómalos, proposiciones subordinadas, uso de casos— y empujan la sintaxis hacia el texto, la estilística y la métrica. Las tres siguientes ponen esa lengua a leer Atenas por sus géneros, bajo un solo eje: género y política en la Atenas clásica. Tragedia (Agamenón, Antígona, Hécuba, Bacantes), comedia (pasajes de Aves) y prosa (la Poética de Aristóteles y el primer discurso de Lisias, la defensa por la muerte de Eratóstenes), cada uno con sus características de género, su puesta en escena o su estructura, y —solo en la Unidad 5— traducción de pasajes en el original.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "lengua 2 · literatura 3"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lengua y Cultura Griegas III, código 15009-B, firmado por la Prof. Dra. Elsa Rodríguez Cidre y el Prof. Dr. Emiliano J. Buis para el 2º cuatrimestre de 2026 (el PDF consigna «AÑO: 2026»), publicado como «Último Programa aprobado» en letrasclasicas.filo.uba.ar. El programa lo emite el DEPARTAMENTO DE LENGUAS Y LITERATURAS CLÁSICAS y NO consigna carrera, año del plan, ciclo ni correlatividades: la ubicación de la materia dentro de Letras proviene del plan de estudios listado en el nodo padre uba.ffyl.letras, no de este PDF. El PDF imprime el código con sufijo «-B» pero no menciona ninguna otra cátedra de la materia, de modo que nada se afirma acá sobre una cátedra «A». Las únicas resoluciones impresas son REDEC-2024-2526-UBA-DCT#FFYL (pautas de modalidad de dictado para el ciclo lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen de promoción directa) y Res. (CD) Nº 1117/10 (Régimen Transitorio de Asistencia, RTARMEM); el programa no consigna resolución de aprobación del programa mismo. El propio programa aclara al pie que los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo del ciclo lectivo correspondiente. SELECCIÓN DECLARADA: la bibliografía del programa se extiende a varios cientos de entradas repartidas en tres capas por unidad —«Ediciones, ediciones comentadas y traducciones recomendadas», «Bibliografía especial obligatoria» y «Bibliografía general»—, más una «Bibliografía general» de lengua para las Unidades 1 y 2 de unos setenta títulos de gramática, fonética, métrica y crítica textual. Ninguna de esas listas se dibuja como nodo libro. Se dibujan sólo (a) las obras primarias que el programa nombra en los Contenidos como objeto de estructura, análisis y traducción, y (b) el volumen que el programa lista como edición del texto primario de la unidad y del que además procede una entrada de la «Bibliografía especial obligatoria» (figura también en la lista de ediciones recomendadas de Lisias, superposición divulgada; otras obligatorias citan capítulos de monografías —Foley, Zelenak, Segal, Nussbaum, Pomeroy— cuyos volúmenes no se dibujan en esta pasada). EXCLUSIONES CONSISTENTES: artículos, capítulos en obras colectivas, ediciones críticas y traducciones recomendadas quedan fuera del dibujo en las cinco unidades por igual. ERRATAS DEL ORIGINAL REGISTRADAS, NO RESUELTAS: la bibliografía general de lengua imprime entradas con nombres dudosos o inconsistentes —«Better, V., Morfologia della Lingua Greca», «Jurte, A., Phonétique grecque», y el mismo apellido Curtius con dos iniciales distintas («Curtius, G.» y «Curtius, J.»)—; esos títulos no se dibujan y no se corrigen acá. Las obras primarias se dibujan con el título tal como lo imprime el programa en los Contenidos; los datos de edición no se les adjuntan porque el programa ofrece para cada una un abanico de ediciones recomendadas y no prescribe ninguna.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Dos de lengua, tres de géneros",
+      "note": "Cada unidad del programa 15009-B es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LENGUA Y CULTURA GRIEGAS III · código 15009-B\n│\n├─ LENGUA\n│   ├─ 1 · Morfología verbal y nominal\n│   │      verbos consonánticos y en –μι · casos anómalos e irregulares\n│   └─ 2 · Sintaxis\n│          subordinadas (continuación) · uso de casos · cohesión y coherencia\n│          sintaxis, semántica y estilística · sintaxis y métrica\n│\n└─ LITERATURA · eje: «Género y política en la Atenas clásica»\n    ├─ 3 · Tragedia · Esquilo, Sófocles y Eurípides\n    │      Agamenón · Antígona · Hécuba · Bacantes\n    ├─ 4 · Comedia · Aristófanes\n    │      pasajes seleccionados de Aves · comedia y política\n    └─ 5 · Prosa · discurso filosófico-preceptivo y oratoria forense\n           Aristóteles, Poética · Lisias, Discurso I",
+        "foot": "Las Unidades 1 y 2 comparten una única bibliografía general de lengua. El rótulo «LITERATURA. EJE PRINCIPAL DE LECTURA PROPUESTO: “GÉNERO Y POLÍTICA EN LA ATENAS CLÁSICA”» encabeza en el PDF el bloque que se abre con la Unidad 3."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.morfologia",
+          "name": "Morfología verbal y nominal",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.sintaxis",
+          "name": "Sintaxis",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.tragedia",
+          "name": "Tragedia · Esquilo, Sófocles y Eurípides",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.comedia",
+          "name": "Comedia · Aristófanes",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.prosa",
+          "name": "Prosa · discurso filosófico-preceptivo y oratoria forense",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Las obras que se leen",
+      "title": "El corpus del curso",
+      "note": "Las obras primarias que los Contenidos del programa nombran como objeto de estructura, análisis y traducción, más el volumen-edición de Lisias del que procede una entrada de la «Bibliografía especial obligatoria». Las listas de ediciones y traducciones recomendadas, los artículos y los capítulos en obras colectivas —varios cientos de entradas— no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-agamenon",
+          "name": "Agamenón — Esquilo",
+          "role": "Unidad 3 · estructura y análisis",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-antigona",
+          "name": "Antígona — Sófocles",
+          "role": "Unidad 3 · estructura y análisis",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-hecuba",
+          "name": "Hécuba — Eurípides",
+          "role": "Unidad 3 · estructura y análisis",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-bacantes",
+          "name": "Bacantes — Eurípides",
+          "role": "Unidad 3 · estructura y análisis",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-aves",
+          "name": "Aves — Aristófanes",
+          "role": "Unidad 4 · estructura y análisis de pasajes seleccionados",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-poetica",
+          "name": "Poética — Aristóteles",
+          "role": "Unidad 5 · lectura, análisis y traducción de pasajes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-lisias-discurso-1",
+          "name": "Discurso I, Defensa por la muerte de Eratóstenes — Lisias",
+          "role": "Unidad 5 · lectura, análisis y traducción de pasajes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.lengua-y-cultura-griegas-3.libro-lisias-eudeba-2022",
+          "name": "Lisias. Defensa por la muerte de Eratóstenes. Adulterio y homicidio en la Atenas clásica — E. J. Buis, E. E. Magoja y M. Franco San Román (eds.) (Eudeba, 2022)",
+          "role": "Unidad 5 · bibliografía especial obligatoria («Introducción», pp. 11-72)",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · Programa de Lengua y Cultura Griegas III, código 15009-B (Rodríguez Cidre – Buis, 2º cuatrimestre 2026), publicado como «Último Programa aprobado»",
+    "url": "https://letrasclasicas.filo.uba.ar/sites/letrasclasicas.filo.uba.ar/files/15009%20-%20LENGUA%20Y%20CULTURA%20GRIEGAS%20III%20-%20B%20-%20RODR%C3%8DGUEZ%20-%20BUIS.pdf"
+  }
+}

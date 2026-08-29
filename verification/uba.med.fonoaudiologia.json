@@ -1,0 +1,15 @@
+{
+  "address": "uba.med.fonoaudiologia",
+  "source_reachable": true,
+  "exits_total": 39,
+  "found": 39,
+  "not_found": [],
+  "omitted_from_source": [
+    "Materia optativa: idioma (año 5, 2º cuat. — unnamed optional slot, omission documented in node frame)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched https://www.fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/plan-de-estudios (HTTP OK, 38KB) and downloaded all 6 inline plan images (Captura1_1..Captura5_1, Captura6_0) to /Users/tomb/p/learn/extract/out/verify-med-fono-{1..6}.jpg; read each visually. Image-by-image: (1) CBC 6 materias — omitted by design, node frame lists them correctly. (2) 2º año 1º cuat: Psicología I, Física Acústica, Anatomía, Biología Celular/histología/embriología/genética, Lingüística I, Introducción a la Fonoaudiología — all 6 FOUND. (3) 2º año 2º cuat: Psicología II, Fisiología, Neurología y Neurofisiología, Lingüística II, Fisiopatología y clínica de la audición, Fisiopatología y clínica de la voz — all 6 FOUND. (4) 3º año: anuales Adquisición de la lengua materna y lenguaje, Audiología funcional; 1º cuat Neurodesarrollo, Psicología III, Metodología de la investigación y estadística I; 2º cuat Psicomotricidad y fonoaudiología, Educación vocal, Epistemología genética, Seminario — all 9 FOUND; Seminario slot present in 2º cuat as node states. (5) 4º año: anual Terapéutica vocal; 1º cuat Patología del lenguaje I, Audiología y equilibrio, Audiología infantil, Atención primaria de la salud; 2º cuat Terapéutica del lenguaje I, Terapéutica Audiológica I, Metodología de la Investigación y estadística II, Seminario — all 9 FOUND; Seminario in 2º cuat matches. (6) 5º año: 1º cuat Patología del Lenguaje II, Odontoestomatología y fonoaudiología, Sanitarismo, Deontología y ejercicio profesional, Bioinformática y computación Rehabilitadora, Seminario; 2º cuat Terapéutica del Lenguaje II, Fonoaudiología preventiva, Capacitación práctica asistencial hospitalaria (Audición/Voz/Lenguaje: Promoción), Materia optativa: idioma — all 9 node exits FOUND; Seminario in 1º cuat matches. Régimen (anual/cuatrimestral) and cuatrimestre assignments match for every exit; only differences are capitalization. '39 materias' claim: the page does not state a number anywhere in text; it is derived by counting non-CBC, non-optativa rows in the images, which yields exactly 39 (12+9+9+9). No fabrication detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

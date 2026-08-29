@@ -1,0 +1,25 @@
+{
+  "address": "uba.ffyl.letras",
+  "source_reachable": true,
+  "exits_total": 62,
+  "found": 62,
+  "not_found": [],
+  "omitted_from_source": [
+    "CBC: Introducción al Pensamiento Científico",
+    "CBC: Introducción al Conocimiento de la Sociedad y el Estado",
+    "CBC: Filosofía",
+    "CBC: Semiología (+ Taller de Lectura y Escritura)",
+    "CBC: Psicología",
+    "CBC: Electiva (Economía/Sociología/Antropología/Ciencia Política)",
+    "Seminario de Prácticas Socioeducativas Territorializadas",
+    "Seminario de orientación (Depto. Letras / Lenguas y Literaturas Clásicas)",
+    "Seminario de Metodología de la Investigación en Letras",
+    "2 asignaturas materia-o-seminario de 64 hs (slots)",
+    "3 niveles de 2 lenguas modernas (idiomas, 64 hs c/u)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF fetched fresh (77 pages, 314k chars) to /Users/tomb/p/learn/extract/out/verify-letras.txt. Every one of the 62 exit names matches the source verbatim after accent/case normalization, including parenthetical subtitles (Literatura Argentina I (Siglos XVI-XIX), Psicolingüística II (Procesos de Comprensión y Producción), etc.). Header on every page reads ACS-2023-58-UBA-SG#REC and EX-2022-06948796-UBA-DME#FFYL, matching metadata.resolucion. Source states duración teórica 5 años, carga horaria total 3008 hs, CFG = 4 troncales (3x128 hs + 1x96 hs) + 6 electivas, CFO = 14 materias/seminarios, 3 niveles de 2 lenguas modernas, three orientaciones without título con mención — all consistent with the node. Roles also match: Fundamentos de los Estudios Literarios 96 hs, Gramática/Teoría y Análisis Literario/Lingüística 128 hs. All omissions are intentional per the node's own frame text (CBC lives in its own tree; seminarios and idiomas not drawn). The '62 materias propias' count is the node's derived tally, not a figure stated by the source; not contradicted.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

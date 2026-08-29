@@ -1,0 +1,13 @@
+{
+  "address": "uba.fsoc.relaciones-del-trabajo",
+  "source_reachable": true,
+  "exits_total": 40,
+  "found": 40,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 40 exit names (24 obligatorias incl. Economía Política II / Estadística Aplicada II from the carga-horaria table, 7 optativas from Art. 3º, 6 título-intermedio materias from Art. 2º, 3 Inglés levels) found verbatim (modulo accents/case) in the extract /Users/tomb/p/learn/extract/out/fsoc-rrtt-plan.txt of the cited PDF (HTTP 200). Plan Res. (CS) 74/85, vigencia 1985/1993-ACTUAL, modificatorias 1519/91, 936/92, 3579/93, 4805/93, and totals 540/1530/180/2250 h all match. Only CBC materias omitted (by design). Minor naming drift, not fabrication: Art. 1º lists 'Economía Política' and 'Estadística Aplicada' unnumbered in 2do año while the node uses the table's 'I' suffix; the table writes 'Estructura Economica y Social' (no 'Argentina') and 'Condiciones y Medio Ambiente de Trabajo' (no 'I') but Art. 1º carries the full names used by the node. Note the intermediate-title note's Capacitación specialty also includes Psicología del Trabajo and the Liquidación specialty includes Derecho de la Seguridad Social, both already obligatorias, consistent with the node's stated exclusion rule.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

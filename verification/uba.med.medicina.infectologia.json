@@ -1,0 +1,21 @@
+{
+  "address": "uba.med.medicina.infectologia",
+  "source_reachable": true,
+  "units_total": 25,
+  "units_found": 25,
+  "books_total": 5,
+  "books_found": 5,
+  "not_found": [],
+  "omitted": [
+    "Bibliografía obligatoria item 1: 'Contenido de las clases teóricas' — present in both texts, not exposed as an exit; the omission is explicitly disclosed in the node's frame, so it is a declared design choice, not a silent drop.",
+    "Objetivos específicos — 14 numbered items in the 2017 PDF (interrogatorio, historia clínica, radiografías de tórax, punción lumbar, calendario de vacunación, etc.); the 2014 copy carries a DIFFERENT list of 7. Neither list is represented in the node (no exits, no meta).",
+    "Objetivos generales / Presentación general — paraphrased into the lede only.",
+    "Metodología de la enseñanza — the three modalities (clases teóricas 2/día, ateneos de casos clínicos, trabajos prácticos con pacientes en presencia del ATP) survive only inside the cargaHoraria parenthetical; no structured field.",
+    "Evaluación detail: the third-examiner tie-break rule and the re-examination clause are in both texts, not in the node."
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "REFUTATION FAILED — no fabricated exit found. 25/25 contenidos FOUND verbatim in BOTH extracts, in the same order and with the same numbering as the node's role fields (1..25). Names match the PDF headwords, including edge cases where the clipped 2017 OCR is corrupt but the 2014 scan is clean: #20 'Enteroyirosis' (2017 OCR) = 'Enterovirosis' (2014) — node's 'Enterovirosis' is the correct reading, not an invention; #10 'piel v tejidos blandos' (OCR) = 'piel y tejidos blandos'. 5/5 books FOUND, each with its bibliographic detail and its carácter tag matching the PDF's own subheads (Obligatoria=Compendio de Infectología / Recomendada=Palmieri Enfermedades Infecciosas / Optativa=Farreras-Rozman, Corti, Harrison). Metadata: '80 h cátedra' verbatim ('La carga horaria total de la asignatura es de 80 h cátedra', 2017 only — the 2014 scan has no Aspectos Administrativos section); 'examen final oral ante 2 docentes, por módulos' verbatim in both; '80% de asistencia a las actividades de la rotación' verbatim in both; 'rotación' as régimen is grounded in that same sentence. THREE WEAKNESSES, none rising to fabrication: (1) PROVENANCE GAP — the node's source block cites only the 2017 URL, but 4 of the 5 books are NOT fully recoverable from it: the 2017 extract truncates at the right margin ('...17* ed. Elsevier. Españ', 'Corti M . 2° Edici', '...18* ed. McGraw-H', 'Palmieri... Interamericana. 3° Edición. 2009' partial, 'Negroni R' cut to 'Ne'). The publisher/country/year strings in the node come from the 2014 OCR only, and that second document has NO url anywhere in the node or in sources/uba.json — only an expediente number in the frame prose. The pair recovers everything; the cited source alone does not. (2) FRAME OVERCLAIM — the frame calls the 2014 copy 'el mismo programa ... de contenidos idénticos'. The 25 contenidos and the bibliography are indeed identical, but the two documents differ elsewhere: different title ('Programa de Infectología' 2017 vs 'Programa de Enfermedades Infecciosas' 2014), entirely different Objetivos específicos (14 vs 7 items), and the 2014 version carries clock times and a cronograma the 2017 one drops. 'Contenidos idénticos' is defensible read narrowly as 'the CONTENIDOS section is identical'; read as 'same document' it is too strong. (3) UNGROUNDED META FIELD — metadata.año = 'Ciclo Clínico · especialidad básica' appears in neither extract; it is external placement knowledge, not sourced from the cited programa (this was outside the three items I was asked to check, hence metadata_matches stays true). Also minor: cargaHoraria's parenthetical gloss recombines the Metodología list, while the actual (clipped) Aspectos Administrativos line reads 'incluirá clases teóricas, ... anatomo-clinicos' — recoverable but paraphrased across sections. The map tree, tags, lede and title are editorial groupings, and the node's own note declares them as such ('los agrupamientos por tag son de lectura; el programa no declara secciones'). Source URL returns HTTP 200 application/pdf.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fvet.biotecnologia",
+  "source_reachable": true,
+  "exits_total": 32,
+  "found": 32,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source /Users/tomb/p/learn/extract/out/biotecnologia-lic-plan.txt (ACS-2025-299-UBA-SG#REC, Anexo, EX-2025-03342534-UBA-DME#SSA_FFYB) lines 344-571 list asignaturas 7-34 (tramo común) and 35A-38A (Orientación en Salud y Producción Animal). Every one of the node's 32 exit names matches verbatim (tolerating PDF line-wraps, e.g. '26.Bioinformática Aplicada a la Biotecnología', '35 A. Biotecnología de la Reproducción y Criopreservación de Gametas y Embriones', '37 A. Aspectos Farmacológicos e Inmunológicos de la Terapia Biotecnológica'). Hours per exit and per-cuatrimestre totals (336/350/350/343/336/308/350) match the source; the 9º-cuatrimestre orientation correlativas (35A: Final 20 + Final 25; 36A: Final 22 + TP 25; 37A: TP 27; 38A: Final 20 + TP 23 + TP 24) match. No troncal obligatoria 7-34 is missing; CBC 1-6 omitted by design. Plan check: source is ACS-2025-299 with vigencia 2026 (line 649), consistent with node metadata plan '2025' / vigencia '2026 (primera cohorte)'. One caveat: the node cites 'RESCS-2025-1467-UBA-REC' as the approving resolution, but that string does not appear anywhere in the extracted text (only ACS-2025-299 and Resolución 2025-980-APN-SE#MCH); the RESCS number is unverifiable from this source alone, though it does not affect any exit name.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

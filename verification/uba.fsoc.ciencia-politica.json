@@ -1,0 +1,13 @@
+{
+  "address": "uba.fsoc.ciencia-politica",
+  "source_reachable": true,
+  "exits_total": 22,
+  "found": 22,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source page (145 KB, saved to /Users/tomb/p/learn/extract/out/verify-fsoc-politica.html) lists exactly the same 21 named obligatorias + the 22nd (all 22 node exits match the HTML list verbatim, accent-insensitive). OCR extract /Users/tomb/p/learn/extract/out/fsoc-politica-plan.txt confirms all 22 in the curricular table (rows 7-28) with the same semanal/total hours (4/64 and 6/96) and matching correlativas by row number; only 'Fundamentos de Ciencia Política II' failed exact OCR match because it is rendered 'Fundamentos de Ciencia Política I!' (row 21) — found in HTML exactly and unambiguous in PDF. Ciclo Orientado rows 29-33 (2 electivas 96 hs, 2 seminarios 64 hs, 1 taller 96 hs) match node note. Plan 8558/17, EXP-UBA 85.775/2016 and RESOL-2019-538-APN-MECCYT all present in PDF/HTML (page links both PDFs). Not independently verified from source: metadata.vigenciaDesde '1º cuatrimestre 2019' and carga horaria totals 2624/1824/416 (grep not run; arithmetic from table: 6x64 + 3x64 ... consistent order of magnitude but unchecked). CBC omission by design. No fabrications detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

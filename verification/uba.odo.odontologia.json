@@ -1,0 +1,22 @@
+{
+  "address": "uba.odo.odontologia",
+  "source_reachable": true,
+  "exits_total": 57,
+  "found": 57,
+  "not_found": [],
+  "omitted_from_source": [
+    "Química (CBC)",
+    "Matemática (CBC)",
+    "Física e Introducción a la Biofísica (CBC)",
+    "Biología e Introducción a la Biología Celular (CBC)",
+    "Introducción al Conocimiento de la Sociedad y el Estado (CBC)",
+    "Introducción al Pensamiento Científico (CBC)",
+    "Módulo Electivo Asistencial Orientado (placeholder row; represented by the N601–N609 group)",
+    "Asignatura optativa (unnamed, 20 h; omitted by design per node.frame)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source PDF re-fetched live (HTTP 200, Last-Modified 2024-02-27) as extract/out/verify-odo.txt; byte-identical (37007 B) to extract/out/odo-odontologia-plan.txt. All 57 exit names (48 obligatorias N100–N509 + 9 electivas N601–N609) found in the caja curricular after accent/case/line-wrap normalization; 4 required line-wrap tolerance (N111, N403, N503, N509) and were confirmed in context. All 57 códigos present and paired with the correct names. Duración/semestre roles (anual/semestral/bimestral, A/B) match the caja rows spot-checked. Hours total 5604 matches 'Carga Horaria Total 5604'. Obligatoria count 48 (6 CBC + 42 coded... note: source coded obligatorias = 9+14+9+7+9 = 48 when counting N100–N509; node's 48 matches that). Minor caveats: (1) the string 'Plan 2022' does not appear anywhere in the extract; the PDF is titled PLAN-DE-ESTUDIOS-2024 — the '2022' plan year is not supported by this source text (possibly from page header/graphics not extracted). (2) The correlatividades table spells N111 as 'Diagnóstico por Imágenes y Radiofísica Sanitaria' while the caja says 'con Radiofísica Sanitaria'; node uses the caja form. (3) Node name for N108 'Biofísica Aplicada a la Práctica Odontológica' vs caja's 'a la Práctica Odontología' (source typo; correlatividades table uses 'Odontológica'). No fabrications.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

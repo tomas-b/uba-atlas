@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyb.bioquimica",
+  "source_reachable": true,
+  "exits_total": 41,
+  "found": 41,
+  "not_found": [],
+  "omitted_from_source": [
+    "01. Matemática (51) [CBC]",
+    "02. Química (5) [CBC]",
+    "03. Introducción al Conocimiento de la Sociedad y el Estado (24) [CBC]",
+    "04. Biología e Introducción a la Biología Celular (54) [CBC]",
+    "05. Física e Introducción a la Biofísica (53) [CBC]",
+    "06. Introducción al Pensamiento Científico (40) [CBC]"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source identity confirmed: extract /Users/tomb/p/learn/extract/out/ffyb-bioquimica-plan-2023-texto-ordenado.txt is RESCS-2023-1930-E-UBA-REC (19 Dec 2023, EX-2023-07073437) with Anexo ACS-2023-475-UBA-SG#REC, 'Texto ordenado del plan de estudios de la carrera de Bioquímica'. All 41 exit names found verbatim (accent-insensitive) in the source's section 12 tables (asignaturas 07-36, 43-47) and the orientation-elective table at lines 379-385 (6 electives for item 37). Only omissions are the 6 CBC materias (01-06), by design. Placeholders 38-42 (optativas/electivas sin nombre) correctly not rendered as nodes. Spot-checked metadata: 4148 hs total, '5 años y 1 cuatrimestre', vigencia 2024 ingresantes, plan anterior Res. CS 6196/2016, título intermedio = asignaturas 1-18 + Inglés (43) + Bioestadística (44) = 1975 hs, Laboratorio Integrador 20 hs, Talleres 12 hs, per-semester hour totals (322/350/357/336/350/399/386/416/510), per-course hours, bimestral flags, and correlativas (cursar/rendir) all match the source tables. Práctica Profesional Interna 134+66 hs split across 9° and 10° matches. Minor: node's 'Res. CS 1930/23' shorthand is a rendering of RESCS-2023-1930-E-UBA-REC, consistent. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fce.administracion",
+  "source_reachable": true,
+  "exits_total": 62,
+  "found": 62,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Raw HTML (181,818 bytes) saved to /Users/tomb/p/learn/extract/out/verify-fce-administracion.html. All 62 exit names and all 62 códigos match the page tables exactly (accent/entity-normalized). Page states 'Duración: 4 años y medio promedio; Carga Horaria Total: 2.600 horas' — matches node. 25 'Obligatoria' rows on page (6 general + 18 profesional + Práctica Profesional 473) — matches materiasObligatorias 25; no obligatoria omitted. Electiva/optativa labels per exit match the page; orientation and competencia groupings match. No explicit plan year on page beyond '(vigente en 2026)' markers — node's 'plan vigente 2026' is a fair label. Minor non-fabrication discrepancies: (1) node's 'Ciclo Profesional Orientado' note says 'tres electivas/optativas de una orientación' but the page says 3 electivas/optativas = TWO from one orientación + ONE from a Competencia, then Práctica Profesional; (2) the page gives requisitos for electivas (e.g. 474/475/794/1708 req. 278; 476-479/790 req. 279; 480-482/749 req. 466; 483/484/707/795 req. 467; 485/1709/1711 req. 465) and V.H. 4/72 h that the node's roles omit; (3) Práctica Profesional role omits page's requisito '23 asignaturas Regularizadas'. Page writes 'E Commerce' (no hyphen) vs node 'E-Commerce' — tolerated as punctuation.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,16 @@
+{
+  "address": "uba.fcen.datos",
+  "source_reachable": true,
+  "exits_total": 14,
+  "found": 14,
+  "not_found": [],
+  "omitted_from_source": [
+    "Electiva de Introducción a las Ciencias Naturales (Segundo Ciclo, cuat. 4, 176 h, correlativa CBC — one of: Introducción a la Biología Molecular y Celular / Química General e Inorgánica para ... / Física I para Ciencias Químicas; omission is disclosed in node.frame and group note)",
+    "Tercer Ciclo electivas block (min. 640 h, no fixed names — disclosed in node)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-fetched http://lcd.exactas.uba.ar/wp-content/uploads/2022/11/Plan-de-Estudios-Lic.-en-Cs.-Datos.pdf (27 pages, 139687 chars) -&gt; /Users/tomb/p/learn/extract/out/verify-fcen-datos.txt; cmp with /Users/tomb/p/learn/extract/out/fcen-datos-plan.txt = IDENTICAL. All 14 exit names appear verbatim in the Segundo Ciclo table (lines 259-312) and/or the prose (lines 199-212, 225): Análisis I, Álgebra I, AED I, Análisis II, AED II, Laboratorio de Datos, Análisis Avanzado, Álgebra Lineal Computacional, Probabilidad, AED III (table spells 'Algoritmos y Estructura de Datos III' — singular, prose has plural; fine), the 3 núcleo materias (table abbreviates 'Intr.', prose gives full names), and 'Tesis de Licenciatura o Trabajo Final'. Cuatrimestres, hours (160/160/240/160/240/96/128/160/160/240/128/128/128; 2304 total; 960 Tercer Ciclo; 640 electivas; 320 tesis) and correlativas in each exit role match the table exactly. Metadata matches: expediente EX-2020-01429804-UBA-DMED#SG_FCEN (PDF footer shows 'EX-2020-01429804- -UBA-DMED#SG_FCEN' with a rendering gap), ACS-2020-96-UBA-SG, 14 materias / 13 named, título intermedio 'Bachiller Universitario en Ciencias de Datos' (4 hits). Only cosmetic quibble: node.frame says Fundamentos = 11 including the electiva, which matches source line 199-202. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

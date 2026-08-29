@@ -1,0 +1,17 @@
+{
+  "address": "uba.psi.profesorado",
+  "source_reachable": true,
+  "exits_total": 4,
+  "found": 4,
+  "not_found": [],
+  "omitted_from_source": [
+    "Requisito Idioma: Inglés. Módulo I Cát. I (cód. 835)",
+    "Requisito Idioma: Francés. Módulo I (cód. 838)",
+    "Requisito Idioma: Inglés Módulo I. Cát II (cód. 853)"
+  ],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source fetched with curl (HTTP 200, 69 KB) to /Users/tomb/p/learn/extract/out/verify-psi-prof.html. All 4 exit names appear verbatim in both the prose plan text and the 2026 materias table with matching códigos 901/902/903/904; 904 is marked anual with '(*) no se inscribe en el segundo cuatrimestre'. Verified in HTML: 'Plan 2004', Res. (CS) N° 1863 (1995, creación del Profesorado), 450 horas incl. 20 h de práctica, 23 asignaturas in Área Psicológica, 3 cuatrimestrales + 1 anual, 904 requires 903 aprobada, promoción directa / no libre, inscripción cada cuatrimestre en Dirección de Alumnos, sedes Independencia/Hipólito Yrigoyen/Uriburu 781, ingreso conditions. Not in HTML but verified in the linked plan_estudios_profesorado_2024.png (cited in node's source label, fetched to extract/out/verify-psi-prof-plan2024.png): Res. CD N° 1055/04 (inscripción simultánea 903+904), the correlativa 'seis materias del CBC y la totalidad del Área de Formación Psicológica', and 902→903→904 arrows. The source text does not itself use the label 'Plan de Estudios 2024' (that is only the image filename). Omitted items are the three 'Requisito Idioma' rows (835/838/853) listed in the source's materias table under 'Área de Formación en Pedagogía'; they are language requirements, not the 4 pedagógica asignaturas, and the image places Requisito Idioma I within the Licenciatura's CBC/CFG side, so omission is defensible. Also source lists Res. (CD) N° 684 (1994 convenio) which node does not cite; not an error. No fabrication found.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

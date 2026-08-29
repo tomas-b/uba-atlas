@@ -1,0 +1,13 @@
+{
+  "address": "uba.med.bioimagenes",
+  "source_reachable": true,
+  "exits_total": 29,
+  "found": 29,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source page fetched live; images downloaded to /Users/tomb/p/learn/extract/out/verify-med-bioimg-{1..4}.jpg (Captura1_4, Captura2_5, Captura3_6, Captura4_5). Captura2_5+Captura3_6 = 'Plan de Estudios de TÉCNICOS RADIÓLOGOS UNIVERSITARIOS' (6 cuatrimestres, 15 materias); Captura4_5 = 'Plan de Estudios de LICENCIATURA EN PRODUCCIÓN DE BIOIMÁGENES' (4 cuatrimestres, 14 materias). All 29 exit names match the images exactly (modulo case/accents, e.g. 'Física biomédica', 'Radiofísica sanitaria y control de calidad'). Cuatrimestre placement and every correlativa listed in the node's role fields match the 'Para cursarla' column of the images (CBC prerequisite for 1st-cuat materias included). Node correctly says no resolution number is published. Caveat: Captura1_4 on the same page is a separate, non-universitario 'Curso de Técnicos Radiólogos' plan (Físico-Química, Enfermería en Radiología, Tecnología Radiológica 1/2, etc.) — the node correctly does NOT mix it in. Structure claim 'two cycles' is a reasonable reading (the page presents them as two consecutive plans, licenciatura entry requires the técnico title); the page itself does not use the word 'ciclo'.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

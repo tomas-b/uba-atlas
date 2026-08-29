@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-2",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6, "units_found": 6,
+  "books_total": 16, "books_found": 16,
+  "not_found": [
+    "frame 'el programa no usa la palabra cátedra' FALSE — appears 8 times (L129, L213-220 Fichas de Cátedra series, L289 'traducción de la cátedra', L491 REDEC); defensible claim is only 'no declara cuántas cátedras'",
+    "lede 'un hilo atraviesa las cuatro zonas: los estereotipos' — printed in 2.2/2.3/2.4 only, never 2.1; node's own map.foot says so"
+  ],
+  "omitted": [
+    "Contribuciones al estudio de la Eneida (Ventura et al. comp., OPFyL) — obligatoria 2.3, source of 4 obligatory studies, satisfies the node's OWN drawing rule; excluded as 'ficha' though 'Fichas de Cátedra' is the OPFyL series name (L442 proves). Should be drawn → 17 books",
+    "Fuentes section (9 entries) excluded wholesale while sibling latinas-1 draws its Fuentes — cross-node policy drift",
+    "Res. (CD) 1117/10 (RTARMEM, L550) printed but absent from metadata"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Units 6/6 literal (2 unidades temáticas + 6 subsections, all roles literal). Books 16/16 placement-correct, Codoñer role lists exactly the 5 obligatory chapters and correctly omits the complementaria one; Lo spazio letterario preserves the program's own vol. 1/vol. I inconsistency. All four registered items real (Latina/Latinas singular L129, Espectáctulos L85, FORDYCE 1061 L294, Plinio mismatch + unregistered Citroni L279). Metadata literal; 'Profesora Regular Adjunta' exact from signature. Soft claim: 'ordenada por distancia al canon' is editorial, presented as program structure, and non-monotonic as glossed. Fixes: draw Contribuciones (+1), narrow cátedra sentence, fix 'las cuatro zonas', soften canon-distance framing."
+}

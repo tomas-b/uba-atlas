@@ -1,0 +1,13 @@
+{
+  "address": "uba.fi.quimica",
+  "source_reachable": true,
+  "exits_total": 29,
+  "found": 29,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Text at extract/out/fi-quimica-plan.txt is the Ingeniería Química 'Plan de Estudios · Actualización 2023 | Plan 2020' anexo (matches source URL RESCD_2023_880_Quimica_Plan_2023). 28/29 exit names match the plan table verbatim (normalized accents/case/line-wrap). The 29th, 'Trabajo Integrador Final · Trabajo Profesional o Tesis de Ingeniería Química', is a composite label: the table lists 'Trabajo Profesional de Ingeniería Química o Tesis de Ingeniería Química' (6 de 12 créditos in cuat. 10 and 11, correlativas Laboratorio de Operaciones y Procesos, Evaluación de Proyectos de Plantas Químicas, Dinámica y Control de Procesos) and the prose names it 'Trabajo Integrador Final (TIF)' with the two modalities; all components are in the source, so counted FOUND, not fabrication. No obligatoria in the source is missing from the node (CBC and Electivas omitted, correct). Credits, cuatrimestres and correlativas spot-checked and match the table (231 créditos, 3696 horas). The 'Res. CD 880/2023' string does not appear literally in the extracted text (the extract carries no resolution number/header), but the source URL filename RESCD_2023_880 corroborates it; 'Total de Asignaturas del Plan 38' in the source vs node's '29 propias' is consistent (38 includes CBC/electivas).",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

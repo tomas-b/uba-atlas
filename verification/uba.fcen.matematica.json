@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.matematica",
+  "source_reachable": true,
+  "exits_total": 25,
+  "found": 25,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Live DM page (HTTP 200) lists exactly the 8 comunes + 8 Pura + 8 Aplicada obligatorias in the node, in the same order, plus 'Tesis de Licenciatura' and 'Plan de estudios ... (1982)'. Name diffs are accent/typo only: page writes 'Algebra I/II/III/Lineal' unaccented and 'Elementos de Cáculo Numérico' (sic). 16 obligatorias/estudiante, 5 años, 15 puntos optativas, two orientations, correlatividades regime all match. Minor discrepancy: source says optativas 'en general tienen asignado entre 2 y 5 puntos'; node metadata/note say 'entre 1 y 5 puntos' (may come from the exactas.uba.ar PDF, not verified here). CBC omission is by design. OCR extract fcen-matematica-plan.txt not needed since the live page was reachable and complete.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

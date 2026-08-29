@@ -1,0 +1,16 @@
+{
+  "address": "uba.fadu.textil",
+  "source_reachable": true,
+  "exits_total": 28,
+  "found": 28,
+  "not_found": [],
+  "omitted_from_source": [
+    "Optativa I (MO1, 60 hs)",
+    "Optativa II (MO2, 60 hs)"
+  ],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "All 28 exit names appear verbatim (accent/case-normalized) in the plan table at fadu.uba.ar/diseno-textil, with matching year, cursado (anual / 1º y 2º cuat. / 1º cuat. / 2º cuat.) and per-year totals (525/600/495/405 hs). The two omitted optativas are unnamed slots, which the node explicitly acknowledges. plan_matches is false only in the narrow sense that the page itself does not state 'Plan 2016', 'Res. CS 6183/16', 'Res. CS 8304/17' or a 2697 hs total — those come from the secondary source cited in the label (Código UBA Libro III Tít. 6), not from the fetched URL. The page's own year totals sum to 2025 hs for years 2-5 (CBC hours not tabulated), so 2697 is unverifiable from this URL, not contradicted. The page links a 'Plan-TX17-.pdf' which could be fetched to confirm the resolución and total. No fabrication detected.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "uba.fadu.arquitectura",
+  "source_reachable": true,
+  "exits_total": 32,
+  "found": 32,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Source https://www.fadu.uba.ar/arquitectura/ fetched live (93 KB) to extract/out/verify-fadu-arquitectura.html; its 'Plan de Estudios' table lists exactly the 32 obligatorias in the node (Nivel 1: 7, Nivel 2: 7, Nivel 3: 7, Nivel 4: 7 + PPA, Nivel 5: DyLO/PUR/PA/PPA), all matched after accent/case normalization. Nothing missing besides CBC (7 materias, omitted by design) and 'Materias Optativas' (20 créditos, no fixed materias — node correctly declines to draw it). PPA appears in the source under both Nivel 4 and Nivel 5; node places it only in Nivel 5, which is defensible (not a fabrication). Metadata checks: optativas 240 hs (ingreso &gt;=2015) / 300 hs (ingreso &lt;2015) and 'PPA obligatoria para ingresantes desde Ciclo Lectivo 2015' match verbatim; '20 créditos' matches; source publishes no plan year or resolución and the node says so explicitly. The Correlativas-ARQ.pdf linked from the page is https://www.fadu.uba.ar/wp-content/uploads/2025/04/Correlativas-ARQ.pdf (April 2025, matching the node's 'abr-2025'); the researcher's extract extract/out/fadu-arquitectura-plan.txt is that PDF and confirms the CBC-ingreso correlativa and the 240/300 hs footnotes. Node does not state per-materia hours, so nothing to refute there. Minor nit: source uses short code 'M2' for Matemática II (node role says 'MAT2') and 'M2' again for Morfología II — role codes are node-internal, not exit names.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

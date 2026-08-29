@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.fisica",
+  "source_reachable": true,
+  "exits_total": 24,
+  "found": 24,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Fetched ?page_id=47, 84 (Ciclo Inicial), 86 (Ciclo Avanzado), 205 (Cursada sugerida) into /Users/tomb/p/learn/extract/out/verify-fcen-fisica-&lt;id&gt;.html. All 24 exit names appear verbatim in the official tables (page 84: Física 1-4, Análisis 1-2, Laboratorio 1-3, Matemática Aplicada 1; page 86: Análisis 3, Mecánica Clásica, Matemática Aplicada 2, Electrodinámica, Mecánica Cuántica, Mecánica Estadística, Laboratorio 4-6, Tesis de Licenciatura, and electivas Física de Fluidos / Física del Sólido / Física Atómica y Molecular / Física de Interacciones Fundamentales; page 47 confirms the four electivas as equivalents of Estructura de la Materia 1-4). No obligatoria in the source is missing from the node (CBC omitted by design; optativas unnamed in source, correctly not drawn). Per-exit hours match the tables exactly and sums check: Inicial 6x160+4x96=1344, Avanzado 1248, electivas 2x96=192, tesis 320, CBC 2x304=608, total 3904 — all as stated on the source. Plan vigencia 1º cuat 2026, Plan 1987 Res. 1886/87 caducando en exámenes complementarios 2033, duración 5.5 años, título intermedio 16 materias/1952 h — all match page 47/84. Suggested-cuatrimestre roles match page 205 when numbering from Ciclo Inicial (Física 3/Lab 2/Análisis 3 in 3º, Física 4/Lab 3/Mec. Clásica in 4º, ED/Lab 4/MA2 in 5º, MQ/ME/Lab 5 in 6º, Lab 6 in 7º, Tesis 8º-9º). Minor observations, not fabrications: (a) Ciclo Avanzado group eyebrow says '9 obligatorias' but lists 10 exits because Tesis (which the source lists separately, in the same table) is included; (b) the source states 'aproximadamente 30 materias' — node's 24 + 6 CBC = 30, consistent; (c) source page 205 alternatively allows Mecánica Estadística in 5º año 1º cuat — node fixes it at 6º cuat, which is the primary suggestion.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

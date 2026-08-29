@@ -1,0 +1,15 @@
+{
+  "address": "uba.med.medicina.patologia-1",
+  "source_reachable": true,
+  "units_total": 13,
+  "units_found": 13,
+  "books_total": 5,
+  "books_found": 5,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Strongest possible grounding check performed. (1) Re-downloaded the cited source.url (https://www.fmed.uba.ar/sites/default/files/2019-08/programa.pdf) live: HTTP 200, application/pdf, 77151 bytes. Re-extracted its text and diffed against extract/out/med-l2-patologia.txt: IDENTICAL after whitespace normalization (both 33473 bytes). The cached extract is a faithful, current copy of the cited PDF — not a stale or substituted file. Native text layer, no OCR, corroborating the node's frame claim. (2) All 13 unit exits FOUND verbatim as 'Unidad I..XIII' headings (text contains exactly 13 'Unidad' occurrences — no unit in the programa is omitted from the node, and no unit in the node is absent from the programa; 1:1). Node labels match the programa headings including exact wording of XII 'Patología del envejecimiento y grupos etarios' and X 'Patología genética y del desarrollo'. (3) All 5 book exits FOUND in section 7 with correct sugerida/complementaria split: sugerida = Cotran/Kumar/Collins Robbins (McGraw Hill-Interamericana, Madrid, 8va), Stevens/Lowe Anatomía Patológica (Harcourt, Madrid 2001, 2da), Rubin/Farber Pathology (Lippincott-Raven, Philadelphia 1999, 3ra); complementaria = Majno/Joris Cells, tissues, and disease (Blackwell Science, USA 1996), Brasileiro Filho Bogliolo (Guanabara Koogan, Río de Janeiro 2011, 7ma). Editions and imprints in the 'role' fields all match the text. No sixth reference exists in the programa. (4) Metadata all traceable: '144 horas teórico-prácticas' + '75% de las actividades obligatorias son prácticas' (§6); 'se cursa semestralmente y se dicta 2 veces en el año' + intensive summer course (§6); '3er año ciclo biomédico' (§6); correlativas 'Fisiología aprobada y Bioquímica regular / Patología I aprobada para Patología II' (§6, verbatim); evaluación '2 pruebas parciales orales con instancia teórica y práctica + examen final oral' (§5, 'dos pruebas parciales y una final, que son orales') and '80% de asistencia' (§6); 'Departamento de Patología' appears in §4. Title 'Planificación de la asignatura Patología I · Programa analítico' matches the PDF header lines 1-2. (5) The spine map tree's per-unit topic tags were each spot-checked against that unit's Contenidos paragraph — all supported (e.g. VIII hipersensibilidad I-IV/autoinmunidad/SIDA, XII senescencia/patología perinatal, XIII benigno vs maligno/metástasis/carcinogénesis). (6) The frame's scoping claim 'el programa cubre únicamente Patología I (patología general)' is supported by §4 ('el estudio de la Patología I (patología general)'). No fabricated exit, no invented metadata, no unsourced claim found. Only non-textual assertions are pipeline provenance ('texto nativo, sin OCR'), which my independent re-extraction corroborates.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.lengua-y-cultura-latinas-1",
+  "wave": "letras-3-clasicas", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3, "units_found": 3,
+  "books_total": 23, "books_found": 23,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Zero fabricated/missing exits. Units 3/3 with the I/2/3 numbering erratum verified in BOTH contenidos and bibliografía; roles reproduce printed grafía. Books 23/23 (25 drawable entries, Codoñer merges 3); exclusions symmetric: 49 complementaria counted ('unos cincuenta' honest), 9 fichas (source has 9, all enumerated), 2 journal articles. Serbat and Powel/Powell contradictions both real (Powell complementaria entry is a different work — frame precise enough). VOX no-year and von Albrecht no-publisher confirmed. All resolutions correctly characterized, no approval resolution exists. Ciclo attribution verified bidirectionally against parent. Minor: CUP expanded, places of publication uniformly dropped, interinos footnote not carried."
+}

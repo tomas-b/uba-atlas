@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.alimentos",
+  "source_reachable": true,
+  "exits_total": 38,
+  "found": 38,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "Re-fetched the cited URL as verify-alimentos (HTTP 200, 32 pages, 97018 chars); md5 f80084bc4a61863d96890a4dc7d05b13 is byte-identical to the researcher's alimentos-lic-resolucion.txt. Header confirms RESOLUCIÓN Nº 919, EXP-UBA 87.537/2017, 15 de agosto de 2018 — matches node metadata. All 38 exit names (30 obligatorias + 8 electivas) match entries 07-44 of the section-8 asignaturas table exactly (verified both by accent/case/punctuation-normalized regex on the full text and by eye against the line-wrapped table, lines 545-783). Dictating-faculty tags in the node (FCEN/FFyB/both) agree with the table's Facultad column for every row, including the FCEyN/FFyB shared ones (Tecnología I-III, Práctica Profesional, Análisis Sensorial). No obligatoria omitted: source lists 6 CBC (01-06, omitted by design) + 8 CFG + 22 CFE obligatorias + 8 electivas = node's 38 non-CBC exits. Hours claims (560/1093/2121, 125 h electivas, 300 h práctica, 5 años) all appear verbatim in sections 8-10. Only caveat: the year/cuatrimestre placement in role/tag fields is attributed to lcta.fcen.uba.ar/academico, not the resolución, and was not verified here; it does not affect exit names.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

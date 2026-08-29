@@ -1,0 +1,13 @@
+{
+  "address": "uba.fcen.oceanografia",
+  "source_reachable": true,
+  "exits_total": 40,
+  "found": 40,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": true,
+  "verdict": "clean",
+  "notes": "All 12 CFB propias, 5 CFI obligatorias, 22 electivas and Tesis de Licenciatura appear verbatim in the Código UBA page (Título 19, Capítulo A, Plan 2018). Plan 2018, Res. (CS) 6444/17, 4.168 hs, 5 años, 18+5 obligatorias (6 CBC omitted by design), 7 electivas (&gt;=5 from list) all match. Year/cuatrimestre placement of every obligatoria matches the 'Organización sugerida' table. Minor: 'Cambio Climático' is listed as an electiva with contenidos mínimos in the source but does not appear in the Plan Nuevo/Plan Vigente equivalences table — not a fabrication. Source also uses 'Observación Oceanográfica' in prose but 'Oceanográficos' in the tables; node uses the table form. Source page saved at /Users/tomb/p/learn/extract/out/verify-fcen-oceano.html.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}

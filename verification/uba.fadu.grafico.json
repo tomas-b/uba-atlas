@@ -1,0 +1,13 @@
+{
+  "address": "uba.fadu.grafico",
+  "source_reachable": true,
+  "exits_total": 17,
+  "found": 17,
+  "not_found": [],
+  "omitted_from_source": [],
+  "plan_matches": false,
+  "verdict": "clean",
+  "notes": "All 17 exit names appear verbatim (modulo accents) in the cited page's plan table, with matching year/ciclo/cursado (anual vs cuatrimestral), matching codes (DG1, M1, TIP1, C1, H1, TEC1, DG2, TIP2, C2, H2, ME1, TEC2, DG3, ME2, DG4), and the Morfología II / Tipografía II 3º-o-4º footnote is real. No named obligatoria is missing: the only other rows are CBC (7 materias, omitted by design) and unnamed slots (Electiva I, Electiva Socio Humanística, Electiva Orientada I/II, Materia Optativa I/II, Seminario Optativo I/II/III), which the node correctly describes in notes/frame, though its electivas field omits the count of 2 Materias Optativas + 3 Seminarios in favor of '180 hs' (60+60+20+20+20 = 180 hs, arithmetically consistent). Correlatividades PDF URL matches the page's href exactly. plan_matches=false only because the fetched page contains NO mention of '2017', '8557', 'Res.' or any plan year/resolución; the node attributes those to the Código UBA (Libro III Tít. 7 Cap. A), which is a second source not linked in source.url and not verified here. Minor tension: the page's own correlativas PDF is filed as 'PlanDG2022', which does not obviously match 'Plan 2017' — unverifiable from this source, not a fabrication of exit names.",
+  "recovered": true,
+  "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+}
