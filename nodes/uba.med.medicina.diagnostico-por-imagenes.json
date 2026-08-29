@@ -1,0 +1,178 @@
+{
+  "address": "uba.med.medicina.diagnostico-por-imagenes",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso intensivo de dos semanas",
+    "año": "Ciclo Clínico · especialidad básica (ubicación según el plan Res. CS 2861/92)",
+    "cargaHoraria": "concurrencia diaria de 5 horas durante 2 semanas",
+    "catedra": "Departamento de Medicina · Comité de Orientación de Diagnóstico por Imágenes",
+    "programa": "Programa de la Asignatura Diagnóstico por Imágenes, julio de 2016 · EXP-UBA 0066529/2016",
+    "correlativas": "Medicina A y Patología II",
+    "unidades": 10,
+    "bibliography": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.diagnostico-por-imagenes",
+      "label": "Diagnóstico por Imágenes"
+    }
+  ],
+  "eyebrow": "Diagnóstico por Imágenes · programa (materia)",
+  "title": "Ver el cuerpo por dentro sin abrirlo.",
+  "lede": "Curso intensivo de dos semanas del Ciclo Clínico, con concurrencia diaria de cinco horas. Empieza por los principios físicos de cada método — rayos X, ultrasonido, campo magnético, radiotrazadores — y después recorre el cuerpo región por región: tórax, corazón y vasos, abdomen, tracto urogenital, ginecología y obstetricia, hueso y columna, cabeza y cuello, sistema nervioso, y cierra con el intervencionismo. El eje no es la enfermedad sino el signo: se aprende a razonar desde la imagen hacia el diagnóstico. Extraída del programa oficial de 2016.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 semanas",
+      "small": "5 hs diarias"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "contenidos"
+    },
+    {
+      "k": "Referencias",
+      "v": "3",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial aprobado en julio de 2016 (EXP-UBA 0066529/2016), elevado por el Comité de Orientación de Diagnóstico por Imágenes del Departamento de Medicina. Las diez unidades y las tres referencias salen del texto real del programa. La capa de texto del PDF llega recortada en el margen derecho, así que la bibliografía y los títulos de unidad se leyeron además por OCR sobre la imagen escaneada. Para cursar se requiere Medicina A y Patología II; el curso se repite unas diez veces por año lectivo y se dicta en la mayoría de las UDH. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las diez unidades",
+      "note": "Apartado CONTENIDOS del programa: primero el instrumento, después el cuerpo región por región, y al final la aguja guiada por la imagen.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "DIAGNÓSTICO POR IMÁGENES — el cuerpo leído en la imagen\n│\n├─ Métodos · principios físicos · radioprotección · contrastes\n├─ Tórax · signos y patrones · neumonía · nódulo · pleura\n├─ Cardiovascular · cardiopatías · aorta · tromboembolismo\n├─ Abdomen y digestivo · abdomen agudo · hígado · páncreas\n├─ Urogenital y retroperitoneo · litiasis · tumores renales\n├─ Ginecología y obstetricia · mama · útero · ovario · gestación\n├─ Músculo-esquelético y columna · fracturas · tumores óseos\n├─ Cabeza y cuello · senos paranasales · peñasco · tiroides\n├─ Sistema nervioso · infartos · hemorragias · tumores\n└─ Radiología intervencionista · biopsias · drenajes · embolización",
+        "foot": "Unidades tomadas verbatim del apartado CONTENIDOS. La evaluación final es un escrito de selección múltiple con preguntas basadas en casos; se regulariza con 80% de asistencia."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.metodos",
+          "name": "1. Métodos de Diagnóstico por Imágenes",
+          "role": "unidad 1",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.torax",
+          "name": "2. Imágenes del tórax",
+          "role": "unidad 2",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.cardiovasculares",
+          "name": "3. Imágenes cardiovasculares",
+          "role": "unidad 3",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.abdomen-y-sistema-digestivo",
+          "name": "4. Abdomen y sistema digestivo",
+          "role": "unidad 4",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.tracto-urogenital-y-retroperitoneo",
+          "name": "5. Imágenes del tracto urogenital y retroperitoneo",
+          "role": "unidad 5",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.ginecologia-y-obstetricia",
+          "name": "6. Imágenes en Ginecología y Obstetricia",
+          "role": "unidad 6",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.musculo-esqueletico-y-columna",
+          "name": "7. Imágenes del sistema músculo-esquelético y columna vertebral",
+          "role": "unidad 7",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.cabeza-y-cuello",
+          "name": "8. Imágenes de cabeza y cuello",
+          "role": "unidad 8",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.sistema-nervioso",
+          "name": "9. Imágenes del sistema nervioso",
+          "role": "unidad 9",
+          "tag": "contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.radiologia-intervencionista",
+          "name": "10. Radiología intervencionista",
+          "role": "unidad 10",
+          "tag": "contenidos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que recomienda",
+      "note": "Los tres libros de texto del apartado BIBLIOGRAFÍA del programa — se recomienda alguno de ellos. Cada uno es una puerta hacia su contenido: un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.san-roman",
+          "name": "José San Román — Manual de Diagnóstico por Imágenes",
+          "role": "Ediciones Journal · Buenos Aires 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.pedrosa-casanova",
+          "name": "Pedrosa, Casanova — Diagnóstico por Imágenes. Compendio de Radiología Clínica",
+          "role": "Interamericana-Mac Graw-Hill · Madrid 2006",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.diagnostico-por-imagenes.brant-helm",
+          "name": "Brant W. y Helm C. — Fundamentos de Radiología Diagnóstica",
+          "role": "Lippincot-Editorial Journal · Buenos Aires 2008",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Diagnóstico por Imágenes, julio 2016 (PDF escaneado, EXP-UBA 0066529/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/15-Diagnostico%20por%20Imagenes_0.pdf"
+  }
+}

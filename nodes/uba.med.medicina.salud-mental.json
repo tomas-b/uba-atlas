@@ -1,0 +1,200 @@
+{
+  "address": "uba.med.medicina.salud-mental",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "anual · 32 semanas (32 jornadas docentes, incluidos los dos parciales)",
+    "año": "Ciclo Biomédico · se cursa en 1º, 2º ó 3º año",
+    "cargaHoraria": "128 horas (clases teórico/prácticas de 4 hs)",
+    "catedra": "Departamento de Psiquiatría y Salud Mental · se dicta por UDH (unidades docentes hospitalarias)",
+    "programa": "Programa de la Asignatura Salud Mental · Carrera de Medicina",
+    "correlatividades": "el programa se contradice: declara «ninguna» y, en el mismo apartado, «tener aprobadas Medicina A y Patología II»",
+    "unidades": 6,
+    "bibliography": 10,
+    "evaluacion": "80% de asistencia a trabajos prácticos, dos parciales y examen final oral y/o escrito según la UDH"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.salud-mental",
+      "label": "Salud Mental"
+    }
+  ],
+  "eyebrow": "Salud Mental · programa (materia)",
+  "title": "El hombre entero antes del órgano.",
+  "lede": "Materia anual del ciclo biomédico. Opone al cuerpo desarmado en piezas un modelo biopsicosocial: la historia de la idea de salud mental, el aparato psíquico freudiano, la neurociencia cognitiva función por función, el ciclo vital y sus crisis, la relación médico-paciente y el hombre en su sociedad — adicciones, violencia, género, prevención. Extraída del programa real del Departamento de Psiquiatría y Salud Mental.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "anual",
+      "small": "128 hs · 32 semanas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "módulos"
+    },
+    {
+      "k": "Referencias",
+      "v": "10",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa PDF del Departamento de Psiquiatría y Salud Mental (fmed.uba.ar, texto extraíble, 8 páginas). Las seis unidades y las referencias bibliográficas salen del texto real del programa: 128 horas, anual en 32 semanas, clases teórico/prácticas de 4 hs dictadas por unidades docentes hospitalarias. El programa ubica la materia en 1º, 2º ó 3º año del Ciclo Biomédico — el plan de la carrera la lista en primer año. En correlatividades el documento se contradice con sí mismo (dice «ninguna» y luego «Medicina A y Patología II»); queda anotado, no resuelto. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las seis unidades",
+      "title": "Del concepto de salud mental a la violencia social",
+      "note": "El eje de la materia — cada unidad es un módulo del programa, en orden.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "SALUD MENTAL — el modelo biopsicosocial del hombre sano y enfermo\n│\n├─ 1. Introducción · concepto e historia · paradigmas · multicausalidad\n├─ 2. Aparato psíquico · las dos tópicas freudianas · defensas\n├─ 3. Neurociencia cognitiva · percepción, atención, memoria, lenguaje,\n│      funciones ejecutivas, praxias, gnosias · neuropsicología\n├─ 4. Los vínculos humanos · el ciclo vital, del apego a la vejez · crisis\n├─ 5. Relación médico-paciente · entrevista · bioética · ley 26.657\n└─ 6. El hombre y la sociedad · cultura · género · APS · adicciones · violencia",
+        "foot": "Unidades y temas tomados del programa. La granularidad de tiempo es solo el régimen (anual, 32 semanas); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-mental.introduccion",
+          "name": "1. Introducción",
+          "role": "unidad 1",
+          "tag": "concepto e historia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.aparato-psiquico",
+          "name": "2. Aparato psíquico",
+          "role": "unidad 2",
+          "tag": "psicoanálisis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.neurociencia-cognitiva",
+          "name": "3. Neurociencia cognitiva",
+          "role": "unidad 3",
+          "tag": "funciones cognitivas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.vinculos-humanos",
+          "name": "4. Los vínculos humanos",
+          "role": "unidad 4",
+          "tag": "ciclo vital",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.relacion-medico-paciente",
+          "name": "5. Relación médico-paciente",
+          "role": "unidad 5",
+          "tag": "clínica y bioética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.hombre-y-sociedad",
+          "name": "6. El hombre y la sociedad",
+          "role": "unidad 6",
+          "tag": "salud pública",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Bibliografía general del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-mental.manfredi",
+          "name": "Manfredi, Clelia — Salud Mental en el Hospital",
+          "role": "2018",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.brusco",
+          "name": "Brusco, Luis Ignacio — Salud Mental y Cerebro",
+          "role": "Akadia 2018",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.persano",
+          "name": "Persano, Humberto — El mundo de la salud mental en la práctica clínica",
+          "role": "Akadia 2018",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.verruno-oyarzabal",
+          "name": "Verruno, Oyarzabal — Las drogas de la Cultura o la Cultura de las drogas",
+          "role": "Latinoamericana 2010",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.cuadernos-salud-publica",
+          "name": "Cuadernos de Salud Pública — INE, Ciudad de Mar del Plata",
+          "role": "1990–2002",
+          "tag": "publicación",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.salvarezza",
+          "name": "Salvarezza, L. — La vejez. Una mirada gerontológica actual",
+          "role": "Paidós 1998",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.ricon",
+          "name": "Ricón, L. — Problemas del campo de la salud mental",
+          "role": "2ª ed. · Paidós 1995",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.matterazzi",
+          "name": "Matterazzi, M. A. — Salud Mental",
+          "role": "Salerno 1994",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.levi-strauss",
+          "name": "Lévi-Strauss, C. — «El hechicero y su magia», en Antropología estructural",
+          "role": "Eudeba 1968 · pp. 151-168",
+          "tag": "capítulo",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-mental.freud",
+          "name": "Freud, S. — Obras Completas (diversos artículos)",
+          "role": "Amorrortu 1986 · [1929]",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de la Asignatura Salud Mental, Departamento de Psiquiatría y Salud Mental, Carrera de Medicina (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20SALUD%20MENTAL_0.pdf"
+  }
+}

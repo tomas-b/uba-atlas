@@ -1,0 +1,304 @@
+{
+  "address": "uba.med.medicina.medicina-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · modular semanal, de lunes a viernes",
+    "año": "Ciclo Clínico · 1º o 2º cuatrimestre según la UDH",
+    "cargaHoraria": "852 horas",
+    "catedra": "no consignada en el programa",
+    "programa": "Programa de Medicina B (Medicina 2), EXP-UBA 0039745/2017",
+    "correlativas": "aprobación de Patología II",
+    "unidades": 13,
+    "modulos": 15,
+    "bibliography": 16,
+    "evaluacion": "15 historias clínicas visadas + trabajo de investigación bibliográfica · examen final teórico-práctico · 80% de asistencia · 4 puntos sobre 10"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.medicina-2",
+      "label": "Medicina 2 (Medicina Interna)"
+    }
+  ],
+  "eyebrow": "Medicina 2 · Medicina B · programa (materia)",
+  "title": "El adulto enfermo, aparato por aparato, a la cabecera de la cama.",
+  "lede": "La medicina interna del Ciclo Clínico: 852 horas modulares, de lunes a viernes, para pasar del signo al diagnóstico y del diagnóstico al tratamiento en el paciente adulto. Arranca en la entrevista y la historia clínica, recorre lo músculo-esquelético, lo cardiovascular, lo digestivo, el riñón, las glándulas, la sangre y la psicopatología, y termina en el paciente crónicamente enfermo y en el final de la vida. Se rinde con quince historias clínicas escritas a mano. Extraída del programa oficial de Medicina B.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "852 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "13",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "16",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el PDF oficial de la Facultad de Medicina — la asignatura figura en el listado de programas de la carrera como MEDICINA B, que es Medicina 2 (Medicina Interna) del plan (CS) 2861/92. Las unidades temáticas, los módulos prácticos, la carga horaria, la correlatividad y las referencias bibliográficas salen del texto real del programa (expediente EXP-UBA 0039745/2017). El escaneo está cortado en el margen derecho: se conservan solo los enunciados que se leen enteros. El programa no consigna cátedra. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las unidades temáticas",
+      "title": "Los aparatos del adulto enfermo",
+      "note": "El programa lista las unidades temáticas de Medicina B en orden, agrupando algunas bajo dos encabezados de aparato — Cardiovascular y Digestivo. El orden es el del texto.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "MEDICINA B — la medicina interna del adulto\n│\n├─ Relación médico-paciente · entrevista · historia clínica\n├─ Afecciones músculo-esqueléticas · autoinmunidad · dolor\n│\n├─ CARDIOVASCULAR\n│  ├─ Hipertensión arterial · 7ºJNC · consenso Braun Menéndez\n│  ├─ Cardiopatía isquémica · aterogénesis · hemodinamia\n│  ├─ Arritmias · taqui y bradiarritmias\n│  ├─ Valvulopatías · endocarditis infecciosa\n│  └─ Insuficiencia cardíaca · shock · pericardio · Chagas\n│\n├─ DIGESTIVO\n│  ├─ Patología prevalente gastrointestinal · esófago a recto\n│  └─ Hígado, vesícula, vías biliares y páncreas\n│\n├─ Nefrología · glomerulopatías · medio interno · IRA e IRC\n├─ Endocrinología · tiroides · diabetes · suprarrenal\n├─ Hematología · anemias · síndromes linfo y mieloproliferativos\n└─ Psicopatología · ansiedad · psicosis · demencia · adicciones",
+        "foot": "Temas tomados verbatim del programa. La granularidad de tiempo es solo el régimen (un cuatrimestre modular, de lunes a viernes); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-2.relacion-medico-paciente",
+          "name": "Relación Médico-Paciente, entrevista médica e historia clínica",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.afecciones-musculo-esqueleticas",
+          "name": "Afecciones músculo-esqueléticas",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.hipertension-arterial",
+          "name": "Hipertensión arterial",
+          "role": "unidad temática",
+          "tag": "cardiovascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.cardiopatia-isquemica",
+          "name": "Cardiopatía isquémica",
+          "role": "unidad temática",
+          "tag": "cardiovascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.arritmias",
+          "name": "Arritmias",
+          "role": "unidad temática",
+          "tag": "cardiovascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.valvulopatias",
+          "name": "Valvulopatías",
+          "role": "unidad temática",
+          "tag": "cardiovascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.insuficiencia-cardiaca",
+          "name": "Insuficiencia cardíaca",
+          "role": "unidad temática",
+          "tag": "cardiovascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.patologia-prevalente-gastrointestinal",
+          "name": "Patología prevalente gastrointestinal",
+          "role": "unidad temática",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.higado-vesicula-vias-biliares-pancreas",
+          "name": "Patología de hígado, vesícula, vías biliares y páncreas",
+          "role": "unidad temática",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.nefrologia",
+          "name": "Nefrología",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.endocrinologia",
+          "name": "Endocrinología",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.hematologia",
+          "name": "Hematología",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.psicopatologia",
+          "name": "Psicopatología",
+          "role": "unidad temática",
+          "tag": "clínica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Metodología de las unidades temáticas",
+      "title": "Los quince módulos, escritos desde el paciente",
+      "note": "El programa vuelve a recorrer el mismo temario, pero enunciado como quince módulos que empiezan por «El paciente con…». Es la forma práctica de la materia: no la enfermedad, sino quien la trae a la consulta.",
+      "map": {
+        "mk": "Los módulos, verbatim",
+        "tree": "El paciente en la entrevista médica\nEl paciente con síntomas y signos generales I\nEl paciente con síntomas y signos generales II · trastornos músculo esqueléticos\nEl paciente con hipertensión arterial\nEl paciente con dolor torácico anterior\nEl paciente con soplo cardíaco y/o palpitaciones\nEl paciente con disnea de causa cardíaca\nEl paciente con enfermedades del tubo digestivo\nEl paciente con ictericia\nEl paciente con nefropatía y alteraciones miccionales\nEl paciente con pérdida o ganancia de peso\nEl paciente con cambios morfológicos\nEl paciente con adenoesplenomegalia y enfermedades hematológicas\nEl paciente con púrpura\nEl paciente crónicamente enfermo y en el final de la vida",
+        "foot": "Quince módulos tomados verbatim del programa. Cada uno lleva sus objetivos y, algunos, sus destrezas y habilidades."
+      },
+      "exits": []
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, en sus dos bloques: los textos de semiología y exploración («se recomienda alguno de los siguientes libros de texto») y los tratados de medicina interna. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. El programa suma además artículos sueltos sobre cronicidad y cuidados al final de la vida (De Vito, Wagener, Wenk, Gómez Batiste, Morrison y Meier) y recomienda leer MEDICINA (Bs. As.), NEJM, The Lancet y el British Medical Journal: no son libros y no se listan acá.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-2.argente-alvarez",
+          "name": "Argente, Alvarez — Semiología Médica. Fisiopatología, Semiotecnia y Propedéutica",
+          "role": "Panamericana · 1ª ed., 4ª reimp. 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.rozman-semiologia",
+          "name": "Ciril Rozman — Semiología y Métodos de Exploración en Medicina",
+          "role": "Salvat",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.sanguinetti",
+          "name": "Lucio Sanguinetti y col. — Semiología, Semiotecnia y Medicina Interna",
+          "role": "López Libreros Editores",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.cossio-fustinoni-rospide",
+          "name": "Cossio, Fustinoni, Rospide — Semiología Médica Fisiopatológica (grandes síndromes clínicos)",
+          "role": "Eudeba · 8ª ed. 2014",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.suros",
+          "name": "Suros — Semiología Médica y Técnica Exploratoria",
+          "role": "sin edición consignada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.caino-sanchez",
+          "name": "Caino, Sánchez — Semiología de las enfermedades cardiovasculares",
+          "role": "Panamericana · 8ª ed. 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.guia-signos-y-sintomas",
+          "name": "Guía profesional de signos y síntomas",
+          "role": "McGraw-Hill Interamericana · 4ª ed. 2005",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.garcia-conde",
+          "name": "J. García Conde y col. — Patología General. Semiología Clínica y Fisiopatología",
+          "role": "McGraw-Hill Interamericana · 2ª ed. 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.felson-goodman",
+          "name": "Laurence R. Goodman — Felson. Principios de Radiología del Tórax. Un texto programado",
+          "role": "McGraw-Hill Interamericana de España · 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.dubin",
+          "name": "D. Dubin — Electrocardiografía Práctica",
+          "role": "McGraw-Hill Interamericana · 3ª ed. 2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.tranchesi",
+          "name": "João Tranchesi — El electrocardiograma normal y patológico. Nociones de Vectocardiografía",
+          "role": "Ed. Beta · 3ª ed.",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.harrison",
+          "name": "Longo, Kasper, Jameson, Fauci, Loscalzo — Harrison's Principles of Internal Medicine",
+          "role": "McGraw-Hill · 18ª ed. 2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.goldman-cecil",
+          "name": "Goldman, Schafer — Goldman's Cecil Medicine",
+          "role": "Saunders · 24ª ed. 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.cecil-goldman-tratado",
+          "name": "Cecil y Goldman — Tratado de Medicina Interna",
+          "role": "Elsevier · 24ª ed. 2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.davidson",
+          "name": "Walker, Colledge, Ralston, Penman — Davidson's Principles and Practice of Medicine",
+          "role": "Churchill Livingstone · Elsevier · 22ª ed. 2014",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-2.farreras-rozman",
+          "name": "Rozman Borstnar, Cardellach — Farreras-Rozman. Medicina Interna",
+          "role": "Elsevier · 17ª ed.",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Medicina B — Medicina 2 (Medicina Interna), EXP-UBA 0039745/2017 (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/17-Medicina%20B_0.pdf"
+  }
+}

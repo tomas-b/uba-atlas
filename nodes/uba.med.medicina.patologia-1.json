@@ -1,0 +1,214 @@
+{
+  "address": "uba.med.medicina.patologia-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "semestral · se dicta 2 veces en el año (más cursada intensiva de verano)",
+    "año": "3º año · Ciclo Biomédico",
+    "cargaHoraria": "144 horas teórico-prácticas · 75% de las actividades obligatorias son prácticas",
+    "catedra": "Departamento de Patología",
+    "programa": "Planificación de la asignatura Patología I · Programa analítico",
+    "correlativas": "para cursar: Fisiología aprobada y Bioquímica regular · Patología I aprobada habilita Patología II",
+    "unidades": 13,
+    "bibliography": 5,
+    "evaluacion": "2 pruebas parciales orales (instancia teórica y práctica) + examen final oral · 80% de asistencia"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.patologia-1",
+      "label": "Patología I"
+    }
+  ],
+  "eyebrow": "Patología I · programa (materia)",
+  "title": "Qué le pasa a la célula cuando aparece la enfermedad.",
+  "lede": "Materia semestral del ciclo biomédico de 3º año. Explica los cambios estructurales, bioquímicos y funcionales que subyacen a la enfermedad en células, tejidos y órganos: de la injuria celular y la muerte celular a la inflamación, la inmunopatología, la infección y la neoplasia. Es el puente entre las ciencias básicas y la medicina clínico-quirúrgica, y se aprende sobre todo mirando —macroscopía de piezas y microscopía de preparados. Extraída del programa analítico real de la cátedra.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "semestral",
+      "small": "144 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "13",
+      "small": "contenidos"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa analítico PDF del Departamento de Patología (texto nativo, sin OCR). Las unidades y las referencias bibliográficas salen del texto real del programa. El programa cubre únicamente Patología I (patología general); Patología II tiene su propio programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las trece unidades",
+      "note": "El eje de la materia — cada unidad, un mecanismo general de enfermedad. El programa no las agrupa en secciones: van en orden corrido, de la introducción a la neoplasia.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "PATOLOGÍA I — patología general: el puente entre lo básico y lo clínico\n│\n├─ I. Introducción · qué estudia el patólogo · especímenes y técnicas\n├─ II. Patología celular · injuria · adaptación · necrosis y apoptosis\n├─ III. Patología metabólica · glucogenosis · diabetes · pigmentos\n├─ IV. Patología nutricional · malnutrición · obesidad · déficits\n├─ V. Patología circulatoria · insuficiencia · edema · shock · trombosis\n├─ VI. Inflamación y reparación · mediadores · cicatrización\n├─ VII. Patología extracelular · matriz · colágeno · amiloide · fibrosis\n├─ VIII. Inmunopatología · hipersensibilidad I–IV · autoinmunidad · SIDA\n├─ IX. Patología infecciosa · virus · bacterias · hongos · parásitos\n├─ X. Patología genética y del desarrollo · citogenética · mendeliana\n├─ XI. Patología ambiental · tóxicos · agentes físicos · radiaciones\n├─ XII. Envejecimiento y grupos etarios · senescencia · patología perinatal\n└─ XIII. Neoplasias · benigno vs maligno · metástasis · carcinogénesis",
+        "foot": "Unidades y temas tomados verbatim del programa analítico. No hay cronograma fechado: solo el régimen (semestral, 144 hs, dictada 2 veces al año)."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.patologia-1.introduccion",
+          "name": "I. Introducción",
+          "role": "unidad I",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-celular",
+          "name": "II. Patología celular",
+          "role": "unidad II",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-metabolica",
+          "name": "III. Patología metabólica",
+          "role": "unidad III",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-nutricional",
+          "name": "IV. Patología nutricional",
+          "role": "unidad IV",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-circulatoria",
+          "name": "V. Patología circulatoria",
+          "role": "unidad V",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.inflamacion-y-reparacion",
+          "name": "VI. Inflamación y reparación",
+          "role": "unidad VI",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-extracelular",
+          "name": "VII. Patología extracelular",
+          "role": "unidad VII",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.inmunopatologia",
+          "name": "VIII. Inmunopatología",
+          "role": "unidad VIII",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-infecciosa",
+          "name": "IX. Patología infecciosa",
+          "role": "unidad IX",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-genetica-y-del-desarrollo",
+          "name": "X. Patología genética y del desarrollo",
+          "role": "unidad X",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-ambiental",
+          "name": "XI. Patología ambiental",
+          "role": "unidad XI",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.patologia-del-envejecimiento-y-grupos-etarios",
+          "name": "XII. Patología del envejecimiento y grupos etarios",
+          "role": "unidad XII",
+          "tag": "patología general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.neoplasias",
+          "name": "XIII. Neoplasias",
+          "role": "unidad XIII",
+          "tag": "patología general",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, separadas por la cátedra en sugerida y complementaria. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.patologia-1.robbins",
+          "name": "Cotran, Kumar, Collins — Robbins. Patología estructural y funcional",
+          "role": "8ª ed. · McGraw Hill-Interamericana, Madrid",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.stevens-lowe",
+          "name": "Stevens, Lowe — Anatomía Patológica",
+          "role": "2ª ed. · Harcourt, Madrid 2001",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.rubin-farber",
+          "name": "Rubin, Farber — Pathology",
+          "role": "3ª ed. · Lippincott-Raven, Philadelphia 1999",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.majno-joris",
+          "name": "Majno, Joris — Cells, tissues, and disease. Principles of general pathology",
+          "role": "Blackwell Science, USA 1996",
+          "tag": "complementaria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-1.bogliolo",
+          "name": "Brasileiro Filho — Bogliolo, Patología de las Enfermedades Regionales Latinoamericanas",
+          "role": "7ª ed. · Guanabara Koogan, Río de Janeiro 2011",
+          "tag": "complementaria",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Departamento de Patología — Planificación / programa analítico de Patología I (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-08/programa.pdf"
+  }
+}

@@ -7,7 +7,11 @@
     "plan": "Res. (CS) 2861/92",
     "titulo": "Médico/a",
     "años": 6,
-    "ciclos": ["Ciclo Biomédico", "Ciclo Clínico", "Internado Anual Rotatorio"],
+    "ciclos": [
+      "Ciclo Biomédico",
+      "Ciclo Clínico",
+      "Internado Anual Rotatorio"
+    ],
     "materias": 44,
     "correlativas": true
   },
@@ -46,7 +50,7 @@
     },
     {
       "k": "Trazadas",
-      "v": "1",
+      "v": "18",
       "small": "/ 44"
     }
   ],

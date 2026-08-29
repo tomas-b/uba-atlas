@@ -1,0 +1,276 @@
+{
+  "address": "uba.med.medicina.neurologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso de tres (3) semanas · se dicta aproximadamente 10 veces a lo largo del año lectivo",
+    "año": "4º año · Ciclo Clínico (ubicación según el plan Res. CS 2861/92)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir el examen final",
+    "catedra": "no consignada en el programa — la asignatura se dicta en múltiples centros y UDH; la frecuencia varía en cada uno (el Hospital de Clínicas dicta todos los cursos)",
+    "programa": "Programa de Neurología · CUDAP EXP-UBA 0084583/2016",
+    "evaluacion": "evaluación conceptual diaria · presentismo no menor al 80% · examen teórico/práctico sobre el paciente asignado",
+    "unidades": 23,
+    "bibliography": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.neurologia",
+      "label": "Neurología"
+    }
+  ],
+  "eyebrow": "Neurología · programa (materia)",
+  "title": "Dónde está la lesión: el sistema nervioso leído por sus signos.",
+  "lede": "Especialidad básica del ciclo clínico, tres semanas en cuarto año. El eje es el diagnóstico topográfico — obtener, del examen neurológico, la ubicación de la lesión. Recorre pares craneales, enfermedad cerebrovascular, epilepsias, movimiento, demencias, médula, músculo y nervio periférico, coma y trauma, priorizando las patologías prevalentes que una vez diagnosticadas tienen opción terapéutica urgente. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "3 semanas",
+      "small": "~10 cursos al año"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "23",
+      "small": "temas"
+    },
+    {
+      "k": "Referencias",
+      "v": "4",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 10 páginas con capa de texto, CUDAP EXP-UBA 0084583/2016). Los contenidos y las referencias bibliográficas salen del texto real del programa: tres semanas de cursada en cuarto año, correlativas Medicina A y Patología II, presentismo del 80%, práctica en sala con pacientes ambulatorios e internados y colaboración en punciones lumbares, EEG y EMG. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los temas",
+      "note": "El punto 3 del programa — una lista corrida de patologías, sin numerar ni agrupar en secciones. Cada tema pide anatomía, clínica, diagnóstico diferencial y tratamiento.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "NEUROLOGÍA — el diagnóstico de localización\n│\n├─ Pares craneales · anatomía, semiología y patología\n├─ Vascular · isquemia · hemorragias · venas y senos\n├─ Desmielinizantes · esclerosis múltiple\n├─ Epilepsias · crisis parciales y generalizadas · status\n├─ Movimiento · Parkinson · temblor · coreas · distonías\n├─ Cefaleas · migraña · racimos · neuralgias craneales\n├─ Cognición · demencias · afasias, apraxias y agnosias\n├─ Ataxias hereditarias\n├─ Neuromuscular · músculo · unión · nervio periférico · ELA\n├─ Autónomo · simpático y parasimpático\n├─ Médula · lesiones vertebromedulares · mielopatías\n├─ Tumores intracraneales · hipertensión endocraneana\n├─ Conciencia · coma · escala de Glasgow\n├─ Trauma · encefalocraneano y vertebromedular\n├─ Metabólico y sistémico · errores congénitos · medicina interna\n├─ Infecciones del sistema nervioso central\n└─ Sueño · apneas · insomnio · hipersomnias",
+        "foot": "Temas tomados del punto 3 del programa. La granularidad de tiempo es solo el régimen (curso de 3 semanas, repetido unas 10 veces al año); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurologia.pares-craneales",
+          "name": "Trastornos de los pares craneales",
+          "role": "anatomía, semiología y patología · diagnóstico topográfico",
+          "tag": "pares craneales",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.enfermedad-cerebrovascular",
+          "name": "Enfermedad cerebrovascular",
+          "role": "isquemia · trombolisis · antiagregantes y anticoagulantes",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.hemorragias-y-senos-venosos",
+          "name": "Hemorragia subaracnoidea e intraparenquimatosa. Enfermedades de venas y senos venosos",
+          "role": "diagnósticos diferenciales, tratamiento y complicaciones",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.enfermedades-desmielinizantes",
+          "name": "Enfermedades desmielinizantes. Esclerosis múltiple",
+          "role": "neuritis óptica · mielitis transversa · neuromielitis óptica",
+          "tag": "desmielinizantes",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.epilepsias",
+          "name": "Epilepsias",
+          "role": "crisis parciales y generalizadas · status epilepticus",
+          "tag": "epilepsia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.parkinson",
+          "name": "Enfermedad de Parkinson y otros parkinsonismos",
+          "role": "clínica motora y no motora · complicaciones del tratamiento",
+          "tag": "movimiento",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.trastornos-del-movimiento",
+          "name": "Otros trastornos del movimiento",
+          "role": "temblor · coreas · distonías · mioclonus · Tourette",
+          "tag": "movimiento",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.cefaleas",
+          "name": "Cefaleas",
+          "role": "migraña · racimos · tensión · neuralgias craneales",
+          "tag": "cefaleas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.demencias",
+          "name": "Demencias",
+          "role": "corticales y subcorticales · Alzheimer · vasculares",
+          "tag": "cognición",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.ataxias-hereditarias",
+          "name": "Ataxias hereditarias",
+          "role": "expansión de tripletes · herencia dominante y recesiva",
+          "tag": "hereditarias",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.musculo-y-union-neuromuscular",
+          "name": "Enfermedades del músculo y de la unión neuromuscular",
+          "role": "distrofias · miopatías · miastenia gravis · botulismo",
+          "tag": "neuromuscular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.sistema-nervioso-periferico",
+          "name": "Sistema nervioso periférico",
+          "role": "neuropatías axonales y desmielinizantes · Guillain-Barré",
+          "tag": "neuromuscular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.neuronas-motoras",
+          "name": "Enfermedad de las neuronas motoras",
+          "role": "esclerosis lateral amiotrófica · atrofia muscular progresiva",
+          "tag": "neuromuscular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.sistema-nervioso-autonomo",
+          "name": "Enfermedades del sistema nervioso autónomo",
+          "role": "simpático y parasimpático · insuficiencia autonómica",
+          "tag": "autónomo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.lesiones-vertebromedulares",
+          "name": "Lesiones vertebromedulares",
+          "role": "síndromes medulares · siringomielia · mielopatías",
+          "tag": "médula",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.tumores-intracraneales",
+          "name": "Tumores intracraneales",
+          "role": "hipertensión intracraneal · gliomas · meningiomas · linfoma primario",
+          "tag": "tumores",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.afasias-apraxias-agnosias",
+          "name": "Afasias, apraxias y agnosias",
+          "role": "Wernicke, Broca, conducción · agnosias · heminegligencia",
+          "tag": "cognición",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.coma",
+          "name": "Coma y alteraciones de la conciencia",
+          "role": "fisiopatología · escala de Glasgow · signos de herniación",
+          "tag": "conciencia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.traumatismos",
+          "name": "Traumatismos encefalocraneanos y vertebromedulares",
+          "role": "biomecánica · lesión axonal difusa · hematomas",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.errores-congenitos-del-metabolismo",
+          "name": "Errores congénitos del metabolismo",
+          "role": "Wilson · adrenoleucodistrofias · Fabry · Gaucher · Pompe",
+          "tag": "metabólico",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.manifestaciones-en-medicina-interna",
+          "name": "Manifestaciones neurológicas de las enfermedades de la medicina interna",
+          "role": "hematológicas · tejido conectivo · vasculitis · paraneoplásicos",
+          "tag": "sistémico",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.infecciones-del-snc",
+          "name": "Infecciones del sistema nervioso central",
+          "role": "meningitis · encefalitis · absceso cerebral · SIDA",
+          "tag": "infecciones",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.trastornos-del-sueno",
+          "name": "Trastornos del sueño",
+          "role": "apneas · insomnio · narcolepsia · piernas inquietas",
+          "tag": "sueño",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurologia.micheli",
+          "name": "Micheli, Fernández Pardal — Neurología",
+          "role": "2ª ed. · Médica Panamericana, Buenos Aires 2010",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.adams-victor",
+          "name": "Ropper, Samuels — Adams y Victor. Principios de Neurología",
+          "role": "9ª ed. · McGraw-Hill Interamericana, México 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.harrison",
+          "name": "Longo, Fauci, Kasper, Hauser, Jameson, Loscalzo — Harrison. Principios de Medicina Interna",
+          "role": "18ª ed. · McGraw-Hill Interamericana, México 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neurologia.biller",
+          "name": "Biller — Neurología Práctica",
+          "role": "4ª ed. · Wolters Kluwer / Lippincott Williams & Wilkins, Philadelphia 2013",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Neurología (PDF, CUDAP EXP-UBA 0084583/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/24-Neurologia_0.pdf"
+  }
+}

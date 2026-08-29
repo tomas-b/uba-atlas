@@ -1,0 +1,306 @@
+{
+  "address": "uba.med.medicina.infectologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "rotación",
+    "año": "Ciclo Clínico · especialidad básica (ubicación según el plan Res. CS 2861/92)",
+    "cargaHoraria": "80 h cátedra (clases teóricas, ateneos de casos clínicos y trabajos prácticos con pacientes)",
+    "programa": "Programa de Infectología · EXP-UBA 0022343/2017",
+    "unidades": 25,
+    "bibliography": 5,
+    "evaluacion": "examen final oral ante 2 docentes, por módulos; 80% de asistencia a las actividades de la rotación"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.infectologia",
+      "label": "Infectología"
+    }
+  ],
+  "eyebrow": "Infectología · programa (materia)",
+  "title": "El síndrome infeccioso: del agente al tratamiento.",
+  "lede": "Rotación del ciclo clínico. Arranca por lo general — epidemiología, antibióticos, vacunas, profilaxis — y después recorre el cuerpo síndrome por síndrome: fiebre de origen desconocido, septicemias, meningoencefalitis, neumonías, infecciones de piel, hepatitis, micosis, parasitosis, HIV/sida, zoonosis y transmisión sexual. Todo apunta al diagnóstico etiológico como paso previo a la terapéutica. Extraída del programa oficial de la materia.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "rotación",
+      "small": "80 h cátedra"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "25",
+      "small": "contenidos"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la materia (EXP-UBA 0022343/2017). Los 25 contenidos y las referencias bibliográficas salen del texto real del programa; las líneas de bibliografía, cortadas en el margen de ese PDF, se completaron con la copia oficial del mismo programa publicada por la Facultad (EXP-UBA 0067241/2014), de contenidos idénticos. La primera entrada de la bibliografía obligatoria no es un libro sino el contenido de las clases teóricas, y por eso no figura como puerta. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los 25 temas",
+      "note": "El programa es una lista plana de 25 contenidos, verbatim del PDF. Los agrupamientos por tag son de lectura; el programa no declara secciones.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "INFECTOLOGÍA — el síndrome infeccioso, del agente al tratamiento\n│\n├─ Generalidades · epidemiología · antibióticos · vacunas · profilaxis\n├─ Síndromes · fiebre de origen desconocido · septicemias · infecciones hospitalarias\n├─ Por aparato · sistema nervioso · respiratorio · piel y partes blandas\n│                gastrointestinal · hepatovesicular · transmisión sexual\n├─ Entidades · HIV/sida · tétanos · zoonosis · fiebres hemorrágicas\n│              micosis · enterovirosis · citomegalovirus · mononucleosis\n├─ Parasitosis · histo y hemoparasitosis · enteroparasitosis\n├─ Huésped · inmunidad alterada no HIV · oncohematológicos · trasplantados\n└─ Medicina del viajero · fiebre y diarrea del regreso",
+        "foot": "Temas tomados verbatim del programa. No hay cronograma fechado en el texto: la granularidad de tiempo es la rotación y sus 80 h cátedra."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.infectologia.conceptos-generales",
+          "name": "1. Conceptos generales",
+          "role": "contenido 1",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.antibioticos",
+          "name": "2. Antibióticos",
+          "role": "contenido 2",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.vacunas",
+          "name": "3. Vacunas",
+          "role": "contenido 3",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.profilaxis-con-antimicrobianos",
+          "name": "4. Profilaxis con antimicrobianos de las infecciones bacterianas",
+          "role": "contenido 4",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.fiebre-de-origen-desconocido",
+          "name": "5. Fiebre de origen desconocido",
+          "role": "contenido 5",
+          "tag": "síndromes",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.septicemias",
+          "name": "6. Septicemias",
+          "role": "contenido 6",
+          "tag": "síndromes",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-del-sistema-nervioso",
+          "name": "7. Infecciones del sistema nervioso",
+          "role": "contenido 7",
+          "tag": "por aparato",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-de-las-vias-respiratorias",
+          "name": "8. Infecciones de las vías respiratorias",
+          "role": "contenido 8",
+          "tag": "por aparato",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.mononucleosis-infecciosa",
+          "name": "9. Mononucleosis infecciosa",
+          "role": "contenido 9",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-de-la-piel-y-tejidos-blandos",
+          "name": "10. Infecciones de la piel y tejidos blandos",
+          "role": "contenido 10",
+          "tag": "por aparato",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-hospitalarias",
+          "name": "11. Infecciones hospitalarias",
+          "role": "contenido 11",
+          "tag": "síndromes",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.enfermedad-por-hiv",
+          "name": "12. Enfermedad por HIV (sida)",
+          "role": "contenido 12",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.tetanos",
+          "name": "13. Tétanos",
+          "role": "contenido 13",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.zoonosis",
+          "name": "14. Zoonosis",
+          "role": "contenido 14",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.fiebres-hemorragicas",
+          "name": "15. Fiebres hemorrágicas",
+          "role": "contenido 15",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.histoparasitosis-y-hemoparasitosis",
+          "name": "16. Histoparasitosis y hemoparasitosis",
+          "role": "contenido 16",
+          "tag": "parasitosis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-gastrointestinales",
+          "name": "17. Infecciones gastrointestinales",
+          "role": "contenido 17",
+          "tag": "por aparato",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-hepatovesiculares",
+          "name": "18. Infecciones hepatovesiculares",
+          "role": "contenido 18",
+          "tag": "por aparato",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-micoticas",
+          "name": "19. Infecciones micóticas",
+          "role": "contenido 19",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.enterovirosis",
+          "name": "20. Enterovirosis",
+          "role": "contenido 20",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.citomegalovirus",
+          "name": "21. Citomegalovirus",
+          "role": "contenido 21",
+          "tag": "entidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.enteroparasitosis",
+          "name": "22. Enteroparasitosis",
+          "role": "contenido 22",
+          "tag": "parasitosis",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.medicina-del-viajero",
+          "name": "23. Medicina del viajero",
+          "role": "contenido 23",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-en-alteraciones-de-la-inmunidad",
+          "name": "24. Infecciones en pacientes con alteraciones de la inmunidad no relacionadas con el HIV",
+          "role": "contenido 24",
+          "tag": "huésped",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.infecciones-de-transmision-sexual",
+          "name": "25. Infecciones de transmisión sexual",
+          "role": "contenido 25",
+          "tag": "por aparato",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, con su carácter (obligatoria / recomendada / optativa). Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.infectologia.compendio-de-infectologia",
+          "name": "Palmieri, Corti, Laube, Negroni — Compendio de Infectología",
+          "role": "1ª ed. · 2014",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.palmieri-enfermedades-infecciosas",
+          "name": "Palmieri, Laube, Negroni, Corti — Enfermedades Infecciosas",
+          "role": "3ª ed. · McGraw-Hill Interamericana 2009",
+          "tag": "recomendada",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.farreras-rozman",
+          "name": "Farreras-Rozman — Medicina Interna",
+          "role": "17ª ed. · Elsevier, España 2012",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.corti-hiv-sida",
+          "name": "Corti — Profilaxis y tratamiento de las infecciones oportunistas, neoplasias y otras complicaciones de la enfermedad HIV/sida",
+          "role": "2ª ed. · 2013",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.infectologia.harrison",
+          "name": "Harrison — Principios de Medicina Interna",
+          "role": "18ª ed. · McGraw-Hill, España 2012",
+          "tag": "optativa",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Infectología — contenidos de la materia (PDF, EXP-UBA 0022343/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/27-Enfermedades%20Infecciosas_0.pdf"
+  },
+  "sources": [
+    {
+      "label": "fmed.uba.ar · 27-Enfermedades Infecciosas (programa 2017, EXP-UBA 0022343/2017)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/27-Enfermedades%20Infecciosas_0.pdf"
+    },
+    {
+      "label": "fmed.uba.ar · Programa Infectología (copia oficial 2014, EXP-UBA 0067241/2014 — bibliografía completa)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-10/Programa%20Infectologia.pdf"
+    }
+  ]
+}

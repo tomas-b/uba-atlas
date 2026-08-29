@@ -1,0 +1,151 @@
+{
+  "address": "uba.med.medicina.nutricion",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "rotación · duración 2 semanas",
+    "año": "Ciclo Clínico · especialidad básica (ubicación según el plan Res. CS 2861/92) · se cursa durante el 2do o 3er año de la UDH",
+    "cargaHoraria": "no consignada en el programa; 80% de asistencia obligatoria a seminarios y trabajos prácticos",
+    "catedra": "no consignada; se dicta en diferentes sedes (UDH) en forma simultánea, con rotaciones todos los meses, rotación vespertina y curso de verano",
+    "programa": "Programa de Nutrición · EXP-UBA: 0065157/2016",
+    "correlativas": "para cursar y para rendir final: Medicina A, Patología II",
+    "evaluacion": "examen oral al finalizar la cursada",
+    "modulos": 4,
+    "bibliography": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.nutricion",
+      "label": "Nutrición"
+    }
+  ],
+  "eyebrow": "Nutrición · programa (materia)",
+  "title": "Comer como problema clínico: de la dieta normal a la diabetes.",
+  "lede": "Rotación de dos semanas del ciclo clínico. Arranca por la alimentación normal — leyes de la nutrición, macro y micronutrientes, requerimientos por etapa biológica, cómo se prescribe un plan alimentario — y desde ahí baja a la patología: aparato digestivo, desnutrición y apoyo nutricional, factores de riesgo cardiometabólicos, diabetes y sus complicaciones. Se aprende midiendo: peso, talla, cintura, monofilamento, glucómetro. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "rotación",
+      "small": "2 semanas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Módulos",
+      "v": "4",
+      "small": "unidades"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial en PDF (EXP-UBA: 0065157/2016, 8 páginas, capa de texto legible). Los módulos, los contenidos y las referencias bibliográficas salen del texto real del programa: cuatro módulos con objetivos y contenidos propios, correlativas Medicina A y Patología II, evaluación por examen oral, duración de dos semanas dentro de la UDH. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los cuatro módulos",
+      "title": "De la alimentación normal a la enfermedad metabólica",
+      "note": "El programa está organizado en módulos, y para cada uno se plantean objetivos y contenidos. Cada módulo es una unidad del programa.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "NUTRICIÓN — la alimentación como herramienta médica\n│\n├─ Módulo 1 · Nutrición normal\n│    leyes de la nutrición · macro y micronutrientes · fibras\n│    requerimientos y recomendaciones · fórmula calórica\n│    situaciones biológicas: niño, embarazada, anciano\n│    régimen normal · dietas normo e hipocalóricas\n│\n├─ Módulo 2 · Patología digestiva, desnutrición y apoyo nutricional\n│    dieta blanda gástrica e intestinal · malabsorción · celiaquía\n│    desnutrición: marasmo-kwashiorkor · caquexia · sarcopenia\n│    metabolismo de la inanición y de la injuria\n│    alimentación enteral y parenteral\n│\n├─ Módulo 3 · Factores de riesgo cardiovasculares y metabólicos\n│    dislipemias · obesidad · síndrome metabólico\n│    aterogénesis: disfunción endotelial · placa · trombogénesis\n│\n└─ Módulo 4 · Diabetes\n     diagnóstico y clasificación · plan de alimentación · índice glucémico\n     insulinoterapia · antidiabéticos orales e inyectables\n     complicaciones agudas: cetoacidosis · hiperosmolar · hipoglucemia\n     complicaciones micro y macrovasculares · pie diabético",
+        "foot": "Temas tomados verbatim del programa. La granularidad de tiempo es la rotación (2 semanas); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.nutricion.nutricion-normal",
+          "name": "1. Nutrición normal",
+          "role": "módulo 1",
+          "tag": "normal",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.patologia-digestiva-desnutricion-apoyo",
+          "name": "2. Patología digestiva, desnutrición y apoyo nutricional",
+          "role": "módulo 2",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.factores-de-riesgo-cardiovasculares-y-metabolicos",
+          "name": "3. Factores de riesgo cardiovasculares y metabólicos",
+          "role": "módulo 3",
+          "tag": "riesgo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.diabetes",
+          "name": "4. Diabetes",
+          "role": "módulo 4",
+          "tag": "diabetes",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa: tres obligatorias y dos bajo «otros libros». El programa suma además material optativo que no es libro — sitios del Ministerio de Salud, consensos de la SAD y la SAC, documentos en PDF sobre nutrición enteral y parenteral (SENPE), y las Encuestas Nacionales de Nutrición y Salud (ENNyS 2006, 2015) y de Factores de Riesgo (II ENFR 2009). Cada libro es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.nutricion.guia-de-grado",
+          "name": "Guía de Grado Asignatura Nutrición",
+          "role": "obligatoria · 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.clinica-y-terapeutica",
+          "name": "González Infantino, De Girolami y colab. — Clínica y Terapéutica en la Nutrición del adulto",
+          "role": "obligatoria · El Ateneo, 2008",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.terapeutica-de-la-diabetes",
+          "name": "Ruiz M. y colab. — Terapéutica de la Diabetes",
+          "role": "obligatoria · Akadia, 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.valoracion-nutricional",
+          "name": "De Girolami D. — Fundamentos de valoración nutricional y composición corporal",
+          "role": "otros libros · El Ateneo, Buenos Aires, 2003 · 504 p",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.nutricion.lineamientos-cuidado-nutricional",
+          "name": "Torresani M. E. — Lineamientos para el cuidado nutricional",
+          "role": "otros libros · Eudeba, Buenos Aires, 2003",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Nutrición (PDF) · EXP-UBA 0065157/2016",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/16-Nutricion_0.pdf"
+  }
+}

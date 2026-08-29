@@ -1,0 +1,756 @@
+{
+  "address": "uba.med.medicina.histologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "anual",
+    "año": "1º año · Ciclo Biomédico",
+    "cargaHoraria": "250 horas",
+    "catedra": "Primera, Segunda y Tercera Cátedra (Unidades Académicas del Departamento de Histología, Biología Celular, Embriología y Genética)",
+    "programa": "EXP-UBA 0066714/2017",
+    "areas": 4,
+    "unidades": 56,
+    "correlatividades": "todas las asignaturas del Ciclo Básico Común aprobadas",
+    "bibliography": 36
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.histologia",
+      "label": "Histología, Biología Celular, Embriología y Genética"
+    }
+  ],
+  "eyebrow": "Histología, Biología Celular, Embriología y Genética · programa (materia)",
+  "title": "Cuatro miradas sobre lo mismo: la célula, el tejido, el embrión, el gen.",
+  "lede": "Materia anual de primer año del ciclo biomédico, partida en cuatro áreas que se dictan como una sola asignatura. Histología recorre los tejidos y órganos al microscopio; Biología Celular baja a la membrana, el núcleo y el ciclo celular; Embriología sigue el organismo desde la fecundación hasta el nacimiento; Genética cierra con mutaciones, cromosomopatías y patrones de herencia. Extraída del programa oficial del Departamento.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "anual",
+      "small": "250 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "56",
+      "small": "4 áreas"
+    },
+    {
+      "k": "Referencias",
+      "v": "36",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 48 páginas, EXP-UBA 0066714/2017). Las cuatro áreas, sus unidades y sus bibliografías salen del texto real del programa: cursada anual de 250 horas, correlatividad de todo el CBC aprobado, trabajos prácticos y talleres de discusión obligatorios, teóricas y seminarios opcionales. La Primera Cátedra dicta Histología y Embriología en forma cuatrimestral intensiva; la Segunda y la Tercera, en forma anual. Biología Celular va en la primera mitad del año y Genética en la segunda, en todas las cátedras. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Área Histología e Histofisiología · unidades 1–18",
+      "title": "Los tejidos al microscopio",
+      "note": "Del microscopio y la técnica histológica a los sistemas del cuerpo, tejido por tejido.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.histologia.hist-microscopio-tecnica-histologica",
+          "name": "1. Microscopio · Técnica histológica · Células y tejidos",
+          "role": "unidad 1",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-tejido-epitelial",
+          "name": "2. Tejido epitelial",
+          "role": "unidad 2",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-tejido-conectivo",
+          "name": "3. Histofisiología del tejido conectivo",
+          "role": "unidad 3",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-histofisiologia-esqueletica",
+          "name": "4. Histofisiología esquelética",
+          "role": "unidad 4",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-sangre-y-hemopoyesis",
+          "name": "5. Sangre y hemopoyesis",
+          "role": "unidad 5",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-histofisiologia-muscular",
+          "name": "6. Histofisiología muscular",
+          "role": "unidad 6",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-histofisiologia-cardiovascular",
+          "name": "7. Histofisiología cardiovascular",
+          "role": "unidad 7",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-sistema-linfatico",
+          "name": "8. Sistema linfático",
+          "role": "unidad 8",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-sistema-nervioso",
+          "name": "9. Sistema nervioso",
+          "role": "unidad 9",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-histofisiologia-respiratoria",
+          "name": "10. Histofisiología respiratoria",
+          "role": "unidad 10",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-aparato-urinario",
+          "name": "11. Histofisiología del aparato urinario",
+          "role": "unidad 11",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-tubo-digestivo",
+          "name": "12. Histofisiología del tubo digestivo",
+          "role": "unidad 12",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-hepato-pancreatica",
+          "name": "13. Histofisiología hepato-pancreática",
+          "role": "unidad 13",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-piel",
+          "name": "14. Histofisiología de la piel",
+          "role": "unidad 14",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-sistema-endocrino",
+          "name": "15. Sistema endocrino",
+          "role": "unidad 15",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-reproductor-femenino",
+          "name": "16. Sistema reproductor femenino",
+          "role": "unidad 16",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-reproductor-masculino",
+          "name": "17. Sistema reproductor masculino",
+          "role": "unidad 17",
+          "tag": "histología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hist-receptores-sensoriales",
+          "name": "18. Receptores sensoriales",
+          "role": "unidad 18",
+          "tag": "histología",
+          "kind": "unit"
+        }
+      ],
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "HISTOLOGÍA, BIOLOGÍA CELULAR, EMBRIOLOGÍA Y GENÉTICA — cuatro áreas, una asignatura\n│\n├─ Histología e Histofisiología · u. 1–18 · tejidos, órganos y sistemas al microscopio\n├─ Biología Celular · u. 1–11 · membrana, núcleo, endomembranas, ciclo celular\n├─ Biología del Desarrollo y Embriología · u. 1–19 · de la fecundación al nacimiento\n└─ Genética · u. 1–8 · genoma, mutaciones, cromosomopatías, herencia",
+        "foot": "Unidades tomadas del programa. La granularidad de tiempo es el régimen (anual, 250 hs) y el reparto por mitades de año que declara el programa; no hay cronograma fechado."
+      }
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Biología Celular · unidades 1–11",
+      "title": "La célula por dentro",
+      "note": "Se dicta en la primera mitad del año en todas las cátedras.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.histologia.celular-organizacion-de-la-celula",
+          "name": "1. Organización estructural y molecular de la célula",
+          "role": "unidad 1",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-membrana-plasmatica",
+          "name": "2. Membrana plasmática",
+          "role": "unidad 2",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-citosol-y-citoesqueleto",
+          "name": "3. Citosol y citoesqueleto",
+          "role": "unidad 3",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-endomembranas",
+          "name": "4. Sistema de endomembranas",
+          "role": "unidad 4",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-nucleo-interfasico",
+          "name": "5. El núcleo interfásico y los ácidos nucleicos. Cromatina y estructura cromosómica. El nucléolo",
+          "role": "unidad 5",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-genoma-y-transcripcion",
+          "name": "6. El genoma humano y su estructura. Transcripción y procesamiento de los distintos tipos de ARN precursores",
+          "role": "unidad 6",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-codigo-genetico-y-ribosomas",
+          "name": "7. Código genético. Ribosomas, síntesis, funcionalidad y renovación de proteínas",
+          "role": "unidad 7",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-regulacion-de-la-expresion-genica",
+          "name": "8. Regulación de la expresión génica en eucariontes y procariontes",
+          "role": "unidad 8",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-mitocondrias-y-peroxisomas",
+          "name": "9. La transducción de energía y las mitocondrias. Los peroxisomas",
+          "role": "unidad 9",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-ciclo-celular",
+          "name": "10. Ciclo celular. Mitosis y meiosis. Regulación del ciclo celular y de la proliferación celular",
+          "role": "unidad 10",
+          "tag": "biología celular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.celular-metodologias-de-estudio",
+          "name": "11. Metodologías de estudio en biología celular y molecular",
+          "role": "unidad 11",
+          "tag": "biología celular",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Biología del Desarrollo y Embriología · unidades 1–19",
+      "title": "De la fecundación al nacimiento",
+      "note": "Cuatrimestral e intensiva en la Primera Cátedra; anual en la Segunda y la Tercera.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.histologia.embrio-conceptos-generales",
+          "name": "1. Conceptos generales",
+          "role": "unidad 1",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-fecundacion",
+          "name": "2. Fecundación",
+          "role": "unidad 2",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-segmentacion",
+          "name": "3. Período de segmentación",
+          "role": "unidad 3",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-periodo-de-implantacion",
+          "name": "4. Período de implantación",
+          "role": "unidad 4",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-gastrulacion",
+          "name": "5. Período de gastrulación",
+          "role": "unidad 5",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-periodo-somitico",
+          "name": "6. Período somítico",
+          "role": "unidad 6",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-implantacion-y-placentacion",
+          "name": "7. Implantación y placentación",
+          "role": "unidad 7",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-contencion-neurosensorial",
+          "name": "8. Desarrollo del sistema de la contención neurosensorial",
+          "role": "unidad 8",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-sistema-esqueletico-y-miembros",
+          "name": "9. Sistema esquelético y miembros",
+          "role": "unidad 9",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-cardiovascular",
+          "name": "10. Desarrollo del sistema cardiovascular",
+          "role": "unidad 10",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-sanguineo",
+          "name": "11. Desarrollo del sistema sanguíneo",
+          "role": "unidad 11",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-digestivo-y-respiratorio",
+          "name": "12. Desarrollo de los aparatos digestivo y respiratorio",
+          "role": "unidad 12",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-urinario",
+          "name": "13. Desarrollo del aparato urinario",
+          "role": "unidad 13",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-genital",
+          "name": "14. Desarrollo del aparato genital",
+          "role": "unidad 14",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-endocrino",
+          "name": "15. Desarrollo del sistema endocrino",
+          "role": "unidad 15",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-nervioso",
+          "name": "16. Desarrollo del sistema nervioso",
+          "role": "unidad 16",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-de-los-sentidos",
+          "name": "17. Desarrollo del sistema de los sentidos",
+          "role": "unidad 17",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-desarrollo-tegumentario",
+          "name": "18. Desarrollo del sistema tegumentario",
+          "role": "unidad 18",
+          "tag": "embriología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.embrio-anomalias-congenitas",
+          "name": "19. Anomalías congénitas. Diagnóstico prenatal",
+          "role": "unidad 19",
+          "tag": "embriología",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Área Genética · unidades 1–8",
+      "title": "La herencia y su variación",
+      "note": "Se dicta en la segunda mitad del año en todas las cátedras.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.histologia.genetica-genoma-humano",
+          "name": "1. Genoma humano",
+          "role": "unidad 1",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-tecnicas-de-biologia-molecular",
+          "name": "2. Técnicas de biología molecular",
+          "role": "unidad 2",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-mutaciones",
+          "name": "3. Mutaciones",
+          "role": "unidad 3",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-herencia-monogenica",
+          "name": "4. Patrones de herencia monogénica clásica",
+          "role": "unidad 4",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-cromosomopatias",
+          "name": "5. Cromosomopatías",
+          "role": "unidad 5",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-herencia-no-clasica",
+          "name": "6. Patrones de herencia no clásica",
+          "role": "unidad 6",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-herencia-multifactorial",
+          "name": "7. Herencia multifactorial",
+          "role": "unidad 7",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.histologia.genetica-genetica-sociedad-y-etica",
+          "name": "8. Genética, sociedad y aspectos éticos",
+          "role": "unidad 8",
+          "tag": "genética",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, agrupadas por área en el original (textos básicos, atlas y textos de consulta). Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.histologia.brusco",
+          "name": "Brusco, López, Loidl — Histología Médico-Práctica",
+          "role": "1ª ed. · Elsevier 2014",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.eynard",
+          "name": "Eynard, Valentich, Rovasio — Histología y Embriología del ser humano",
+          "role": "4ª ed. · Médica Panamericana 2008",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.geneser",
+          "name": "Geneser, Bruel, Christensen, Tranum-Jensen, Qvortrup — Histología",
+          "role": "4ª ed. · Médica Panamericana 2015",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.junqueira",
+          "name": "Junqueira, Carneiro — Histología Básica. Texto y Atlas",
+          "role": "12ª ed. · Médica Panamericana",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.kierszenbaum",
+          "name": "Kierszenbaum — Histología y Biología Celular. Introducción a la anatomía patológica",
+          "role": "Elsevier 2008",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.pecci-saavedra",
+          "name": "Pecci Saavedra, Pellegrino de Iraldi, Vilar — Histología Médica",
+          "role": "López Editores",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.ross-pawlina",
+          "name": "Ross, Pawlina — Histología. Texto y Atlas",
+          "role": "6ª ed. Panamericana 2012 · 7ª ed. Wolters Kluwer 2015",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.sobotta-histologia",
+          "name": "Sobotta (Welsch, Deller) — Histología",
+          "role": "3ª ed. · Médica Panamericana 2014",
+          "tag": "histología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.boya-vegue",
+          "name": "Boya Vegue — Atlas de Histología y Organografía Microscópica",
+          "role": "3ª ed. · Médica Panamericana 2010",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.di-fiore",
+          "name": "Di Fiore — Atlas de Histología Normal",
+          "role": "7ª ed. · El Ateneo 1981",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.geneser-atlas",
+          "name": "Geneser — Atlas de Histología (fotos)",
+          "role": "Médica Panamericana 1992",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.gartner-hiatt",
+          "name": "Gartner, Hiatt — Atlas Color de Histología",
+          "role": "5ª ed. · Médica Panamericana 2011",
+          "tag": "atlas",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.alberts-introduccion",
+          "name": "Alberts y col. — Introducción a la Biología Celular",
+          "role": "3ª ed. · Médica Panamericana 2011",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.alberts-biologia-molecular",
+          "name": "Alberts y col. — Biología Molecular de la Célula",
+          "role": "5ª ed. 2014 · 6ª ed. 2016 · Omega",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.cooper-hausman",
+          "name": "Cooper, Hausman — La Célula",
+          "role": "6ª ed. · Marbán Libros 2014/2015",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.karp",
+          "name": "Karp — Biología Celular y Molecular",
+          "role": "4ª ed. · McGraw-Hill 2006",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.lodish",
+          "name": "Lodish y col. — Biología Celular y Molecular",
+          "role": "7ª ed. · Médica Panamericana 2016",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.luque",
+          "name": "Luque — Biología Molecular e Ingeniería Genética",
+          "role": "Harcourt 2001",
+          "tag": "biología celular",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.carlson",
+          "name": "Carlson — Embriología Humana y Biología del Desarrollo",
+          "role": "5ª ed. · Elsevier Mosby 2014",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.flores-embriologia",
+          "name": "Flores, V. — Embriología Humana. Bases moleculares y celulares de la histogénesis, la morfogénesis y las alteraciones del desarrollo",
+          "role": "Médica Panamericana 2015",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.moore-persaud",
+          "name": "Moore, Persaud — Embriología Clínica",
+          "role": "9ª ed. · Elsevier 2013",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.langman-sadler",
+          "name": "Langman, Sadler — Embriología Médica",
+          "role": "11ª ed. · Lippincott, Williams & Wilkins 2010",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.larsen",
+          "name": "Larsen — Embriología Humana",
+          "role": "3ª ed. · Elsevier Science 2003",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.adler",
+          "name": "Adler, R. — Biología del Desarrollo y Malformaciones Congénitas",
+          "role": "El Ateneo 1974",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.hamilton-boyd-mossman",
+          "name": "Hamilton, Boyd, Mossman — Embriología Humana",
+          "role": "4ª ed. · Interamericana",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.gilbert",
+          "name": "Gilbert, Scott — Biología del Desarrollo",
+          "role": "7ª ed. · Médica Panamericana 2006",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.gomez-dumm",
+          "name": "Gómez Dumm — Embriología Humana. Atlas y texto",
+          "role": "El Ateneo 2003",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.moore-atlas",
+          "name": "Moore, K. — Atlas color de Embriología Clínica",
+          "role": "Médica Panamericana",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.flores-fecundacion",
+          "name": "Flores, V. — Bases biológicas y moleculares de la Fecundación",
+          "role": "López Libreros Editores",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.wolpert",
+          "name": "Wolpert y colaboradores — Principios del desarrollo",
+          "role": "3ª ed. · Médica Panamericana 2010",
+          "tag": "embriología",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.emery-turnpenny",
+          "name": "Emery's (Turnpenny) — Elementos de Genética Médica",
+          "role": "13ª ed. · Elsevier 2009",
+          "tag": "genética",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.jorde",
+          "name": "Jorde, Carey, Bamshad — Genética Médica",
+          "role": "4ª ed. 2011 · 5ª ed. 2017 · Elsevier",
+          "tag": "genética",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.solari",
+          "name": "Solari, A. — Genética Humana. Fundamentos y aplicaciones en medicina",
+          "role": "4ª ed. · Panamericana 2011",
+          "tag": "genética",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.thompson",
+          "name": "Thompson & Thompson (Nussbaum) — Genética en medicina",
+          "role": "7ª ed. · Elsevier 2010",
+          "tag": "genética",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.lewin-genes",
+          "name": "Lewin (Krebs, Goldstein, Kilpatrick) — Genes. Fundamentos",
+          "role": "2ª ed. · Panamericana 2013",
+          "tag": "genética",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.histologia.strachan",
+          "name": "Strachan, T. — Genética humana",
+          "role": "3ª ed. · McGraw-Hill Interamericana 2005",
+          "tag": "genética",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Histología, Biología Celular, Embriología y Genética (PDF, EXP-UBA 0066714/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/02-Histologia,%20Biologia%20Celular,%20Embriologia%20y%20Genetica_0.pdf"
+  }
+}

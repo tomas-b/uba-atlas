@@ -1,0 +1,191 @@
+{
+  "address": "uba.med.medicina.quimica-biologica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "dos cuatrimestres",
+    "cargaHoraria": "124 hs obligatorias + 124 hs de teóricas",
+    "cuatrimestre": "tercer cuatrimestre de la carrera (2º año), junto con Fisiología",
+    "catedra": "Dpto. de Bioquímica",
+    "unidades": 8,
+    "correlativas": "Para cursar: alumno regular de Medicina, Histología, Biología Celular, Embriología y Genética aprobadas, y regularidad de Anatomía vigente. Para rendir: esas mismas más Anatomía aprobada.",
+    "expediente": "CUDAP EXP-UBA 0043596/2014"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.quimica-biologica",
+      "label": "Química Biológica"
+    }
+  ],
+  "eyebrow": "Química Biológica · programa (materia)",
+  "title": "De qué está hecho el cuerpo y cómo quema su combustible.",
+  "lede": "La bioquímica del ciclo biomédico. Va de la molécula a la vía: proteínas, membranas y enzimas primero; después la energía de la mitocondria, el ADN y la señal intracelular, y por último los tres metabolismos —hidratos, lípidos, aminoácidos— integrados y regulados. Cada unidad cierra en la clínica: infarto, diabetes, gota, Alzheimer, ictericia.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 cuatrim.",
+      "small": "124 hs oblig."
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "programa"
+    },
+    {
+      "k": "Referencias",
+      "v": "7",
+      "small": "libros"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción (OCR) desde el programa analítico protocolizado de la Facultad de Medicina — expediente CUDAP EXP-UBA 0043596/2014. El programa se titula Química Biológica pero el texto llama a la materia Bioquímica: es la misma asignatura, dictada por el Dpto. de Bioquímica, cursada en el tercer cuatrimestre de la carrera junto con Fisiología. Las ocho unidades y las referencias bibliográficas salen del texto real del programa. El programa lista además, como cuarta obra de consulta, material editado por docentes del Dpto. de Bioquímica, sin título ni autor — no citable como libro. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden — de la macromolécula al metabolismo integrado.",
+      "map": {
+        "mk": "El programa, en 8 unidades",
+        "tree": "QUÍMICA BIOLÓGICA — de la molécula a la vía metabólica\n│\n├─ Unidad I · Bioquímica de macromoléculas · proteínas · membranas\n├─ Unidad II · Bioenergética, enzimas y bioquímica mitocondrial\n├─ Unidad III · Biología Molecular I · ácidos nucleicos · señalización\n├─ Unidad IV · Biología Molecular II · aminoácidos · receptores\n├─ Unidad V · Métodos de laboratorio en bioquímica médica\n├─ Unidad VI · Metabolismo de los hidratos de carbono\n├─ Unidad VII · Metabolismo de lípidos\n└─ Unidad VIII · Bioquímica integrada · regulación del metabolismo",
+        "foot": "Títulos de unidad verbatim del programa analítico. La granularidad de tiempo es solo la duración (dos cuatrimestres, 124 hs obligatorias); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.quimica-biologica.macromoleculas",
+          "name": "Bioquímica de macromoléculas",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.bioenergetica-enzimas",
+          "name": "Bioenergética, enzimas y bioquímica mitocondrial",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.biologia-molecular-1",
+          "name": "Biología Molecular I: ácidos nucleicos y señalización intracelular",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.biologia-molecular-2",
+          "name": "Biología Molecular II: proteínas, aminoácidos y sus derivados. Las proteínas como receptores",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.metodos-laboratorio",
+          "name": "Métodos de laboratorio en bioquímica médica",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.hidratos-de-carbono",
+          "name": "Metabolismo de los hidratos de carbono",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.lipidos",
+          "name": "Metabolismo de lípidos",
+          "role": "Unidad VII",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.bioquimica-integrada",
+          "name": "Bioquímica integrada. Regulación del metabolismo",
+          "role": "Unidad VIII",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa: cuatro textos de bibliografía principal y tres de consulta. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.quimica-biologica.stryer",
+          "name": "Stryer — Bioquímica",
+          "role": "4ª ed. · Reverté",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.harper",
+          "name": "Murray, Granner, Mayes, Rodwell — Bioquímica de Harper",
+          "role": "15ª ed. castellano · El Manual Moderno",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.devlin",
+          "name": "Devlin — Bioquímica. Libro de texto con aplicaciones clínicas",
+          "role": "4ª ed. · Reverté",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.lehninger",
+          "name": "Lehninger — Principios de Bioquímica",
+          "role": "4ª ed. · Omega",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.montgomery",
+          "name": "Montgomery, Conway, Spector, Chappell — Bioquímica",
+          "role": "de consulta · Harcourt Brace",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.podesta",
+          "name": "Ernesto J. Podestá — La razón de las hormonas",
+          "role": "de consulta · Colección Ciencia Joven · EUDEBA",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.quimica-biologica.pisarev",
+          "name": "Mario Pisarev y col. — Tratado Argentino de Tiroides",
+          "role": "de consulta · e-book",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Química Biológica / Bioquímica (PDF, EXP-UBA 0043596/2014)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/05-Bioquimica_0.pdf"
+  }
+}

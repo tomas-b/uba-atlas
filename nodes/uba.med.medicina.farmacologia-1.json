@@ -1,0 +1,237 @@
+{
+  "address": "uba.med.medicina.farmacologia-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 horas",
+    "cuatrimestre": "se dicta en el primero y en el segundo",
+    "año": "3º · Ciclo Biomédico",
+    "catedra": "Departamento de Toxicología y Farmacología — se dicta en tres cátedras",
+    "unidades": 15,
+    "correlativas": [
+      "Fisiología y Biofísica",
+      "Química Biológica"
+    ],
+    "bibliography": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.farmacologia-1",
+      "label": "Farmacología I"
+    }
+  ],
+  "eyebrow": "Farmacología I · programa (materia)",
+  "title": "Qué le hace una droga al cuerpo, y el cuerpo a la droga.",
+  "lede": "Materia cuatrimestral del ciclo biomédico, 3er año. Arranca por las dos preguntas base —farmacocinética (absorción, distribución, biotransformación, excreción) y farmacodinamia (receptores, curvas dosis-respuesta)— y desde ahí baja a la terapéutica del sistema nervioso autónomo, el dolor, la inflamación, el sistema endócrino y la anestesia. Extraída del programa real del Departamento de Toxicología y Farmacología.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs"
+    },
+    {
+      "k": "Unidades",
+      "v": "15",
+      "small": "temáticas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "3",
+      "small": "misma asignatura"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa PDF del Departamento de Toxicología y Farmacología (agosto de 2018). Unidades, correlatividades, carga horaria y bibliografía salen del texto real del programa. La asignatura se dicta en tres cátedras con régimen distinto de evaluación; el programa es común. Para cursarla hay que tener aprobadas Fisiología y Biofísica y Química Biológica, y según el plan (Res. CS 2861/92) aprobarla es requisito para entrar al Ciclo Clínico. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 15 unidades temáticas",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden: primero los principios generales, después la farmacología por sistema.",
+      "map": {
+        "mk": "El programa, en 15 unidades",
+        "tree": "FARMACOLOGÍA I — bases generales de la terapéutica\n│\n├─ 1 · Farmacocinética I · absorción, distribución, biotransformación, excreción\n├─ 2 · Farmacocinética II · curvas concentración-tiempo · biodisponibilidad · acumulación\n├─ 3 · Farmacodinamia I · curvas dosis-respuesta · agonistas y antagonistas\n├─ 4 · Farmacodinamia II · familias de receptores · mecanismos adaptativos\n├─ 5 · Farmacología clínica · fases · ensayos · farmacovigilancia · prescripción\n├─ 6 · Neurotransmisión general · sistema nervioso autónomo\n├─ 7 · Neurotransmisión colinérgica y su modulación farmacológica\n├─ 8 · Farmacología adrenérgica y su modulación farmacológica\n├─ 9 · Tiroides · hipoglucemiantes · drogas para la obesidad\n├─ 10 · Hormonas sexuales · hormona de crecimiento · calcio y fósforo · vitaminas\n├─ 11 · Prostaglandinas y antinflamatorios no esteroideos\n├─ 12 · Glucocorticoides y drogas para el tratamiento de la gota\n├─ 13 · Opiáceos · vías del dolor · morfina · antagonistas\n├─ 14 · Anestésicos locales\n└─ 15 · Anestésicos generales y relajantes musculares periféricos",
+        "foot": "Unidades tomadas verbatim del programa. El texto anuncia «las 14 unidades temáticas» pero enumera 15 (1 a 15): se listan las 15 realmente presentes. Sin cronograma fechado; la única granularidad de tiempo es el régimen (cuatrimestral, 96 hs)."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacocinetica-1",
+          "name": "Farmacocinética I",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacocinetica-2",
+          "name": "Farmacocinética II",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacodinamia-1",
+          "name": "Farmacodinamia I",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacodinamia-2",
+          "name": "Farmacodinamia II",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacologia-clinica",
+          "name": "Farmacología clínica",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.neurotransmision-general",
+          "name": "Neurotransmisión general",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.neurotransmision-colinergica",
+          "name": "Neurotransmisión colinérgica y su modulación farmacológica",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.farmacologia-adrenergica",
+          "name": "Farmacología adrenérgica y su modulación farmacológica",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.tiroides-hipoglucemiantes-obesidad",
+          "name": "Farmacología de la tiroides, hipoglucemiantes, drogas utilizadas en la obesidad",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.hormonas-sexuales-calcio-vitaminas",
+          "name": "Hormonas sexuales, hormona de crecimiento, metabolismo del calcio y del fósforo, vitaminas",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.prostaglandinas-aine",
+          "name": "Prostaglandinas y antinflamatorios no esteroideos",
+          "role": "Unidad 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.glucocorticoides-gota",
+          "name": "Farmacología de los glucocorticoides y de las drogas para el tratamiento de la gota",
+          "role": "Unidad 12",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.opiaceos",
+          "name": "Opiáceos",
+          "role": "Unidad 13",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.anestesicos-locales",
+          "name": "Farmacología de los anestésicos locales",
+          "role": "Unidad 14",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.anestesicos-generales-relajantes",
+          "name": "Anestésicos generales y relajantes musculares periféricos",
+          "role": "Unidad 15",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. La última entrada del programa no es un libro sino un artículo de consenso de la IUPHAR.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.farmacologia-1.goodman-gilman",
+          "name": "Brunton — Goodman & Gilman. Las bases farmacológicas de la terapéutica",
+          "role": "12ª ed. · McGraw-Hill, México 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.rang-dale",
+          "name": "Rang, Dale, Ritter, Flower, Henderson — Farmacología",
+          "role": "7ª ed. · Elsevier, Madrid 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.florez",
+          "name": "Flórez — Farmacología Humana",
+          "role": "6ª ed. · Elsevier Masson 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.katzung",
+          "name": "Katzung — Farmacología Básica y Clínica",
+          "role": "13ª ed. · McGraw-Hill 2016",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.velazquez",
+          "name": "Velázquez — Farmacología Básica y Clínica",
+          "role": "18ª ed. · Médica Panamericana, Buenos Aires 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-1.iuphar-clinical-pharmacology",
+          "name": "Birkett y col. (IUPHAR) — Clinical pharmacology in research, teaching and health care",
+          "role": "Basic Clin Pharmacol Toxicol 2010;107(1):531-59 · artículo",
+          "tag": "artículo",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de la asignatura Farmacología I (PDF, agosto 2018)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-07/Programa%20de%20Farmacologia%20I.pdf"
+  }
+}

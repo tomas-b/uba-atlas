@@ -1,0 +1,312 @@
+{
+  "address": "uba.med.medicina.medicina-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cuatrimestre": "1º o 2º, según la UDH",
+    "cargaHoraria": "685 horas",
+    "metodologia": "modular semanal",
+    "catedra": "Medicina A · se dicta en la mayoría de las UDH (Unidades Docentes Hospitalarias) de la Facultad",
+    "correlativas": "Patología I aprobada · Microbiología II regular",
+    "unidades": 18,
+    "bibliography": 15,
+    "expediente": "CUDAP EXP-UBA 0039744/2017"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.medicina-1",
+      "label": "Medicina 1 (Semiología · Fisiopatología)"
+    }
+  ],
+  "eyebrow": "Medicina A · programa (materia) · Ciclo Clínico",
+  "title": "Aprender a leer un cuerpo enfermo.",
+  "lede": "La primera materia clínica: donde el cuerpo sano del ciclo biomédico se vuelve un paciente con síntomas. Se apoya en cuatro pilares — Semiología, Fisiopatología, Semiotecnia y Propedéutica — y ordena todo alrededor de un solo objeto: la Historia Clínica. Las unidades no se llaman por aparato sino por lo que trae el paciente: dolor torácico, ictericia, disnea, púrpura. Extraída del programa real de la asignatura.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "685 hs"
+    },
+    {
+      "k": "Unidades",
+      "v": "18",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "15",
+      "small": "libros"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el PDF oficial del Programa de Medicina A (expediente CUDAP EXP-UBA 0039744/2017). El programa tiene dos capas: unos contenidos generales ordenados por aparato — de la semiología general al sistema nervioso y al estado mental — y dieciocho unidades temáticas ordenadas al revés, por el motivo de consulta. Se cursa en modalidad modular semanal, con contacto constante con pacientes, y se rinde al pie de la cama con diez historias clínicas visadas. Los temas y las referencias salen del texto real del programa; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 18 unidades temáticas",
+      "title": "El paciente, por lo que trae",
+      "note": "Cada unidad arranca de un motivo de consulta y baja a los síndromes. La unidad 12 no existe en el programa: la numeración salta de la unidad 11 a la 13; no se traza.",
+      "map": {
+        "mk": "Los contenidos generales, por aparato",
+        "tree": "MEDICINA A — semiología, fisiopatología, semiotecnia y propedéutica\n│\n├─ I ·  Semiología general · historia clínica · dolor · disnea · fiebre\n├─ II ·  Aparato respiratorio · síndromes bronquiales, pleurales, mediastinales\n├─ III · Cardiovascular · pulso · soplos · ECG · insuficiencia cardíaca · HTA\n├─ IV ·  Aparato digestivo · abdomen · hígado · ictericias · hipertensión portal\n├─ V ·   Riñón y vías urinarias · sedimento · síndromes nefrítico y nefrótico\n├─ VI ·  Órganos hematopoyéticos · anemias · síndromes mielo y linfoproliferativos\n├─ VII y VIII · Endocrinología y metabolismo · tiroides · adrenal · glucemia\n├─ IX ·  Sistema nervioso central · motricidad · reflejos · pares craneanos\n└─ X ·   Estado mental (psicosemiología) · cognición · afectividad · juicio",
+        "foot": "Contenidos generales y unidades temáticas tomados verbatim del programa. La granularidad de tiempo es solo el régimen (cuatrimestral, 685 hs); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-1.entrevista-medica",
+          "name": "El paciente en la entrevista médica",
+          "role": "Unidad temática 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.sintomas-generales",
+          "name": "El paciente con síntomas y signos generales",
+          "role": "Unidad temática 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.dolor-toracico",
+          "name": "El paciente con dolor torácico anterior",
+          "role": "Unidad temática 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.hipertension-sincope",
+          "name": "El paciente con hipertensión arterial, hipotensión y síncope",
+          "role": "Unidad temática 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.disnea-cardiaca",
+          "name": "El paciente con disnea de causa cardíaca",
+          "role": "Unidad temática 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.soplo-palpitaciones",
+          "name": "El paciente con soplo cardíaco y/o palpitaciones",
+          "role": "Unidad temática 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.cianosis-central",
+          "name": "El paciente con cianosis central",
+          "role": "Unidad temática 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.disnea-broncopulmonar",
+          "name": "El paciente con disnea de causa bronco-pulmonar",
+          "role": "Unidad temática 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.sintomatologia-abdominal",
+          "name": "El paciente con sintomatología abdominal",
+          "role": "Unidad temática 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.ictericia",
+          "name": "El paciente con ictericia",
+          "role": "Unidad temática 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.sintomas-nefrourinarios",
+          "name": "El paciente con síntomas nefro-urinarios",
+          "role": "Unidad temática 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.paresia-paralisis",
+          "name": "El paciente con paresia o parálisis y/o trastornos de la sensibilidad o de la coordinación",
+          "role": "Unidad temática 13",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.trastornos-conciencia",
+          "name": "El paciente con trastornos de la conciencia y alteración de las funciones cerebrales superiores",
+          "role": "Unidad temática 14",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.peso",
+          "name": "El paciente con pérdida o ganancia de peso",
+          "role": "Unidad temática 15",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.cambios-morfologicos",
+          "name": "El paciente con cambios morfológicos",
+          "role": "Unidad temática 16",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.adenoesplenomegalia",
+          "name": "El paciente con adenoesplenomegalia y alteraciones hematológicas",
+          "role": "Unidad temática 17",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.purpura",
+          "name": "El paciente con púrpura",
+          "role": "Unidad temática 18",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa: primero los textos de semiología, signos y síntomas, historia clínica, síndromes, imágenes y electrocardiografía; después los tratados para los grandes temas fisiopatológicos. El programa suma además artículos sobre cronicidad y cuidados al final de la vida, y recomienda entrenarse en la lectura de Medicina (Bs. As.), NEJM, The Lancet y el BMJ.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-1.argente-alvarez",
+          "name": "Argente, Álvarez — Semiología Médica. Fisiopatología, Semiotecnia y Propedéutica",
+          "role": "1ª ed., 4ª reimp. 2009 · Panamericana",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.rozman-exploracion",
+          "name": "Rozman — Semiología y métodos de exploración en Medicina",
+          "role": "Salvat",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.sanguinetti",
+          "name": "Sanguinetti y col. — Semiología, Semiotecnia y Medicina Interna",
+          "role": "López Libreros Editores 1998",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.cossio",
+          "name": "Cossio, Fustinoni, Rospide — Semiología Médica Fisiopatológica (grandes síndromes clínicos)",
+          "role": "8ª ed. 2014 · Eudeba",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.suros",
+          "name": "Surós — Semiología Médica y Técnica Exploratoria",
+          "role": "8ª ed. 2001 · línea compartida con Caino-Sánchez en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.caino-sanchez",
+          "name": "Caino, Sánchez — Semiología de las enfermedades cardiovasculares",
+          "role": "Panamericana · línea compartida con Surós en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.guia-signos-sintomas",
+          "name": "Guía profesional de signos y síntomas",
+          "role": "McGraw-Hill Interamericana",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.garcia-conde",
+          "name": "García Conde y col. — Patología General, Semiología Clínica y Fisiopatología",
+          "role": "2ª ed. 2004 · McGraw-Hill Interamericana",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.felson",
+          "name": "Felson, Goodman — Principios de Radiología del Tórax. Un texto programado",
+          "role": "McGraw-Hill Interamericana de España 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.dubin",
+          "name": "Dubin — Electrocardiografía práctica",
+          "role": "3ª ed. 2013 · McGraw-Hill Interamericana",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.tranchesi",
+          "name": "Tranchesi — El electrocardiograma normal y patológico. Nociones de vectocardiografía",
+          "role": "3ª ed. · Ed. Beta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.harrison",
+          "name": "Longo, Kasper, Jameson, Fauci, Hauser, Loscalzo — Harrison's Principles of Internal Medicine",
+          "role": "McGraw-Hill 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.cecil-goldman",
+          "name": "Cecil y Goldman — Tratado de Medicina Interna",
+          "role": "24ª ed.",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.davidson",
+          "name": "Walker, Colledge, Ralston, Penman — Davidson's Principles and Practice of Medicine",
+          "role": "22ª ed. 2014 · Churchill Livingstone / Elsevier",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-1.farreras-rozman",
+          "name": "Rozman Borstnar, Cardellach — Farreras-Rozman. Medicina Interna",
+          "role": "17ª ed. 2012 · Elsevier",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Medicina A (PDF, CUDAP EXP-UBA 0039744/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/13-Medicina%20A_0.pdf"
+  }
+}

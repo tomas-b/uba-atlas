@@ -47,10 +47,18 @@ try {
   try { pages = parseInt((execFileSync("pdfinfo", [pdf]).toString().match(/Pages:\s+(\d+)/) || [])[1] || "0", 10); } catch {}
 
   const txtPath = path.join(OUT, outName + ".txt");
-  let text = "";
-  try { text = execFileSync("pdftotext", ["-layout", pdf, "-"], { maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "ignore"] }).toString(); } catch {}
+  let text = "", pdfErr = "";
+  try {
+    const r = require("child_process").spawnSync("pdftotext", ["-layout", pdf, "-"], { maxBuffer: 64 * 1024 * 1024 });
+    text = (r.stdout || "").toString(); pdfErr = (r.stderr || "").toString();
+  } catch {}
 
-  if (text.replace(/\s/g, "").length >= MIN_TEXT) {
+  // A text layer that parses can still be corrupt (fmed scans: "Unknown font tag"
+  // errors + clipped right margin). Distrust it and fall through to OCR.
+  const fontErrors = (pdfErr.match(/Unknown font tag|Syntax Error/g) || []).length;
+  const corruptLayer = fontErrors > 5;
+
+  if (!corruptLayer && text.replace(/\s/g, "").length >= MIN_TEXT) {
     fs.writeFileSync(txtPath, text);
     return done({ ok: true, url, method: "text", pages, chars: text.length, out: txtPath });
   }

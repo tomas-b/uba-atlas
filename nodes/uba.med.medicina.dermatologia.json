@@ -1,0 +1,171 @@
+{
+  "address": "uba.med.medicina.dermatologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cursada intensiva de tres semanas",
+    "año": "Ciclo Clínico · Medicina B",
+    "cargaHoraria": "tres semanas de cursada; oferta del curso de febrero a diciembre",
+    "catedra": "no consignada en el programa",
+    "programa": "Actualización del Programa de la Asignatura Dermatología · 2017",
+    "correlativas": "Medicina A, Patología I, Patología II",
+    "unidades": 7,
+    "bibliography": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.dermatologia",
+      "label": "Dermatología"
+    }
+  ],
+  "eyebrow": "Dermatología · programa (materia)",
+  "title": "Leer el cuerpo entero en la piel.",
+  "lede": "Especialidad básica del ciclo clínico, dentro de Medicina B: tres semanas intensivas que empiezan por la lesión elemental y la semiología dermatológica, y desde ahí ordenan las enfermedades por complejidad creciente — inflamatorias, infecciosas, tumorales — hasta las dermatosis que son expresión de enfermedades sistémicas. No forma especialistas: forma médicos generales que reconocen, derivan y previenen. Extraída del programa real de la asignatura.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "3 semanas",
+      "small": "ciclo clínico"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Módulos",
+      "v": "7",
+      "small": "unidades didácticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el PDF oficial de la asignatura (Actualización del Programa, 2017). Los módulos, los contenidos y las referencias bibliográficas salen del texto real del programa: la materia se ubica en el ciclo clínico dentro de Medicina B, dura tres semanas, exige Medicina A, Patología I y Patología II como correlativas, y se evalúa con dos parciales escritos y un final de opción múltiple de 50 preguntas. Los títulos de los siete módulos se leen en la versión anterior del mismo programa publicada por la facultad (EXP-UBA 0073385/2014), cuyos contenidos coinciden módulo por módulo con los de 2017. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los 7 módulos",
+      "title": "De la lesión elemental a la enfermedad sistémica",
+      "note": "El programa ordena sus contenidos por lesión elemental y complejidad creciente, con la semiología dermatológica como orientación inicial. Cada módulo es una unidad didáctica del programa.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "DERMATOLOGÍA — la piel como órgano que delata al resto\n│\n├─ 1 · Introducción · órgano cutáneo · semiología · lesión elemental\n├─ 2 · Terapéutica tópica · vehículo y principio activo · corticoides\n├─ 3 · Inflamatorias · maculosas · papulosas · ampollares · eccemas\n├─ 4 · Infecciosas · piodermitis · virosis · micosis · lepra · ITS · VIH\n├─ 5 · Tumorales · nevos · precancerosas · basocelular · melanoma\n├─ 6 · Manifestaciones cutáneas de enfermedades sistémicas\n└─ 7 · Complementario · acné · alopecias · boca · uñas · úlceras",
+        "foot": "Contenidos verbatim del programa 2017; los títulos de módulo provienen de la copia oficial 2014 (la capa de texto del PDF 2017 los perdió). La cursada dura tres semanas; no hay cronograma fechado por módulo."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.dermatologia.introduccion",
+          "name": "1. Introducción a la Dermatología",
+          "role": "módulo 1",
+          "tag": "semiología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.terapeutica-topica",
+          "name": "2. Nociones básicas de terapéutica dermatológica tópica",
+          "role": "módulo 2",
+          "tag": "terapéutica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.inflamatorias",
+          "name": "3. Enfermedades inflamatorias",
+          "role": "módulo 3",
+          "tag": "patología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.infecciosas",
+          "name": "4. Enfermedades infecciosas",
+          "role": "módulo 4",
+          "tag": "patología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.tumorales",
+          "name": "5. Enfermedades tumorales",
+          "role": "módulo 5",
+          "tag": "patología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.sistemicas",
+          "name": "6. Manifestaciones cutáneas de enfermedades sistémicas",
+          "role": "módulo 6",
+          "tag": "patología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.complementario",
+          "name": "7. Módulo complementario",
+          "role": "módulo 7",
+          "tag": "misceláneas",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa: dos obligatorias para el alumno, tres sugeridas para el docente. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.dermatologia.woscoff",
+          "name": "Woscoff, Kaminsky, Marini, Allevato — Dermatología en Medicina Interna",
+          "role": "3ª ed. · Alfaomega Grupo Editor Argentino, Buenos Aires 2010",
+          "tag": "alumno",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.gatti-cardama",
+          "name": "Cabrera, Gatti (eds.) — Dermatología de Gatti-Cardama",
+          "role": "12ª ed. · El Ateneo, Buenos Aires 2003",
+          "tag": "alumno",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.fitzpatrick",
+          "name": "Fitzpatrick, Wolff, Goldsmith, Katz, Gilchrest, Paller, Leffell — Dermatología en Medicina General",
+          "role": "Médica Panamericana, Buenos Aires 2009",
+          "tag": "docente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.bolognia",
+          "name": "Bolognia, Jorizzo, Schaffer — Dermatology",
+          "role": "Elsevier, USA 2012",
+          "tag": "docente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.dermatologia.cordero",
+          "name": "Cordero, Cobreros, Allevato, Donatti — Manifestaciones Cutáneas de las Enfermedades Sistémicas",
+          "role": "Médica Panamericana, Buenos Aires 1997",
+          "tag": "docente",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Actualización del Programa de la Asignatura Dermatología 2017 (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/26-Dermatologia_0.pdf"
+  }
+}

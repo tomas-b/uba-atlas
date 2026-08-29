@@ -1,0 +1,199 @@
+{
+  "address": "uba.med.medicina.neumonologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "2 semanas",
+    "año": "Ciclo Clínico · se dicta como parte de Medicina B",
+    "cargaHoraria": "duración 2 semanas · regularidad con 80% de asistencia a clases y trabajos prácticos",
+    "catedra": "Departamento de Medicina",
+    "programa": "Programa de la asignatura Neumonología · EXP-UBA 0089338/2017",
+    "unidades": 12,
+    "evaluacion": "examen final escrito",
+    "bibliography": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.neumonologia",
+      "label": "Neumonología"
+    }
+  ],
+  "eyebrow": "Neumonología · programa (materia)",
+  "title": "El aparato respiratorio, enfermedad por enfermedad.",
+  "lede": "Especialidad básica del ciclo clínico, dictada dentro de Medicina B en dos semanas. Repasa estructura y función del aparato respiratorio para enfocar el diagnóstico y el tratamiento: de la radiografía de tórax y el laboratorio pulmonar a la tuberculosis, el asma, la EPOC, el cáncer de pulmón y la insuficiencia respiratoria aguda. Extraída del programa real del Departamento de Medicina.",
+  "meta": [
+    {
+      "k": "Duración",
+      "v": "2 semanas",
+      "small": "dentro de Medicina B"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Módulos",
+      "v": "12",
+      "small": "contenidos"
+    },
+    {
+      "k": "Referencias",
+      "v": "4",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa PDF de la asignatura (Departamento de Medicina, EXP-UBA 0089338/2017). Los módulos y las referencias bibliográficas salen del texto real del programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los doce módulos",
+      "note": "El eje de la materia — cada módulo, un territorio del pulmón enfermo.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "NEUMONOLOGÍA — el aparato respiratorio, del método al tratamiento\n│\n├─ 1 · Herramientas del diagnóstico · espirometría · imágenes · broncoscopía\n├─ 2 · Enfermedades intersticiales · fibrosis pulmonar idiopática · sarcoidosis\n├─ 3 · Infecciones respiratorias · neumonía de la comunidad e intrahospitalaria\n├─ 4 · Tuberculosis · formas clínicas · drogo-resistencia · prevención\n├─ 5 · Enfermedades obstructivas · asma · EPOC · bronquiectasias · fibrosis quística\n├─ 6 · Neoplasias pulmonares · cáncer de pulmón · nódulo solitario · metástasis\n├─ 7 · Urgencias respiratorias · insuficiencia aguda · SDRA · ventilación mecánica\n├─ 8 · Patología vascular pulmonar · hipertensión pulmonar · tromboembolismo\n├─ 9 · Patología pleural y mediastino · derrame · empiema · mesotelioma\n├─ 10 · Trastornos respiratorios del sueño · apneas · ventilación no invasiva\n├─ 11 · Tabaquismo · neurobiología · diagnóstico · tratamiento\n└─ 12 · Oxigenoterapia crónica · rehabilitación respiratoria · trasplante pulmonar",
+        "foot": "Módulos tomados verbatim del programa. La granularidad de tiempo es solo la duración declarada (2 semanas); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.neumonologia.herramientas-del-diagnostico",
+          "name": "1. Herramientas del diagnóstico",
+          "role": "módulo 1",
+          "tag": "método",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.enfermedades-intersticiales",
+          "name": "2. Enfermedades intersticiales",
+          "role": "módulo 2",
+          "tag": "parénquima",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.infecciones-respiratorias",
+          "name": "3. Infecciones respiratorias",
+          "role": "módulo 3",
+          "tag": "infección",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.tuberculosis",
+          "name": "4. Tuberculosis",
+          "role": "módulo 4",
+          "tag": "infección",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.enfermedades-obstructivas",
+          "name": "5. Enfermedades obstructivas",
+          "role": "módulo 5",
+          "tag": "vía aérea",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.neoplasias-pulmonares",
+          "name": "6. Neoplasias pulmonares",
+          "role": "módulo 6",
+          "tag": "oncología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.urgencias-en-medicina-respiratoria",
+          "name": "7. Urgencias en medicina respiratoria",
+          "role": "módulo 7",
+          "tag": "crítico",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.patologia-vascular-pulmonar",
+          "name": "8. Patología vascular pulmonar",
+          "role": "módulo 8",
+          "tag": "circulación",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.patologia-pleural-y-mediastino",
+          "name": "9. Patología pleural y mediastino",
+          "role": "módulo 9",
+          "tag": "pleura",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.trastornos-respiratorios-del-sueno",
+          "name": "10. Trastornos respiratorios del sueño. Ventilación mecánica no invasiva",
+          "role": "módulo 10",
+          "tag": "sueño",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.tabaquismo",
+          "name": "11. Tabaquismo",
+          "role": "módulo 11",
+          "tag": "prevención",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.oxigenoterapia-rehabilitacion-trasplante",
+          "name": "12. Oxigenoterapia crónica. Rehabilitación respiratoria y trasplante pulmonar",
+          "role": "módulo 12",
+          "tag": "crónico",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa: el texto propio de la asignatura más los tratados de medicina interna. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.neumonologia.texto-de-neumonologia",
+          "name": "Texto de Neumonología",
+          "role": "EUDEBA 2017",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.harrison",
+          "name": "Harrison — Principios de Medicina Interna",
+          "role": "19ª ed.",
+          "tag": "medicina interna",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.cecil-goldman",
+          "name": "Cecil y Goldman — Tratado de Medicina Interna",
+          "role": "24ª ed.",
+          "tag": "medicina interna",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.neumonologia.rozman",
+          "name": "Rozman — Medicina Interna",
+          "role": "17ª ed.",
+          "tag": "medicina interna",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Neumonología (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/37-Neumonologia_0.pdf"
+  }
+}

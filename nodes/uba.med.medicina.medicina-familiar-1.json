@@ -1,0 +1,481 @@
+{
+  "address": "uba.med.medicina.medicina-familiar-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cursada de 80 hs · 17 sesiones de 3 hs",
+    "año": "Ciclo Biomédico (el plan Res. CS 2861/92 la ubica en 1º año; el programa la orienta a alumnos avanzados)",
+    "cargaHoraria": "80 hs (17 sesiones de 3 hs: mini-conferencia de 1 h + taller de 2 h; 30 hs restantes en consultorio de médicos de familia)",
+    "catedra": "Departamento de Medicina Familiar (Jefe: Prof. Dr. Gabriel Battistella; JTP: Dr. Andrés O. Tomasone). Evaluación descentralizada por cátedra.",
+    "modalidad": "cursada vespertina · teórico-prácticas + consultorios externos · talleres, salidas comunitarias, tutorías · modalidad mixta virtual/presencial · exámenes presenciales",
+    "programa": "Programa de Medicina Familiar 2025 · Facultad de Medicina UBA",
+    "correlatividad": "puede cursarse desde el ingreso; los contenidos están orientados a alumnos que cursan la unidad docente hospitalaria",
+    "unidades": 17,
+    "bibliography": 38
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.medicina-familiar-1",
+      "label": "Medicina Familiar I"
+    }
+  ],
+  "eyebrow": "Medicina Familiar I · programa (materia)",
+  "title": "La clínica mirada desde la persona, su familia y su comunidad.",
+  "lede": "Materia del ciclo biomédico. Cambia el eje: no un órgano ni un sistema, sino el paciente entero dentro de una familia y de un sistema de salud. Diecisiete sesiones que van del paradigma biopsicosocial y la historia clínica orientada al problema a la medicina basada en la evidencia, la prevención y el manejo de lo prevalente — mujer, niño, adulto mayor, riesgo cardiovascular, crónicas, adicciones. Extraída del programa real del Departamento.",
+  "meta": [
+    {
+      "k": "Cursada",
+      "v": "80 hs",
+      "small": "17 sesiones de 3 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Sesiones",
+      "v": "17",
+      "small": "unidades"
+    },
+    {
+      "k": "Referencias",
+      "v": "38",
+      "small": "bibliografía"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el Programa de Medicina Familiar 2025 del Departamento de Medicina Familiar (PDF de texto, 12 páginas). Las sesiones y las referencias bibliográficas salen del texto real del programa: cursada vespertina de 80 horas, 17 sesiones de 3 horas — una mini-conferencia de 1 hora más un taller de 2 —, más 30 horas en consultorio junto a un médico de familia, con evaluación descentralizada por cátedra. El programa es único para la materia Medicina Familiar del ciclo biomédico; el Departamento dicta además Medicina Familiar II. Las referencias (qué se lee) viven acá; el contenido de cada una es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las 17 sesiones",
+      "note": "El eje de la materia — cada sesión es una mini-conferencia más un taller sobre casos clínicos.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "MEDICINA FAMILIAR — la clínica desde la persona, la familia y la comunidad\n│\n├─ 1. Introducción · paradigma biomédico vs. biopsicosocial · teoría de sistemas\n├─ 2. Salud y enfermedad · determinantes · niveles de prevención y de atención · APS\n├─ 3. Relación médico–paciente–familia · entrevista médica · comunicación\n├─ 4. Ciclo vital familiar · genograma de la familia como sistema · crisis vitales\n├─ 5. Historia Clínica Orientada al Problema · genograma · lista de problemas · SOAP\n├─ 6. Medicina basada en la evidencia · tipos de estudio · sesgos · riesgo relativo\n├─ 7. Epidemiología clínica · prevalencia · probabilidad pre/postest · S y E · VPP/VPN\n├─ 8. Prevención · primaria a cuaternaria · US Task Force · sobrediagnóstico\n├─ 9. Salud comunitaria · APOC · diagnóstico participativo · determinantes sociales\n├─ 10. Salud de la mujer · rastreo de CCU · embarazo · salud sexual y reproductiva\n├─ 11. Riesgo cardiovascular global · factores · scores · prevención 1ª y 2ª\n├─ 12. Enfermedades crónicas · diabetes · HTA · obesidad · tabaquismo · modelo transteórico (Prochaska y Di Clementi)\n├─ 13. Trastornos afectivos · ansiedad · depresión en atención primaria\n├─ 14. Adicciones · tabaquismo · alcoholismo · benzodiacepinas · psicoactivas\n├─ 15. Salud del niño y del adolescente · controles · vacunas · lactancia\n├─ 16. Salud del adulto mayor · evaluación funcional · polifarmacia · rastreos\n└─ 17. Práctica de la Medicina Familiar · formación · rol en la comunidad",
+        "foot": "Sesiones y contenidos tomados verbatim del programa 2025. El programa no fecha un cronograma: solo declara 17 sesiones de 3 horas dentro de una cursada de 80 hs."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.introduccion-a-la-medicina-familiar",
+          "name": "1. Introducción a la Medicina Familiar",
+          "role": "sesión 1",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-y-enfermedad",
+          "name": "2. Salud y Enfermedad",
+          "role": "sesión 2",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.relacion-medico-paciente-familia",
+          "name": "3. Relación Médico – Paciente – Familia",
+          "role": "sesión 3",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.ciclo-vital-familiar",
+          "name": "4. Ciclo Vital Familiar",
+          "role": "sesión 4",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.historia-clinica-orientada-al-problema",
+          "name": "5. Historia Clínica Orientada al Problema",
+          "role": "sesión 5",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.medicina-basada-en-la-evidencia",
+          "name": "6. Medicina Basada en la evidencia",
+          "role": "sesión 6",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.epidemiologia-clinica",
+          "name": "7. Epidemiología Clínica",
+          "role": "sesión 7",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.prevencion",
+          "name": "8. Prevención",
+          "role": "sesión 8",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-comunitaria",
+          "name": "9. Salud Comunitaria",
+          "role": "sesión 9",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-de-la-mujer",
+          "name": "10. Salud de la Mujer",
+          "role": "sesión 10",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.manejo-del-riesgo-cardiovascular-global",
+          "name": "11. Manejo del Riesgo Cardiovascular Global",
+          "role": "sesión 11",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.modelo-de-las-enfermedades-cronicas",
+          "name": "12. El Modelo de las Enfermedades Crónicas",
+          "role": "sesión 12",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.manejo-de-trastornos-afectivos",
+          "name": "13. Manejo de trastornos Afectivos",
+          "role": "sesión 13",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.adicciones",
+          "name": "14. Adicciones",
+          "role": "sesión 14",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-del-nino-y-del-adolescente",
+          "name": "15. Salud del niño y del adolescente",
+          "role": "sesión 15",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-del-adulto-mayor",
+          "name": "16. Salud del adulto mayor",
+          "role": "sesión 16",
+          "tag": "sesión",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.practica-de-la-medicina-familiar",
+          "name": "17. Práctica de la Medicina Familiar",
+          "role": "sesión 17",
+          "tag": "sesión",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía obligatoria · las referencias (L2)",
+      "title": "Lo que hay que leer",
+      "note": "Bibliografía obligatoria del programa 2025 — en buena parte fichas escritas por docentes del Departamento, más los textos clásicos de la especialidad. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.introduccion-a-la-medicina-familiar-battistella-cacace",
+          "name": "Battistella, Cacace — Introducción a la Medicina Familiar",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.trastornos-afectivos-wuler",
+          "name": "Wuler — Trastornos afectivos",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-adulto-mayor-battistella",
+          "name": "Battistella — Salud adulto mayor",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.prevencion-cuaternaria-kopitowski",
+          "name": "Kopitowski — Prevención cuaternaria: se pueden y se deben limitar los daños por la actividad sanitaria",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.origenes-de-la-medicina-familiar-mcwhinney",
+          "name": "McWhinney — Orígenes de la Medicina Familiar",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.mbe-velazquez",
+          "name": "Velázquez — MBE",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-del-nino-y-la-nina",
+          "name": "Dejean, Dyszel, Lafranconi, Parera, Pérez, Rall — Salud del niño y la niña",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.medicina-familiar-y-tabaquismo-tomasone",
+          "name": "Tomasone — La Medicina Familiar como eje central del Abordaje del Tabaquismo a partir de los diferentes niveles de prevención",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.importancia-de-trabajar-con-familia-baird",
+          "name": "Baird — Importancia de trabajar con familiar",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.historia-clinica-electronica-rivas-tornese",
+          "name": "Rivas Tornese — Historia clínica electrónica: cómo documentar",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.hcop-rivas-tornese",
+          "name": "Rivas Tornese — Historia clínica orientada al problema (HCOP)",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.grandes-pensadores-owens",
+          "name": "Owens — Grandes pensadores en la Medicina Familiar",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.que-es-la-entrevista-motivacional-rollnick-miller",
+          "name": "Rollnick, Miller — ¿Qué es la entrevista motivacional?",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.modelo-biopsicosocial-vargas-restrepo",
+          "name": "Vargas Restrepo — El modelo biopsicosocial: un cambio de paradigma, importancia de trabajar con familias",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.salud-en-la-diversidad-drappa",
+          "name": "Drappa — Salud en la diversidad",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.conceptos-centrales-taylor",
+          "name": "Taylor — Conceptos centrales en la Medicina Familiar",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.ciclo-vital-familiar-e-individual-tomasone",
+          "name": "Tomasone — Ciclo vital familiar e individual",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.aps-y-atencion-familiar-y-comunitaria-martin-zurro-jodar",
+          "name": "Martín Zurro, Jodar Solá — Atención primaria de salud y atención familiar y comunitaria",
+          "role": "artículo",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.alcoholismo-lizaur-moron-goni",
+          "name": "Lizaur, Morón Goñi — Alcoholismo",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.calendario-nacional-de-vacunacion",
+          "name": "Ministerio de Salud — Calendario nacional de vacunación",
+          "role": "documento oficial",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.pensamiento-critico-en-medicina-velazquez",
+          "name": "Velázquez — Pensamiento crítico en medicina",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.protocolo-ive-ile-2022",
+          "name": "Protocolo de atención de IVE/ILE — última actualización (2022), Nación",
+          "role": "documento oficial",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.ley-27610-marco-normativo",
+          "name": "El marco normativo de la ley 27.610: acceso a la interrupción voluntaria del embarazo",
+          "role": "documento oficial",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.diabetes",
+          "name": "Diabetes",
+          "role": "ficha sin autor ni edición en el programa",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.plan-de-salud-basado-en-aps-battistella",
+          "name": "Battistella — Un plan de Salud basado en la estrategia de Atención Primaria",
+          "role": "ficha del Departamento",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.medicina-de-familia-mcwhinney",
+          "name": "McWhinney — Medicina de Familia",
+          "role": "Mosby/Doyma",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.guia-breve-tabaquismo-2024",
+          "name": "Guía breve de práctica clínica de tratamiento del tabaquismo 2024",
+          "role": "guía clínica",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.medicina-familiar-y-practica-ambulatoria-rubinstein",
+          "name": "Rubinstein, Terrasa, Durante y otros — Medicina Familiar y Práctica Ambulatoria",
+          "role": "Panamericana · Buenos Aires",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.atencion-primaria-martin-zurro",
+          "name": "Martín Zurro — Atención Primaria",
+          "role": "libro",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.medicina-familiar-hacia-un-nuevo-modelo-roa-ruiz-siede",
+          "name": "Roa, Ruiz, Siede — Medicina Familiar. Hacia un nuevo Modelo de la Salud. Tomo I",
+          "role": "libro",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.guide-to-clinical-preventive-services-2014",
+          "name": "The Guide to Clinical Preventive Services 2014",
+          "role": "AHRQ",
+          "tag": "obligatoria",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.guide-to-clinical-preventive-services-2024",
+          "name": "Actualización de Guide to Clinical Preventive Services Task Force 2024",
+          "role": "US Preventive Services Task Force",
+          "tag": "obligatoria",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía optativa · complementaria",
+      "title": "Lo que amplía",
+      "note": "Bibliografía optativa del programa 2025. Una entrada más de esta lista figura solo como URL, sin título ni autor, y por eso no se representa acá.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.prevencion-cuaternaria-gervas-gavilan-jimenez",
+          "name": "Gérvas Camacho, Gavilán Moral, Jiménez de Gracia — Prevención cuaternaria: es posible (y deseable) una asistencia sanitaria menos dañina",
+          "role": "artículo",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.entrevista-motivacional-odonnell",
+          "name": "O’Donnell — Entrevista motivacional",
+          "role": "ficha del Departamento",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.entrevista-motivacional-efectividad-rivera-villouta-ilabaca",
+          "name": "Rivera Mercado, Villouta Cassinelli, Ilabaca Grez — Entrevista motivacional: ¿cuál es su efectividad en problemas prevalentes de la atención primaria?",
+          "role": "artículo",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.4-encuesta-nacional-factores-de-riesgo-2019",
+          "name": "Ministerio de Salud — 4ª Encuesta nacional sobre factores de riesgo",
+          "role": "octubre 2019",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.renovacion-de-la-aps-en-las-americas-ops-oms",
+          "name": "OPS/OMS — La renovación de la APS en las Américas",
+          "role": "julio 2007",
+          "tag": "optativa",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-familiar-1.guia-practica-clinica-adiccion-al-tabaco-2022",
+          "name": "Ministerio de Salud — Guía de Práctica Clínica de Tratamiento a la adicción al tabaco",
+          "role": "2022",
+          "tag": "optativa",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Medicina Familiar 2025 (PDF, Departamento de Medicina Familiar)",
+    "url": "https://fmed.uba.ar/sites/default/files/2024-12/Programa%20de%20Medicina%20Familiar-2025%20.pdf"
+  }
+}

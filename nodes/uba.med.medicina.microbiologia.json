@@ -1,0 +1,682 @@
+{
+  "address": "uba.med.medicina.microbiologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "dos cuatrimestres (a caballo de dos ciclos)",
+    "cargaHoraria": "220 hs (56 + 48 + 116)",
+    "cuatrimestre": "1º semestre de 3º año (Ciclo Biomédico) + 1º semestre del Ciclo Clínico",
+    "catedra": "Departamento de Microbiología, Parasitología e Inmunología · Facultad de Medicina UBA",
+    "programa": "EXP-UBA 0091116/2016 · Anexos I, II y III (unidades enumeradas según Res. (CS) 7591/09)",
+    "unidades": 64,
+    "bibliografia": 13,
+    "partes": [
+      "Microbiología y Parasitología I (General)",
+      "Inmunología",
+      "Microbiología y Parasitología II (Médica)"
+    ],
+    "correlativas": {
+      "paraCursar": "Fisiología y Biofísica regular; Química Biológica aprobada",
+      "paraRendirFinal": "Fisiología y Biofísica aprobada",
+      "medicaRequiere": "Inmunología y Microbiología y Parasitología I (General) regulares"
+    },
+    "promocion": "sí — promedio 8 o más en los dos parciales, sin aplazos ni ausencias"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.microbiologia",
+      "label": "Microbiología, Parasitología e Inmunología"
+    }
+  ],
+  "eyebrow": "Microbiología, Parasitología e Inmunología · programa (materia)",
+  "title": "Quién nos infecta, cómo lo hace y cómo el cuerpo se defiende.",
+  "lede": "La materia que cruza el puente entre el Ciclo Biomédico y el Clínico. Se dicta en tres programas del mismo Departamento: primero el mundo microbiano general — bacterias, hongos, parásitos y virus, su patogenia, su diagnóstico y los antimicrobianos —, en paralelo la Inmunología — la defensa del huésped, de la barrera innata a la memoria y las vacunas —, y después la Microbiología Médica, que recorre la infección aparato por aparato y síndrome por síndrome.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 cuatrimestres",
+      "small": "220 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "64",
+      "small": "18 + 16 + 30"
+    },
+    {
+      "k": "Referencias",
+      "v": "13",
+      "small": "libros"
+    },
+    {
+      "k": "Fuente",
+      "v": "programa",
+      "small": "PDF cátedra"
+    }
+  ],
+  "frame": "El plan (CS) 2861/92 la nombra como una sola materia — Microbiología, Parasitología e Inmunología — y aclara que se cursa en el 1º semestre del tercer año del Ciclo Biomédico y en el 1º semestre del 1º año del Ciclo Clínico. El Departamento la publica como tres programas, los Anexos I, II y III del mismo expediente EXP-UBA 0091116/2016: Microbiología y Parasitología I (General), Microbiología y Parasitología II (Médica) e Inmunología. Las unidades temáticas y la bibliografía de abajo salen del texto de esos tres programas. Nota de fuente: los Anexos dicen que se cursa en 4º año; el plan Res. CS 2861/92 la ubica en 3º (Biomédico) + 1º semestre clínico — este nodo sigue al plan. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los tres programas",
+      "note": "Una materia del plan, tres programas del Departamento. El eje: primero el agente, después la defensa, después la enfermedad.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "MICROBIOLOGÍA, PARASITOLOGÍA E INMUNOLOGÍA — el huésped y sus patógenos\n│\n├─ ANEXO I · Microbiología y Parasitología I (General) — 56 hs · 18 unidades\n│   └─ el mundo microbiano · bacterias · hongos · parásitos · virus\n│      patogenia · epidemiología · diagnóstico · antimicrobianos\n│\n├─ ANEXO III · Inmunología — 48 hs · 16 unidades\n│   └─ inmunidad innata · CMH · linfocitos T y B · tolerancia · memoria\n│      inmunodeficiencias · hipersensibilidad · vacunas · técnicas\n│\n└─ ANEXO II · Microbiología y Parasitología II (Médica) — 116 hs · 30 unidades\n    └─ la infección por aparato y por síndrome: piel · ojo · respiratorio\n       hígado · digestivo · urinario · SNC · ITS · congénitas · zoonosis\n       sepsis · SIDA · infección hospitalaria · prevención",
+        "foot": "Unidades tomadas de los Anexos I, II y III del programa. La granularidad de tiempo es el cuatrimestre; no hay cronograma fechado."
+      },
+      "exits": []
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Anexo I · Microbiología y Parasitología I (General) · 56 hs",
+      "title": "El mundo microbiano",
+      "note": "Las 18 unidades temáticas de la parte general: qué son bacterias, hongos, parásitos y virus, cómo dañan, cómo se los detecta y cómo se los combate.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.microbiologia.general-mundo-microbiano",
+          "name": "Mundo microbiano, generalidades de Bacteriología I",
+          "role": "Unidad 1",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-fisiologia-bacteriana",
+          "name": "Generalidades de Bacteriología II: fisiología bacteriana",
+          "role": "Unidad 2",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-genetica-bacteriana",
+          "name": "Genética bacteriana",
+          "role": "Unidad 3",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-micologia-1",
+          "name": "Introducción a la Micología I",
+          "role": "Unidad 4",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-parasitologia-1",
+          "name": "Introducción a la Parasitología I",
+          "role": "Unidad 5",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-virologia-1",
+          "name": "Introducción a la Virología I",
+          "role": "Unidad 6",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-control-desarrollo-microbiano",
+          "name": "Control del desarrollo microbiano",
+          "role": "Unidad 7",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-interaccion-hombre-microorganismo",
+          "name": "Interacción hombre-microorganismo",
+          "role": "Unidad 8",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-epidemiologia-infecciones",
+          "name": "Epidemiología de las infecciones microbianas y parasitarias",
+          "role": "Unidad 9",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-patogenia-bacteriana",
+          "name": "Principales mecanismos de patogenia bacteriana",
+          "role": "Unidad 10",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-micologia-2",
+          "name": "Introducción a la Micología II",
+          "role": "Unidad 11",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-parasitologia-2",
+          "name": "Introducción a la Parasitología II",
+          "role": "Unidad 12",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-virologia-2",
+          "name": "Introducción a la Virología II",
+          "role": "Unidad 13",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-diagnostico-microbiologico",
+          "name": "Diagnóstico microbiológico y parasitológico",
+          "role": "Unidad 14",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-antimicrobianos-1",
+          "name": "Antimicrobianos I: familias con actividad antibacteriana",
+          "role": "Unidad 15",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-antimicrobianos-2",
+          "name": "Antimicrobianos II: antivirales, antimicóticos y antiparasitarios",
+          "role": "Unidad 16",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-pruebas-susceptibilidad",
+          "name": "Pruebas de susceptibilidad",
+          "role": "Unidad 17",
+          "tag": "general",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.general-busqueda-bibliografica",
+          "name": "Búsqueda bibliográfica",
+          "role": "Unidad 18",
+          "tag": "general",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Anexo III · Inmunología · 48 hs",
+      "title": "La defensa del huésped",
+      "note": "Las 16 unidades de Inmunología: de la barrera innata y el complemento al CMH, los linfocitos, la tolerancia, la memoria y las vacunas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-inmunidad-innata",
+          "name": "Inmunidad innata",
+          "role": "Unidad 1",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-cmh",
+          "name": "Complejo mayor de histocompatibilidad (CMH)",
+          "role": "Unidad 2",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-reconocimiento-antigenico",
+          "name": "Reconocimiento antigénico por linfocitos T y B",
+          "role": "Unidad 3",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-presentacion-antigenica",
+          "name": "Procesamiento y presentación antigénica",
+          "role": "Unidad 4",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-ontogenia-b-t",
+          "name": "Ontogenia B y T",
+          "role": "Unidad 5",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-expresion-genica",
+          "name": "Regulación de la expresión génica en el sistema inmune",
+          "role": "Unidad 6",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-respuesta-t",
+          "name": "Respuesta inmune mediada por células T",
+          "role": "Unidad 7",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-respuesta-b",
+          "name": "Respuesta inmune mediada por células B",
+          "role": "Unidad 8",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-trafico-linfocitario",
+          "name": "Tráfico linfocitario",
+          "role": "Unidad 9",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-homeostasis-tolerancia",
+          "name": "Regulación de la respuesta inmune: homeostasis y tolerancia",
+          "role": "Unidad 10",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-memoria-inmunologica",
+          "name": "Memoria inmunológica",
+          "role": "Unidad 11",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-inmunidad-antiinfecciosa",
+          "name": "Inmunidad antiinfecciosa",
+          "role": "Unidad 12",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-inmunodeficiencias",
+          "name": "Inmunodeficiencias",
+          "role": "Unidad 13",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-hipersensibilidad-autoinmunidad",
+          "name": "Hipersensibilidad y autoinmunidad",
+          "role": "Unidad 14",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-vacunas-inmunoterapia",
+          "name": "Vacunas e inmunoterapia",
+          "role": "Unidad 15",
+          "tag": "inmunología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.inmuno-tecnicas-inmunologicas",
+          "name": "Técnicas inmunológicas",
+          "role": "Unidad 16",
+          "tag": "inmunología",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Anexo II · Microbiología y Parasitología II (Médica) · 116 hs",
+      "title": "La infección, síndrome por síndrome",
+      "note": "Las 30 unidades de la parte médica: el razonamiento deductivo que va del cuadro clínico y el antecedente epidemiológico al agente y a su diagnóstico de certeza.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.microbiologia.medica-bacterias-mucocutaneas",
+          "name": "Bacterias que causan infecciones mucocutáneas",
+          "role": "Unidad 1",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-virus-mucocutaneas",
+          "name": "Virus que causan infecciones mucocutáneas",
+          "role": "Unidad 2",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-parasitos-hongos-mucocutaneas-1",
+          "name": "Parásitos y hongos que causan infecciones mucocutáneas I",
+          "role": "Unidad 3",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-parasitos-hongos-mucocutaneas-2",
+          "name": "Parásitos y hongos que causan infecciones mucocutáneas II",
+          "role": "Unidad 4",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-infecciones-oculares",
+          "name": "Virus, bacterias y hongos que causan infecciones oculares",
+          "role": "Unidad 5",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-virus-exantematicas",
+          "name": "Virus que causan infecciones con manifestaciones exantemáticas o sistémicas",
+          "role": "Unidad 6",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-respiratorio-superior",
+          "name": "Bacterias que causan infecciones del tracto respiratorio superior y estructuras conexas",
+          "role": "Unidad 7",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-neumonias",
+          "name": "Bacterias que causan infecciones del tracto respiratorio inferior: neumonías y bronconeumonías",
+          "role": "Unidad 8",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-respiratorio-inferior",
+          "name": "Virus, bacterias y hongos que causan infecciones del tracto respiratorio inferior",
+          "role": "Unidad 9",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-bacterias-granulomatosas",
+          "name": "Bacterias que causan infecciones respiratorias granulomatosas",
+          "role": "Unidad 10",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-hongos-granulomatosas",
+          "name": "Hongos que causan infecciones respiratorias granulomatosas",
+          "role": "Unidad 11",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-hepatitis",
+          "name": "Virus que causan hepatitis",
+          "role": "Unidad 12",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-mononucleosiformes",
+          "name": "Virus y parásitos que causan síndromes mononucleosiformes",
+          "role": "Unidad 13",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-virus-gastrointestinales",
+          "name": "Virus que causan infecciones gastrointestinales",
+          "role": "Unidad 14",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-parasitos-intestinales",
+          "name": "Parásitos que causan enfermedades intestinales",
+          "role": "Unidad 15",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-bacterias-gastrointestinales",
+          "name": "Bacterias que causan infecciones gastrointestinales",
+          "role": "Unidad 16",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-intoxicaciones-alimentarias",
+          "name": "Intoxicaciones alimentarias",
+          "role": "Unidad 17",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-infecciones-urinarias",
+          "name": "Bacterias que causan infecciones urinarias a individuos de la comunidad",
+          "role": "Unidad 18",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-sepsis",
+          "name": "Sepsis",
+          "role": "Unidad 19",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-meningoencefalitis",
+          "name": "Microorganismos que causan meningoencefalitis y síndrome de masa ocupante del SNC",
+          "role": "Unidad 20",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-agentes-snc",
+          "name": "Agentes que afectan al sistema nervioso central",
+          "role": "Unidad 21",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-its-bacterias",
+          "name": "Bacterias que causan infecciones de transmisión sexual (ITS)",
+          "role": "Unidad 22",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-its-otros",
+          "name": "Otros microorganismos que causan infecciones de transmisión sexual (ITS)",
+          "role": "Unidad 23",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-infecciones-congenitas",
+          "name": "Microorganismos que causan infecciones congénitas",
+          "role": "Unidad 24",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-zoonoticas",
+          "name": "Microorganismos que causan enfermedades zoonóticas",
+          "role": "Unidad 25",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-zoonoticas-otros",
+          "name": "Otros microorganismos causantes de enfermedad zoonótica",
+          "role": "Unidad 26",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-vectores",
+          "name": "Microorganismos patógenos transmitidos por vectores",
+          "role": "Unidad 27",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-sida",
+          "name": "Síndrome de inmunodeficiencia adquirida",
+          "role": "Unidad 28",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-infecciones-hospitalarias",
+          "name": "Infecciones hospitalarias",
+          "role": "Unidad 29",
+          "tag": "médica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.medica-prevencion-transmisible",
+          "name": "Prevención de la enfermedad transmisible",
+          "role": "Unidad 30",
+          "tag": "médica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales de los tres programas. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.microbiologia.libro-basualdo",
+          "name": "Basualdo y col. — Microbiología Biomédica",
+          "role": "2ª ed. · Atlante, Buenos Aires 2006",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-murray",
+          "name": "Murray y col. — Microbiología Médica",
+          "role": "6ª ed. · Elsevier-Mosby, Barcelona 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-sordelli",
+          "name": "Sordelli y col. — Bacteriología Médica",
+          "role": "Librería de la Ciencia, Buenos Aires 2006",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-botero",
+          "name": "Botero y col. — Parasitosis humanas",
+          "role": "4ª ed. · Corp. para Investigaciones Biológicas, Medellín 2005",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-carballal",
+          "name": "Carballal y col. — Virología Médica",
+          "role": "3ª ed. · El Ateneo, Buenos Aires 1998",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-arenas",
+          "name": "Arenas R. — Micología médica ilustrada",
+          "role": "4ª ed. · McGraw-Hill, México 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-bonifaz",
+          "name": "Bonifaz A. — Micología médica básica",
+          "role": "3ª ed. · México 2010",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-tortora",
+          "name": "Tortora, Funke, Case — Introducción a la Microbiología",
+          "role": "9ª ed. · Panamericana, Buenos Aires 2007",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-nath",
+          "name": "Nath SK, Revankar SG — Microbiología basada en la resolución de problemas",
+          "role": "1ª ed. · Elsevier-Saunders 2007",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-jawetz",
+          "name": "Brooks, Butel, Morse — Microbiología Médica de Jawetz, Melnick y Adelberg",
+          "role": "18ª ed. · Manual Moderno 2007",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-fainboim",
+          "name": "Fainboim, Geffner (eds.) — Introducción a la Inmunología Humana",
+          "role": "6ª ed. · Panamericana 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-abbas",
+          "name": "Abbas, Lichtman — Cellular and Molecular Immunology",
+          "role": "6ª/7ª ed. · Elsevier Saunders",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.microbiologia.libro-janeway",
+          "name": "Murphy, Travers, Walport — Janeway's Immunobiology",
+          "role": "7ª ed. · Garland Science",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programas de las Asignaturas — Anexos I, II y III, EXP-UBA 0091116/2016 (PDF)",
+    "url": "https://www.fmed.uba.ar/actas-certificaciones-y-legalizaciones/programas-de-las-asignaturas"
+  },
+  "sources": [
+    {
+      "label": "Anexo I · Microbiología y Parasitología I (General) — programa (PDF)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/21-Microbiologia%20y%20Parasitologia%20I_0.pdf"
+    },
+    {
+      "label": "Anexo II · Microbiología y Parasitología II (Médica) — programa (PDF)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/23-Microbiologia%20y%20Parasitologia%20II_0.pdf"
+    },
+    {
+      "label": "Anexo III · Inmunología (Inmunología Humana) — programa (PDF)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/18-Inmunologia%20Humana_0.pdf"
+    },
+    {
+      "label": "Plan de Estudios de la Carrera de Medicina, Res. (CS) 2861/92 (PDF)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf"
+    }
+  ]
+}

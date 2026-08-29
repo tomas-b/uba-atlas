@@ -1,0 +1,213 @@
+{
+  "address": "uba.med.medicina.bioetica-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "año": "1º año · Ciclo Biomédico (ubicación según el plan Res. CS 2861/92)",
+    "cargaHoraria": "20 horas (diez encuentros de 2 horas)",
+    "catedra": "Unidad Académica de Bioética",
+    "programa": "Programa Bioética I (publicado por la Unidad Académica de Bioética)",
+    "unidades": 11,
+    "bibliography": 7,
+    "evaluacion": "prueba escrita individual semiestructurada · 60% de ítems correctos · 80% de asistencia"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.bioetica-1",
+      "label": "Bioética I"
+    }
+  ],
+  "eyebrow": "Bioética I · programa (materia)",
+  "title": "Cuatro principios, tres reglas y una relación.",
+  "lede": "Materia cuatrimestral de primer año del ciclo biomédico. Veinte horas para armar el aparato de decisión del médico: primero qué es la bioética y de dónde viene, después las teorías éticas, después los cuatro principios — beneficencia, no maleficencia, autonomía, justicia — y las tres reglas — veracidad, confidencialidad, consentimiento informado — y cierra en los modelos de relación médico-paciente. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "20 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "11",
+      "small": "sin secciones"
+    },
+    {
+      "k": "Referencias",
+      "v": "7",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el PDF del programa oficial publicado por la Unidad Académica de Bioética de la Facultad de Medicina (el mismo que la facultad ofrece descargar para rendir en mesa general). Las once unidades, la carga horaria — diez encuentros de dos horas, veinte horas en total, inserción en el ciclo biomédico — y las referencias bibliográficas salen del texto real del programa, que las lista de corrido, sin secciones. Vigencia: la Res. CD 241/2024 aprobó un programa unificado de Bioética (48 hs) que sucede a este; el presente sigue publicado para mesa general del plan 2009. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las once unidades",
+      "title": "De la disciplina a la cabecera de la cama",
+      "note": "El programa numera once unidades corridas, sin agruparlas en secciones. El orden es el del texto.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "BIOÉTICA I — cómo se decide bien en medicina\n│\n├─ 1. Qué es · ética y moral · historia de la bioética\n├─ 2. Epistemología e historia médicas · positivista vs. antropológica\n├─ 3. Teorías éticas · deontologismo · consecuencialismo · principialismo\n│\n├─ 4. Beneficencia · paternalismo fuerte y débil\n├─ 5. No maleficencia · daño · doble efecto · pendiente resbaladiza\n├─ 6. Autonomía · competencia · rechazo de tratamiento\n├─ 7. Justicia · asignación de recursos · diálisis y trasplantes\n│\n├─ 8. Veracidad · decir la verdad, ocultar, informar a medias\n├─ 9. Confidencialidad y privacidad · intimidad · bancos de datos\n├─ 10. Consentimiento informado · coacción · instrucciones anticipadas\n│\n└─ 11. Modelos de relación médico-paciente · beneficencia vs. autonomía",
+        "foot": "Temas tomados verbatim del programa. La granularidad de tiempo es solo el régimen (un cuatrimestre, diez encuentros); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.bioetica-1.generalidades-y-conceptos-teoricos",
+          "name": "1. Generalidades y conceptos teóricos",
+          "role": "unidad 1",
+          "tag": "fundamentos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.epistemologia-e-historia-medicas",
+          "name": "2. La Bioética desde la epistemología y la historia médicas",
+          "role": "unidad 2",
+          "tag": "fundamentos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.principales-teorias-eticas",
+          "name": "3. Principales teorías éticas",
+          "role": "unidad 3",
+          "tag": "fundamentos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.principio-de-beneficencia",
+          "name": "4. Principio de beneficencia",
+          "role": "unidad 4",
+          "tag": "principios",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.principio-de-no-maleficencia",
+          "name": "5. Principio de no maleficencia",
+          "role": "unidad 5",
+          "tag": "principios",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.principio-de-autonomia",
+          "name": "6. Principio de autonomía",
+          "role": "unidad 6",
+          "tag": "principios",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.principio-de-justicia",
+          "name": "7. Principio de justicia",
+          "role": "unidad 7",
+          "tag": "principios",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.regla-etica-de-veracidad",
+          "name": "8. Regla ética de veracidad",
+          "role": "unidad 8",
+          "tag": "reglas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.confidencialidad-y-privacidad",
+          "name": "9. Reglas éticas de confidencialidad y privacidad",
+          "role": "unidad 9",
+          "tag": "reglas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.consentimiento-informado",
+          "name": "10. Regla ética de consentimiento informado",
+          "role": "unidad 10",
+          "tag": "reglas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.modelos-de-relacion-medico-paciente",
+          "name": "11. Modelos de relación médico-paciente",
+          "role": "unidad 11",
+          "tag": "relación clínica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.bioetica-1.pergola-tratado",
+          "name": "Pérgola, F. — Tratado de Bioética para alumnos de Facultad de Medicina, Universidad de Buenos Aires",
+          "role": "EUDEBA 2016",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.cortina-para-que-sirve-la-etica",
+          "name": "Cortina, A. — Para qué sirve la Ética",
+          "role": "Paidós, Buenos Aires 2013",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.bioetica-y-humanidades-medicas",
+          "name": "Dietrich, Manietti, Cataldi Amatriain, Meyer (eds.) — Bioética y Humanidades Médicas",
+          "role": "Biblos, Buenos Aires 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.gracia-introduccion-a-la-bioetica",
+          "name": "Gracia, D. — Introducción a la Bioética",
+          "role": "Editorial del Búho, Bogotá 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.sadaba-bioetica-laica",
+          "name": "Sádaba, J. — Principios de la Bioética Laica",
+          "role": "Buenos Aires · Barcelona 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.camps-la-voluntad-de-vivir",
+          "name": "Camps, V. — La voluntad de vivir: las preguntas de la Bioética",
+          "role": "Ariel, España 2005",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-1.brusco-temporalidad",
+          "name": "Brusco, L. I. — Conciencia intersubjetiva del tiempo y la cuestión de la Temporalidad",
+          "role": "Buenos Aires 2016",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa Bioética I, Unidad Académica de Bioética (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-03/PROGRAMA%20DE%20BIOETICA%20I.pdf"
+  }
+}
