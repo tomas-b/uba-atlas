@@ -1,0 +1,277 @@
+{
+  "address": "uba.ffyl.letras.linguistica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · examen final (EF)",
+    "cargaHoraria": "96 hs (mínimo reglamentario declarado en el programa 2023)",
+    "cuatrimestre": "1º (Cátedra B) · 2º (Cátedra A)",
+    "catedra": "Cátedra \"B\" — Prof. Salvio Martín Menéndez · código 0513 · programa 1º cuatrimestre 2023 (REDEC-2022-2847-UBA-DCT#FFYL)",
+    "catedras": 2,
+    "unidades": 3,
+    "bibliografia": 21,
+    "ciclo": "Troncal obligatoria de primer año (posterior a Gramática, según el programa; la etiqueta CFG viene del plan 2023 en el nodo padre) · obligatoria",
+    "equipoDocente": "Adjunta: Carrizo · JTP: Noblia, Toscano y García"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.linguistica",
+      "label": "Lingüística"
+    }
+  ],
+  "eyebrow": "Letras · CFG · troncal · Lingüística",
+  "title": "Forma o función: dos maneras de mirar el lenguaje.",
+  "lede": "El panorama de la lingüística del siglo XX ordenado por un solo eje: formalismo contra funcionalismo. Se entra por Saussure y los conceptos de sistema y valor; se sigue por el lado formal —las escuelas estructurales (Praga, Copenhague, Londres, Yale) y la gramática generativa, de Estructuras sintácticas al modelo minimista— y se sale por el lado funcional: la gramática sistémico-funcional de Halliday, las teorías del significado (actos de habla, implicaturas, cortesía, relevancia) y la sociolingüística hasta el análisis del discurso. Cada teoría se juzga por su objeto, su método y su unidad de análisis.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "examen final"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "6 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "2",
+      "small": "A y B"
+    }
+  ],
+  "frame": "Contenido real del programa de la materia Lingüística, código 0513, carrera de Letras (FFyL-UBA). La materia se dicta en DOS cátedras, ambas con programa oficial publicado en el repositorio FILO:Digital, y con recortes distintos del mismo panorama. Aquí se instancia la CÁTEDRA \"B\" (Prof. Salvio Martín Menéndez, 1º cuatrimestre 2023, aprobado por REDEC-2022-2847 (resolución de modalidad virtual citada en el PDF; el programa no consigna resolución de aprobación)) por ser el programa oficial más reciente: título del programa \"Formalismo y funcionalismo en las teorías lingüísticas contemporáneas\", tres unidades. La CÁTEDRA \"A\" (Prof. Guiomar Elena Ciapuscio, código 0513-A, 2º cuatrimestre 2019, Resolución Nº 2523/15 (según el propio programa)) cubre el mismo lugar del plan con cinco unidades —Fundamentos (lenguaje como hecho biológico y socio-cultural, origen y evolución, internismo, energeia); Breve panorama de la lingüística; El sistema lingüístico (fonética/fonología, morfología, sintaxis en Principios y Parámetros, tipología y alineamiento); Pragmática; El texto y el discurso (tipologías textuales, géneros universitarios)— y bibliografía propia (Bernárdez, Pinker, Benítez Burraco, Saussure, Benveniste, Radford, Eguren y Fernández Soriano, Austin, Searle, Grice, Beaugrande y Dressler, Ciapuscio). CONTRADICCIÓN REGISTRADA sobre la carga horaria: el programa de la cátedra A (Ciapuscio 2019) consigna 128 hs; el programa Menéndez 2023 declara \"carga horaria mínima 96 horas\"; el programa Ciapuscio 2019 declara 8 hs semanales / 128 hs cuatrimestrales. ERRATA DEL ORIGINAL: el PDF de la Cátedra B numera dos veces \"2.1\" dentro de la Unidad 2 (estructuralismo y gramática generativa); acá se ordenan 2.1 y 2.2 respetando la secuencia impresa. Los artículos sueltos, capítulos en obras colectivas y fichas de cátedra del programa no se dibujan como nodo libro.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · programa Cátedra \"B\" (Menéndez, 2023)",
+      "title": "Un eje, dos campos",
+      "note": "Las tres unidades del programa, con los tramos numerados que las componen, en orden.",
+      "map": {
+        "mk": "Formalismo y funcionalismo, en tres unidades",
+        "tree": "LINGÜÍSTICA · código 0513 · Cátedra B\n│\n├─ 1 · La lingüística: formalismo y funcionalismo · Saussure, sistema y valor\n│\n├─ 2 · EL FORMALISMO\n│   ├─ 2.1 · El estructuralismo lingüístico · Praga, Copenhague, Londres, Yale\n│   └─ 2.2 · La gramática generativa · de Estructuras sintácticas al modelo minimista\n│\n└─ 3 · EL FUNCIONALISMO\n    ├─ 3.1 · La gramática sistémico-funcional · Halliday\n    ├─ 3.2 · Las teorías sobre el significado · pragmática\n    └─ 3.3 · La sociolingüística · variedad, relatividad, discurso",
+        "foot": "Recorte de la Cátedra B. La Cátedra A (Ciapuscio) recorre el mismo lugar del plan en cinco unidades, de los fundamentos del lenguaje al texto y el discurso."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica.formalismo-funcionalismo",
+          "name": "La lingüística: formalismo y funcionalismo",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.estructuralismo",
+          "name": "El estructuralismo lingüístico",
+          "role": "Unidad 2 · 2.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.gramatica-generativa",
+          "name": "La gramática generativa",
+          "role": "Unidad 2 · 2.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.sistemico-funcional",
+          "name": "La gramática sistémico-funcional",
+          "role": "Unidad 3 · 3.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.teorias-del-significado",
+          "name": "Las teorías sobre el significado",
+          "role": "Unidad 3 · 3.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.sociolinguistica",
+          "name": "La sociolingüística",
+          "role": "Unidad 3 · 3.3",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa (Cátedra \"B\")",
+      "title": "Las fuentes",
+      "note": "Libros citados en la bibliografía del programa Menéndez 2023, por unidad. Los artículos sueltos y las fichas de cátedra no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-saussure-curso",
+          "name": "Curso de lingüística general — F. de Saussure (Losada, 1981 [1916])",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-saussure-escritos",
+          "name": "Escritos de lingüística general — F. de Saussure (Gedisa, 2004)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-benveniste",
+          "name": "Problemas de lingüística general I — É. Benveniste (Siglo XXI, 1980)",
+          "role": "Unidades 1 y 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-bloomfield",
+          "name": "El lenguaje — L. Bloomfield (Univ. de San Marcos, 1933)",
+          "role": "Unidad 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-hockett",
+          "name": "Curso de lingüística moderna — Ch. Hockett (Eudeba, 1958)",
+          "role": "Unidad 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-chomsky",
+          "name": "El conocimiento del lenguaje — N. Chomsky (Alianza, 1990 [1986])",
+          "role": "Unidad 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-eguren-fernandez",
+          "name": "Introducción a una sintaxis minimista — L. Eguren y O. Fernández Soriano (Gredos, 2004)",
+          "role": "Unidad 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-ghio-fernandez",
+          "name": "Manual de lingüística sistémico-funcional — E. Ghio y M. D. Fernández (UNL, 2005)",
+          "role": "Unidad 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-halliday-semiotica",
+          "name": "El lenguaje como semiótica social — M. Halliday (FCE, 1982 [1972])",
+          "role": "Unidad 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-halliday-hasan",
+          "name": "Cohesion in English — M. Halliday y R. Hasan (Longman, 1978)",
+          "role": "Unidad 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-menendez-gramatica-textual",
+          "name": "¿Qué es una gramática textual? — S. M. Menéndez (Litterae, 2006)",
+          "role": "Unidad 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-menendez-gil-baltar",
+          "name": "La gramática sistémico-funcional. Una introducción — S. M. Menéndez, J. M. Gil y R. Baltar (FFyL, 1999)",
+          "role": "Unidad 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-austin",
+          "name": "Cómo hacer cosas con palabras — J. Austin (Paidós, 1980 [1962])",
+          "role": "Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-searle",
+          "name": "Actos de habla — J. Searle (Cátedra, 1969), caps. 1-3",
+          "role": "Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-sperber-wilson",
+          "name": "Relevancia. Comunicación y cognición — D. Sperber y D. Wilson (Visor, 1986)",
+          "role": "Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-verschueren",
+          "name": "Para entender la pragmática — J. Verschueren (Gredos, 2003 [1999])",
+          "role": "Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-menendez-pragmatica",
+          "name": "El problema de definir pragmática — S. M. Menéndez (FFyL, 1998)",
+          "role": "Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-brown-levinson",
+          "name": "Politeness — P. Brown y S. Levinson (Cambridge University Press, 1987)",
+          "role": "Unidad 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-labov",
+          "name": "Modelos sociolingüísticos — W. Labov (Cátedra, 1980 [1972])",
+          "role": "Unidad 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.libro-fairclough",
+          "name": "Discourse and Social Change — N. Fairclough (Polity Press, 1992), caps. 1 y 8",
+          "role": "Unidad 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica.hymes-competence",
+          "name": "Hymes — On Communicative Competence",
+          "role": "University of Pennsylvania Press, 1972 · Unidad 3.2",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "repositorio.filo.uba.ar · FILO:Digital — Programa de Lingüística \"B\", código 0513 (Cátedra Menéndez, 1º cuatrimestre 2023, REDEC-2022-2847 (resolución de modalidad virtual citada en el PDF; el programa no consigna resolución de aprobación)). Cátedra \"A\": Programa 0513-A (Ciapuscio, 2º cuatrimestre 2019, Resolución Nº 2523/15 (según el propio programa)), https://repositorio.filo.uba.ar/handle/filodigital/16817",
+    "url": "https://repositorio.filo.uba.ar/handle/filodigital/17334"
+  }
+}

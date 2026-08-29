@@ -1,0 +1,104 @@
+{
+  "address": "uba.ffyl.letras.literatura-argentina-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · EF (examen final)",
+    "cargaHoraria": "96 hs",
+    "cuatrimestre": "2º (cátedra A · Laera) · 1º (cátedra B · Amante)",
+    "catedra": "Cátedra A — Prof. Titular Alejandra Laera (código 0511-A, programa 2º cuatr. 2021)",
+    "catedraParalela": "Cátedra B — Prof. Asociada Adriana Amante (código 0-511B, 1º cuatr. 2021, «Literatura y objetos»)",
+    "tituloDelPrograma": "La manifestación de los cuerpos: entre la política, la ciencia y los afectos",
+    "unidades": 8,
+    "corpus": 21,
+    "bibliografiaGeneralObligatoria": 7,
+    "modalidad": "virtual (Res. D 732/20) al momento del programa sourceado",
+    "recomendacion": "se recomienda haber aprobado Teoría Literaria 1 antes de cursar",
+    "rota": "sí — cada cátedra fija su propio recorte y título por año"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.literatura-argentina-1", "label": "Literatura Argentina I" }
+  ],
+  "eyebrow": "Letras · Literatura Argentina y Latinoamericana · Literatura Argentina I",
+  "title": "El siglo XIX argentino, leído por los cuerpos.",
+  "lede": "El primer tramo de la literatura argentina, tomado por la cátedra A (Laera) desde una pregunta material: cómo se manifiesta un cuerpo en la escritura del siglo XIX. Del matadero de Echeverría y el Facundo de Sarmiento a los ranqueles de Mansilla, el Martín Fierro, las cartas de Mariquita Sánchez, la fiebre amarilla de 1871, la multitud naturalista de Cambaceres y Ramos Mejía, y las crónicas de Alfonsina Storni. Ocho unidades, corpus y crítica.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "EF · 96 hs" },
+    { "k": "Unidades", "v": "8", "small": "programa A" },
+    { "k": "Corpus", "v": "21", "small": "lecturas obligatorias" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" }
+  ],
+  "frame": "Contenido real del programa Nº 0511-A de Literatura Argentina I (A), Prof. Titular Alejandra Laera, 2º cuatrimestre de 2021, publicado en letras.filo.uba.ar — título: «La manifestación de los cuerpos: entre la política, la ciencia y los afectos». Régimen EF, 96 horas, dictado virtual según Res. (D) 732/20. Equipo: Graciela Batticuore (asociada); Ansolabehere, El Jaber, Fontana, Gasparini y Segade (JTP); María Vicens (auxiliar). CAVEAT 1 — la materia tiene DOS cátedras simultáneas: la A (Laera, 2º cuatrimestre) y la B (Amante, código 0-511B, 1º cuatrimestre de 2021, titulada «Literatura y objetos», con Introducción y cuatro unidades — Casas, Las armas y las letras, Souvenires, Vidas — sobre Recuerdos de provincia, Amalia, Facundo, Martín Fierro, los Viajes y el Diario de gastos de Sarmiento, Recuerdos de viaje de Eduarda Mansilla, las Causeries y Mis memorias de Lucio V. Mansilla y la Historia de Sarmiento de Lugones). Este nodo dibuja el programa A y registra el B en metadata; el recorte y el título rotan por año en ambas. CAVEAT 2 — el plan 2023 nombra la materia «Literatura Argentina I (Siglos XVI-XIX)», pero ambos programas sourceados llevan el código 0511 (numeración que otros nodos de la serie asocian al plan 1985; los PDFs no nombran plan alguno), se titulan simplemente «Literatura Argentina I», no nombran plan alguno, y acotan su corpus al siglo XIX (Laera lo extiende hasta Storni, 1916-1934; Amante declara «la literatura argentina del siglo XIX»). Ningún programa cubre los siglos XVI-XVIII. CAVEAT 3 — se dibujan como nodos el corpus completo (lecturas obligatorias por unidad) y la bibliografía general obligatoria completa; la bibliografía crítica obligatoria por unidad (31 títulos) y la complementaria (mucho más extensa) están en el programa pero no se dibujan.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "La manifestación de los cuerpos",
+      "note": "Cada unidad del programa Laera (0511-A) es un nodo, en el orden del programa.",
+      "map": {
+        "mk": "El programa, en ocho unidades",
+        "tree": "LITERATURA ARGENTINA I (A) — la manifestación de los cuerpos\n│\n├─ 1 · Variaciones de los cuerpos\n│        El matadero · Facundo\n├─ 2 · Cuerpos cautivos, cuerpos en viaje\n│        La cautiva · Viajes · Juana Manso · Gorriti\n├─ 3 · La conquista de los cuerpos\n│        Una excursión a los indios ranqueles\n├─ 4 · Los cuerpos en fuga y el cuerpo a cuerpo\n│        Martín Fierro · Juan Moreira\n├─ 5 · Sociabilidad e intimidad de los cuerpos\n│        Mariquita Sánchez · Lo íntimo\n├─ 6 · Cuerpos enfermos\n│        la fiebre amarilla de 1871 · Ralph Herne\n├─ 7 · De la sangre y los huesos al cuerpo de la multitud\n│        En la sangre · La bolsa de huesos · Las multitudes argentinas\n└─ 8 · Hacia un sensorio de los cuerpos\n         Ada Elflein · Alfonsina Storni",
+        "foot": "Del momento romántico a las nuevas subjetividades de comienzos del siglo XX: política, ciencia y afectos sobre el cuerpo."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-1.variaciones-de-los-cuerpos", "name": "Variaciones de los cuerpos", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.cuerpos-cautivos-en-viaje", "name": "Cuerpos cautivos, cuerpos en viaje", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.conquista-de-los-cuerpos", "name": "La conquista de los cuerpos", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.cuerpos-en-fuga", "name": "Los cuerpos en fuga y el cuerpo a cuerpo", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.sociabilidad-e-intimidad", "name": "Sociabilidad e intimidad de los cuerpos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.cuerpos-enfermos", "name": "Cuerpos enfermos", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.cuerpo-de-la-multitud", "name": "Manifestación y manifestaciones: de la sangre y los huesos al cuerpo de la multitud", "role": "Unidad 7", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.sensorio-de-los-cuerpos", "name": "Hacia un sensorio de los cuerpos", "role": "Unidad 8", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Corpus · lecturas obligatorias",
+      "title": "Los textos que se leen",
+      "note": "Corpus literario completo del programa 0511-A, en el orden de las unidades. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-el-matadero", "name": "El matadero — Esteban Echeverría (c.1840 / 1871; incluye la «Nota crítica» de Juan María Gutiérrez)", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-facundo", "name": "Facundo — Domingo F. Sarmiento (1845)", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-la-cautiva", "name": "La cautiva — Esteban Echeverría (1837)", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-viajes-sarmiento", "name": "Viajes — Domingo F. Sarmiento («Argel» y «Estados Unidos», 1846-1849)", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-escritos-de-viaje-manso", "name": "Escritos de viaje — Juana Manso (selección, 1846-1868)", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-peregrinaciones", "name": "Peregrinaciones de un alma triste — Juana Manuela Gorriti (1876)", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-ranqueles", "name": "Una excursión a los indios ranqueles — Lucio V. Mansilla (1870)", "role": "Unidad 3", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-martin-fierro", "name": "Martín Fierro — José Hernández (1872 y 1879)", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-juan-moreira", "name": "Juan Moreira — Eduardo Gutiérrez (1880)", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-cartas-a-florencia", "name": "Cartas a Florencia — Mariquita Sánchez (1839-1852)", "role": "Unidad 5", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-lo-intimo", "name": "Lo íntimo — Juana Manuela Gorriti (1874-1892/3); selección de cartas a Ricardo Palma", "role": "Unidad 5", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-la-fiebre-amarilla", "name": "«La fiebre amarilla» — Juana Manuela Gorriti (Sueños y realidades, 1865)", "role": "Unidad 6", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-en-1871", "name": "«En 1871» — Benigno Lugones (La Nación, 1883)", "role": "Unidad 6", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-ralph-herne", "name": "Ralph Herne — William Henry Hudson (1888)", "role": "Unidad 6", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-los-que-pasaban", "name": "«José Manuel Estrada» — Paul Groussac (Los que pasaban, 1919)", "role": "Unidad 6", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-en-la-sangre", "name": "En la sangre — Eugenio Cambaceres (1887)", "role": "Unidad 7", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-la-bolsa-de-huesos", "name": "«La bolsa de huesos» — Eduardo Ladislao Holmberg (1896)", "role": "Unidad 7", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-multitudes-argentinas", "name": "Las multitudes argentinas — José María Ramos Mejía (1899; prefacio y caps. 1, 6 y VII)", "role": "Unidad 7", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-libro-extrano", "name": "Libro extraño, V: Hacia la justicia — Francisco Sicardi (1902)", "role": "Unidad 7", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-por-campos-historicos", "name": "Por campos históricos. Impresiones de viaje — Ada Elflein (selección, 1913/1926)", "role": "Unidad 8", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.libro-storni", "name": "Notas periodísticas (1919-1921) y poemas (1916-1934) — Alfonsina Storni (selección)", "role": "Unidad 8", "tag": "lectura", "kind": "book" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía general obligatoria",
+      "title": "La crítica que cruza todo el programa",
+      "note": "Lista completa de la bibliografía general obligatoria del programa 0511-A. Además, cada unidad tiene su propia bibliografía crítica obligatoria (31 títulos) y complementaria, que están en el programa y no se dibujan como nodos.",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-ahmed", "name": "«La política afectiva del miedo», La política cultural de las emociones — Sara Ahmed (UNAM, 2015)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-barthes", "name": "«El cuerpo de nuevo» — Roland Barthes y Dominique Dufetel (Diálogos, vol. 21, nº 3, 1985)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-foucault-defender", "name": "«Clase del 17 de marzo de 1976», Defender la sociedad — Michel Foucault (FCE, 2000)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-foucault-vigilar", "name": "«El cuerpo de los condenados», Vigilar y castigar — Michel Foucault (Siglo XXI, 1985)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-gilman", "name": "«What Are Stereotypes and Why Use Texts to Study Them?», Difference and Pathology — Sander Gilman (Cornell UP, 1985)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-le-breton", "name": "«Lo inaprehensible del cuerpo», Antropología del cuerpo y modernidad — David Le Breton (Nueva Visión, 2002)", "role": "general", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-1.critica-sontag", "name": "La enfermedad y sus metáforas. El sida y sus metáforas — Susan Sontag (Taurus, 2003; caps. I a VII)", "role": "general", "tag": "crítica", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "letras.filo.uba.ar · Programa Nº 0511-A, Literatura Argentina I (A), Prof. Alejandra Laera, 2º cuatr. 2021", "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0511-A%20LITERATURA%20ARGENTINA%20I%20A%20LAERA.pdf" }
+}

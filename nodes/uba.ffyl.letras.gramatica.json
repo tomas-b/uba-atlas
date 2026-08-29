@@ -1,0 +1,86 @@
+{
+  "address": "uba.ffyl.letras.gramatica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0595-A (Plan 1985) / 15002-A (Plan 2023)",
+    "regimen": "cuatrimestral · promoción con EXAMEN FINAL (EF)",
+    "cargaHoraria": "160 hs (4 teór + 4 práct + 2 teór-práct sem.)",
+    "cuatrimestre": "1º",
+    "catedra": "Cátedra A · Prof. Laura Malena Kornfeld · Depto. de Letras · 1º cuatrim. 2024",
+    "equipoDocente": ["JTP Alicia Avellana", "JTP Lucía Brandani", "Ay. Andrea Bohrn", "Ay. Javier Carol", "Ay. Adriana Manfredini", "Ay. Laiza Otañi", "Ay. Romina Trebisacce", "Ay. Pablo Zdrojewski"],
+    "modalidad": "presencial (hasta 30% virtual asincrónico · REDEC-2023-2382-UBA-DCT#FFYL)",
+    "unidades": 6,
+    "bibliografia": 12,
+    "contradicciones": [
+      "Carga horaria: el plan 2023 de la carrera (nodo padre) asigna 128 hs a Gramática; el programa de la cátedra A declara 160 hs (10 hs semanales). Se registra el dato del programa como fuente primaria de esta materia.",
+      "Régimen: el programa 2024 declara EF (examen final) en portada e interior; el programa 2022 de la misma cátedra declara EF en portada y PD (promoción directa) en el interior. Se toma EF, del programa vigente más reciente."
+    ]
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.gramatica", "label": "Gramática" }
+  ],
+  "eyebrow": "Letras · Ciclo de Formación General · Gramática",
+  "title": "Cómo está hecha una lengua, por dentro.",
+  "lede": "Una de las troncales obligatorias de Letras: la descripción formal del español — morfología y sintaxis — desde un punto de vista sincrónico y descriptivo, no normativo. Del concepto mismo de gramática a la estructura de la palabra, las clases de palabras, la oración simple, la subordinación, y el cierre en la variación: el español de la Argentina, el voseo, el lunfardo, las lenguas de contacto y el problema lógico de la adquisición del lenguaje.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "examen final" },
+    { "k": "Unidades", "v": "6", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Carga", "v": "160 hs", "small": "10 hs sem." }
+  ],
+  "frame": "Contenido real del programa de la cátedra A (Prof. Laura Kornfeld, código 0595-A / 15002-A, 1º cuatrimestre 2024, letras.filo.uba.ar). La materia parte de una concepción de la gramática como construcción teórica basada en datos empíricos, diseñada para describir y explicar el funcionamiento del sistema de la lengua, con énfasis en la variedad del español empleado en Argentina. Es, según el propio programa, la única asignatura que da una reflexión metalingüística sistemática sobre el español a quienes hacen la orientación en literatura. Gramática se dicta en varias cátedras (el sitio del piloto registró un programa de la cátedra C —Borzi— en el repositorio, no sourceado aquí); lo que se lista aquí es el programa de la cátedra A. La bibliografía obligatoria de la Unidad V no es legible en el PDF 2024 (columna cortada en la extracción) y se completó desde el programa 2022 de la misma cátedra, cuyas seis unidades son idénticas.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "De la palabra a la oración, y de la oración a la variación",
+      "note": "Cada unidad del programa es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "GRAMÁTICA — descripción formal del español\n│\n├─ I · Concepto de gramática\n│    ├─ normativa vs. descriptiva · gramaticalidad, corrección, aceptabilidad\n│    └─ estructura modular · categorías léxicas y funcionales\n├─ MORFOLOGÍA\n│    └─ II · morfema · formación de palabras · flexión\n├─ SINTAXIS\n│    ├─ III · clases de palabras · sintagmas (adj., sust., verbo, adv./prep.)\n│    ├─ IV · oración simple · sujeto y predicado · complementos · tipos de se\n│    └─ V · perífrasis · flexión verbal · coordinación y subordinación\n└─ VI · Gramática y variación\n     └─ español de la Argentina · GU e innatismo · adquisición",
+        "foot": "Temas del programa Kornfeld (cátedra A, 1º cuatrim. 2024). Manual central: Di Tullio, Manual de gramática del español. El cierre en variación es propio de esta cátedra: el español rioplatense como objeto gramatical."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.gramatica.concepto-de-gramatica", "name": "Concepto de Gramática", "role": "Unidad I", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.gramatica.morfologia", "name": "Morfología", "role": "Unidad II", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.gramatica.clases-de-palabras-y-sintaxis", "name": "Clases de palabras y sintaxis", "role": "Unidad III", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.gramatica.sintaxis-de-la-oracion-simple", "name": "Sintaxis de la oración simple", "role": "Unidad IV", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.gramatica.flexion-perifrasis-y-subordinacion", "name": "Flexión verbal, perífrasis verbal y oraciones subordinadas", "role": "Unidad V", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.gramatica.gramatica-y-variacion", "name": "Gramática y variación", "role": "Unidad VI", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Obras del listado de bibliografía obligatoria por unidad del programa. Las fichas de cátedra (Kornfeld, Introducción a Gramática, 2010; Ejercicios de morfología y Ejercicios de clases de palabras y sintaxis, 2016; Avellana & Brandani, Ejercicios sobre la estructura del sintagma verbal y sobre perífrasis, 2016) también son obligatorias y son material mimeografiado interno, no libros publicados: no se dibujan como nodos. No indexadas aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.gramatica.libro-di-tullio", "name": "Manual de gramática del español — Á. Di Tullio (La Isla de la Luna, 2005)", "role": "manual central · U1–U5", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-bosque-gutierrez-rexach", "name": "Fundamentos de sintaxis formal — I. Bosque y J. Gutiérrez-Rexach (Akal, 2008)", "role": "U1 · U3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-gramatica-descriptiva", "name": "Gramática descriptiva de la lengua española — I. Bosque y V. Demonte (eds.) (Espasa Calpe, 1999)", "role": "caps. Pena, Alcoba, Bosque, Demonte · U2–U3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-chomsky", "name": "El lenguaje y los problemas del conocimiento — N. Chomsky (Visor, 1988)", "role": "U1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-jakobson", "name": "Ensayos de lingüística general — R. Jakobson (Seix Barral, 1981)", "role": "“Lingüística y poética” · U1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-katamba", "name": "Morphology — F. Katamba (MacMillan, 1993)", "role": "trad. Avellana / Kornfeld · U2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-varela-ortega", "name": "Morfología léxica: la formación de palabras — S. Varela Ortega (Gredos, 2005)", "role": "U2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-kornfeld-cuantificacion", "name": "La cuantificación de adjetivos en el español de la Argentina — L. Kornfeld (El 8vo. Loco, 2010)", "role": "U3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-temas-de-gramatica-y-variacion", "name": "Temas de gramática y variación — L. Kornfeld (ed.) (Waldhuter, 2020)", "role": "caps. Avellana, Brandani, Bohrn, Kornfeld · U5–U6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-censabella", "name": "Las lenguas indígenas en la Argentina — M. Censabella (EUDEBA, 1999)", "role": "U6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-vidal-de-battini", "name": "El español de la Argentina — B. E. Vidal de Battini (Consejo Nacional de Educación, 1964)", "role": "U6", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.gramatica.libro-pinker", "name": "El instinto del lenguaje — S. Pinker (Alianza, 1995)", "role": "U6", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Gramática, Cátedra A (Kornfeld, 1º cuatrim. 2024) · Unidad V completada desde el programa 2022 de la misma cátedra",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0595-A%20GRAM%C3%81TICA%20KORNFELD_0.pdf"
+  },
+  "sources": [
+    { "label": "Programa Gramática A · Kornfeld · 1º cuatrim. 2024 (0595-A / 15002-A) — fuente primaria: unidades I–VI, régimen, carga horaria, equipo docente, bibliografía U1–U4 y U6", "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0595-A%20GRAM%C3%81TICA%20KORNFELD_0.pdf" },
+    { "label": "Programa Gramática A · Kornfeld · 1º cuatrim. 2022 (0595-A) — fuente secundaria: bibliografía obligatoria de la Unidad V, ilegible en el PDF 2024", "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0595-A%20GRAM%C3%81TICA%20A%20KORNFELD.pdf" }
+  ]
+}

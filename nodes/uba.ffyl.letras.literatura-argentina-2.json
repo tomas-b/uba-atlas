@@ -1,0 +1,114 @@
+{
+  "address": "uba.ffyl.letras.literatura-argentina-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0510 (Plan 1985) · 15031 (Plan 2023)",
+    "regimen": "cuatrimestral · EF (examen final)",
+    "cargaHoraria": "96 hs",
+    "cuatrimestre": "1º",
+    "catedra": "Prof. Titular Sylvia Saítta (programa 1º cuatrimestre 2025)",
+    "equipo": "Saítta (titular) · Roman · Jarkowski · Diz · Servelli · Bein · Donato · Méndez · Hernaiz · Canala",
+    "unidades": 4,
+    "corpus": 21,
+    "criticaTransversal": 9,
+    "correlativas": "recomendado: Teoría y Análisis Literario + Literatura Argentina I",
+    "rota": "sí — el eje cambió entre 2018 y 2025 (dos muestras; el ritmo exacto de rotación no está sourceado)"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.literatura-argentina-2", "label": "Literatura Argentina II" }
+  ],
+  "eyebrow": "Letras · Literatura Argentina y Latinoamericana · Siglos XX y XXI",
+  "title": "Literatura y política, de la tormenta del mundo al terrorismo de Estado.",
+  "lede": "El siglo veinte argentino leído por el lazo entre la política como práctica colectiva y la literatura como arte de escribir. Cuatro unidades que van de Arlt, González Tuñón y Borges bajo la sombra de la guerra mundial, a Viñas, Guido y Walsh frente al Estado y su violencia, a Gelman, Lamborghini, Cortázar y Asís en la utopía revolucionaria, y a Puig, Piglia, Saer, Gambaro, Rivera, Gusmán y Kohan narrando el terrorismo de Estado. Un arco que se abre en los años treinta y se cierra en la dictadura de 1976.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "examen final · 96 hs" },
+    { "k": "Unidades", "v": "4", "small": "programa 2025" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · corpus ✓" },
+    { "k": "Eje", "v": "rota", "small": "por año" }
+  ],
+  "frame": "Contenido real del programa de la cátedra Saítta, 1º cuatrimestre 2025 (códigos 0510 Plan 1985 / 15031 Plan 2023, letras.filo.uba.ar), titulado 'Literatura y política. De la tormenta del mundo al terrorismo de Estado'. Régimen EF, 96 horas, modalidad presencial según REDEC-2024-2526-UBA-DCT#FFYL. El programa separa explícitamente 'Lecturas'/'Fuentes' (el corpus literario que se lee) de la 'Bibliografía obligatoria y complementaria' (la crítica); acá se dibujan las Fuentes de las cuatro unidades y la Bibliografía específica transversal. CAVEAT — el eje cambió entre ediciones: la misma titular dictó en 2018 (programa Nº 0515, también Saítta, 1º cuatrimestre) 'El espacio como problema: algunas resoluciones en la literatura argentina del siglo XX', con otras cuatro unidades y otro corpus (Arlt El juguete rabioso, Güiraldes, Quiroga, Girondo, Martínez Estrada, Bioy Casares, Fogwill, Ferreyra). La estructura de cuatro unidades y la cátedra son estables; el recorte anual no. CONTRADICCIÓN registrada: el PDF 2025 se numera CÓDIGO Nº 0510 (Plan 1985) mientras el nombre de archivo publicado y el programa 2018 usan 0515. NO DIBUJADO: la bibliografía obligatoria y complementaria por autor (~169 entradas de crítica, más la Bibliografía específica de la Unidad 4 y la Bibliografía general, tampoco dibujadas) no se emite como nodos; sólo el marco teórico transversal.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "De los años treinta a la última dictadura",
+      "note": "Cada unidad del programa Saítta 2025 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "LITERATURA ARGENTINA II — literatura y política\n│\n├─ 1 · Argentina y la tormenta del mundo\n│        Arlt (el complot) · González Tuñón (revolución) · Borges (pesadillas bélicas)\n├─ 2 · Representaciones del Estado y el poder\n│        Viñas · Guido · Walsh (denuncia, periodismo, policial)\n├─ 3 · Literatura y revolución\n│        Gelman · Lamborghini · Cortázar · Asís\n└─ 4 · La narración del terrorismo de Estado\n         Puig · Piglia · Gambaro · Rivera · Saer · Gusmán · Kohan",
+        "foot": "Temas del programa Saítta 2025. El arco se abre en los años treinta y se cierra en la dictadura militar de 1976."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-2.tormenta-del-mundo", "name": "Argentina y la tormenta del mundo", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.estado-y-poder", "name": "Representaciones del Estado y el poder", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.literatura-y-revolucion", "name": "Literatura y revolución", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.terrorismo-de-estado", "name": "La narración del terrorismo de Estado", "role": "Unidad 4", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Corpus · Fuentes",
+      "title": "Lo que se lee",
+      "note": "Las 'Lecturas'/'Fuentes' del programa: el corpus literario, unidad por unidad. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-arlt-siete-locos", "name": "Los siete locos. Los lanzallamas (1929-1931) — Roberto Arlt", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-tunon-contra", "name": "Selección poética de Contra. La revista de los franco-tiradores (1933) — Raúl González Tuñón", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-tunon-todos-bailan", "name": "Todos bailan (1935) — Raúl González Tuñón", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-borges-ficciones", "name": "Ficciones (1944): «La lotería de Babel», «El jardín de senderos que se bifurcan», «El milagro secreto» — J. L. Borges", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-borges-aleph", "name": "El Aleph (1949): «Deutsches Requiem», «Emma Zunz» — J. L. Borges", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-borges-ensayos", "name": "Ensayos: «Una pedagogía del odio», «Ensayo de imparcialidad», «Definición de germanófilo», «Yo, judío», «Nota sobre la paz» y otros — J. L. Borges", "role": "Unidad 1", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-vinas-duenos", "name": "Los dueños de la tierra (1958) — David Viñas", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-guido-fin-de-fiesta", "name": "Fin de fiesta (1958) — Beatriz Guido", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-walsh-operacion-masacre", "name": "Operación masacre (1957-1973) — Rodolfo Walsh", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-walsh-esa-mujer", "name": "«Esa mujer» (Los oficios terrestres, 1965) — Rodolfo Walsh", "role": "Unidad 2", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-gelman-gotan", "name": "Gotán (1962) — Juan Gelman", "role": "Unidad 3", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-lamborghini-fiord", "name": "El fiord (1969) y «El niño proletario» (Sebregondi retrocede, 1973) — Osvaldo Lamborghini", "role": "Unidad 3", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-cortazar-libro-de-manuel", "name": "Libro de Manuel (1973) — Julio Cortázar", "role": "Unidad 3", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-asis-reventados", "name": "Los reventados (1974) — Jorge Asís", "role": "Unidad 3", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-puig-beso", "name": "El beso de la mujer araña (1976) — Manuel Puig", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-piglia-respiracion", "name": "Respiración artificial (1980) — Ricardo Piglia", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-gambaro-malasangre", "name": "La malasangre (1982) — Griselda Gambaro", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-rivera-dulce-tierra", "name": "En esta dulce tierra (1984) — Andrés Rivera", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-saer-glosa", "name": "Glosa (1985) — Juan José Saer", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-gusman-villa", "name": "Villa (1995) — Luis Gusmán", "role": "Unidad 4", "tag": "lectura", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-kohan-dos-veces-junio", "name": "Dos veces junio (2002) — Martín Kohan", "role": "Unidad 4", "tag": "lectura", "kind": "book" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía específica · transversal",
+      "title": "Con qué se lee",
+      "note": "La 'Bibliografía específica' que el programa lista antes de las unidades: el marco crítico y teórico común a las cuatro. La obligatoria y complementaria por autor (~169 entradas) no se dibuja; tampoco la Bibliografía específica de la Unidad 4 ni la Bibliografía general de cierre.",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-ranciere-politica", "name": "Política de la literatura — Jacques Rancière (Libros del Zorzal, 2011)", "role": "marco teórico", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-sartre-que-es-literatura", "name": "¿Qué es la literatura? — Jean-Paul Sartre (Losada, 1950)", "role": "marco teórico", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-williams-marxismo", "name": "Marxismo y literatura — Raymond Williams (Península, 1977)", "role": "marco teórico", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-auerbach-cultura-politica", "name": "La cultura como política — Erich Auerbach (El Cuenco de Plata, 2017)", "role": "marco teórico", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-vinas-jacobinos", "name": "Literatura argentina y política. De los jacobinos porteños a la bohemia anarquista — David Viñas (Eduvim, 2023)", "role": "crítica argentina", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-vinas-lugones-walsh", "name": "Literatura argentina y política. De Lugones a Walsh — David Viñas (Eduvim, 2023)", "role": "crítica argentina", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-piglia-argentina-en-pedazos", "name": "La Argentina en pedazos — Ricardo Piglia (Ediciones de la Urraca, 1993)", "role": "crítica argentina", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-piglia-tres-propuestas", "name": "Tres propuestas para el próximo milenio (y cinco dificultades) — Ricardo Piglia (FCE, 2001)", "role": "crítica argentina", "tag": "crítica", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-argentina-2.libro-halperin-tormenta", "name": "La Argentina y la tormenta del mundo — Tulio Halperin Donghi (Siglo Veintiuno, 2003)", "role": "historia", "tag": "crítica", "kind": "book" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Literatura Argentina II (Siglos XX y XXI), cátedra Saítta, 1º cuatrimestre 2025 · códigos 0510/15031",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0515%2015031%20LITERATURA%20ARGENTINA%20II%20-%20LITERATURA%20ARGENTINA%20II%20SIGLOS%20XX%20Y%20XXI%20SAITTA.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa Literatura Argentina II, cátedra Saítta, 1º cuatrimestre 2025 (códigos 0510 Plan 1985 / 15031 Plan 2023) — fuente principal: unidades, corpus, régimen, equipo docente",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0515%2015031%20LITERATURA%20ARGENTINA%20II%20-%20LITERATURA%20ARGENTINA%20II%20SIGLOS%20XX%20Y%20XXI%20SAITTA.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Programa Nº 0515, Literatura Argentina II, cátedra Saítta, 1º cuatrimestre 2018 ('El espacio como problema') — corrobora cátedra, cuatrimestre, régimen EF y estructura de 4 unidades; evidencia la rotación anual del eje",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/2018-1%20LITERATURA%20ARGENTINA%20II%20PROGRAMA_0.pdf"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "address": "uba.ffyl.letras.teoria-literaria-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": { "regimen": "cuatrimestral · promoción directa (PD)", "cargaHoraria": "96 horas", "cuatrimestre": "1º", "catedra": "Cátedra Kohan — Prof. Adjunto Regular Martín Diego Kohan · código 0593", "unidades": 3, "bibliografia": 25, "correlativa": "se recomienda haber cursado el primer nivel: Teoría y Análisis Literario A-B o C" },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.teoria-literaria-2", "label": "Teoría Literaria II" }
+  ],
+  "eyebrow": "Letras · área Teoría Literaria · Teoría Literaria II",
+  "title": "Dónde termina el texto y empieza el mundo.",
+  "lede": "Tensiones en torno a la inmanencia de la literatura. La materia toma el problema del adentro y el afuera del discurso literario — su carácter de palabra muda, su forma de cinta de Moebius — y lo recorre por tres entrelugares donde esa frontera se vuelve visible: la política, el cuerpo y el erotismo, y la experiencia narrable o inenarrable. Teoría, crítica y literatura leídas de manera recursiva, con las artes visuales en segundo plano.",
+  "meta": [
+    { "k": "Régimen", "v": "PD", "small": "96 hs · 1º cuatrim." },
+    { "k": "Unidades", "v": "3", "small": "un parcial por unidad" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Cátedra", "v": "Kohan", "small": "código 0593" }
+  ],
+  "frame": "Contenido real del programa Nº 0593, Cátedra Kohan — la única cátedra que dicta la materia según el listado de materias y cátedras de letras.filo.uba.ar. Instanciado sobre el programa 2023 (1º cuatrimestre, presencial, REDEC-2022-2847-UBA-DCT#FFYL), publicado en el repositorio FILO:Digital. CONTRASTE DE FUENTES: el programa 2021 de la misma cátedra (letras.filo.uba.ar, dictado virtual, Res. D 732/20) se titula 'Experiencia, escritura, imagen y cuerpo' y ordena las mismas tres unidades de otro modo — arranca por modernidad/sujeto/experiencia, dedica una unidad entera a imagen y régimen escópico (Berger, Barthes de La cámara lúcida, Didi-Huberman, Foucault de Esto no es una pipa) y cierra en placer/goce/erotismo. El programa 2023 reordena: política primero, experiencia al final, y la unidad de imagen se disuelve — su núcleo (Foucault sobre Las meninas, Rancière) desaparece como unidad; el Rancière de la unidad de política en 2023 (El reparto de lo sensible, Los bordes de lo político) es material nuevo, no migrado. El núcleo común a ambos años: Benjamin y Agamben sobre experiencia y testimonio, Barthes/Eco sobre lectura e interpretación, Bataille y Maingueneau sobre erotismo y pornografía, Rancière sobre el reparto de lo sensible, y 'Emma Zunz' de Borges como fuente. DISCREPANCIA DE EDICIÓN registrada: 'Diario de una Princesa Montonera' de Mariana Eva Pérez figura como Capital Intelectual 2012 en el programa 2021 y como Planeta 2021 en el 2023. RÉGIMEN: el texto 2021 arrastra tanto un régimen con EXAMEN FINAL como el de PROMOCIÓN DIRECTA excepcional de la virtualidad; el 2023 fija PD con dos opciones de aprobación (promedio ≥ 7 sin aplazos, o parciales aprobados más examen final). La ficha de cátedra declara PD. Ambos PDFs se extrajeron íntegros por capa de texto — nada quedó ilegible ni descartado.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades (programa 2023)",
+      "title": "Tres entrelugares del adentro y el afuera",
+      "note": "Cada unidad del programa Kohan 2023 es un nodo, en orden. Cada una cierra con un parcial integrador.",
+      "map": {
+        "mk": "El programa, en tres unidades",
+        "tree": "TEORÍA LITERARIA II · inmanencia y exterioridad\n│\n├─ 1 · Literatura y política · Foucault (Las meninas), Ludmer, Sartre, Rancière, Walsh\n├─ 2 · Lectura, escritura, cuerpo y erotismo · Barthes, Eco, Bataille, Maingueneau\n└─ 3 · Relatos de experiencia · Benjamin, Agamben, Didi-Huberman, Sarlo, Borges",
+        "foot": "Orden del programa 2023. El programa 2021 recorre el mismo material en sentido inverso y con una unidad propia de imagen y régimen escópico."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.teoria-literaria-2.literatura-y-politica", "name": "Literatura y política", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.lectura-cuerpo-erotismo", "name": "Lectura, escritura, cuerpo y erotismo", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.relatos-de-experiencia", "name": "Relatos de experiencia", "role": "Unidad 3", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía teórica obligatoria (programa 2023)",
+      "title": "La teoría que se lee",
+      "note": "Títulos y ediciones tal como los cita el programa. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-foucault-palabras", "name": "Las palabras y las cosas — «Las meninas»", "role": "M. Foucault (Planeta-Agostini, 1984) · Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-ludmer", "name": "Lo que vendrá. Una antología (1963-2013)", "role": "J. Ludmer (Eterna Cadencia, 2021) · Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-ranciere-reparto", "name": "El reparto de lo sensible", "role": "J. Rancière (Prometeo, 2014) · Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-ranciere-bordes-politico", "name": "Los bordes de lo político", "role": "J. Rancière (La cabra, 2007) · Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-sartre", "name": "¿Qué es la literatura?", "role": "J.-P. Sartre (Losada, 1950) · Unidad 1", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-bataille-erotismo", "name": "El erotismo", "role": "G. Bataille (Tusquets, 2006) · Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-barthes-critica-verdad", "name": "Crítica y verdad", "role": "R. Barthes (Siglo XXI, 1968) · Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-eco-lector-in-fabula", "name": "Lector in fabula. La cooperación interpretativa en el texto narrativo", "role": "U. Eco (Lumen, 2ª ed. 1987) · Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-maingueneau", "name": "La literatura pornográfica", "role": "D. Maingueneau (Nueva Visión, 2008) · Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-ranciere-espectador", "name": "El espectador emancipado — «Las paradojas del arte político»", "role": "J. Rancière (Manantial, 2010) · Unidad 2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-agamben-infancia", "name": "Infancia e historia", "role": "G. Agamben (Adriana Hidalgo, 2001) · Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-agamben-auschwitz", "name": "Lo que queda de Auschwitz", "role": "G. Agamben (Pre-Textos, 2000) · Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-benjamin-narrador", "name": "«El narrador», en Sobre el programa de la filosofía futura", "role": "W. Benjamin (Planeta-Agostini, 1986) · Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-benjamin-experiencia-pobreza", "name": "«Experiencia y pobreza», en Discursos interrumpidos", "role": "W. Benjamin (Planeta-Agostini, 1994) · Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-moreno-oracion", "name": "«H.I.J.A.S. de la lengua», en Oración", "role": "M. Moreno (Literatura Random House, 2018) · Unidad 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.libro-sarlo-tiempo-pasado", "name": "Tiempo pasado (caps. 2, 3 y 6)", "role": "B. Sarlo (Siglo XXI, 2005) · Unidad 3", "tag": "libro", "kind": "book" }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Fuentes obligatorias (programa 2023)",
+      "title": "La literatura sobre la que se piensa",
+      "note": "El corpus literario que el programa fija como fuente, unidad por unidad.",
+      "exits": [
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-walsh-esa-mujer", "name": "«Esa mujer», en Los oficios terrestres", "role": "R. Walsh (Jorge Álvarez, 1965) · Unidad 1", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-becerra-interpretacion", "name": "La interpretación del libro", "role": "J. J. Becerra (Candaya, 2012) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-mercado-las-amigas", "name": "«Las amigas», en Sex Shop. Cuentos eróticos argentinos", "role": "T. Mercado (Emecé, 1998) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-menstrual-continuadisimo", "name": "«Lluvia dorada sobre mí», en Continuadísimo", "role": "Naty Menstrual (Eterna Cadencia, 2008) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-pauls-pudor", "name": "El pudor del pornógrafo", "role": "A. Pauls (Anagrama, 2014) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-perlongher-el-polvo", "name": "«El polvo», en Poemas completos", "role": "N. Perlongher (Seix Barral, 2004) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-lugones-oceanida", "name": "«Océanida», en Los crepúsculos del jardín (Obras completas)", "role": "L. Lugones (Aguilar, 1952) · Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-borges-emma-zunz", "name": "«Emma Zunz», en Obras completas", "role": "J. L. Borges (Emecé, 1974) · Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-literaria-2.fuente-perez-princesa-montonera", "name": "Diario de una Princesa Montonera —110% Verdad—", "role": "M. E. Pérez (Planeta, 2021) · Unidad 3", "tag": "fuente", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "repositorio FILO:Digital · Programa de Teoría Literaria II Nº 0593 (Cátedra Kohan, 1º cuatrimestre 2023) · contrastado con el programa 2021 en letras.filo.uba.ar", "url": "https://repositorio.filo.uba.ar/handle/filodigital/17364" }
+}

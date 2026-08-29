@@ -1,0 +1,283 @@
+{
+  "address": "uba.ffyl.letras.literatura-latinoamericana-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0556 (plan 1985) · 15033 (plan 2023)",
+    "regimen": "cuatrimestral · examen final (EF)",
+    "cargaHoraria": "96 hs",
+    "cuatrimestre": "1º",
+    "modalidad": "presencial (REDEC-2022-2847-UBA-DCT#FFYL)",
+    "catedra": "Cátedra Foffani (Prof. Enrique Foffani) — programa 1º cuatrimestre 2023",
+    "equipoDocente": [
+      "Foffani, Enrique (Profesor)",
+      "Lespada, Gustavo (JTP interino)",
+      "Adur Nobile, Lucas (Ay. TP regular)",
+      "Cobas Carral, Andrea (Ay. 1ª regular)",
+      "von der Pahlen, Marina (Ay. 1ª regular)",
+      "López, Alejo (Ay. 1ª interino)",
+      "Bianchi, Paula Daniela (Ay. 1ª interina)"
+    ],
+    "unidades": 7,
+    "bibliografia": 18,
+    "area": "Literatura Argentina y Latinoamericana",
+    "rota": "sí — el título y el corpus del programa cambian con la cátedra"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-latinoamericana-2",
+      "label": "Literatura Latinoamericana II"
+    }
+  ],
+  "eyebrow": "Letras · Literatura Argentina y Latinoamericana · Literatura Latinoamericana II",
+  "title": "El indio, y las culturas que se escriben unas a otras.",
+  "lede": "América Latina del siglo XX y XXI leída por una sola categoría: la transculturación — la palabra que Fernando Ortiz acuñó en 1940 para el choque de culturas que no es asimilación ni pérdida, y que Ángel Rama trasladó cuarenta años después de la antropología a la teoría del relato. Siete unidades siguen la figura del indio desde el modernismo de Darío y el Trilce de Vallejo hasta el guaraní de Roa Bastos, el Pedro Páramo de Rulfo, la poesía mapuche de Huenún y las novelas del exterminio de Saer, de Mattos y Castellanos Moya.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "EF",
+      "small": "cuatrim. · 96 hs"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "programa 2023"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Foco",
+      "v": "rota",
+      "small": "cambia por cátedra"
+    }
+  ],
+  "frame": "Contenido real del programa Nº 0556, 1º cuatrimestre 2023, Cátedra Foffani, título 'Poéticas contemporáneas en torno al indio y los procesos de transculturación en la literatura latinoamericana (S. XX–XXI)' — depositado en el repositorio institucional de la FFyL. Régimen de promoción EF (examen final), 96 hs, modalidad presencial. CONTRADICCIÓN REGISTRADA entre fuentes: (a) el mismo código 0556 tiene en el repositorio un programa de 2017 a cargo de la Prof. Susana Cella, titulado 'Genealogías de la subjetividad en la literatura latinoamericana del siglo XX y XXI', con 8 unidades, 128 hs y otro corpus por completo (Vallejo/Neruda/Guillén, Bombal, Lezama y Orígenes, Felisberto Hernández y Pablo Palacio, los diarios de Arguedas y Rama, Tomás de Mattos, Fernando Vallejo); (b) la ficha vigente de letras.filo.uba.ar lista como profesores adjuntos a María Alejandra Torres y Ezequiel De Rosso, no a Foffani. Es decir: la materia rota de cátedra y con ella rota el programa entero. Se dibujan las unidades y el corpus del programa 2023 por ser el más reciente sourceado; las del 2017 quedan registradas pero no dibujadas. La bibliografía crítica complementaria y sugerida (varios centenares de entradas) no se dibuja: sólo el corpus literario obligatorio.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades",
+      "title": "De la transculturación al exterminio",
+      "note": "Cada unidad del programa 2023 (Cátedra Foffani) es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "LITERATURA LATINOAMERICANA II · el indio y la transculturación\n│\n├─ 1 · Mapa: lengua, sujeto y territorio · Ortiz → Rama\n├─ 2 · Modernismo, postmodernismo, vanguardia · Darío · Vallejo · Mariátegui\n├─ 3 · Los relatos amerindios · del indigenismo al realismo mágico\n│\n├─ POR REGIÓN\n│    4 · Paraguay · guaraní, diglosia, Roa Bastos\n│    5 · México · el mito, Pedro Páramo, el malinchismo\n│    6 · Poesía y cine · Katatay · Huenún · la selva\n└─ 7 · La novela como transculturación · Saer · de Mattos · Castellanos Moya",
+        "foot": "Temas del programa Foffani 2023. Título del programa: 'Poéticas contemporáneas en torno al indio y los procesos de transculturación en la literatura latinoamericana (S. XX–XXI)'."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.mapa-lengua-sujeto-territorio",
+          "name": "Mapa de la literatura latinoamericana: lengua, sujeto y territorio",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.indios-modernismo-vanguardia",
+          "name": "La escena de nuestros indios en el Modernismo, Postmodernismo y Vanguardia",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.relatos-amerindios",
+          "name": "Los relatos de las culturas amerindias: memoria y transculturación",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.guarani-paraguaya",
+          "name": "Transculturación lingüística e imaginario guaraní en la narrativa paraguaya",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.mito-malinchismo-mexicana",
+          "name": "Transculturación del mito, desmitificación de los indios y malinchismo en la narrativa mexicana",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.imaginarios-poesia-cine",
+          "name": "Imaginarios amerindios en la poesía y el cine: explotación, ceremonias y plantas de los dioses",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.novela-transculturacion",
+          "name": "La novela latinoamericana como forma de la transculturación: las memorias amerindias en la contemporaneidad",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Corpus obligatorio",
+      "title": "Las obras",
+      "note": "Selección del corpus del programa 2023 (18 obras dibujadas de ~38 entradas de corpus; el resto — cuentos y poemas sueltos, dos libros de Huenún y los films — queda sin dibujar). No indexados aún como libros (L3). La bibliografía crítica del programa (obligatoria, complementaria y sugerida) es mucho más extensa y no se dibuja acá.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-ortiz-contrapunteo",
+          "name": "Contrapunteo cubano del tabaco y el azúcar — Fernando Ortiz (1940)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-rama-transculturacion",
+          "name": "Transculturación narrativa en América Latina — Ángel Rama (Siglo XXI, 1982)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-arguedas-rios-profundos",
+          "name": "Los ríos profundos — José María Arguedas (1958)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-vallejo-trilce",
+          "name": "Trilce — César Vallejo (1922)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-vallejo-heraldos",
+          "name": "Los heraldos negros — César Vallejo (1919)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-mariategui-7-ensayos",
+          "name": "7 ensayos de interpretación de la realidad peruana — José Carlos Mariátegui (Biblioteca Amauta, 1991)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-icaza-barro-sierra",
+          "name": "Barro de la sierra — Jorge Icaza (1933)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-asturias-leyendas",
+          "name": "Leyendas de Guatemala — Miguel Ángel Asturias (1930)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-cortazar-final-de-juego",
+          "name": "Final de juego — Julio Cortázar (1956)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-roa-bastos-trueno",
+          "name": "El trueno entre las hojas — Augusto Roa Bastos (1953)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-bueno-mar-paraguayo",
+          "name": "Mar paraguayo — Wilson Bueno (1992)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-rulfo-pedro-paramo",
+          "name": "Pedro Páramo — Juan Rulfo (1955)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-monsivais-nuevo-catecismo",
+          "name": "Nuevo catecismo para indios remisos — Carlos Monsiváis (1982)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-huenun-reducciones",
+          "name": "Reducciones — Jaime Huenún (2013)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-vivas-hurtado-komuya-uai",
+          "name": "Komuya uai. Poética ancestral contemporánea — Selnich Vivas Hurtado (2015)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-saer-el-entenado",
+          "name": "El entenado — Juan José Saer (1983)",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-de-mattos-bernabe",
+          "name": "¡Bernabé, Bernabé! — Tomás de Mattos (1988; ed. 2000)",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-2.libro-castellanos-moya-insensatez",
+          "name": "Insensatez — Horacio Castellanos Moya (2004)",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "repositorio.filo.uba.ar · Programa Nº 0556 · Literatura Latinoamericana II · Foffani · 1º cuatrimestre 2023 (FFyL, Depto. de Letras)",
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/d7e83222-db0f-4d13-a11e-3504a7be0976/content"
+  },
+  "sources": [
+    {
+      "label": "repositorio.filo.uba.ar · Programa Nº 0556 · Literatura Latinoamericana II · Foffani · 1º cuatrimestre 2023 (FFyL, Depto. de Letras)",
+      "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/d7e83222-db0f-4d13-a11e-3504a7be0976/content"
+    },
+    {
+      "label": "letras.filo.uba.ar · ficha vigente de la materia (códigos 15033/0556, adjuntos actuales)",
+      "url": "https://letras.filo.uba.ar/literatura-latinoamericana-ii-siglos-xx-y-xxi"
+    }
+  ]
+}

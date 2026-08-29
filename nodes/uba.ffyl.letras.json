@@ -6,12 +6,23 @@
   "metadata": {
     "plan": 2023,
     "resolucion": "ACS-2023-58-UBA (EX-2022-06948796-UBA-DME#FFYL)",
-    "titulos": ["Licenciado/a en Letras", "Profesor/a en Letras"],
+    "titulos": [
+      "Licenciado/a en Letras",
+      "Profesor/a en Letras"
+    ],
     "duracionTeorica": "5 años",
     "cargaHorariaTotal": 3008,
     "materias": 62,
-    "ciclos": ["CBC", "Ciclo de Formación General", "Ciclo de Formación Orientada"],
-    "orientaciones": ["Lingüística", "Literatura", "Letras Clásicas"],
+    "ciclos": [
+      "CBC",
+      "Ciclo de Formación General",
+      "Ciclo de Formación Orientada"
+    ],
+    "orientaciones": [
+      "Lingüística",
+      "Literatura",
+      "Letras Clásicas"
+    ],
     "recorrido": "30 asignaturas (6 CBC + 10 CFG + 14 CFO) + 3 niveles de 2 lenguas modernas"
   },
   "breadcrumb": [
@@ -48,7 +59,7 @@
     },
     {
       "k": "Trazadas",
-      "v": "0",
+      "v": "12",
       "small": "/ 62"
     }
   ],

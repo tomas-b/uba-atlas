@@ -1,0 +1,216 @@
+{
+  "address": "uba.ffyl.letras.sintaxis",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales)",
+    "cuatrimestre": "2º",
+    "codigo": "570",
+    "catedra": "Depto. de Letras · Cátedra “C” de Gramática · Prof. Claudia Borzi (programa Nº 570, 2º cuatrim. 2022)",
+    "equipoDocente": [
+      "BORZI, Claudia (a cargo)",
+      "BARBEITO, Vanina (adjunta)",
+      "FUNES, María Soledad (JTP)",
+      "GUTIÉRREZ, Daniel (ayudante de 1ª)"
+    ],
+    "tituloDelPrograma": "Sintaxis y discurso",
+    "modalidad": "presencial (hasta 30% asincrónico, REDEC-2021-2174-UBA-DCT#FFYL)",
+    "unidades": 8,
+    "bibliografia": 8
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.sintaxis",
+      "label": "Sintaxis"
+    }
+  ],
+  "eyebrow": "Letras · orientación Lingüística · Sintaxis",
+  "title": "Cómo se atan dos cláusulas.",
+  "lede": "Obligatoria de la orientación Lingüística: la sintaxis del español mirada desde el Enfoque Cognitivo-Prototípico (Lakoff, Langacker) tal como lo trabaja la Cátedra “C” de Gramática. El objeto no es la oración aislada sino la combinación de cláusulas en el discurso — relativas, sustantivas, coordinadas, causales, concesivas, condicionales — y los conectores y marcadores que las unen. Cada relación se recorre como problema abierto: qué relación sintáctica asignarle, qué hace el conector, qué dicen los corpus del español de la Argentina.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "programa 570"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa Nº 570 (Prof. Claudia Borzi, 2º cuatrimestre 2022, letras.filo.uba.ar), corroborado contra la versión 2016 del mismo programa Nº 570 de la misma cátedra: las ocho unidades y su orden coinciden. El recorrido va de la concepción misma de las relaciones sintácticas (el continuum coordinación/subordinación, la distribución de la información) a cada zona de combinación de cláusulas — adjetiva, de actante, coordinación, causal-consecutiva, adversativa-concesiva, condicional — y cierra explicitando el marco teórico que lo sostiene. La bibliografía obligatoria es en su mayoría producción de la propia cátedra (Borzi, Barbeito, Funes, Gutiérrez, Morón Usandivaras, Trípodi) sobre corpora del español rioplatense, más un núcleo de obras de referencia. Variación entre versiones: en 2016 las unidades V, VI y VII llevan prefijos de zona (“Centro periferia —”, “Bipolaridad —”) que 2022 suprime, y 2022 agrega el énfasis en la enseñanza en la escuela secundaria; los contenidos son los mismos. Como toda materia de materia dictada por la Cátedra C de Gramática (los programas no consignan otras cátedras), el enfoque es el de esta cátedra, no un consenso disciplinar.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "Las zonas de la combinación de cláusulas",
+      "note": "Cada unidad del programa Nº 570 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en ocho unidades",
+        "tree": "SINTAXIS — sintaxis y discurso (Enfoque Cognitivo-Prototípico)\n│\n├─ 1 · La concepción de las relaciones sintácticas\n│      continuum, cohesión/coherencia, distribución de la información\n├─ ZONAS DE COMBINACIÓN\n│    ├─ 2 · Subordinación adjetiva y adjunción — relativas\n│    ├─ 3 · Subordinación de actante, bipolaridad y adjunción\n│    ├─ 4 · Coordinación, yuxtaposición e inciso\n│    ├─ 5 · Relaciones causales y consecutivas\n│    ├─ 6 · Relaciones adversativas y concesivas\n│    └─ 7 · Relaciones condicionales\n└─ 8 · El marco teórico — prototipo, categorización, gramaticalización",
+        "foot": "Temas del programa Borzi 2022 (Nº 570). Cada unidad de la II a la VII toma una zona del continuum sintáctico y la trata como problema pendiente: qué relación asignar, qué conectores la marcan, qué muestra el uso. La Unidad VIII, que fundamenta todo el recorrido, va al final."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sintaxis.relaciones-sintacticas",
+          "name": "La concepción de las relaciones sintácticas",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.subordinacion-adjetiva",
+          "name": "Subordinación adjetiva y adjunción · cláusulas relativas",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.subordinacion-actante",
+          "name": "Subordinación de actante, bipolaridad y adjunción",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.coordinacion",
+          "name": "Coordinación, yuxtaposición e inciso",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.causales-consecutivas",
+          "name": "Relaciones causales y consecutivas",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.adversativas-concesivas",
+          "name": "Relaciones adversativas y concesivas",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.condicionales",
+          "name": "Relaciones condicionales",
+          "role": "Unidad VII",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.marco-teorico",
+          "name": "El marco teórico · Enfoque Cognitivo-Prototípico",
+          "role": "Unidad VIII",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Títulos de volumen de la bibliografía obligatoria del programa Nº 570. El grueso de la obligatoria son artículos y ponencias de la propia cátedra (Borzi, Barbeito, Funes, Gutiérrez) y no se dibuja como libro. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-lakoff",
+          "name": "Women, Fire and Dangerous Things — G. Lakoff (The University of Chicago Press, 1987; la obligatoria del programa imprime «LAKOFF, J.», corregido a G. porque el propio PDF dice «G. Lakoff» en su fundamentación)",
+          "role": "marco teórico · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-langacker",
+          "name": "Foundations of Cognitive Grammar: Descriptive Application — R. Langacker (Stanford University Press, 1991)",
+          "role": "marco teórico · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-nueva-gramatica-rae",
+          "name": "Nueva Gramática de la Lengua Española — Real Academia Española (Espasa, 2009)",
+          "role": "obra de referencia · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-gramatica-descriptiva",
+          "name": "Gramática descriptiva de la lengua española — I. Bosque y V. Demonte (dirs.) (Espasa Calpe, 1999)",
+          "role": "Martín Zorraquino/Portolés U1 · Delbecque/Lamiroy U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-veiga-mosteiro",
+          "name": "El modo verbal en cláusulas condicionales, causales, consecutivas, concesivas, finales y adverbiales de lugar, tiempo y modo — A. Veiga y M. Mosteiro Louzao (Universidad de Salamanca, 2006)",
+          "role": "U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-van-dijk-handbook",
+          "name": "Handbook of Discourse Analysis: Dimensions of Discourse — T. A. van Dijk (ed.) (Orlando, 1985) · cap. “Semantic Discourse Analysis”",
+          "role": "U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-haiman-iconicity",
+          "name": "Iconicity in Syntax — J. Haiman (ed.) (John Benjamins, 1985) · cap. “Symmetry”",
+          "role": "U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sintaxis.libro-homenaje-kovacci",
+          "name": "Volumen Homenaje a Ofelia Kovacci — Eudeba (2001) · Borzi, “Coordinación y subordinación: zonas de una ojiva”",
+          "role": "U1",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Sintaxis Nº 570 (Borzi, 2º cuatrim. 2022) · corroborado con la versión 2016 del mismo programa",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0570%20SINTAXIS%20BORZI_0.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de Sintaxis Nº 570 (Borzi, 2º cuatrim. 2022) · corroborado con la versión 2016 del mismo programa",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0570%20SINTAXIS%20BORZI_0.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Sintaxis Nº 570, cátedra Borzi, 2º cuatr. 2016 (versión corroborante)",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/SINTAXIS%20BORZI.pdf"
+    }
+  ]
+}

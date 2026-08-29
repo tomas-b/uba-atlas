@@ -1,0 +1,284 @@
+{
+  "address": "uba.ffyl.letras.sociolinguistica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 hs",
+    "cuatrimestre": "1º",
+    "catedra": "Cátedra Zullo (Prof. Regular Adjunta Julia Zullo) · código 0573",
+    "equipoDocente": "JTP: Mariana Szretter · ATP: Gabriel Dvoskin, Paula Sylvina García, Lucía Hellín",
+    "unidades": 8,
+    "bibliografia": 20,
+    "recomendadas": "haber cursado/aprobado Gramática y Lingüística General",
+    "modalidad": "presencial, hasta 30% asincrónico (REDEC-2022-2847-UBA-DCT#FFYL)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.sociolinguistica",
+      "label": "Sociolingüística"
+    }
+  ],
+  "eyebrow": "Letras · orientación Lingüística · Sociolingüística",
+  "title": "Ninguna lengua es un todo homogéneo.",
+  "lede": "La materia estudia la variación y el cambio lingüísticos: el lenguaje en uso, con hablantes reales. Su hipótesis de trabajo es la no homogeneidad de los dialectos — pensar una lengua como un todo estático es una ficción, y sostener esa homogeneidad tiene consecuencias para las comunidades de hablantes y para el sistema educativo, porque el recorte se hace siempre desde una hegemonía ideológica y dialectal. Ocho unidades que van del variacionismo de Labov y Lavandera a la etnografía del habla, la escuela como escena de la variación, y el discurso como ideología.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "promoción directa"
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "96 hs · 1º cuatri"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedra",
+      "v": "Zullo",
+      "small": "cód. 0573"
+    }
+  ],
+  "frame": "Contenido real del programa Nº 0573, Cátedra Zullo. Sourceado de DOS programas oficiales que se verifican entre sí: (a) el programa 1º cuatrimestre 2023 (repositorio FILO:Digital, uba_ffyl_p_2023_1_let_sociolingüística.pdf) — la fuente principal citada abajo; (b) el programa 1º cuatrimestre 2020 (PDF en letras.filo.uba.ar). Las OCHO unidades, sus títulos y sus contenidos son idénticos palabra por palabra en ambos: el núcleo de la materia es estable. CONTRADICCIONES REGISTRADAS: (1) régimen — el programa 2020 declara 'PD' pero desarrolla dos regímenes alternativos (Promoción Directa o Examen Final); el de 2023 declara solo Promoción Directa, con una Opción B que termina en examen final. Se instancia el de 2023 por ser el más reciente. (2) Bibliografía — Raiter y Zullo (2020) 'Variación en el aula' (Aique) figura en las unidades 6 y 8 del programa 2023 y no existe en el de 2020, por ser posterior. (3) Fasold aparece fechado (1990) en la bibliografía complementaria de la Unidad 1 y (1998) en la bibliografía general, dentro del mismo documento, ambos años. (4) Carga horaria — 2020 detalla 6 hs semanales (4 teóricas + 2 prácticas); 2023 fija un mínimo de 6 y un máximo de 10 semanales. En ambos: 96 hs cuatrimestrales. Nada quedó ilegible: los dos PDF se extrajeron por capa de texto, sin OCR. Los ítems de bibliografía que son artículos o capítulos sueltos (Lavandera 1988, Labov y Waletzky 1967, Trew 1979, Nussbaum y Tusón 1996, Corvalán, Norrick 2005, entre otros) están en el programa pero no se dibujan como nodos-libro; abajo van los libros obligatorios.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "Del variacionismo a la ideología",
+      "note": "Cada unidad del programa 0573 es un nodo, en orden. Idénticas en los programas 2020 y 2023.",
+      "map": {
+        "mk": "El programa 0573, en ocho unidades",
+        "tree": "SOCIOLINGÜÍSTICA\n│\n├─ 1 · Estudiar el uso · el lenguaje en uso, el contexto, los límites de lo formal\n├─ 2 · ¿Qué hace la Sociolingüística? · método, trabajo de campo, la variable\n├─ 3 · La variación se extiende · relativismo, léxico, morfología, reinterpretación\n├─ 4 · El uso como evento comunicativo · comunidad, etnografía del habla, registro\n├─ 5 · La variación en el aula · teoría del déficit, dialecto estándar, fracaso escolar\n├─ 6 · ¿Qué enseñar en clase de lengua? · NAP, comunicativo vs. estructuralista\n├─ 7 · Conversaciones y narrativas · narración espontánea, evaluación, mitigación\n└─ 8 · Discurso, lenguaje, ideología · representaciones sociales, sentido común",
+        "foot": "El eje: la variación es inherente al lenguaje en uso, pero no independiente del entorno social — y el lenguaje resulta desigual y antidemocrático respecto de los roles sociales que un hablante puede ocupar."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.estudiar-el-uso",
+          "name": "Estudiar el uso",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.que-hace-la-sociolinguistica",
+          "name": "¿Qué hace la Sociolingüística?",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.la-variacion-se-extiende",
+          "name": "La variación se extiende",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.evento-comunicativo",
+          "name": "El uso como evento comunicativo",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.la-variacion-en-el-aula",
+          "name": "La variación en el aula",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.que-ensenar-en-clase-de-lengua",
+          "name": "¿Qué enseñar en clase de lengua?",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.conversaciones-y-narrativas",
+          "name": "Conversaciones y narrativas",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.discurso-lenguaje-ideologia",
+          "name": "Discurso, lenguaje, ideología",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Las fuentes",
+      "note": "Libros obligatorios del programa 0573, tal como los cita la cátedra. No indexados aún como libros (L3). Los artículos y capítulos sueltos del programa no se dibujan acá.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-labov-modelos",
+          "name": "Modelos sociolingüísticos — W. Labov (Cátedra, Madrid, 1972)",
+          "role": "Unidades 1 y 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-lavandera-variacion",
+          "name": "Variación y significado — B. Lavandera (Hachette, Buenos Aires, 1984)",
+          "role": "Unidades 2, 3, 4 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-raiter-zullo-sujetos",
+          "name": "Sujetos de la lengua. Introducción a la lingüística del uso — A. Raiter y J. Zullo (Gedisa, Barcelona, 2004)",
+          "role": "Unidades 1, 2 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-raiter-lenguaje-en-uso",
+          "name": "Lenguaje en uso. Enfoque sociolingüístico — A. Raiter (AZ editores, Buenos Aires, 1995)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-sapir-el-lenguaje",
+          "name": "El lenguaje. Introducción al estudio del habla — E. Sapir (FCE, México, 1954/1996)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-whorf-lenguaje-pensamiento",
+          "name": "Lenguaje, pensamiento y realidad — B.L. Whorf (Seix Barral, Madrid, 1971)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-gumperz-discourse-strategies",
+          "name": "Discourse Strategies — J. Gumperz (Cambridge U.P., 1982) · cap. «Convenciones de contextualización», hay traducción",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-halliday-semiotica-social",
+          "name": "El lenguaje como semiótica social — M.A.K. Halliday (FCE, México, 1978/1987)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-bernstein-pedagogia",
+          "name": "Pedagogía, control simbólico e identidad — B. Bernstein (Morata, Madrid, 1998)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-bourdieu-que-significa-hablar",
+          "name": "¿Qué significa hablar? — P. Bourdieu (Akal, Barcelona)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-gee-literacies",
+          "name": "Literacies and Discourses — J.P. Gee (Sage, Londres, 1997)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-kress-literacy-new-media",
+          "name": "Literacy in the New Media Age — G. Kress (Routledge, Londres, 2003) · hay traducción de la cátedra",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-raiter-zullo-variacion-aula",
+          "name": "Variación en el aula — A. Raiter y J. Zullo (Aique, Buenos Aires, 2020)",
+          "role": "Unidades 6 y 8 · solo en el programa 2023",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-rosetti-zamudio-gramatica",
+          "name": "La gramática actual: Nuevas dimensiones — M. Rosetti y B. Zamudio de Molina (Plus Ultra, Buenos Aires, 1984)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-defina-georgakopoulou-narrative",
+          "name": "Analysing Narrative. Discourse and Sociolinguistic Perspectives — A. De Fina y A. Georgakopoulou (Cambridge U.P., 2012) · hay traducción de la cátedra",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-hodge-kress-ideologia",
+          "name": "El lenguaje como ideología — B. Hodge y G. Kress (1979; 2ª ed. 1993) · traducción y selección de la cátedra",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-raiter-sentido-comun",
+          "name": "Lenguaje y sentido común — A. Raiter (Biblos, Buenos Aires, 2003)",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-raiter-zullo-representaciones",
+          "name": "Representaciones sociales — A. Raiter, J. Zullo y otros (EUDEBA, Buenos Aires, 2001)",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.libro-voloshinov-marxismo",
+          "name": "El marxismo y la filosofía del lenguaje — V. Voloshinov (1929; Alianza Universidad, Madrid, 1992)",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sociolinguistica.kress-literacy",
+          "name": "Kress — Literacy",
+          "role": "Longman, Londres 2002 · Unidad 5 (obligatoria)",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "repositorio.filo.uba.ar · Programa de Sociolingüística Nº 0573 (Cátedra Zullo, 1º cuatrimestre 2023) · verificado contra el programa 1º cuatrimestre 2020 en letras.filo.uba.ar",
+    "url": "https://repositorio.filo.uba.ar/handle/filodigital/17363"
+  }
+}

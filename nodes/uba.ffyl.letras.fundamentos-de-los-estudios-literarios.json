@@ -1,0 +1,126 @@
+{
+  "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "15001",
+    "regimen": "cuatrimestral · promoción directa (PD) en cátedra A · examen final (EF) en cátedra B",
+    "cargaHoraria": "96 hs",
+    "cuatrimestre": "1º (cátedra A) · 2º (cátedra B)",
+    "catedra": "Cátedra A — Dr. Facundo Ruiz, Profesor Asociado (cód. 15001-A, 1º cuat. 2024)",
+    "catedraParalela": "Cátedra B — Prof. Inés de Mendonça (cód. 15001-B, 2º cuat. 2025)",
+    "catedras": 2,
+    "tituloDelPrograma": "Literatura, un pentagrama",
+    "unidades": 5,
+    "bibliografiaObligatoria": 28,
+    "fuentes": 21,
+    "ciclo": "Ciclo de Formación General · troncal",
+    "modalidad": "presencial, hasta 30% virtual asincrónico (REDEC-2023-2382-UBA-DCT#FFYL)"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios", "label": "Fundamentos de los Estudios Literarios" }
+  ],
+  "eyebrow": "Letras · CFG · troncal · cód. 15001",
+  "title": "La primera materia: qué es esto que llamamos literatura.",
+  "lede": "La puerta de entrada a la carrera. Cinco unidades que van de las piezas breves —un cuento, un poema— a la Poética de Aristóteles, de la mímesis a la novela realista y al romanticismo, del ensayo como forma de la crítica a la literatura en sus zonas afines: el aula, el laboratorio, el cine, la música. No los problemas de fondo, sino las cuestiones fundantes: armar un vocabulario, aprender a leer como se lee en Letras y a escribir esas lecturas.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "96 hs · PD" },
+    { "k": "Unidades", "v": "5", "small": "programa Ruiz" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Cátedras", "v": "2", "small": "A · B" }
+  ],
+  "frame": "Contenido real del programa de la cátedra A (cód. 15001-A, Dr. Facundo Ruiz, Profesor Asociado, 1º cuatrimestre 2024, 96 hs, régimen de promoción directa), titulado 'Literatura, un pentagrama' y publicado en letras.filo.uba.ar. Las cinco unidades, la bibliografía obligatoria y las fuentes de abajo salen únicamente de ese PDF. ATRIBUCIÓN: la materia se dicta en dos cátedras con programas distintos — la cátedra B (cód. 15001-B, Prof. Inés de Mendonça, 2º cuatrimestre 2025, 96 hs, régimen de examen final) también organiza el curso en cinco unidades, pero con otro recorte: '¿Literatura o literaturas?', 'El problema de las formas', 'Formas líricas: el verso y el poema', 'Formas dramáticas: texto y escena' y 'Formas narrativas: problemas formales e históricos'. Las dos versiones se registran, no se resuelven: este nodo dibuja la cátedra A y cita la B. CAVEATS DE FUENTE: (1) el PDF de la cátedra A deja el bloque de equipo docente sin completar — literalmente '[CARGO]: [APELLIDO y NOMBRE]' — así que sólo el titular está nombrado; (2) en la Unidad 3 el programa imprime dos veces el rótulo 'Bibliografía complementaria', donde las unidades 1 y 2 imprimen 'Bibliografía sugerida' y luego 'complementaria'; (3) hay erratas menores de tipeo en listas no dibujadas ('Culler, Jona' por Jonathan Culler; 'Williams, Carlos William' por William Carlos Williams). Nada de eso se corrige aquí. Sólo se dibuja la bibliografía OBLIGATORIA por unidad y las FUENTES (las obras leídas); la sugerida y la complementaria del programa —más de cien títulos— quedan sin nodo.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Un pentagrama: cinco líneas para leer",
+      "note": "Las cinco unidades del programa Ruiz, en orden.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "FUNDAMENTOS DE LOS ESTUDIOS LITERARIOS — 'Literatura, un pentagrama'\n│\n├─ 1 · PASAJES · objetos, diagramas y deslindes\n│        ¿qué estudian los estudios literarios? · autoría y ficción · canon y crítica\n│        géneros y feminismos · las pequeñas piezas: relato y poema\n├─ 2 · AGONISMOS · teatro del mundo y mundo del teatro\n│        ¿quién habla en el poema? · retórica y versificación · barroco\n│        discurso teatral · de la tragedia ática al teatro épico\n├─ 3 · MÍMESIS · real no es la naturaleza\n│        romanticismos · realismo y novela · narrador, punto de vista, tiempo\n│        el concepto moderno de literatura · las historias literarias\n├─ 4 · HIPÓTESIS · el arte que fue jueves\n│        el ensayo como forma · tema, hipótesis, corpus, citación\n│        teoría literaria: literatura / sociedad · geopolíticas del concepto\n└─ 5 · APROXIMACIONES · letras, políticas y públicas\n         enseñanza e investigación: aulas y laboratorios\n         transposición: el cine y la música",
+        "foot": "Del vocabulario común a la práctica pública. La materia recibe al estudiante en la carrera y le arma el mapa."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.pasajes", "name": "Pasajes. Objetos, diagramas y deslindes", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.agonismos", "name": "Agonismos. Teatro del mundo y mundo del teatro", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.mimesis", "name": "Mímesis. Real no es la naturaleza", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.hipotesis", "name": "Hipótesis. El arte que fue jueves", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.aproximaciones", "name": "Aproximaciones. Letras, políticas y públicas", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Los 28 textos críticos que hay que leer",
+      "note": "El programa no trae una lista general: reparte la bibliografía por unidad en obligatoria / sugerida / complementaria. Se dibuja únicamente la OBLIGATORIA, con la unidad a la que pertenece. No indexados aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-louis", "name": "«Notas acerca de una posible articulación epistemológica de los estudios literarios con las ciencias humanas y sociales» — A. Louis (Exlibris 2, 2013)", "role": "Unidad 1", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-molloy", "name": "«La flexión del género en el texto cultural latinoamericano» — S. Molloy (Cuadernos de literatura 15, 2002)", "role": "Unidad 1", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-piglia", "name": "«Tesis sobre el cuento», Formas breves — R. Piglia (Anagrama, 2000)", "role": "Unidad 1", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-wellek-warren", "name": "«La literatura y los estudios literarios» y «Géneros literarios», Teoría literaria — R. Wellek y A. Warren (Gredos, 1979)", "role": "Unidad 1", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-barthes-teatro-griego", "name": "«El teatro griego», Lo obvio y lo obtuso — R. Barthes (Paidós, 1986)", "role": "Unidad 2", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-fogwill", "name": "«Encuesta: La especificidad del lenguaje poético», Los libros de la guerra — E. Fogwill (Mansalva, 2008)", "role": "Unidad 2", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-guerrero", "name": "Teorías de la lírica — G. Guerrero (FCE, 1998) [«El silencio de Aristóteles», «Horacio», «Mimesis y poesía lírica»]", "role": "Unidad 2", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-daulte", "name": "«Juego y Compromiso: el Procedimiento» — J. Daulte (Pausa 39, 2017)", "role": "Unidad 2", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-reyes-jacob", "name": "«Jacob o idea de la poesía», La experiencia literaria — A. Reyes (Losada, 1969)", "role": "Unidad 2", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-auerbach-mole", "name": "«La mansión de la Mole» y «Epílogo», Mimesis — E. Auerbach (FCE, 2006)", "role": "Unidad 3", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-genette", "name": "«Discurso del relato» (selección), Figuras III — G. Genette (Lumen, 1989)", "role": "Unidad 3", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-rama-marti", "name": "«José Martí en el eje de la modernización poética: Whitman, Lautréamont, Rimbaud» — Á. Rama (NRFH 32, 1983)", "role": "Unidad 3", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-williams-raymond", "name": "«El artista romántico», Cultura y sociedad. 1780-1950 — R. Williams (Nueva Visión, 2001)", "role": "Unidad 3", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-auerbach-ulises", "name": "«La cicatriz de Ulises», Mimesis — E. Auerbach (FCE, 2006)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-borges", "name": "«El escritor argentino y la tradición», Discusión — J. L. Borges (Emecé, 1974)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-delfino", "name": "«Prólogo», La mirada oblicua. Estudios culturales y democracia — S. Delfino (La Marca, 1993)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-gramuglio", "name": "«Literatura argentina y literaturas europeas», Nacionalismo y cosmopolitismo en la literatura argentina — M. T. Gramuglio (Ed. Municipal de Rosario, 2013)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-henriquez-urena", "name": "«El descontento y la promesa», La utopía de América — P. Henríquez Ureña (Ayacucho, 1989)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-rama-autonomia", "name": "«Autonomía literaria en América Latina», La crítica de la cultura en América Latina — Á. Rama (Ayacucho, 1985)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-ranciere", "name": "«Las desventuras del pensamiento crítico», El espectador emancipado — J. Rancière (Manantial, 2013)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-sarlo", "name": "«La crítica: entre la literatura y el público» — B. Sarlo (Espacios 1, 1984)", "role": "Unidad 4", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-perspectivas", "name": "Perspectivas actuales de la investigación literaria — AAVV (Editorial FFyL-UBA, 2011) [selección]", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-bernini", "name": "«La transposición política», Historia crítica de la literatura argentina t. III — E. Bernini (Paradiso, 2007)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-bombini", "name": "«Enseñanza de la literatura y didáctica específica: notas sobre la constitución de un campo» — G. Bombini (Signo&Seña 19, 2008)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-frith", "name": "«Las canciones como textos», Ritos de la interpretación — S. Frith (Paidós, 2014)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-parchuc", "name": "«Escribir en la cárcel como proyecto» — J. P. Parchuc (Cuestiones criminales 1-2, 2018)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-tennina", "name": "«Crítica situada: cuatro postulados sobre el trabajo de la crítica literaria en la cotidianeidad» — L. Tennina (Est. de Lit. Bras. Contemporânea 64, 2021)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.libro-zunino-dvoskin", "name": "«Tirándole (de) la lengua a la ESI: con la lengua sí nos metemos» — G. M. Zunino y G. Dvoskin (SocArXiv 11, 2022)", "role": "Unidad 5", "tag": "obligatoria", "kind": "book" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes · las obras",
+      "title": "Lo que efectivamente se lee",
+      "note": "El programa separa 'Fuentes' de la bibliografía crítica: son las obras literarias del curso, algunas marcadas [Prácticos]. Las fuentes de la Unidad 5 no son libros sino cine y música — The Killers de Don Siegel (1964) y de Andrei Tarkovsky (1956), y 'Elegia' de Caetano Veloso (Cinema Transcendental, 1979) — y no se dibujan como nodos-libro.",
+      "exits": [
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-pequenas-piezas", "name": "Las pequeñas piezas, selección — AAVV (L. Berlin, R. Akutagawa, E. Hemingway, P. Lemebel, A. Storni, I. Bachmann, F. García Lorca)", "role": "Unidad 1", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-dante", "name": "La vida nueva — Dante Alighieri (trad. Silvio Mattoni, De todos los mares, 2022)", "role": "Unidad 1", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-clarke", "name": "El fin de la infancia — A. C. Clarke (trad. Luis Domènech, Minotauro, 2015)", "role": "Unidad 1", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-poesia-barroca", "name": "Poesía barroca, selección — AAVV (sor Juana, Quevedo, Donne)", "role": "Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-aristoteles", "name": "Poética — Aristóteles (trad. Eduardo Sinnot, Colihue, 2006) [selección]", "role": "Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-brecht", "name": "El círculo de tiza caucasiano — B. Brecht (trad. Oswald Bayer, Nueva Visión, 1984)", "role": "Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-sofocles", "name": "Antígona — Sófocles (trad. Assela Alamillo, Gredos, 2000)", "role": "Unidad 2", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-lope", "name": "El castigo sin venganza — Lope de Vega (ed. Antonio Carreño, Cátedra, 1990)", "role": "Unidad 2 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-racine", "name": "Los litigantes — J. Racine (trad. Flor Robles Villafranca, Orbis, 1983)", "role": "Unidad 2 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-shakespeare", "name": "Rey Lear — W. Shakespeare (trad. Rolando Costa Picazo, Colihue, 2004)", "role": "Unidad 2 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-poesia-romantica", "name": "Poesía romántica, selección — AAVV (Wordsworth, Keats, Hölderlin, Dickinson, Echeverría)", "role": "Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-balzac", "name": "La búsqueda de lo absoluto — H. de Balzac (trad. Javier Albiñana, Nórdica, 2018)", "role": "Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-marti", "name": "«El poema del Niágara» (prólogo), Escenas norteamericanas y otros textos — J. Martí (Corregidor, 2010)", "role": "Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-stael", "name": "«De la literatura en sus relaciones con las instituciones sociales» — Mme. de Staël (Revista UIS 28, 1999)", "role": "Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-wordsworth", "name": "«Prólogo» y «Apéndice sobre la Dicción poética», Baladas líricas — W. Wordsworth (ed. bilingüe, trad. E. Sánchez Fernández, Hiperión, 1999)", "role": "Unidad 3", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-austen", "name": "Orgullo y prejuicio — J. Austen (trad. Armando Lázaro Ros, Aguilar, 1987)", "role": "Unidad 3 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-machado-de-assis", "name": "Memorias póstumas de Brás Cubas — J. M. Machado de Assis (trad. Adriana Amante, De la Flor, 2003)", "role": "Unidad 3 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-soseki", "name": "Botchan — Natsume Sōseki (trad. José Pazó, Impedimenta, 2008)", "role": "Unidad 3 · prácticos", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-no-manifiestos", "name": "Textos en contra / no-manifiestos — AAVV (M. Proust, R. Darío, C. Vallejo, W. Gombrowicz, S. Freud, M. Fernández)", "role": "Unidad 4", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-chesterton", "name": "El hombre que fue jueves (Pesadilla) — G. K. Chesterton (trad. Alfonso Reyes, FCE, 2010)", "role": "Unidad 4", "tag": "fuente", "kind": "book" },
+        { "address": "uba.ffyl.letras.fundamentos-de-los-estudios-literarios.fuente-demitropulos", "name": "El río de las congojas — L. Demitrópulos (FCE, 2022)", "role": "Unidad 4", "tag": "fuente", "kind": "book" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa 15001-A «Fundamentos de los Estudios Literarios» (Prof. Facundo Ruiz, 1º cuat. 2024). Cátedra paralela: 15001-B (Prof. Inés de Mendonça, 2º cuat. 2025).",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/15001-A%20FUNDAMENTOS%20DE%20ESTUDIOS%20LITERARIOS%20RUIZ.pdf"
+  }
+}

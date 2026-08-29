@@ -1,0 +1,82 @@
+{
+  "address": "uba.ffyl.letras.teoria-y-analisis-literario",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 h",
+    "promocion": "EF (Examen Final)",
+    "codigo": "0554 C",
+    "catedra": "Delfino (C) · 2021, 1er cuatrimestre",
+    "titulo": "Políticas de la teoría y la crítica: contiendas y perspectivas de análisis literario",
+    "modalidad": "virtual (Res. D 732/20)",
+    "unidades": 5,
+    "bibliography": true
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.teoria-y-analisis-literario", "label": "Teoría y Análisis Literario" }
+  ],
+  "eyebrow": "Teoría y Análisis Literario «C» · Depto. de Letras · troncal del CFG",
+  "title": "Cien años de peleas sobre qué es la literatura.",
+  "lede": "La materia no enseña «la teoría literaria»: enseña las <b>contiendas</b> que la fueron formando. Arranca con los formalistas rusos de las primeras décadas del siglo XX discutiendo con las vanguardias sobre si el arte transforma la vida, y sigue el hilo hasta hoy —Frankfurt, la crítica de la autonomía del arte, el postestructuralismo, las políticas de la diferencia—. La última unidad cierra el círculo: aplicar todo eso a textos concretos, y escribir crítica.",
+  "meta": [
+    { "k": "Régimen", "v": "cuatrim.", "small": "96 h · EF" },
+    { "k": "Unidades", "v": "5", "small": "programa" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Eje", "v": "contiendas", "small": "teoría y crítica" }
+  ],
+  "frame": "Grounded en el programa 2021 de la cátedra «C» (Delfino Silvia; profesor consulto Jorge Panesi), código 0554 C, publicado en letras.filo.uba.ar. El programa se titula «Políticas de la teoría y la crítica: contiendas y perspectivas de análisis literario» y declara continuar los fundamentos que la cátedra plantea desde 1984: historizar la constitución de la teoría y la crítica literarias como campo disciplinario. Régimen con Examen Final (Res. CD 4428/17): regularidad con dos parciales domiciliarios más un ejercicio de análisis de relatos; final escrito más coloquio oral. CONTRADICCIÓN REGISTRADA: el plan de estudios 2023 asigna 128 hs a esta troncal del CFG; este programa (2021, anterior al plan) declara una carga horaria total de 96 horas — se conserva el dato del programa, que es la fuente de este nodo. La materia tiene además una cátedra A-B con su propio programa en repositorio.filo.uba.ar, no sourceada aquí: los temas y la bibliografía de abajo son los de la cátedra C. Cada programa es de un año y una cátedra; el arco de contiendas es estable, el corpus de la Unidad V rota.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "El recorrido, del formalismo ruso a la crítica contemporánea",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa 2021, en cinco unidades",
+        "tree": "TEORÍA Y ANÁLISIS LITERARIO «C» — eje: las contiendas de la teoría\n│\n├─ I  · Formalismo y vanguardias   Shklovski · Tinianov · el círculo de Bajtín\n├─ II · Teoría crítica de Frankfurt  Adorno · Benjamin · Lukács (y Kafka)\n├─ III· Autonomía del arte         Bürger · Foster · Groys · Rancière\n├─ IV · Políticas de la diferencia  Foucault · Derrida · Deleuze-Guattari · Butler\n└─ V  · Análisis de textos         transversal: corpus, crítica y escritura",
+        "foot": "Unidades del programa 2021 (Delfino). La Unidad V es transversal: articula el análisis de materiales literarios con la producción de corpus y textos críticos del resto del programa."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.formalismo-vanguardias", "name": "Formalismo ruso y vanguardias estéticas", "role": "Unidad I · el arte y la vida", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.teoria-critica-frankfurt", "name": "La teoría crítica de Frankfurt", "role": "Unidad II · de la representación a la experiencia", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.autonomia-vanguardias", "name": "Autonomización y desautonomización del arte", "role": "Unidad III · vanguardias y neovanguardias", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.politicas-de-la-diferencia", "name": "Políticas de la diferencia", "role": "Unidad IV · lo literario inscripto en la vida", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.analisis-de-textos", "name": "Análisis de textos literarios, teóricos y críticos", "role": "Unidad V · transversal", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Bibliografía obligatoria · una selección por unidad",
+      "title": "Los textos, tal como los asigna la cátedra",
+      "note": "Obligatoria del programa 2021, unidad por unidad. Muchas entradas son capítulos o selecciones de cátedra dentro de estos volúmenes. Cada libro es un índice L3 aún sin abrir.",
+      "exits": [
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.todorov-formalistas-rusos", "name": "Teoría de la literatura de los formalistas rusos", "role": "T. Todorov (comp.) · Siglo XXI, 1970 · Shklovski, Eijenbaum, Tinianov", "tag": "unidad I", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.bajtin-dostoievski", "name": "Problemas de la poética de Dostoievski", "role": "M. Bajtín · FCE, 1979", "tag": "unidad I", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.medvedev-metodo-formal", "name": "El método formal en los estudios literarios", "role": "P. Medvedev · Alianza, 1994", "tag": "unidad I", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.butler-genero-en-disputa", "name": "El género en disputa", "role": "J. Butler · Paidós, 2016", "tag": "unidad I", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.adorno-teoria-estetica", "name": "Teoría estética", "role": "T. W. Adorno · Taurus, 1971 (selección de cátedra)", "tag": "unidad II", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.benjamin-autor-como-productor", "name": "El autor como productor", "role": "W. Benjamin · Ítaca, 2004 (trad. Bolívar Echeverría)", "tag": "unidad II", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.lukacs-realismo-critico", "name": "Significación actual del realismo crítico", "role": "G. Lukács · Era, 1963", "tag": "unidad II", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.burger-teoria-vanguardia", "name": "Teoría de la vanguardia (caps. I, II y III)", "role": "P. Bürger · Península, 1987", "tag": "unidad III", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.foster-retorno-de-lo-real", "name": "El retorno de lo real", "role": "H. Foster · Akal, 2001", "tag": "unidad III", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.groys-volverse-publico", "name": "Volverse público", "role": "B. Groys · Caja Negra (trad. Cortés Rocca)", "tag": "unidad III", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.ranciere-espectador-emancipado", "name": "El espectador emancipado", "role": "J. Rancière · Manantial, 2010", "tag": "unidad III", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.barthes-susurro-del-lenguaje", "name": "El susurro del lenguaje", "role": "R. Barthes · Paidós, 1987 · «La muerte del autor»", "tag": "unidad IV", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.derrida-escritura-y-diferencia", "name": "La escritura y la diferencia", "role": "J. Derrida · Anthropos, 1989", "tag": "unidad IV", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.deleuze-guattari-kafka", "name": "Kafka. Por una literatura menor", "role": "G. Deleuze y F. Guattari · Era, 1978", "tag": "unidad IV", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.foucault-entre-filosofia-y-literatura", "name": "Entre filosofía y literatura", "role": "M. Foucault · Paidós, 1999 · «¿Qué es un autor?»", "tag": "unidad IV", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.agamben-profanaciones", "name": "Profanaciones", "role": "G. Agamben · Adriana Hidalgo, 2005 · «El autor como gesto»", "tag": "unidad IV", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.ludmer-clases-1985", "name": "Clases 1985. Algunos problemas de teoría literaria", "role": "J. Ludmer · Sudamericana, 2016", "tag": "unidad V", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.panesi-criticas", "name": "Críticas", "role": "J. Panesi · Norma, 2000 (selección de cátedra)", "tag": "unidad V", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.piglia-formas-breves", "name": "Formas breves", "role": "R. Piglia · Anagrama, 1986 · «Tesis sobre el cuento»", "tag": "unidad V", "kind": "book" },
+        { "address": "uba.ffyl.letras.teoria-y-analisis-literario.pezzoni-lector-de-borges", "name": "Enrique Pezzoni, lector de Borges", "role": "A. Louis (ed.) · Sudamericana, 1999 (selección de cátedra)", "tag": "unidad V", "kind": "book" }
+      ]
+    }
+  ],
+  "source": { "label": "Programa 2021 · Teoría y Análisis Literario «C» (Delfino) · código 0554 C · letras.filo.uba.ar", "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/0554%20C%20TEOR%C3%8DA%20Y%20AN%C3%81LISIS%20LITERARIO%20C%20DELFINO.pdf" }
+}

@@ -1,0 +1,326 @@
+{
+  "address": "uba.ffyl.letras.literatura-latinoamericana-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "96 h",
+    "promocion": "Promoción Directa (PD)",
+    "codigo": "15032 (Plan 2023) · 0555 (Plan 1985)",
+    "catedra": "Añón (2° cuatrimestre 2025) · Literatura Latinoamericana I-A",
+    "cuatrimestre": "2°",
+    "unidades": 8,
+    "bibliography": true
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-latinoamericana-1",
+      "label": "Literatura Latinoamericana I (Siglos XV-XIX)"
+    }
+  ],
+  "eyebrow": "Literatura Latinoamericana I · Depto. de Letras · cátedra A",
+  "title": "Cuatro siglos de cuerpos escritos.",
+  "lede": "De las cartas de Colón a los <i>Cálices vacíos</i> de Delmira Agustini: la materia recorre el archivo latinoamericano desde la conquista hasta el modernismo. El programa vigente de la cátedra A elige un eje —<b>literatura y corporalidad</b>— y con él lee sujetos, cuerpos y espectros: el conquistador y el caníbal, el soldado-cronista, las amazonas, el mestizo Garcilaso, la Monja Alférez, Sor Juana, el esclavo-poeta Manzano, y el letrado moderno de Martí y Darío.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 h · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "programa"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Eje",
+      "v": "corporalidad",
+      "small": "sujetos y espectros"
+    }
+  ],
+  "frame": "Grounded en el programa de la cátedra A (Valeria Añón, 2° cuatrimestre 2025), código 15032 (Plan 2023) / 0555 (Plan 1985), publicado en letras.filo.uba.ar. Ocho unidades bajo el tema especial «Literatura y corporalidad: sujetos y espectros en América Latina», articulando modernidad, subjetividad y corporalidad sobre un corpus diacrónico. Régimen de Promoción Directa (Res. CD 4428/17), 96 horas, dictado presencial con hasta 30% virtual (REDEC-2024-2526-UBA-DCT#FFYL). La bibliografía separa fuentes (ediciones de los textos primarios, muchas de la propia cátedra en Corregidor) de bibliografía obligatoria y complementaria; aquí se listan las fuentes y los estudios en forma de libro de la obligatoria. Dos precisiones del cotejo de fuentes: el plan 2023 titula la materia «Siglos XV-XIX» mientras el subtítulo del propio programa acota el corpus a los siglos XVI-XIX; y el programa anterior consultado (Beatriz Colombi, 2° cuatr. 2020, mismo código 0555) corría bajo Examen Final con seis unidades y otro tema especial —«Figuras y modulaciones del archivo»—, sin La Araucana, las amazonas, Bernal Díaz ni Manzano. El tema especial rota con la cátedra; el arco Colón → modernismo es estable.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "El recorrido, de Colón al modernismo",
+      "note": "Cada unidad es un tramo del programa, en orden.",
+      "map": {
+        "mk": "El programa 2025, en ocho unidades",
+        "tree": "LITERATURA LATINOAMERICANA I — eje: literatura y corporalidad\n│\n├─ 1 · Literatura y corporalidad   sujetos · cuerpos · fantasmas · archivo\n├─ 2 · Sujetos imperiales          Colón · Cortés · Bernal Díaz · Cantares mexicanos\n├─ 3 · Clave épica                 La Araucana de Ercilla · discurso bélico\n├─ 4 · Cuerpos femeninos           el mito de las amazonas · erotización del Nuevo Mundo\n├─ 5 · Espectros y fantasmas       Inca Garcilaso · Comentarios Reales · momias y utopía\n├─ 6 · Letrados criollos           Erauso · Sor Juana · Sigüenza y Góngora\n├─ 7 · El esclavo-cronista         Manzano · Autobiografía de un esclavo\n└─ 8 · Sujetos modernos            Martí · Darío · Agustini",
+        "foot": "Unidades del programa 2025 (Añón). El corpus va del siglo XVI al XIX; el nombre de plan dice XV-XIX."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.literatura-corporalidad",
+          "name": "Literatura y corporalidad",
+          "role": "Unidad 1 · sujetos, cuerpos, archivo",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.sujetos-imperiales",
+          "name": "Sujetos imperiales, cuerpos coloniales",
+          "role": "Unidad 2 · Colón, Cortés, Bernal Díaz, Cantares",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.clave-epica",
+          "name": "Subjetividades en clave épica",
+          "role": "Unidad 3 · La Araucana de Ercilla",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.cuerpos-femeninos",
+          "name": "Cuerpos y sujetos femeninos/feminizados",
+          "role": "Unidad 4 · el mito de las amazonas",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.espectros-fantasmas",
+          "name": "Subjetividades, espectros y fantasmas",
+          "role": "Unidad 5 · Inca Garcilaso de la Vega",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.letrados-criollos",
+          "name": "Letrados criollos y sujetos populares",
+          "role": "Unidad 6 · Erauso, Sor Juana, Sigüenza",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.esclavo-cronista",
+          "name": "El esclavo-cronista y el discurso antiesclavista",
+          "role": "Unidad 7 · Juan Francisco Manzano",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.sujetos-modernos",
+          "name": "Sujetos y cuerpos modernos",
+          "role": "Unidad 8 · Martí, Darío, Agustini",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Fuentes · los textos primarios",
+      "title": "El corpus, en las ediciones que fija la cátedra",
+      "note": "Las «Fuentes» de cada unidad del programa 2025. Varias son ediciones críticas de la propia cátedra (Corregidor). Cada libro es un índice L3 aún sin abrir.",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.colon-diario-cartas",
+          "name": "Diario, cartas y relaciones",
+          "role": "Cristóbal Colón · ed. Añón y Teglia (Corregidor, 2012)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.cortes-segunda-carta",
+          "name": "Segunda carta de relación y otros textos",
+          "role": "Hernán Cortés · ed. Valeria Añón (Corregidor, 2010)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.bernal-diaz-historia-verdadera",
+          "name": "Historia verdadera de la conquista de la Nueva España",
+          "role": "Bernal Díaz del Castillo · ed. G. Serés (RAE, 2011)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.cantares-mexicanos",
+          "name": "Cantares mexicanos (selección)",
+          "role": "ed. Miguel León Portilla (UNAM · Fideicomiso Teixidor)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.ercilla-araucana",
+          "name": "La Araucana (selección)",
+          "role": "Alonso de Ercilla · ed. L. Gómez Canseco (BCRAE, 2021)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.antologia-amazonas",
+          "name": "Antología de textos de Indias sobre amazonas y nativas resistentes",
+          "role": "AAVV · selección para la cátedra",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.garcilaso-comentarios-reales",
+          "name": "Comentarios reales (selección)",
+          "role": "Inca Garcilaso de la Vega (Ayacucho, 1976)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.erauso-monja-alferez",
+          "name": "Historia de la monja Alférez, escrita por ella misma",
+          "role": "Catalina de Erauso · ed. Á. Esteban (Cátedra, 2006)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.sor-juana-nocturna",
+          "name": "Nocturna, mas no funesta. Poesía y cartas",
+          "role": "Sor Juana Inés de la Cruz · ed. Ruiz y Fumagalli (Corregidor, 2014)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.siguenza-minimas-multitudes",
+          "name": "Mínimas multitudes («Alboroto y motín de los indios de México»)",
+          "role": "C. de Sigüenza y Góngora · ed. Ruiz y del Piero (Corregidor, 2018)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.manzano-autobiografia",
+          "name": "Autobiografía de un esclavo",
+          "role": "Juan Francisco Manzano · varias ediciones",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.marti-escenas-norteamericanas",
+          "name": "Escenas norteamericanas y otros textos",
+          "role": "José Martí · ed. A. Schnirmajer (Corregidor, 2010)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.marti-escritos-sobre-america",
+          "name": "Escritos sobre América",
+          "role": "José Martí · est. prel. B. Colombi (Capital Intelectual, 2010)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.marti-obras-completas",
+          "name": "Obras completas",
+          "role": "José Martí (Centro de Estudios Martianos, 2016-2019)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.dario-prosas-profanas",
+          "name": "Prosas profanas y otros poemas",
+          "role": "Rubén Darío · ed. I. Zuleta (Castalia, 2015)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.dario-azul-cantos",
+          "name": "Azul… / Cantos de vida y esperanza",
+          "role": "Rubén Darío · ed. J. M. Martínez (Cátedra, 2010)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.dario-triunfo-caliban",
+          "name": "«El triunfo de Calibán»",
+          "role": "Rubén Darío · ed. y notas de C. Jáuregui (Rev. Iberoamericana, 1998)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.agustini-calices-vacios",
+          "name": "Los cálices vacíos",
+          "role": "Delmira Agustini · ed. R. García Gutiérrez (Point des Lunettes, 2013)",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.aracil-cortes",
+          "name": "Aracil Varón — Yo, don Hernando Cortés",
+          "role": "Iberoamericana-Vervuert 2016 (caps. II y IV) · Unidad II (obligatoria)",
+          "tag": "crítica",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Bibliografía obligatoria · estudios en forma de libro",
+      "title": "La caja de herramientas crítica",
+      "note": "De la bibliografía obligatoria del programa 2025, los títulos que son libros (el resto son artículos y capítulos sueltos, no dibujados como nodos).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.cornejo-polar-escribir-en-el-aire",
+          "name": "Escribir en el aire",
+          "role": "Antonio Cornejo Polar (CELACP)",
+          "tag": "estudio",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.jauregui-espectros-conjuras",
+          "name": "Espectros y conjuras. Asedios a la cuestión colonial",
+          "role": "Carlos Jáuregui (Iberoamericana-Vervuert, 2020)",
+          "tag": "estudio",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.le-breton-antropologia-cuerpo",
+          "name": "Antropología del cuerpo y modernidad",
+          "role": "David Le Breton (Prometeo, 2021)",
+          "tag": "estudio",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.colombi-diccionario-terminos-criticos",
+          "name": "Diccionario de términos críticos de la literatura y la cultura en América Latina",
+          "role": "Beatriz Colombi (coord.) (Clacso, 2022)",
+          "tag": "estudio",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.rama-ciudad-letrada",
+          "name": "La ciudad letrada",
+          "role": "Ángel Rama (Ediciones del Norte, 1984)",
+          "tag": "estudio",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-latinoamericana-1.morana-viaje-al-silencio",
+          "name": "Viaje al silencio. Exploraciones del discurso barroco",
+          "role": "Mabel Moraña (UNAM, 1998)",
+          "tag": "estudio",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "Programa 2° cuatr. 2025 · Literatura Latinoamericana I-A (Añón) · códigos 0555 / 15032 · letras.filo.uba.ar",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0555%2C%2015032%20LITERATURA%20LATINOAMERICANA%20I%20A%20A%C3%91ON.pdf"
+  }
+}
