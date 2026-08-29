@@ -62,7 +62,7 @@
     <thead><tr><th>nodo</th><th>veredicto</th><th>unidades</th><th>libros</th><th>ola</th><th></th></tr></thead>
     <tbody id="rows"></tbody>
   </table></div>
-  <p class="foot">Los veredictos «recuperado» fueron minados de los transcripts de sesión (olas anteriores a que el audit trail se commiteara). Los nodos sin veredicto en esta tabla son de la era pre-verificación del pilote — se re-verifican en olas de refresco. Fuente de cada fila: <span style="color:var(--steel)">verification/&lt;address&gt;.json</span> en el repo.</p>
+  <p class="foot">Los veredictos «recuperado» fueron minados de los transcripts de sesión. Fuente de cada fila: <span style="color:var(--steel)">verification/&lt;address&gt;.json</span> en el repo — el veredicto pre-fix, junto al historial git del nodo, es el audit trail completo.</p>
 </div>
 <script>
   const esc = s => (s == null ? "" : String(s));
