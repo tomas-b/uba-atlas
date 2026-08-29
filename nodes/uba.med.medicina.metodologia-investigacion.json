@@ -1,0 +1,262 @@
+{
+  "address": "uba.med.medicina.metodologia-investigacion",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · la Cátedra ofrece una cursada en el segundo cuatrimestre del año",
+    "condicion": "materia electiva de la Carrera de Medicina (currícula del plan Res. CS 2861/92)",
+    "catedra": "Cátedra de Metodología de la Investigación · Departamento de Humanidades Médicas · coordinador Prof. Cons. Dr. Alberto Carli, MSc",
+    "modalidad": "eje en el diseño de un proyecto de investigación grupal (3-4 alumnos) de tema libre · clases teóricas + trabajos de elaboración con entregas de informes-avances",
+    "evaluacion": "examen parcial escrito al completar la Unidad 3, con Devolución Conceptual · defensa oral del Proyecto de Investigación · aprueba quien supera el promedio de siete (7) puntos; por debajo queda Regular; Libre quien no cumple la concurrencia reglamentaria",
+    "correlativas": "no consignadas en el sitio de la Cátedra",
+    "unidades": 6,
+    "bibliography": 19
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.metodologia-investigacion",
+      "label": "Metodología de la Investigación"
+    }
+  ],
+  "eyebrow": "Metodología de la Investigación · programa (materia electiva)",
+  "title": "Cómo se fabrica un dato: el pensamiento como herramienta.",
+  "lede": "Electiva cuatrimestral de la Carrera de Medicina, dictada por la Cátedra de Metodología de la Investigación del Departamento de Humanidades Médicas. Va de la epistemología —qué cuenta como conocimiento científico en el campo de la Salud— hasta la escritura del informe final, pasando por la hipótesis, el diseño, la matriz de datos, las técnicas de recolección y la prueba estadística. Todo el cuatrimestre se ordena alrededor de un proyecto de investigación grupal de tema libre, que se defiende oralmente al final. Extraída del programa oficial de la Cátedra.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "2º cuatrimestre"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "del programa"
+    },
+    {
+      "k": "Referencias",
+      "v": "19",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada de las páginas oficiales de la Cátedra de Metodología de la Investigación en fmed.uba.ar (no hay PDF de programa publicado para esta electiva: el programa vive como texto en el sitio de la Cátedra). Las seis unidades salen textuales de «Programa de la materia»; la bibliografía, de la página «Bibliografía»; el régimen y la condición de electiva, de «Plan de actividades» —«la materia Metodología de la Investigación figura en la currícula de la Carrera de Medicina como electiva»—; la modalidad, de «Metodología de trabajo»; y el esquema de notas, de «Evaluación». Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las seis unidades",
+      "note": "El programa de la Cátedra, unidad por unidad. Va del estatuto del conocimiento científico al informe final, con el proyecto grupal corriendo en paralelo.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "METODOLOGÍA DE LA INVESTIGACIÓN — de la epistemología al informe\n│\n├─ 1 · Conocimiento e interés científico\n│    ciencia como ideología · racionalidad · marco teórico\n│    la técnica como proyecto social · historia de la investigación\n│\n├─ 2 · El conocimiento en las Ciencias de la Salud\n│    epistemología para la Salud · objeto real / de la realidad / cognitivo\n│    enfoques cuantitativo, cualitativo y multimodal\n│    aspectos éticos · legislación argentina de investigación en Salud\n│\n├─ 3 · El proceso de investigar\n│    etapas y fases · hipótesis y su construcción lógica\n│    variables: definición conceptual y operacional\n│    diseños experimentales y observacionales · objetivos\n│\n├─ 4 · El dato científico\n│    estructura del dato · matrices y sistema de matrices\n│    unidades de análisis y de observación · categorías, valores, indicadores\n│    validez interna y externa · instrumentos de medición\n│\n├─ 5 · Búsqueda, recolección y tratamiento de los datos\n│    búsqueda bibliográfica · observación, entrevista, cuestionario\n│    escalas: Likert · escalograma de Guttman\n│    pruebas estadísticas, paramétricas y no paramétricas\n│    trabajo de campo · sociometría · etnografía · epidemiología\n│\n└─ 6 · El informe final\n     validación expositiva · estructura y estilos del informe\n     presentación de resultados · citas · monografía y tesis",
+        "foot": "Unidades tomadas textualmente de «Programa de la materia» del sitio de la Cátedra. No hay cronograma fechado publicado: la única granularidad temporal es el cuatrimestre."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.conocimiento-e-interes-cientifico",
+          "name": "Unidad 1 — Conocimiento e interés científico",
+          "role": "la ciencia como ideología · racionalidad científica · marco teórico e ideología · la técnica como proyecto social · invariantes estructurales del conocimiento científico",
+          "tag": "epistemología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.conocimiento-en-ciencias-de-la-salud",
+          "name": "Unidad 2 — El conocimiento en las Ciencias de la Salud",
+          "role": "modos de conocer · objeto real, de la realidad y cognitivo · enfoques cuantitativo, cualitativo y multimodal · ética y legislación de la investigación en Salud",
+          "tag": "epistemología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.el-proceso-de-investigar",
+          "name": "Unidad 3 — El proceso de investigar",
+          "role": "etapas y fases · hipótesis descriptivas, explicativas y correlacionales · variables · diseños experimentales y observacionales · objetivos generales y específicos",
+          "tag": "diseño",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.el-dato-cientifico",
+          "name": "Unidad 4 — El dato científico en investigación en Salud",
+          "role": "estructura del dato · matrices de datos · unidades de análisis y observación · indicadores · validez interna y externa · instrumentos de medición",
+          "tag": "datos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.busqueda-y-tratamiento-de-datos",
+          "name": "Unidad 5 — La búsqueda, la recolección y el tratamiento de los datos para la investigación en Salud",
+          "role": "búsqueda bibliográfica · observación, entrevista y cuestionario · escalas de Likert y Guttman · pruebas estadísticas · trabajo de campo · sociometría, etnografía, epidemiología",
+          "tag": "técnicas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.el-informe-final",
+          "name": "Unidad 6 — El informe final de una investigación",
+          "role": "validación expositiva · estructura y estilos del informe · presentación de resultados · citas bibliográficas · la monografía y la tesis",
+          "tag": "escritura",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Las 19 referencias de la página «Bibliografía» de la Cátedra. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.ander-egg",
+          "name": "Ander-Egg, E. — Técnicas de investigación social",
+          "role": "Humanitas, Buenos Aires 1992",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.blalock",
+          "name": "Blalock, H. — Introducción a la investigación social",
+          "role": "Amorrortu, Buenos Aires 1971",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.brownlee",
+          "name": "Brownlee, A.; Nchinda, T.; Mousseau-Gershaman, Y. — Cómo desarrollar y diseñar proyectos de investigación para resolver los problemas prioritarios de salud",
+          "role": "OMS Oficina Regional para África / Instituto de Políticas de Salud de la Universidad de Boston, 1983 · reimpreso 1984",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.bunge",
+          "name": "Bunge, M. — La ciencia, su método y su filosofía",
+          "role": "Siglo Veinte, Buenos Aires 1968",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.carli-pensamiento-herramienta",
+          "name": "Carli, A. — El pensamiento como herramienta o la Teoría del Método",
+          "role": "Apuntes de Cátedra, 2006",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.carli-ciencia-herramienta",
+          "name": "Carli, A. — La ciencia como herramienta",
+          "role": "Biblos, Buenos Aires 2008",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.carli-kennel",
+          "name": "Carli, A.; Kennel, B. L. — El conocimiento en las ciencias de la salud",
+          "role": "Prometeo, Buenos Aires 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.canales-pineda",
+          "name": "Canales, H.; de Alvarado, L.; Pineda, E. B. — Metodología de la Investigación. Manual para el desarrollo de personal de salud",
+          "role": "Oficina Panamericana de la Salud, México 1990",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.cohen-nagel",
+          "name": "Cohen, M.; Nagel, E. — Introducción a la lógica y al método científico",
+          "role": "Amorrortu, Buenos Aires 1973 · dos tomos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.chalmers",
+          "name": "Chalmers, A. F. — ¿Qué es esa cosa llamada ciencia?",
+          "role": "Siglo Veintiuno, Buenos Aires 1988",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.eco",
+          "name": "Eco, Humberto — Cómo se hace una tesis",
+          "role": "Gedisa, Barcelona 1996",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.festinger-katz",
+          "name": "Festinger, L.; Katz, D. — Los métodos de investigación en las Ciencias Sociales",
+          "role": "Paidós, México 1987",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.galtung",
+          "name": "Galtung, J. — Teoría y método de la investigación social",
+          "role": "EUDEBA, Buenos Aires 1987",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.goode-hatt",
+          "name": "Goode, W. J.; Hatt, P. D. — Métodos de investigación social",
+          "role": "Trillas, México 1972",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.klimovsky",
+          "name": "Klimovsky, G. — Las desventuras del conocimiento científico. Una introducción a la epistemología",
+          "role": "AZ Editora, Buenos Aires 1994",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.korn",
+          "name": "Korn, F. y otros — Conceptos y variables en investigación social",
+          "role": "Nueva Visión, Buenos Aires 1969",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.hernandez-sampieri",
+          "name": "Hernández Sampieri, R.; Fernández Collado, C.; Baptista Lucio, P. — Metodología de la investigación",
+          "role": "McGraw-Hill Interamericana, México 1995",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.mora-y-araujo",
+          "name": "Mora y Araujo y otros — Medición y construcción de índices",
+          "role": "Nueva Visión, Buenos Aires 1971",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.metodologia-investigacion.samaja",
+          "name": "Samaja, J. — Epistemología y Metodología. Elementos para una teoría de la investigación científica",
+          "role": "EUDEBA, Buenos Aires 1993",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Cátedra de Metodología de la Investigación — Programa de la materia (+ Bibliografía, Plan de actividades, Metodología de trabajo, Evaluación)",
+    "url": "https://www.fmed.uba.ar/departamentos_y_catedras/catedra-de-metodologia-de-la-investigacion/programa-de-la-materia"
+  }
+}

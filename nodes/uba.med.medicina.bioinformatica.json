@@ -1,0 +1,33 @@
+{
+  "address": "uba.med.medicina.bioinformatica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L1",
+  "metadata": {
+    "tipo": "electiva · cursable en cualquier ciclo de la carrera",
+    "plan": "Res. CS 2861/92 (la electiva figura en el plan; ver extract/out/med-plan-2861.txt)",
+    "programa": "no publicado — búsqueda exhaustiva en fmed.uba.ar (índice de programas, departamentos, sitio viejo) sin resultado (2026-08)",
+    "descartado": "los PDF 'Bioinformática y Rehabilitación Computacional' de fmed.uba.ar pertenecen a las Licenciaturas en Kinesiología y Fonoaudiología — otra materia, otra carrera"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.med", "label": "Medicina" },
+    { "address": "uba.med.medicina", "label": "Medicina" },
+    { "address": "uba.med.medicina.bioinformatica", "label": "Bioinformática" }
+  ],
+  "eyebrow": "Bioinformática · electiva · Carrera de Medicina",
+  "title": "Una electiva que el plan nombra y nadie desarrolla en público.",
+  "lede": "El plan Res. CS 2861/92 la lista entre las <b>asignaturas electivas</b>, cursables en cualquier ciclo de la carrera. Hasta ahí llega la fuente: la Facultad no publica programa, temario ni bibliografía para esta electiva. Este nodo queda en L1 — el nombre y su lugar en el plan — hasta que exista material real.",
+  "meta": [
+    { "k": "Tipo", "v": "electiva", "small": "cualquier ciclo" },
+    { "k": "Grounding", "v": "L1", "small": "solo el plan" },
+    { "k": "Programa", "v": "—", "small": "no publicado" },
+    { "k": "Temas", "v": "0", "small": "sellado a L2" }
+  ],
+  "frame": "El índice oficial de programas de fmed.uba.ar publica las 38 asignaturas numeradas del plan y omite las tres electivas. Para Bioinformática no hay programa en ningún departamento ni cátedra de Medicina; los únicos PDF homónimos del sitio pertenecen a otras carreras (Kinesiología, Fonoaudiología) y usarlos sería mentir. Mejor un nodo en L1 que un temario inventado.",
+  "groups": [],
+  "source": {
+    "label": "Plan de estudios Res. CS 2861/92 (fmed.uba.ar) · asignaturas electivas",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-04/PLAN%20DE%20ESTUDIOS.pdf"
+  }
+}

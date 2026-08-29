@@ -1,0 +1,162 @@
+{
+  "address": "uba.med.medicina.ingles",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "bimestral · modalidad virtual y asincrónica por el Campus Virtual de Ciencias Médicas · se dicta cuatro veces en el ciclo lectivo 2026 (página estructura-del-curso)",
+    "cargaHoraria": "32 hs totales — 16 hs teóricas + 16 hs prácticas",
+    "año": "sin año fijo — en el plan Res. CS 2861/92 figura como electiva, cursable en cualquier ciclo de la carrera",
+    "correlativas": "no consignadas en el programa",
+    "catedra": "Curso de Inglés para las Ciencias de la Salud · Facultad de Ciencias Médicas UBA (cursodeingles@fmed.uba.ar)",
+    "programa": "Programa del Curso de Inglés para Ciencias de la Salud — redactado para el Plan de Estudios RESCS-2023-1217-E-UBA-REC, (el programa no dice si allí es obligatoria)",
+    "nivel": "competencias correspondientes al nivel B1 del Marco Común Europeo de Referencia (MCER)",
+    "evaluacion": "evaluación formativa: dos exámenes parciales virtuales · eximición por examen presencial al inicio de cada bimestre · evaluación integradora: examen final de opciones múltiples",
+    "unidades": 5,
+    "bibliography": 4
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.ingles",
+      "label": "Inglés"
+    }
+  ],
+  "eyebrow": "Inglés · programa (materia)",
+  "title": "No hablarlo: leerlo. El inglés como instrumento de lectura médica.",
+  "lede": "Curso bimestral de 32 horas, virtual y asincrónico, sin ubicación fija en la carrera. No enseña las cuatro habilidades del idioma: enseña una — la lecto-comprensión — al nivel B1 del MCER, para que el estudiante pueda abordar por su cuenta textos y artículos de investigación técnico-médicos. Cinco unidades que van del paratexto a la anatomía del paper: pre-lectura, estrategias de lectura, el imperativo del texto instructivo, post-lectura y el artículo de investigación. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "Bimestral",
+      "small": "virtual asincrónico"
+    },
+    {
+      "k": "Carga",
+      "v": "32 hs",
+      "small": "16 teóricas + 16 prácticas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "temáticas"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial del curso (documento de 3 páginas con capa de texto, enlazado desde la página Información General del Curso de Inglés para las Ciencias de la Salud en fmed.uba.ar). Las unidades, la carga horaria, el régimen de evaluación y la bibliografía salen del texto real del programa. Una aclaración que el propio documento hace: está redactado para el Plan de Estudios RESCS-2023-1217-E-UBA-REC, (el programa no dice si allí es obligatoria); en el plan Res. CS 2861/92 —el que este grafo indexa— Inglés figura entre las electivas cursables en cualquier ciclo. El curso se dicta en cuatro bimestres a lo largo del año, por el Campus Virtual de Ciencias Médicas. Las referencias (qué se lee) viven acá; el contenido de cada una es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las cinco unidades temáticas",
+      "note": "El punto 5 del programa — cinco unidades numeradas, cada una con su lista de contenidos. El arco va de lo que rodea al texto (paratexto) a la estructura interna del artículo de investigación.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "INGLÉS — la lectura como única habilidad entrenada\n│\n├─ 1 · Pre-lectura · paratexto, fuente, hipótesis de lectura\n├─ 2 · Lectura · skimming y scanning · cohesión · frases nominales\n├─ 3 · Instructivo · imperativo · modales · voz pasiva · afijación\n├─ 4 · Post-lectura · síntesis · cuadros y mapas conceptuales\n└─ 5 · El paper · abstract · método · estado del arte · el GAP",
+        "foot": "Unidades tomadas del punto 5 del programa. La granularidad de tiempo es solo el régimen (curso bimestral de 32 hs, dictado cuatro veces en el ciclo lectivo 2026 (página estructura-del-curso)); no hay cronograma fechado por unidad."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.ingles.pre-lectura",
+          "name": "Unidad 1. Estrategias de pre-lectura",
+          "role": "paratexto verbal y no verbal · referencias y fuente · estructura del texto · hipótesis de lectura",
+          "tag": "pre-lectura",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ingles.estrategias-de-lectura",
+          "name": "Unidad 2. Estrategias de lectura",
+          "role": "skimming, scanning y lectura extensiva · palabras transparentes · elipsis · referencias anafóricas y catafóricas · presente atemporal y pasado narrativo",
+          "tag": "lectura",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ingles.imperativo-textos-instructivos",
+          "name": "Unidad 3. Imperativo en textos de tipo instructivo",
+          "role": "verbos modales · voz pasiva como atenuador · prefijos, sufijos y raíces · el \"nosotros\" científico · conectores discursivos",
+          "tag": "instructivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ingles.post-lectura",
+          "name": "Unidad 4. Estrategias de post-lectura",
+          "role": "síntesis conceptual · ideas principales · cuadros sinópticos · mapas conceptuales",
+          "tag": "post-lectura",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ingles.articulos-de-investigacion",
+          "name": "Unidad 5. Los artículos de investigación",
+          "role": "estudio de casos, cartas al lector, cualitativa y cuantitativa · abstract · metodología en voz pasiva · estado del arte · GAP científico",
+          "tag": "paper",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Lo que se lee",
+      "note": "Bibliografía recomendada del punto 8 del programa. Sólo una de las cuatro entradas está identificada con autores y procedencia; las otras tres el programa las nombra de forma genérica, sin título, autor ni edición.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.ingles.cuadernillo",
+          "name": "Cuadernillo de textos y artículos de investigación técnico-médicos",
+          "role": "material propio del curso · sin autor ni edición consignados en el programa",
+          "tag": "material",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ingles.guia-pascual-unger",
+          "name": "Pascual, Unger — Guía de referencia léxico-gramatical para lecto-comprensión de textos científicos en inglés",
+          "role": "Área de Lenguas Extranjeras · Facultad de Ciencias Humanas, Universidad Nacional de San Luis",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ingles.glosario-medico",
+          "name": "Glosario médico",
+          "role": "el programa no especifica cuál · sin autor ni edición consignados",
+          "tag": "referencia",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ingles.diccionario-bilingue",
+          "name": "Diccionario bilingüe",
+          "role": "el programa no especifica cuál · sin autor ni edición consignados",
+          "tag": "referencia",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa del Curso de Inglés para Ciencias de la Salud (documento enlazado desde «Información General»)",
+    "url": "https://docs.google.com/document/d/1ncEs56Tbdwd8DTLKGk5-AtfUXNlOcxGU/edit?usp=sharing&ouid=101694745722319198721&rtpof=true&sd=true"
+  },
+  "sources": [
+    {
+      "label": "fmed.uba.ar · Curso de Inglés para las Ciencias de la Salud · Programa (Google Doc oficial enlazado desde Información General)",
+      "url": "https://docs.google.com/document/d/1ncEs56Tbdwd8DTLKGk5-AtfUXNlOcxGU/edit?usp=sharing&ouid=101694745722319198721&rtpof=true&sd=true"
+    },
+    {
+      "label": "fmed.uba.ar · Curso de Inglés · Estructura del curso (dictados 2026, contacto)",
+      "url": "https://www.fmed.uba.ar/curso-de-ingles-para-las-ciencias-de-la-salud/estructura-del-curso"
+    }
+  ]
+}
