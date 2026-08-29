@@ -1,0 +1,264 @@
+{
+  "address": "uba.med.medicina.farmacologia-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "cargaHoraria": "54 horas",
+    "cuatrimestre": "se dicta tanto en el primero como en el segundo",
+    "año": "Ciclo Clínico · transversal",
+    "catedra": "Departamento de Toxicología y Farmacología — se dicta en tres cátedras",
+    "unidades": 19,
+    "correlativas": [
+      "Medicina A (regularidad, para cursar y para rendir final)"
+    ],
+    "bibliography": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.farmacologia-2",
+      "label": "Farmacología II"
+    }
+  ],
+  "eyebrow": "Farmacología II · programa (materia)",
+  "title": "Las drogas, una por una, contra la enfermedad que trata cada una.",
+  "lede": "Continuación clínica de Farmacología I: donde la primera daba las bases generales, ésta las aplica droga por droga. Recorre la terapéutica de las enfermedades psiquiátricas, neurológicas, cardiovasculares, infecciosas y oncológicas más frecuentes — antidepresivos, antipsicóticos, anticonvulsivantes, diuréticos, antiarrítmicos, antihipertensivos, antibióticos, antineoplásicos — y cierra por el aparato digestivo y la piel. Extraída del programa real del Departamento de Toxicología y Farmacología.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "54 hs"
+    },
+    {
+      "k": "Unidades",
+      "v": "19",
+      "small": "temáticas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas + libros ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "3",
+      "small": "misma asignatura"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa PDF del Departamento de Toxicología y Farmacología (agosto de 2018). Unidades, correlatividades, carga horaria y bibliografía salen del texto real del programa. La asignatura se dicta en tres cátedras con régimen distinto de evaluación (exámenes orales, de opción múltiple o de desarrollo); el programa es común. El programa registra dos hechos que no coinciden entre sí: la presentación general dice que «esta asignatura es correlativa de la asignatura Farmacología I», pero los aspectos administrativos exigen únicamente acreditar la regularidad de Medicina A, tanto para cursar como para rendir el final. Se cursa en el primero o segundo cuatrimestre de la carrera, junto con cualquier asignatura del ciclo clínico. La metodología declara seminarios de asistencia obligatoria y trabajos prácticos sobre problemas y situaciones clínicas. La bibliografía es la misma que la de Farmacología I. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las unidades temáticas",
+      "title": "El recorrido del programa",
+      "note": "Cada unidad es un tramo del programa, en orden: primero el sistema nervioso, después cardiovascular y respiratorio, después la quimioterapia antiinfecciosa y antineoplásica, y al final digestivo y piel.",
+      "map": {
+        "mk": "El programa, unidad por unidad",
+        "tree": "FARMACOLOGÍA II — terapéutica por sistema y por enfermedad\n│\n├─ 1 · Antidepresivos · ISRS, duales, tricíclicos, atípicos, IMAO\n├─ 2 · Antipsicóticos, antiparkinsonianos y litio · L-Dopa · haloperidol · clozapina\n├─ 3 · Ansiolíticos e hipnóticos no benzodiazepínicos · flumazenil\n├─ 4 · Anticonvulsivantes · carbamazepina · valproico · lamotrigina\n├─ 5 · Farmacología respiratoria · beta 2 · corticoides inhalados · leucotrienos\n├─ 6 · Diuréticos y antidiuréticos\n├─ 7 · Inotrópicos\n├─ 8 · Antianginosos\n├─ 9 · Antiarrítmicos\n├─ 10 · Hipolipemiantes\n├─ 11 · Antihipertensivos\n├─ 12 · Farmacología hematológica · heparina y anticoagulantes orales\n├─ 13 · Quimioterápicos antiinfecciosos · generales, quinolonas, antiparasitarios\n├─ 14 · Quimioterápicos antiinfecciosos II · antifólicos, antituberculosos, antivirales, vacunas\n├─ 15 · Quimioterápicos antinfecciosos · inhibidores de la síntesis de la pared\n├─ 17 · Quimioterápicos antiinfecciosos · inhibidores de la síntesis proteica, antimicóticos\n├─ 18 · Quimioterápicos antineoplásicos e inmunosupresores\n├─ 19 · Farmacología del aparato digestivo\n└─ 20 · Farmacología de la piel",
+        "foot": "Unidades tomadas verbatim del programa. La numeración del programa llega hasta 20, pero el ítem 16 aparece en el PDF como un número suelto sin título ni contenido propio: los objetivos y contenidos que le siguen (penicilinas, cefalosporinas, vancomicina) son los de la unidad 15. Por eso se listan las 19 unidades realmente tituladas, conservando la numeración original del programa. Sin cronograma fechado; la única granularidad de tiempo es el régimen (cuatrimestral, 54 hs)."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.farmacologia-2.antidepresivos",
+          "name": "Antidepresivos",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.antipsicoticos-antiparkinsonianos-litio",
+          "name": "Antipsicóticos, antiparkinsonianos y litio",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.ansioliticos-hipnoticos-flumazenil",
+          "name": "Ansiolíticos e hipnóticos no benzodiazepínicos. Flumazenil",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.anticonvulsivantes",
+          "name": "Anticonvulsivantes",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.farmacologia-respiratoria",
+          "name": "Farmacología respiratoria",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.diureticos-antidiureticos",
+          "name": "Diuréticos y antidiuréticos",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.inotropicos",
+          "name": "Inotrópicos",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.antianginosos",
+          "name": "Antianginosos",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.antiarritmicos",
+          "name": "Antiarrítmicos",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.hipolipemiantes",
+          "name": "Hipolipemiantes",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.antihipertensivos",
+          "name": "Antihipertensivos",
+          "role": "Unidad 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.farmacologia-hematologica",
+          "name": "Farmacología hematológica",
+          "role": "Unidad 12",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.quimioterapicos-antiinfecciosos-1",
+          "name": "Quimioterápicos antiinfecciosos: conceptos generales, quinolonas, antihelmínticos, antipalúdicos, antisépticos y desinfectantes, ectoparasiticidas",
+          "role": "Unidad 13",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.quimioterapicos-antiinfecciosos-2",
+          "name": "Quimioterápicos antiinfecciosos II: inhibidores de la síntesis de ácido tetrahidrofólico, drogas antituberculosas, nitroimidazoles y nitrofuranos, antivirales, vacunas",
+          "role": "Unidad 14",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.quimioterapicos-pared-bacteriana",
+          "name": "Quimioterápicos antinfecciosos: inhibidores de la síntesis de la pared bacteriana",
+          "role": "Unidad 15",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.quimioterapicos-sintesis-proteica-antimicoticos",
+          "name": "Quimioterápicos antiinfecciosos: inhibidores de la síntesis proteica, antimicóticos",
+          "role": "Unidad 17",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.antineoplasicos-inmunosupresores",
+          "name": "Quimioterápicos antineoplásicos e inmunosupresores",
+          "role": "Unidad 18",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.aparato-digestivo",
+          "name": "Farmacología del aparato digestivo",
+          "role": "Unidad 19",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.piel",
+          "name": "Farmacología de la piel",
+          "role": "Unidad 20",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa — las mismas seis que asigna Farmacología I. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. La última entrada del programa no es un libro sino un artículo de consenso de la IUPHAR.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.farmacologia-2.goodman-gilman",
+          "name": "Brunton — Goodman & Gilman. Las bases farmacológicas de la terapéutica",
+          "role": "12ª ed. · McGraw-Hill, México 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.rang-dale",
+          "name": "Rang, Dale, Ritter, Flower, Henderson — Farmacología",
+          "role": "7ª ed. · Elsevier, Madrid 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.florez",
+          "name": "Flórez — Farmacología Humana",
+          "role": "6ª ed. · Elsevier Masson 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.katzung",
+          "name": "Katzung — Farmacología Básica y Clínica",
+          "role": "13ª ed. · McGraw-Hill 2016",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.velazquez",
+          "name": "Velázquez — Farmacología Básica y Clínica",
+          "role": "18ª ed. · Médica Panamericana, Buenos Aires 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.farmacologia-2.iuphar-clinical-pharmacology",
+          "name": "Birkett y col. (IUPHAR) — Clinical pharmacology in research, teaching and health care",
+          "role": "Basic Clin Pharmacol Toxicol 2010;107(1):531-59 · artículo",
+          "tag": "artículo",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de la asignatura Farmacología II (PDF, agosto 2018)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-10/Programa%20de%20Farmacologia%20II.pdf"
+  }
+}

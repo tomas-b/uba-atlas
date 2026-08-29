@@ -1,0 +1,891 @@
+{
+  "address": "uba.med.medicina.cirugia-general",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "duración de 10 semanas (punto 6, Aspectos administrativos)",
+    "año": "Ciclo Clínico · grupo Cirugía (ubicación según el plan Res. CS 2861/92; el plan no le asigna un año numerado dentro del ciclo)",
+    "correlativas": "Medicina A y Patología II aprobadas para cursarla (programa); el plan Res. CS 2861/92 exige lo mismo para cursar y para rendir el final",
+    "catedra": "no se nombra una cátedra en el programa — lo emite el Departamento de Cirugía; las comisiones las coordina el Jefe de División (o de la especialidad quirúrgica) de cada servicio",
+    "programa": "Programa de la asignatura Cirugía General · Departamento de Cirugía · CUDAP EXP-UBA 0096903/2017",
+    "evaluacion": "evaluaciones conceptuales por casos-problema · parciales según la modalidad de cada servicio (múltiple choice, historia clínica u oral) · final en 2 partes: historia clínica de un tema quirúrgico prevalente + escrito de elección múltiple · regularidad con 80% de asistencia · nota final = promedio de parciales y final",
+    "unidades": 98,
+    "bibliography": 2
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.cirugia-general",
+      "label": "Cirugía General"
+    }
+  ],
+  "eyebrow": "Cirugía General · programa (materia)",
+  "title": "Reconocer, en un paciente, la patología quirúrgica.",
+  "lede": "Diez semanas en el servicio de cirugía, con el objetivo declarado de reconocer las patologías quirúrgicas prevalentes de una comunidad: comprender su patogénesis y enfrentar el diagnóstico, el tratamiento inicial o definitivo, la prevención y el seguimiento postoperatorio. El recorrido va de las generalidades — respuesta a la lesión, infección del sitio quirúrgico, anestesia, cirugía mínimamente invasiva — a catorce territorios del cuerpo: pared abdominal, mama, tórax, vascular, cabeza y cuello, estómago, hígado y vía biliar, páncreas, colon y recto, trauma, tumores endocrinos, los grandes síndromes agudos y la piel. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "10 semanas",
+      "small": "Ciclo Clínico"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "98",
+      "small": "temas en 14 secciones"
+    },
+    {
+      "k": "Referencias",
+      "v": "2",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 18 páginas, escaneado y protocolizado, CUDAP EXP-UBA 0096903/2017, emitido por el Departamento de Cirugía). La capa de texto del PDF es un escaneo: se reconoció por OCR (spa+eng) y se verificaron a 300 dpi las páginas con recortes de margen. Los contenidos y la bibliografía salen del texto real del programa. La práctica se hace en el servicio de cirugía — consultorios externos, salas de internación y, según las posibilidades del centro asistencial, quirófano —, con seminarios de integración sobre casos observados. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · GENERALIDADES",
+      "title": "Generalidades",
+      "note": "Lo que atraviesa toda operación: la respuesta del cuerpo a la lesión, la infección del sitio quirúrgico, la evidencia, la decisión, la ética, el dolor y las vías de acceso mínimas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.respuesta-a-la-lesion",
+          "name": "Respuesta a la lesión en cirugía",
+          "role": "SIRS · fisiopatología, gravedad y pronóstico · reanimación cardiopulmonar básica",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.infeccion-en-cirugia",
+          "name": "Infección en cirugía",
+          "role": "infección del sitio quirúrgico · grado de contaminación · profilaxis antibiótica",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cirugia-basada-en-la-evidencia",
+          "name": "Cirugía basada en la evidencia",
+          "role": "la pregunta · búsqueda bibliográfica y lectura crítica · diseños de investigación",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.toma-de-decisiones",
+          "name": "Comunicación y toma de decisiones en cirugía",
+          "role": "proceso decisor · noción de error · razonamiento hipotético-deductivo · teoría bayesiana",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.bioetica-quirurgica",
+          "name": "Bioética en la práctica quirúrgica",
+          "role": "la ética en la cirugía · derechos humanos · Comités de Ética Hospitalaria",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.derechos-del-paciente",
+          "name": "Derechos de los pacientes y de los profesionales",
+          "role": "relación paciente-cirujano · consentimiento informado · justicia y equidad",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.dolor-y-anestesia",
+          "name": "Dolor y Anestesia",
+          "role": "evaluación preanestésica · anestesia general, regional y local · monitorización intraoperatoria",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cirugia-minimamente-invasiva",
+          "name": "Cirugía Mínimamente Invasiva",
+          "role": "laparoscopía · endoscopía intervencionista · intervencionismo percutáneo",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cirugia-plastica",
+          "name": "Cirugía Plástica, Estética y Reparadora",
+          "role": "la piel como órgano · injertos, colgajos y expansores · reconstrucción y cirugía estética",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.trasplante-y-procuracion",
+          "name": "Trasplante y Procuración de Órganos",
+          "role": "muerte encefálica · marco legal argentino · lista de espera · ablación multiorgánica",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cirugia-bariatrica",
+          "name": "Cirugía Bariátrica y Metabólica",
+          "role": "obesidad y síndrome metabólico · banda, manga, by-pass en Y de Roux",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.preparacion-preoperatoria",
+          "name": "Preparación preoperatoria",
+          "role": "último tema de Generalidades — el programa lo enuncia como título, sin línea de desarrollo",
+          "tag": "generalidades",
+          "kind": "unit"
+        }
+      ],
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "CIRUGÍA GENERAL — la patología quirúrgica prevalente\n│\n├─ Generalidades · 12 temas\n├─ Paredes abdominales · 4 temas\n├─ Patología mamaria · 3 temas\n├─ Tórax · 13 temas\n├─ Vascular periférico y central · 5 temas\n├─ Cabeza y cuello · 11 temas\n├─ Estómago e intestino delgado · 9 temas\n├─ Hígado y vía biliar · 14 temas\n├─ Páncreas · 5 temas\n├─ Coloproctología · 9 temas\n├─ Trauma · 5 temas\n├─ Tumores endocrinos y retroperitoneales · 3 temas\n├─ Grandes síndromes agudos · 3 temas\n└─ Piel y partes blandas · 2 temas",
+        "foot": "Las catorce secciones del punto 3 del programa, en su orden, con 98 temas en total. La única granularidad de tiempo que da el programa es la duración: 10 semanas. No hay cronograma fechado ni reparto de temas por semana."
+      }
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · PAREDES ABDOMINALES",
+      "title": "Paredes abdominales",
+      "note": "El defecto de la pared: hernia, eventración, evisceración.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.hernias",
+          "name": "Hernias",
+          "role": "epidemiología · patogenia y factores predisponentes · hernia por deslizamiento",
+          "tag": "pared",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.hernia-inguinal",
+          "name": "Hernia inguinal",
+          "role": "clasificación · atascamiento y estrangulación · tratamiento quirúrgico",
+          "tag": "pared",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.otras-hernias",
+          "name": "Otras hernias de la pared abdominal",
+          "role": "umbilical · epigástrica · de Spiegel",
+          "tag": "pared",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.eventraciones-y-evisceraciones",
+          "name": "Eventraciones y Evisceraciones",
+          "role": "patogenia · cirugía programada y de urgencia · laparostomías",
+          "tag": "pared",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · PATOLOGÍA MAMARIA",
+      "title": "Patología mamaria",
+      "note": "De la palpación al ganglio centinela.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.semiologia-mamaria",
+          "name": "Semiología y metodología diagnóstica de la mama",
+          "role": "mamografía, ecografía, RMN · PAAF y core biopsy · screening mamario",
+          "tag": "mama",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.enfermedades-mamarias-benignas",
+          "name": "Enfermedades mamarias benignas",
+          "role": "fibroadenoma, quistes, tumor phyllodes · mastitis y absceso subareolar",
+          "tag": "mama",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-mama",
+          "name": "Tumores malignos de la mama",
+          "role": "TNM · cirugía conservadora y mastectomía · ganglio centinela · clasificación molecular",
+          "tag": "mama",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · TÓRAX",
+      "title": "Tórax",
+      "note": "Pared, pleura, tráquea, mediastino, pulmón, esófago y diafragma.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.anatomia-del-torax",
+          "name": "Anatomía del tórax",
+          "role": "mediastino · pleura · segmentación pulmonar · abordajes y videotoracoscopía",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.pared-toracica",
+          "name": "Patología de la pared torácica",
+          "role": "pectus excavatum y carinatum · tumores · compresión del vértice torácico",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.espacio-pleural",
+          "name": "Fisiología y manejo del espacio pleural",
+          "role": "neumotórax espontáneo · derrames · toracocentesis y drenaje bajo agua",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.neoplasias-pleurales",
+          "name": "Patología neoplásica de la pleura",
+          "role": "tumores pleurales primarios · derrame pleural neoplásico",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.patologia-de-la-traquea",
+          "name": "Patología de la tráquea",
+          "role": "lesiones postintubación y post-traqueostomía · tumores primarios y secundarios",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.mediastino",
+          "name": "Patología del mediastino",
+          "role": "síndromes mediastinales · tumores y quistes · mediastinitis",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.pulmon-no-tumoral",
+          "name": "Patología no tumoral del pulmón",
+          "role": "quistes broncogénicos · absceso y bronquiectasias · hidatidosis · TBC · micosis",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.nodulo-pulmonar-solitario",
+          "name": "Nódulo pulmonar solitario indeterminado",
+          "role": "definición, clasificación y diagnósticos diferenciales",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-pulmon",
+          "name": "Patología neoplásica del pulmón",
+          "role": "cáncer broncogénico · TNM · neoadyuvancia y adyuvancia · metástasis pulmonares",
+          "tag": "tórax",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.acalasia-y-diverticulos",
+          "name": "Acalasia y divertículos esofágicos",
+          "role": "clasificación · tratamiento endoscópico y quirúrgico · complicaciones",
+          "tag": "esófago",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.reflujo-gastroesofagico",
+          "name": "Enfermedad por reflujo gastroesofágico",
+          "role": "estudios funcionales · tratamiento médico, endoscópico y quirúrgico",
+          "tag": "esófago",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-esofago",
+          "name": "Tumores malignos del esófago",
+          "role": "enfermedades preneoplásicas · ecoendoscopía · paliación de la disfagia",
+          "tag": "esófago",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.diafragma",
+          "name": "Patología del diafragma",
+          "role": "hernias hiatales, congénitas y traumáticas · eventración diafragmática",
+          "tag": "tórax",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · VASCULAR PERIFÉRICO y CENTRAL",
+      "title": "Vascular periférico y central",
+      "note": "Arterias, venas y una introducción a la cirugía cardíaca.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.obstruccion-arterial",
+          "name": "Obstrucción arterial aguda y crónica",
+          "role": "etiopatogenia · tratamiento endovascular y quirúrgico",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.aneurismas-arteriales",
+          "name": "Aneurismas arteriales",
+          "role": "clasificación · historia natural · complicaciones · seudoaneurisma",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.fistulas-arteriovenosas",
+          "name": "Fístulas arteriovenosas",
+          "role": "esplácnicas y de la circulación sistémica · diagnóstico y tratamiento",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.flebopatias",
+          "name": "Flebopatías superficiales y profundas",
+          "role": "síndrome varicoso · tromboflebitis · síndrome post-trombótico",
+          "tag": "vascular",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cirugia-cardiaca",
+          "name": "Introducción a la Cirugía Cardíaca",
+          "role": "circulación extracorpórea · enfermedad coronaria · valvulopatías · revascularización",
+          "tag": "vascular",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · CABEZA Y CUELLO",
+      "title": "Cabeza y cuello",
+      "note": "Tiroides, paratiroides, glándulas salivales, tumores y quistes cervicales, traqueostomía.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.nodulo-tiroideo",
+          "name": "Nódulo Tiroideo",
+          "role": "PAAF y clasificación Bethesda · TSH, tiroglobulina, calcitonina · centellograma",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.carcinoma-diferenciado-de-tiroides",
+          "name": "Carcinoma Diferenciado de Tiroides",
+          "role": "TNM · linfadenectomía y vaciamiento radical · ablación con radioyodo I-131",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.carcinoma-medular-de-tiroides",
+          "name": "Carcinoma Medular de tiroides",
+          "role": "tiroidectomía total con linfadenectomía central bilateral · seguimiento",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.carcinoma-indiferenciado-de-tiroides",
+          "name": "Carcinoma Indiferenciado de tiroides",
+          "role": "características clínicas, diagnóstico y tratamiento",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.complicaciones-cirugia-tiroidea",
+          "name": "Complicaciones postoperatorias de la cirugía tiroidea",
+          "role": "hipocalcemia · disfonía · hematoma sofocante",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.glandulas-salivales",
+          "name": "Patología de las Glándulas Salivales",
+          "role": "sialoadenitis · sialoadenosis · obstrucción canalicular · anomalías congénitas",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-benignos-y-malignos",
+          "name": "Tumores benignos y malignos",
+          "role": "adenomas, carcinomas, tumores no epiteliales, linfoma y metástasis — el programa lo titula aparte, a continuación de glándulas salivales",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-laterales-de-cuello",
+          "name": "Tumores Laterales de Cuello",
+          "role": "quiste branquial · adenitis · paraganglioma · linfoma · metástasis extracervicales",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.hiperparatiroidismo",
+          "name": "Hiperparatiroidismo Primario y Secundario",
+          "role": "localización preoperatoria e intraoperatoria · PTH rápida · paratiroidectomía videoasistida",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.quistes-de-cuello",
+          "name": "Quistes de Cuello",
+          "role": "tirogloso, tímico, branquial, higroma quístico, dermoides y epidermoides",
+          "tag": "cuello",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.traqueostomia",
+          "name": "Traqueostomía. Indicaciones y Cuidados",
+          "role": "laringotomía intercricotiroidea · traqueotomía percutánea · complicaciones y cuidados",
+          "tag": "cuello",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · ESTÓMAGO E INTESTINO DELGADO",
+      "title": "Estómago e intestino delgado",
+      "note": "Úlcera, cáncer gástrico, tumores del delgado y sus fístulas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.enfermedad-ulcerosa",
+          "name": "Enfermedad ulcerosa gástrica y duodenal",
+          "role": "hemorragia y perforación · síndrome pilórico · tratamiento médico, endoscópico y quirúrgico",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.lesiones-agudas-gastroduodenales",
+          "name": "Lesiones agudas gastroduodenales",
+          "role": "patogenia · tratamiento médico · indicaciones quirúrgicas",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-gastrico",
+          "name": "Cáncer gástrico",
+          "role": "cáncer gástrico temprano · ecoendoscopía · estadificación · tratamiento adyuvante",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.otros-tumores-gastricos-malignos",
+          "name": "Otros tumores gástricos malignos",
+          "role": "linfomas · linfomas tipo MALT · tumores estromales",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-gastricos-benignos",
+          "name": "Tumores gástricos benignos",
+          "role": "anatomía patológica, presentación clínica, diagnóstico y tratamiento",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-del-intestino-delgado",
+          "name": "Tumores benignos y malignos del intestino delgado",
+          "role": "epidemiología, anatomía patológica, diagnóstico y tratamiento",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.diverticulo-de-meckel",
+          "name": "Divertículo de Meckel",
+          "role": "epidemiología · anatomía patológica · diagnóstico y tratamiento",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.enfermedad-de-crohn",
+          "name": "Enfermedad de Crohn",
+          "role": "diagnóstico radiológico y endoscópico · indicaciones quirúrgicas · pronóstico",
+          "tag": "digestivo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.fistulas-enterocutaneas",
+          "name": "Fístulas enterocutáneas",
+          "role": "clasificación · tratamiento por compactación y aspiración · tratamiento quirúrgico",
+          "tag": "digestivo",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · PATOLOGÍA HEPATOBILIOPANCREÁTICA",
+      "title": "Hígado y vía biliar",
+      "note": "El primer bloque hepatobiliopancreático del programa: hígado y vía biliar.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.quiste-hidatidico-hepatico",
+          "name": "Quiste hidatídico hepático",
+          "role": "clasificación de Gharbi · PAIR · profilaxis perioperatoria · control epidemiológico",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.quistes-hepaticos-no-parasitarios",
+          "name": "Quistes hepáticos no parasitarios",
+          "role": "quiste simple y poliquistosis · indicación quirúrgica y mininvasiva",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.enfermedad-de-caroli",
+          "name": "Enfermedad de Caroli",
+          "role": "diagnóstico clínico y por imágenes · complicaciones · indicaciones quirúrgicas",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.absceso-hepatico",
+          "name": "Absceso hepático",
+          "role": "microbiología · tratamiento médico, percutáneo mininvasivo y quirúrgico",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.absceso-hepatico-amebiano",
+          "name": "Absceso hepático amebiano",
+          "role": "etiología y fisiopatología · tratamiento y prevención",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-hepaticos-benignos",
+          "name": "Tumores benignos hepáticos (hemangioma, hiperplasia nodular focal, adenoma hepatocelular)",
+          "role": "anatomía patológica · diagnóstico diferencial · seguimiento",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-hepaticos-malignos",
+          "name": "Tumores hepáticos malignos primarios",
+          "role": "marcadores tumorales · estadificación · tratamiento radical y paliativo",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-hepaticos-quisticos",
+          "name": "Tumores hepáticos quísticos (Cistoadenoma y cistoadenocarcinoma)",
+          "role": "anatomía patológica · diagnóstico por imágenes · tratamiento",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.metastasis-hepaticas",
+          "name": "Metástasis hepáticas",
+          "role": "estadificación · tratamiento radical y paliativo · neoadyuvancia y adyuvancia",
+          "tag": "hígado",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.litiasis-vesicular",
+          "name": "Litiasis Vesicular",
+          "role": "cálculos colesterínicos y pigmentarios · litiasis asintomática y sintomática · complicaciones de la colecistectomía",
+          "tag": "vía biliar",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.complicaciones-de-la-litiasis-biliar",
+          "name": "Complicaciones de la litiasis biliar",
+          "role": "colecistitis aguda · coledocolitiasis · colangitis aguda",
+          "tag": "vía biliar",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.malformaciones-quisticas-via-biliar",
+          "name": "Malformaciones Quísticas de la Vía Biliar",
+          "role": "clasificación · fisiopatología · historia natural · tratamiento",
+          "tag": "vía biliar",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-vesicula",
+          "name": "Cáncer de vesícula",
+          "role": "tumor incidental y sospechado · rol de la laparoscopía · manejo interdisciplinario",
+          "tag": "vía biliar",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-via-biliar",
+          "name": "Cáncer de la vía biliar (colangiocarcinoma, Tumor de Klatskin)",
+          "role": "factores de riesgo · criterios de resecabilidad · cirugía radical y paliativa",
+          "tag": "vía biliar",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · PATOLOGÍA HEPATOBILIOPANCREÁTICA II",
+      "title": "Páncreas",
+      "note": "El segundo bloque hepatobiliopancreático, titulado II en el programa: el páncreas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.pancreatitis-aguda",
+          "name": "Pancreatitis Aguda",
+          "role": "biliar, alcohólica y otras etiologías · criterios de gravedad · complicaciones locales",
+          "tag": "páncreas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.pancreatitis-cronica",
+          "name": "Pancreatitis crónica",
+          "role": "patogenia · historia natural · tratamiento médico, quirúrgico, endoscópico y percutáneo",
+          "tag": "páncreas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-del-pancreas",
+          "name": "Tumores del páncreas",
+          "role": "marcadores tumorales · ecoendoscopía · neoadyuvancia · tratamiento paliativo",
+          "tag": "páncreas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-quisticos-del-pancreas",
+          "name": "Tumores quísticos del páncreas (Neoplasia intraductal papilo-mucinosa, cistoadenoma seroso, cistoadenoma y cistoadenocarcinoma mucinoso)",
+          "role": "clasificación · diagnóstico por imágenes · tratamiento radical y paliativo",
+          "tag": "páncreas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-periampulares",
+          "name": "Tumores periampulares",
+          "role": "anatomía patológica · diagnóstico endoscópico · tratamiento radical y paliativo",
+          "tag": "páncreas",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · COLOPROCTOLOGÍA",
+      "title": "Coloproctología",
+      "note": "Colon, recto y ano — más la apendicitis.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.enfermedad-diverticular-del-colon",
+          "name": "Enfermedad diverticular del colon",
+          "role": "flemón, absceso, peritonitis, hemorragia · estenosis y fístula",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-colorrectal",
+          "name": "Cáncer colorrectal",
+          "role": "factores hereditarios y moleculares · TNM · cirugía de colon y de recto · metastásico",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.poliposis-colonica",
+          "name": "Poliposis colónica",
+          "role": "clasificación · tratamiento endoscópico y quirúrgico · poliposis adenomatosa familiar",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.cancer-de-ano",
+          "name": "Cáncer de ano",
+          "role": "lesiones preneoplásicas · neoadyuvancia · tratamiento de las metástasis",
+          "tag": "ano",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.patologia-anal-benigna",
+          "name": "Patología anal Benigna",
+          "role": "hemorroides, fisura, abscesos y fístulas · incontinencia y estenosis",
+          "tag": "ano",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.megacolon",
+          "name": "Megacolon",
+          "role": "enfermedad de Hirschprung · megacolon del adulto · fecaloma, vólvulo, megacolon tóxico",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.malformaciones-vasculares",
+          "name": "Malformaciones vasculares",
+          "role": "clasificación · diagnóstico radiológico y endoscópico · tratamiento",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.apendicitis-aguda",
+          "name": "Apendicitis Aguda",
+          "role": "diagnóstico clínico, ecográfico y bioquímico · flemón, absceso y peritonitis apendicular",
+          "tag": "colon",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.colopatias-inflamatorias",
+          "name": "Colopatías inflamatorias; colitis ulcerosa y enfermedad de Crohn",
+          "role": "clasificación · diagnóstico por imágenes · tratamiento médico y quirúrgico · pronóstico",
+          "tag": "colon",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · TRAUMA",
+      "title": "Trauma",
+      "note": "El paciente que llega roto: la atención inicial y las lesiones por región.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.politraumatizado",
+          "name": "Atención inicial del paciente politraumatizado",
+          "role": "vía aérea y columna cervical · control de la hemorragia · triage · traslado y derivación",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.traumatismos-maxilofaciales",
+          "name": "Traumatismos maxilofaciales",
+          "role": "clasificación · tratamiento inmediato y mediato · seguimiento",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.traumatismos-del-torax",
+          "name": "Traumatismos del tórax",
+          "role": "neumotórax hipertensivo · tórax inestable · hemotórax masivo · taponamiento cardíaco",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.traumatismos-abdominopelvianos",
+          "name": "Traumatismos abdóminopelvianos",
+          "role": "lesión de órganos macizos y huecos · tratamiento inmediato y mediato",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.quemaduras",
+          "name": "Quemaduras",
+          "role": "superficial, intermedia y profunda · escarotomía y fasciotomía · debridamiento e injertos",
+          "tag": "trauma",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · TUMORES ENDOCRINOS Y RETROPERITONEALES",
+      "title": "Tumores endocrinos y retroperitoneales",
+      "note": "Retroperitoneo, suprarrenal y tumores neuroendócrinos.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-retroperitoneales",
+          "name": "Tumores retroperitoneales",
+          "role": "sarcomas · tumores neuroectodérmicos · restos gonadales · estadificación",
+          "tag": "endocrino",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-suprarrenales",
+          "name": "Tumores suprarrenales",
+          "role": "Cushing independiente de ACTH · síndrome de Conn · feocromocitoma · carcinoma cortical",
+          "tag": "endocrino",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.tumores-neuroendocrinos",
+          "name": "Tumores neuroendócrinos funcionantes (insulinoma, gastrinoma, glucagonoma, vipoma, somatostatinoma) y no funcionantes",
+          "role": "inmunohistoquímica y criterios de malignidad · octreo-scan y PET · tratamiento quirúrgico",
+          "tag": "endocrino",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · GRANDES SÍNDROMES AGUDOS",
+      "title": "Grandes síndromes agudos",
+      "note": "Las tres urgencias que definen el ojo quirúrgico.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.hemorragia-digestiva-alta",
+          "name": "Hemorragia Digestiva Alta",
+          "role": "clasificación de Forrest · angiografía selectiva · estrategia según el origen",
+          "tag": "urgencia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.hemorragia-digestiva-baja",
+          "name": "Hemorragia Digestiva Baja",
+          "role": "agudas y crónicas · rectosigmoideoscopía, colonoscopía, arteriografía, radioisótopos",
+          "tag": "urgencia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.abdomen-agudo-quirurgico",
+          "name": "Abdomen Agudo Quirúrgico",
+          "role": "obstructivo · peritonítico · isquémico · hemorrágico",
+          "tag": "urgencia",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · PIEL Y PARTES BLANDAS",
+      "title": "Piel y partes blandas",
+      "note": "Los dos cánceres de piel que el programa nombra.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.espinocelular-y-basocelular",
+          "name": "Tumor Espinocelular y Basocelular",
+          "role": "factores predisponentes · TNM · ablación física local y cirugía",
+          "tag": "piel",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.melanoma",
+          "name": "Melanoma",
+          "role": "extensivo superficial, nodular, acrolentiginoso, lentigo maligno, desmoplásico · ganglio centinela · inmunoterapia",
+          "tag": "piel",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Bibliografía recomendada, punto 7 del programa: dos tratados y nada más. Cada uno es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.cirugia-general.michans",
+          "name": "Ferraina, Oria — Cirugía de Michans",
+          "role": "5ª ed. · Editorial El Ateneo, Buenos Aires 2003",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.cirugia-general.sabiston",
+          "name": "Beauchamp, Evers, Mattox — Tratado de Cirugía de Sabiston",
+          "role": "19ª ed. · Editorial Elsevier, 2013",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Cirugía General (PDF escaneado, CUDAP EXP-UBA 0096903/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/22-Cirugia_0.pdf"
+  }
+}

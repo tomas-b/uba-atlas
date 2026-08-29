@@ -1,0 +1,220 @@
+{
+  "address": "uba.med.medicina.medicina-legal",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "un cuatrimestre · 72 horas distribuidas en 24 clases de 3 horas · se dicta el primer y el segundo cuatrimestre de cada año, más cursos de verano",
+    "año": "5º o 6º año — «se cursa en el 5to o 6to año de la carrera» (sexto punto del programa); el plan Res. CS 2861/92 la ubica como transversal del Ciclo Clínico",
+    "correlativas": "para rendir examen final: Psiquiatría aprobada. El propio programa agrega que «sería aconsejable» tener además aprobadas Pediatría, Ginecología y Obstetricia",
+    "catedra": "no consignada en el programa — el PDF no nombra cátedra ni titular; sólo figuran las firmas administrativas del expediente",
+    "programa": "Programa de la asignatura Medicina Legal y Deontología Médica · CUDAP EXP-UBA 0032016/2016 · 17 páginas",
+    "evaluacion": "evaluación conceptual grupal cada 4 clases, sin nota calificatoria · regularidad con el 80% del presentismo · examen final oral",
+    "unidades": 16,
+    "bibliography": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.medicina-legal",
+      "label": "Medicina Legal y Deontología Médica"
+    }
+  ],
+  "eyebrow": "Medicina Legal y Deontología Médica · programa (materia)",
+  "title": "Todo acto médico tiene naturaleza jurídica.",
+  "lede": "La materia que responde a las cuestiones de origen biológico que se plantean en el campo del Derecho, y que enseña las obligaciones legales y los derechos del médico en ejercicio. Un cuatrimestre, 72 horas en 24 clases: ejercicio legal de la profesión, responsabilidad civil y penal, documentación médica e historia clínica, secreto médico, bioética y muerte digna, ley de SIDA, medicina laboral, lesiones, trasplantes y muerte encefálica, tanatología, asfixias, violencia doméstica, delitos contra la integridad sexual, aborto y psiquiatría forense. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "1 cuatr.",
+      "small": "72 h · 24 clases"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "16",
+      "small": "numeradas"
+    },
+    {
+      "k": "Referencias",
+      "v": "3",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 17 páginas, escaneado y sin capa de texto: leído por OCR spa+eng, CUDAP EXP-UBA 0032016/2016). Las unidades y la bibliografía salen del texto real del programa. El programa se titula a sí mismo «MEDICINA LEGAL Y DEONTOLOGÍA MÉDICA» — la grafía «Deodontología» que aparece en el plan de estudios no está en este documento. Contradicción registrada: el plan Res. CS 2861/92 la lista como transversal del Ciclo Clínico, sin año fijo; el sexto punto del programa dice que «se cursa en el 5to o 6to año de la carrera». El primer punto declara además las materias con las que se cruza — psiquiatría, ginecología, obstetricia, bioética, cirugía, ortopedia y traumatología, pediatría, neurología y toxicología —, cada una aportando su franja médico-legal. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las dieciséis unidades",
+      "note": "El tercer punto del programa — dieciséis unidades numeradas. Cada una es un bloque temático anclado en leyes, decretos y fallos citados por número.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "MEDICINA LEGAL Y DEONTOLOGÍA MÉDICA — el acto médico ante la ley\n│\n├─ 1 · Qué es · división, peritos, fueros, informe médico legal\n├─ 2 · Ejercicio legal · Ley 17.132/67 · obligaciones y ejercicio ilegal\n├─ 3 · Responsabilidad profesional · civil, penal, iatrogenia\n├─ 4 · Documentación · certificados · historia clínica · Ley 26.529\n├─ 5 · Secreto médico · justa causa · denunciar o abstenerse\n├─ 6 · Bioética · consentimiento informado · eutanasia · muerte digna\n├─ 7 · SIDA · Ley 23.798/90 · confidencialidad y accidente laboral\n├─ 8 · Medicina laboral · Ley 24.557 · enfermedades profesionales\n├─ 9 · Lesiones · contusas, arma blanca, fuego, electricidad, quemaduras\n├─ 10 · Trasplantes · Ley 24.193/93 · muerte encefálica\n├─ 11 · Tanatología · data de la muerte · autopsias · antropología forense\n├─ 12 · Asfixias · sumersión · ahorcadura · estrangulamiento\n├─ 13 · Violencia doméstica · maltrato infantil · femicidio\n├─ 14 · Delitos contra la integridad sexual · Ley 25.087 · examen de la víctima\n├─ 15 · Aborto · punible y no punible · salud sexual y reproductiva\n└─ 16 · Psiquiatría forense · capacidad · imputabilidad · emoción violenta",
+        "foot": "Unidades tomadas del tercer punto del programa. La granularidad de tiempo es el régimen (un cuatrimestre, 72 horas en 24 clases de 3 horas); no hay cronograma que asigne unidades a clases."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-legal.concepto-y-peritaje",
+          "name": "Unidad 1 · Concepto de Medicina Legal. Peritos e informe médico legal",
+          "role": "división de la materia · organización de la Justicia Nacional · fueros e instancias · designación, recusación y excusación del perito · el legista como asesor asistencial, laboral y previsional",
+          "tag": "fundamentos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.ejercicio-legal",
+          "name": "Unidad 2 · Ejercicio legal de la Medicina",
+          "role": "Ley 17.132/67 y DR 6216/67 · obligaciones y prohibiciones · reválidas y convalidaciones · especialistas · responsabilidad del estudiante en la UDH · juramento médico · ejercicio ilegal · residencias",
+          "tag": "ejercicio",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.responsabilidad-profesional",
+          "name": "Unidad 3 · La responsabilidad profesional",
+          "role": "naturaleza jurídica del acto médico · responsabilidad civil, penal y administrativa · daño, dolo, culpa, preterintención, pérdida de chance · iatrogenia · delitos dolosos del médico",
+          "tag": "responsabilidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.documentacion-medica",
+          "name": "Unidad 4 · La documentación médica y la historia clínica",
+          "role": "certificado médico y certificado falso · Ley 26.413/08 y Ley 4977/14 CABA · certificados de defunción, cremación y nacimiento · historia clínica como prueba · Ley 26.529 y 26.742/12 · Ley 26.743/12 identidad de género",
+          "tag": "documentación",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.secreto-medico",
+          "name": "Unidad 5 · Secreto médico",
+          "role": "elementos del delito de violación de secreto · la justa causa · confidencialidad, veracidad e información · Ley 23.984 arts. 174, 177, 240, 242, 243, 244 y 252 · encubrimiento · Código de Ética de la AMA (2001)",
+          "tag": "secreto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.bioetica-y-derechos",
+          "name": "Unidad 6 · Bioética y derechos de las personas",
+          "role": "Informe Belmont · no maleficencia, beneficencia, autonomía y justicia · consentimiento informado y competencia · eutanasia, distanasia, ortotanasia · futilidad y cuidados paliativos · muerte digna · Testigos de Jehová · Ley 26.529 y modificatorias",
+          "tag": "bioética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.ley-de-sida",
+          "name": "Unidad 7 · Ley de SIDA",
+          "role": "Ley 23.798/90 y DR 1244/91 · bienes tutelados · denuncia, consentimiento y confidencialidad · accidente laboral y HIV · Ley 22.990 sangre y hemoderivados · Leyes 24.455/95 y 24.754/96",
+          "tag": "HIV",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.medicina-laboral",
+          "name": "Unidad 8 · Medicina laboral y riesgos del trabajo",
+          "role": "Ley de contrato de trabajo 20.744 arts. 21 y 22 · higiene y seguridad Ley 19.587 y Decreto 351/79 · enfermedades profesionales y Decreto 658/96 · Ley 24.557 arts. 6 a 10 · baremos",
+          "tag": "laboral",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.lesiones",
+          "name": "Unidad 9 · Lesiones",
+          "role": "concepto y clasificación médico legal · vitalidad y postmortem · contusas, arma blanca, proyectiles de arma de fuego, electricidad, quemaduras · relaciones de causalidad · accidente de tránsito, precipitación y explosión",
+          "tag": "lesiones",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.trasplantes-y-muerte-encefalica",
+          "name": "Unidad 10 · Trasplantes de órganos y muerte encefálica",
+          "role": "Ley 24.193/93 · muerte bajo criterios neurológicos y cuadros que la excluyen · Decreto 512/95 · ablación e implante de donante cadavérico y vivo · Ley 26.066/06 donante presunto · Resolución MS 275/10",
+          "tag": "trasplantes",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.tanatologia",
+          "name": "Unidad 11 · Tanatología",
+          "role": "definición y formas de muerte · tanatodiagnóstico · transformaciones cadavéricas · cronotanatodiagnóstico · lugar del hecho y levantamiento del cadáver · autopsias · Ley 4977/14 CABA · antropología forense",
+          "tag": "tanatología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.asfixias",
+          "name": "Unidad 12 · Las asfixias",
+          "role": "concepto clínico y médico legal · asfixias mecánicas · sumersión, etapas y valor diagnóstico del plankton · ahorcadura y estrangulamiento · diagnóstico diferencial",
+          "tag": "asfixias",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.violencia-domestica",
+          "name": "Unidad 13 · Violencia doméstica y maltrato infantil",
+          "role": "proceso y dinámica de la violencia · Ley 24.417 · judicialización y protección · exclusión del hogar · informe pericial · Leyes CABA 1265/03 y 1688/05 · Ley 26.485/09 · femicidio Ley 26.791/12 · Acordada 39/06 CSJN",
+          "tag": "violencia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.integridad-sexual",
+          "name": "Unidad 14 · Delitos contra la integridad sexual",
+          "role": "Ley 25.087 · abuso sexual simple, gravemente ultrajante y con acceso carnal · obligación de denunciar · examen de la víctima · lesiones genitales, paragenitales y extragenitales · toma de muestras · Ley 26.743/12",
+          "tag": "integridad sexual",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.aborto",
+          "name": "Unidad 15 · Aborto y salud reproductiva",
+          "role": "definición tocoginecológica y médico legal · el aborto y el Código Penal · Plenario Natividad Frías · aborto no punible y criminal · fallo CSJN 13/02/2012 y ley 1044 CABA · Leyes CABA 418/00 y 439/00 · Ley 26.130/06 · fertilización asistida Ley 26.862/13",
+          "tag": "aborto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.psiquiatria-forense",
+          "name": "Unidad 16 · Psiquiatría forense",
+          "role": "aspecto civil: capacidad, incapacidad restringida, apoyo y curador · Ley de Salud Mental 26.657 · internación involuntaria · aspecto penal: teoría del delito, imputabilidad, art. 34 inc. 1 CP · emoción violenta · nociones de criminología",
+          "tag": "psiquiatría forense",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "El séptimo punto del programa — tres manuales, sin distinguir obligatoria de complementaria. Cada uno es una puerta hacia su contenido: un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.medicina-legal.patito",
+          "name": "Patitó, J. A. — Manual de Medicina Legal",
+          "role": "Akadia Editorial, Buenos Aires 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.covelli",
+          "name": "Covelli, J. L. y otros — Manual de Medicina Legal y Deontología Médica",
+          "role": "Editorial Alfaomega, Buenos Aires 2014",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.medicina-legal.basile",
+          "name": "Basile, A. — Fundamentos de Medicina Legal",
+          "role": "Editorial El Ateneo, Buenos Aires 2015",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Medicina Legal y Deontología Médica (PDF escaneado, 17 pp., CUDAP EXP-UBA 0032016/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/36-Medicina%20Legal%20y%20Deontolog%C3%ADa%20M%C3%A9dica_0.pdf"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "address": "uba.med.medicina.pediatria",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso de 10 semanas · extensión horaria de 286 hs",
+    "año": "Ciclo Clínico · bloque Tocoginecología y Pediatría (ubicación según el plan Res. CS 2861/92; el programa no consigna año)",
+    "cargaHoraria": "286 hs · mínimo 50% en prácticas ambulatorias, el resto en salas de internación",
+    "correlativas": "no consignadas en el programa — según el plan Res. CS 2861/92 el bloque exige Medicina A y Patología II aprobadas",
+    "catedra": "no se nombra una cátedra: el programa es del Departamento de Pediatría de la Facultad de Medicina (UBA), y la cursada se reparte entre UDH y UDA",
+    "programa": "PIP · Programa Integrado de Pediatría · CUDAP EXP-UBA 0026817/2017",
+    "evaluacion": "evaluación diagnóstica de apertura · mínimo 2 parciales por unidad docente · examen práctico en la unidad docente · Examen Final Unificado (EFU) escrito en el Aula Magna · presentismo 80% · nota mínima 4 · una recuperación por instancia",
+    "unidades": 13,
+    "bibliography": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.pediatria",
+      "label": "Pediatría"
+    }
+  ],
+  "eyebrow": "Pediatría · programa (materia)",
+  "title": "El niño como emergente: crecer es el diagnóstico.",
+  "lede": "Diez semanas del ciclo clínico, 286 horas, la mitad de ellas fuera de la sala. El programa se declara «integrado» y tiene forma de mapa conceptual: primero el crecimiento y el desarrollo normales —de la familia, del cuerpo, de la psiquis, del sistema nervioso, del sistema inmune— y recién después la enfermedad, ordenada en un tablero de patologías prevalentes por aparato. Cierra con una guía de cotejo de destrezas mínimas que el alumno tilda junto al docente, y con un examen final unificado que rinde toda la cohorte en el Aula Magna. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "10 semanas",
+      "small": "286 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "13",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "3",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura — el PIP (Programa Integrado de Pediatría) del Departamento de Pediatría, CUDAP EXP-UBA 0026817/2017, PDF escaneado de 13 páginas leído por OCR. Los bloques de contenido, la carga horaria, el régimen de evaluación y las referencias bibliográficas salen del texto real del programa: diez semanas, 286 horas, mínimo 50% de práctica ambulatoria, presentismo del 80%, al menos dos parciales por unidad docente y un Examen Final Unificado escrito que se toma en el Aula Magna a toda la rotación. El programa no consigna año ni correlativas; su ubicación en el Ciclo Clínico y el requisito de Medicina A y Patología II se leen en el plan de estudios (Res. CS 2861/92), no acá. Tampoco nombra una cátedra: es un programa departamental que cada UDH o UDA planifica. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los trece bloques",
+      "note": "El punto 3 del programa. Cada bloque abre con un título en mayúsculas y baja a un párrafo de CONTENIDOS. Los primeros doce recorren el desarrollo normal y sus alteraciones; el decimotercero es un tablero de patologías prevalentes ordenado por aparato.",
+      "map": {
+        "mk": "El PIP, comprimido",
+        "tree": "PEDIATRÍA — primero lo normal, después lo prevalente\n│\n├─ DESARROLLO NORMAL Y SUS ALTERACIONES\n│  ├─ Familia · función, cambios, alto riesgo, adicciones y marginalidad\n│  ├─ Físico · pubertad · baja talla · síndrome de Turner\n│  ├─ Psicológico · signos de familia de riesgo · el juego y los juguetes\n│  ├─ Adolescencia y sociedad · adicciones · embarazo · marginación\n│  └─ Neurológico · reflejos arcaicos, tono, postura, motricidad · retraso madurativo\n│\n├─ PREVENCIÓN\n│  ├─ Sistema inmune · calendario nacional de inmunizaciones · gamma-globulina\n│  ├─ Alimentación del niño sano · lactancia · fórmulas · anemia ferropénica · raquitismo · obesidad\n│  ├─ Odontopediatría · caries · flúor · primer molar permanente · mala oclusión\n│  ├─ Ginecología infanto-juvenil · desarrollo genital · vulvovaginitis · pubertad precoz\n│  └─ Maltrato, accidentes, intoxicaciones y salud ambiental\n│\n├─ HERRAMIENTAS\n│  └─ Diagnóstico por imágenes · Rx · RNM · TAC · ecografía · centellografía\n│\n├─ EL RECIÉN NACIDO\n│  ├─ El niño antes de nacer · control prenatal · infecciones congénitas\n│  ├─ Recepción · Apgar · transición · prácticas de sala de partos\n│  ├─ Internación conjunta · pesquisa obligatoria por ley · puericultura\n│  ├─ Signos de alarma · RN ictérico · RN de bajo peso\n│  └─ Dificultad respiratoria · membrana hialina · sepsis\n│\n└─ PATOLOGÍAS PREVALENTES (por aparato)\n   ├─ Nutricional · Otorrinolaringológica · Odontológica\n   ├─ Gastroenterológica · Ginecológica · Cardiológica\n   ├─ Neumonológica · Infectológica · Neurológica\n   ├─ Onco-hematológica · Ortopédica · Nefrológica\n   ├─ Dermatológica · Médico-quirúrgica · Endocrinológica\n   ├─ Desequilibrios del medio interno · Genética\n   └─ Oftalmológica · Salud ambiental",
+        "foot": "Los cinco encabezados en mayúscula agrupan visualmente; el programa lista los trece bloques corridos, sin numerar. La única granularidad temporal es el régimen (10 semanas, 286 hs); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.pediatria.familia-de-alto-riesgo",
+          "name": "Crecimiento y desarrollo normal de la familia y sus alteraciones. Familia de alto riesgo",
+          "role": "función y relaciones · adicciones, sociopatías y marginalidad · separación, adopción · rol del médico generalista",
+          "tag": "familia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.crecimiento-fisico",
+          "name": "Crecimiento y desarrollo físico normal y sus alteraciones",
+          "role": "crecimiento por edades · pubertad · baja talla familiar y retraso constitucional · síndrome de Turner",
+          "tag": "crecimiento",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.crecimiento-psicologico",
+          "name": "Crecimiento y desarrollo psicológico normal y sus alteraciones",
+          "role": "familia de riesgo, signos y síntomas · los juguetes y el juego en cada etapa",
+          "tag": "desarrollo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.adolescencia-y-sociedad",
+          "name": "Adolescencia y sociedad",
+          "role": "matriz persona-familia-sociedad · subculturas juveniles · embarazo adolescente · tipos de adicciones y de comportamiento",
+          "tag": "adolescencia",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.crecimiento-neurologico",
+          "name": "Crecimiento y desarrollo neurológico normal y socialización. Sus alteraciones",
+          "role": "reflejos arcaicos · tono muscular · postura · motricidad fina y gruesa · retraso madurativo del primer año",
+          "tag": "desarrollo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.inmunizaciones",
+          "name": "Maduración del sistema inmune. Inmunizaciones",
+          "role": "calendario nacional · tipos de inmunidad · indicaciones y contraindicaciones vacuna por vacuna · gamma-globulina",
+          "tag": "prevención",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.alimentacion-del-nino-sano",
+          "name": "Alimentación del niño sano. Suplementos vitamínicos y minerales. Prevención de anemia ferropénica, raquitismo y obesidad",
+          "role": "lactancia natural y artificial · fórmulas y diluciones · carga renal de solutos · semisólidos · hipercolesterolemia e hipertensión",
+          "tag": "nutrición",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.odontopediatria",
+          "name": "Odontopediatría",
+          "role": "piezas dentarias · cepillado, flúor y sellado de surcos · caries y patología gingival · fracturas y luxaciones dentales",
+          "tag": "odontología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.ginecologia-infanto-juvenil",
+          "name": "Ginecología infanto-juvenil",
+          "role": "exploración de lactantes, niñas y adolescentes · genitales ambiguos · amenorreas · pubertad, telarca y menarca precoces",
+          "tag": "ginecología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.diagnostico-por-imagenes",
+          "name": "Diagnóstico a través de las imágenes",
+          "role": "indicaciones y contraindicaciones en pediatría · Rx · RNM · TAC · ecografía · centellografía",
+          "tag": "diagnóstico",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.recien-nacido",
+          "name": "El recién nacido",
+          "role": "control prenatal · recepción y Apgar · internación conjunta y pesquisa por ley · signos de alarma · ictericia · bajo peso · dificultad respiratoria · infecciones prenatales y sepsis",
+          "tag": "neonatología",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.maltrato-accidentes-e-intoxicaciones",
+          "name": "Maltrato infantil. Accidentes, intoxicaciones y salud ambiental",
+          "role": "maltrato físico, sexual y negligencia · accidentología por etapa evolutiva · intoxicaciones y antídotos · contaminación de agua, aire y suelo",
+          "tag": "riesgo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.patologias-prevalentes",
+          "name": "Patologías prevalentes",
+          "role": "tablero por aparato: nutricional, ORL, odontológica, gastroenterológica, ginecológica, cardiológica, neumonológica, infectológica, neurológica, onco-hematológica, ortopédica, nefrológica, dermatológica, médico-quirúrgica, endocrinológica, medio interno, genética, oftalmológica y salud ambiental",
+          "tag": "clínica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Guía de cotejo · lo que hay que saber hacer",
+      "title": "Requerimientos esenciales y mínimos (REM)",
+      "note": "El punto 4 del programa: dieciocho ítems de habilidades y destrezas que el alumno y el docente tildan juntos, desde el inicio del ciclo clínico hasta el fin del Internado Anual Rotatorio. Las resaltadas en mayúscula son de adquisición exclusivamente pediátrica y deben lograrse en su totalidad al terminar el curso. Cuando no hay paciente adecuado —signo del pliegue, rigidez meníngea, displasia de cadera— se exige en su reemplazo saber valorar el hallazgo normal.",
+      "map": {
+        "mk": "Los 18 ítems del REM",
+        "tree": "REM — Pediatría y Neonatología\n│\n├─ 1  Apellido y nombre (identificación del alumno)\n├─ 2  Anamnesis · completa, centrada en el paciente y su familia\n├─ 3  Piel, mucosas y faneras · palidez, ictericia, cianosis, púrpuras · SIGNO DEL PLIEGUE\n├─ 4  Cabeza y cuello · adenopatías · otoscopía · fauces · dentición\n├─ 5  Tórax · adenopatías axilares y supraclaviculares\n├─ 6  Abdomen · hernias · hígado, bazo, masas · contractura y defensa\n├─ 7  Respiratorio · TIRAJE · RETRACCIÓN INTERCOSTAL · auscultación · SCORE DE TAL\n├─ 8  Cardiovascular · focos · soplos · llenado capilar · tensión arterial · ECG\n├─ 9  Nervioso · conciencia · agudeza visual · rigidez meníngea · DESARROLLO MADURATIVO < 6 AÑOS\n├─ 10 Genitourinario · puño percusión · DESARROLLO MAMARIO Y TESTICULAR · genitales externos\n├─ 11 Locomotor · maniobra de Adams · escoliosis · genu valgo/varo · PIE BOT · SIGNO DE ORTOLANI\n├─ 12 Crecimiento y desarrollo · pesar, medir, percentilar · calendario de vacunas\n├─ 13 Desarrollo psicológico · sospecha de trastorno generalizado del desarrollo\n├─ 14 Laboratorio · glucemia capilar · tirillas de orina · análisis básicos\n├─ 15 Radiología · Rx de tórax · Rx simple de abdomen frente y de pie\n├─ 16 Emergencias · asepsia de heridas · RCP básica · vía aérea · inmovilizaciones\n├─ 17 Inyectables · intramuscular, intradérmica y subcutánea\n└─ 18 Neonatología · lavado de manos · APGAR EN SALA DE PARTOS · secado y sujeción · OXÍGENO LIBRE · LACTANCIA MATERNA",
+        "foot": "Transcripto del punto 4 del programa. Las mayúsculas son del original: marcan las destrezas exclusivamente pediátricas."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Las tres referencias del punto 8 del programa, tal como están listadas: sin año y sin número de edición. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.pediatria.voyer",
+          "name": "Voyer, Ruvinsky, Cambiano — Pediatría",
+          "role": "«La Editorial Pediátrica del siglo XXI» · Ed. La Rosa · sin edición ni año en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.de-rosa",
+          "name": "De Rosa, Ricardo — Pediatría. El niño sano, el niño enfermo",
+          "role": "Ed. AlfaOmega · sin edición ni año en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.pediatria.nelson",
+          "name": "Nelson — Tratado de Pediatría",
+          "role": "Ed. Elsevier · sin edición ni año en el programa",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · PIP, Programa Integrado de Pediatría (PDF escaneado, CUDAP EXP-UBA 0026817/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/20-Pediatria_0.pdf"
+  }
+}

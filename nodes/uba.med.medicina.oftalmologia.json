@@ -1,0 +1,192 @@
+{
+  "address": "uba.med.medicina.oftalmologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "duración de dos (2) semanas · carga horaria 40 horas",
+    "año": "Ciclo Clínico · grupo Cirugía (ubicación según el plan Res. CS 2861/92; el plan agrupa la asignatura pero no le asigna número de año)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir el examen final",
+    "catedra": "no consignada en el programa — el PDF sólo lleva la firma del Secretario General de la Facultad, no la de una cátedra",
+    "programa": "Programa de Grado de Oftalmología · CUDAP EXP-UBA 0054595/2018",
+    "evaluacion": "asistencia mínima del 80% a clases y prácticos · examen parcial de destrezas prácticas previo al final · examen final de selección múltiple con casos clínicos, 50 preguntas, umbral de aprobación 60%",
+    "unidades": 10,
+    "bibliography": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.oftalmologia",
+      "label": "Oftalmología"
+    }
+  ],
+  "eyebrow": "Oftalmología · programa (materia)",
+  "title": "El ojo mirado por dentro: la única víscera que se ve sin abrir.",
+  "lede": "Especialidad clínico-quirúrgica del ciclo clínico, dos semanas y 40 horas. El programa se ordena en diez unidades temáticas por frecuencia epidemiológica, riesgo para la función visual y detección precoz de enfermedad sistémica: refracción, neuroftalmología, retina, superficie ocular, segmento anterior con glaucoma y catarata, órbita y párpados, oftalmopediatría y estrabismo, ojo rojo, manifestaciones oculares de enfermedades sistémicas y el ojo en la práctica médica. La parte práctica ocurre en consultorios externos y es una lista de maniobras: medir agudeza visual, evaluar reflejos pupilares, hacer un campo por confrontación, evertir un párpado, instilar colirios, mirar el fondo de ojo con oftalmoscopio directo. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 semanas",
+      "small": "40 horas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "10",
+      "small": "unidades"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 8 páginas sin capa de texto, leído por OCR spa+eng; CUDAP EXP-UBA 0054595/2018). Los contenidos y las referencias bibliográficas salen del texto real del programa: diez unidades temáticas, cada una con su bloque de teoría y, en cuatro de ellas (unidades 1–4), un bloque «Práctico» con las destrezas semiológicas que se adquieren en consultorios externos. La presentación del programa vincula la materia con medicina interna (diabético e hipertenso), infectología (sífilis, tuberculosis, SIDA, toxoplasmosis), reumatología, dermatología y neurología — seis de los doce pares craneales están involucrados en el sistema visual. Las correlatividades y la ubicación en el Ciclo Clínico vienen del plan Res. CS 2861/92, no del programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las diez unidades temáticas",
+      "note": "El punto V del programa — diez unidades numeradas, primero listadas y después desarrolladas una por una. Cuatro (unidades 1–4) traen además un bloque «Práctico» con las maniobras semiológicas correspondientes. El índice y los encabezados difieren en la redacción de las unidades 5, 6 y 7 (p.ej. índice «Segmento anterior. Catarata y Glaucoma» vs encabezado «Segmento anterior y glaucoma. Cristalino y catarata»; índice «Oftalmopediatria y Estrabismo» vs encabezado «Oftalmopediatría. Estrabismo»): se conserva la forma del encabezado de la unidad.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "OFTALMOLOGÍA — diez unidades, dos semanas\n│\n├─ 1 · Refracción — el ojo como dioptro · ametropías · baja visión\n│    práctico: agudeza visual, optotipos, Ishihara, lentes correctoras\n├─ 2 · Neuroftalmología — vía óptica · pupila · motilidad · diplopía\n│    práctico: campo visual, cover test, reflejos pupilares\n├─ 3 · Retina — diabética · hipertensiva · DMAE · desprendimiento · tumores\n│    práctico: fondo de ojo, oftalmoscopía directa e indirecta, OCT\n├─ 4 · Superficie ocular — film lagrimal · ojo seco · queratitis · úlceras\n│    práctico: ojo externo con linterna, eversión palpebral, lámpara de hendidura\n├─ 5 · Segmento anterior y glaucoma · cristalino y catarata\n├─ 6 · Órbita, párpados y vía lagrimal — tumores · celulitis · ptosis · epífora\n├─ 7 · Oftalmopediatría y estrabismo — leucocorias · ROP · retinoblastoma · ambliopía\n├─ 8 · Inflamación ocular. Ojo rojo — uveítis · rojo doloroso vs. no doloroso\n├─ 9 · Manifestación ocular de enfermedades sistémicas\n└─ 10 · El ojo en la práctica médica — ceguera evitable · rehabilitación",
+        "foot": "Unidades tomadas del punto V del programa. La granularidad de tiempo es sólo el régimen (2 semanas, 40 horas, punto VI); no hay cronograma fechado ni reparto de horas por unidad."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.oftalmologia.refraccion",
+          "name": "Refracción",
+          "role": "el ojo como dioptro · emetropía, miopía, hipermetropía · acomodación y presbicia · ametropías · baja visión",
+          "tag": "óptica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.neuroftalmologia",
+          "name": "Neuroftalmología",
+          "role": "vía óptica · nervio óptico y edema de papila · quiasma · pupila · motilidad y diplopía",
+          "tag": "neuro",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.retina",
+          "name": "Retina",
+          "role": "retinopatía diabética e hipertensiva · oclusiones vasculares · DMAE · desprendimiento · melanoma y metástasis",
+          "tag": "fondo de ojo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.superficie-ocular",
+          "name": "Superficie ocular",
+          "role": "film precorneal y ojo seco · blefaritis, conjuntivitis, queratitis y úlcera · penfigoide · pterigion · quemadura química",
+          "tag": "superficie",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.segmento-anterior-glaucoma-catarata",
+          "name": "Segmento anterior y glaucoma. Cristalino y catarata",
+          "role": "humor acuoso y presión ocular · glaucoma crónico simple y agudo por cierre angular · endotelio corneal · facoemulsificación",
+          "tag": "segmento anterior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.orbita-parpados-via-lagrimal",
+          "name": "Órbita, párpados y vía lagrimal",
+          "role": "semiología orbitaria y exoftalmometría · tumores y celulitis · orbitopatía distiroidea · ptosis · epífora y dacriocistitis",
+          "tag": "anexos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.oftalmopediatria-estrabismo",
+          "name": "Oftalmopediatría. Estrabismo",
+          "role": "desarrollo del sistema visual · glaucoma congénito · leucocorias · ROP · retinoblastoma · forias y tropias · ambliopía",
+          "tag": "pediatría",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.inflamacion-ocular-ojo-rojo",
+          "name": "Inflamación ocular. Ojo rojo",
+          "role": "uveítis anteriores, posteriores e intermedias · vasculitis retinales · diagnóstico diferencial del ojo rojo doloroso y no doloroso",
+          "tag": "inflamación",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.manifestaciones-oculares-sistemicas",
+          "name": "Manifestación ocular de enfermedades sistémicas",
+          "role": "embarazo y eclampsia · vasculares · autoinmunes · infecciosas · reumáticas · tejido conectivo · metabólicas · dermatológicas",
+          "tag": "sistémicas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.ojo-en-la-practica-medica",
+          "name": "El ojo en la práctica médica",
+          "role": "ceguera por diabetes · pérdida aguda y crónica de la visión · prevención de la ceguera evitable · rehabilitación",
+          "tag": "práctica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Punto IV del programa, cinco referencias. Tres se citan sin editorial o sin año, y una figura «en prensa»: se transcriben tal como aparecen, sin completarlas. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.oftalmologia.argento",
+          "name": "Argento y colaboradores — Oftalmología General",
+          "role": "Editorial Corpus, 2007",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.kansky",
+          "name": "Kansky — Oftalmología Clínica",
+          "role": "citado sin edición, editorial ni año · el apellido figura así en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.sepulveda-ibanez",
+          "name": "Sepúlveda, Ibáñez — Manual de Oftalmología",
+          "role": "Editorial Mediterráneo, 2017",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.piantoni",
+          "name": "Piantoni y colaboradores — Oftalmología. Manual de Pregrado",
+          "role": "citado sin edición, editorial ni año",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.oftalmologia.chiaradia-pelayes",
+          "name": "Chiaradía, Pelayes y colaboradores — Introducción a la Oftalmología",
+          "role": "Editorial Médica Panamericana · consignado «en prensa» al momento del programa",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Grado de Oftalmología (PDF, CUDAP EXP-UBA 0054595/2018)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/31-Oftalmologia_0.pdf"
+  }
+}

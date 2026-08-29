@@ -1,0 +1,241 @@
+{
+  "address": "uba.med.medicina.salud-publica-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "materia de carácter cuatrimestral · carga horaria 96 hs",
+    "año": "Ciclo Clínico (transversal) — el programa atribuye la ubicación al Plan de Estudios de la Carrera de Medicina (CS) 7591/09; el nodo de la carrera en este grafo está sourceado del plan (CS) 2861/92",
+    "correlativas": "ser regular en Salud Pública I para cursar · tener aprobada Salud Pública I para rendir",
+    "catedra": "no consignada como cátedra nominada en el programa — la materia se cursa exclusivamente en el Departamento de Salud Pública o en Hospitales Asociados que hayan solicitado y aprobado la apertura para su dictado; el CODEP arbitra los criterios de evaluación",
+    "programa": "Programa de Salud Pública II · fmed.uba.ar (PDF publicado 2022-08)",
+    "evaluacion": "4 instancias de evaluación parcial (3 trabajos prácticos + un examen integrador) · promoción con 7 o más en 2 de los 3 TP, 4 o más en el restante y 7 o más en la integradora · regularidad con promedio entre 4 y 6 y examen final · asistencia del 80% a las clases sincrónicas",
+    "unidades": 3,
+    "bibliography": 19
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.salud-publica-2",
+      "label": "Salud Pública II"
+    }
+  ],
+  "eyebrow": "Salud Pública II · programa (materia)",
+  "title": "Quién queda afuera del sistema, y por qué.",
+  "lede": "Materia cuatrimestral del ciclo clínico, 96 horas. Toma el sistema de salud argentino como objeto: sus tres subsistemas, su financiación, sus hospitales y centros comunitarios, y las políticas que lo gobiernan. La cursada entera se organiza alrededor de un proyecto — identificar los facilitadores y obstáculos al acceso al sistema de salud en una población determinada — que recorre los pasos de la planificación estratégica hasta una propuesta de resolución. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "96 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "3",
+      "small": "unidades"
+    },
+    {
+      "k": "Referencias",
+      "v": "19",
+      "small": "bibliografía"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 9 páginas, escaneado, leído por OCR spa+eng). Los contenidos y la bibliografía salen del texto real del programa: tres unidades, metodología por método de proyecto con clase invertida sobre videos producidos durante la pandemia, cuatro instancias de evaluación y asistencia del 80%. Dos contradicciones registradas, no resueltas: el programa atribuye la materia al plan (CS) 7591/09 mientras el nodo de la carrera está sourceado del plan (CS) 2861/92; y el propio texto repite dos veces, con redacciones distintas, el régimen de notas finales. Las referencias (qué se lee) viven acá; el contenido de cada una es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las tres unidades",
+      "note": "El programa numera tres unidades y dentro de cada una abre ítems con título propio. Los exits son las unidades, que es la estructura inequívoca del texto; los ítems internos se listan en el árbol. En la Unidad 2 el escaneo no permite decidir si «Prevención cuaternaria» es un ítem propio o la continuación de «Recursos físicos» — se lo deja adentro de la unidad, sin inventar el corte.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "SALUD PÚBLICA II — el acceso al sistema\n│\n├─ 1 · Sistemas de salud y estrategias para la cobertura\n│   ├─ Teoría general de los sistemas · organización sanitaria argentina\n│   ├─ Subsistemas público, de Seguridad Social y privado · cobertura y financiación\n│   ├─ Hospitales · áreas programáticas · centros de salud comunitaria\n│   ├─ Referencia, contrarreferencia, derivación · descentralización · regionalización\n│   ├─ Sistemas de salud en países seleccionados · fortalezas y debilidades\n│   └─ Políticas sanitarias · COFESA · OPS/OMS, ONU, Banco Mundial · APS · redes\n│\n├─ 2 · Recursos de salud\n│   ├─ Recursos humanos · formación · educación continua · interdisciplina\n│   ├─ Recursos físicos · tecnología médica · medicamentos esenciales · arquitectura sanitaria\n│   ├─ Prevención cuaternaria · medicalización de la vida · el síndrome de Ulises\n│   ├─ Monitoreo y evaluación · sistemas de información · auditoría · acreditación\n│   └─ Calidad de los servicios médicos · ANMAT · certificación\n│\n└─ 3 · Las personas y el sistema de salud\n    ├─ Derechos y accesibilidad · necesidad, demanda y oferta · estigma y discriminación\n    ├─ Rol profesional · participación comunitaria · enfoque de género y derechos\n    └─ Educación y comunicación en salud · relación profesional/consultante · la web",
+        "foot": "Unidades y contenidos tomados del cuerpo del programa. La granularidad de tiempo es solo el régimen (cuatrimestral, 96 hs); no hay cronograma fechado. El proyecto de la cursada recorre todo el cuatrimestre en paralelo a las unidades."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-publica-2.sistemas-de-salud",
+          "name": "Unidad 1. Sistemas de salud y estrategias para la cobertura",
+          "role": "organización sanitaria argentina · subsistemas y financiación · políticas sanitarias · APS · cobertura universal",
+          "tag": "sistemas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.recursos-de-salud",
+          "name": "Unidad 2. Recursos de salud",
+          "role": "recursos humanos y físicos · medicamentos · prevención cuaternaria · monitoreo, auditoría y calidad · ANMAT",
+          "tag": "recursos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.personas-y-sistema",
+          "name": "Unidad 3. Las personas y el sistema de salud",
+          "role": "derechos y accesibilidad · estigma y discriminación · educación y comunicación en salud",
+          "tag": "personas",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Lo que asigna para leer",
+      "note": "Referencias reales del programa: dos textos generales de la materia y, después, la bibliografía por unidad — monografías, módulos ministeriales, informes y artículos. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-publica-2.lemus",
+          "name": "Lemus, Jorge D. — Salud Pública, Sistemas y Servicios de Salud",
+          "role": "CIDES, Ed. Kohan · 2011 · bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.mazzafero",
+          "name": "Mazzáfero, Vicente E. — Medicina en Salud Pública",
+          "role": "El Ateneo, Buenos Aires · 1987 · bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.pnud-cepal-ops",
+          "name": "PNUD / CEPAL / OPS — El sistema de salud argentino",
+          "role": "unidad 1 · partes seleccionadas: organización y cobertura, fragmentación y conflicto distributivo, reflexiones finales",
+          "tag": "unidad 1",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.duran",
+          "name": "Durán, A. — Políticas y sistemas sanitarios",
+          "role": "unidad 1 · Serie Monografías EASP Nº 40 · Escuela Andaluza de Salud Pública, Granada 2004",
+          "tag": "unidad 1",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.bello-becerril",
+          "name": "Belló, M.; Becerril-Montekio, B. M. — Sistema de salud de Argentina",
+          "role": "unidad 1 · Salud Pública de México, vol. 53, supl. 2 · 2011",
+          "tag": "unidad 1",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.pssc-modulo-5",
+          "name": "Posgrado en Salud Social y Comunitaria — Módulo 5: Políticas de Salud",
+          "role": "unidad 1 · Ministerio de Salud de la Nación · partes seleccionadas: políticas públicas, política nacional de medicamentos",
+          "tag": "unidad 1",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.ripoli",
+          "name": "Ripoli, M. — Estrategias para la Cobertura",
+          "role": "unidad 1 · el programa no consigna año ni editorial",
+          "tag": "unidad 1",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.pssc-modulo-1",
+          "name": "Posgrado en Salud Social y Comunitaria — Módulo 1: Salud y sociedad, unidad 4",
+          "role": "unidad 2 · Ministerio de Salud de la Nación · partes seleccionadas: APS, pp. 141-174",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.rovere-abramzon",
+          "name": "Rovere, M.; Abramzon, M. — Recursos Humanos en Salud",
+          "role": "unidad 2 · el programa no consigna año ni editorial",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.tarragona-de-la-puente",
+          "name": "Tarragona, S.; De la Puente, C. — La política nacional de medicamentos",
+          "role": "unidad 2 · Ministerio de Salud de la Nación",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.maceira-anmat",
+          "name": "Maceira, D.; Bumbak, S.; Barbieri, E.; Peralta, M. — Control de medicamentos en la Argentina: el funcionamiento de la ANMAT y el INPI",
+          "role": "unidad 2 · Políticas Públicas / Análisis Nº 20 · CIPPEC, 2005",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.kapitowski",
+          "name": "Kapitowski, K. — Prevención cuaternaria: se pueden y se deben limitar los daños por la actividad sanitaria",
+          "role": "unidad 2 · el programa no consigna año ni publicación",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.noble",
+          "name": "Noble, M. — Prevención cuaternaria. Repensando la medicina desde el paciente",
+          "role": "unidad 2 · el programa no consigna año ni publicación",
+          "tag": "unidad 2",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.jimenez-paneque",
+          "name": "Jiménez Paneque, R. E. — Indicadores de calidad y eficiencia de los servicios hospitalarios",
+          "role": "unidad 3 · Revista Cubana de Salud Pública, 2004 mar; 30(1)",
+          "tag": "unidad 3",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.acevey",
+          "name": "Acevey, N. y col. — Dispositivos de Intervención en Educación para la Salud",
+          "role": "unidad 3 · Ministerio de Salud CABA, 2008",
+          "tag": "unidad 3",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.monti",
+          "name": "Monti, E. y col. — Manual de Comunicación para la Salud",
+          "role": "unidad 3 · PROAPS, Ministerio de Salud de la provincia de Córdoba, 2007",
+          "tag": "unidad 3",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.sanchez-lazaro",
+          "name": "Sánchez Lázaro, Antonia Mª — Algunas pruebas de la eficacia de la Educación para la Salud",
+          "role": "unidad 3 · Pedagogía Social. Revista Interuniversitaria, núm. 12-13, dic. 2005, pp. 87-100 · Sociedad Iberoamericana de Pedagogía Social, Sevilla",
+          "tag": "unidad 3",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.valadez",
+          "name": "Valadez Figueroa, I.; Villaseñor Farías, M.; Alfaro Alfaro, N. — Educación para la Salud: la importancia del concepto",
+          "role": "unidad 3 · Revista de Educación y Desarrollo Nº 1, pp. 43-49, dic. 2003 · Universidad de Guadalajara, México",
+          "tag": "unidad 3",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-2.cejas-kremer-olaviaga",
+          "name": "Cejas, C.; Kremer, P.; Olaviaga, S. — Manual para la formulación de proyectos de organizaciones comunitarias",
+          "role": "unidad 3 · Fundación CIPPEC, 1ª ed. · Buenos Aires, 2008",
+          "tag": "unidad 3",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Salud Pública II (PDF escaneado, 9 páginas, leído por OCR)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-08/Salud%20P%C3%BAblica%20II.pdf"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "address": "uba.med.medicina.ortopedia-traumatologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "duración de tres (3) semanas · seminarios diarios de asistencia obligatoria + prácticos en sala de internación, guardia y consultorios externos",
+    "año": "Ciclo Clínico · cirugía (ubicación según el plan Res. CS 2861/92; el programa no consigna el año)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir el examen final",
+    "catedra": "no consignada en el programa — la asignatura se cursa en distintas cátedras y Unidades Docentes Hospitalarias, y los recursos dependen de cada una",
+    "programa": "Programa Analítico de Ortopedia y Traumatología · CUDAP EXP-UBA 0092610/2016",
+    "evaluacion": "examen final oral u escrito, a criterio del docente a cargo de la Unidad Hospitalaria · regularidad con presentismo superior al 80%",
+    "unidades": 21,
+    "bibliography": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.ortopedia-traumatologia",
+      "label": "Ortopedia y Traumatología"
+    }
+  ],
+  "eyebrow": "Ortopedia y Traumatología · programa (materia)",
+  "title": "El aparato locomotor, del golpe a la secuela.",
+  "lede": "Tres semanas del ciclo clínico sobre las afecciones del aparato locomotor — traumáticas y no traumáticas — desde el nacimiento hasta la vejez. Veintiuna unidades que arrancan en anatomía, radiología y semiología del raquis y los miembros, siguen por fracturas, luxaciones, politraumatizado y fracturas expuestas, y terminan en tumores óseos, ortopedia infantil, artrosis, infecciones osteoarticulares, osteopatías, reumatismos, terapias regenerativas y rehabilitación. El eje es qué tratar y qué derivar. Extraída del programa analítico oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "3 semanas",
+      "small": "seminarios diarios"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "21",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "3",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa analítico oficial de la asignatura (PDF escaneado de 10 páginas, leído por OCR spa+eng, CUDAP EXP-UBA 0092610/2016). Las unidades temáticas y las referencias bibliográficas salen del texto real del programa: tres semanas de cursada, correlativas Medicina A y Patología II para cursar y para rendir, regularidad con presentismo superior al 80%, examen final oral u escrito según decida el docente a cargo de la Unidad Hospitalaria. El programa fija además niveles de profundidad por destreza — nivel 1 se enseña teóricamente, nivel 5 el alumno lo realiza hasta adquirir la competencia — y coloca en nivel 4 la inmovilización con yeso, la colocación de ortesis, la curación y sutura de heridas simples y el lavado y vestido para quirófano. La ubicación en el Ciclo Clínico viene del plan Res. CS 2861/92, no del programa. El OCR devuelve el apellido del primer autor de la bibliografía como «Sliberman»: transposición de lectura sobre Silberman, con título, editorial, edición y año coincidentes. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las 21 unidades temáticas",
+      "note": "El punto c) del programa — unidades numeradas 1 a 21. Cada una pide concepto, clasificación, evaluación, diagnóstico y opciones terapéuticas.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "ORTOPEDIA Y TRAUMATOLOGÍA — el aparato locomotor\n│\n├─ BASES · generalidades · anatomía y radiología · semiología (1–3)\n│\n├─ TRAUMA\n│   ├─ Lesiones traumáticas · generalidades y complicaciones (4)\n│   ├─ Heridas graves y fracturas expuestas · politraumatizado (5)\n│   ├─ Raquis · shock medular · lesión medular (6)\n│   ├─ Miembro superior · clavícula a falanges (7)\n│   ├─ Pelvis y cadera (8)\n│   └─ Miembro inferior · fémur a metatarsianos (9)\n│\n├─ TUMORES · óseos benignos, malignos, pseudotumorales, partes blandas (10)\n│\n├─ ORTOPEDIA INFANTIL · congénitas · neuro-ortopedia · cadera · pie (11)\n│\n├─ ORTOPEDIA DEL ADULTO\n│   ├─ Columna · escoliosis, cifosis · lumbalgia y cervicalgia (12)\n│   ├─ Miembro superior · manguito, atrapamientos, Dupuytren (13)\n│   ├─ Cadera dolorosa · coxartrosis · femoroacetabular (14)\n│   ├─ Rodilla · gonartrosis · meniscos y ligamentos (15)\n│   └─ Pie · pie plano y cavo · hallux valgus · talalgias (16)\n│\n├─ HUESO ENFERMO · infecciones (17) · osteopatías médicas (18) · reumáticas (19)\n│\n└─ DESPUÉS · terapias regenerativas (20) · rehabilitación (21)",
+        "foot": "Unidades tomadas del punto c) «Contenidos por Unidades Temáticas». La única granularidad de tiempo es el régimen (3 semanas); el programa no trae cronograma fechado ni reparto de unidades por semana."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.generalidades",
+          "name": "Unidad 1 · Generalidades",
+          "role": "marco teórico · definiciones · conceptos básicos · glosario",
+          "tag": "bases",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.anatomia-y-radiologia",
+          "name": "Unidad 2 · Anatomía y Radiología Básica",
+          "role": "raquis cervical, torácico y lumbosacro · miembro inferior · miembro superior",
+          "tag": "bases",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.semiologia-basica",
+          "name": "Unidad 3 · Semiología Básica",
+          "role": "nomenclatura, ejes, planos, mediciones · movilidad activa y pasiva · goniometría",
+          "tag": "bases",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.lesiones-traumaticas-generalidades",
+          "name": "Unidad 4 · Lesiones Traumáticas. Generalidades",
+          "role": "contusión, esguince, luxación, fractura · epifisiólisis · síndrome compartimental · pseudoartrosis",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.heridas-graves-y-fracturas-expuestas",
+          "name": "Unidad 5 · Heridas Graves de los Miembros y Fracturas Expuestas",
+          "role": "recepción del politraumatizado · shock · antibioticoterapia · amputaciones · injertos y colgajos",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.trauma-raquis",
+          "name": "Unidad 6 · Lesiones Traumáticas del Raquis",
+          "role": "shock medular · lesión medular · fracturas y luxaciones cervicales y toracolumbares",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.trauma-miembro-superior",
+          "name": "Unidad 7 · Lesiones Traumáticas de Miembro Superior",
+          "role": "clavícula, húmero, olécranon · Monteggia y Galeazzi · carpo y mano · lesiones tendinosas",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.trauma-pelvis-y-cadera",
+          "name": "Unidad 8 · Lesiones Traumáticas de Pelvis y Cadera",
+          "role": "fracturas de pelvis y acetábulo · fractura de cadera · osteosíntesis · artroplastia",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.trauma-miembro-inferior",
+          "name": "Unidad 9 · Lesiones Traumáticas de Miembro Inferior",
+          "role": "fémur, rótula, platillo tibial, pilón y tobillo · astrágalo y calcáneo · Lisfranc",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.tumores",
+          "name": "Unidad 10 · Tumores Óseos y de Partes Blandas",
+          "role": "osteoma osteoide · tumor de células gigantes · osteosarcoma · Ewing · metástasis · pseudotumorales",
+          "tag": "tumores",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.ortopedia-infantil",
+          "name": "Unidad 11 · Ortopedia Infantil",
+          "role": "tallo verde y prono doloroso · malformaciones congénitas · neuro-ortopedia · luxación congénita de cadera · Perthes · pie bot",
+          "tag": "infantil",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.columna-y-sindromes-dolorosos",
+          "name": "Unidad 12 · Deformidades de columna y síndromes dolorosos cervicales y lumbares",
+          "role": "escoliosis · cifosis · espondilolistesis · patología discal y facetaria · estenosis de canal",
+          "tag": "columna",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.miembro-superior-afecciones",
+          "name": "Unidad 13 · Afecciones comunes del Miembro Superior",
+          "role": "hombro doloroso y manguito rotador · epicondilitis · De Quervain · Dupuytren · atrapamientos nerviosos",
+          "tag": "miembro superior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.cadera-dolorosa",
+          "name": "Unidad 14 · Cadera dolorosa del adulto",
+          "role": "coxartrosis · necrosis ósea aséptica · síndrome femoroacetabular",
+          "tag": "cadera",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.gonalgia-y-rodilla-del-deportista",
+          "name": "Unidad 15 · Gonalgia no traumática y Rodilla del deportista",
+          "role": "gonartrosis · lesiones meniscales, ligamentarias y osteocondrales · artroscopía · patología patelar",
+          "tag": "rodilla",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.afecciones-del-pie",
+          "name": "Unidad 16 · Afecciones comunes del pie",
+          "role": "pie plano y cavo · tendinitis del tibial posterior · hallux valgus · talalgias y metatarsalgias",
+          "tag": "pie",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.infecciones-osteoarticulares",
+          "name": "Unidad 17 · Infecciones Osteoarticulares",
+          "role": "artritis séptica · osteomielitis hematógena · TBC osteoarticular · infecciones protésicas",
+          "tag": "infecciones",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.osteopatias-medicas",
+          "name": "Unidad 18 · Osteopatías Médicas, Osteocondropatías Juveniles",
+          "role": "osteoporosis · osteomalacia · Paget · acondroplasia · osteogénesis imperfecta · osteopetrosis",
+          "tag": "osteopatías",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.enfermedades-reumaticas",
+          "name": "Unidad 19 · Enfermedades Reumáticas en Ortopedia",
+          "role": "artritis reumatoidea · mano, cadera y rodilla reumática · espondilitis anquilosante · psoriática · gota",
+          "tag": "reumáticas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.terapias-regenerativas",
+          "name": "Unidad 20 · Terapias Regenerativas en Ortopedia y Traumatología",
+          "role": "plasma rico en plaquetas · cultivo de líneas celulares · células madre",
+          "tag": "regenerativas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.rehabilitacion",
+          "name": "Unidad 21 · Rehabilitación en Ortopedia y Traumatología",
+          "role": "modalidades clásicas y nuevas · precauciones hospitalarias y domiciliarias · actividad física",
+          "tag": "rehabilitación",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que recomienda",
+      "note": "Punto g) «Bibliografía Recomendada» del programa. Tres títulos, dos de ellos argentinos y clásicos de la cátedra. Cada uno es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.silberman-varaona",
+          "name": "Silberman, Varaona — Ortopedia y Traumatología",
+          "role": "3ª ed. · Médica Panamericana, 2010",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.ramos-vertiz",
+          "name": "Ramos Vertiz — Compendio de Ortopedia y Traumatología",
+          "role": "2ª ed. · Atlante, 2003",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ortopedia-traumatologia.del-sel",
+          "name": "Del Sel, José Manuel — Ortopedia y Traumatología",
+          "role": "6ª ed. · López Libreros Editores, 1993",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa Analítico de Ortopedia y Traumatología (PDF escaneado, CUDAP EXP-UBA 0092610/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/32-Ortopedia%20y%20Traumatologia_0.pdf"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "address": "uba.med.medicina.psiquiatria",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso de 4 semanas · rotaciones mensuales de 20 jornadas de 4 hs · se dicta en distintos momentos del año según la programación de cada UDH, con cursos de verano",
+    "cargaHoraria": "96 hs (según el punto 6 del programa)",
+    "año": "se cursa en el 2º ó 3º año del Ciclo Clínico (inserción declarada por el propio programa)",
+    "correlativas": "tener aprobadas Medicina A y Patología II",
+    "catedra": "no consignada en el programa — el documento lo firma el Departamento de Psiquiatría y Salud Mental; la cursada se reparte entre las UDH",
+    "programa": "Programa de la asignatura Psiquiatría · Departamento de Psiquiatría y Salud Mental, Carrera de Medicina",
+    "evaluacion": "examen final oral con paciente, o con Historia Clínica, de acuerdo a cada UDH",
+    "integracion": "se integra verticalmente con Salud Mental y el Módulo de Psicosemiología (Medicina I) que la preceden, y con el Módulo de Salud Mental del IAR que la sucede",
+    "unidades": 20,
+    "bibliography": 10,
+    "contradicciones": "la carga horaria declarada (96 hs) no cierra con las 20 jornadas de 4 hs que describe la metodología (80 hs)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.psiquiatria",
+      "label": "Psiquiatría"
+    }
+  ],
+  "eyebrow": "Psiquiatría · programa (materia)",
+  "title": "El examen del estado mental, en manos del médico general.",
+  "lede": "Cuatro semanas del Ciclo Clínico, veinte jornadas de cuatro horas en el servicio, la guardia y la interconsulta. El programa no forma psiquiatras: forma al médico que detecta a tiempo. Veinte unidades que van del campo y su epidemiología a la entrevista, la ansiedad, el ánimo y el suicidio, la psicosis, las adicciones, la infancia, la vejez, la violencia, la terapéutica y la urgencia con sus leyes. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "4 semanas",
+      "small": "96 hs · 20 jornadas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "20",
+      "small": "unidades"
+    },
+    {
+      "k": "Referencias",
+      "v": "10",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 12 páginas con capa de texto, Departamento de Psiquiatría y Salud Mental). Los contenidos y las referencias salen del texto real del programa: veinte unidades numeradas en el punto 3, cursada de cuatro semanas en el 2º ó 3º año del Ciclo Clínico, correlativas Medicina A y Patología II, prácticas supervisadas en consultorios externos, sala de internación, hospital de día, guardia general, interconsulta y comunidades terapéuticas, y examen final oral con paciente o historia clínica según la UDH. El programa se contradice a sí mismo en la carga horaria: declara 96 hs pero describe 20 jornadas de 4 hs (80 hs), y. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las veinte unidades",
+      "note": "El punto 3 del programa, numerado unidad por unidad. Arranca por el campo y sus instrumentos, recorre los grandes cuadros, y cierra por la terapéutica y la urgencia con su marco legal.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "PSIQUIATRÍA — detectar, tratar, derivar\n│\n├─ El campo · historia, epidemiología, prevalencia (U1)\n├─ Instrumentos · entrevista y semiología (U2) · tests, imágenes, CIE-10 y DSM-5 (U3)\n│\n├─ Ansiedad · pánico, fobias, TOC (U4)\n├─ Ánimo · depresión, bipolaridad, conducta suicida (U5)\n├─ Estrés · reacciones adaptativas, TEPT (U6)\n├─ Cuerpo · psicofisiológicos y somatoformes (U7)\n├─ Psicosis · delirios, esquizofrenia, delirium (U8)\n├─ Sexualidad (U9) · Personalidad (U10)\n├─ Orgánico · epilepsia, tumores, demencias (U11)\n├─ Discapacidad intelectual (U12)\n├─ Adicciones (U13) · Conducta alimentaria (U14)\n│\n├─ Ciclo vital · infanto-juvenil (U15) · adultos mayores (U18)\n├─ Interfase · psiquiatría en la patología médica general (U16)\n├─ Vínculo · violencia doméstica, abuso, bullying (U17)\n│\n├─ Terapéutica general · psicofármacos, psicoterapias, instituciones (U19)\n└─ Urgencias · código rojo, ley 26657, psiquiatría forense (U20)",
+        "foot": "Unidades tomadas del punto 3 del programa. La granularidad de tiempo es solo el régimen (curso de 4 semanas, rotaciones mensuales de 20 jornadas de 4 hs); no hay cronograma fechado por unidad."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.psiquiatria.campo-y-epidemiologia",
+          "name": "El campo de la Psiquiatría. La Epidemiología en Psiquiatría",
+          "role": "de la era mágico-animista a Pinel y el psicoanálisis · trastornos más frecuentes en la Argentina",
+          "tag": "unidad 1",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.entrevista-y-semiologia",
+          "name": "La entrevista y la semiología psiquiátrica",
+          "role": "entrevista de admisión · examen de las facultades mentales · escalas internacionales",
+          "tag": "unidad 2",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.tecnicas-auxiliares",
+          "name": "Técnicas auxiliares del diagnóstico: laboratorios, imágenes y batería de tests",
+          "role": "TAC, RMN, SPECT, PET · EEG y polisomnografía · CIE-10 y DSM-5",
+          "tag": "unidad 3",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.ansiedad",
+          "name": "Trastornos por ansiedad — neurosis",
+          "role": "ataque de pánico · ansiedad generalizada · agorafobia · fobias · TOC",
+          "tag": "unidad 4",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.estado-de-animo",
+          "name": "Trastornos del estado de ánimo",
+          "role": "depresión mayor · manía · bipolares · distimia · evaluación del riesgo suicida",
+          "tag": "unidad 5",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.reacciones-al-estres",
+          "name": "Reacciones de adaptación normales y anormales a los acontecimientos estresantes",
+          "role": "respuesta adaptativa · trastorno por estrés agudo · TEPT",
+          "tag": "unidad 6",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.psicofisiologicos-somatoformes",
+          "name": "Trastornos psicofisiológicos / somatoformes",
+          "role": "hipocondría · conversión · somatización · disociativos · facticios",
+          "tag": "unidad 7",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.psicoticos",
+          "name": "Trastornos psicóticos",
+          "role": "delirantes agudos y crónicos · esquizofrenia · excitación psicomotriz · delirium",
+          "tag": "unidad 8",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.sexualidad",
+          "name": "Trastornos de la sexualidad",
+          "role": "disfunciones sexuales cuantitativas y cualitativas · parafilias",
+          "tag": "unidad 9",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.personalidad",
+          "name": "Trastornos de la personalidad",
+          "role": "paranoide, esquizoide, antisocial, límite, histriónico, narcisista · psicopatías",
+          "tag": "unidad 10",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.base-organica",
+          "name": "Trastornos mentales de base orgánica",
+          "role": "epilepsias, TEC, tumores, VIH, Parkinson · demencias vascular y Alzheimer",
+          "tag": "unidad 11",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.discapacidad-intelectual",
+          "name": "Discapacidad intelectual / Trastorno del desarrollo intelectual",
+          "role": "del retraso mental a la discapacidad intelectual · ley nacional · etiología y grados",
+          "tag": "unidad 12",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.adicciones",
+          "name": "Trastornos por adicciones",
+          "role": "uso, abuso y dependencia · drogas legales e ilícitas · rehabilitación y reinserción",
+          "tag": "unidad 13",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.conducta-alimentaria",
+          "name": "Trastornos de la conducta alimentaria",
+          "role": "bulimia · anorexia · patologías de alto riesgo · inclusión de la familia",
+          "tag": "unidad 14",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.infanto-juvenil",
+          "name": "Psiquiatría infanto juvenil",
+          "role": "psicosis infantiles · maltrato y abuso · autismo · ADHD · adolescencia y violencia",
+          "tag": "unidad 15",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.patologia-medica-general",
+          "name": "Trastornos psiquiátricos en la patología médica general",
+          "role": "pre y post operatorio · terapia intensiva · trastornos del sueño · interconsulta",
+          "tag": "unidad 16",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.violencia",
+          "name": "Problemas de relación y patologías del vínculo — violencia",
+          "role": "violencia urbana y doméstica · abuso y acoso · bullying · autoagresiones",
+          "tag": "unidad 17",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.adultos-mayores",
+          "name": "Trastornos en adultos mayores",
+          "role": "envejecimiento normal y patológico · deterioro cognitivo · MMSE y test del reloj",
+          "tag": "unidad 18",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.terapeutica-general",
+          "name": "Terapéutica general en psiquiatría",
+          "role": "red asistencial y prevención · psicofármacos · psicoterapias · hospital de día",
+          "tag": "unidad 19",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.urgencias",
+          "name": "Urgencias / emergencias psiquiátricas",
+          "role": "código rojo · riesgo suicida y peligrosidad · ley 26657 · psiquiatría forense",
+          "tag": "unidad 20",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "La bibliografía general del punto 7 del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. El programa cierra además con dos recursos web institucionales (Ministerio de Salud de la Nación y OMS), que no son libros y no se listan acá.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.psiquiatria.bursco",
+          "name": "Bursco, Luis Ignacio — Manual de Psiquiatría",
+          "role": "2018 · Editorial Akadia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.dsm-5",
+          "name": "DSM-5. Manual Diagnóstico y Estadístico de los Trastornos Mentales",
+          "role": "2013 · Asociación Americana de Psiquiatría",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.insua-musacchio",
+          "name": "Insúa, Musacchio de Zan — Psicología médica, Psicosemiología y Psicopatología",
+          "role": "2005 · Ed. Akadia, Buenos Aires",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.kaplan-sadock",
+          "name": "Kaplan, Sadock — Sinopsis de Psiquiatría",
+          "role": "2004 · Ed. Asindes, Barcelona",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.suarez-richards",
+          "name": "Suárez Richards (comp.) — Introducción a la Psiquiatría",
+          "role": "3ª ed. · 2006 · Ed. Polemos, Buenos Aires",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.dsm-iv-tr",
+          "name": "DSM-IV-TR. Manual Diagnóstico y Estadístico de los Trastornos Mentales",
+          "role": "2002 · Asociación Americana de Psiquiatría",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.vallejo-ruiloba",
+          "name": "Vallejo Ruiloba — Introducción a la psicopatología y psiquiatría",
+          "role": "2002 · Ed. Masson, Barcelona",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.gabbard",
+          "name": "Gabbard — Psiquiatría Psicodinámica en la práctica clínica",
+          "role": "2002 · Ed. Médica Panamericana, Buenos Aires",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.hales-yudofsky",
+          "name": "Hales, Yudofsky — Sinopsis de psiquiatría clínica",
+          "role": "2000 · Ed. Masson, Buenos Aires",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.psiquiatria.cie-10",
+          "name": "Clasificación Internacional de Enfermedades, Versión 10 (CIE-10)",
+          "role": "1992 · Organización Mundial de la Salud, Ginebra-Madrid",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de la asignatura Psiquiatría, Departamento de Psiquiatría y Salud Mental (PDF, 12 pp.)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-05/PROGRAMA%20PSIQUIATRIA.pdf"
+  }
+}

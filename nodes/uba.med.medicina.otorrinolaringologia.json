@@ -1,0 +1,270 @@
+{
+  "address": "uba.med.medicina.otorrinolaringologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cursada de dos (2) semanas · 10 días · presencial (seminarios, talleres, consultorio externo) combinada con actividad on-line",
+    "año": "ciclo clínico — «se cursa habitualmente en el quinto o sexto año de la carrera» (punto 6 del programa)",
+    "correlativas": "no consignadas en el programa — la ubicación en Cirugía del Ciclo Clínico y sus requisitos (Medicina A y Patología II) vienen del plan Res. CS 2861/92, no de este texto",
+    "catedra": "no consignada en el programa — el PDF sólo lleva las firmas administrativas de la Facultad (Secretaría General, Departamento de Protocolos y Registros)",
+    "programa": "Programa de la asignatura Otorrinolaringología · CUDAP EXP-UBA 0000815/2017",
+    "evaluacion": "dos instancias: evaluación de habilidades y destrezas, y evaluación de conocimiento por resolución de casos clínicos (múltiple choice de respuesta única, concordancia de script o entrevista oral estructurada) · 80% de asistencia en ambas instancias, presencial y on-line · nota de corte 4",
+    "modulos": 3,
+    "unidades": 23,
+    "bibliography": 3
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.otorrinolaringologia",
+      "label": "Otorrinolaringología"
+    }
+  ],
+  "eyebrow": "Otorrinolaringología · programa (materia)",
+  "title": "Nariz, garganta y oído: lo que llega primero al consultorio.",
+  "lede": "Dos semanas del ciclo quirúrgico armadas alrededor de una cifra: el 20% de las consultas al médico general son de vía aérea superior y el 50% de las consultas pediátricas son otorrinolaringológicas. El programa se organiza en tres módulos — oído, nariz y senos paranasales, boca y laringe — y en cada patología pide lo mismo: diagnosticar, tratar lo prevalente, reconocer la urgencia y derivar a tiempo al especialista. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 semanas",
+      "small": "10 días"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "23",
+      "small": "3 módulos"
+    },
+    {
+      "k": "Referencias",
+      "v": "3",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 19 páginas, escaneado y leído por OCR, CUDAP EXP-UBA 0000815/2017). Los contenidos y las referencias bibliográficas salen del texto real del programa. El programa es explícito sobre su método: las necesidades educativas se identificaron con encuestas Delphi a médicos de familia, clínicos y pediatras, una búsqueda bibliográfica de los problemas prevalentes y la consulta del programa previo de Otorrinolaringología UBA. Cada contenido trae competencia, resultados de aprendizaje y, en el punto 4, su modalidad (presencial u on-line), actividad y tiempo asignado. Variancia de fuente registrada: el punto 3 titula «Rinosinusopatía» (Alérgica/No Alérgica, Aguda) mientras el punto 4 y los resultados de aprendizaje dicen «Rinosinusitis» — se conserva la forma del punto 3 (contenidos). Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los temas",
+      "note": "El punto 3 del programa, dividido en tres módulos. Cada módulo abre con un bloque de destrezas y habilidades y con la anatomía y fisiología correspondiente (marcadas como «ya obtenidas en las materias Anatomía y Fisiología»), y sigue con las patologías, cada una con su competencia y sus resultados de aprendizaje.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "OTORRINOLARINGOLOGÍA — nariz, garganta y oído en atención primaria\n│\n├─ MÓDULO 1 · OÍDO\n│  ├─ Destrezas · otoscopía · Rinne y Weber · audiometría · Dix-Hallpike · Epley/Semont\n│  ├─ Anatomía y fisiología · tímpano · oído medio · CAE · cóclea · vía auditiva\n│  ├─ Oído externo · otitis externa · cerumen · otitis externa maligna · basocelular\n│  ├─ Otitis media aguda · mastoiditis\n│  ├─ Otitis media con efusión · hipertrofia adenoidea · apnea del sueño en niños\n│  ├─ Otitis media crónica · trompa de Eustaquio · colesteatoma · perforación\n│  ├─ Vértigo periférico · laberintitis · VPPB · neuronitis · Meniere\n│  ├─ Hipoacusias neurosensoriales · presbiacusia · ototoxicidad · neurinoma · acufeno\n│  └─ Otoesclerosis\n│\n├─ MÓDULO 2 · NARIZ Y SENOS PARANASALES\n│  ├─ Destrezas · rinoscopía anterior · endoscopio flexible · taponaje nasal\n│  ├─ Anatomía y fisiología de la nariz y los senos\n│  ├─ Epistaxis · anterior y posterior · en niños · fibroangioma juvenil\n│  ├─ Rinosinusopatía alérgica y no alérgica\n│  ├─ Rinosinusopatía aguda\n│  └─ Insuficiencia ventilatoria nasal · poliposis · desvío septal · tumores\n│\n└─ MÓDULO 3 · BOCA Y LARINGE\n   ├─ Destrezas · bajalengua · endoscopio rígido y flexible · palpación del cuello\n   ├─ Anatomía y fisiología de la boca y la laringe\n   ├─ Apnea del sueño en adultos\n   ├─ Tumores laríngeos · estenosis subglótica · obstrucción laríngea\n   ├─ Faringitis crónica · lesiones orofaríngeas\n   ├─ Faringitis · amigdalitis · absceso periamigdalino · mononucleosis\n   ├─ Disfonía · nódulos · pólipos · reflujo faringolaríngeo · parálisis cordal\n   └─ Consultorio externo de otorrinolaringología · 21 horas",
+        "foot": "Temas y módulos tomados del punto 3 del programa. Los tiempos por tema están en el punto 4 (Metodología): de 30 minutos a 1 hora y 30 por unidad, más 21 horas de consultorio externo, dentro de una cursada de dos semanas."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.destrezas-oido",
+          "name": "Destrezas y habilidades del módulo Oído",
+          "role": "otoscopía · pruebas de Rinne y Weber · audiometría, logoaudiometría y timpanograma · Dix-Hallpike · Epley y Semont",
+          "tag": "oído · destrezas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.anatomia-fisiologia-oido",
+          "name": "Anatomía y fisiología del oído",
+          "role": "membrana timpánica · oído medio y su mecanismo · conducto auditivo externo · cóclea · vía auditiva",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.oido-externo",
+          "name": "Patología del oído externo",
+          "role": "otitis externa · cerumen · otitis externa maligna · carcinoma basocelular · cuerpo extraño en el CAE",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.otitis-media-aguda",
+          "name": "Otitis media aguda y su complicación (mastoiditis)",
+          "role": "clínica en lactante eutrófico y distrófico, niños y adultos · diferenciales · tratamiento",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.otitis-media-con-efusion",
+          "name": "Otitis media con efusión. Hipertrofia adenoidea. Apnea del sueño en niños",
+          "role": "motivos de consulta · estudios complementarios · tratamiento adecuado",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.otitis-media-cronica",
+          "name": "Otitis media crónica",
+          "role": "disfunción de la trompa de Eustaquio · colesteatoma · perforación timpánica · timpanoesclerosis",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.vertigo-periferico",
+          "name": "Vértigo periférico",
+          "role": "laberintitis · vértigo paroxístico posicional benigno · neuronitis vestibular · enfermedad de Meniere · diferencial con el vértigo central",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.hipoacusias-neurosensoriales",
+          "name": "Hipoacusias neurosensoriales",
+          "role": "presbiacusia · ototoxicidad · hipoacusia inducida por ruido · rápidamente progresiva · neurinoma del acústico · acufeno · detección temprana en niños · dispositivos implantables",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.otoesclerosis",
+          "name": "Otoesclerosis",
+          "role": "signos y síntomas · estudios complementarios · tratamiento · derivación oportuna",
+          "tag": "oído",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.destrezas-nariz",
+          "name": "Destrezas y habilidades del módulo Nariz y senos paranasales",
+          "role": "rinoscopía anterior con espéculo · endoscopio flexible para nariz y rinofaringe · taponaje nasal anterior",
+          "tag": "nariz · destrezas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.anatomia-fisiologia-nariz",
+          "name": "Anatomía y fisiología de la nariz y los senos paranasales",
+          "role": "anatomía y fisiología nasosinusal",
+          "tag": "nariz",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.epistaxis",
+          "name": "Epistaxis",
+          "role": "epistaxis anterior y posterior en adultos · epistaxis en niños · fibroangioma nasal juvenil · taponaje anterior y posterior",
+          "tag": "nariz",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.rinosinusopatia-alergica-y-no-alergica",
+          "name": "Rinosinusopatía alérgica y no alérgica",
+          "role": "diferenciales · estudios complementarios · tratamiento de ambas formas",
+          "tag": "nariz",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.rinosinusopatia-aguda",
+          "name": "Rinosinusopatía aguda",
+          "role": "signos y síntomas · diferenciales · complicaciones · tratamiento",
+          "tag": "nariz",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.insuficiencia-ventilatoria-nasal",
+          "name": "Insuficiencia ventilatoria nasal",
+          "role": "poliposis nasal · desvío septal · tumores · cuerpo extraño nasal · tumores de cavum",
+          "tag": "nariz",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.destrezas-boca-laringe",
+          "name": "Destrezas y habilidades del módulo Boca y laringe",
+          "role": "examen de orofaringe con bajalengua · endoscopio rígido y flexible para orofaringe y laringe · palpación del cuello",
+          "tag": "laringe · destrezas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.anatomia-fisiologia-boca-laringe",
+          "name": "Anatomía y fisiología de la boca y la laringe",
+          "role": "estructuras del cuello · cavidad oral · anatomía y fisiología laríngea",
+          "tag": "laringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.apnea-del-sueno-adultos",
+          "name": "Apnea del sueño en adultos",
+          "role": "causas · estudios complementarios · tratamiento · derivación oportuna",
+          "tag": "laringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.tumores-laringeos",
+          "name": "Tumores laríngeos. Estenosis subglótica. Obstrucción laríngea",
+          "role": "lesiones y tumores laríngeos · complicaciones · manejo de la obstrucción laríngea aguda",
+          "tag": "laringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.faringitis-cronica",
+          "name": "Faringitis crónica. Lesiones orofaríngeas",
+          "role": "lesiones crónicas faríngeas y orofaríngeas · diferenciales con tumores malignos de orofaringe",
+          "tag": "faringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.faringoamigdalitis",
+          "name": "Faringitis. Amigdalitis. Absceso periamigdalino. Mononucleosis",
+          "role": "clínica y diferenciales de la amigdalitis · complicaciones · tratamiento del absceso periamigdalino",
+          "tag": "faringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.disfonia",
+          "name": "Disfonía",
+          "role": "laringitis · nódulos y pólipos de cuerda vocal · reflujo faringolaríngeo · parálisis de cuerda vocal",
+          "tag": "laringe",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.consultorio-externo",
+          "name": "Actividad en consultorio externo de Otorrinolaringología",
+          "role": "observación en la atención de pacientes y discusión de los casos con el médico tratante · 21 horas",
+          "tag": "práctica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Las tres referencias del punto 7 del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.diamante",
+          "name": "Diamante, Vicente — Otorrinolaringología y afecciones conexas",
+          "role": "Editorial El Ateneo, Buenos Aires 2004",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.boccio-busto",
+          "name": "Boccio, Carlos; Busto, Eduardo — Guía actualizada para estudiantes de medicina",
+          "role": "Editorial Parada Obiol Artes Gráficas SRL, Buenos Aires 2003",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.otorrinolaringologia.kukso",
+          "name": "Kukso, Carlos — Mentor en Otorrinolaringología",
+          "role": "Editorial Corpus Libros Médicos y Científicos, Buenos Aires 2008",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Otorrinolaringología (PDF escaneado, 19 pp., CUDAP EXP-UBA 0000815/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/33-Otorrinolaringologia_0.pdf"
+  }
+}

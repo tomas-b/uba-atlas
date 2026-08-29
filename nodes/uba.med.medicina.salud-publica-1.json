@@ -1,0 +1,249 @@
+{
+  "address": "uba.med.medicina.salud-publica-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "año": "Ciclo Clínico (el programa lo atribuye al plan CS 7591/09; el nodo carrera y el nodo carrera usa el plan Res. CS 2861/92 (otros programas de la serie también citan el 7591/09) — contradicción registrada, no resuelta)",
+    "cargaHoraria": "96 horas",
+    "catedra": "no se nombra una cátedra en el programa · se cursa exclusivamente en el Departamento de Salud Pública o en Hospitales Asociados que hayan solicitado y aprobado la apertura; los docentes son profesores o auxiliares por concurso, honorarios, o propuestos por la UDH y designados por el Departamento. El CODEP arbitra los criterios de evaluación",
+    "programa": "Programa de Salud Pública I · publicado por la Facultad de Medicina UBA (PDF, 7 páginas escaneadas)",
+    "correlatividades": "para cursar: Farmacología I y Patología I aprobadas, y haber cursado el 1er cuatrimestre de Microbiología, Parasitología e Inmunología · para rendir: Farmacología I y Patología I aprobadas",
+    "unidades": 5,
+    "bibliography": 18,
+    "evaluacion": "promoción con 3 trabajos prácticos y un examen integrador (7 o más en 2 de los 3 TP, 4 o más en el restante, 7 o más en el integrador) · regularidad con promedio entre 4 y 6 y examen final (múltiple opción, escrito u oral, 60% correcto) · asistencia del 80%"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.salud-publica-1",
+      "label": "Salud Pública I"
+    }
+  ],
+  "eyebrow": "Salud Pública I · programa (materia)",
+  "title": "El paciente es una población: leer la salud de un territorio con los datos que existen.",
+  "lede": "Materia cuatrimestral del Ciclo Clínico, 96 horas. El eje de toda la cursada es un solo trabajo: construir el Análisis de Situación de Salud de un problema real de un área o región, armando el diagnóstico socio-sanitario con las fuentes de datos disponibles. Las cinco unidades van dando las herramientas en orden — concepto e indicadores, determinantes y transición demoepidemiológica, método epidemiológico, morbimortalidad argentina por etapas de la vida, y el ASIS completo. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "96 horas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "contenidos"
+    },
+    {
+      "k": "Referencias",
+      "v": "18",
+      "small": "bibliografía"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 7 páginas, escaneado sin capa de texto, reconstruido por OCR spa+eng). Los contenidos y las referencias salen del texto real del programa: cinco unidades, cursada cuatrimestral de 96 horas en el Departamento de Salud Pública o en Hospitales Asociados habilitados, correlativas Farmacología I y Patología I, asistencia del 80%, y un régimen de promoción por tres trabajos prácticos más un examen integrador. La metodología declarada es la resolución progresiva de un Análisis de Situación de Salud por grupos, con clases invertidas (Flipped Classroom) sobre videos grabados por docentes. Una advertencia de procedencia: el programa dice pertenecer al plan CS 7591/09, mientras que el nodo de la carrera y la serie numerada de programas se apoyan en el plan Res. CS 2861/92; la contradicción queda anotada, no zanjada. Las referencias (qué se lee) viven acá; el contenido de cada una es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las cinco unidades",
+      "title": "Del concepto de salud pública al diagnóstico de un territorio",
+      "note": "Las unidades tal como las numera y titula el programa. El orden no es temático sino instrumental: cada unidad habilita un ítem del Análisis de Situación de Salud que los estudiantes construyen a lo largo del cuatrimestre.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "SALUD PÚBLICA I — el ASIS como eje\n│\n├─ I · Introducción\n│   ├─ proceso salud-enfermedad-atención · paradigmas e historia\n│   ├─ niveles de prevención · medicina preventiva · promoción\n│   ├─ campos de acción de la salud pública\n│   ├─ fuentes de información e indicadores de salud\n│   ├─ variables · tipos y escalas de medición\n│   └─ medidas de resumen · frecuencia, asociación, tendencia, dispersión\n│\n├─ II · Determinantes\n│   ├─ campo de salud · condiciones de vida · pobreza, indigencia, NBI\n│   ├─ equidad en salud como meta\n│   ├─ transición demográfica y epidemiológica · mundo, América Latina, Argentina\n│   ├─ demografía estática y dinámica · escenarios futuros\n│   ├─ ambiente · cambio climático · contaminación · desarrollo sustentable\n│   └─ interculturalidad y salud · saberes, prácticas, autocuidado\n│\n├─ III · Epidemiología\n│   ├─ conceptos, evolución histórica y enfoques\n│   ├─ causalidad · riesgo · factor de riesgo · susceptibilidad y vulnerabilidad\n│   ├─ estudio de brote · tipos de epidemia · estrategias de reducción\n│   ├─ sistemas de información y vigilancia epidemiológica\n│   └─ diseños de estudio epidemiológicos\n│\n├─ IV · La Argentina en cifras\n│   ├─ morbilidad transmisible y no transmisible por edades\n│   ├─ mortalidad por ciclos de vida · certificado de defunción\n│   ├─ carga de enfermedad · impacto social, sanitario y económico\n│   ├─ salud materno infantil\n│   ├─ salud del adolescente\n│   └─ salud del adulto y adulto mayor\n│\n└─ V · Análisis de Situación de Salud\n    ├─ concepto y pasos de la planificación del ASIS\n    ├─ fuentes de información · variables e indicadores\n    └─ generación de hipótesis explicativas",
+        "foot": "Unidades tomadas del apartado «Contenidos» del programa. La única granularidad temporal declarada es el régimen cuatrimestral de 96 horas; no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-publica-1.unidad-1",
+          "name": "I. Introducción al estudio de la salud pública",
+          "role": "proceso salud-enfermedad-atención · niveles de prevención · indicadores, variables y medidas de resumen",
+          "tag": "unidad I",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.unidad-2",
+          "name": "II. Principales determinantes del proceso salud-enfermedad-atención",
+          "role": "condiciones de vida · equidad · transición demoepidemiológica · ambiente e interculturalidad",
+          "tag": "unidad II",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.unidad-3",
+          "name": "III. La epidemiología como herramienta de la salud pública",
+          "role": "causalidad y riesgo · estudio de brote · vigilancia y sistemas de información · diseños de estudio",
+          "tag": "unidad III",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.unidad-4",
+          "name": "IV. Análisis de información en salud de la República Argentina. La morbimortalidad y la discapacidad en las diferentes etapas de la vida",
+          "role": "morbilidad y mortalidad por ciclos de vida · carga de enfermedad · salud materno infantil, adolescente y del adulto mayor",
+          "tag": "unidad IV",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.unidad-5",
+          "name": "V. Análisis de situación de salud",
+          "role": "pasos de la planificación del ASIS · fuentes, variables e indicadores · hipótesis explicativas",
+          "tag": "unidad V",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Lo que manda a leer",
+      "note": "Referencias reales del programa, bajo el título «Bibliografía de Salud Pública 1»: dos libros generales y luego un bloque por unidad, en su mayoría informes de organismos (OPS, OMS, MSAL) y artículos. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. Ortiz y cols. figura dos veces en el programa (unidades 1 y 3); acá aparece una sola vez.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.salud-publica-1.lemus",
+          "name": "Lemus, Jorge D. — Salud Pública, Sistemas y Servicios de Salud",
+          "role": "libro general de la materia · CIDES, Ed. Kohan, 2011",
+          "tag": "general",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.mazzafero",
+          "name": "Mazzáfero, Vicente E. — Medicina en Salud Pública",
+          "role": "libro general de la materia · El Ateneo, Buenos Aires 1987",
+          "tag": "general",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.ops-indicadores-de-salud",
+          "name": "OPS — Indicadores de Salud: Elementos Básicos para el Análisis de la Situación de Salud",
+          "role": "unidad 1 · Boletín epidemiológico de la OPS, diciembre de 2001",
+          "tag": "unidad I",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.ortiz-epidemiologia-basica",
+          "name": "Ortiz y cols. — Epidemiología básica y vigilancia de la salud",
+          "role": "unidades 1 y 3 · módulos 1 a 6",
+          "tag": "unidades I y III",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.menendez",
+          "name": "Menéndez, E. — Salud pública: sector estatal, ciencia aplicada o ideología de lo posible",
+          "role": "unidad 1 · en OPS, «La crisis de la salud pública: reflexiones para el debate», Washington D.C. 1992 (Publicación Científica 540), pp. 103-122",
+          "tag": "unidad I",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.laurell",
+          "name": "Laurell, Asa Cristina — Revista Latinoamericana de Salud, 1981, 2(1): 7-25",
+          "role": "unidad 1 · el programa cita autora, revista, año y páginas, sin título del artículo",
+          "tag": "unidad I",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.msal-indicadores-basicos",
+          "name": "MSAL — Indicadores básicos de la República Argentina",
+          "role": "unidad 1 · serie estadística del Ministerio de Salud de la Nación",
+          "tag": "unidad I",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.feres-mancero",
+          "name": "Feres, Juan Carlos; Mancero, Xavier — Enfoques para la medición de la pobreza. Breve revisión de la literatura",
+          "role": "unidad 2 · medición de pobreza, indigencia y NBI",
+          "tag": "unidad II",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.torrado",
+          "name": "Torrado — Argentina: Escenarios demográficos hacia 2025",
+          "role": "unidad 2 · 2004",
+          "tag": "unidad II",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.de-titto",
+          "name": "De Titto, Ernesto — ¿De qué hablamos cuando hablamos de salud ambiental?",
+          "role": "unidad 2 · ambiente e impacto en la salud",
+          "tag": "unidad II",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.curto-verhasselt-boffi",
+          "name": "Curto, Verhasselt, Boffi — La transición epidemiológica en la Argentina",
+          "role": "unidad 2 · transición demoepidemiológica argentina",
+          "tag": "unidad II",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.oms-equidad",
+          "name": "OMS — Equidad y determinantes sociales de la salud: conceptos básicos, mecanismos de producción y alternativas para la acción",
+          "role": "unidad 2 · determinantes sociales",
+          "tag": "unidad II",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.lazovski",
+          "name": "Lazovski, Jaime — Indicadores de impacto o carga de enfermedad",
+          "role": "unidad 3 · medición de la carga de enfermedad",
+          "tag": "unidad III",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.gomez-dantes",
+          "name": "Gómez Dantés y cols. — La carga de la enfermedad en países de América Latina",
+          "role": "unidad 3 · comparación regional",
+          "tag": "unidad III",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.msal-vigilancia-nivel-local",
+          "name": "MSAL — Guía para el fortalecimiento de la Vigilancia de la Salud en el nivel local",
+          "role": "unidad 3 · Ministerio de Salud de la Nación, 2013",
+          "tag": "unidad III",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.msal-causa-de-muerte",
+          "name": "MSAL — Informe estadístico de causa de muerte",
+          "role": "unidad 4 · mortalidad por causas",
+          "tag": "unidad IV",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.msal-mortalidad-materno-infantil",
+          "name": "MSAL — Análisis de la Mortalidad Materno Infantil República Argentina, 2003-2012",
+          "role": "unidad 4 · salud materno infantil",
+          "tag": "unidad IV",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.salud-publica-1.pria-barrios",
+          "name": "Pría Barrios y cols. — Guía para la elaboración del análisis de la situación de salud en la atención primaria",
+          "role": "unidad 5 · el manual del ASIS, que es el trabajo eje de la cursada",
+          "tag": "unidad V",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Salud Pública I (PDF escaneado, 7 páginas, OCR spa+eng)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-08/Salud%20P%C3%BAblica%20I.pdf"
+  }
+}

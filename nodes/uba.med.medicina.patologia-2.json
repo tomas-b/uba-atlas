@@ -1,0 +1,211 @@
+{
+  "address": "uba.med.medicina.patologia-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "semestral · se dicta 2 veces en el año (más cursada intensiva de verano)",
+    "año": "3º año · Ciclo Biomédico (según el programa analítico; el plan de estudios la ubica como transversal del Ciclo Clínico)",
+    "cargaHoraria": "96 horas teórico-prácticas · 75% de las actividades obligatorias son prácticas",
+    "catedra": "Departamento de Patología",
+    "programa": "Planificación de la asignatura Patología II · Programa analítico (Anexo CUDAP EXP-UBA 0068560/2014)",
+    "codigo": "028",
+    "correlativas": "para cursar: Patología I aprobada, Fisiología aprobada y Bioquímica regular (programa analítico) · la ficha de contenidos mínimos de la facultad pide en cambio Patología I y Farmacología I aprobadas",
+    "unidades": 12,
+    "bibliography": 4,
+    "evaluacion": "2 pruebas parciales + examen final, escritas por elección múltiple (con recuperatorio) · quienes sacan tres puntos rinden oral sobre un caso problema con macro y microscopía · 80% de asistencia y trabajos prácticos aprobados"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.patologia-2",
+      "label": "Patología II"
+    }
+  ],
+  "eyebrow": "Patología II · programa (materia)",
+  "title": "La misma enfermedad, ahora órgano por órgano.",
+  "lede": "Patología especial: toma los mecanismos generales aprendidos en Patología I y los aplica sistema por sistema —corazón y vasos, pulmón, tubo digestivo e hígado, riñón, aparatos genitales, mama, endocrino, piel, hueso y músculo, sistema nervioso, sangre y ganglios. De cada enfermedad se piden los mismos ocho ítems: epidemiología, etiología, fisiopatología, presentación clínica, morfología macro y microscópica, clasificaciones, métodos diagnósticos y biología molecular, evolución y pronóstico. Se cursa resolviendo casos problema con la pieza macroscópica y su preparado histológico en la mano. Extraída del programa analítico real aprobado por Resolución.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "semestral",
+      "small": "96 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "12",
+      "small": "por sistema"
+    },
+    {
+      "k": "Referencias",
+      "v": "4",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa analítico oficial de Patología II en PDF (escaneo del Anexo CUDAP EXP-UBA 0068560/2014, leído por OCR spa+eng, 15 páginas). Las unidades, los contenidos y las referencias bibliográficas salen del texto real del programa. Dos contradicciones quedan registradas y no resueltas: (a) la ficha de contenidos mínimos de la facultad afirma que el programa oficial consta de trece unidades temáticas, mientras que el programa analítico enumera doce (I a XII); (b) esa misma ficha pide como correlativas Patología I y Farmacología I, mientras que el programa analítico pide Patología I aprobada, Fisiología aprobada y Bioquímica regular. El programa se declara materia del ciclo biomédico de 3er año; el plan de estudios de la carrera la ubica como transversal del ciclo clínico. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las doce unidades",
+      "note": "El eje de la materia — cada unidad, un aparato o sistema. Van en orden corrido, del corazón a la sangre. El programa no las agrupa en secciones.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "PATOLOGÍA II — patología especial: la enfermedad agrupada por órganos y sistemas\n│\n├─ I. Aparato cardiovascular · insuficiencia · isquemia · valvulopatías · vasos\n├─ II. Aparato respiratorio y mediastino · neumonías · EPOC · tumores · pleura\n├─ III. Digestivo, hígado, vías biliares y páncreas · úlcera · colitis · cirrosis\n├─ IV. Riñón, vías urinarias y retroperitoneo · glomerulopatías · uropatía · vejiga\n├─ V. Aparato genital masculino · testículo · próstata · pene\n├─ VI. Aparato genital femenino · cuello uterino · endometrio · ovario\n├─ VII. Placenta, gestación y glándula mamaria · trofoblasto · carcinoma de mama\n├─ VIII. Sistema endocrino · hipófisis · tiroides · suprarrenal · NEM\n├─ IX. Piel y anexos · dermatitis · carcinomas · melanoma\n├─ X. Muscular, partes blandas y osteoarticular · distrofias · tumores óseos · artritis\n├─ XI. Sistema nervioso central, periférico y órganos de los sentidos\n└─ XII. Patología hemolinfoide · anemias · leucemias · linfomas · bazo",
+        "foot": "Unidades y contenidos tomados verbatim del programa analítico. Cada unidad se desarrolla en ciclos de dos semanas; no hay cronograma fechado en el programa, solo el régimen (semestral, 96 hs, dictada 2 veces al año)."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.patologia-2.aparato-cardiovascular",
+          "name": "I. Patología del aparato cardiovascular",
+          "role": "unidad I",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.aparato-respiratorio-y-mediastino",
+          "name": "II. Patología del aparato respiratorio y mediastino",
+          "role": "unidad II",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.aparato-digestivo-higado-vias-biliares-y-pancreas",
+          "name": "III. Patología del aparato digestivo, hígado, vías biliares y páncreas",
+          "role": "unidad III",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.rinon-vias-urinarias-y-retroperitoneo",
+          "name": "IV. Patología del riñón, vías urinarias y retroperitoneo",
+          "role": "unidad IV",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.aparato-genital-masculino",
+          "name": "V. Patología del aparato genital masculino",
+          "role": "unidad V",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.aparato-genital-femenino",
+          "name": "VI. Patología del aparato genital femenino",
+          "role": "unidad VI",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.placenta-gestacion-y-glandula-mamaria",
+          "name": "VII. Patología de la placenta, gestación y glándula mamaria",
+          "role": "unidad VII",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.sistema-endocrino",
+          "name": "VIII. Patología del sistema endocrino",
+          "role": "unidad VIII",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.piel-y-anexos",
+          "name": "IX. Patología de la piel y anexos",
+          "role": "unidad IX",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.muscular-partes-blandas-y-osteoarticular",
+          "name": "X. Patología muscular, partes blandas y osteoarticular",
+          "role": "unidad X",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.sistema-nervioso-central-periferico-y-organos-de-los-sentidos",
+          "name": "XI. Patología del sistema nervioso central, periférico y órganos de los sentidos",
+          "role": "unidad XI",
+          "tag": "patología especial",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.hemolinfoide",
+          "name": "XII. Patología hemolinfoide",
+          "role": "unidad XII",
+          "tag": "patología especial",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, separadas por la cátedra en sugerida y complementaria. Tres de ellas son las mismas que asigna Patología I. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.patologia-2.robbins",
+          "name": "Cotran, Kumar, Collins — Robbins. Patología estructural y funcional",
+          "role": "8ª ed. · McGraw Hill-Interamericana, Madrid",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.stevens-lowe",
+          "name": "Stevens, Lowe — Anatomía Patológica",
+          "role": "2ª ed. · Harcourt, Madrid 2001 · 652 páginas",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.rubin-farber",
+          "name": "Rubin, Farber — Pathology",
+          "role": "3ª ed. · Lippincott-Raven, Philadelphia 1999 · 1664 páginas",
+          "tag": "sugerida",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.patologia-2.viotti-vigliano",
+          "name": "Viotti, Vigliano — Enfermedad de Chagas. Un enfoque práctico basado en la investigación médica",
+          "role": "1ª ed. · Panamericana 2015 · 340 páginas",
+          "tag": "complementaria",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Departamento de Patología — Programa oficial / programa analítico de Patología II (PDF escaneado, OCR)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2019-08/programa%20oficial%20pato2_0.pdf"
+  },
+  "sources": [
+    {
+      "label": "fmed.uba.ar · programa oficial Patología II (Anexo EXP-UBA 0068560/2014, 15 pp)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2019-08/programa%20oficial%20pato2_0.pdf"
+    },
+    {
+      "label": "fmed.uba.ar · contenidos mínimos Patología II (hoja oficial; código 028, recuperatorio, ciclos de dos semanas)",
+      "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/Patologia%20II.pdf"
+    }
+  ]
+}

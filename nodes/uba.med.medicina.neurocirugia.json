@@ -1,0 +1,210 @@
+{
+  "address": "uba.med.medicina.neurocirugia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso teórico-práctico de dos (2) semanas · la asignatura se cursa una (1) vez por mes entre marzo y noviembre",
+    "año": "el programa consigna «se cursa en el último año de la carrera»; el plan (Res. CS 2861/92) la ubica en el Ciclo Clínico, entre las materias de cirugía",
+    "correlativas": "Neurología · el plan Res. CS 2861/92 exige además Medicina A y Patología II (cursar y rendir)",
+    "catedra": "no consignada como cátedra en el programa; el texto lo firma el Encargado de Enseñanza de la UDH Clínicas, Jefe de la División Neurocirugía",
+    "programa": "Programa de la Asignatura Neurocirugía · CUDAP EXP-UBA 0082709/2016",
+    "metodologia": "clases teóricas, demostraciones didácticas y casos problema",
+    "evaluacion": "examen escrito tipo respuestas múltiples al final del curso",
+    "competencias": "3 · conocer la patología más prevalente · determinar el estudio diagnóstico más adecuado para cada patología · asignar el tratamiento más efectivo a la patología en estudio",
+    "unidades": 14,
+    "bibliography": 1
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.neurocirugia",
+      "label": "Neurocirugía"
+    }
+  ],
+  "eyebrow": "Neurocirugía · programa (materia)",
+  "title": "El sistema nervioso cuando la respuesta es el quirófano.",
+  "lede": "Dos semanas, después de Neurología, sobre el final de la carrera. La finalidad declarada es el diagnóstico y tratamiento de la patología quirúrgica del sistema nervioso central y periférico, su irrigación y sus cubiertas membranosas y óseas. Los contenidos se ordenan en tres territorios — cráneo, columna y nervio periférico — y en cada uno se piden las enfermedades más prevalentes, su patogénesis, la prevención y el tratamiento inicial. Curso teórico-práctico con clases, demostraciones didácticas y casos problema. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 semanas",
+      "small": "1 curso por mes, marzo–noviembre"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "14",
+      "small": "temas en 3 bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "1",
+      "small": "libro"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura: un PDF de 3 páginas escaneado, sin capa de texto, leído por OCR (spa+eng), CUDAP EXP-UBA 0082709/2016. Los contenidos y la referencia bibliográfica salen del texto real del programa: dos semanas de cursada, correlativa Neurología, oferta mensual entre marzo y noviembre, evaluación por examen escrito de respuestas múltiples al final del curso. El programa enumera los temas bajo «Contenidos básicos» sin desarrollarlos: cada tema aparece como un título, y así se registra acá — sin agregarle detalle clínico que el documento no dice. La referencia (qué libro) vive acá; el contenido del libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos básicos · 1",
+      "title": "Patología craneana",
+      "note": "Primer bloque de los «Contenidos básicos» del programa. Los temas figuran como títulos, sin desarrollo ni carga horaria asignada.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "NEUROCIRUGÍA — la patología quirúrgica del sistema nervioso\n│\n├─ 1 · PATOLOGÍA CRANEANA\n│   ├─ Hipertensión intracraneana\n│   ├─ Hidrocefalia del niño y del adulto\n│   ├─ Malformaciones congénitas craneanas\n│   ├─ Traumatismos encefalocraneanos\n│   ├─ Infecciones intracraneanas\n│   ├─ Hemorragia intracraneana espontánea\n│   └─ Tumores intracraneanos\n│\n├─ 2 · PATOLOGÍA ESPINAL\n│   ├─ Compresión radicular y medular\n│   ├─ Malformaciones congénitas espinales\n│   ├─ Traumatismos raquimedulares\n│   ├─ Discopatía y canal estrecho espinal\n│   └─ Tumores espinales\n│\n└─ 3 · PATOLOGÍA NERVIOSA PERIFÉRICA\n    ├─ Traumatismos nerviosos periféricos\n    └─ Síndromes neurocompresivos",
+        "foot": "Los tres bloques y sus catorce temas son los del punto «Contenidos básicos». La única granularidad de tiempo del programa es el régimen: curso de 2 semanas, ofrecido una vez por mes entre marzo y noviembre. No hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurocirugia.hipertension-intracraneana",
+          "name": "Síndrome de hipertensión intracraneana",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.hidrocefalia",
+          "name": "Hidrocefalia del niño y del adulto",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.malformaciones-congenitas-craneanas",
+          "name": "Malformaciones congénitas craneanas",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.traumatismos-encefalocraneanos",
+          "name": "Traumatismos encefalocraneanos",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.infecciones-intracraneanas",
+          "name": "Infecciones intracraneanas",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.hemorragia-intracraneana-espontanea",
+          "name": "Hemorragia intracraneana espontánea",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.tumores-intracraneanos",
+          "name": "Tumores intracraneanos",
+          "role": "contenidos básicos · 1. Patología craneana",
+          "tag": "craneana",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos básicos · 2",
+      "title": "Patología espinal",
+      "note": "Segundo bloque de los «Contenidos básicos». Columna y médula: compresión, malformación, trauma, disco y tumor.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurocirugia.compresion-radicular-y-medular",
+          "name": "Síndrome de compresión radicular y medular",
+          "role": "contenidos básicos · 2. Patología espinal",
+          "tag": "espinal",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.malformaciones-congenitas-espinales",
+          "name": "Malformaciones congénitas espinales",
+          "role": "contenidos básicos · 2. Patología espinal",
+          "tag": "espinal",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.traumatismos-raquimedulares",
+          "name": "Traumatismos raquimedulares",
+          "role": "contenidos básicos · 2. Patología espinal",
+          "tag": "espinal",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.discopatia-y-canal-estrecho",
+          "name": "Discopatía y canal estrecho espinal",
+          "role": "contenidos básicos · 2. Patología espinal",
+          "tag": "espinal",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.tumores-espinales",
+          "name": "Tumores espinales",
+          "role": "contenidos básicos · 2. Patología espinal",
+          "tag": "espinal",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos básicos · 3",
+      "title": "Patología nerviosa periférica",
+      "note": "Tercer y último bloque de los «Contenidos básicos». El más corto del programa: dos temas.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurocirugia.traumatismos-nerviosos-perifericos",
+          "name": "Traumatismos nerviosos periféricos",
+          "role": "contenidos básicos · 3. Patología nerviosa periférica",
+          "tag": "periférica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.neurocirugia.sindromes-neurocompresivos",
+          "name": "Síndromes neurocompresivos",
+          "role": "contenidos básicos · 3. Patología nerviosa periférica",
+          "tag": "periférica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "El libro que asigna",
+      "note": "El programa cita una sola referencia. Es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.neurocirugia.mezzadri",
+          "name": "Mezzadri, Goland, Socolovsky — Introducción a la Neurocirugía",
+          "role": "Editorial Journal, Buenos Aires 2011",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Neurocirugía (PDF escaneado, 3 pp., OCR · CUDAP EXP-UBA 0082709/2016)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/29-Neurocirugia_0.pdf"
+  }
+}

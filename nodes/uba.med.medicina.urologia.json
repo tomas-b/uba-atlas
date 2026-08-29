@@ -1,0 +1,221 @@
+{
+  "address": "uba.med.medicina.urologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "curso de dos (2) semanas consecutivas, de lunes a viernes, en banda matutina o vespertina · varias cursadas anuales en las distintas Unidades Docentes Hospitalarias",
+    "cargaHoraria": "40 horas",
+    "año": "Ciclo Clínico · Departamento de Cirugía (ubicación según el plan Res. CS 2861/92)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir el examen",
+    "catedra": "no consignada en el programa — figura el Departamento de Cirugía, Orientación Urología; la coordinación de la asignatura tiene sede en el Hospital de Clínicas José de San Martín, cuarto piso, Sector Docente Urología",
+    "programa": "Actualización del programa de la asignatura Urología, 2015 · CUDAP EXP-UBA 0082389/2017",
+    "evaluacion": "un examen final oral o escrito · la regularidad requiere el 80% de las asistencias",
+    "unidades": 13,
+    "bibliography": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.urologia",
+      "label": "Urología"
+    }
+  ],
+  "eyebrow": "Urología · programa (materia)",
+  "title": "El árbol urinario leído por sus grandes síndromes.",
+  "lede": "Especialidad médico-quirúrgica del ciclo clínico: dos semanas, cuarenta horas, dentro del Departamento de Cirugía. El eje no es la lista de enfermedades sino el síndrome que las agrupa — hematuria, dolor, infección, pérdida de orina, masa renal, disfunción miccional, tumoración escrotal — y desde ahí baja al desarrollo temático. Suma próstata, trauma urogenital, función sexual e infertilidad masculina, y la urología de la infancia. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2 semanas",
+      "small": "40 horas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Contenidos",
+      "v": "13",
+      "small": "temas"
+    },
+    {
+      "k": "Referencias",
+      "v": "6",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 4 páginas, CUDAP EXP-UBA 0082389/2017, carátula «Actualización del programa de la asignatura Urología 2015»). La capa de texto del PDF viene recortada en el margen derecho, así que los contenidos se recuperaron por OCR a 300 dpi de las cuatro páginas. Del texto real salen el régimen (dos semanas de lunes a viernes, matutina o vespertina, 40 horas), las correlativas (Medicina A y Patología II), la evaluación (final oral o escrito, 80% de asistencia), la metodología (clases teóricas, mostraciones con maquetas de exploración urogenital e instrumental de endoscopía, trabajos prácticos en consultorios externos y salas, y la plataforma de la Facultad de Medicina Virtual) y la bibliografía. La ubicación en el Ciclo Clínico viene del plan de la carrera, no del programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Los temas",
+      "note": "El punto «Contenidos» del programa: seis entradas numeradas, la segunda de las cuales — «Los grandes síndromes urológicos» — se abre en ocho síndromes de la a) a la h). Cada tema está escrito en dos capas: «Generalidades» y «Desarrollo temático». Acá se listan los trece temas hoja; el encabezado agrupador se ve en el árbol.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "UROLOGÍA — el síndrome antes que la enfermedad\n│\n├─ 1. Introducción · el árbol urinario, el urotelio, la micción normal\n│\n├─ 2. LOS GRANDES SÍNDROMES UROLÓGICOS\n│   ├─ a) Hematuria → cáncer urogenital\n│   ├─ b) Dolor no infeccioso → litiasis renal, ureteral, vesical\n│   ├─ c) Infección urinaria → pielonefritis · cistitis · uretritis · TBC\n│   ├─ d) Dolor genital → escroto agudo · urgencias penianas\n│   ├─ e) Pérdida de orina → incontinencia femenina · fístulas\n│   ├─ f) Masa ocupante renal → quistes · carcinoma renal\n│   ├─ g) Disfunción miccional → retención · vejiga hiperactiva · anuria\n│   └─ h) Tumoración escrotal → hidrocele · varicocele · tumor de testículo\n│\n├─ 3. Próstata · prostatitis · hiperplasia benigna · cáncer\n├─ 4. Trauma del árbol urinario · renal, vesical, uretral\n├─ 5. Disfunción sexual e infertilidad masculina\n└─ 6. Urología de la infancia · reflujo · válvulas · criptorquidia · TDS",
+        "foot": "Temas tomados del punto «Contenidos» del programa. La granularidad de tiempo es solo el régimen (curso de 2 semanas, de lunes a viernes, repetido varias veces al año en distintas UDH); el cronograma fechado se publica aparte («ver cronograma de cursadas»)."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.urologia.introduccion",
+          "name": "Introducción a la Urología",
+          "role": "formación y estructura del árbol urinario · urotelio y músculo liso · micción normal",
+          "tag": "introducción",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.hematuria",
+          "name": "Hematuria",
+          "role": "micro y macroscópica · inicial, terminal, total · cáncer urogenital como causa",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.dolor-no-infeccioso",
+          "name": "Síndrome doloroso no infeccioso del sistema urinario",
+          "role": "cólico renoureteral · enfermedad litiásica renal, ureteral y vesical",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.infecciones-urinarias",
+          "name": "Infecciones de las vías urinarias",
+          "role": "pielonefritis · cistitis · uretritis · tuberculosis urogenital · fístulas",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.dolor-genital",
+          "name": "Síndrome doloroso genital",
+          "role": "escroto agudo · torsión del cordón · priapismo · fimosis · cáncer de pene",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.perdida-de-orina",
+          "name": "Pérdida de orina",
+          "role": "tipos de incontinencia · enuresis · incontinencia femenina · fístulas urogenitales",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.masa-ocupante-renal",
+          "name": "Masa ocupante renal (clínica e incidental)",
+          "role": "quistes y poliquistosis · uronefrosis · carcinoma renal del adulto",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.disfuncion-miccional",
+          "name": "Disfunción miccional",
+          "role": "llenado y vaciado vesical · retención urinaria · vejiga hiperactiva · anuria",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.tumoracion-escrotal",
+          "name": "Tumoración escrotal",
+          "role": "semiología escrotal y transiluminación · hidrocele · varicocele · tumores de testículo",
+          "tag": "gran síndrome",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.prostata",
+          "name": "Patología de la Próstata",
+          "role": "prostatitis · hiperplasia prostática benigna · cáncer de próstata",
+          "tag": "próstata",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.trauma-urogenital",
+          "name": "Trauma del árbol urinario",
+          "role": "traumatismo renal e iatrogenias · trauma vesical intra y extraperitoneal · uretra",
+          "tag": "trauma",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.disfuncion-sexual-e-infertilidad",
+          "name": "Disfunción sexual e infertilidad masculina",
+          "role": "fisiología de erección y eyaculación · semen normal · disfunción eréctil",
+          "tag": "función sexual",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.urologia.urologia-infantil",
+          "name": "Afecciones urológicas frecuentes en la Infancia",
+          "role": "reflujo vesicoureteral · válvulas uretrales · criptorquidia · hipospadias · TDS",
+          "tag": "infancia",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa. Las cinco primeras salen de la lista numerada «Bibliografía recomendada»; Campbell aparece únicamente en la columna BIBLIOGRAFÍA de la tabla de actividades de la última página, sin autor ni edición consignados — el programa se contradice consigo mismo. El programa también lista dos veces un libro llamado «Urología en esquemas» de El Ateneo con autorías distintas (Sáenz–Rey Valzacchi–Mazza y Guzmán); se dejan ambos tal como figuran. Cada referencia es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.urologia.smith-tanagho",
+          "name": "Smith, Tanagho — Urología General",
+          "role": "18ª ed. · McGraw-Hill",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.urologia.saenz-esquemas",
+          "name": "Sáenz, Rey Valzacchi, Mazza — Urología en esquemas",
+          "role": "2ª ed. · El Ateneo",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.urologia.romano-bechara",
+          "name": "Romano, Bechara — Guía Pedagógica de Urología",
+          "role": "editorial y edición no consignadas en el programa",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.urologia.herenu",
+          "name": "Hereñú — Urología",
+          "role": "El Ateneo · edición no consignada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.urologia.guzman",
+          "name": "Guzmán, Juan Manuel — Urología en Esquemas",
+          "role": "El Ateneo · edición no consignada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.urologia.campbell",
+          "name": "Campbell — Urología",
+          "role": "citada solo en la tabla de actividades, fuera de la lista numerada · sin autor completo ni edición",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Urología (PDF, CUDAP EXP-UBA 0082389/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/34-Urologia_0.pdf"
+  }
+}

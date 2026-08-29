@@ -1,0 +1,193 @@
+{
+  "address": "uba.med.medicina.bioetica-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral",
+    "año": "Ciclo Clínico · transversal (ubicación según el plan Res. CS 2861/92); el programa declara «Inserción: Ciclo biomédico y clínico»",
+    "cargaHoraria": "32 horas (el programa declara 32 hs; su metodología describe diez encuentros de 3 horas)",
+    "correlatividades": "Bioética I",
+    "catedra": "Unidad Académica de Bioética (según la página que publica el programa; el PDF no nombra cátedra)",
+    "programa": "Programa Bioética II (publicado por la Unidad Académica de Bioética)",
+    "unidades": 9,
+    "bibliography": 6,
+    "evaluacion": "cuestionario semiestructurado · 60% de respuestas correctas · 80% de presentes · dos fechas de recuperatorio"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.bioetica-2",
+      "label": "Bioética II"
+    }
+  ],
+  "eyebrow": "Bioética II · programa (materia)",
+  "title": "Del comienzo de la vida al comité.",
+  "lede": "Continuación clínica de Bioética I, con Bioética I como correlativa. Donde la primera arma el aparato — principios, reglas, teorías —, esta lo aplica a los lugares donde la medicina decide: el comienzo de la vida, la genética, el diagnóstico y el tratamiento, la cirugía y los trasplantes, la sexualidad, el final de la vida, la investigación en seres humanos. Cierra donde esas decisiones se deliberan de a varios: los comités de bioética. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrimestral",
+      "small": "32 hs"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "9",
+      "small": "sin secciones"
+    },
+    {
+      "k": "Referencias",
+      "v": "6",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el PDF del programa oficial publicado por la Unidad Académica de Bioética de la Facultad de Medicina (el mismo que la facultad ofrece descargar para rendir en mesa general). Las nueve unidades, los aspectos administrativos — un cuatrimestre, correlativa Bioética I, 32 horas — y las seis referencias bibliográficas salen del texto real del programa, que las lista de corrido, sin secciones. Contradicciones del propio documento, registradas sin corregir: declara 32 horas de carga horaria pero describe diez encuentros de tres horas; declara «Inserción: Ciclo biomédico y clínico» mientras el plan la ubica como transversal del Ciclo Clínico; y cita al mismo autor como «Lolas Stepke F» y «Lolas Stephe F» en dos entradas. La cátedra no figura en el PDF: se atribuye a la página que lo publica. Existe además una copia certificada del mismo programa en el expediente EXP-UBA 0019648/2018, con idénticas nueve unidades y seis referencias. Vigencia: la Res. CD 241/2024 aprobó un programa unificado de Bioética (48 hs) que sucede a este; el presente sigue publicado para mesa general del plan 2009. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las nueve unidades",
+      "title": "Los lugares donde la medicina decide",
+      "note": "El programa numera nueve unidades corridas, sin agruparlas en secciones. El orden es el del texto.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "BIOÉTICA II — bioética clínica, caso por caso\n│\n├─ 1. Introducción a la bioética clínica · integración con Bioética I\n│\n├─ 2. Comienzo de la vida · anticoncepción · fecundación asistida · aborto\n├─ 3. Genética · información genética · genoma · Código Civil y Comercial\n├─ 4. Genética y clínica · diagnóstico · placebos · rechazo de tratamiento\n├─ 5. Cirugía y trasplantes · donantes · Ley de Trasplantes · muerte cerebral\n├─ 6. Ética de la sexualidad · sexo y género · HIV-sida · confidencialidad\n├─ 7. Final de la vida · eutanasia · cuidados paliativos · morir con dignidad\n├─ 8. Investigación en seres humanos · Nuremberg · Helsinki · CIOMS · ANMAT\n│\n└─ 9. Los Comités de Bioética · conformación · funciones · legislación",
+        "foot": "Temas tomados verbatim del programa. La granularidad de tiempo es solo el régimen (un cuatrimestre, diez encuentros); no hay cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.bioetica-2.introduccion-a-la-bioetica-clinica",
+          "name": "1. Introducción a la bioética clínica",
+          "role": "unidad 1",
+          "tag": "integración",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.comienzo-de-la-vida",
+          "name": "2. Problemas bioéticos vinculados con el comienzo de la vida",
+          "role": "unidad 2",
+          "tag": "inicio de la vida",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.genetica",
+          "name": "3. Problemas bioéticos vinculados con la genética",
+          "role": "unidad 3",
+          "tag": "genética",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.genetica-y-clinica",
+          "name": "4. Problemas genéticos vinculados con la clínica",
+          "role": "unidad 4",
+          "tag": "clínica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.cirugia-y-trasplantes",
+          "name": "5. Problemas bioéticos vinculados con la cirugía · trasplantes",
+          "role": "unidad 5",
+          "tag": "cirugía",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.etica-de-la-sexualidad",
+          "name": "6. Ética de la sexualidad",
+          "role": "unidad 6",
+          "tag": "sexualidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.final-de-la-vida",
+          "name": "7. Problemas bioéticos vinculados con el final de la vida",
+          "role": "unidad 7",
+          "tag": "final de la vida",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.investigacion-en-seres-humanos",
+          "name": "8. Problemas bioéticos vinculados con la investigación en seres humanos",
+          "role": "unidad 8",
+          "tag": "investigación",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.comites-de-bioetica",
+          "name": "9. Los Comités de Bioética",
+          "role": "unidad 9",
+          "tag": "comités",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del programa, en su orden y con su ortografía. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.bioetica-2.gracia-bioetica-clinica",
+          "name": "Gracia, D. — Bioética clínica",
+          "role": "Ed. El Buho, Bogotá 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.lolas-bioetica-y-antropologia-medica",
+          "name": "Lolas Stepke, F. — Bioética y antropología médica",
+          "role": "Mediterráneo, Santiago de Chile 2000",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.gracia-etica-de-los-confines-de-la-vida",
+          "name": "Gracia, D. — Ética de los confines de la vida",
+          "role": "Ed. del Búho, Bogotá 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.lolas-escritos-sobre-vejez",
+          "name": "Lolas Stephe, F. — Escritos sobre vejez, envejecimiento y muerte",
+          "role": "Universidad Arturo Prat, Iquique 2002",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.brusco-temporalidad",
+          "name": "Brusco, L. I. — Conciencia intersubjetiva del tiempo y la cuestión de la Temporalidad",
+          "role": "Buenos Aires 2016",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.bioetica-2.pergola-tratado",
+          "name": "Pergola, F. — Tratado de Bioética para alumnos de Facultad de Medicina, Universidad de Buenos Aires",
+          "role": "EUDEBA 2016",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa Bioética II, Unidad Académica de Bioética (PDF)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2020-03/PROGRAMA%20BIO%C3%89TICA%20II.pdf"
+  }
+}

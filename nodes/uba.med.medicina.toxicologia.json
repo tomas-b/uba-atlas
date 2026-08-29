@@ -1,0 +1,318 @@
+{
+  "address": "uba.med.medicina.toxicologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · carga horaria total 76 horas · clases teórico-prácticas presenciales y virtuales, ateneos y resolución de casos",
+    "año": "puede cursarse a partir de 3er año y hasta el final de la carrera (inserción declarada en el propio programa) · el plan Res. CS 2861/92 la lista como materia transversal del Ciclo Clínico",
+    "correlativas": "Medicina A y Patología II, aprobadas",
+    "catedra": "no consignada explícitamente en el programa; la bibliografía remite a los consensos publicados por la 1ra Cátedra de Toxicología (URL citada en el punto 5 de la bibliografía)",
+    "programa": "Programa de Grado de Toxicología · COPDI-2022-05410618-UBA-SAA#FMED (11 páginas)",
+    "evaluacion": "regularidad con asistencia no inferior al 80% · exámenes parciales y un examen integrador · concepto del docente a cargo · examen final oral o escrito",
+    "unidades": 26,
+    "bibliography": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.toxicologia",
+      "label": "Toxicología"
+    }
+  ],
+  "eyebrow": "Toxicología · programa (materia)",
+  "title": "La dosis hace al daño: el cuerpo leído por lo que entró en él.",
+  "lede": "Materia cuatrimestral de 76 horas, cursable desde tercer año hasta el final de la carrera. Estudia los efectos nocivos de los agentes químicos y físicos sobre los sistemas biológicos y la magnitud del daño en función de la exposición. Veintiséis unidades que van de la toxicocinética y los toxidromes al lavado gástrico, el carbón activado y los antídotos, y después recorren agente por agente: alcoholes, hidrocarburos, cáusticos, productos de limpieza, gases, plaguicidas, medicamentos, psicofármacos, sustancias psicoactivas, alimentos, metales, veneno de arañas y ofidios, plantas, y termina en la notificación obligatoria y en las emergencias químicas masivas. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "Cuatrimestral",
+      "small": "76 horas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "26",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "7",
+      "small": "bibliografía"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el Programa de Grado de Toxicología publicado en el índice oficial de programas de la Facultad (PDF de 11 páginas con capa de texto, COPDI-2022-05410618-UBA-SAA#FMED). Las unidades y las referencias salen del texto real del programa: cuatrimestral, 76 horas, correlativas Medicina A y Patología II aprobadas, regularidad con 80% de asistencia, parciales más un examen integrador y final oral o escrito. El programa declara su propia inserción — desde 3er año hasta el final de la carrera —; la ubicación como transversal del Ciclo Clínico proviene del plan Res. CS 2861/92, no de este PDF. El programa no nombra cátedra: solo remite a los consensos de la 1ra Cátedra de Toxicología en una de sus referencias. Las referencias (qué se lee) viven acá; el contenido de cada una es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Unidades temáticas · lo que enseña",
+      "title": "Las 26 unidades",
+      "note": "La sección UNIDADES TEMÁTICAS del programa, numerada 1 a 26. Las cuatro primeras arman el método general — historia, toxicocinética, diagnóstico, tratamiento —; las veintidós restantes lo aplican agente por agente. Cada unidad pide fuentes, vías de ingreso, mecanismo de acción, cuadro clínico, diagnóstico diferencial, estudios complementarios, tratamiento y prevención.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "TOXICOLOGÍA — el daño en función de la exposición\n│\n├─ MÉTODO (1–4)\n│  ├─ Introducción · historia · ramas · concepto de tóxico\n│  ├─ Generalidades · toxicocinética y toxicodinamia · dosis-respuesta · DL50\n│  ├─ Diagnóstico · interrogatorio dirigido · toxidromes · complementarios\n│  └─ Manejo · descontaminación · carbón activado · hemodiálisis · antídotos\n│\n├─ QUÍMICOS DE USO Y AMBIENTE (5–11, 20, 24)\n│  ├─ Alcoholes · etanol, metanol, glicoles · acidosis con anión gap\n│  ├─ Hidrocarburos · alifáticos, aromáticos, halogenados\n│  ├─ Cáusticos · ácidos y álcalis · endoscopía en la urgencia\n│  ├─ Uso doméstico · lavandina, pilas, cosméticos, pegamentos\n│  ├─ Gases · CO, cianuros, irritantes · metahemoglobinemia · cámara hiperbárica\n│  ├─ Plaguicidas I y II · organofosforados · rodenticidas · paraquat · glifosato\n│  ├─ Laboral · CMP e IBE · EPP · neumoconiosis\n│  └─ Ecotoxicología · bioacumulación · sitios contaminados\n│\n├─ FÁRMACOS Y SUSTANCIAS (12–16)\n│  ├─ Medicamentos I · hierro, cardiológicos, AINEs, paracetamol\n│  ├─ Medicamentos II · psicofármacos · neuroléptico maligno · serotoninérgico\n│  └─ Psicoactivas I–III · adicción · estimulantes y alucinógenos · opioides · etilismo crónico\n│\n├─ ORIGEN BIOLÓGICO Y ALIMENTARIO (17, 21, 22)\n│  ├─ Alimentarias · toxinas bacterianas, hongos, algas, peces\n│  ├─ Toxinología animal · arañas, escorpiones, ofidios · antivenenos\n│  └─ Toxinología vegetal · medicación folklórica · ornamentales · alucinógenas\n│\n├─ METALES (18–19)\n│  └─ Plomo y mercurio · arsénico y HACRE · talio, cromo, cadmio\n│\n└─ POBLACIONES Y SISTEMA (23, 25, 26)\n   ├─ Reproductiva · teratogénesis · disruptores · salud ambiental infantil\n   ├─ Notificación · marco legal · ANMAT, INAL, SENASA · ETA\n   └─ Emergencias masivas · accidentes químicos · armas · radiaciones",
+        "foot": "Agrupación por afinidad para leer el mapa; la numeración 1–26 es la del programa. La granularidad de tiempo es solo el régimen (cuatrimestral, 76 horas); el programa no trae cronograma fechado."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.toxicologia.introduccion",
+          "name": "Unidad 1 · Introducción",
+          "role": "historia del pensamiento toxicológico · áreas y ramas · concepto de tóxico · centros de información",
+          "tag": "método",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.generalidades",
+          "name": "Unidad 2 · Generalidades",
+          "role": "toxicocinética y toxicodinamia · dosis-efecto y dosis-respuesta · DL50 · períodos de latencia",
+          "tag": "método",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.diagnostico",
+          "name": "Unidad 3 · Diagnóstico de las intoxicaciones",
+          "role": "etiología y multicausalidad · interrogatorio dirigido · toxidromes · exámenes complementarios",
+          "tag": "método",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.manejo-del-paciente-intoxicado",
+          "name": "Unidad 4 · Evaluación y manejo del paciente intoxicado",
+          "role": "descontaminación · carbón activado · hemodiálisis y hemoperfusión · antídotos · botiquín toxicológico",
+          "tag": "método",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.alcoholes",
+          "name": "Unidad 5 · Intoxicación aguda por alcoholes",
+          "role": "etanol, metanol, glicoles e isopropanol · acidosis metabólica con anión gap aumentado",
+          "tag": "químicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.hidrocarburos",
+          "name": "Unidad 6 · Intoxicaciones por hidrocarburos",
+          "role": "alifáticos, alicíclicos y aromáticos · halogenados · benceno, tolueno, xileno · anilinas",
+          "tag": "químicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.causticos",
+          "name": "Unidad 7 · Intoxicaciones por cáusticos",
+          "role": "ácidos y álcalis · criterios para endoscopía en la urgencia · secuelas",
+          "tag": "químicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.uso-domestico",
+          "name": "Unidad 8 · Intoxicaciones por productos de uso doméstico",
+          "role": "lavandina, amoníaco, detergentes · ácido bórico, yodo, naftalina · pilas · cosméticos y pegamentos",
+          "tag": "químicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.gases",
+          "name": "Unidad 9 · Intoxicación por gases. Hipoxias de origen tóxico",
+          "role": "asfixiantes simples y químicos · monóxido de carbono, cianuros · metahemoglobinemia · cámara hiperbárica",
+          "tag": "químicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.plaguicidas-1",
+          "name": "Unidad 10 · Intoxicaciones por plaguicidas — 1ª parte",
+          "role": "insecticidas · organofosforados y carbamatos · organoclorados · piretrinas y piretroides",
+          "tag": "plaguicidas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.plaguicidas-2",
+          "name": "Unidad 11 · Intoxicaciones por plaguicidas — 2ª parte",
+          "role": "rodenticidas · herbicidas: paraquat, 2,4D, glifosato · fumigantes · fungicidas · repelentes",
+          "tag": "plaguicidas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.medicamentos-1",
+          "name": "Unidad 12 · Intoxicaciones medicamentosas — 1ª parte",
+          "role": "sales de hierro, insulina, antihistamínicos · medicación cardiológica y digitálicos · AINEs, salicilatos, paracetamol",
+          "tag": "fármacos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.medicamentos-2",
+          "name": "Unidad 13 · Intoxicaciones medicamentosas — 2ª parte",
+          "role": "psicofármacos · neurolépticos, litio, antidepresivos, anticonvulsivantes, benzodiacepinas · síndromes neuroléptico maligno y serotoninérgico",
+          "tag": "fármacos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.psicoactivas-1",
+          "name": "Unidad 14 · Intoxicaciones por sustancias psicoactivas — 1ª parte",
+          "role": "uso, abuso, dependencia y tolerancia · neurobiología de las adicciones · reducción de daños · embarazo y lactancia",
+          "tag": "psicoactivas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.psicoactivas-2",
+          "name": "Unidad 15 · Intoxicaciones por sustancias psicoactivas — 2ª parte",
+          "role": "estimulantes y alucinógenos · cocaína, anfetaminas · drogas de diseño · marihuana, LSD, hongos y plantas · tabaquismo",
+          "tag": "psicoactivas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.psicoactivas-3",
+          "name": "Unidad 16 · Intoxicaciones por sustancias psicoactivas — 3ª parte",
+          "role": "depresores · opioides y sobredosis · dependencia de ansiolíticos · etilismo crónico, Wernicke-Korsakoff, delirium tremens",
+          "tag": "psicoactivas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.alimentarias",
+          "name": "Unidad 17 · Intoxicaciones alimentarias",
+          "role": "aditivos y contaminantes · toxinas bacterianas y botulismo · hongos, vegetales, algas y peces · notificación obligatoria",
+          "tag": "biológicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.metales-1",
+          "name": "Unidad 18 · Intoxicaciones por metales y metaloides — 1ª parte",
+          "role": "plomo y mercurio · cuadro agudo y manifestaciones crónicas · acrodinia · prevención en el hogar",
+          "tag": "metales",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.metales-2",
+          "name": "Unidad 19 · Intoxicaciones por metales y metaloides — 2ª parte",
+          "role": "arsénico, HACRE y fluorosis · talio, manganeso, cromo, cadmio, cobalto",
+          "tag": "metales",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.laboral",
+          "name": "Unidad 20 · Toxicología laboral",
+          "role": "concentraciones máximas permisibles e indicadores biológicos de exposición · EPP · neumoconiosis",
+          "tag": "laboral",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.toxinologia-animal",
+          "name": "Unidad 21 · Cuadros tóxicos por agentes vivos — 1ª parte. Toxinología animal",
+          "role": "picaduras de insectos · arácnidos: Loxosceles, Latrodectus, Phoneutria · ofidios: Bothrops, Crotalus, Micrurus · antivenenos",
+          "tag": "biológicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.toxinologia-vegetal",
+          "name": "Unidad 22 · Cuadros tóxicos por agentes vivos — 2ª parte. Toxinología vegetal",
+          "role": "medicación folklórica y aceites esenciales · ornamentales y de jardín · medicinales · alucinógenas · fitoterapia",
+          "tag": "biológicos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.reproductiva-y-ambiental-infantil",
+          "name": "Unidad 23 · Toxicología reproductiva. Carcinogénesis. Salud ambiental infantil",
+          "role": "ventanas de vulnerabilidad · pasaje transplacentario y leche materna · teratogénesis y mutagenicidad · disruptores hormonales",
+          "tag": "poblaciones",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.ecotoxicologia",
+          "name": "Unidad 24 · Ecotoxicología y toxicología ambiental",
+          "role": "persistencia ambiental · bioacumulación y biomagnificación · evaluación de riesgo · sitios contaminados · estándares de calidad",
+          "tag": "ambiente",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.notificacion",
+          "name": "Unidad 25 · Notificación de las intoxicaciones",
+          "role": "marco legal y denuncia obligatoria · ANMAT, INAL, SENASA, epidemiología · enfermedad de transmisión alimentaria",
+          "tag": "sistema",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.emergencias-masivas",
+          "name": "Unidad 26 · Emergencias toxicológicas masivas",
+          "role": "accidentes químicos · armas de destrucción masiva químicas y biológicas · radiaciones ionizantes y no ionizantes",
+          "tag": "sistema",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía recomendada · las referencias (L2)",
+      "title": "Lo que asigna para leer",
+      "note": "Las siete entradas de la sección \"Bibliografía recomendada\" del programa, tal como están listadas. Un tratado de la especialidad y seis fuentes normativas y de consenso — guías del Ministerio de Salud, de la Superintendencia de Riesgos del Trabajo, del Centro Nacional de Intoxicaciones y de la propia cátedra. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.toxicologia.damin-toxicologia-clinica",
+          "name": "Damin, García, González Negri — Toxicología Clínica. Fundamentos para la prevención, diagnóstico y tratamiento de las intoxicaciones",
+          "role": "Ed. Panamericana, 2022 · el tratado de referencia de la materia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.prevencion-y-control",
+          "name": "Ministerio de Salud — Prevención y control de las intoxicaciones",
+          "role": "recurso oficial en línea (argentina.gob.ar/salud/ambiental/intoxicaciones)",
+          "tag": "guía oficial",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.albiano-toxicologia-laboral",
+          "name": "Albiano, Villaamil Lepori — Toxicología Laboral. Criterios para el monitoreo de la salud de los trabajadores expuestos a sustancias químicas peligrosas",
+          "role": "Superintendencia de Riesgos del Trabajo, 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.guia-antidotos-posadas",
+          "name": "Diaz, Greco — Guía de Antídotos y Tratamiento en Intoxicaciones 2021",
+          "role": "Centro Nacional de Intoxicaciones, Hospital Nacional Prof. Alejandro Posadas",
+          "tag": "guía oficial",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.consensos-universitarios",
+          "name": "Consensos Universitarios sobre Prevención, Diagnóstico, Tratamiento y Vigilancia Epidemiológica de las Intoxicaciones",
+          "role": "equipo de trabajo para la actualización · 1ra Cátedra de Toxicología, fmed.uba.ar",
+          "tag": "consenso",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.guias-srt",
+          "name": "Guías Técnicas de Actuación y Diagnóstico de la Superintendencia de Riesgos del Trabajo",
+          "role": "publicaciones de prevención de la SRT (argentina.gob.ar/srt)",
+          "tag": "guía oficial",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.toxicologia.guia-tabaco",
+          "name": "Práctica Clínica Nacional de Tratamiento de la Adicción al Tabaco",
+          "role": "guía nacional 2021 (uata.org.ar)",
+          "tag": "guía oficial",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa de Grado de Toxicología (PDF, COPDI-2022-05410618-UBA-SAA#FMED)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2022-10/Toxicolog%C3%ADa.pdf"
+  }
+}

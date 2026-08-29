@@ -1,0 +1,180 @@
+{
+  "address": "uba.med.medicina.obstetricia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "el programa se desarrolla durante el transcurso de 5 semanas",
+    "cargaHoraria": "distribución sugerida: 50% teórica (clases teóricas, seminarios) · 25% actividad práctica clínica (consultorios externos, salas de internación, Quirófano Central, simuladores humanos) · 25% grupos de discusión, ateneos de servicio y situaciones problemáticas",
+    "año": "Ciclo Clínico · Especialidades Básicas, área Tocoginecología (ubicación según el plan Res. CS 2861/92)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir (dato del plan Res. CS 2861/92; el programa de la asignatura no consigna correlatividades)",
+    "catedra": "no consignada en el programa — el texto sólo menciona \"el personal docente de la Cátedra\", sin nombrarla",
+    "programa": "Programa de Obstetricia · CUDAP EXP-UBA 0078567/2017",
+    "evaluacion": "asistencia obligatoria al 80% de las actividades teóricas y prácticas · evaluaciones parciales con mínimo de 4 puntos · concepto de alumno · evaluación final sobre los objetivos cognoscitivos del programa",
+    "practica": "mínimo de 4 guardias en el Centro Obstétrico · consultorios externos rotativos · salas de internación de Ginecología y Obstetricia · Quirófano Central · muñecos simuladores",
+    "unidades": 8,
+    "bibliography": 5
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.obstetricia",
+      "label": "Obstetricia"
+    }
+  ],
+  "eyebrow": "Obstetricia · programa (materia)",
+  "title": "Dos pacientes en un cuerpo: el embarazo leído como binomio.",
+  "lede": "Cinco semanas del ciclo clínico sobre la atención de la mujer durante el embarazo, el parto y el puerperio, y la vigilancia de la salud fetal y neonatal en esos periodos. El eje declarado es el enfoque perinatal del binomio madre-hijo y el enfoque de riesgo: un gradiente de cuidados según el riesgo identificado en las primeras consultas. Ocho unidades temáticas recorren el embarazo en orden cronológico —diagnóstico y primera consulta, controles y patología de cada mitad, crecimiento y bienestar fetal, obstetricia quirúrgica, complicaciones del parto y puerperio, enfermedades coexistentes—, cada una con su lista de habilidades y competencias. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "5 semanas",
+      "small": "ciclo clínico"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "5",
+      "small": "libros"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 8 páginas, CUDAP EXP-UBA 0078567/2017), con lectura cruzada de la capa de texto del PDF para resolver el recorte de margen en la unidad 8. Los contenidos y las referencias bibliográficas salen del texto real del programa: ocho unidades temáticas numeradas, cada una con sus \"habilidades y competencias\", cinco semanas de cursada, 80% de asistencia obligatoria, un mínimo de cuatro guardias en el Centro Obstétrico y práctica con simuladores. Es la materia Obstetricia de la carrera de Medicina —no la Licenciatura en Obstetricia, que es otra carrera de la misma facultad. Las correlatividades (Medicina A, Patología II) no están en el programa: vienen del plan Res. CS 2861/92. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · lo que enseña",
+      "title": "Las ocho unidades temáticas",
+      "note": "El punto 3 del programa — ocho unidades numeradas y tituladas, ordenadas por el tiempo del embarazo. Cada una cierra con su bloque de habilidades y competencias.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "OBSTETRICIA — el embarazo en orden cronológico\n│\n├─ 1 · Diagnóstico de embarazo y primera consulta\n│     anatomía y fisiología genital · pelvis como canal de parto\n│     modificaciones gravídicas · semiología · control prenatal\n├─ 2 · Controles de la 1ra mitad\n│     tamizaje del primer trimestre · aneuploidías · preeclampsia/RCIU\n│     morfología feto-placentaria · procedimientos invasivos\n├─ 3 · Patología obstétrica de la 1ra mitad\n│     aborto · ectópico · enfermedad trofoblástica · hiperemesis\n├─ 4 · Crecimiento y bienestar fetal (2da mitad)\n│     screening 20-24 semanas · biometría · Doppler · cardiotocografía\n├─ 5 · Patología obstétrica de la 2da mitad\n│     parto pretérmino · hipertensivos · hemorragias · diabetes · RCIU\n├─ 6 · Obstetricia quirúrgica\n│     trabajo de parto · distocias · parto instrumental · cesárea\n├─ 7 · Complicaciones del parto, alumbramiento y puerperio\n│     distocia de hombros · hemorragia posparto · puerperio patológico\n└─ 8 · Enfermedades coexistentes con el embarazo\n      infecciones perinatales · cardiopatías · nefropatías · endocrinopatías",
+        "foot": "Unidades tomadas del punto 3 del programa. La única granularidad temporal es el régimen (5 semanas); el programa no trae cronograma fechado por unidad."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.obstetricia.diagnostico-y-primera-consulta",
+          "name": "Unidad 1 · Diagnóstico de embarazo y primer consulta",
+          "role": "anatomía, fisiología y embriología genital · modificaciones gravídicas · pelvimetría y planos de Hodge · semiología obstétrica · historia clínica y control prenatal",
+          "tag": "primera mitad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.controles-primera-mitad",
+          "name": "Unidad 2 · Controles de la 1ra. mitad del embarazo",
+          "role": "tamizaje del primer trimestre · aneuploidías, defectos cardíacos, preeclampsia/RCIU y parto pretérmino · morfología feto placentaria · procedimientos invasivos",
+          "tag": "primera mitad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.patologia-primera-mitad",
+          "name": "Unidad 3 · Patología obstétrica de la 1ra mitad del embarazo",
+          "role": "amenaza de aborto y aborto · embarazo ectópico · enfermedad trofoblástica gestacional · hiperemesis · incompetencia ístmico-cervical · patología fetal y legislación vigente",
+          "tag": "primera mitad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.crecimiento-y-bienestar-fetal",
+          "name": "Unidad 4 · Crecimiento y bienestar fetal de la segunda mitad del embarazo",
+          "role": "screening 20-24 semanas · biometría · Doppler uterino, umbilical y fetal · líquido amniótico · cardiotocografía · embarazo múltiple",
+          "tag": "segunda mitad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.patologia-segunda-mitad",
+          "name": "Unidad 5 · Patología obstétrica de la segunda mitad del embarazo",
+          "role": "parto pretérmino y rotura prematura de membranas · fenómenos hipertensivos · hemorragias · restricción del crecimiento · diabetes · isoinmunización · trombofilias",
+          "tag": "segunda mitad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.obstetricia-quirurgica",
+          "name": "Unidad 6 · Obstetricia quirúrgica",
+          "role": "trabajo de parto y fenómenos activos y pasivos · distocias dinámicas · mecanismo de parto en cefálica · inducción · parto instrumental · cesárea · alumbramiento",
+          "tag": "parto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.complicaciones-parto-y-puerperio",
+          "name": "Unidad 7 · Complicaciones del parto, alumbramiento y puerperio",
+          "role": "distocia de hombros · embolia de líquido amniótico · retención placentaria · hemorragias posparto · endometritis, mastitis y tromboflebitis",
+          "tag": "puerperio",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.enfermedades-coexistentes",
+          "name": "Unidad 8 · Enfermedades coexistentes con el embarazo",
+          "role": "infecciones perinatales · anemias · cardiopatías · tumores · nefropatías e infección urinaria · enfermedades neurológicas · endocrinopatías",
+          "tag": "coexistentes",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía · las referencias (L2)",
+      "title": "Los libros que asigna",
+      "note": "Referencias reales del punto 7 del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir. El programa lista además sitios, un aula virtual del Campus CITEP, videos de clases y una app; eso no son libros y no se abre acá.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.obstetricia.codep-tocoginecologia",
+          "name": "Provenzano, Valenti — Obstetricia (CODEP Tocoginecología, Facultad de Medicina UBA)",
+          "role": "en prensa · EUDEBA, Buenos Aires 2017 · disponible en PDF",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.nassif",
+          "name": "Nassif JC — Obstetricia, fundamentos y enfoque práctico",
+          "role": "coordinador Keklikian R · 1ª ed. · Editorial Médica Panamericana, 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.voto",
+          "name": "Voto LS — Hipertensión en el Embarazo",
+          "role": "2ª ed. · Editorial Corpus, 2015",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.valenti",
+          "name": "Valenti E — Clases de Obstetricia",
+          "role": "1ª ed. · Editorial Ascune, 2009",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.obstetricia.gadow-fiorillo",
+          "name": "Gadow, Fiorillo — Obstetricia en esquemas",
+          "role": "1ª ed. · Editorial El Ateneo, 2004",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Obstetricia (PDF, CUDAP EXP-UBA 0078567/2017)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/30-Obstetricia_0_0.pdf"
+  }
+}

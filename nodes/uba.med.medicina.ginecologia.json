@@ -1,0 +1,179 @@
+{
+  "address": "uba.med.medicina.ginecologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "5 semanas · 143 horas totales",
+    "cargaHoraria": "143 h · 50% teórico (participativos, seminarios, talleres) · 25% actividad práctica incluidos simuladores · 25% grupos de discusión, ABP y ateneos",
+    "año": "Ciclo Clínico · área Tocoginecología (ubicación según el plan Res. CS 2861/92; el plan no asigna año a las materias del ciclo)",
+    "correlativas": "Medicina A y Patología II aprobadas, tanto para cursar como para rendir (dato del plan Res. CS 2861/92, no del programa)",
+    "catedra": "no consignada en el programa — la asignatura se dicta en múltiples UDH (Unidades Docentes Hospitalarias); el texto solo lleva la firma del Secretario General de la Facultad",
+    "programa": "Programa de Ginecología · CUDAP EXP-UBA 0069449/2014",
+    "evaluacion": "parcial formativa (saber y saber cómo, pirámide de Miller, con incorporación paulatina de MiniCex) · prefinal ECEO (examen clínico estructurado y objetivo) · final sumativo con casos clínicos · encuesta anónima de opinión a los alumnos",
+    "unidades": 7,
+    "bibliography": 6
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.ginecologia",
+      "label": "Ginecología"
+    }
+  ],
+  "eyebrow": "Ginecología · programa (materia)",
+  "title": "La salud de la mujer a lo largo de todo su ciclo vital.",
+  "lede": "Cinco semanas del ciclo clínico, 143 horas, en el área de Tocoginecología. El programa se organiza por motivos de consulta —sangrado, flujo, dolor abdómino-pelviano, nódulo mamario— y no por especialidad quirúrgica: forma un médico generalista capaz de prevenir, detectar precozmente y reconocer cuándo derivar. Prevención primaria, epidemiología, determinantes sociales y perspectiva de género y derechos atraviesan las siete unidades. Extraída del programa oficial.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "5 semanas",
+      "small": "143 horas"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "skeleton"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "temáticas"
+    },
+    {
+      "k": "Referencias",
+      "v": "6",
+      "small": "bibliografía"
+    }
+  ],
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (PDF de 12 páginas sin capa de texto, recuperado por OCR spa+eng; CUDAP EXP-UBA 0069449/2014). Las unidades y las referencias bibliográficas salen del texto real del programa: siete unidades temáticas cuya secuencia el programa declara rediseñable, cinco semanas de cursada, 143 horas repartidas 50/25/25 entre teóricos, práctica y grupos de discusión, y observación garantizada de exámenes mamarios, tactos vaginales, tomas de Pap y anamnesis (el programa garantiza observar; la ejecución práctica es en simuladores), más laboratorio de simulación y quirófano observacional. El año de cursada y las correlativas no figuran en el programa: vienen del plan Res. CS 2861/92, que ubica la materia en el Ciclo Clínico, área Tocoginecología, con Medicina A y Patología II para cursar y para rendir. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las unidades temáticas",
+      "title": "Las siete unidades",
+      "note": "El punto 3 del programa. Las unidades se ordenan por motivo de consulta; el programa aclara que la secuencia puede rediseñarse siempre que todos los contenidos se aborden a lo largo de la asignatura. Prevención primaria, epidemiología, determinantes sociales y perspectiva de género y derechos son transversales a todas.",
+      "map": {
+        "mk": "El programa, comprimido",
+        "tree": "GINECOLOGÍA — la consulta como puerta de entrada\n│\n├─ 1 · Generalidades · anatomía, semiología, APS de la mujer\n├─ 2 · Ciclo y sangrado uterino anormal · amenorreas · miomas · endometrio\n├─ 3 · Flujo vaginal y tracto genital inferior · ITS · Pap · HPV · cuello\n├─ 4 · Abdómino-pelviano · abdomen agudo · EPI · ectópico · ovario\n├─ 5 · Salud sexual y reproductiva · anticoncepción · aborto · violencia · marco legal\n├─ 6 · Mama · patología benigna y maligna · BIRADS · intervencionismo\n└─ 7 · Etapas de la vida · infanto-juvenil · climaterio · piso pelviano",
+        "foot": "Unidades tomadas del punto 3 del programa. La granularidad de tiempo es solo el régimen (5 semanas, 143 horas); no hay cronograma fechado ni horas asignadas por unidad."
+      },
+      "exits": [
+        {
+          "address": "uba.med.medicina.ginecologia.generalidades",
+          "name": "Unidad 1 · Generalidades",
+          "role": "anatomía, embriología, fisiología y semiología · anamnesis y estudios complementarios · atención primaria de la salud de la mujer · hábitos de riesgo · detección y acompañamiento de la violencia física y sexual",
+          "tag": "generalidades",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.ciclo-y-sangrado-uterino",
+          "name": "Unidad 2 · Alteraciones del ciclo y sangrado uterino anormal",
+          "role": "alteraciones menstruales · sangrado uterino anormal · amenorreas · androgenismo y SOP · miomas y pólipos · sangrado de la postmenopausia y cáncer de endometrio",
+          "tag": "ciclo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.flujo-vaginal-ptgi",
+          "name": "Unidad 3 · Flujo vaginal · patología del tracto genital inferior",
+          "role": "vulvovaginitis · infecciones cérvico-vaginales · infecciones de transmisión sexual · Pap y nuevas formas de tamizaje · lesiones cervicales de bajo y alto grado · HPV · cáncer de cuello de útero",
+          "tag": "tracto genital inferior",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.abdominopelviano",
+          "name": "Unidad 4 · Patología abdómino-pelviana",
+          "role": "abdomen agudo · cuadros agudos pelvianos · enfermedad pelviana inflamatoria · embarazo ectópico · endometriosis · patología benigna y maligna del ovario",
+          "tag": "abdómino-pelviano",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.salud-sexual-y-reproductiva",
+          "name": "Unidad 5 · Salud sexual y reproductiva",
+          "role": "consejería y métodos anticonceptivos · aborto como problema de salud pública y atención postaborto · legislación vigente · enfermedad trofoblástica gestacional · fisiología de la reproducción · consulta preconcepcional · atención de víctimas de violación · sexualidades",
+          "tag": "salud sexual",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.mama",
+          "name": "Unidad 6 · Patología benigna y maligna de la mama",
+          "role": "patología benigna y dolor mamario · diagnóstico precoz y pesquisa de carcinomas · lesiones pre-clínicas y precursoras · actitud ante nódulo mamario · BIRADS · intervencionismo mamario",
+          "tag": "mama",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.etapas-de-la-vida",
+          "name": "Unidad 7 · Patologías prevalentes en las distintas etapas de la vida",
+          "role": "ginecología pediátrica y de la adolescencia · pubertad y menarca · climaterio y síndrome climatérico · disfunciones del piso pelviano · incontinencia urinaria · prolapso genital · fístulas urogenitales",
+          "tag": "etapas de la vida",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bibliografía recomendada · las referencias (L2)",
+      "title": "Los libros y documentos que asigna",
+      "note": "Punto 7 del programa. Cuatro manuales de ginecología más dos documentos oficiales nombrados individualmente. El programa lista además, sin identificar ediciones ni títulos completos, un bloque de leyes (salud sexual y procreación responsable, anticoncepción quirúrgica, protección integral contra la violencia hacia las mujeres, identidad de género, protección integral de adolescentes, derechos del paciente) y un bloque de \"otros documentos\" (guías del Ministerio de Salud sobre VIH-SIDA, abortos no punibles, cáncer de cuello y de mama; la Declaración Universal de la UNESCO sobre la Diversidad Cultural 2001; el fallo F.A.L. de la Corte Suprema; declaraciones de la Academia Nacional de Medicina) — quedan citados acá, no abiertos como nodos. Cada exit es una puerta hacia su contenido: un índice aparte (L3), aún sin adquirir.",
+      "exits": [
+        {
+          "address": "uba.med.medicina.ginecologia.provenzano-manual",
+          "name": "Provenzano, Lange y Tatti — Manual de Ginecología",
+          "role": "2ª ed. · Ed. Corpus, 2014",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.gori-lorusso",
+          "name": "Gori y Lorusso — Ginecología",
+          "role": "2ª ed. · Ed. El Ateneo, 2001",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.testa",
+          "name": "Testa, R. — Ginecología",
+          "role": "1ª ed. · Editorial Médica Panamericana, 2011",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.novak",
+          "name": "Berek — Ginecología de Novak",
+          "role": "14ª ed. · Lippincott Williams & Wilkins, 2008",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.guia-metodos-anticonceptivos",
+          "name": "Métodos anticonceptivos: guía para profesionales de la salud",
+          "role": "Ministerio de Salud de la Nación · documento oficial",
+          "tag": "documento",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.ginecologia.protocolo-violencia-sexual",
+          "name": "Protocolo para la Atención Integral de Personas Víctimas de Violencia Sexual",
+          "role": "documento oficial citado en la bibliografía recomendada",
+          "tag": "documento",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · programa Ginecología (PDF escaneado, 12 pp., OCR; CUDAP EXP-UBA 0069449/2014)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/28-Ginecologia_0.pdf"
+  }
+}
