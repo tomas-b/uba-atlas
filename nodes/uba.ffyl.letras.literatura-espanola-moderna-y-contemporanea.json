@@ -1,0 +1,295 @@
+{
+  "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 hs semanales de dictado)",
+    "cuatrimestre": "2º (2026)",
+    "codigo": "0559 (Plan 1985) · 15023 (Plan 2023)",
+    "nombreSegunPlan": "Literatura Española III (Plan 1985) · Literatura Española Moderna y Contemporánea (Plan 2023)",
+    "catedra": "Prof. Topuzian, Marcelo (firma como Profesor Asociado a cargo) · programa 2º cuatrimestre 2026",
+    "tituloDelPrograma": "El campo y la ciudad",
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de las clases en modalidad virtual)",
+    "unidades": 4,
+    "bibliografia": 24,
+    "equipoDocente": [
+      "TOPUZIAN, Marcelo (profesor a cargo)",
+      "MINARDI, Adriana (adjunta regular)",
+      "MINGUZZI, Armando (adjunto interino)",
+      "RIGONI, Mirtha L. (JTP regular)",
+      "ILLESCAS, Raúl (ayudante de primera regular)",
+      "CHALIAN, Marisol (ayudante de primera regular)",
+      "JERSONSKY, Eva (ayudante de primera regular)",
+      "SARACINO, María Florencia (ayudante de primera interina)"
+    ]
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea",
+      "label": "Literatura Española Moderna y Contemporánea"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Hispánicas · Literatura Española Moderna y Contemporánea",
+  "title": "El campo, imaginado desde la ciudad.",
+  "lede": "Un solo eje atraviesa cuatro siglos de literatura española (XVIII a XXI): la relación entre el campo y la ciudad. No la pampa ni la campiña inglesa, sino las llanuras andaluzas, las colinas gallegas, el Pirineo, la aldea y la meseta castellanas, la huerta valenciana y las islas. Se entra por los antecedentes —la égloga, la novela pastoril, el Menosprecio de corte y alabanza de aldea, el debate neoclásico sobre la égloga, el agrarismo y el vaciamiento demográfico—; se sigue por el costumbrismo de Mesonero Romanos, las Leyendas de Bécquer, Doña Perfecta, los cuentos de Pardo Bazán, Terra baixa y La barraca; luego por las nostalgias modernas y la violencia criminal de Víctor Catalá, Machado, Valle-Inclán, Lorca, Cela y Benet; y se sale en el neorruralismo contemporáneo de Loriga, Solà y Abreu. La literatura fue siempre un fenómeno urbano: desde la ciudad elaboró ese otro lugar constitutivo, objeto de diferenciación y de deseo, de conquista y de nostalgia.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "s. XVIII a XXI"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de la materia, código 0559 (Plan 1985) / 15023 (Plan 2023), carrera de Letras (FFyL-UBA), Prof. Marcelo Topuzian, 2º cuatrimestre 2026, título del programa \"El campo y la ciudad\". El PDF no consigna otras cátedras: el recorte es el de este equipo, no un consenso disciplinar. DOBLE NOMBRE REGISTRADO: el mismo programa titula la materia \"Literatura Española III\" bajo el Plan 1985 y \"Literatura Española Moderna y Contemporánea\" bajo el Plan 2023. SELECCIÓN DECLARADA: se dibujan 24 de los volúmenes de la BIBLIOGRAFÍA OBLIGATORIA de las cuatro unidades; la bibliografía complementaria y la bibliografía general —ambas extensas— no se dibujan. EXCLUSIONES aplicadas de manera uniforme: no se dibujan como nodo libro los artículos de revista ni los capítulos citados sin volumen propio; sí se dibuja el volumen cuando el programa lo nombra, indicando en el rol qué capítulo o relato se lee de él. CAÍDA DECLARADA: los tres cuentos obligatorios de Emilia Pardo Bazán (\"La mayorazga de Bouzas\", \"Las medias rojas\", \"La cana\") se citan sin volumen y con la fórmula \"Varias ediciones\", de modo que no hay libro que dibujar; la autora sí está en los contenidos de la Unidad II. Muchas entradas obligatorias llevan esa misma fórmula \"Varias ediciones\" y por eso no consignan editorial ni año. VARIANTES DE TÍTULO REGISTRADAS, no resueltas: los contenidos citan las obras catalanas en su lengua original y la bibliografía en traducción castellana — \"Terra baixa (1896) de Àngel Guimerà\" frente a \"Guimerá, Ángel. Tierra baja. Buenos Aires, Poseidón, 1943\"; \"Solitud (1908)\" de Víctor Catalá frente a \"Soledad. Barcelona, Alianza, 1986\"; \"Canto jo i la muntanya balla (2019) de Irene Solà\" frente a \"Solá, Irene. Canto yo y la montaña baila. Barcelona, Anagrama, 2019\". El programa cita Dramas rurales de Víctor Catalá dos veces con datos distintos: \"Sombras\", de Dramas rurales (primera serie), Madrid, Calpe, 1921, y \"Met de las Solteronas\", de Dramas rurales en \"Traducción de la cátedra\", sin edición consignada; ambas citas se recogen en un solo nodo de volumen. La bibliografía general del programa incluye, además de libros, una URL de Wikipedia; no se dibuja. Los libros aquí listados no están indexados aún como libros (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "Del menosprecio de corte al neorruralismo",
+      "note": "Cada unidad del programa Topuzian 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El campo y la ciudad, en cuatro unidades",
+        "tree": "LITERATURA ESPAÑOLA MODERNA Y CONTEMPORÁNEA · 0559 / 15023\ntítulo del programa: EL CAMPO Y LA CIUDAD\n│\n├─ I · Antecedentes teóricos e históricos del problema\n│      paisaje, región y nación · novela pastoril y égloga · Guevara\n│      el debate dieciochesco · agrarismo · España vacía · neorruralismo\n│\n├─ II · El campo entre el romanticismo y el naturalismo\n│      Mesonero Romanos · Fernán Caballero · Bécquer\n│      Galdós · Pardo Bazán · Guimerà · Blasco Ibáñez\n│\n├─ III · Nostalgias modernas y violencia criminal\n│      Víctor Catalá · Machado · Valle-Inclán\n│      García Lorca · Cela · Benet\n│\n└─ IV · Neorruralismo contemporáneo\n       Loriga · Solà · Abreu",
+        "foot": "El recorrido va del siglo XVIII al XXI por un solo problema. La Unidad I fija el aparato histórico y teórico —incluido el fin del campesinado y el vaciamiento demográfico del campo—; las tres siguientes lo recorren cronológicamente, del costumbrismo romántico al neorruralismo de los años 2017-2020."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.antecedentes",
+          "name": "Algunos antecedentes teóricos e históricos del problema",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.romanticismo-naturalismo",
+          "name": "El campo entre el romanticismo y el naturalismo",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.nostalgias-modernas",
+          "name": "Nostalgias modernas y violencia criminal",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.neorruralismo",
+          "name": "Neorruralismo contemporáneo",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · por unidad",
+      "title": "Las obras que se leen",
+      "note": "Volúmenes de la bibliografía obligatoria de las cuatro unidades: 24 dibujados. Los artículos de revista, la bibliografía complementaria y la bibliografía general no se dibujan; los tres cuentos de Pardo Bazán se citan sin volumen y quedan fuera. Donde el programa dice \"Varias ediciones\" no hay editorial ni año que consignar. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-caro-baroja",
+          "name": "La ciudad y el campo — J. Caro Baroja (Alfaguara, 1966) · cap. “La ciudad y el campo o una discusión sobre viejos lugares comunes”",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-cabo-aseguinolaza",
+          "name": "Historia de la literatura española 9. El lugar de la literatura española — F. Cabo Aseguinolaza (Crítica, 2012) · cap. “La negociación del lugar: la región, la nación, el mundo”, pp. 449-521",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-del-molino",
+          "name": "La España vacía — S. del Molino (varias ediciones) · caps. I “La historia del tenedor” y VI “La belleza de Maritornes”",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-williams",
+          "name": "El campo y la ciudad — R. Williams (Paidós, Buenos Aires, 2001) · cap. 1 “El campo y la ciudad”",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-becquer-leyendas",
+          "name": "Leyendas — G. A. Bécquer (varias ediciones) · “La cruz del diablo”",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-mesonero-panorama",
+          "name": "Panorama matritense — R. de Mesonero Romanos (varias ediciones) · “La calle de Toledo”, “Las casas por dentro”, “Los aires del lugar” y “Los paletos en Madrid”",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-fernan-caballero",
+          "name": "La familia de Alvareda — Fernán Caballero, Cecilia Böhl de Faber (varias ediciones)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-galdos-dona-perfecta",
+          "name": "Doña Perfecta — B. Pérez Galdós (varias ediciones)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-guimera-tierra-baja",
+          "name": "Tierra baja — Á. Guimerá (Poseidón, Buenos Aires, 1943; los contenidos la citan como Terra baixa, 1896, de Àngel Guimerà)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-blasco-la-barraca",
+          "name": "La barraca — V. Blasco Ibáñez (varias ediciones)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-blasco-articulos",
+          "name": "Los mejores artículos de Blasco Ibáñez — P. Smith (ed.) (Prometeo, Valencia, 1982) · “Pan del alma”",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-catala-soledad",
+          "name": "Soledad — Víctor Catalá, Caterina Albert i Paradis (Alianza, Barcelona, 1986; los contenidos la citan como Solitud, 1908)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-catala-dramas-rurales",
+          "name": "Dramas rurales — Víctor Catalá · “Sombras”, de Dramas rurales (primera serie) (Calpe, Madrid, 1921), y “Met de las Solteronas”, en traducción de la cátedra",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-catala-la-infanticida",
+          "name": "La infanticida — Víctor Catalá (Club Editor, Barcelona, 2021) · “Un amorío de Piu”",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-machado-campos-de-castilla",
+          "name": "Campos de Castilla — A. Machado (varias ediciones)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-valle-divinas-palabras",
+          "name": "Divinas palabras — R. del Valle-Inclán (varias ediciones)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-valle-retablo",
+          "name": "Retablo de la avaricia, la lujuria y la muerte — R. del Valle-Inclán (varias ediciones) · “Ligazón” y “Sacrilegio”",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-lorca-bodas-de-sangre",
+          "name": "Bodas de sangre — F. García Lorca (varias ediciones)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-lorca-yerma",
+          "name": "Yerma — F. García Lorca (varias ediciones)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-cela-pascual-duarte",
+          "name": "La familia de Pascual Duarte — C. J. Cela (varias ediciones)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-benet-cuentos-completos",
+          "name": "Cuentos Completos 1 — J. Benet (Alianza, Madrid, 1994) · “Baalbec, una mancha” y “Nunca llegarás a nada”",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-loriga-rendicion",
+          "name": "Rendición — R. Loriga (Alfaguara, Buenos Aires, 2017)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-sola-canto-yo",
+          "name": "Canto yo y la montaña baila — I. Solá (Anagrama, Barcelona, 2019; los contenidos la citan como Canto jo i la muntanya balla, 2019, de Irene Solà)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-moderna-y-contemporanea.libro-abreu-panza-de-burro",
+          "name": "Panza de burro — A. Abreu (Barrett, Buenos Aires, 2021)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Literatura Española III / Literatura Española Moderna y Contemporánea, códigos 0559 (Plan 1985) y 15023 (Plan 2023), Prof. Marcelo Topuzian, 2º cuatrimestre 2026 · modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0559%2015023%20LITERATURA%20ESPA%C3%91OLA%20III%20MODERNA%20Y%20CONTEMPOR%C3%81NEA%20TOPUZIAN_0.pdf"
+  }
+}

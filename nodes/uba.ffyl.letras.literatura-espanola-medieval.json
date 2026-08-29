@@ -1,0 +1,332 @@
+{
+  "address": "uba.ffyl.letras.literatura-espanola-medieval",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), establecida en el Reglamento Académico Res. (CD) Nº 4428/17 según el programa",
+    "cargaHoraria": "96 horas (mínimo de 6 y máximo de 10 horas semanales)",
+    "cuatrimestre": "1º · 2026",
+    "codigo": "0557 (Plan 1985) · 15021 (Plan 2023)",
+    "equivalenciaDePlanes": "LITERATURA ESPAÑOLA I (Plan 1985) = LITERATURA ESPAÑOLA MEDIEVAL (Plan 2023), según el encabezado del propio programa",
+    "catedra": "Depto. de Letras · Prof. a cargo FUNES, Leonardo (Profesor Emérito, según la firma del programa) · programa 1º cuatrimestre 2026",
+    "tituloDelPrograma": "Los textos castellanos medievales en su proyección literaria, histórica y cultural",
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de sus clases en modalidad virtual)",
+    "equipoDocente": [
+      "OLIVETTO, Georgina (profesora adjunta)",
+      "ZUBILLAGA, Carina (profesora adjunta)",
+      "JANIN, Érica (JTP)",
+      "SARACINO, Pablo (JTP)",
+      "SOLER, Maximiliano (JTP)",
+      "HAMLIN, Cinthia (JTP)",
+      "ALCATENA, María Eugenia (ayudante de primera)"
+    ],
+    "unidades": 7,
+    "secciones": "Introducción + Primera, Segunda y Tercera Sección",
+    "trabajosPracticos": 11,
+    "bibliografia": 26,
+    "bibliografiaObligatoria": "62 ítems numerados — todos artículos, capítulos en obras colectivas, prólogos, estudios preliminares o fichas de cátedra; ninguno es un volumen exento"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-espanola-medieval",
+      "label": "Literatura Española Medieval"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Hispánicas · Literatura Española Medieval",
+  "title": "Una lengua literaria que se inventa: del Cid a Celestina.",
+  "lede": "El castellano en el momento en que se vuelve lengua de escritura, leído no como sucesión de autores y obras maestras sino como «historia de la escritura». Se entra por el oficio mismo —qué es un texto medieval, oralidad y escritura, crítica textual— y se recorren tres secciones: la emergencia romance del siglo XIII (el Cantar de Mio Cid, la cuaderna vía, el Libro de Apolonio, la Vida de Santa María Egipciaca, el Libro de los tres reyes de Oriente); los textos de ruptura en la crisis del XIV (El conde Lucanor de don Juan Manuel, el Libro de buen amor del Arcipreste de Hita); y el (pre)humanismo cortesano del XV, del Infierno de los enamorados de Santillana a la ficción sentimental (Cárcel de amor, Grisel y Mirabella) y a la Tragicomedia de Calisto y Melibea, donde asoma la cultura impresa. El corpus se recorta bajo un nombre propio de la cátedra: la producción verbal hispano-medieval como «literatura emergente».",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "+ 11 TP"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de LITERATURA ESPAÑOLA I (Plan 1985) / LITERATURA ESPAÑOLA MEDIEVAL (Plan 2023), códigos 0557 y 15021, Prof. Leonardo Funes, 1º cuatrimestre 2026 (letras.filo.uba.ar). La equivalencia entre ambos nombres y códigos es un dato del propio encabezado del PDF, no una inferencia. El programa no consigna cuántas cátedras dicta la materia ni a qué ciclo del plan pertenece: el área «Literaturas Hispánicas» del eyebrow proviene del plan 2023 tal como está cargado en el nodo padre (Letras), no de este programa. Las siete unidades se agrupan en una Introducción y tres secciones tituladas; además el programa lista once Trabajos Prácticos con temario propio (paleografía de la tirada 15 del Cantar de Mio Cid, la polémica neo-tradicionalistas/individualistas, Berceo y los Milagros, el exemplum, el enxemplo 39 de El Conde Lucanor, Grisel y Mirabella, los plantos de Cárcel de Amor y Celestina), que no se dibujan como unidades porque el programa los cuenta aparte. SELECCIÓN DECLARADA: se dibujan como libro las 26 ediciones listadas bajo «Fuentes» en las unidades 2 a 7 — los textos que la materia efectivamente lee. Los 62 ítems de la bibliografía obligatoria son sin excepción artículos de revista, capítulos en obras colectivas, prólogos, estudios preliminares o fichas de cátedra de OPFyL, y por eso ninguno se dibuja; la bibliografía complementaria de cada unidad y la «Bibliografía general» final —que sí contienen decenas de monografías exentas (Curtius, Huizinga, Blecua, Zumthor, Gómez Redondo, entre muchas)— quedan fuera de esta pasada por recorte, no por la regla de los artículos. ERRATAS Y RAREZAS DEL ORIGINAL, registradas sin resolver: el punto 2.4 se imprime sin puntuación entre dos sintagmas («la estructura del relato heroico el cantar como espectáculo juglaresco»); el punto 7.3 se imprime sin el punto tras el número; los ítems obligatorios 38 y 43 citan al autor sólo por apellido («Russell», «Duby»); la edición de Grisel y Mirabella se imprime «Roma, Bagatto Lihri, 2003»; las «Fuentes» de la Unidad 7 abren con una entrada de Whinnom, ed., Diego de San Pedro, Obras completas I (Castalia, 1973), pp. 173-183, antes del subtítulo «Cárcel de Amor» y sin nombrar la obra editada; y el Diccionario de Teatro de Pavis aparece dos veces, con el pie «Paidós» en la complementaria de la Unidad 7 y «Piados» en la bibliografía general.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades",
+      "title": "Introducción y tres secciones",
+      "note": "Cada unidad del programa Funes 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "Los textos castellanos medievales, en siete unidades",
+        "tree": "LITERATURA ESPAÑOLA MEDIEVAL · 0557 / 15021 · Funes 2026\n│\n├─ INTRODUCCIÓN\n│   └─ 1 · Objeto y práctica del hispano-medievalismo\n│          oralidad y escritura · crítica textual\n│\n├─ PRIMERA SECCIÓN · La emergencia de una producción verbal en lengua romance (s. XIII)\n│   ├─ 2 · La actuación juglaresca y el verso oral épico\n│   │      códice de Vivar · Cantar de Mio Cid\n│   └─ 3 · La cultura de clerecía\n│          cuaderna vía · Sta. María Egipciaca · Tres reyes de Oriente · Apolonio\n│\n├─ SEGUNDA SECCIÓN · Textos de ruptura en la crisis del siglo XIV\n│   └─ 4 · Inscripciones históricas, intervenciones discursivas\n│          El conde Lucanor · Libro de buen amor\n│\n└─ TERCERA SECCIÓN · El impacto del humanismo y la cultura cortesana bajomedieval\n    ├─ 5 · Condiciones y problemas del (pre)humanismo castellano del XV\n    │      Santillana · Infierno de los enamorados\n    ├─ 6 · El amor y la condición femenina\n    │      misoginia y profeminismo · Grisel y Mirabella\n    └─ 7 · La ideología amorosa en la corte de los Reyes Católicos\n           Cárcel de amor · Tragicomedia de Calisto y Melibea",
+        "foot": "Recorrido del programa Funes 2026. A esto se suman once Trabajos Prácticos con temario propio, que el programa lista aparte de las unidades."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.objeto-y-practica",
+          "name": "Objeto y práctica del hispano-medievalismo",
+          "role": "Introducción · Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.actuacion-juglaresca",
+          "name": "La actuación juglaresca y el verso oral épico",
+          "role": "Primera Sección · Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.cultura-de-clerecia",
+          "name": "La cultura de clerecía",
+          "role": "Primera Sección · Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.inscripciones-historicas",
+          "name": "Inscripciones históricas, intervenciones discursivas en un contexto de crisis",
+          "role": "Segunda Sección · Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.prehumanismo-castellano",
+          "name": "Condiciones y problemas del (pre)humanismo castellano del siglo XV",
+          "role": "Tercera Sección · Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.amor-y-condicion-femenina",
+          "name": "Debates de la cultura cortesana del XV: el amor y la condición femenina",
+          "role": "Tercera Sección · Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.ideologia-amorosa-reyes-catolicos",
+          "name": "La ideología amorosa cortesana reformulada e interpelada en la corte de los Reyes Católicos",
+          "role": "Tercera Sección · Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes · las ediciones que se leen",
+      "title": "Los textos, en sus ediciones",
+      "note": "Las 26 ediciones listadas bajo «Fuentes» en las unidades 2 a 7. La bibliografía obligatoria (62 ítems) es toda de artículos, capítulos, prólogos y fichas de cátedra y no se dibuja; la complementaria y la bibliografía general quedan fuera por recorte declarado. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-mio-cid-funes",
+          "name": "Poema de Mio Cid — L. Funes, ed. (Colihue, 2007)",
+          "role": "Fuentes · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-mio-cid-michael",
+          "name": "Poema de Mio Cid — I. Michael, ed. (Castalia, 1976)",
+          "role": "Fuentes · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-mio-cid-montaner",
+          "name": "Cantar de Mio Cid — A. Montaner, ed. (Crítica, 1993)",
+          "role": "Fuentes · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-mio-cid-smith",
+          "name": "Poema de Mio Cid — C. Smith, ed. (Cátedra, 1976)",
+          "role": "Fuentes · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-milagros-gerli",
+          "name": "Gonzalo de Berceo, Milagros de Nuestra Señora — E. M. Gerli, ed. (Cátedra, 1992)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-milagros-banos",
+          "name": "Gonzalo de Berceo, Milagros de Nuestra Señora — F. Baños, ed. (Crítica, 1997)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-milagros-michael-bayo",
+          "name": "Gonzalo de Berceo, Milagros de Nuestra Señora — I. Michael y J. C. Bayo, eds. (Castalia, 2006)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-apolonio-alvar",
+          "name": "Libro de Apolonio — M. Alvar, ed. (Fundación Juan March y Editorial Castalia, 1976)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-apolonio-corbella",
+          "name": "Libro de Apolonio — D. Corbella, ed. (Cátedra, 1972, según el programa)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-apolonio-monedero",
+          "name": "Libro de Apolonio — C. Monedero, ed. (Castalia, 1987)",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-poesia-narrativa-clerical",
+          "name": "Poesía narrativa clerical en su contexto manuscrito — C. Zubillaga, ed. (SECRIT, 2014) · contiene Libro de Apolonio, Vida de Santa María Egipciaca y Libro de los tres reyes de Oriente",
+          "role": "Fuentes · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-conde-lucanor-blecua",
+          "name": "El Conde Lucanor — J. M. Blecua, ed. (Castalia, 1980)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-conde-lucanor-orduna",
+          "name": "Don Juan Manuel, Libro del Conde Lucanor et de Patronio — G. Orduna, ed. (Huemul, 1972)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-conde-lucanor-seres",
+          "name": "Juan Manuel, El Conde Lucanor — G. Serés, ed. (Crítica, 1994)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-conde-lucanor-funes",
+          "name": "El Conde Lucanor — L. Funes, ed. (Colihue, 2020)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-buen-amor-blecua",
+          "name": "Juan Ruiz, Arcipreste de Hita, Libro de buen amor — A. Blecua, ed. (Cátedra, 1992)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-buen-amor-joset",
+          "name": "Juan Ruiz, Arcipreste de Hita, Libro de buen amor — J. Joset, ed. (Espasa-Calpe, 1974, 2 vols.)",
+          "role": "Fuentes · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-santillana-obras-completas",
+          "name": "Marqués de Santillana, Obras Completas — M. Kerkhof y Á. Gómez Moreno, eds. (Planeta, 1988), pp. 135-155 · Infierno de los enamorados",
+          "role": "Fuentes · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-santillana-poesias-completas",
+          "name": "Marqués de Santillana, Poesías Completas I — M. Durán, ed. (Castalia, 1980), pp. 202-227 · Infierno de los enamorados",
+          "role": "Fuentes · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-grisel-y-mirabella",
+          "name": "Juan de Flores, Grisel y Mirabella — M. G. Ciccarello di Blasi, ed. (Roma, «Bagatto Lihri» en el original, 2003)",
+          "role": "Fuentes · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-san-pedro-obras-completas-i",
+          "name": "Diego de San Pedro, Obras completas. I — K. Whinnom, ed. (Castalia, 1973), pp. 173-183 · el programa no nombra la obra editada",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-carcel-de-amor-parrilla",
+          "name": "Diego de San Pedro, Cárcel de Amor — C. Parrilla, ed. (Crítica, 1995)",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-san-pedro-obras-completas-ii",
+          "name": "Diego de San Pedro, Obras completas. II. Cárcel de Amor — K. Whinnom, ed. (Castalia, 1973)",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-celestina-rae",
+          "name": "Fernando de Rojas, La Celestina — F. J. Lobera, G. Serés et al., eds. (Real Academia Española, 2011)",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-celestina-russell",
+          "name": "Fernando de Rojas, Comedia o Tragicomedia de Calisto y Melibea — P. E. Russell, ed. (Castalia, 1991)",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-espanola-medieval.libro-celestina-severin",
+          "name": "Fernando de Rojas, La Celestina — D. Severin, ed. (Cátedra, 1987)",
+          "role": "Fuentes · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de LITERATURA ESPAÑOLA I (Plan 1985) / LITERATURA ESPAÑOLA MEDIEVAL (Plan 2023), códigos 0557 y 15021, Prof. Leonardo Funes, 1º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0557%20-%2015021%20LITERATURA%20ESPA%C3%91OLA%20I%20%28MEDIEVAL%29%202026.pdf"
+  }
+}

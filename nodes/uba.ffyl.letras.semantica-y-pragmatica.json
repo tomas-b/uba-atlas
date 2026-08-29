@@ -1,0 +1,305 @@
+{
+  "address": "uba.ffyl.letras.semantica-y-pragmatica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 hs (mínimo; mín. 6 y máx. 10 hs semanales)",
+    "cuatrimestre": "1º (2026)",
+    "codigo": "0571 (plan 1985) · 15048 (plan 2023)",
+    "catedra": "Depto. de Letras · Prof. Andrés Saab (Profesor Adjunto) · 1º cuatrimestre 2026",
+    "equipoDocente": [
+      "SAAB, Andrés (profesor)",
+      "VERDECCHIA, Matías (ayudante de primera)",
+      "TREBISACCE, Romina (ayudante de primera)"
+    ],
+    "tituloDelPrograma": "Dimensiones del significado",
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de clases en modalidad virtual, exclusivamente asincrónicas; con más de 350 inscriptos las teóricas se dictan virtuales)",
+    "partes": 2,
+    "unidades": 7,
+    "bibliografia": 23,
+    "recomendaciones": "Curso dirigido especialmente a estudiantes de las orientaciones Lingüística y Letras Modernas. Para estudiantes de Letras es indispensable haber cursado Lingüística y Gramática; recomendable, no indispensable, haber cursado Sintaxis y poder leer textos en inglés."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.semantica-y-pragmatica",
+      "label": "Semántica y Pragmática"
+    }
+  ],
+  "eyebrow": "Letras · orientaciones Lingüística y Letras Modernas · Semántica y Pragmática",
+  "title": "Cuando el significado deja de ser cuestión de verdad.",
+  "lede": "El significado oracional como propiedad interna de las expresiones lingüísticas, en dos movimientos. Primero se arma el aparato formal: composicionalidad fregeana, notación-λ, tipos e y t, aplicación funcional y modificación de predicado; después las frases nominales —pronombres, nombres propios, descripciones definidas, variables libres y ligadas—; después mundos posibles, semántica intensional y modalidad. Y entonces se muestra el borde: hay significación que las condiciones de verdad no capturan. Entran Austin, Searle y Grice —actos de habla, máximas, implicaturas conversacionales—, la implicatura convencional y la lógica bidimensional de Potts, y el caso de estudio final: la gramática y la semántica del insulto en el español rioplatense. La conclusión que el propio programa anticipa es negativa: las dimensiones discutidas no clausuran el problema del significado.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "2 partes"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Semántica y Pragmática, códigos 0571 (plan 1985) y 15048 (plan 2023), Prof. Andrés Saab, 1º cuatrimestre 2026, publicado en letras.filo.uba.ar. El programa lleva por título \"Dimensiones del significado\" y se divide en dos partes: \"Una semántica para este y otros mundos\" (unidades I a IV) y \"Otras dimensiones de la significación: significados sin verdad\" (unidades V a VII). El programa no consigna otras cátedras de la materia. Junto con Lingüística, Gramática y Sintaxis completa el núcleo lingüístico de la carrera: el propio programa declara en sus recomendaciones que \"para los estudiantes de Letras es indispensable haber cursado Lingüística y Gramática\" y que es \"recomendable, aunque no indispensable, haber cursado Sintaxis\" — es una recomendación del programa, no una correlatividad consignada en él. CONTRADICCIÓN REGISTRADA, no resuelta: el programa declara \"RÉGIMEN DE PROMOCIÓN: PD\" (promoción directa) y a la vez su Opción B de aprobación exige \"rendir un EXAMEN FINAL en el que deberá obtenerse una nota mínima de 4 (cuatro) puntos\"; ambas cosas están impresas y aquí se dejan como están. ERRATAS DEL ORIGINAL: los contenidos de la Unidad VI repiten el sintagma \"Implicaturas convencionales\" cuatro veces en la misma enumeración (la tercera, suelta, es la repetición anómala); el encabezado del código imprime dos veces los dos puntos (\"CÓDIGO Nº: :\"). La entrada bibliográfica de Skerk, Laura (\"Yo estoy aquí, ahora\") es la única sin año. La bibliografía de la Unidad V y la de la Unidad VI comparten dos entradas repetidas (Escandell-Vidal 2006, cap. 5, 79-92, obligatoria en V y complementaria en VI; Grice, Lógica y conversación, obligatoria en V con paginación 511-530 y complementaria en VI sin ella). SELECCIÓN DECLARADA: se dibujan como nodo libro todas las obras de volumen — monografías y volúmenes colectivos (estos últimos con el rol nombrando sus capítulos y unidades) —, obligatorias, complementarias y de bibliografía general. No se dibujan los artículos de revista ni las ponencias: Russell, \"On denoting\" (Mind 14, 1905); Grice, \"Significar\" (Cuadernos de Crítica 1, UNAM, 1971); Di Tullio y Saab, \"Dos clases de epítetos en el español\" (Actas del XIV Congreso ALFAL, 2006); Orlando y Saab, \"Slurs, Stereotypes and Insults\" (Acta Analytica, 2020) y \"Términos peyorativos de grupo, estereotipos y actos de habla\" (Crítica 51(153), 2019). DESCARTADO POR ILEGIBLE: la entrada \"Searle, John. 1965. '¿Qué es un acto de habla?' en Valdés Villanueva 2000\" (complementaria de la Unidad V) no consigna el título del volumen que la contiene y no se resuelve contra ninguna otra fuente: se deja fuera. Aclaración del propio programa sobre la bibliografía: \"La bibliografía en inglés será acompañada con notas de clase en español y con material didáctico específico en lengua española. Los asteriscos distinguen textos originales clásicos de textos de consulta o manuales\". Nota al pie del programa sobre el equipo: \"Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente\".",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades, en dos partes",
+      "title": "De las condiciones de verdad a sus límites",
+      "note": "Cada unidad del programa Saab 2026 es un nodo, en orden, con la parte a la que pertenece.",
+      "map": {
+        "mk": "Dimensiones del significado, en dos partes",
+        "tree": "SEMÁNTICA Y PRAGMÁTICA · 0571 / 15048 · Saab 2026\n│\n├─ PRIMERA PARTE · Una semántica para este y otros mundos\n│   ├─ I · Composición semántica y gramática formal · Ensamble, Forma Lógica, notación-λ, tipos e y t\n│   ├─ II · Expresiones nominales y tipos de variables · pronombres, nombres propios, descripciones definidas\n│   ├─ III · Extensión con intensiones · mundos posibles, proposiciones, accesibilidad\n│   └─ IV · Estudio de caso: la modalidad · ambigüedad modal, Kratzer, evidencialidad\n│\n└─ SEGUNDA PARTE · Otras dimensiones de la significación: significados sin verdad\n    ├─ V · Acción e intención · actos de habla, máximas, implicaturas conversacionales\n    ├─ VI · Implicaturas convencionales · Grice 1975, la lógica bidimensional de Potts 2005\n    └─ VII · Estudio de caso: la dimensión expresiva en el español del Río de la Plata",
+        "foot": "La primera parte enriquece el aparato formal sin cambiar de dimensión: la unidad III no introduce un significado nuevo sino mundos posibles. El corte real está entre las partes: la segunda pregunta qué queda del significado cuando se le quitan las condiciones de verdad, y termina en los límites de matematizar las dimensiones social e ideológica."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.composicion-semantica",
+          "name": "Composición semántica y gramática formal: una implementación extensional",
+          "role": "Primera parte · Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.expresiones-nominales",
+          "name": "Expresiones nominales y tipos de variables en las lenguas naturales",
+          "role": "Primera parte · Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.extension-con-intensiones",
+          "name": "Extensión con intensiones",
+          "role": "Primera parte · Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.modalidad",
+          "name": "Un estudio de caso: la modalidad",
+          "role": "Primera parte · Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.accion-e-intencion",
+          "name": "Acción e intención como productoras de significación",
+          "role": "Segunda parte · Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.implicaturas-convencionales",
+          "name": "El problema de las implicaturas convencionales para una semántica clásica",
+          "role": "Segunda parte · Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.dimension-expresiva",
+          "name": "Estudio de caso: la dimensión expresiva en el español del Río de La Plata",
+          "role": "Segunda parte · Unidad VII",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria, complementaria y general",
+      "title": "El aparato de lectura",
+      "note": "Obras de volumen del programa Saab 2026 — monografías y volúmenes colectivos, con el rol nombrando la unidad y el capítulo. Los artículos de revista y las ponencias no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-saab-carranza",
+          "name": "Dimensiones del significado. Introducción a la semántica formal — A. Saab y F. Carranza (SADAF, Buenos Aires, 2021)",
+          "role": "obligatoria · U1 caps. 1-5 · U2 cap. 6 · U3 caps. 7-8 · U4 cap. 9 · U6 cap. 11 · U7 caps. 12-13",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-estructura-del-significado",
+          "name": "La estructura del significado — E. García-Ramírez (coord.) (Colofón, México, 2020)",
+          "role": "obligatoria · U1 (García-Ramírez, Campos Millán, Aguilar Guevara, Orlando, Skerk) · U3 (Barceló Aspeitia, Orlando) · U5 (Curcó)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-busqueda-del-significado",
+          "name": "La búsqueda del significado — L. Ml. Valdés Villanueva (ed.) (Tecnos, Madrid, 1995)",
+          "role": "obligatoria · U1 (Frege, «Sobre sentido y referencia» [1892]; Strawson, «Sobre el referir» [1950]) y U5 (Grice, «Lógica y conversación» [1975]) · complementaria · U6 (el mismo Grice, sin paginación)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-themes-from-kaplan",
+          "name": "Themes from Kaplan — J. Almog, J. Perry y H. Wettstein (eds.) (Oxford University Press, 1989)",
+          "role": "obligatoria · U1 · Kaplan, «Demonstratives», 481-563",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-kripke",
+          "name": "El nombrar y la necesidad — S. Kripke (UNAM, México, [1981])",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-heim-kratzer",
+          "name": "Semantics in Generative Grammar — I. Heim y A. Kratzer (Blackwell, Oxford, 1998)",
+          "role": "complementaria · U1 caps. 1-5 · U2 caps. 6-11 · U3 cap. 12",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-espinal-semantica",
+          "name": "Semántica — M. T. Espinal et al. (coord.) (Akal, Madrid, 2014)",
+          "role": "complementaria · U1 (Espinal, cap. 1; Espinal y Quer, «Modificación», cap. 6; Mateu, «Predicación», cap. 4) · U2 (Quer, «Cuantificación», cap. 5) · U3 y U4 (Quer, «Intensionalidad», cap. 7)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-leonetti",
+          "name": "El artículo y la referencia — M. Leonetti Jungl (Taurus, Madrid, 1990)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-moro-simpson",
+          "name": "Formas lógicas, realidad y significado — T. Moro Simpson (Eudeba, Buenos Aires, 1964)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-fintel-heim",
+          "name": "Intensional semantics — K. von Fintel e I. Heim (MIT Edition, Cambridge, Mass., 2011)",
+          "role": "complementaria · U3 caps. 1-2 · U4 cap. 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-austin",
+          "name": "Cómo hacer cosas con palabras — J. Austin (Paidós, Buenos Aires, 1971 [1962])",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-searle-actos-de-habla",
+          "name": "Actos de habla — J. Searle (Cátedra, Madrid, 1986 [1969]), traducción de Valdés Villanueva",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-escandell-pragmatica",
+          "name": "Introducción a la pragmática (2ª ed.) — M. V. Escandell-Vidal (Ariel, Barcelona, 2006)",
+          "role": "obligatoria U5 y complementaria U6 · cap. 5, 79-92 (repetida en ambas unidades)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-potts-implicaturas",
+          "name": "The logic of conventional implicatures — C. Potts (Oxford University Press, 2005)",
+          "role": "complementaria · U6 · caps. 1-3 y 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-chierchia-mcconnell-ginet",
+          "name": "Meaning and grammar. An introduction to semantics (2ª ed.) — G. Chierchia y S. McConnell-Ginet (MIT Press, Cambridge, MA, 2000)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-elbourne",
+          "name": "Meaning. A Slim guide to semantics — P. Elbourne (Oxford University Press, 2011)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-escandell-composicional",
+          "name": "Fundamentos de semántica composicional — M. V. Escandell-Vidal (Ariel, Barcelona, 2004)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-gamut",
+          "name": "Lógica, Lenguaje y Significado. Vol. 2: Lógica Intensional y Gramática Lógica — L. T. F. Gamut (Eudeba, Buenos Aires, 2009 [1982/1991])",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-gutzmann",
+          "name": "Use-conditional meaning: Studies in multidimensional meaning — D. Gutzmann (Oxford University Press, 2015)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-kratzer-modals",
+          "name": "Modals and conditionals — A. Kratzer (Oxford University Press, 2012)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-handbook-semantic-theory",
+          "name": "The Handbook of Contemporary Semantic Theory — S. Lappin y C. Fox (eds.) (Wiley-Blackwell, Oxford, 2015) · Potts, «Presupposition and implicature», 168-202",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-predelli",
+          "name": "Meaning without truth — S. Predelli (Oxford University Press, 2013)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.semantica-y-pragmatica.libro-williams",
+          "name": "Arguments in syntax and semantics — A. Williams (Cambridge University Press, Cambridge, UK, 2015)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Semántica y Pragmática, códigos 0571 (plan 1985) / 15048 (plan 2023) — Prof. Andrés Saab, 1º cuatrimestre 2026, «Dimensiones del significado» (modalidad presencial ajustada a REDEC-2024-2526-UBA-DCT#FFYL; firma del Depto. de Letras: Carina Zubillaga, Directora)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0571%20-%2015048%20SEM%C3%81NTICA%20Y%20PRAGM%C3%81TICA.pdf"
+  }
+}

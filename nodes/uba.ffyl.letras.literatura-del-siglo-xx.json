@@ -1,0 +1,440 @@
+{
+  "address": "uba.ffyl.letras.literatura-del-siglo-xx",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0567 (Plan 1985) · 15041 (Plan 2023)",
+    "regimen": "cuatrimestral · promoción directa (PD) · 3 instancias de evaluación parcial (Reglamento Académico, Res. (CD) Nº 4428/17)",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "1º (programa 2026)",
+    "catedra": "BENTIVEGNA, Diego y DÍAZ, Valentín — ambos firman el programa con el cargo «JTP con extensión de funciones» · 1º cuatrimestre 2026",
+    "tituloDelPrograma": "Destrucción y supervivencia: un siglo",
+    "equipoDocente": [
+      "GROPPO, Marcela (JTP)",
+      "ISOLA, Laura (JTP)",
+      "CROCI, Paula (JTP)",
+      "GURIAN, Max (ayudante de 1ª)",
+      "ROSETTI, Miguel (ayudante de 1ª)"
+    ],
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden optar por dictar hasta un 30% de sus clases en modalidad virtual)",
+    "departamento": "Letras · Directora: Carina Zubillaga",
+    "unidades": 5,
+    "bibliografia": 48,
+    "notaDelPrograma": "«Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente.»"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.literatura-del-siglo-xx", "label": "Literatura del Siglo XX" }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Literatura del Siglo XX",
+  "title": "Destrucción y supervivencia: el sobreviviente es el propio siglo.",
+  "lede": "El siglo XX leído por dos fuerzas superpuestas —lo que se destruye y lo que queda—, desde los estudios literarios comparados. Se entra preguntando si existió realmente un siglo XX (Auerbach y la noción de figura, el Nachleben de Warburg, lo que resta de Agamben) y se sigue por la lengua herida: Hofmannsthal, Ungaretti y Pound en el frente, Ajmátova, Fondane, Celan y Ausländer después del exterminio, Artaud y Ginsberg entre lo humano y el aullido. Después vienen los constructores y despobladores —Kafka, Klemperer, Dadá, el surrealismo, Primo Levi y Semprún, Pasolini, Beckett, Sebald— y el carácter destructivo: Brecht, Arendt y el refugiado, Vonnegut, Lowry, Duras, Carrington. Cierra con las obras que sobreviven a su autor: los Cuadernos de la cárcel de Gramsci y el Libro de los pasajes de Benjamin, y la pregunta de cómo se construye una obra póstuma.",
+  "meta": [
+    { "k": "Régimen", "v": "PD", "small": "3 parciales" },
+    { "k": "Carga", "v": "96 hs", "small": "1º cuatrim. 2026" },
+    { "k": "Unidades", "v": "5", "small": "programa 2026" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · fuentes ✓" }
+  ],
+  "frame": "Contenido real del programa 2026 de Literatura del Siglo XX (1º cuatrimestre), profesores BENTIVEGNA, Diego y DÍAZ, Valentín, publicado en letras.filo.uba.ar y firmado también por Carina Zubillaga, Directora del Departamento de Letras. El programa se titula «Destrucción y supervivencia: un siglo». Doble codificación en la propia fuente: 0567 (Plan 1985) y 15041 (Plan 2023) — es la misma materia. Los dos profesores firman con el cargo «JTP con extensión de funciones»; el programa aclara al pie que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». SELECCIÓN DECLARADA: se dibujan como nodo libro únicamente los volúmenes de las secciones «Fuentes» (los textos literarios que se leen), una entrada por obra (Hofmannsthal y el Zang Tumb Tumb de Marinetti agrupan dos volúmenes cada uno, divulgado en las contradicciones). Las secciones «Bibliografía obligatoria» y «Bibliografía complementaria» del programa —crítica y teoría, mucho más extensas: Agamben, Badiou, Benjamin, Deleuze y Guattari, Derrida, Didi-Huberman, Foucault, Hamacher, Link, Said, Ette, Esposito, entre muchos otros— NO se dibujan. EXCLUSIONES CONSISTENTES, en las propias «Fuentes»: los dossiers de cátedra (Dossier Levi, Dossier Montale, Dossier Pasolini, Dossier Ungaretti, todos editados por D. Bentivegna para la Cátedra de Literatura del Siglo XX, UBA-FFyL) no son volumen publicado; el artículo de Apollinaire «El nuevo espíritu y los poetas» aparece en una revista (Gradiva Revista Literaria, 1989); la traducción de Fondane «Intermedio. Cólera de la visión» sólo se consigna como enlace a un blog. FILMOGRAFÍA declarada por el programa, no dibujada como libro: Pier Paolo Pasolini, «Apuntes para una Orestíada africana» (Italia, 1970, 65 min.) en la Unidad 3, y Werner Herzog, «La Soufrière» (Alemania, 1977, 30 min.) en la Unidad 4. Las Unidades 3, 4 y 5 encabezan su sección como «Fuentes (sólo las no nombradas en unidades anteriores)», de modo que la asignación de cada volumen a una unidad es la del programa y no excluye su uso en otras. CONTRADICCIONES REGISTRADAS, no resueltas: (a) Homo sacer. El poder soberano y la nuda vida de Agamben se cita como Valencia, Pre-Textos, 2005 en la Unidad 2 y como Valencia, Pre-Textos, 2001 en la Unidad 3, con el mismo traductor (A. Gimeno Cuspinera); (b) la fundamentación fecha Mímesis de Auerbach en 1946, mientras la bibliografía cita la edición del Fondo de Cultura Económica, México, 1950; (c) «Una carta» de Hofmannsthal figura con dos ediciones distintas —Valencia, Pre-Textos, sin año (Unidad 1) y México, FCE, 1990 (Unidad 2)—; (d) Zang Tumb Tumb de Marinetti figura en la traducción castellana de Juan Bonilla (Point de Lunettes, Sevilla, 2010, Unidad 3) y en el original italiano (Edizioni Futuriste di «Poesia», Milán, 1914, Unidad 4); (e) Mil mesetas de Deleuze y Guattari se cita en la Unidad 2 como Valencia, Pre-Textos, 2002 y en la Unidad 3 como Barcelona, Pre-textos, 2002. DATOS FALTANTES EN EL ORIGINAL: algunas entradas de «Fuentes» no consignan editorial y/o año (Hofmannsthal, «Una carta», Pre-Textos; Schwarzenbach, «El valle feliz», trad. J. C. Otal) y se dibujan tal como están impresas. El programa numera las cuatro primeras unidades entre corchetes («Unidad [1]») y la quinta sin corchetes («Unidad 5»); acá se numeran 1 a 5. Este nodo sólo se apoya en el programa 2026: no se afirma nada sobre otras cátedras ni sobre programas de años anteriores de esta materia.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Lo que se destruye, lo que queda",
+      "note": "Cada unidad del programa Bentivegna–Díaz 2026 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LITERATURA DEL SIGLO XX — «Destrucción y supervivencia: un siglo»\n│\n├─ 1 · LO QUE QUEDA DEL SIGLO\n│      ¿existió realmente un siglo XX? · Auerbach y la figura\n│      Nachleben (Warburg) · Überleben (Kafka) · Fortleben (Benjamin)\n│      Conrad, James, Faulkner, Hofmannsthal, Pirandello · Canetti · Agamben\n│\n├─ 2 · LA LENGUA HERIDA\n│      ¿tiene lugar la poesía? · monolingüismo y translingüismo\n│      el frente: Ungaretti, Pound · el exterminio: Fondane, Ajmátova\n│      después de Auschwitz: Celan, Ausländer · hablar y aullar: Artaud, Ginsberg\n│\n├─ 3 · CONSTRUCTORES Y DESPOBLADORES\n│      ¿qué es un pueblo? · Kafka y el pozo de Babel · Klemperer, Schwarzenbach\n│      manifiestos y revoluciones: Dadá, Acéphale, surrealismo, Bataille, Carrington\n│      el campo: Primo Levi, Semprún · Wilcock, Montale, Pasolini\n│      Vonnegut, Sebald, Duras, Beckett, Fitzgerald, Blanchot\n│\n├─ 4 · EL CARÁCTER DESTRUCTIVO\n│      ¿cómo desertar? · Brecht · Arendt: el refugiado como figura\n│      Vonnegut · Klemperer y los discursos del odio · Schwarzenbach\n│      la ruina, Ungaretti y lo iletrado · Pound · Lowry, Duras, Fitzgerald, Carrington · Sebald\n│\n└─ 5 · OBRAS SUPERVIVIENTES\n       ¿cómo se hace una obra? · los Cuadernos de la cárcel y los Pasajes parisinos\n       el editor como productor: Adorno, Scholem, Togliatti, Gerratana\n       Gramsci y Benjamin, políticos filólogos · Negri · Mariátegui · lo «póstumo»",
+        "foot": "Temas del programa Bentivegna–Díaz 2026. El recorrido va del siglo como objeto problemático a la lengua herida, del campo y los manifiestos al carácter destructivo, y cierra con la obra que sobrevive a su autor."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.lo-que-queda-del-siglo",
+          "name": "Lo que queda del siglo",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.la-lengua-herida",
+          "name": "La lengua herida",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.constructores-y-despobladores",
+          "name": "Constructores y despobladores",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.el-caracter-destructivo",
+          "name": "El carácter destructivo",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.obras-supervivientes",
+          "name": "Obras supervivientes",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes del programa",
+      "title": "Los textos que se leen",
+      "note": "Volúmenes de las secciones «Fuentes» del programa 2026, por unidad, en las ediciones que el programa consigna. La bibliografía obligatoria y complementaria (crítica y teoría) no se dibuja; tampoco los dossiers de cátedra, el artículo de revista de Apollinaire, la traducción de Fondane publicada en un blog ni la filmografía (Pasolini, Herzog). Las unidades 3, 4 y 5 listan «sólo las no nombradas en unidades anteriores». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-coetzee",
+          "name": "Elizabeth Costello — J. M. Coetzee (Mondadori, Barcelona, 2004), «Letter of Elizabeth, Lady Chandos», trad. Pedro Tena Tena",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-conrad",
+          "name": "El corazón de las tinieblas — Joseph Conrad (Eterna Cadencia, Buenos Aires, 2021), trad. J. Fondebrider",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-hofmannsthal",
+          "name": "Una carta — Hugo von Hofmannsthal (Pre-Textos, Valencia, trad. J. M. Millanes, sin año en el programa; también citado como «Una carta» en La carta de Lord Chandos y algunos poemas, FCE, México, 1990)",
+          "role": "Unidades 1 y 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-james",
+          "name": "Otra vuelta de tuerca — Henry James (El cuenco de Plata, Buenos Aires, 2011), trad. J. Bianco",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-pirandello",
+          "name": "La vida desnuda. Cuentos para un año I — Luigi Pirandello (Nórdica, Madrid, 2015), «¡Requiem aeternam dona eis, Domine!», trad. M. de Chiara",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-artaud",
+          "name": "Para terminar con el juicio de dios · El teatro de la crueldad — Antonin Artaud (Cuenco de Plata, Buenos Aires, 2014), trad. S. Mattoni",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-ajmatova",
+          "name": "Requiem. Poema sin héroe — Ana Ajmátova (Cátedra, Madrid, 2006), «Requiem», trad. J. García Gabaldón",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-auslander",
+          "name": "Hacia la vida. Obra temprana (1939-1967) — Rose Ausländer (Alción, Córdoba, 2023), «Humo», «Palabra de sauce», «Cabello gris», «Un día en el exilio», trad. G. Gutiérrez-Wienken",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-brecht-80-poemas",
+          "name": "80 poemas y canciones — Bertolt Brecht (Adriana Hidalgo, Buenos Aires, 1999), «Desmantelamiento del carguero Oskawa por su tripulación», trad. J. Hacker",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-celan",
+          "name": "Obras completas — Paul Celan (Trotta, Madrid, 1999), trad. J. M. Reina Palazón (selección)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-ginsberg",
+          "name": "Aullido y otros poemas — Allen Ginsberg (Visor, Madrid, 1993), «Aullido»",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-kafka-america",
+          "name": "América · La condena · La muralla china — Franz Kafka (Seix Barral, Barcelona, 1985), «En la colonia penitenciaria», «Josefina la cantora o el pueblo de los ratones», «Un artista del hambre»",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-kafka-diarios",
+          "name": "Diarios — Franz Kafka (Emecé, Buenos Aires, 1953), trad. J. R. Wilcock (selección)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-vallejo",
+          "name": "Poesía completa — César Vallejo (Casa de las Américas, La Habana, 1988), «Solía escribir con un dedo grande en el aire…», ed. R. Hernández Novás",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-acephale",
+          "name": "Acéphale (Caja Negra, Buenos Aires, 2005), trad. M. Martínez — G. Bataille, «La conjuración sagrada»; P. Klossowski, «El monstruo»",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-beckett-relatos",
+          "name": "Relatos — Samuel Beckett (Tusquets, Barcelona, 1999), «El despoblador», trad. F. de Azúa",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-beckett-teatro",
+          "name": "Teatro reunido — Samuel Beckett (Tusquets, Barcelona, 2001), «La última cinta de Krapp», trad. F. de Azúa, A. M. Moix y J. Sanchis",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-blanchot",
+          "name": "El instante de mi muerte · La locura de la luz — Maurice Blanchot (Tecnos, Madrid, 2004), trad. A. Ruiz",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-breton",
+          "name": "Manifiestos del surrealismo — André Breton (Argonauta, Buenos Aires, 2001), trad. A. Pellegrini",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-cage",
+          "name": "Escribir en el agua — John Cage (Caja Negra, Buenos Aires, 2021), trad. Laura Kuhn (fragmentos)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-carrington",
+          "name": "Memorias de abajo — Leonora Carrington (Alpha Decay, Madrid, 2017), trad. F. Torres Oliver",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-duras",
+          "name": "El dolor — Marguerite Duras (Alianza, Madrid, 2019), trad. Clara Janés",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-fitzgerald",
+          "name": "El crack-up — Francis Scott Fitzgerald (Crackup, Buenos Aires, 2011), trad. M. Cohen",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-kafka-narraciones",
+          "name": "Narraciones y otros escritos (selección) — Franz Kafka (Galaxia Gutenberg, Barcelona, 2003), ed. J. Llovet, trad. J. Parra Contreras, A. Kovacsics y J. J. del Solar",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-klemperer-lti",
+          "name": "LTI. La lengua del Tercer Reich. Apuntes de un filólogo — Victor Klemperer (Minúscula, Barcelona, 2016), trad. A. Kovacsics (selección)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-klemperer-diarios",
+          "name": "Quiero dar testimonio hasta el final. Diarios 1933-1945 — Victor Klemperer (Galaxia Gutenberg, Barcelona, 2022), trad. C. Gauger (selección)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-levi",
+          "name": "Trilogía de Auschwitz — Primo Levi (Austral, Madrid, 2021), «Si esto es un hombre», trad. P. Gómez",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-marinetti-manifiestos",
+          "name": "Manifiestos y textos futuristas — F. T. Marinetti (Ediciones del Cotal, Barcelona, 1978), trad. Cari Sanz",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-marinetti-zang",
+          "name": "Zang Tumb Tumb — F. T. Marinetti (ed., trad. y prólogo de Juan Bonilla, Point de Lunettes, Sevilla, 2010, «El bombardeo en Adrianópolis»; el programa cita también el original Zang tumb tumb Adrianopoli Ottobre 1912, Edizioni Futuriste di «Poesia», Milán, 1914)",
+          "role": "Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-montale",
+          "name": "Poesía completa — Eugenio Montale (Círculo de lectores, Madrid, 2006), «Dora Markus», trad. F. Morábito",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-pasolini-divina-mimesis",
+          "name": "La Divina Mímesis — Pier Paolo Pasolini (El cuenco de Plata, Buenos Aires, 2011), trad. D. Bentivegna",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-russolo",
+          "name": "El arte de los ruidos — Luigi Russolo (Dobra Robota Editorial, Ciudad Autónoma de Buenos Aires, 2021), prólogo y trad. Luciano Chessa",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-schwarzenbach-persia",
+          "name": "Muerte en Persia — Annemarie Schwarzenbach (Minúscula, Barcelona, 2003), trad. R. Gross y M. E. Romero",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-schwarzenbach-valle",
+          "name": "El valle feliz — Annemarie Schwarzenbach, trad. J. C. Otal (el programa no consigna editorial ni año)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-sebald-austerlitz",
+          "name": "Austerlitz — W. G. Sebald (Anagrama, Barcelona, 2002), trad. M. Sáenz",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-semprun",
+          "name": "La escritura o la vida — Jorge Semprún (Tusquets, Barcelona, 1995), «El paraguas de Bakunin», trad. T. Kauf",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-shklovski",
+          "name": "Escritos sobre arte y literatura — V. Shklovski (Ediciones Asimétricas, Madrid, 2021), «La resurrección de la palabra», trad. Cristian Cámara Outes",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-tzara",
+          "name": "Siete manifiestos Dada — Tristan Tzara (Tusquets, Barcelona, 2000), «Manifiesto Dada 1918»",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-vonnegut-matadero",
+          "name": "Matadero cinco — Kurt Vonnegut (Tusquets, Barcelona, 2000), trad. M. García",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-wilcock",
+          "name": "El caos — Juan Rodolfo Wilcock (Sudamericana, Buenos Aires, 1999), «El caos»",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-arendt-refugiados",
+          "name": "Nosotros, refugiados — Hannah Arendt (Altamarea, Madrid, 2022), trad. L. Suárez",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-brecht-abc",
+          "name": "ABC de la guerra — Bertolt Brecht (Ediciones del Caracol, Madrid, 2004), trad. V. Romano",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-herzog",
+          "name": "Del caminar sobre el hielo — Werner Herzog (Entropía, Buenos Aires, 2015), trad. A. Magnus",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-lowry",
+          "name": "Bajo el volcán — Malcolm Lowry (Tusquets, Barcelona, 2000), trad. R. Ortiz y Ortiz",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-pound-cantos",
+          "name": "Cantos — Ezra Pound (Sexto Piso, México, 2019), «Canto I», «Canto III», «Canto XVI», trad. J. de Jager",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-ungaretti",
+          "name": "La alegría · La tierra prometida — Giuseppe Ungaretti (Fausto, Buenos Aires, 1974), «Soldados», «El puerto sepultado», «In memoriam», «Pueblo», «Hermanos», trad. O. Frattoni",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-benjamin-pasajes",
+          "name": "Libro de los pasajes — Walter Benjamin (Akal, Madrid, 2005), ed. Rolf Tiedemann, «C: París arcaico, catacumbas, demoliciones, ocaso de París» y «N: Teoría del conocimiento, teoría del progreso»",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-del-siglo-xx.libro-gramsci-cuadernos",
+          "name": "Cuadernos de la cárcel, Vol. V — Antonio Gramsci (Era, México, 1999), ed. V. Gerratana e Instituto Gramsci, trad. A. M. Palos — «Concepto de “nacional-popular”», «En los márgenes de la historia», «Notas para una introducción al estudio de la gramática»",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa 2026 (1º cuatrimestre) — Literatura del Siglo XX, cód. 0567 (Plan 1985) / 15041 (Plan 2023), profesores Diego Bentivegna y Valentín Díaz, «Destrucción y supervivencia: un siglo»",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0567%20-%2015041%20LITERATURA%20DEL%20SIGLO%20XX%202026.pdf"
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "address": "uba.ffyl.letras.historia-de-la-lengua-espanola",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — 3 instancias de evaluación parcial, con 1 recuperatorio, según el Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 horas (mínimo de 6 y máximo de 10 horas semanales de dictado)",
+    "cuatrimestre": "2º",
+    "codigo": "0565 (Plan 1985) · Plan 2023: el mismo PDF imprime 15059 en la carátula y 15069 en el encabezado del cuerpo",
+    "nombreEnLosPlanes": "HISTORIA DE LA LENGUA (Plan 1985) · HISTORIA DE LA LENGUA ESPAÑOLA (Plan 2023) — el programa declara los dos nombres como la misma materia",
+    "catedra": "Depto. de Letras · Prof. Juan Héctor Fuentes (firma como \"Prof. Adjunto a cargo\") · programa 2º cuatrimestre 2026",
+    "equipoDocente": [
+      "FUENTES, Juan Héctor (a cargo)",
+      "HEIT, Silvia (JTP)",
+      "PRUNES, Natalia (JTP)",
+      "MARTIGNONE, Hernán (ayudante de primera)"
+    ],
+    "modalidad": "presencial, con hasta un 30% de clases en modalidad virtual (REDEC-2024-2526-UBA-DCT#FFYL)",
+    "recomendacion": "Se recomienda tener aprobada la materia Latín I",
+    "unidades": 4,
+    "bibliografia": 38
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.historia-de-la-lengua-espanola",
+      "label": "Historia de la Lengua Española"
+    }
+  ],
+  "eyebrow": "Letras · lingüística · Historia de la Lengua Española",
+  "title": "El latín se rompe y queda el español.",
+  "lede": "La lengua mirada en el eje diacrónico: cómo el latín que se habló en la península ibérica se fragmenta, absorbe el sustrato prerromano y los aportes germánicos y árabes, y termina en el castellano. Se entra por el aparato conceptual —filología, lingüística diacrónica, gramática histórica, y el cambio fonético regular frente al esporádico y la analogía—, se sigue por la evolución misma (reducción del sistema vocálico, sonorización de oclusivas intervocálicas, diptongación, /f-/ > /h-/ > /Ø-/, sibilantes, palatales, yeísmo, morfosintaxis histórica, léxico), se pasa por las tres estandarizaciones del castellano —Alfonso X, Nebrija, la Real Academia— y se cierra con la parte especial: paleografía hispánica y crítica textual, editar de verdad un texto medieval con los criterios de la red CHARTA.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Historia de la Lengua Española, cátedra del Prof. Juan Héctor Fuentes, 2º cuatrimestre 2026, publicado en letras.filo.uba.ar. El programa no consigna otras cátedras para la materia. EQUIVALENCIA DE NOMBRE (hecho del propio programa): el encabezado declara \"HISTORIA DE LA LENGUA (Plan 1985)\" y \"HISTORIA DE LA LENGUA ESPAÑOLA (Plan 2023)\" como la misma asignatura, con código 0565 por el Plan 1985. CONTRADICCIÓN REGISTRADA sobre el código del Plan 2023: la carátula del PDF imprime 15059 y el encabezado del cuerpo imprime 15069; el programa no resuelve cuál es el válido y acá tampoco se resuelve. ERRATA DEL ORIGINAL: dentro de la UNIDAD 2 el primer bloque está numerado \"1.1\" y \"1.1.1\"–\"1.1.4\" —repitiendo la numeración de la Unidad 1— antes de continuar en \"2.2\"; acá se respeta la secuencia impresa y no se renumera. El programa declara una recomendación, no una correlativa: \"Se recomienda tener aprobada la materia Latín I\". SELECCIÓN DECLARADA de bibliografía: se dibujan únicamente los volúmenes de la sección \"d. Bibliografía\" (la lista por unidad); NO se dibujan las secciones BIBLIOGRAFÍA COMPLEMENTARIA ni BIBLIOGRAFÍA GENERAL, que el programa lista aparte. EXCLUSIONES DECLARADAS dentro de esa sección: no se dibujan como libro los artículos de revista (Sánchez Lancis en Studi General; Moure en Olivar; Rivarola en Lexis) ni los capítulos o contribuciones en obras colectivas y actas (Beltrán Lloris en el volumen coordinado por Cano Aguilar —volumen que sí se dibuja, porque el programa lo lista además como entrada propia—; Varvaro en el volumen editado por Wright; Niederehe en las actas del congreso de Murcia). Tampoco se dibuja el corpus de textos a trabajar (Appendix probi, Biblia en versiones Afra y Vulgata, Glosas de Reichenau, Glosas silenses y emilianenses, textos aljamiados hebreos y árabes, Auto de los Reyes Magos, Poema de Mio Cid, poemas del Mester de Clerecía, prosa de Alfonso el Sabio, don Juan Manuel y Pero López de Ayala, textos escogidos del Renacimiento y el Barroco, textos americanos), porque el propio programa lo declara orientativo y sujeto a cambio o reducción. Los títulos se transcriben tal como están impresos en el programa, incluidas sus grafías (\"Vänänën\", \"Crítica-Mondador\", \"español de Africa\", \"la linguistica de su tiempo\"). REPETICIONES DEL ORIGINAL: Lloyd aparece dos veces (bloques A y B, en dos formas del título que el propio programa equipara), Cano (coord.) dos veces (una como entrada propia, otra como sede de un capítulo); el Manual de gramática histórica española de Menéndez Pidal aparece dos veces en la Unidad 2 (bloques A y B) y Variación y cambio en español de Penny tres veces (Unidad 2 A, Unidad 2 B y Unidad 3); cada obra se dibuja una sola vez y el rol nombra todas sus unidades. La etiqueta \"lingüística\" del eyebrow proviene del nodo padre uba.ffyl.letras, no del programa: el programa no consigna orientación.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "Del latín de Hispania a la edición del texto",
+      "note": "Cada unidad del programa Fuentes 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "HISTORIA DE LA LENGUA ESPAÑOLA · 0565 (Plan 1985) · cátedra Fuentes\n│\n├─ 1 · INTRODUCCIÓN\n│   ├─ 1.1 · Historia, lengua y cultura · filología, lingüística diacrónica,\n│   │        gramática histórica, historia de la lengua · fuentes y testimonios\n│   └─ 1.2 · Variación y cambio lingüístico · neogramáticos, antropología\n│            lingüística, estructuralismo, modelo generativo · cambio regular\n│            y esporádico · asimilación, disimilación, metátesis, apócope,\n│            síncopa, aféresis, epéntesis · analogía\n│\n├─ 2 · HISTORIA Y EVOLUCIÓN\n│   ├─ (impreso «1.1») · El latín y las lenguas prerromanas · indoeuropeo,\n│   │        latín temprano y tardío, «latín vulgar» y «protorromance»,\n│   │        España prerromana, sustrato, préstamo, topónimos, interferencia\n│   └─ 2.2 · Fragmentación dialectal de la Romania · influjo germánico y árabe\n│            · romance primitivo, reducción del sistema vocálico, sonorización\n│              de oclusivas intervocálicas\n│            · castellano primitivo, diptongación, yodización\n│            · germanismos y arabismos, Reconquista\n│            · /f-/ > /h-/ > /Ø-/, sibilantes, palatales, yeísmo\n│            · glosas, documentos notariales, castellano alfonsí, siglo XIV,\n│              aljamía y judeoespañol\n│            · morfosintaxis histórica · sistema nominal, pronominal, verbal,\n│              pronombres de tratamiento, voseo\n│            · el léxico · latinismos, mozarabismos, préstamos\n│\n├─ 3 · LA ESTANDARIZACIÓN DEL CASTELLANO\n│   ├─ 3.1 · Alfonso X el Sabio · la actividad traductora del siglo XIII ·\n│   │        primera estandarización\n│   ├─ 3.2 · Nebrija · la lengua «compañera del Imperio» · segunda\n│   ├─ 3.3 · La Real Academia Española · tercera · de «limpia, fija y da\n│   │        esplendor» a «Unidad en la diversidad»\n│   ├─ 3.4 · Base lingüística del español americano · la ASALE\n│   └─ 3.5 · Las polémicas con el Instituto Cervantes\n│\n└─ 4 · PARTE ESPECIAL · fuentes y documentos · paleografía hispánica y\n       crítica textual\n    ├─ 4.1 · ¿Qué es la edición de textos? · metodología neolachmanniana\n    ├─ 4.2 · La tradición ecdótica hispánica · Escuela Filológica Española ·\n    │        Menéndez Pidal · crítica genética\n    ├─ 4.3 · Criterios de transcripción y editoriales de la red CHARTA\n    └─ 4.4 · La edición de textos hispánicos e hispanoamericanos en Argentina",
+        "foot": "Sobre esas cuatro unidades corre un corpus de textos que el programa declara orientativo y modificable: Appendix probi, las versiones Afra y Vulgata de la Biblia, las Glosas de Reichenau, las silenses y emilianenses, textos aljamiados hebreos y árabes, el Auto de los Reyes Magos, el Poema de Mio Cid, el Mester de Clerecía, prosa de Alfonso el Sabio, don Juan Manuel y Pero López de Ayala, textos del Renacimiento y el Barroco, y textos americanos."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.introduccion",
+          "name": "Introducción · historia, lengua y cultura; variación y cambio lingüístico",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.historia-y-evolucion",
+          "name": "Historia y evolución · del latín y las lenguas prerromanas a la fragmentación de la Romania",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.estandarizacion-del-castellano",
+          "name": "La estandarización del castellano",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.fuentes-y-documentos",
+          "name": "Parte especial · aproximación a fuentes y documentos · nociones de paleografía hispánica y crítica textual",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía por unidad (sección «d. Bibliografía»)",
+      "title": "El aparato de lectura",
+      "note": "Volúmenes de la bibliografía por unidad del programa Fuentes 2026. No se dibujan los artículos de revista ni los capítulos en obras colectivas y actas, ni las secciones BIBLIOGRAFÍA COMPLEMENTARIA y BIBLIOGRAFÍA GENERAL que el programa lista aparte. Títulos transcriptos como están impresos. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-alonso-estudios-linguisticos",
+          "name": "Estudios lingüísticos — A. Alonso (Gredos, 1961)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-anderson",
+          "name": "Aspectos estructurales del cambio lingüístico — J. M. Anderson (Gredos, 1977)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-fishman",
+          "name": "Sociología del lenguaje — J. Fishman (Cátedra, 1995)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lehmann",
+          "name": "Introducción a la lingüística histórica — W. P. Lehmann (Gredos, 1976)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-renzi",
+          "name": "Introducción a la filología románica — L. Renzi (Gredos, 1982)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-santos-dominguez",
+          "name": "Manual de semántica histórica — L. A. Santos Domínguez (Síntesis, 1996)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-iordan-manoliu",
+          "name": "Manual de lingüística románica — I. Iordan y M. Manoliu (2ª ed., Gredos, 1972)",
+          "role": "Unidad 2 · A. Filología románica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lathrop",
+          "name": "Curso de gramática histórica española — Th. Lathrop (Ariel, 1984)",
+          "role": "Unidad 2 · A. Filología románica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lloyd",
+          "name": "Del latín al español — P. M. Lloyd (Gredos, 1992), cap. 1 · original: From Latin to Spanish (American Philosophical Society, 1987)",
+          "role": "Unidad 2 · bloques A y B",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-menendez-pidal-manual",
+          "name": "Manual de gramática histórica española — R. Menéndez Pidal (Espasa-Calpe, 1962)",
+          "role": "Unidad 2 · bloques A y B",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-penny-variacion",
+          "name": "Variación y cambio en español — R. Penny (Gredos, 2004)",
+          "role": "Unidades 2 (A y B) y 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-vananen",
+          "name": "Introducción al latín vulgar — V. Vänänën (Gredos, 1971) · así impreso en el programa",
+          "role": "Unidad 2 · A. Filología románica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-wright",
+          "name": "Latín tardío y romance temprano — R. Wright (Gredos, 1983)",
+          "role": "Unidad 2 · A. Filología románica",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-alonso-idioma-nacional",
+          "name": "Castellano, español, idioma nacional — A. Alonso (Losada, 1943)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-alvar-pottier",
+          "name": "Morfología histórica del español — M. Alvar y B. Pottier (Gredos, 1983)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-cano-aguilar-a-traves-de-los-tiempos",
+          "name": "El español a través de los tiempos — R. Cano Aguilar (Arco, 1988)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-cano-historia-lengua",
+          "name": "Historia de la lengua española — R. Cano (coord.) (Ariel, 2004) · en el bloque A aparece solo como sede del capítulo «El latín en la Hispania romana», de F. Beltrán Lloris (capítulo excluido por la regla)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lapesa-historia",
+          "name": "Historia de la lengua española — R. Lapesa (8ª ed. aum., Gredos, 1980)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lapesa-moderno-contemporaneo",
+          "name": "El español moderno y contemporáneo. Estudios lingüísticos — R. Lapesa (Crítica-Mondador, 1996)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lapesa-morfosintaxis",
+          "name": "Estudios de morfosintaxis histórica del español — R. Lapesa (Gredos, 2000)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-lipski",
+          "name": "El español de América — J. M. Lipski (Cátedra, 1996)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-marcos-marin",
+          "name": "Dominio y lenguas en el Mediterráneo occidental hasta los inicios del español — F. Marcos Marín (IVEMIR-UCV / Ultreia Editorial, 2023)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-menendez-pidal-primeros-tiempos",
+          "name": "El idioma español en sus primeros tiempos — R. Menéndez Pidal (Espasa Calpe, 1942)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-menendez-pidal-origenes",
+          "name": "Orígenes del español — R. Menéndez Pidal (Espasa-Calpe, 1962)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-menendez-pidal-siglo-xvii",
+          "name": "La lengua castellana en el siglo XVII — R. Menéndez Pidal (Espasa-Calpe, 1991)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-menendez-pidal-historia",
+          "name": "Historia de la lengua española — R. Menéndez Pidal (Fundación Menéndez Pidal, 2007)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-penny-gramatica-historica",
+          "name": "Gramática histórica del español — R. Penny (Ariel, 1993)",
+          "role": "Unidad 2 · B. Gramática histórica e historia de la lengua",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-alonso-temas-hispanoamericanos",
+          "name": "Estudios lingüísticos. Temas hispanoamericanos — A. Alonso (Gredos, 1963)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-de-granda",
+          "name": "Español de América, español de Africa y hablas criollas hispánicas. Cambios, contactos y contextos — G. de Granda (Gredos, 1994)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-niederehe-alfonso-x",
+          "name": "Alfonso X el Sabio y la linguistica de su tiempo — H.-J. Niederehe (SGEL, 1987)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-ramirez-luengo",
+          "name": "Breve historia del español de América — J. L. Ramírez Luengo (Arco/Libros, 2007)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-rodriguez-iglesias",
+          "name": "La lógica de inferiorización de las variedades lingüísticas no dominantes. Etnografía sociolingüística crítica del andaluz — I. Rodríguez-Iglesias (Peter Lang, 2022)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-blecua",
+          "name": "Manual de Crítica Textual — A. Blecua (Castalia, 1983)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-orduna-ecdotica",
+          "name": "Ecdótica. Problemas de la edición de textos — G. Orduna (Edition Reichenberger, 2000)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-orduna-fundamentos",
+          "name": "Fundamentos de Crítica Textual — G. Orduna (Arco Libros, 2005)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-perez-priego",
+          "name": "Historia del libro y edición de textos — M. A. Pérez Priego (UNED, 2018)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-riesco-terrero",
+          "name": "Introducción a la Paleografía y Diplomática general — A. Riesco Terrero (ed.) (Síntesis, 2004)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.historia-de-la-lengua-espanola.libro-sanchez-prieto-borja",
+          "name": "Cómo editar los textos medievales. Criterios para su presentación gráfica — P. Sánchez Prieto-Borja (Arco Libros, 1998)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Historia de la Lengua (Plan 1985) / Historia de la Lengua Española (Plan 2023), código 0565 · cátedra Juan Héctor Fuentes, 2º cuatrimestre 2026 · modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL · firmado por Juan Héctor Fuentes (Prof. Adjunto a cargo) y Carina Zubillaga (Directora, Departamento de Letras)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0565%2015059%20HISTORIA%20DE%20LA%20LENGUA%20ESPA%C3%91OLA%20FUENTES%202026.pdf"
+  }
+}

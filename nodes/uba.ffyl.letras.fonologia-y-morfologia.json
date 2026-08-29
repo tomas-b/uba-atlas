@@ -1,0 +1,331 @@
+{
+  "address": "uba.ffyl.letras.fonologia-y-morfologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales: 4 hs de clases teóricas y 2 hs de clases prácticas)",
+    "cuatrimestre": "2º",
+    "codigo": "0569 (Plan 1985) · 15047 (Plan 2023)",
+    "catedra": "Depto. de Letras · Prof. Vanina Andrea Barbeito · 2º cuatrimestre 2026 · el programa no consigna letra de cátedra; la firma dice «Prof. Adjunta Interina-JTP Regular (con la Cátedra a cargo)»",
+    "catedras": "2 (según las páginas de cátedra del sitio del Departamento, no el programa)",
+    "equipoDocente": [
+      "BARBEITO, Vanina (profesora adjunta)",
+      "TRÍPODI, Mónica (jefa de trabajos prácticos)",
+      "GUTIÉRREZ BÖHMER, Sofía (ayudante de 1ª)",
+      "AUDISIO, Cynthia (ayudante de 1ª)"
+    ],
+    "tituloDelPrograma": "Fonología y morfología del español: fundamentos y aplicaciones",
+    "modalidad": "presencial, con la opción de hasta 30% de las clases en modalidad virtual (REDEC-2024-2526-UBA-DCT#FFYL)",
+    "evaluacion": "3 instancias de evaluación parcial (Reglamento Académico, Res. (CD) Nº 4428/17) · Opción A: 80% de asistencia y promedio ≥ 7 sin aplazos · Opción B: 75% de prácticos, ≥ 4 en cada parcial y EXAMEN FINAL · 1 recuperatorio",
+    "unidades": 6,
+    "bibliografia": 25
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.fonologia-y-morfologia",
+      "label": "Fonología y Morfología"
+    }
+  ],
+  "eyebrow": "Letras · códigos 0569 / 15047 · Fonología y Morfología",
+  "title": "Del aire que sale a la cláusula que se arma.",
+  "lede": "Fonología y morfología del español mirados desde el Enfoque cognitivo-prototípico, con la prosodia como eje. Se empieza por el cuerpo —anatomía y fisiología del habla, punto y modo de articulación, el Alfabeto Fonético Internacional— y se pasa al espectrograma: frecuencia, duración, intensidad, formantes, frecuencia fundamental, percepción categórica. Después la fonología: fonema y alófono, distribución complementaria, la sílaba y la resilabación, el acento, el ritmo, las formas entonativas del español. Después la palabra: derivación, prefijación, interfijación, composición, flexión, y las alternancias donde la morfología se toca con el sonido. El recorrido cierra en la interfaz: aposición, construcciones de realce, hendidas, ditransitivas y condicionales con «si», leídas sobre corpora del español del Río de la Plata.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "programa 0569"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Fonología y Morfología, códigos 0569 (Plan 1985) y 15047 (Plan 2023), a cargo de la Prof. Vanina Andrea Barbeito, 2º cuatrimestre 2026, publicado en el sitio del Departamento de Letras (letras.filo.uba.ar). El PDF figura en la página «Programación 2C» del Departamento, donde la materia aparece listada como «Fonología y Morfología (PD) - BARBEITO», sin letra de cátedra; el listado general «Materias y cátedras» de letras.filo.uba.ar no incluye una entrada para esta materia, pero el sitio sí tiene dos páginas de cátedra propias: «Fonología y morfología - BORZI, Claudia» (Profesor Asociado - Regular, 2º cuatrimestre, último programa aprobado: Programa 2014) y «Fonología y morfología - GIAMMATTEO, Mabel» (Profesor Titular - Regular, 1º cuatrimestre, último programa aprobado: Programa 2021, con programas 2016 y 2018 — el PDF de 2021 se archiva como «0569 FONOLOGÍA Y MORFOLOGÍA B GIAMMATTEO»). El programa Barbeito 2026 no consigna a qué cátedra corresponde y aquí no se le asigna ninguna. Marco declarado en el propio programa: el Enfoque cognitivo-prototípico y el supuesto de la motivación del signo lingüístico; el equipo integra el grupo de investigación en Fonética/fonología y Gramática del español (UBACyT 20020220400150BA, 2022-2026, dirigido por Barbeito; FILOCyT FC19-11 y FC19-016), y trabaja sobre los cuerpos de datos de AMER.ES.CO, PRESEEA-Buenos Aires, La Norma Culta Hispánica «Juan M. Lope Blanch» y PRECAVES. SELECCIÓN DECLARADA de la bibliografía: se dibujan como libro los volúmenes monográficos y colectivos citados como tales —con pie de imprenta, salvo Bybee 2004, citado sin pie y dibujado con esa aclaración en su nombre—; volúmenes colectivos, indicando el capítulo cuando el programa cita uno—; quedan fuera, de modo uniforme, los artículos de revista, las ponencias, las actas de congresos y jornadas y las tesis doctorales (entre ellas Pierrehumbert 1980, PhD thesis MIT, y Sosa 1991, University of Massachussets Ph. D. Dissertation» —grafía del programa—), que en la Unidad 6 y en la bibliografía general son la mayor parte de las entradas de la Unidad 6 (tomada junto con la general) y son en su mayoría producción del propio equipo (Barbeito, Trípodi, Borzi, García Jurado, Renato). El texto extraído tiene capa de texto limpia: ningún título se descartó por ilegible. CONTRADICCIONES REGISTRADAS, no resueltas: (1) las dos entradas de Harris invierten fecha de entrada y pie de imprenta — «Harris, J. (1975). \"Syllable Structure and Stress in Spanish: a Nonlinear Analysis\". MIT Press, Cambridge, MA, 1983» y «Harris, J. (1983). \"Fonología generativa del español\". Editorial Planeta, Madrid, 1975»; (2) el volumen «Estudios de Lingüística Cognitiva» (EDIUNC, Mendoza, 2012) aparece dos veces con orden de editoras y grafía distintos — «V. Barbeito, L. Miñones y G. Muller (editoras)» y «G. Müller, V. Barbeito y L. Miñones (editoras)»; (3) la entrada de Monachesi está impresa con forma de capítulo — «(2005) \"The Verbal Complex in Romance\". En: A Case Study in Grammatical Interfaces . Oxford.»; (4) Trípodi (2005), «Quaderns digital n˚ 45», lleva fecha de entrada 2005 y de publicación «marzo 2007»; (5) el régimen se declara de PROMOCIÓN DIRECTA (PD) pero la Opción B de aprobación exige rendir EXAMEN FINAL. ERRATAS DEL ORIGINAL conservadas al citar: «Cognitive Linguistcs» en la entrada de Nesset, «Trípodi., Yanagida, R.» en una de las entradas de la Unidad 2, «teh» en la de Garrido et al. La nota al pie del programa aclara que los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "Del sonido a la interfaz",
+      "note": "Cada unidad del programa Barbeito 2026 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "FONOLOGÍA Y MORFOLOGÍA · 0569 / 15047 · Barbeito 2026\n│\n├─ EL SONIDO\n│   ├─ 1 · Conceptos fonéticos\n│   │      producción del habla, sordo/sonoro, punto y modo, vocales, AFI\n│   └─ 2 · Fonética acústica y perceptiva\n│          frecuencia, duración, intensidad, formantes, F0, percepción categórica\n│\n├─ 3 · Fonología del español\n│      fonema y alófono, rasgos, sílaba y resilabación, acento,\n│      ritmo, entonación enunciativa / interrogativa / imperativa, focalización\n│\n├─ LA PALABRA\n│   ├─ 4 · Conceptos morfológicos\n│   │      derivación, prefijación, interfijación, composición, flexión\n│   └─ 5 · Morfofonología\n│          alternancias, supleción, abreviación, truncamiento, flexión verbal\n│\n└─ 6 · Fonética/fonología, morfología y sintaxis\n       monosílabos, ortografía, aposición, realce con 'un…que' y 'tal/tan(to)…que',\n       hendidas, ditransitivas y concordancia, condicionales con 'si'",
+        "foot": "Las cuatro primeras unidades levantan el aparato descriptivo; la quinta lo pone a trabajar donde morfología y fonología se tocan; la sexta abre a la sintaxis, sobre datos del español del Río de la Plata."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.conceptos-foneticos",
+          "name": "Conceptos fonéticos",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.fonetica-acustica-perceptiva",
+          "name": "Fonética Acústica y Perceptiva",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.fonologia-del-espanol",
+          "name": "Fonología del Español · conceptos fonológicos",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.conceptos-morfologicos",
+          "name": "Conceptos morfológicos",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.morfofonologia",
+          "name": "Morfofonología",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.fonologia-morfologia-sintaxis",
+          "name": "Relaciones entre fonética/fonología, morfología y sintaxis",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa",
+      "title": "El aparato de lectura",
+      "note": "Volúmenes citados con pie de imprenta en la bibliografía del programa Barbeito 2026, por unidad, más la bibliografía general. Los artículos de revista, ponencias, actas y tesis doctorales no se dibujan como libro. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-garcia-jurado-arenas",
+          "name": "La fonética del español. Análisis e investigación de los sonidos de habla — M. A. García Jurado y M. Arenas (Quorum/UMSA, Buenos Aires, 2005)",
+          "role": "Unidades 1 y 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-burquest",
+          "name": "Análisis fonológico. Un enfoque funcional — D. Burquest (SIL International, Dallas, 2006)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-hualde-introduccion",
+          "name": "Introducción a la Lingüística Hispánica — J. I. Hualde, A. Olarrea, A. M. Escobar y C. Travis (eds.) (Cambridge University Press, 2010) · cap. Hualde, “Los sonidos de la lengua: fonética y fonología”",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-quilis",
+          "name": "Tratado de Fonología y Fonética Españolas — A. Quilis (Gredos, Madrid, 1993)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-nueva-gramatica-rae",
+          "name": "Nueva Gramática de la Lengua Española — Real Academia Española (Espasa, 2009)",
+          "role": "Unidad 3 (Tomo 3 · Fonética y Fonología, pp. 283-326, 355-371, 444-478) · Unidades 4 y 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-ludtke",
+          "name": "La formación de palabras en las lenguas románicas. Su semántica en diacronía y sincronía — J. Lüdtke (El Colegio de México, 2011), pp. 67-98",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-gramatica-descriptiva",
+          "name": "Gramática descriptiva de la lengua española — I. Bosque y V. Demonte (coords.) (Espasa, Madrid, 1999) · Portolés, “La interfijación”; Alcoba, “La flexión verbal”; Pensado, “Morfología y Fonología. Fenómenos morfofonológicos”",
+          "role": "Portolés U4 · Alcoba y Pensado U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-monachesi",
+          "name": "The Verbal Complex in Romance — P. Monachesi (Oxford, 2005) · el programa lo imprime con forma de capítulo: «“The Verbal Complex in Romance”. En: A Case Study in Grammatical Interfaces»",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-lecturas-fonetica-unsam",
+          "name": "Lecturas sobre fonética y fonología y su enseñanza en lenguas extranjeras — G. Leighton, A. Renato y R. Basso (eds.) (UNSAM, San Martín, 2022) · Barbeito, “Fenómenos prosódicos en la aposición: un estudio acústico-perceptivo”",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-discurso-gramatica-cognitiva",
+          "name": "Discurso y gramática cognitiva: estudios de perfilamientos lingüísticos — Collado, Berenguer, Villavicencio, Hidalgo Matías y Arredondo (comps.) (Universidad Nacional de San Juan, Facultad de Filosofía, Humanidades y Artes, 2022) · Barbeito, “Estructuras léxicas en la manifestación de la concordancia: el uso de los cuantificadores”, pp. 8-20",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-linguistica-cognitiva-discurso",
+          "name": "Lingüística Cognitiva. Discurso, Gramática y Enseñanza — C. Borzi y E. Menéndez (comps.) (Nueva Editorial Universitaria, San Luis, 2019) · Barbeito, “Alternancia del pronombre dativo (le/les) en esquemas verbales ditransitivos”",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-estudios-linguistica-cognitiva",
+          "name": "Estudios de Lingüística Cognitiva — EDIUNC, Universidad Nacional de Cuyo (Mendoza, 2012) · Barbeito, “Estudio acústico-perceptivo de la construcción apositiva: el caso ‘El titular de la UIA, Héctor Méndez’”, pp. 27-36; Trípodi, “Acentos tonales en oraciones condicionales iniciales en oraciones del español rioplatense”",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-tripodi-condicionales-si",
+          "name": "La prosodia y la sintaxis en las condicionales introducidas por “si” — M. Trípodi (ed.) (Editorial Académica Española, Saarbrücken; el programa la consigna «En prensa») · Borzi, Gurlekian y Trípodi, “Correlatos prosódicos en oraciones condicionales de prótasis prepuesta. Primeros resultados”, 2011",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-fonetica-fonologia-ensenanza",
+          "name": "Fonética y Fonología. Articulación entre enseñanza e investigación — P. L. Luchini, M. A. García Jurado y U. Kickhöfel (eds.) (Universidad Nacional de Mar del Plata, 2015) · Borzi, Trípodi y García Jurado, “Correlaciones pragmático-semánticas y sintácticas en construcciones con perfiles prosódicos semejantes”, pp. 256-268",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-oralidad",
+          "name": "Oralidad. Miradas plurilingües desde la fonética y la fonología — L. Soler y G. Bombelli (Buena Vista Editores, Córdoba, 2013) · Renato, Borzi y García Jurado, “Delineamientos prosódicos de cláusulas con ‘porque’”, pp. 85-97",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-borzone-manual",
+          "name": "Manual de fonética acústica — A. M. Borzone de Manrique (Hachette Universidad, Buenos Aires, 1980)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-bybee-phonology",
+          "name": "Phonology and Language Use — J. Bybee (2004) · cap. “A Usage-Based Model for Phonology and Morphology”; el programa no consigna pie de imprenta",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-harris-syllable",
+          "name": "Syllable Structure and Stress in Spanish: a Nonlinear Analysis — J. Harris (MIT Press, Cambridge, MA · Linguistic Inquiry Monograph Eight) · el programa fecha la entrada en 1975 y el pie de imprenta en 1983",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-harris-fonologia-generativa",
+          "name": "Fonología generativa del español — J. Harris (Editorial Planeta, Madrid) · traducción de Spanish Phonology [1969] con material adicional; el programa fecha la entrada en 1983 y el pie de imprenta en 1975",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-reality-linguistic-rules",
+          "name": "The Reality of Linguistic Rules — S. D. Lima, R. L. Corrigan y G. K. Iverson (eds.) (Benjamin, Amsterdam, 1994) · cap. MacWhinney, “The Dinosaurs and the Ring”, pp. 283-320",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-optimality-spanish",
+          "name": "Optimality-Theoretic Studies in Spanish Phonology — F. Martínez-Gil y S. Colina (eds.) (John Benjamins Publishing Company, 2006) · Section 4, Phonology-Morphology Interface",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-massone-borzone",
+          "name": "Principios de Transcripción Fonética — M. I. Massone y A. M. Borzone de Manrique (Macchi, Buenos Aires, 1985)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-nesset",
+          "name": "Abstract Phonology in a Concrete Model: Cognitive Linguistics and the Morphology-Phonology Interface — T. Nesset (Mouton de Gruyter, 2008) · el programa imprime «Linguistcs»",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-prieto-teorias-entonacion",
+          "name": "Teorías de la entonación — P. Prieto [et al] (Ariel, Barcelona, 2003)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.fonologia-y-morfologia.libro-sosa-entonacion",
+          "name": "La entonación del español — J. M. Sosa (Cátedra, Madrid, 1999)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Fonología y Morfología, códigos 0569 (Plan 1985) / 15047 (Plan 2023), Prof. Vanina Andrea Barbeito, 2º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0569%2015047%20FONOLOG%C3%8DA%20Y%20MORFOLOG%C3%8DA%20BARBEITO.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de Fonología y Morfología, códigos 0569 / 15047, Prof. Vanina Andrea Barbeito, 2º cuatrimestre 2026 (fuente de todo el contenido de este nodo)",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0569%2015047%20FONOLOG%C3%8DA%20Y%20MORFOLOG%C3%8DA%20BARBEITO.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Programación 2C (2º cuatrimestre 2026) — lista la materia como «Fonología y Morfología (PD) - BARBEITO» y enlaza el programa",
+      "url": "https://letras.filo.uba.ar/programaci%C3%B3n-2c-0"
+    },
+    {
+      "label": "letras.filo.uba.ar · «Fonología y morfología - BORZI, Claudia» — Profesor Asociado Regular, 2º cuatrimestre, último programa aprobado: Programa 2014",
+      "url": "https://letras.filo.uba.ar/fonolog%C3%ADa-y-morfolog%C3%ADa-borzi-claudia"
+    },
+    {
+      "label": "letras.filo.uba.ar · «Fonología y morfología - GIAMMATTEO, Mabel» — Profesor Titular Regular, 1º cuatrimestre, último programa aprobado: Programa 2021 (otros: 2016, 2018)",
+      "url": "https://letras.filo.uba.ar/fonolog%C3%ADa-y-morfolog%C3%ADa-giammatteo-mabel"
+    }
+  ]
+}

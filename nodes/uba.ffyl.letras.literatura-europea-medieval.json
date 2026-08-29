@@ -1,0 +1,83 @@
+{
+  "address": "uba.ffyl.letras.literatura-europea-medieval",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0583 (Plan 1985) · 15038 (Plan 2023)",
+    "regimen": "cuatrimestral · promoción directa (PD) · 3 instancias de evaluación parcial (Res. (CD) Nº 4428/17)",
+    "cargaHoraria": "96 horas (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º — CONTRADICCIÓN EN LA FUENTE, no resuelta: la carátula del PDF imprime a la vez «2º CUATRIMESTRE 2025» y «AÑO: 2026»; la segunda página imprime «2º CUATRIMESTRE 2026»",
+    "catedra": "Profesora: BALESTRINI, María Cristina — Profesora Adjunta Interina a cargo de la cátedra",
+    "equipoDocente": [
+      "BALESTRINI, María Cristina (profesora a cargo)",
+      "DUMAS, María (Jefa de Trabajos Prácticos)",
+      "BASARTE, Ana María (Jefa de Trabajos Prácticos) — a cargo del dictado de la Unidad 3"
+    ],
+    "tituloDelPrograma": "La identidad y sus matices en el discurso literario medieval",
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de clases en modalidad virtual asincrónica; con más de 350 inscriptos las teóricas se dictan en forma virtual)",
+    "unidades": "5 + trabajos prácticos",
+    "bibliografia": 11,
+    "recomendaciones": "recomendable, aunque no excluyente, poseer conocimientos de inglés y/o francés para el manejo de la bibliografía crítica"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.literatura-europea-medieval", "label": "Literatura Europea Medieval" }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Literatura Europea Medieval",
+  "title": "Dónde empieza el yo en la literatura medieval.",
+  "lede": "Del siglo X al XIV: literaturas vernáculas del Occidente europeo —del X al XIV— recorridos por una sola pregunta: cómo se inscribe la identidad individual en el texto. Se entra por la épica anglosajona, con Beowulf entre el impulso propio y la lógica del clan; se sigue por la lírica occitana, donde los trovadores fundan un lenguaje de la interioridad amorosa y Bernart de Ventadorn fija la dama como objeto de deseo; se pasa al surgimiento del roman, con el Libro de Eneas reelaborando la materia antigua para audiencias nuevas y dibujando de paso la figura del autor; y se cierra en el siglo XIV con Troilo y Criseida de Chaucer frente al Filostrato de Boccaccio, dos voces autorales sobre la misma materia troyana. En prácticos corre en paralelo el héroe caballeresco: Roland, María de Francia, Yvain, Tristán.",
+  "meta": [
+    { "k": "Régimen", "v": "PD", "small": "promoción directa" },
+    { "k": "Carga", "v": "96 hs", "small": "cuatrimestral" },
+    { "k": "Unidades", "v": "5 + TP", "small": "programa Balestrini" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" }
+  ],
+  "frame": "Contenido real del programa de cátedra de Literatura Europea Medieval, códigos 0583 (Plan 1985) y 15038 (Plan 2023), firmado por la Lic. María Cristina Balestrini (Profesora Adjunta Interina a cargo de la cátedra) y publicado en letras.filo.uba.ar. El programa se titula «La identidad y sus matices en el discurso literario medieval». CONTRADICCIÓN REGISTRADA, NO RESUELTA: la carátula del PDF imprime a la vez «2º CUATRIMESTRE 2025» y «AÑO: 2026», mientras que su segunda página imprime «2º CUATRIMESTRE 2026»; el PDF está publicado en la página de programación del 2º cuatrimestre 2026 del Departamento de Letras (dato de navegación del sitio, no del PDF); dentro del PDF, el apartado de organización del dictado habla del «Ciclo Lectivo 2026» — cuarto dato, tampoco concluyente. Los tres datos se registran tal como están impresos y el nodo no elige entre ellos. El programa aclara al pie de los contenidos que «el dictado de la Unidad 3 estará a cargo de la Prof. Ana María Basarte», y aclara sobre su equipo docente que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». SELECCIÓN DECLARADA de bibliografía: se dibujan como nodo libro únicamente las obras primarias, es decir las secciones «Ediciones» de cada unidad más los cuatro textos de trabajos prácticos; de cada obra con varias ediciones o traducciones listadas se toma la primera que consigna el programa (Beowulf: 6 ediciones listadas; Roman d'Énéas: 4; Filostrato: 3; Troilo y Criseida: 4). En la Unidad 3 el programa no edita una obra única sino que lista tres antologías distintas de lírica trovadoresca, y se dibujan las tres. La Unidad 1 no tiene sección «Ediciones» y por lo tanto no aporta libro. EXCLUSIONES DECLARADAS: no se dibujan ni la bibliografía obligatoria ni la complementaria de cada unidad ni la bibliografía general del programa — son en su enorme mayoría artículos de revista y capítulos en obras colectivas; la complementaria y la «Bibliografía general», en cambio, incluyen decenas de monografías exentas (Huizinga, Lewis, Eco, Zumthor…) que quedan fuera por recorte, no por esa regla. El programa no consigna edición para los cuatro textos de trabajos prácticos (La Chanson de Roland, Lais de María de Francia, Yvain o el Caballero del León, Tristán e Isolda): se dibujan por título, sin datos de edición. ERRATA DEL ORIGINAL: la edición de Beowulf de B. Raffel se anota «(en inglés modern)». El PDF marca con «**» los textos que se leen en traducción de la cátedra, y anota sobre el Filostrato que «se trabajará una selección de pasajes traducidos por la cátedra». Los libros no están indexados aún (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · cinco unidades y los prácticos",
+      "title": "La identidad y sus matices",
+      "note": "Cada unidad del programa Balestrini es un nodo, en orden. Los Trabajos Prácticos corren en paralelo sobre el héroe caballeresco.",
+      "map": {
+        "mk": "El programa, en cinco unidades + prácticos",
+        "tree": "LITERATURA EUROPEA MEDIEVAL — la identidad en el discurso literario, ss. X-XIV\n│\n├─ 1 · El medioevo europeo\n│        del Tardoantiguo a la Edad Media · los renacimientos medievales\n│        emergencia de las lenguas vulgares · la alteridad de la cultura medieval\n├─ 2 · Beowulf — el heroísmo individual frente a la comunidad y a la posteridad\n│        poesía vernácula anglosajona · oralidad y escritura · el ethos épico\n├─ 3 · La lírica del siglo XII                       (a cargo de la Prof. Basarte)\n│        el «amor cortés» · panorama occitano · Bernart de Ventadorn\n├─ 4 · El surgimiento del roman\n│        antiqui y moderni · el roman antique · traslatio studii e imperii (grafía del programa)\n│        el Libro de Eneas como espacio de experimentación\n├─ 5 · Historias de pasión en Boccaccio y Chaucer\n│        el siglo XIV · Troilo y Criseida frente al Filostrato · nuevas subjetividades\n└─ TP · El héroe caballeresco\n         Chanson de Roland · Lais de María de Francia · Yvain · Tristán e Isolda",
+        "foot": "Temas del programa Balestrini. El arco va de la identidad colectiva de la épica temprana al yo poético de la lírica, de ahí al autor mediador del roman y, al final, a la polifonía de voces autorales del tardomedioevo."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.medioevo-europeo", "name": "El medioevo europeo: herencia, continuidad y mutación", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.beowulf", "name": "Beowulf: el heroísmo individual frente a la comunidad y a la posteridad", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.lirica-siglo-xii", "name": "La lírica del siglo XII: el amor cortés y los trovadores occitanos", "role": "Unidad 3 · a cargo de la Prof. Ana María Basarte", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.surgimiento-del-roman", "name": "El surgimiento del roman: el Libro de Eneas y la materia antigua", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.boccaccio-chaucer", "name": "Historias de pasión en Boccaccio y Chaucer", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.practicos", "name": "El héroe caballeresco: Roland, María de Francia, Chrétien, Gottfried", "role": "Trabajos Prácticos", "tag": "prácticos", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes del programa",
+      "title": "Las obras que se leen",
+      "note": "Obras primarias: las secciones «Ediciones» de cada unidad y los textos de trabajos prácticos. De cada obra con varias ediciones listadas se dibuja la primera que consigna el programa. La Unidad 1 no lleva «Ediciones». Los cuatro textos de prácticos van sin datos de edición porque el programa no los consigna. La bibliografía crítica —obligatoria, complementaria y general— no se dibuja: es casi toda artículos y capítulos. No indexadas aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-beowulf-raffel", "name": "Beowulf — ed. B. Raffel (Signet Classics, 1999), en inglés moderno", "role": "Unidad 2 · primera de 6 ediciones listadas", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-alvar-trovadores", "name": "Poesía de trovadores, trouvères y minnesinger — ed. C. Alvar (Alianza, 1981)", "role": "Unidad 3 · antología", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-riquer-lirica", "name": "La lírica de los trovadores. Antología comentada, 3 vols. — ed. M. de Riquer (Escuela de Filología, 1948)", "role": "Unidad 3 · antología", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-riquer-los-trovadores", "name": "Los trovadores. Historia literaria y textos — ed. M. de Riquer (Ariel, 2019)", "role": "Unidad 3 · antología", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-eneas-bermejo", "name": "El Libro d'Eneas (Roman d'Énéas) — ed. E. Bermejo (PPU, 1986)", "role": "Unidad 4 · primera de 4 ediciones listadas", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-filostrato-branca", "name": "Il Filostrato — Giovanni Boccaccio, ed. V. Branca (Mondadori, 1964)", "role": "Unidad 5 · primera de 3 ediciones listadas", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-troilo-robinson", "name": "Troilus and Criseyde — Geoffrey Chaucer, ed. F. N. Robinson (Houghton Mifflin, 1957)", "role": "Unidad 5 · primera de 4 ediciones listadas", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-chanson-de-roland", "name": "La Chanson de Roland (el programa no consigna edición)", "role": "Trabajos Prácticos · la tradición épica francesa", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-lais-maria-de-francia", "name": "Lais de María de Francia, selección (el programa no consigna edición)", "role": "Trabajos Prácticos", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-yvain", "name": "Yvain o el Caballero del León — Chrétien de Troyes (el programa no consigna edición)", "role": "Trabajos Prácticos · el roman courtois", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-europea-medieval.libro-tristan-isolda", "name": "Tristán e Isolda — Gottfried von Strassbourg (el programa no consigna edición)", "role": "Trabajos Prácticos · el roman en el ámbito germánico", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Literatura Europea Medieval, cód. 0583 (Plan 1985) / 15038 (Plan 2023), cátedra Balestrini — el PDF imprime «2º CUATRIMESTRE 2025» y «AÑO: 2026» en la carátula y «2º CUATRIMESTRE 2026» en la página siguiente",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0583%2015038%20LITERATURA%20EUROPEA%20MEDIEVAL%20BALESTRINI.pdf"
+  }
+}
