@@ -1,0 +1,426 @@
+{
+  "address": "uba.ffyl.letras.glotopolitica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — Reglamento Académico Res. (CD) Nº 4428/17; 3 instancias de evaluación parcial, con opción A (promedio ≥ 7, sin aplazos) u opción B (promedio ≥ 4 y < 7 más EXAMEN FINAL)",
+    "cargaHoraria": "96 horas (carátula) · «la carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales» · el programa distribuye 4 hs semanales de teóricos y 2 hs semanales de trabajos prácticos",
+    "cuatrimestre": "2º cuatrimestre 2026",
+    "anio": 2026,
+    "codigo": "0592 (Plan 1985) / 15057 (Plan 2023)",
+    "equivalencia": "La carátula del programa consigna una sola materia con dos códigos y dos nombres: «CÓDIGO Nº: 0592 (PLAN 1985) / 15057 (PLAN 2023)» y «MATERIA: SOCIOLOGÍA DEL LENGUAJE (PLAN 1985) / GLOTOPOLÍTICA (PLAN 2023)». Glotopolítica es el nombre de plan 2023 de la que en el plan 1985 se llama Sociología del Lenguaje.",
+    "catedra": "Prof. Elvira Narvaja de Arnoux — el programa la consigna como «PROFESOR/A: NARVAJA DE ARNOUX, ELVIRA» y la firma como «Profesora emérita»; no imprime un nombre propio de cátedra, aunque remite a «la cátedra» en la bibliografía (traducciones, versiones castellanas, Cuadernos de glotopolítica y Guías de Estudio). Profesor invitado: «PROFESOR CONSULTO, ROBERTO BEIN».",
+    "equipoDocente": [
+      "NARVAJA DE ARNOUX, ELVIRA (profesora)",
+      "BEIN, ROBERTO (profesor invitado · profesor consulto)",
+      "FERRO, FABIOLA ANDREA (jefa de trabajos prácticos)",
+      "SAVIO, KARINA (jefa de trabajos prácticos)",
+      "BLANCO, GONZALO (ayudante de 1ª)"
+    ],
+    "modalidad": "presencial ajustada a REDEC-2024-2526-UBA-DCT#FFYL; el programa declara «modalidad presencial y un 30% virtual» sobre el campus de la Facultad, con el dispositivo asincrónico dividido en tramos",
+    "unidades": 5,
+    "bibliografia": 42,
+    "notaBibliografica": "«Los textos de lectura obligatoria se indicarán durante el cursado y se subirán al campus cuando se inicia el tramo correspondiente»: el programa no distingue obligatoria de complementaria."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.glotopolitica",
+      "label": "Glotopolítica"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Glotopolítica",
+  "title": "Quién decide qué lengua se habla.",
+  "lede": "La dimensión semiótica de los procesos políticos: la desigual distribución del capital lingüístico y de la palabra pública, y las intervenciones sobre el espacio del lenguaje. Se entra por los conceptos de la sociolingüística y la sociología del lenguaje —comunidad lingüística, bilingüismo, diglosia como conflicto— y por la legislación lingüística argentina y las integraciones regionales; se sigue por las ideologías lingüísticas y el debate sobre el inglés como lengua de la ciencia, por la inmigración en la Argentina (la de 1880-1920, la boliviana y la paraguaya, quechua, aymara y guaraní), y por los instrumentos lingüísticos —gramáticas, retóricas, manuales de urbanidad— como piezas glotopolíticas. Cierra en las formas actuales de regulación de la discursividad: lenguaje claro, lectura fácil, lo políticamente correcto y el lenguaje inclusivo de género.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Glotopolítica / Sociología del Lenguaje, códigos 0592 (Plan 1985) y 15057 (Plan 2023), carrera de Letras (FFyL-UBA), a cargo de la Prof. Elvira Narvaja de Arnoux, 2º cuatrimestre 2026 (letras.filo.uba.ar). EQUIVALENCIA REGISTRADA: la carátula del PDF consigna una sola materia con dos códigos y dos nombres — «CÓDIGO Nº: 0592 (PLAN 1985) / 15057 (PLAN 2023)» y «MATERIA: SOCIOLOGÍA DEL LENGUAJE (PLAN 1985) / GLOTOPOLÍTICA (PLAN 2023)» —, de modo que Glotopolítica es el nombre bajo el Plan 2023 de lo que el Plan 1985 llama Sociología del Lenguaje; el programa es uno solo. FUENTE ÚNICA: este nodo se apoya en un solo programa; el PDF no menciona otras cátedras de la materia y no se consultó ninguna otra versión. HECHO DE OTRA FUENTE: la ubicación de la materia en el área Lingüística del Plan 2023 y su carácter cuatrimestral los aporta el nodo padre uba.ffyl.letras (plan de estudios), no este PDF; el PDF solo declara el código de plan 2023 y el cuatrimestre de dictado. SOBRE LA CÁTEDRA: el programa no imprime un nombre propio de cátedra — consigna «PROFESOR/A: NARVAJA DE ARNOUX, ELVIRA», firmado «Profesora emérita», y «PROFESOR INVITADO: PROFESOR CONSULTO, ROBERTO BEIN» —, pero sí usa la palabra «cátedra» doce veces en el texto: en la bibliografía, para atribuirse traducciones y versiones castellanas propias, los Cuadernos de glotopolítica y las Guías de Estudio; una vez como pie de imprenta ajeno (Fishman, Madrid: Cátedra); y una vez dentro del texto reglamentario de la REDEC («estructura de cátedra»). ERRATA DEL ORIGINAL EN LA NUMERACIÓN: las cinco unidades están tituladas I a V, pero los ítems de la Unidad IV están numerados 3.1, 3.2 y 3.3 —repitiendo la numeración de la Unidad III— y los de la Unidad V, 4.1, 4.2 y 4.3. Aquí se conservan los títulos de unidad tal como están impresos y no se renumeran los ítems. CONTRADICCIÓN REGISTRADA EN LA BIBLIOGRAFÍA: Di Tullio 2003 (EUDEBA) aparece dos veces con títulos distintos — «Políticas lingüísticas e inmigración. El caso argentino» en la Unidad III y «Políticas lingüísticas. El caso argentino» en la Unidad IV —; se dibuja un solo nodo con las dos formas anotadas. Otras repeticiones del original, no resueltas: Arnoux 2023 sobre integración regional figura dos veces en la Unidad I, una como «Revista Abehache, entregado» y otra como «Revista Abehache, Vol.23, 18-37»; el «Banco de datos Mercolingua» (Bein coord., 2011) figura dos veces en la Unidad I. EXCLUSIÓN DECLARADA Y APLICADA EN AMBOS SENTIDOS: se dibuja como nodo libro únicamente la entrada cuyo propio título es el de un volumen —monografía o volumen colectivo, con su pie editorial, aunque el programa recorte un capítulo o una parte dentro de él—. Quedan fuera, sin excepción, los artículos de revista, las contribuciones tituladas entre comillas «en» una obra de otro autor o editor (lo que deja afuera, entre otras, la parte 2 de Wright 2003 y el cap. 3 de Phillipson 1992, citados así), los prólogos, las ponencias y actas, las tesis y trabajos de adscripción, los manuales y bancos de datos en línea sin pie editorial, las declaraciones y documentos, y todo el material propio de la cátedra (traducciones, versiones castellanas, Cuadernos de glotopolítica, Guías de Estudio). Por esa regla el grueso de la bibliografía —que es en su mayoría producción de Arnoux y Bein en artículos y capítulos— no se dibuja. Una entrada se transcribe sin año porque el original no lo consigna (Le Lièvre y otros, eds.). Ningún título resultó ilegible en la extracción. Los libros aún no están indexados como nodos de libro (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Del capital lingüístico al control de la discursividad",
+      "note": "Cada unidad del programa 2026 es un nodo, en el orden impreso. Los ítems se citan con la numeración del original, que se repite entre unidades.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "GLOTOPOLÍTICA · 0592 (Plan 1985) / 15057 (Plan 2023) · Arnoux · 2º cuatrim. 2026\n│\n├─ I · En torno al desarrollo de la Glotopolítica\n│      sociolingüística y sociología del lenguaje · diglosia como conflicto\n│      legislación lingüística argentina · Mercosur, Unasur, Celac · panhispanismo\n│\n├─ II · Ideologías lingüísticas\n│      actitudes, representaciones, la lengua como fetiche\n│      hegemonía del inglés como lengua de la ciencia · leyes de defensa de la lengua\n│\n├─ III · Inmigración en Argentina\n│      1880/1920 · inmigración boliviana y paraguaya · quechua, aymara, guaraní\n│\n├─ IV · Instrumentos lingüísticos   [ítems numerados 3.1-3.3 en el original]\n│      gramatización · gramáticas de Estado · retóricas y manuales de urbanidad\n│\n└─ V · Regulación y control de la discursividad   [ítems numerados 4.1-4.3 en el original]\n       lenguaje claro y lectura fácil · lo políticamente correcto · lenguaje inclusivo",
+        "foot": "Las unidades I y II arman el aparato conceptual y la discusión ideológica; III lo aplica al caso argentino de las migraciones; IV y V toman los dos tipos de intervención que el programa pone en el centro: los instrumentos lingüísticos históricos y las regulaciones actuales de la discursividad."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.glotopolitica.desarrollo-glotopolitica",
+          "name": "En torno al desarrollo de la Glotopolítica",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.ideologias-linguisticas",
+          "name": "Ideologías lingüísticas",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.inmigracion-argentina",
+          "name": "Inmigración en Argentina",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.instrumentos-linguisticos",
+          "name": "Instrumentos lingüísticos",
+          "role": "Unidad IV · ítems numerados 3.1-3.3 en el original",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.regulacion-discursividad",
+          "name": "Regulación y control de la discursividad",
+          "role": "Unidad V · ítems numerados 4.1-4.3 en el original",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa (Arnoux, 2026)",
+      "title": "Los volúmenes",
+      "note": "Solo las entradas cuyo título es el de un volumen, por unidad. Artículos, capítulos «en» obras ajenas, prólogos, ponencias, tesis, manuales en línea, declaraciones y el material propio de la cátedra no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-alberti-llenderrozas-pinto",
+          "name": "Instituciones, democracia e integración regional en el MERCOSUR — Alberti, Llenderrozas y Pinto (comps.) (Prometeo, 2006)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-calvet",
+          "name": "Las políticas lingüísticas — L.-J. Calvet (Edicial, 1997)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-cooper",
+          "name": "La planificación lingüística y el cambio social — R. L. Cooper (Cambridge University Press, Madrid, 1997)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-crystal",
+          "name": "Language Death — D. Crystal (Cambridge University Press, 2000) · «existe traducción al español»",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-duchene-heller",
+          "name": "Language in Late Capitalism: Pride and Profit — A. Duchêne y M. Heller (eds.) (Routledge, 2012)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-fasold",
+          "name": "La sociolingüística de la sociedad. Introducción a la sociolingüística — R. Fasold (Visor, 1996 [orig. The Sociolinguistics of Society, 1984])",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-fishman",
+          "name": "Sociología del Lenguaje — J. Fishman (Cátedra, 1979), cap. 6, pp. 120-133",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-heller",
+          "name": "Éléments d'une sociolinguistique critique — M. Heller (Didier, 2002)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-le-lievre",
+          "name": "Langues et cultures dans l'internationalisation de l'enseignement supérieur au XXIe siècle — F. Le Lièvre y otros (eds.) (Peter Lang, Berna; el programa no consigna año)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-mufwene",
+          "name": "The Ecology of Language Evolution — S. Mufwene (Cambridge University Press, 2001)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-rojas",
+          "name": "La restauración nacionalista — R. Rojas (Peña Lillo, 1909)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-siguan",
+          "name": "Bilingüismo y lenguas en contacto — M. Siguan (Alianza, 2001)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-abric",
+          "name": "Pratiques sociales - représentations — J.-C. Abric (dir.) (Presses Universitaires de France, 1994)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-araya-umana",
+          "name": "Las representaciones sociales. Ejes teóricos para su discusión — S. Araya Umaña (FLACSO Costa Rica, Cuaderno de Ciencias Sociales Nº 127, 2002)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-gandulfo",
+          "name": "Entiendo pero no hablo. El guaraní «acorrentinado» en una escuela rural: usos y significaciones — C. Gandulfo (Antropofagia, 2007)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-jodelet",
+          "name": "Les représentations sociales — D. Jodelet (P.U.F., 1986)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-kibbee",
+          "name": "Language Legislation and Linguistic Rights — D. A. Kibbee (ed.) (John Benjamins, 1988)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-moreno-cabrera",
+          "name": "El nacionalismo lingüístico. Una ideología destructiva — J. C. Moreno Cabrera (Ediciones Península, 2008)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-ortiz",
+          "name": "La supremacía del inglés en las ciencias sociales — R. Ortiz (Siglo XXI, 2009 [orig. A diversidade dos sotaques, 2008])",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-adamovsky",
+          "name": "Historia de las clases populares en Argentina. Desde 1880 hasta 2003 — E. Adamovsky (Sudamericana, 2012)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-bein-born",
+          "name": "Políticas lingüísticas: norma e identidad. Estudios de casos y aspectos teóricos en torno al gallego, el español y lenguas minoritarias — R. Bein y J. Born (eds.) (FFyL-UBA, 2001)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-devoto",
+          "name": "Historia de la inmigración en la Argentina — F. Devoto (Editorial Sudamericana, 2002)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-di-tullio",
+          "name": "Políticas lingüísticas e inmigración. El caso argentino — A. Di Tullio (EUDEBA, 2003) · el programa lo repite en la Unidad IV con el título «Políticas lingüísticas. El caso argentino»",
+          "role": "Unidades III y IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-lagares",
+          "name": "Qual Política Linguística? Desafios Glotopolíticos Contemporâneos — X. C. Lagares (Parabola, 2018)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-lagares-bagno",
+          "name": "Políticas da Norma e Conflitos Linguísticos — X. C. Lagares y M. Bagno (Parábola, 2011)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-linares-di-liscia",
+          "name": "Migraciones en la Argentina. Una historia de largo plazo — M. D. Linares y M. S. Di Liscia (eds.) (Prohistoria Ediciones, 2021)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-montenegro-silva",
+          "name": "Migraciones. Un mundo en movimiento — S. Montenegro y C. Silva (Santillana, colección Loqueleo, 2018)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-patat",
+          "name": "L'italiano in Argentina — A. Patat (Guerra Edizioni, 2004)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-seidl",
+          "name": "Ideologías lingüísticas en transformación. La migración boliviana a Buenos Aires y la transmisión intergeneracional de los idiomas indígenas — B. Seidl (CICCUS, 2019)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-arnoux-estado-chileno",
+          "name": "Los discursos sobre la nación y el lenguaje en la formación del Estado chileno (1842-1862). Estudio glotopolítico — E. N. de Arnoux (Santiago Arcos, 2008)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-auroux-gramatizacao",
+          "name": "A revolução tecnológica da gramatização — S. Auroux (Unicamp, 1992)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-auroux-histoire-1",
+          "name": "Histoire des idées linguistiques, t. 1: «La naissance des métalangages en Orient e en Occident» — S. Auroux (Mardaga, 1989)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-auroux-histoire-2",
+          "name": "Histoire des idées linguistiques, t. 2: «Le développement de la grammaire occidentale» — S. Auroux (Mardaga, 1992)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-auroux-histoire-3",
+          "name": "Histoire des idées linguistiques, t. 3: «L'hégémonie du comparatisme» — S. Auroux (Mardaga, 1999)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-batista",
+          "name": "Introdução à historiografía da lingüística — R. de O. Batista (Cortez Editora, 2013)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-bourdieu",
+          "name": "Campo de poder, campo intelectual. Itinerario de un concepto — P. Bourdieu (Montressor, 2002)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-gomez-asencio",
+          "name": "Los principios de las gramáticas académicas (1771-1962) — J. J. Gómez Asencio (Peter Lang, 2011)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-orlandi-lingua-conhecimento",
+          "name": "Língua e conhecimento linguístico: Para uma história das ideias no Brasil — E. P. Orlandi (Cortez Editora, 2013)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-orlandi-historia-das-ideias",
+          "name": "História das ideais [sic] linguísticas no Brasil: construção do saber metalinguístico e constituição da língua nacional — E. P. Orlandi (org.) (Pontes / Unemat Editora, 2001)",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-cameron",
+          "name": "Verbal hygiene — D. Cameron (Routledge, 1995)",
+          "role": "Unidad V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-fairclough",
+          "name": "Discurso e mudança social — N. Fairclough (Editora UnB, 2001 [1992])",
+          "role": "Unidad V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.glotopolitica.libro-fiorentino",
+          "name": "Frontiere della scrittura: lineamenti di web writing — G. Fiorentino (Carocci editore, 2013)",
+          "role": "Unidad V",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Sociología del Lenguaje (Plan 1985) / Glotopolítica (Plan 2023), códigos 0592 y 15057 — Prof. Elvira Narvaja de Arnoux, 2º cuatrimestre 2026, modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0592%2015057%20SOCIOLOGIA%20DEL%20LENGUAJE%20GLOTOPOLITICA%20ARNOUX%202026.pdf"
+  }
+}

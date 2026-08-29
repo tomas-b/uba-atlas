@@ -1,0 +1,59 @@
+{
+  "address": "uba.ffyl.letras.latin-posclasico",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L1",
+  "metadata": {
+    "tipo": "materia del área Letras Clásicas (según el plan 2023 en el nodo padre)",
+    "programa": "no publicado — búsqueda exhaustiva (2026-08): letrasclasicas.filo.uba.ar/programacion publica 18 PDFs y ninguno es de esta materia; FILO:Digital (repositorio.filo.uba.ar, API de búsqueda) no tiene registro de programa; el índice de programas de letras.filo.uba.ar cosechado por el scout de este atlas tampoco"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.latin-posclasico",
+      "label": "Latín Posclásico"
+    }
+  ],
+  "eyebrow": "Latín Posclásico · Letras Clásicas · Letras",
+  "title": "Una materia que el plan nombra y ningún programa desarrolla en público.",
+  "lede": "El plan de Letras la lista en el área de <b>Letras Clásicas</b>. Hasta ahí llega la fuente: ni el Departamento de Lenguas y Literaturas Clásicas ni el repositorio FILO:Digital publican un programa de esta materia. Este nodo queda en L1 — el nombre y su lugar en el plan — hasta que exista material real.",
+  "meta": [
+    {
+      "k": "Área",
+      "v": "Clásicas",
+      "small": "según el plan"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "solo el plan"
+    },
+    {
+      "k": "Programa",
+      "v": "—",
+      "small": "no publicado"
+    },
+    {
+      "k": "Temas",
+      "v": "0",
+      "small": "sellado a L2"
+    }
+  ],
+  "frame": "La página de programación del Departamento de Lenguas y Literaturas Clásicas publica 18 PDFs — las materias ya trazadas del área (Lengua y Cultura Griegas y Latinas I-V, Literatura Griega Antigua, Filología Griega), más Literatura India Antigua y cinco seminarios — y ninguno es de esta materia. FILO:Digital no guarda ningún programa suyo. Usar el programa de otra materia sería mentir: mejor un nodo en L1 que un temario inventado.",
+  "groups": [],
+  "source": {
+    "label": "letrasclasicas.filo.uba.ar · programación (no publica programa de esta materia)",
+    "url": "https://letrasclasicas.filo.uba.ar/programacion"
+  }
+}

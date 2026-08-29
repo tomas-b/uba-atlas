@@ -1,0 +1,650 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-espanola",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (la carga horaria mínima es de 96 hs y comprende un mínimo de 6 y un máximo de 10 horas semanales de dictado)",
+    "cuatrimestre": "1º",
+    "codigo": "«CÓDIGO Nº:» figura EN BLANCO en las dos portadas del programa — el documento no consigna código y ninguno se suple desde otra fuente",
+    "catedra": "El programa no consigna letra ni número de cátedra: nombra tres «PROFESORES A CARGO» — FUNES, LEONARDO · TOPUZIAN, MARCELO · VILA, JUAN DIEGO. La palabra «cátedra» aparece en el PDF solo como sello editorial (Madrid, Cátedra), como apellido de autor (Cátedra, Pedro), en «Ficha de cátedra» y en el texto reglamentario copiado del REDEC («estructura de cátedra»); nunca para designar la unidad docente de esta materia.",
+    "equipoDocente": [
+      "FUNES, Leonardo (profesor a cargo · firma como Profesor Emérito, Literatura Española Medieval)",
+      "TOPUZIAN, Marcelo (profesor a cargo · firma como Profesor Adjunto, Literatura Española Moderna y Contemporánea)",
+      "VILA, Juan Diego (profesor a cargo · firma como Profesor Titular Plenario, Literatura Española del Siglo de Oro)",
+      "D'ONOFRIO, Julia (Jefa de trabajos prácticos regular)",
+      "ILLESCAS, Raúl (Ayudante de primera regular)"
+    ],
+    "tituloDelPrograma": "Los medios y las letras hispánicas: oralidad, manuscritura, cultura impresa, cultura digital",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (tope general del 30% virtual de la REDEC; el porcentaje propio de la materia «se informará a través de la página web»)",
+    "año": "2026",
+    "secciones": "3 (más una Introducción sin rótulo de sección)",
+    "unidades": 13,
+    "bibliografia": 66
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.problemas-de-literatura-espanola",
+      "label": "Problemas de Literatura Española"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Hispánicas · Problemas de Literatura Española",
+  "title": "El soporte cambia lo que se puede escribir.",
+  "lede": "Diez siglos de letras hispánicas (XII a XXI) recorridos por un solo hilo: la materialidad de los textos y las tecnologías con que se producen, circulan y se guardan. Se entra por la voz y el pergamino —el fragmento de Roncesvalles, el Auto de los Reyes Magos, las Cantigas miniadas de Alfonso X—, se pasa al golpe de la imprenta en el Siglo de Oro —el Quijote como fábula del devenir libro, los emblemas, las relaciones de sucesos, los índices inquisitoriales y el Lazarillo castigado— y se sale por la prensa periódica y las pantallas: Larra en el periódico, Galdós contra el folletín, Marsé ante el cine, Carrión ante Internet. Codicología, paleografía, crítica textual y bibliografía material entran como herramientas; McLuhan, Kittler, Chartier y Darnton, como marco.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "13",
+      "small": "4 secciones"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa 2026 de Problemas de Literatura Española (Departamento de Letras, FFyL-UBA), 1º cuatrimestre 2026, titulado «Los medios y las letras hispánicas: oralidad, manuscritura, cultura impresa, cultura digital». AUSENCIA REGISTRADA: el campo «CÓDIGO Nº:» aparece en blanco en las dos portadas del PDF; esta materia queda sin código porque el documento no lo trae, y no se le asigna ninguno desde otra fuente. El programa no designa cátedra alguna por letra o número: enumera tres «PROFESORES A CARGO» (Funes, Topuzian, Vila) que firman el documento, en el orden inverso al de la portada, con tres titularidades distintas de Literatura Española —Medieval (Funes), Moderna y Contemporánea (Topuzian), Siglo de Oro (Vila)—; el reparto del dictado entre ellos no se consigna y no se infiere. La pertenencia al área Literaturas Hispánicas viene del plan 2023 registrado en el nodo padre, no de este programa. CONTRADICCIÓN REGISTRADA: la Unidad 12 se titula «El cine y la novela» en la sección de Contenidos y «La novela y el cine» en la sección de Bibliografía; se dibuja con el título de Contenidos y se deja constancia de la variante. ERRATA DEL ORIGINAL: dentro de la Unidad 11 la numeración de los ítems salta del 2 al 4 (no hay ítem 3 impreso); no se reordena. SELECCIÓN DE BIBLIOGRAFÍA declarada y aplicada en los dos sentidos: se dibujan como nodo libro únicamente los títulos de volumen de la «Bibliografía obligatoria» y de las «Fuentes» de cada unidad —monografías, ediciones críticas y volúmenes colectivos citados por un capítulo—. NO se dibujan: artículos de revista, contribuciones a actas de congreso, entradas de blog, fichas de cátedra, películas, ni la «Bibliografía complementaria» ni la «Bibliografía general» que cierra el programa (listas de consulta, no de lectura obligatoria). Cuando una misma obra se cita por dos capítulos o en dos unidades se dibuja una sola vez, con las unidades anotadas en su rol; cuando el programa admite varias ediciones de una misma obra (el Quijote, El Abencerraje) se dibuja un solo nodo que las enumera. TÍTULO DESCARTADO POR REFERENCIA INCOMPLETA: la obligatoria de la Unidad 1 incluye a Werner Wolf, «(Inter)medialidad y el estudio de la literatura», traducción de María Fernanda Piderit, sin volumen, editorial ni año; al no poder establecerse qué libro es, no se dibuja. Los tres bloques de «Trabajos Prácticos» (uno por sección) forman parte de los Contenidos pero no son unidades numeradas y no se dibujan como nodo unidad. Los libros aquí listados no están indexados aún como libros (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 13 unidades",
+      "title": "De la voz a la pantalla",
+      "note": "Cada unidad del programa 2026 es un nodo, en orden, agrupada por la sección a la que el programa la asigna.",
+      "map": {
+        "mk": "El programa, en cuatro secciones y trece unidades",
+        "tree": "PROBLEMAS DE LITERATURA ESPAÑOLA · 1º cuatrim. 2026\nLos medios y las letras hispánicas\n│\n├─ INTRODUCCIÓN\n│   └─ 1 · Un nuevo objeto en el campo del hispanismo\n│\n├─ PRIMERA SECCIÓN · de la cultura oral a la cultura impresa (s. XII-XV)\n│   ├─ 2 · Juglaría y clerecía entre la oralidad y la escritura\n│   ├─ 3 · La corte letrada de Alfonso X y el manuscrito historiado\n│   └─ 4 · La poesía de cancionero en los albores de la imprenta\n│\n├─ SEGUNDA SECCIÓN · el impacto de la imprenta (s. XVI-XVII)\n│   ├─ 5 · Revolución tecnológica, mercado y nuevas subjetividades\n│   ├─ 6 · La hora de las reescrituras y la segmentación del público\n│   ├─ 7 · El imperio de la imagen ante las letras\n│   ├─ 8 · Interdiscursividades · las noticias y la ficción\n│   └─ 9 · Censura, índices inquisitoriales y textos intervenidos\n│\n└─ TERCERA SECCIÓN · del apogeo de la prensa a Internet (s. XVIII-XXI)\n    ├─ 10 · El costumbrismo romántico y el periódico\n    ├─ 11 · La novela realista-naturalista y el folletín\n    ├─ 12 · El cine y la novela\n    └─ 13 · Literatura y revolución digital",
+        "foot": "Cada una de las tres Secciones lleva además su propio bloque de Trabajos Prácticos, que el programa no numera como unidad y que aquí no se dibuja."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.nuevo-objeto-hispanismo",
+          "name": "Un nuevo objeto en el campo del hispanismo",
+          "role": "Introducción · Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.juglaria-clerecia",
+          "name": "Juglaría y clerecía entre la oralidad y la escritura",
+          "role": "Primera Sección · Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.corte-alfonso-x",
+          "name": "La corte letrada de Alfonso X y la producción del manuscrito historiado",
+          "role": "Primera Sección · Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.poesia-cancionero",
+          "name": "La poesía de cancionero en los albores de la imprenta",
+          "role": "Primera Sección · Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.revolucion-tecnologica",
+          "name": "Revolución tecnológica, mercado y nuevas subjetividades",
+          "role": "Segunda Sección · Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.reescrituras-publico-lector",
+          "name": "La hora de las reescrituras y la segmentación del público lector",
+          "role": "Segunda Sección · Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.imperio-de-la-imagen",
+          "name": "El imperio de la imagen ante las letras",
+          "role": "Segunda Sección · Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.interdiscursividades-noticias",
+          "name": "Interdiscursividades. Diálogos entre las noticias y la ficción",
+          "role": "Segunda Sección · Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.censura-indices",
+          "name": "Censura, índices inquisitoriales y textos intervenidos",
+          "role": "Segunda Sección · Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.costumbrismo-periodico",
+          "name": "El costumbrismo romántico y el periódico",
+          "role": "Tercera Sección · Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.novela-realista-folletin",
+          "name": "La novela realista-naturalista y el folletín",
+          "role": "Tercera Sección · Unidad 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.cine-y-novela",
+          "name": "El cine y la novela (en la bibliografía el programa la titula «La novela y el cine»)",
+          "role": "Tercera Sección · Unidad 12",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.literatura-revolucion-digital",
+          "name": "Literatura y revolución digital",
+          "role": "Tercera Sección · Unidad 13",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y fuentes",
+      "title": "El aparato de lectura",
+      "note": "Títulos de volumen de la bibliografía obligatoria y de las fuentes de cada unidad. Artículos de revista, actas de congreso, entradas de blog, fichas de cátedra, películas, la bibliografía complementaria y la bibliografía general no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-funes-investigacion-literaria",
+          "name": "Investigación literaria de textos medievales: objeto y práctica — L. Funes (Miño y Dávila, 2009) · caps. «Lección inaugural» y «La evolución literaria como contienda de prácticas discursivas»",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-petrucci-alfabetismo",
+          "name": "Alfabetismo, escritura, sociedad — A. Petrucci (Gedisa, 1999) · cap. «Leer en la Edad Media»",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-produccion-libro-edad-media",
+          "name": "La producción del libro en la Edad Media. Una visión interdisciplinar — G. Avenoza, L. Fernández Fernández y M. L. Soriano Robles (eds.) (Sílex, 2019) · cap. «Codicología»",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-introduccion-paleografia",
+          "name": "Introducción a la paleografía. Herramientas para la lectura y análisis de documentos antiguos — I. Vassallo (ed.) (Universidad Nacional de La Plata, 2020) · cap. «La escritura gótica»",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-mcluhan-galaxia",
+          "name": "La galaxia Gutenberg — M. McLuhan (el programa indica «Varias ediciones»)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-kittler-discourse-networks",
+          "name": "Discourse Networks 1800/1900 — F. Kittler (Stanford University Press, 1990)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-gil-gonzalez-narrativas",
+          "name": "+ Narrativa(s): intermediaciones novela, cine, cómic y videojuego en el ámbito hispánico — A. J. Gil González (Ediciones Universidad de Salamanca, 2012)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-ong-oralidad",
+          "name": "Oralidad y escritura: tecnologías de la palabra — W. J. Ong (FCE, 1993 [1982])",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-riquer-leyenda-graal",
+          "name": "La leyenda del graal y temas épicos medievales — M. de Riquer (Prensa Española, 1963)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-spitzer-estilo-estructura",
+          "name": "Estilo y estructura en la literatura española — L. Spitzer (Crítica, 1980) · cap. «Razón de amor»",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-franchini-debates",
+          "name": "Los debates literarios en la Edad Media — E. Franchini (Ediciones del Laberinto, 2001) · cap. «Elena y María»",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-roncesvalles-riquer",
+          "name": "«Chanson de Roland», «Cantar de Roldán» y el «Roncesvalles» navarro — ed. y trad. M. de Riquer (El Festín de Esopo, 1983)",
+          "role": "fuente · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-gomez-redondo-poesia-espanola",
+          "name": "Poesía española. I. Edad Media: juglaría, clerecía y romancero — F. Gómez Redondo (ed.) (Crítica, 1996) · edición de «Roncesvalles»",
+          "role": "fuente · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-teatro-castellano-surtz",
+          "name": "Teatro castellano de la Edad Media — R. Surtz (ed.) (Taurus, 1994) · edición del «Auto de los Reyes Magos»",
+          "role": "fuente · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-tres-poetas-primitivos",
+          "name": "Tres poetas primitivos — R. Menéndez Pidal (ed.) (Austral, 1948) · edición de «Elena y María»",
+          "role": "fuente · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-cantigas-santa-maria",
+          "name": "Cantigas de Santa María — Alfonso X el Sabio, ed. Walter Mettman (Castalia, 1986) · selección",
+          "role": "fuente · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-historia-critica-edad-media-suplemento",
+          "name": "Historia y crítica de la literatura española. Edad Media. Primer Suplemento — A. Deyermond (ed.) (Crítica; el programa no consigna año del volumen en la cita de la Unidad 4; la Bibliografía general lo fecha 1990) · cap. de V. Beltrán, 1991",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-cancionero-general",
+          "name": "Cancionero General — Hernando del Castillo, ed. Joaquín González Cuenca (Castalia, 2004, 5 vols.)",
+          "role": "fuente · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-bouza-corre-manuscrito",
+          "name": "Corre manuscrito. Una historia cultural del Siglo de Oro — F. Bouza (Marcial Pons, 2002)",
+          "role": "Unidades 5 y 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-marsa-imprenta",
+          "name": "La imprenta en los Siglos de Oro — M. Marsá (Ediciones del Laberinto, Arcadia de las Letras, 2001) · caps. «Elementos de la estructura textual» y «Características externas del libro»",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-rico-texto-quijote",
+          "name": "El texto del «Quijote» — F. Rico (Ediciones Destino, Imago Mundi, 2005) · cap. «Cómo se hacía un libro en el Siglo de Oro»",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-quijote",
+          "name": "El ingenioso hidalgo Don Quijote de la Mancha — M. de Cervantes Saavedra (el programa admite cuatro ediciones: Rico dir., Instituto Cervantes-Crítica 1998; Riquer, Planeta 1968; Sabor de Cortazar y Lerner, Eudeba 1969-1970; Sevilla Arroyo y Rey Hazas, Centro de Estudios Cervantinos 1993)",
+          "role": "fuente · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-lo-converso",
+          "name": "Lo converso: orden imaginario y realidad en la cultura española (siglos XIV-XVII) — R. Fine, M. Guillemont y J. D. Vila (eds.) (Iberoamericana-Vervuert, 2013) · cap. de D. Boruchoff",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-guillen-primer-siglo-de-oro",
+          "name": "El primer Siglo de Oro — C. Guillén (Crítica, 1988) · cap. «Individuo y ejemplaridad en el Abencerraje»",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-abencerraje",
+          "name": "El Abencerraje (el programa da dos ediciones: ed. Eugenia Fosalba, Real Academia Española, 2017; y El Abencerraje (novela y romancero), ed. Francisco López Estrada, Cátedra, 2000)",
+          "role": "fuente · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-cros-sujeto-cultural",
+          "name": "El sujeto cultural. Sociocrítica y psicoanálisis — E. Cros (Corregidor, 1997) · cap. «La puesta en escena del sujeto cultural»",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-maravall-teatro-literatura",
+          "name": "Teatro y literatura en la sociedad barroca — J. A. Maravall (Crítica, 1990, edición corregida y aumentada) · cap. «La literatura de emblemas»",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-rdelaflor-peninsula-metafisica",
+          "name": "La península metafísica. Arte, literatura y pensamiento en la España de la Contrarreforma — F. R. de la Flor (Editorial Biblioteca Nueva, 1999) · cap. «Mundus est fabula»",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-sanchez-jimenez-pincel-fenix",
+          "name": "El pincel y el Fénix: pintura y literatura en la obra de Lope de Vega Carpio — A. Sánchez Jiménez (Universidad de Navarra / Iberoamericana Vervuert, 2011)",
+          "role": "Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-alciato-emblemas",
+          "name": "Emblemas — A. Alciato, ed. Santiago Sebastián, trad. de los epigramas de Pilar Pedraza (Akal, 1993) · con el prólogo de A. Egido leído en la obligatoria",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-cervantes-viaje-parnaso",
+          "name": "Viaje del Parnaso y poesías sueltas — M. de Cervantes Saavedra, ed. J. Montero Reguera y F. Romo Feito (Madrid, 2016; el programa no consigna editorial)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-covarrubias-emblemas-morales",
+          "name": "Emblemas morales — S. de Covarrubias Horozco, ed. facsimilar de Carmen Bravo Villasante (Fundación Universitaria Española, 1978)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-gongora-sonetos-completos",
+          "name": "Sonetos completos — L. de Góngora, ed. Biruté Ciplijauskaité (Castalia, 1985)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-gongora-sonetos",
+          "name": "Sonetos — L. de Góngora, ed. Juan Matas Caballero (Cátedra, 2019)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-horozco-trescientos-emblemas",
+          "name": "Trescientos emblemas morales — J. de Horozco y Covarrubias de Leyva, trad., notas y comentarios de M. del M. Agudo Romeo, A. Encuentra Ortega y J. F. Esteban Lorente (Prensas de la Universidad de Zaragoza, 2017)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-lope-obras-poeticas",
+          "name": "Obras poéticas — Lope de Vega y Carpio, ed. José Manuel Blecua (Editorial Planeta, 1989)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-lope-laurel-apolo",
+          "name": "Laurel de Apolo — Lope de Vega y Carpio, ed. Antonio Carreño (Cátedra, 2007)",
+          "role": "fuente · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-relaciones-de-sucesos",
+          "name": "Las relaciones de sucesos (Canards) en Espagne (1500-1750) — M. C. García de Enterría, H. Ettinghausen, V. Infantes y A. Redondo (dirs.) (Publications de la Sorbonne / Universidad de Alcalá, 1996) · caps. de Cátedra, Étienvre, Infantes y Redondo",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-generos-editoriales",
+          "name": "Géneros editoriales y relaciones de sucesos en la Edad Moderna — P. Cátedra (dir.) (Semyr, 2013) · cap. de T. Paba sobre «El jardín engañoso»",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-cultura-guerra-osuna",
+          "name": "Cultura della guerra e arti della pace. Il III Duca di Osuna in Sicilia e a Napoli (1611-1620) — E. Sánchez García (ed.) (Tullio Pironti Editore, 2012) · cap. de A. Redondo",
+          "role": "Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-quevedo-obra-poetica",
+          "name": "Obra poética — F. de Quevedo, ed. José Manuel Blecua (Castalia, 1969-1981, 4 tomos)",
+          "role": "fuente · Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-quevedo-poesia-varia",
+          "name": "Poesía varia — F. de Quevedo, ed. James O. Crosby (Cátedra, 1992)",
+          "role": "fuente · Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-zayas-novelas-amorosas",
+          "name": "Novelas amorosas y ejemplares — M. de Zayas y Sotomayor, ed. Julián Olivares (Cátedra, 2000)",
+          "role": "fuente · Unidad 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-albisson-proceso-al-libro",
+          "name": "El proceso al libro. La censura inquisitorial en la España del siglo XVII — M. Albisson (Cátedra, 2024)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-coll-telechea-lazarillo",
+          "name": "Lazarillo castigado; Historia de un olvido. Muerte y resurrección de Lázaro (1559-1573-1884) — R. Coll Telechea (Universidad de Minnesota, 2010)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-textos-castigados",
+          "name": "Textos castigados. La censura literaria en el Siglo de Oro — E. Fosalba y M. J. Vega (eds.) (Peter Lang, 2013)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-pena-diaz-escribir-prohibir",
+          "name": "Escribir y prohibir. Inquisición y censura en los Siglos de Oro — M. Peña Díaz (Cátedra, 2015)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-vega-malos-libros",
+          "name": "Malos libros. La censura en la España moderna — M. J. Vega (Biblioteca Nacional de España, 2023)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-lazarillo-castigado",
+          "name": "Vida del Lazarillo de Tormes castigado o Lazarillo de la Inquisición — G. Santonja (ed.) (Nuevo Milenio, 2000)",
+          "role": "fuente · Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-revision-de-larra",
+          "name": "Revisión de Larra: ¿protesta o revolución? — AAVV (Les Belles Lettres, 1983) · cap. de J. Escobar",
+          "role": "Unidad 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-larra-en-el-mundo",
+          "name": "Larra en el mundo: la misión de un escritor moderno — J. Álvarez Barrientos, J. M. Ferri Coll y E. Rubio Cremades (eds.) (Publicaciones de la Universidad de Alicante, 2011) · cap. de L. Romero Tobar",
+          "role": "Unidad 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-seoane-saiz-cuatro-siglos",
+          "name": "Cuatro siglos de periodismo en España — M. C. Seoane y M. D. Saiz (Alianza, 2007) · caps. 4 y 5",
+          "role": "Unidad 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-larra-articulos-de-costumbres",
+          "name": "Artículos de costumbres — M. J. de Larra (el programa indica «Varias ediciones») · selección de once artículos",
+          "role": "fuente · Unidad 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-mesonero-panorama-matritense",
+          "name": "Panorama matritense — R. de Mesonero Romanos (el programa indica «Varias ediciones») · selección de cuatro cuadros",
+          "role": "fuente · Unidad 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-sieburth-inventing",
+          "name": "Inventing High and Low. Literature, Mass Culture and Uneven Development in Spain — S. Sieburth (Duke University Press, 1994) · cap. sobre Tormento",
+          "role": "Unidad 11",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-galdos-tormento",
+          "name": "Tormento — B. Pérez Galdós (el programa indica «Varias ediciones»)",
+          "role": "fuente · Unidad 11",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-galdos-ensayos-critica",
+          "name": "Ensayos de crítica literaria — B. Pérez Galdós, ed. Laureano Bonet (Península, 1999)",
+          "role": "fuente · Unidad 11",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-galdos-13-cuentos",
+          "name": "13 cuentos — B. Pérez Galdós, ed. Esteban Gutiérrez Díaz-Bernardo (EDAF, 2001)",
+          "role": "fuente · Unidad 11",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-miradas-glocales",
+          "name": "Miradas glocales. Cine español en el cambio de milenio — B. Pohl y J. Türschmann (eds.) (Iberoamericana/Vervuert, 2007) · cap. de S. Steimer",
+          "role": "Unidad 12",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-marse-embrujo-shanghai",
+          "name": "El embrujo de Shanghai — J. Marsé (el programa indica «Varias ediciones»)",
+          "role": "fuente · Unidad 12",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-marse-teniente-bravo",
+          "name": "Teniente Bravo — J. Marsé (el programa indica «Varias ediciones») · cuentos «El fantasma del cine Roxy» e «Historia de detectives»",
+          "role": "fuente · Unidad 12",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-erice-promesa-shanghai",
+          "name": "La promesa de Shanghai — V. Erice (Plaza & Janés, 2001) · guion",
+          "role": "fuente · Unidad 12",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-territorios-indivisibles",
+          "name": "Territorios in(di)visibles. Dilemas en las literaturas hispánicas actuales — K. Benson y J. C. Cruz Suárez (eds.) (Iberoamericana/Vervuert, 2021) · cap. de L. Kjellsson",
+          "role": "Unidad 13",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-carrion-los-muertos",
+          "name": "Los muertos — J. Carrión (el programa indica «Varias ediciones»)",
+          "role": "fuente · Unidad 13",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-carrion-campos-electromagneticos",
+          "name": "Los campos electromagnéticos — J. Carrión / Taller Estampa / GPT-2 y 3 (Caja Negra, 2023)",
+          "role": "fuente · Unidad 13",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-espanola.libro-rumbos-del-hispanismo",
+          "name": "Rumbos del hispanismo en el umbral del Cincuentenario de la AIH — P. Botta et al. (eds.) (Roma, Bagatto, 2012) · cap. de J. Snow, «Alfonso X y la cuestión de la autoría de las Cantigas de Santa María (otra vez)», vol. II, pp. 143-149",
+          "role": "Unidad 3 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Problemas de Literatura Española — Programa 2026 (profesores a cargo Funes, Topuzian y Vila; 1º cuatrimestre 2026; modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL; el campo «CÓDIGO Nº:» figura en blanco)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/PROBLEMAS%20DE%20LITERATURA%20ESPA%C3%91OLA%20-%20PROGRAMA%202026.pdf"
+  }
+}

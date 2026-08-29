@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-espanola",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 13, "units_found": 13,
+  "books_total": 65, "books_found": 65,
+  "not_found": [
+    "metadata.secciones=4 — program names only THREE Secciones; Introducción is a bare heading",
+    "map.foot 'cada sección lleva su bloque de TP' false under the node's own count: only 3 TP blocks exist",
+    "Deyermond Suplemento 'no consigna año' over-precise — the Bibliografía general DOES print 1990 (src:860-861); true only of the U4 citation",
+    "lede 'Ocho siglos' — the arc is siglos XII a XXI = ten centuries",
+    "metadata.modalidad implies an adopted 30% — it's the REDEC general ceiling; the materia's figure 'se informará por la página web'"
+  ],
+  "omitted": [
+    "Snow/Botta (Bagatto 2012, U3 obligatoria) — a collective volume matching the drawn category, not drawn; never labeled Actas; if drawn, bibliografia=66. Rule-application asymmetry vs the two unlabeled congress volumes that WERE drawn"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "All five interrogated claims survived: 13/13 units literal (U12 title contradiction and U11 numbering skip real, TP blocks structural); 65 books traced 1:1 with zero complementaria/general leaks; all merges accurate (Quijote ×4, Abencerraje ×2, Bouza U5+U8, Relaciones de sucesos ×4 chapters); Werner Wolf drop justified (src:276 truly volume-less); CÓDIGO blank on both covers, absence recorded, nothing supplied; the 23 'cátedra' occurrences fall exactly into the four categories claimed, no 'tres cátedras' claim exists. Errors: section count, TP generalization, one over-precise absence claim, ocho-vs-diez siglos, the 30% gloss, and the Snow/Botta asymmetry (fix by drawing it → 66)."
+}

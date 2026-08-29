@@ -1,0 +1,444 @@
+{
+  "address": "uba.ffyl.letras.filologia-latina",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "anual — el programa imprime «Cuatrimestre y año: 2017 (materia anual)» y la portada de FILO:Digital «Anual - 2017». El plan 2023 citado en el nodo padre la lista como cuatrimestral: contradicción registrada, no resuelta.",
+    "cargaHoraria": "no consignada — el PDF no imprime carga horaria ni horas semanales",
+    "cuatrimestre": "no aplica: materia anual (el programa no divide por cuatrimestre; la primera evaluación se refiere a «los temas desarrollados durante el primer cuatrimestre»)",
+    "codigo": "Programa N° 0522",
+    "año": 2017,
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "El programa no identifica ninguna cátedra por número, letra ni titular: imprime «Profesor: María Eugenia Steinberg y Mariana S. Ventura» y «Programa N°: 0522». La palabra «cátedra» aparece una sola vez en el PDF, en el régimen de evaluación («los docentes y alumnos de la cátedra»); no se le atribuye una denominación de cátedra.",
+    "equipoDocente": [
+      "STEINBERG, María Eugenia (impresa como «Profesor» junto a Ventura; es la creadora del registro en FILO:Digital)",
+      "VENTURA, Mariana S. (impresa como «Profesor» junto a Steinberg; firma al pie como «Profesora Regular Adjunta»)",
+      "una segunda firma al pie, con el cargo «Profesora Regular Asociada», cuyo nombre no se imprime en el texto extraído",
+      "«el auxiliar docente» — el programa lo menciona sin nombrarlo"
+    ],
+    "evaluacion": "tres evaluaciones: parcial domiciliario (teóricos, 1er cuatrimestre), parcial presencial (prácticos, hasta septiembre) y edición + comentario filológico de un texto fragmentario con coloquio grupal. Regulares: promedio ≥ 4 y 75% de asistencia a prácticos → final oral. Libres: final escrito y oral. El programa no ofrece promoción directa ni cita reglamento académico alguno.",
+    "resolucion": "ninguna — ni el PDF de 2017 ni su registro en FILO:Digital imprimen resolución de aprobación",
+    "unidades": 7,
+    "bibliografia": 40,
+    "staleness": "programa de 2017 — el más reciente publicado en cualquier parte; el sitio del Departamento no publica uno vigente"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.filologia-latina",
+      "label": "Filología Latina"
+    }
+  ],
+  "eyebrow": "Letras · área Letras Clásicas · Filología Latina",
+  "title": "Del autógrafo al aparato crítico.",
+  "lede": "Ninguna página de Catulo, de Lucrecio o de Séneca llegó sola: llegó copiada, glosada, interpolada, editada y reeditada. La materia enseña a leer ese trayecto y a intervenir en él. Se entra por cómo se escribía, se editaba y se difundía un libro en Roma —la <i>ekdosis</i>, el autógrafo, la crítica textual antigua— y se sigue por las tres revoluciones de la transmisión: el códice, la imprenta, la informática. Después, los márgenes: glosas, escolios, <i>grammatici</i>, interpolaciones, tradición directa e indirecta, literatura fragmentaria —Livio Andronico, Nevio, Ennio, Lucilio—. El centro es la ecdótica misma: <i>recensio</i>, <i>collatio</i>, <i>constitutio stemmatis</i>, <i>constitutio textus</i>, teoría de los errores, enmiendas y conjeturas, variantes de autor. Y para decidir entre variantes hace falta lengua: fonética, morfología, sintaxis, léxico, métrica, colometría y número oratorio. Cierran la búsqueda —repertorios, bases de datos, concordancias, hipertexto— y la interpretación: contexto, recepción, intertextualidad, alusión. Se trabaja sobre ediciones críticas reales de Catulo, Lucrecio, el <i>Somnium Scipionis</i>, Séneca <i>De ira</i>, Persio y las <i>Silvae</i> de Estacio.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "anual",
+      "small": "sin prom. directa"
+    },
+    {
+      "k": "Programa",
+      "v": "N° 0522",
+      "small": "año impreso 2017"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "I–VII"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "FUENTE VIEJA, DECLARADA: este es el programa de 2017 de Filología Latina, Programa N° 0522, y es el último programa localizable de la materia en cualquier parte — está publicado en FILO:Digital (repositorio.filo.uba.ar, registro filodigital/10592) y el sitio del Departamento de Lenguas y Literaturas Clásicas no publica uno vigente. El PDF imprime «Cuatrimestre y año: 2017 (materia anual)» y la portada generada por el repositorio imprime «Anual - 2017»; el registro de FILO:Digital consigna dc.date.issued 2017. El contenido de clase es time-invariant, pero la antigüedad se declara: nada acá afirma qué se dicta hoy. ATRIBUCIÓN DE FUENTE CRUZADA: el nombre del Departamento como editor —«Universidad de Buenos Aires. Facultad de Filosofía y Letras. Departamento de Lenguas y Literatura Clásicas.» (así, «Literatura» en singular)— y el año 2017 provienen de los metadatos del registro filodigital/10592, no del cuerpo del PDF; el PDF sí imprime «Departamento de Lenguas y Literaturas Clásicas» (en plural) en su encabezado. La ubicación de la materia en el área de Letras Clásicas de la carrera de Letras proviene del Plan de Estudios 2023 (Res. ACS-2023-58) citado en el nodo padre, no de este programa. CONTRADICCIONES REGISTRADAS, no resueltas: (1) la portada del repositorio declara «Programa correspondiente a la carrera de Lengua y Literaturas Clásicas de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires», mientras que el plan 2023 del nodo padre lista Filología Latina dentro de la Licenciatura y el Profesorado en Letras; el PDF nunca imprime la palabra «Licenciatura» ni nombra la carrera de Letras. (2) El programa se declara «materia anual»; el plan 2023 la lista como cuatrimestral. (3) El documento imprime el año 2017 pero está fechado al pie «11 de octubre de 2016». LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: carga horaria u horas semanales (la palabra «hora» no aparece), correlatividades, modalidad de dictado o porcentaje virtual, régimen de promoción directa, y ninguna resolución —ni de aprobación del programa ni de reglamento académico— (la cadena «esoluc» no aparece en el texto). NOTA SOBRE LOS REGISTROS HERMANOS: FILO:Digital guarda además dos ediciones anteriores del mismo Programa N° 0522, verificadas por metadatos y NO extraídas acá — filodigital/3943 (dc.date.issued 2016, creadora Steinberg) y filodigital/15954 (dc.date.issued 2015, creadoras Steinberg y Ventura). El registro de 2015 es el único cuyo resumen imprime «Aprobado Resolución N° 1636/15»: esa resolución pertenece a la edición de 2015 y no se transfiere al programa de 2017 acá dibujado. CÁTEDRA: no se le atribuye ninguna denominación de cátedra —el programa no la nombra por número, letra ni titular—; sí usa la palabra una vez, en el régimen de evaluación («los docentes y alumnos de la cátedra»). El pie de firma trae «Mariana S. Ventura / Profesora Regular Adjunta» y una segunda línea de firma con el cargo «Profesora Regular Asociada» cuyo nombre no aparece en el texto extraído: no se completa. SELECCIÓN DECLARADA de bibliografía: el programa organiza cada unidad en A) Fuentes, B) Bibliografía obligatoria y C) Bibliografía complementaria. Se dibuja como libro cada entrada de la B) obligatoria cuyo título propio está impreso sin comillas —es decir, un volumen— y ninguna otra. EXCLUSIONES DECLARADAS, aplicadas en las dos direcciones: no se dibujan (a) las A) Fuentes de ninguna unidad —las ediciones críticas de los textos latinos primarios (Ailloud, Ernout, Guillemin, Lindsay, Marshall, Reynolds, Roth, Winterbottom, Bardon, Mynors, Ellis, Schuster-Eisenhut, Brieger, Martin, Bourgery, Gertz, Clausen, Courtney, Traglia, Gibson, Willis, Ronconi, Ferrero, Keil, Marx, Müller, Skutsch, Warmington, Blänsdorf, Charpin, Hollis y demás), los repertorios epigráficos y paleográficos (Dessau ILS, Lowe CLA, Courtney Musa lapidaria, Cugusi, De Lasala como fuente, Ernout) y los accesos en línea a Gallica, la Bibliotheca Medicea Laurenziana y la Epigraphische Datenbank Heidelberg; (b) toda la C) bibliografía complementaria de las siete unidades; (c) dentro de la obligatoria, cada entrada cuyo título propio va entre comillas —artículos de revista y capítulos o secciones dentro de otra obra— lo que deja a la Unidad I sin ningún libro dibujado, porque sus cinco entradas obligatorias son capítulos y artículos (Fedeli, Habinek, Kleberg, Naas, Zetzel); y (d) los repertorios y bases de datos que la Unidad VI lista sin autor ni título de volumen (L'Année philologique, Gnomon, TOCS-IN, Bibliotheca Classica Selecta, Petronian Society Newsletter). DUPLICACIONES REGISTRADAS: cuatro entradas figuran a la vez en las Fuentes y en la obligatoria de su propia unidad —De Lasala, Esercizi di paleografia Latina (Unidad II); Mariotti 1952 y Mariotti 1955 (Unidad III); Bailey 1947, De rerum natura (Unidad IV, obligatoria solo el vol. I, 1-171, es decir los Prolegomena)—: se dibujan una sola vez cada una, por figurar en la obligatoria, no por figurar en Fuentes. Most, Editing texts / Texte edieren aparece como complementaria de la Unidad I y como obligatoria de la Unidad IV: se dibuja una sola vez, bajo la Unidad IV. ERRATAS DEL ORIGINAL, algunas conservadas con marca («unidadades»), otras restituidas en el árbol de este nodo por legibilidad (el PDF imprime «collado», «constitutlo textus», «grammatící»; el árbol las escribe en su forma latina estándar — restitución declarada acá): el PDF es una digitalización con reconocimiento imperfecto y arrastra «constitutlo textus» y «collado» por collatio, «grammatící», «unidadades», «Plínio», «Quintílíano», «LACFIMANN» y «SCHUSTER-EISENFIUT» (F por H), «BLÁNSDORF, 3.» por J., «H1NDS», «A A W» por AA.VV., «Direceiól de Bibiliotecai» en el sello de la Dirección de Bibliotecas, y en el nombre del autor de Hipertexto «LANDLOW» por Landow. NORMALIZACIÓN DECLARADA: en las entradas dibujadas se conservan tal cual el autor, el título, el lugar, la editorial, el año y los rangos de página impresos, PERO no se reproduce el ruido sistemático de acentuación y de letra suelta que el reconocimiento óptico dejó que alcanza también autores, lugares y editoriales (Fränkel, Väänänen, Göttingen, Università Gregoriana, «Latin palaeography», «Grammatik») además de los títulos italianos y franceses —el PDF imprime «paleografía Latina», «traduzione artística», «del'Odyssea», «Pubblicazioi dell'Universitá», «Eloge»—; eso se restituye en silencio y no se registra entrada por entrada. Lo que sí se conserva porque no es ruido tipográfico sino dato: Havet aparece como «Manuel du critique verbale» (así, «du»), Sihler (1995) lleva impreso además «(1933)», Bischoff (1997) lleva «(1979)», Niedermann (1968) lleva «(1906)», Palmer va impreso sangrado bajo la entrada de Niedermann —artefacto de maquetación, se dibuja como entrada propia— y Mariotti 1955 se imprime «Il Bellum Poenicum e Parte di Nevio» en las Fuentes y «e l'arte di Nevio» en la obligatoria. Nada de esto se resuelve ni se enmienda.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades",
+      "title": "El trayecto de un texto latino, y cómo se interviene en él",
+      "note": "Cada unidad del Programa N° 0522 es un nodo, en el orden impreso. El propio programa advierte que las unidades «no implican un ordenamiento cronológico»: cada una tiene un desarrollo teórico y otro de aplicación sobre los textos.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "FILOLOGÍA LATINA · Programa N° 0522 · Steinberg y Ventura · anual 2017\n│\n├─ I · LOS AUTÓGRAFOS Y LOS PRIMEROS COMENTARIOS\n│      escritura, edición y difusión en Roma · ekdosis\n│      del autógrafo a la circulación de las copias · oralidad y escritura\n│      la crítica textual en la Antigüedad\n│\n├─ II · HISTORIA Y MATERIALES\n│      las tres revoluciones: el códice, la imprenta, la informática\n│      períodos histórico-culturales · recepción y formas de apropiación\n│      las ciencias auxiliares de la Filología\n│\n├─ III · CIRCULACIÓN EN LOS MÁRGENES\n│      glosas, comentarios y escolios · lectores y grammatici\n│      interpolaciones · tradición directa e indirecta\n│      la literatura fragmentaria: Livio Andronico, Nevio, Ennio, Lucilio\n│\n├─ IV · CRÍTICA TEXTUAL Y EDICIÓN\n│      recensio · collatio · constitutio stemmatis · constitutio textus\n│      teoría de los errores: enmiendas y conjeturas · variantes de autor\n│      reediciones y modificación de criterios del editor\n│\n├─ V · LA LENGUA LATINA\n│      fonética, morfología, sintaxis, léxico, estilística\n│      aplicación a la interpretación de variantes de manuscritos\n│      métrica, colometría y número oratorio · las lenguas vernáculas\n│\n├─ VI · LA BÚSQUEDA: INSTRUMENTA STUDIORUM\n│      meta-análisis e historia de la filología · repertorios y bases de datos\n│      léxicos, índices, concordancias, enciclopedias · el hipertexto\n│      frecuencias para estilística · informática y métrica latina\n│\n└─ VII · LA INTERPRETACIÓN\n       el contexto · la recepción · el comentario y la crítica\n       intertextualidad y alusión · intersecciones de los géneros literarios",
+        "foot": "Las Unidades V, VI y VII no traen fuentes propias: el programa imprime «Se trabajará con las fuentes correspondientes a las unidadades temáticas I-IV» (errata del original conservada). En los prácticos se trabaja la Unidad I durante la primera parte del año y, en la segunda, pasajes de Séneca, De ira, y de Cicerón, Somnium Scipionis."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.filologia-latina.autografos-y-primeros-comentarios",
+          "name": "Los autógrafos y los primeros comentarios · ekdosis y difusión del libro en Roma",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.historia-y-materiales",
+          "name": "Historia y materiales · el códice, la imprenta, la informática",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.circulacion-en-los-margenes",
+          "name": "Circulación en los márgenes · glosas, grammatici y literatura fragmentaria",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.critica-textual-y-edicion",
+          "name": "Crítica textual y edición · la metodología de la ecdótica",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.la-lengua-latina",
+          "name": "La lengua latina · historia de la lengua al servicio de la variante",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.instrumenta-studiorum",
+          "name": "La búsqueda: instrumenta studiorum",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.la-interpretacion",
+          "name": "La interpretación · contexto, recepción, intertextualidad",
+          "role": "Unidad VII",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · las obras de volumen, por unidad",
+      "title": "El aparato de lectura",
+      "note": "Las cuarenta obras de volumen que el programa lista bajo «B) Bibliografía obligatoria», unidad por unidad. La Unidad I no aporta ninguna: sus cinco entradas obligatorias son artículos y capítulos. No se dibujan las «A) Fuentes» —las ediciones críticas de los textos latinos y los repertorios epigráficos y paleográficos—, ni la «C) Bibliografía complementaria» de ninguna unidad, ni los artículos y capítulos de la obligatoria, ni las bases de datos del cierre de la complementaria de la Unidad VI. Los datos van tal como el programa los imprime, erratas incluidas. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-bodel-epigraphic-evidence",
+          "name": "Epigraphic evidence: Ancient history from inscriptions — J. Bodel (London-New York, Routledge, 2001)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-bischoff-latin-palaeography",
+          "name": "Latin palaeography. Antiquity & the Middle Ages — B. Bischoff (Cambridge, 1997; el programa anota «(1979)»)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-de-lasala-esercizi",
+          "name": "Esercizi di paleografia Latina, y CD-ROM correspondiente — F. De Lasala (Roma, Editrice Pontificia Università Gregoriana, 1999) · el programa lo repite en las Fuentes de la misma unidad",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-wallace-wall-inscriptions",
+          "name": "An introduction to wall inscriptions from Pompeii and Herculaneum — R. E. Wallace (Illinois, 2005)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-chahoud-concordantiae",
+          "name": "C. Lucilii reliquiarum Concordantiae — A. Chahoud (Hildesheim-New York, Olms-Weidmann, 1998)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-kaster-guardians",
+          "name": "Guardians of language. The grammarian and society in Late Antiquity — R. A. Kaster (California, 1997)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-mariotti-livio-andronico",
+          "name": "Livio Andronico e la traduzione artistica. Saggio critico ed edizione dei frammenti dell'Odyssea — S. Mariotti (Milano, Pubblicazioni dell'Università di Urbino, 1952) · obligatorio 15-91",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-mariotti-bellum-poenicum",
+          "name": "Il Bellum Poenicum e l'arte di Nevio. Saggio con edizione dei frammenti del Bellum Poenicum — S. Mariotti (Roma, Angelo Signorelli, 1955) · obligatorio 11-95; en las Fuentes el título se imprime «e Parte di Nevio»",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-mcelduff-roman-theories",
+          "name": "Roman theories of translation. Surpassing the source — S. McElduff (Routledge, 2013) · obligatorio 1-60",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-bailey-de-rerum-natura",
+          "name": "T. Lucreti Cari De rerum natura libri sex, edited with Prolegomena, Critical Apparatus, Translation, and Commentary — C. Bailey (Oxford, At the Clarendon Press, 1947) · obligatorio vol. I, 1-171 (los Prolegomena); el programa lo repite en las Fuentes de la misma unidad",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-cerquiglini-eloge-variante",
+          "name": "Éloge de la variante. Histoire critique de la philologie — B. Cerquiglini (París, 1989)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-canfora-copista-autore",
+          "name": "Il copista come autore — L. Canfora (Palermo, Sellerio, 2002)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-della-corte-due-studi-catulliani",
+          "name": "Due studi catulliani — F. Della Corte (Genova, 1954)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-flores-poggio-bracciolini",
+          "name": "Le scoperte di Poggio Bracciolini e il testo di Lucrezio — E. Flores (Napoli, 1980)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-flores-elementi-critici",
+          "name": "Elementi critici di critica del testo ed epistemologia — E. Flores (Napoli, 1998) · obligatorio el Cap. 1, en traducción al español",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-frankel-testo-critico",
+          "name": "Testo critico e critica del testo — H. Fränkel (Firenze, 1983)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-haig-gaisser-renaissance-readers",
+          "name": "Catullus and his Renaissance readers — J. Haig Gaisser (Oxford, 1993)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-havet-manuel",
+          "name": "Manuel du critique verbale appliquée aux textes latins — L. Havet (París, 1911; el programa remite a la síntesis en español de E. J. Prieto). Título impreso así, con «du critique»",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-lachmann-commentarius",
+          "name": "In T. Lucretii Cari De rerum natura libros commentarius — C. Lachmann (Berolini, 1855, iterum editus)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-maas-critica-del-testo",
+          "name": "Critica del testo — P. Maas (Firenze, 1990; el programa anota «1927; traducción al español»)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-most-editing-texts",
+          "name": "Editing texts / Texte edieren — G. W. Most (Göttingen, Vandenhoeck & Ruprecht, 1998) · en la Unidad I figura como complementaria, con la serie Aporemata 2",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-pasquali-storia-tradizione",
+          "name": "Storia della tradizione e critica del testo — G. Pasquali (Firenze, Felice Le Monnier, 1952) · obligatorio IX-XXIV y 3-12",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-reynolds-texts-and-transmission",
+          "name": "Texts and transmission. A survey of the Latin classics — L. D. Reynolds et al. (Oxford, 1983)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-timpanaro-genesi-lachmann",
+          "name": "La genesi del metodo del Lachmann — S. Timpanaro (Padova, Liviana Editrice, 1981) · obligatorio 56-72, en traducción al español",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-west-textual-criticism",
+          "name": "Textual criticism and editorial technique — M. L. West (Stuttgart, Teubner Studienbücher Philologie, 1973)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-dangel-histoire-langue-latine",
+          "name": "Histoire de la langue latine — J. Dangel (París, 1995)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-habinek-colometry",
+          "name": "The colometry of Latin prose — Th. Habinek (Berkeley, Los Angeles, London, 1985)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-hofmann-latin-familiar",
+          "name": "El latín familiar — J. Hofmann (Madrid, 1958)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-kuhner-stegmann",
+          "name": "Ausführliche Grammatik der lateinischen Sprache — R. Kühner y C. Stegmann (Darmstadt, 1965, 2 vol.; el programa anota «1912-1914»)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-leumann-hofmann-szantyr",
+          "name": "Lateinische Grammatik — M. Leumann, J. B. Hofmann y A. Szantyr (Hildesheim, 1964)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-meillet-vendryes",
+          "name": "Traité de grammaire comparée des langues classiques — A. Meillet y J. Vendryes (París, 1966, 4ª éd.)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-mugler-participiales",
+          "name": "L'évolution des constructions participiales complexes en Grec et en Latin — Ch. Mugler (Strasbourg, 1938)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-niedermann-precis",
+          "name": "Précis de phonétique historique du Latin — M. Niedermann (Paris, 1968; el programa anota «1906»)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-palmer-introduccion-al-latin",
+          "name": "Introducción al latín — L. R. Palmer (Barcelona, 1974). El PDF la imprime sangrada bajo la entrada de Niedermann: artefacto de maquetación, se registra como entrada propia",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-nougaret-metrique",
+          "name": "Traité de métrique Latine classique — L. Nougaret (Paris, 1963) · obligatorio 14-24, en síntesis y traducción de M. Ventura",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-sihler-new-comparative-grammar",
+          "name": "New comparative grammar of Greek and Latin — A. L. Sihler (Oxford, 1995; el programa anota además «(1933)»)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-vaananen-latin-vulgar",
+          "name": "Introducción al latín vulgar — V. Väänänen (Madrid, 1971)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-jacquemard-le-saos-querolus",
+          "name": "Querolus — C. Jacquemard-Le Saos (Paris, Les Belles Lettres, 1994) · obligatoria la Introduction, «La langue e la métrique du Querolus» XLIII-LV, en traducción de I. Avendaño con notas críticas de M. E. Steinberg",
+          "role": "Unidad VI · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-landow-hipertexto",
+          "name": "Hipertexto: La convergencia de la teoría crítica contemporánea y la tecnología — G. P. Landow (Barcelona, Buenos Aires, México, Paidós, 1995; el programa imprime «LANDLOW»)",
+          "role": "Unidad VI · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.filologia-latina.libro-woodman-powell-author-and-audience",
+          "name": "Author and audience in Latin literature — T. Woodman y J. Powell (Cambridge, 1992) · obligatoria una selección",
+          "role": "Unidad VII · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "FILO:Digital (repositorio.filo.uba.ar) · Filología Latina, Programa N° 0522, anual 2017 — María Eugenia Steinberg y Mariana S. Ventura, Departamento de Lenguas y Literaturas Clásicas, FFyL-UBA. Registro filodigital/10592; el PDF no imprime resolución de aprobación. Último programa localizable de la materia: el sitio del Departamento no publica uno vigente.",
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/390da85f-6601-486c-9b93-bccfb51f9459/content"
+  },
+  "sources": [
+    {
+      "label": "FILO:Digital · registro filodigital/10592 — «Filología Latina», dc.date.issued 2017, creadora Steinberg, María Eugenia; resumen «Anual · Materia · Programa N°0522». EXTRAÍDO: es la base de este nodo.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/10592"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/3943 — «Filología Latina», dc.date.issued 2016, creadora Steinberg, María Eugenia; resumen «Anual · Materia · Programa N° 0522». Edición anterior del mismo programa, verificada por metadatos y NO extraída.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/3943"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/15954 — «Filología latina», dc.date.issued 2015, creadoras Steinberg, María Eugenia y Ventura, Mariana S.; resumen «Anual · Materia · Programa N° 0522 · Aprobado Resolución N° 1636/15». Esa resolución pertenece a la edición de 2015 y no se transfiere a la de 2017. Verificada por metadatos y NO extraída.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/15954"
+    },
+    {
+      "label": "letras.filo.uba.ar · Plan de Estudios 2023 (Res. ACS-2023-58) — origen de la ubicación de la materia en el área de Letras Clásicas; citado en el nodo padre uba.ffyl.letras, no en este programa.",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf"
+    }
+  ]
+}

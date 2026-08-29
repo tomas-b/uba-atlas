@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-argentina",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 8, "units_found": 8,
+  "books_total": 44, "books_found": 44,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "All refutation attempts failed. Units 8/8 byte-literal; 'Fuentes: --' for U1 real (L215) and disclosed twice. Books 21+23 counted independently, 1:1 in source order; the leak check PROVED the rule was applied, not coincidental (White Prometeo 2011 general vs 2010 obligatoria; Williams/Rancière/Koselleck/Darnton/Jameson all drawn from the general list, their per-unit homologues correctly absent; the critic Carlos Fuentes inside U5 obligatoria not mistaken for a Fuentes entry). Los rubios verbatim L684 under the source's own 'Bibliografía, filmografía y/o discografía' header. 'cátedra' exactly 1 occurrence (REDEC boilerplate L735); Saitta absent from the node as required (appears in source only as series editor). Metadata literal throughout. Minor: the ALLCAPS map grouper 'EL PASADO REESCRITO' is editorial and not labeled as such (sibling convention discloses); sources[] 'fuente única' slightly over-tight given the área comes from the parent."
+}

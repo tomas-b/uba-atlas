@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.letras.linguistica-computacional",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 21, "books_found": 21,
+  "not_found": [
+    "lede misattributes recursividad to CFG — source says 'gramáticas de autómata' (src:89-91), and 'en español' isn't attached there",
+    "frame's PLN caveat UNDERdeclared: planning devotes week 11 entirely to NLP (src:424-428), U V.2 titles 'Parsing y PLN dentro de la LC' (src:161-162), Sandoval's Lingüística Computacional is the planning spine — the course is more PLN-facing than the caveat admits"
+  ],
+  "omitted": [
+    "unregistered bibliography↔planning divergences beyond Russell y Norvig: J&M cap.11 (U2 vs week 10/HPSG), J&M caps.10/15/21 (U4 vs weeks 5 and 11), Sandoval Gramáticas de Unificación (U3 vs week 8/DCG)",
+    "unregistered erratas: Russel & Norvig (src:413), Manning & Schultze / Foundations on statistical NLP (src:432)",
+    "'una sola clase (semana 12)' — week 12 is clases 23-24: should say 'una sola semana'"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Exit layer exact: 21 drawn + 11 exclusions = 32 distinct items, closes perfectly; all multi-unit roles verified (J&M, Savich, Sag y Wasow, Grune). All 3 registered contradictions literal (3 vs 2 parciales; Grune 2008/2007; Russell y Norvig cap swap). Zubillaga dual role literal. 'cátedra' single occurrence confirmed by grep (src:284). Errors are prose: recursividad misattribution in lede and the PLN caveat cutting the other way (underdeclared)."
+}

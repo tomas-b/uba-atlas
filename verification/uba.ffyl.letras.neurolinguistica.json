@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.neurolinguistica",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 11, "units_found": 11,
+  "books_total": 36, "books_found": 36,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Refutation failed on every load-bearing claim. Units 11/11 verbatim. Books 36/36 re-derived independently (24 per-unit + 12 general-only of 22 general entries); exclusion list of 17 articles complete BOTH ways (no 18th exists); chapter-folding exact (Neurociencias del lenguaje folds exactly its 4 U-IX chapters; Ellis&Young caps 5-8; Aphasia Rehabilitation 2 chapters). All 4 contradictions literal (REDEC 2024-2526 vs 2023-2382; Caplan 1987/1992; Gjerlow A./K.; Burin-Drake-Harris order swap). 'Pinker, E.' at both spots; 'siglo XVIII con Broca y Wernicke' preserved uncorrected with no back-door fix in the lede. Cátedra grep: 15 hits, all Ficha/Traducción de la cátedra — claim exact. Minor nits only: Cuadernos 2 long title dropped; a 2019 attached to a volume whose year belongs to the chapter; no-year declarations incomplete for two items; 'Oxford: Blackwell' silently inverted from printed 'Blackwell: Oxford'."
+}

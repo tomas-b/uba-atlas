@@ -1,0 +1,9 @@
+{
+  "address": "uba.ffyl.letras.latin-posclasico",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial-absence",
+  "source_reachable": true,
+  "absence_confirmed": true,
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Most robustly confirmed absence of the trio: phrase/wildcard/full-text sweeps plus complete enumeration of the Clásicas publisher space (197 items, 68 programa records incl. every Griegas/Latinas I-V, both Filologías, Sánscrito) contain no Latín Posclásico. Errors were the two shared prose defects, fixed at wave close."
+}

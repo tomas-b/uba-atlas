@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3, "units_found": 3,
+  "books_total": 24, "books_found": 24,
+  "not_found": [
+    "frame 'Rulfo no figura en las Fuentes ni en la bibliografía' FALSE — Miramontes 2004 'Rulfo, lector de Bombal' is in U2 obligatoria (A:301-302); true claim: no work BY Rulfo is cited",
+    "exclusion sentence unscoped: Di Giorgio's Misales drawn despite 'en'+page range because it's a Fuente — the 'por igual en las tres unidades' wording reads as violated unless scoped to obligatoria",
+    "'dieciséis entradas obligatorias son artículos o capítulos' — count exact but one is a Dossier and one a page-restricted monograph"
+  ],
+  "omitted": [
+    "Villoro date/URL mismatch (2014 vs Discurso-mayo-2021.pdf, A:240-242) — a fourth original inconsistency left unregistered",
+    "'(selección)' governs both Monsiváis titles at A:163 but is appended only to the Amor perdido exit"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Structure clean: 3/3 units byte-literal, 24/24 books both directions (12+3+9), U2 zero-volume claim confirmed against its exact 16 entries, complementaria zero leaks. All contradictions literal (Días y/de guardar; Peregrinos vs Poesía completa; REDEC 'Ciclo Lectivo 2025' in a 2C 2026 programa; TÍTULO field empty). Cátedra-B facts all literal in the B extract with zero B content drawn (grepped author names: 0 hits). metadata.area inherited from parent group eyebrow, accurate vs parent. Errors are prose-level: the Rulfo sentence, the unscoped exclusion wording, the sixteen-entries characterization, plus the E6 title-field misdescription."
+}

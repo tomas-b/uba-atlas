@@ -1,0 +1,15 @@
+{
+  "address": "uba.ffyl.letras.analisis-del-discurso",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 40, "books_found": 40,
+  "not_found": [
+    "frame's «CÓDIGO...» and «MATERIA...» quotes are SPLICES — portada prints codes/names on separate lines without slash (L7-8, L10-11); the slashed MATERIA line is on the second carátula WITHOUT plan labels (L28). Equivalence substantively true, quotation not literal",
+    "frame '16 páginas / capa de texto' unverifiable in-repo"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Grounding unusually solid: 40/40 drawn volumes traced, no volume-form entry omitted, no obligatoriedad inferred (the 'se señalará la obligatoria' sentence quoted verbatim and honored). Host-volume rule verified both directions across ~40 excluded chapters — only Angenot's host is its own entry and it IS drawn; kept apart the Grize and Pêcheux near-traps. All four REDEC contradictions literal (2021-2174 portada; 2024-2526 carátula+cuerpo; footnote dating 2022; cuerpo saying 2026; DICTADO vs PROMOCIÓN labels). All four erratas preserved (llouz, Kemperer, Un théorie générale, Modèle dánalyse). Cátedra occurrences enumerated exactly. Hard defect: the spliced portada quotation. Soft: metadata.bibliografia=40 reads as the programa's bibliography size (real ~148); Análises do Discurso hoje drawn though it prints no publisher (rule as written doesn't cover it); EUDEBA→Eudeba and one apostrophe normalized against the blanket as-printed claim; Opción B's promedio-4-a-7 condition compressed out."
+}

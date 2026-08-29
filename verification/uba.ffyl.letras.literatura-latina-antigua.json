@@ -1,0 +1,9 @@
+{
+  "address": "uba.ffyl.letras.literatura-latina-antigua",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial-absence",
+  "source_reachable": true,
+  "absence_confirmed": true,
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Absence holds: not among the 18 PDFs of letrasclasicas/programacion; FILO:Digital exhaustively negative (dc.title queries + full enumeration of 144 latin*-titled programa records). Errors were two shared prose defects, fixed at wave close: the 'exactamente' enumeration (6 of 18 PDFs fall outside it) and the unreproducible 18-pages/644-PDF metadata claim."
+}

@@ -1,0 +1,277 @@
+{
+  "address": "uba.ffyl.letras.linguistica-computacional",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), establecida en el Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º",
+    "codigo": "0581 (Plan 1985) · 15052 (Plan 2023)",
+    "nombreEnLosPlanes": "MODELOS FORMALES NO TRANSFORMACIONALES (Plan 1985) · LINGÜÍSTICA COMPUTACIONAL (Plan 2023)",
+    "catedra": "Depto. de Letras · portada: «PROFESORA: ZUBILLAGA, CARINA» · programa 2º cuatrimestre 2026, año 2026. El programa no identifica la cátedra por letra ni por nombre: la única aparición de la palabra «cátedra» en el PDF es la «Serie Fichas de Cátedra» de la bibliografía general.",
+    "equipoDocente": [
+      "ZUBILLAGA, Carina (consignada como profesora en la portada)",
+      "BALBACHAN, Fernando (Jefe de Trabajos Prácticos)",
+      "CARRANZA, Fernando (Jefe de Trabajos Prácticos)"
+    ],
+    "modalidad": "presencial, ajustada a REDEC-2024-2526-UBA-DCT#FFYL · materia de grado que utiliza regularmente el Laboratorio de Informática: puede dictar hasta un 70% en modalidad virtual",
+    "evaluacion": "3 instancias de evaluación parcial (ítem f del programa) · la planificación detallada (ítem g) consigna 2 exámenes parciales, en las semanas 7 y 14",
+    "unidades": 5,
+    "bibliografia": 21,
+    "planificacion": "14 semanas · clases 1 a 28 · teóricas y prácticas, con guía de ejercicios por trabajo práctico en el campus virtual"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.linguistica-computacional",
+      "label": "Lingüística Computacional"
+    }
+  ],
+  "eyebrow": "Letras · Área Lingüística · Lingüística Computacional (Modelos Formales No Transformacionales)",
+  "title": "Todo lo que Chomsky dejó afuera, escrito como parser.",
+  "lede": "La materia recorre las teorías gramaticales NO transformacionales que crecieron a partir de Estructuras sintácticas (1957), midiendo cada modelo por sus propiedades formales, su poder expresivo y sus límites. Se entra por la jerarquía de Chomsky —autómata finito, descendente, lineal, Máquinas de Turing, Gramáticas Independientes de Contexto— y por los problemas que empujan más allá de cada formalismo: la recursividad en las gramáticas de autómata, la concordancia sujeto-verbo y el orden variable de constituyentes en las CFG (así lo reparte el programa) en español. Se sigue por la Gramática de Cláusula Definida (lógica de predicados de primer orden, operador Unificación), por las gramáticas de rasgos y la HPSG de Ivan Sag, y se sale por el cambio de paradigma: el enfoque estadístico sobre grandes corpora (cadenas de Markov, información mutua, clustering, machine learning) y las redes neuronales (back-propagation, deep learning). Cada modelo se trabaja además como implementación: parsers top-down y bottom-up, chart parser, aplicaciones prácticas en español.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "cód. 0581 / 15052"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa del Departamento de Letras (FFyL-UBA), código 0581 (Plan 1985) / 15052 (Plan 2023), 2º cuatrimestre 2026, publicado en letras.filo.uba.ar. ADVERTENCIA SOBRE EL NOMBRE: la portada del PDF atesta dos títulos para la misma materia — «MODELOS FORMALES NO TRANSFORMACIONALES (Plan 1985)» y «LINGÜÍSTICA COMPUTACIONAL (Plan 2023)» — y lo que el programa dicta es el curso de modelos formales no transformacionales, no un curso general de procesamiento de lenguaje natural aplicado: la primera clase de la planificación se titula «Introducción: Por qué MFNT?» y el objetivo declarado es «el relevamiento minucioso de las teorías gramaticales NO transformacionales que evolucionaron a partir de la primera gramática chomskyana y que representan una importante línea de investigación en Procesamiento de Lenguaje Natural o Natural Language Processing (NLP)». El PLN aparece así: como el campo dentro del cual estas gramáticas son una línea, con el estadístico y el conexionista tratados en las Unidades IV y V como cambio de paradigma; la planificación además dedica la semana 11 al PLN en sí («Qué es Procesamiento de Lenguaje Natural?… más allá del parsing») y el manual espina de las clases es la Lingüística Computacional de Sandoval. El programa se declara pensado tanto para la orientación en Lingüística de Letras como para la carrera de Filosofía con orientación en Lógica. CÁTEDRA: la portada consigna «PROFESORA: ZUBILLAGA, CARINA»; el PDF está firmado al pie por «Carina Zubillaga · Directora · Departamento de Letras». Ambos datos se registran sin resolverse. El equipo docente consignado son dos Jefes de Trabajos Prácticos (Balbachan y Carranza), con la nota al pie del propio programa de que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». CONTRADICCIÓN REGISTRADA sobre la evaluación: el ítem f declara que la promoción directa «consta de 3 (tres) instancias de evaluación parcial», mientras que la planificación detallada del ítem g consigna solo dos, «Examen Parcial 1» (semana 7) y «Examen Parcial 2» (semana 14). CONTRADICCIÓN REGISTRADA sobre la bibliografía: Grune y Jacobs, Parsing Techniques. A practical guide (Springer, Amsterdam) figura fechada en 2008 en la complementaria de la Unidad I y en 2007 en la bibliografía general. DIVERGENCIA REGISTRADA entre las dos listas: la bibliografía asigna Russell y Norvig cap. 23 a la Unidad II (DCG) y cap. 22 a la Unidad III (HPSG), mientras que la planificación de clases usa el cap. 23 en la semana 6 (chart parser sobre CFG) y el cap. 22 en la semana 8 (DCG). COBERTURA REGISTRADA: los contenidos declaran cinco unidades, pero la planificación semanal detalla las Unidades I a III y comprime los paradigmas estadístico y conexionista en una sola semana (la 12, clases 23-24). ERRATAS DEL ORIGINAL, transcriptas tal cual: «el curso inlcuye», «Computacional Linguistics» en el título de Bolshakov y Gelbukh, «Jurafsky & Matin» en la tabla de planificación. SELECCIÓN DECLARADA: se dibujan como nodo libro los ítems que el programa cita como volumen con título y editorial —obligatorios y complementarios por igual—, incluidos los citados por capítulo dentro del propio volumen. No se dibujan, en ninguna unidad: los artículos de revista (Balbachan y Dell'Era 2010 en Linguamática; Redington et al. 1998 en Cognitive Science; Chater y Manning 2006 en TRENDS in Cognitive Sciences; Balbachan, Flechas, Maltagliatti, Pensa y Ramírez 2021 en Anales de Lingüística; Shieber 1985 en Linguistics and Philosophy; Soames 1984 en Linguistics and Philosophy), los capítulos en obras colectivas citados por capítulo (Abney 1996 en Klavans y Resnik (eds.), The balancing act; Peacocke 1989 en George (comp.), Reflections on Chomsky; Soames 1985 en Katz (comp.), The Philosophy of Linguistics), la tesis de doctorado (Balbachan 2014, UBA-FFyL) y la ficha de cátedra (Balbachan (editor), Dell'Era, Berros, Cruces y Haimovici 2009, Cuadernillo de ejercicios y apuntes, Serie Fichas de Cátedra, FFyL-UBA).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "De la jerarquía de Chomsky a las redes neuronales",
+      "note": "Cada unidad del programa es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LINGÜÍSTICA COMPUTACIONAL / MODELOS FORMALES NO TRANSFORMACIONALES\ncódigo 0581 (Plan 1985) · 15052 (Plan 2023)\n│\n├─ I · Bajo la égida de Chomsky\n│      reglas de estructura de frase y transformaciones · jerarquía de Chomsky\n│      autómatas finito, descendente, lineal · lenguajes regulares · CFG\n│\n├─ II · La superación del modelo chomskyano\n│      Gramática de Cláusula Definida (DCG) · lógica de predicados de primer orden\n│      el operador Unificación · ventajas sobre CFG · límites\n│\n├─ III · Modelos optimizados fuera del área de injerencia chomskyana\n│      rasgo (feature) · matriz de features · herencia, jerarquías de tipos,\n│      restricciones de linealidad · HPSG (Ivan Sag) aplicada al español\n│\n├─ IV · El paradigma estadístico\n│      cadenas de Markov · información distribucional e información mutua\n│      el debate sobre la Pobreza de los Estímulos · anotación de corpus\n│      clustering · machine learning\n│\n└─ V · El paradigma conexionista de redes neuronales\n       back-propagation · arquitecturas de deep learning\n       plausibilidad psicolingüística · parsing y NLP dentro de la disciplina",
+        "foot": "El recorrido va de los modelos simbólicos a los estadísticos y de ahí a los conexionistas, y cierra con una reflexión sobre las implicancias lingüísticas y epistemológicas de una teoría gramatical. La planificación semanal detalla las Unidades I a III (más una semana de PLN) y comprime los dos últimos paradigmas en una semana (la 11 se dedica al PLN)."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.egida-de-chomsky",
+          "name": "Bajo la égida de Chomsky",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.superacion-del-modelo-chomskyano",
+          "name": "La superación del modelo chomskyano · Gramática de Cláusula Definida (DCG)",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.modelos-optimizados",
+          "name": "Modelos optimizados fuera del área de injerencia chomskyana · HPSG",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.paradigma-estadistico",
+          "name": "El paradigma estadístico",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.paradigma-conexionista",
+          "name": "El paradigma conexionista de redes neuronales",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · obligatoria, complementaria y general",
+      "title": "El aparato de lectura",
+      "note": "Volúmenes citados por el programa, con la unidad en la que se los pide. Se dibuja lo que el programa cita como libro con título y editorial; los artículos de revista, los capítulos en obras colectivas, la tesis de doctorado y la ficha de cátedra no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-chomsky-estructuras",
+          "name": "Estructuras sintácticas — N. Chomsky (Siglo XXI, México, 1957; «hay diversas ediciones en español»)",
+          "role": "obligatoria · Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-eguren-fernandez",
+          "name": "Introducción a una sintaxis minimista — L. Eguren y O. Fernández Soriano (Gredos, Madrid, 2004), cap. 1",
+          "role": "obligatoria · Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-jurafsky-martin",
+          "name": "Speech and Language Processing — D. Jurafsky y J. Martin (Prentice-Hall, New Jersey, 2000)",
+          "role": "obligatoria · U1 caps. 2 y 9 · U2 cap. 11 · U4 caps. 1, 10, 15 y 21",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-sandoval-linguistica-computacional",
+          "name": "Lingüística Computacional — A. Sandoval Moreno (Editorial Síntesis, Madrid, 1998)",
+          "role": "obligatoria · Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-hierro-pescador",
+          "name": "Principios de Filosofía del Lenguaje 1. Teoría de los signos y de la Gramática — J. Hierro S. Pescador (Alianza, Madrid, 1980), cap. 4",
+          "role": "obligatoria · Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-grune-jacobs",
+          "name": "Parsing Techniques. A practical guide — D. Grune y C. Jacobs (Springer, Amsterdam; el programa la fecha en 2008 en la Unidad I y en 2007 en la bibliografía general)",
+          "role": "complementaria · Unidad I · y bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-partee-meulen-wall",
+          "name": "Mathematical Methods in Linguistics — B. Partee, A. Meulen y R. Wall (Kluwer Academic Publishers, Dordrecht, 1993)",
+          "role": "complementaria · Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-savich-formal-complexity",
+          "name": "The Formal Complexity of Natural Languages — W. Savich, E. Bach, W. Marsh y G. Safran-Naveh (Kluwer Academic Publishers, Dordrecht, 1987)",
+          "role": "complementaria · Unidades I y V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-sag-wasow",
+          "name": "Syntactic Theory. A Formal Introduction — I. Sag y Th. Wasow (CSLI Publications, Stanford, 1999)",
+          "role": "complementaria · Unidad I (Apéndice B) y Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-russell-norvig",
+          "name": "Inteligencia Artificial: un enfoque moderno — S. Russell y P. Norvig (Prentice Hall, New Jersey, 1995)",
+          "role": "obligatoria · Unidad II cap. 23 · Unidad III cap. 22",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-radford",
+          "name": "Syntactic Theory and The Structure of English. A Minimalist Approach — A. Radford (Cambridge University Press, 1997)",
+          "role": "complementaria · Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-alsina",
+          "name": "The Role of Argument Structure in Grammar. Evidence from Romance — A. Alsina (CSLI Publications, Stanford, 1996)",
+          "role": "complementaria · Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-sandoval-gramaticas-unificacion",
+          "name": "Gramáticas de Unificación y Rasgos — A. Sandoval Moreno (Ed. Antonio Machado, Madrid, 2001)",
+          "role": "obligatoria · Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-pollard-sag-1987",
+          "name": "Information-Based Syntax and Semantics — C. Pollard e I. Sag (CSLI Publications, Stanford, 1987)",
+          "role": "complementaria · Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-pollard-sag-1994",
+          "name": "Head-Driven Phrase Structure Grammar — C. Pollard e I. Sag (CSLI Publications, Stanford, 1994)",
+          "role": "complementaria · Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-sells",
+          "name": "Teorías sintácticas actuales (GB, GPSG, LFG) — P. Sells (Ed. Teide, Barcelona, 1989)",
+          "role": "complementaria · Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-shieber-unification",
+          "name": "An Introduction to Unification-Based Approaches to Grammar — S. Shieber (CSLI Publications, Stanford, 1986)",
+          "role": "complementaria · Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-manning-schutze",
+          "name": "Foundations of Statistical Natural Language Processing — C. Manning y H. Schütze (The MIT Press, Cambridge MA, 1999), cap. 1",
+          "role": "obligatoria · Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-clark",
+          "name": "Unsupervised language acquisition: theory and practice — A. Clark (School of Cognitive and Computing Sciences, University of Sussex Press, 2001)",
+          "role": "complementaria · Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-pinker",
+          "name": "El instinto del lenguaje — S. Pinker (1994; versión española de José Manuel Igoa González, Alianza, Madrid, 1995)",
+          "role": "obligatoria · Unidad V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-computacional.libro-bolshakov-gelbukh",
+          "name": "Computacional Linguistics: model, resources, applications — I. Bolshakov y A. Gelbukh (UNAM, México, 2004) · «Computacional» así impreso en el programa",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de MODELOS FORMALES NO TRANSFORMACIONALES (Plan 1985) / LINGÜÍSTICA COMPUTACIONAL (Plan 2023), códigos 0581 y 15052, Departamento de Letras, profesora Zubillaga, Carina, 2º cuatrimestre 2026 (modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0581%2015052%20MODELOS%20FORMALES%20NO%20TRANSFORMACIONALES%20ZUBILLAGA.pdf"
+  }
+}

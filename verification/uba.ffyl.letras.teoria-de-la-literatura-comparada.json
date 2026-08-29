@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6, "units_found": 6,
+  "books_total": 51, "books_found": 51,
+  "not_found": [
+    "frame generalization 'los otros programas de Letras llevan códigos de tres o cuatro cifras' FALSE — 38 of 41 Letras nodes carry a 15xxx code; 15037 is not anomalous, it sits inside the standard Plan-2023 series; the only literal fact is this PDF omits the Plan-1985 code"
+  ],
+  "omitted": [
+    "an eighth Ortiz-class contradiction unregistered: Said Cultura e Imperialismo Anagrama 2001 (obligatoria) vs 1993 (general) — contradiction list inconsistently applied",
+    "'ni las ponencias en actas' names a category with no obligatoria instance"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Structure exact: 15 tramos are the program's own numbering (2+2+2+3+3+3); 23 obligatoria + 28 Fuentes = 51 recounted independently both ways; all 11 excluded articles named exhaustively; Ortiz correctly drawn (obligatoria) while Zima/Bhabha/Auerbach correctly absent; role attributions precise even where authors also sit in U1 complementaria. All seven contradictions + both erratas confirmed literal (Obras completas 1923-1872 twice, L546/L548; Glicksohn inside D'hulst's paragraph L613; PD vs examen final L875). 'Cátedra' exactly once (Madrid publisher L493). 19 form-feeds = 19 pages. Parent linkage verified. The one substantive error: the código passage misrepresents the atlas's own data — fix the generalization, keep the literal absence."
+}

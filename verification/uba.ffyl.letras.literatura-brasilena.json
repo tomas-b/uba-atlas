@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.literatura-brasilena",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6, "units_found": 6,
+  "books_total": 47, "books_found": 47,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Independent recount closes exactly: 18 volumes from c. + 29 new from d. = 47; 5 merges all correct; chapter→container rule consistent; exclusions verified both ways (5 articles, film, disco, obra plástica). Name-narrowing literal: grep 'portugu' = exactly 2 hits, both the materia-name lines; the node declines to resolve the Plan-1985 relation. REDEC contradiction literal (footnote scopes 2024, section e. says 2026). All erratas printed as claimed (la la palabra; Rennó ×3 spellings; Vronica Stigger vs Verónica; Eterna Cadencia no-year real). 'cátedra' exactly once (reglamento quote L260). Minor: unit-2 map row breaks the map's own corpus-authors pattern (lists Spivak from d., drops Machado/Nascimento); Candido 'p, 9-30' quietly normalized to 'pp. 9-30' (unlisted); interinos footnote not carried."
+}

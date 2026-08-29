@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.filologia-latina",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7, "units_found": 7,
+  "books_total": 40, "books_found": 40,
+  "not_found": [
+    "frame 'erratas conservadas y no corregidas' — three listed errata were silently corrected in the spine tree (collado→collatio, constitutlo→constitutio, grammatící→grammatici); only 'unidadades' truly preserved",
+    "normalization disclosure under-inclusive: also restored authors/places/publishers (Fränkel, Väänänen, Göttingen, Università) and non-Italian titles (Latin palaeography, Grammatik)",
+    "books-group note misattributed the databases to the obligatoria (they close Unidad VI's complementaria)"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "history": "This node's FIRST version (same wave) was an L1 absence claim REFUTED by the adversarial absence-verifier: FILO:Digital holds three programa records (2015/2016/2017) the orchestrator's search missed — recorded then as verdict 'fabrication' (inverse violation: sealing the sourceable). This verdict covers the L2 replacement grounded from the 2017 programa.",
+  "notes": "No structural or count error: 7/7 units literal; the unquoted-title rule reproduces exactly 40 from 62 obligatoria entries (Unidad I zero confirmed — all five are quoted articles); all four Fuentes/obligatoria duplicates drawn once on the obligatoria side, no fifth exists. All three contradictions literal (carrera Clásicas vs Letras; anual vs cuatrimestral; 2017 vs firma oct-2016). All absence claims verified by grep (hora/correlativ/modalidad/resoluc = 0 hits; Res. 1636/15 nowhere in the PDF, correctly scoped to the 2015 record). 'cátedra' exactly once (src L598). Data-bearing oddities preserved (Havet du critique verbale; Sihler 1933; Mariotti e Parte/e l'arte both recorded). Fixes applied at wave close: the two disclosure clauses and the group-note attribution."
+}

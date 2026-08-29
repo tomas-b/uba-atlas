@@ -1,0 +1,15 @@
+{
+  "address": "uba.ffyl.letras.linguistica-formal",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3, "units_found": 3,
+  "books_total": 9, "books_found": 9,
+  "not_found": [
+    "U2 exit name carries an authored gloss ('· de Principios y parámetros al Minimalismo') not printed in the unit title (faithful synthesis of L82-85, but authored)",
+    "Gallego variation note over-broad: 'de sintaxis formal' appears exactly once (L271, the general-bibliography volume entry); 6 of 7 general-bib occurrences use 'de la'"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Exit layer exact: 9 distinct volumes, all drawn, no extras; multi-unit roles literal (Bosque&GR, Gallego); all 6 exclusions correct both ways (1 article, 1 ponencia, 1 thesis, 3 fichas — frame pluralizes where each is singular). REDEC contradiction literal (portada 2024-2526 twice vs L330-332 2023-2382 'Ciclo Lectivo 2024'). Code printed '580 /15051' without leading zero and without plan assignment, as claimed. Cover equivalence Chomskyana/Formal verified; body uses only the old name. Both no-year volumes confirmed (years belong to the contributions). metadata.catedra's account of all 8 'cátedra' occurrences exact. Minor: tree header reverses the cover's name order; equipoDocente folds Kornfeld in with annotation."
+}

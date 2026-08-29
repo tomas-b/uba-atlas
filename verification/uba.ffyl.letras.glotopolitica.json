@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.glotopolitica",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 42, "books_found": 42,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "All five refutation targets survived. Units 5/5 literal; the IV=3.1-3.3 / V=4.1-4.3 numbering erratum confirmed real and carried unrenumbered. ~165+ bibliography entries audited both directions: every drawn item volume-titled with imprint, every excluded volume-shaped item covered by a declared exclusion (closest call Moreno 1810 'en Escritos...' consistent with Wright/Phillipson; Araya Umaña FLACSO working paper the one borderline inclusion, resolved by the cátedra exclusion). Di Tullio double-title literal (L432 vs L550); both U1 repetitions literal. Cover equivalence exact. Cross-source attribution verified against parent. Minor: metadata.bibliografia=42 reads as the program's bibliography size (real count ≥164) — drawn-volume count; frame's 12 'cátedra' occurrences correct in count but its three-bucket breakdown folds a Bogotá book-series title in; equipoDocente folds Arnoux/Bein into a roster the print separates; one quote cut mid-sentence before 'de dictado de clases'."
+}

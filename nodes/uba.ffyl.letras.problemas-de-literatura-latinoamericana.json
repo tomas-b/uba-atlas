@@ -1,0 +1,297 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0586 (Plan 1985) · 15036 (Plan 2023)",
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 horas semanales)",
+    "cuatrimestre": "2º (Cátedra «A») · 1º (Cátedra «B»)",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (hasta 30% de las clases en modalidad virtual)",
+    "catedra": "Cátedra «A» — Profesora Asociada Regular CROCE, Marcela · códigos 0586 (Plan 1985) / 15036 (Plan 2023) · programa 2º cuatrimestre 2026",
+    "catedras": 2,
+    "equipoDocente": [
+      "CROCE, Marcela (Profesora Asociada Regular)",
+      "ADUR, Lucas (JTP Regular)",
+      "ALONSO, Mercedes (Ayte. 1era. Regular)",
+      "PANAIA, Lucas (Ayte. 1era. Regular)"
+    ],
+    "tituloDelPrograma": "el programa no consigna título/tema: el campo «TÍTULO / TEMA DEL PROGRAMA» figura vacío en el PDF",
+    "unidades": 3,
+    "bibliografia": 24,
+    "area": "Literatura Argentina y Latinoamericana",
+    "evaluacion": "3 instancias de evaluación parcial · Reglamento Académico Res. (CD) Nº 4428/17 · 1 recuperatorio",
+    "rota": "sí — el recorte, el corpus y el título del programa cambian con la cátedra"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana",
+      "label": "Problemas de Literatura Latinoamericana"
+    }
+  ],
+  "eyebrow": "Letras · Literatura Argentina y Latinoamericana · Problemas de Literatura Latinoamericana",
+  "title": "América Latina, comparada sin centro.",
+  "lede": "«América Latina» es, según la fundamentación de este programa, una designación de referencialidad flotante: un expediente simplificador que el poscolonialismo y la subalternidad metropolitanos usan para superponer culturas sin mayor vinculación entre sí. Contra eso, las literaturas comparadas se restituyen a su condición de pura relación comprobable —no ya la superioridad de una literatura «central» sobre otra «periférica»—, y se comparan no solo textos sino fenómenos, géneros y espacios. Tres recortes lo ponen a prueba: el modernismo como fenómeno supranacional que difumina fronteras para reponer el carácter estético del castellano; los muertos que narran, de La amortajada a Mapocho y Redoble por Rancas, con la sombra de Comala encima; y la crónica como género de la inmediatez, de João do Rio a María Moreno, Monsiváis y Villoro.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "PD",
+      "small": "cuatrim. · 96 hs"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "2",
+      "small": "A y B"
+    }
+  ],
+  "frame": "Contenido real del programa de Problemas de Literatura Latinoamericana «A», códigos 0586 (Plan 1985) y 15036 (Plan 2023), Departamento de Letras, FFyL-UBA. La materia se dicta en DOS cátedras paralelas, ambas con programa oficial publicado en letras.filo.uba.ar para 2026, y con recortes enteramente distintos. LO QUE SE DIBUJA ACÁ ES EL RECORTE DE LA CÁTEDRA «A» (Profesora Asociada Regular Marcela Croce, 2º cuatrimestre 2026, régimen PD, 96 horas, modalidad presencial ajustada a REDEC-2024-2526-UBA-DCT#FFYL): tres unidades —el modernismo como fenómeno supranacional; los muertos que narran; la crónica como género de la inmediatez en recorrido transhistórico— con equipo docente Adur (JTP Regular), Alonso y Panaia (Aytes. 1era. Regulares). LA CÁTEDRA «B» EXISTE Y ES OTRO PROGRAMA: según su propio PDF (códigos 0586-B / 15036-B, Prof. Andrea Ostrov, 1º cuatrimestre 2026, PD, 96 horas, misma REDEC), se titula «Espacios, fronteras y territorios en la literatura latinoamericana (siglos XX y XXI). Bio-eco-políticas de la vulnerabilidad y la precarización» y se organiza en SEIS unidades —Aproximaciones teóricas del cuerpo y el espacio; El Estado Nación como espacio biopolítico; Espacios de disciplinamiento; Fronteras y cuerpos en tránsito; Capitalismo, colonialidad y eco-genocidio; Ciudad neoliberal, modernización, fragmentación y desigualdad—, con equipo docente García Cedro (JTP), Bendahan y Valle (Aytes. 1ª). Ninguno de los contenidos ni de la bibliografía de la Cátedra «B» se dibuja en este nodo. AUSENCIA REGISTRADA: en el programa de la Cátedra «A» el campo «TÍTULO / TEMA DEL PROGRAMA» está impreso pero vacío — la materia no lleva título de programa; el título editorial de este nodo es propio del atlas, no del programa. CONTRADICCIONES DEL ORIGINAL, registradas sin resolver: (1) los Contenidos de la Unidad III nombran «Días y guardar» de Monsiváis, mientras que las Fuentes de esa misma unidad citan «Días de guardar. México: Era, 1969» — se dibuja el volumen tal como lo cita Fuentes y se deja constancia de la otra grafía; (2) el programa es del 2º cuatrimestre 2026 pero declara que la REDEC-2024-2526-UBA-DCT#FFYL «establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2025»; (3) los Contenidos de la Unidad I nombran «Los peregrinos de piedra» de Herrera y Reissig, mientras que las Fuentes citan el volumen «Poesía completa y prosas» (edición crítica de Ángeles Estévez, Colección Archivos n. 32) — se dibuja el volumen de Fuentes. SELECCIÓN DECLARADA de bibliografía: se dibujan como nodo libro (a) todas las Fuentes de las tres unidades —el corpus primario— y (b) de la bibliografía obligatoria, únicamente las entradas citadas como volumen entero, con autor o editor, título, ciudad y editorial, sin recorte de páginas ni «en» otra obra. Quedan fuera, por igual en la bibliografía obligatoria de las tres unidades (las Fuentes se dibujan todas, aun citadas con «en» o recorte, como los Misales de Di Giorgio): artículos de revista, capítulos y prólogos introducidos por «en», entradas con recorte de páginas, dossiers y materiales solo en línea, y LA BIBLIOGRAFÍA COMPLEMENTARIA COMPLETA (excluida en bloque). Por esa regla la Unidad II no aporta ningún libro de bibliografía obligatoria: sus dieciséis entradas obligatorias son artículos, capítulos, un dossier (Croce, Kipus 55) o recortes paginados de monografía (Gras Miravet, caps. 8-9), y solo se dibujan sus tres Fuentes. Juan Rulfo aparece en la fundamentación y en los contenidos («la sombra terrible de Comala», «el sobrevuelo inevitable de los fantasmas de Juan Rulfo») pero no figura como autor en las Fuentes ni en la bibliografía (sí como tema: Miramontes 2004, «Rulfo, lector de Bombal», obligatoria de la Unidad II): ninguna obra suya se dibuja.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades (Cátedra «A», Croce, 2º cuatrim. 2026)",
+      "title": "Tres recortes comparables",
+      "note": "Cada unidad del programa de la Cátedra «A» es un nodo, en orden. El recorte es de esta cátedra: la Cátedra «B» recorre el mismo lugar del plan con otras seis unidades.",
+      "map": {
+        "mk": "El programa, en tres unidades",
+        "tree": "PROBLEMAS DE LITERATURA LATINOAMERICANA «A» · 0586 / 15036\ncomparatismo sin jerarquía central-periférica · Croce · 2º cuatrim. 2026\n│\n├─ I · EL MODERNISMO, FENÓMENO SUPRANACIONAL\n│     la condición estética de la lengua castellana · la ékphrasis\n│     ├─ Darío ─ del Casal ....... consolidación del movimiento\n│     ├─ Herrera y Reissig ─ di Giorgio ... flexión vanguardista rioplatense\n│     └─ López Velarde ─ Storni ... reverberación romántica\n│\n├─ II · MUERTOS QUE NARRAN EN UN CONTINENTE VAPULEADO\n│     narradores inconcebibles · cuerpos arrasados · la sombra de Comala\n│     └─ Bombal · Fernández Silanes · Scorza\n│\n└─ III · LA CRÓNICA: GÉNERO DE LA INMEDIATEZ, RECORRIDO TRANSHISTÓRICO\n      ¿quién dice «yo» en la crónica? · sobrevuelos y bajos fondos\n      └─ João do Rio · Monsiváis · Moreno · Villoro",
+        "foot": "Recorte de la Cátedra «A». La Cátedra «B» (Ostrov, 1º cuatrim. 2026) cubre el mismo lugar del plan con seis unidades sobre espacios, fronteras y territorios."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.modernismo-supranacional",
+          "name": "El modernismo, fenómeno supranacional",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.muertos-que-narran",
+          "name": "Muertos que narran en un continente vapuleado",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.cronica-inmediatez",
+          "name": "La crónica: un género de la inmediatez en recorrido transhistórico",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes y bibliografía obligatoria (Cátedra «A»)",
+      "title": "El corpus y sus libros",
+      "note": "Las Fuentes de las tres unidades más los libros citados como volumen entero en la bibliografía obligatoria. Artículos de revista, capítulos y prólogos «en» otra obra, entradas con recorte de páginas, dossiers y materiales solo en línea no se dibujan; la bibliografía complementaria queda excluida en bloque. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-dario-del-simbolo-a-la-realidad",
+          "name": "Del símbolo a la realidad. Obra selecta — Rubén Darío (Real Academia Española, 2016)",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-del-casal-flores-de-invernadero",
+          "name": "Flores de invernadero. Poesía y prosa — Julián del Casal (Corregidor, Buenos Aires, 2012)",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-herrera-y-reissig-poesia-completa",
+          "name": "Poesía completa y prosas — Julio Herrera y Reissig (ed. crítica de Ángeles Estévez, Colección Archivos n. 32, FCE-ALLCA, 1998)",
+          "role": "Unidad I · fuente · los contenidos nombran «Los peregrinos de piedra»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-di-giorgio-misales",
+          "name": "Misales — Marosa di Giorgio (en El Gran Ratón Dorado, el Gran Ratón de lilas, El Cuenco de Plata, 2008, 11-132)",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-lopez-velarde-obras",
+          "name": "Obras — Ramón López Velarde (ed. de José Luis Martínez, FCE, México, 2014 [1971])",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-lopez-velarde-poesia-y-poetica",
+          "name": "Poesía y poética — Ramón López Velarde (ed. de Guillermo Sheridan, Biblioteca Ayacucho n. 235, Caracas, 2006)",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-storni-para-animarse",
+          "name": "Para animarse a leer a Alfonsina Storni — Alfonsina Storni, edición de Marcela Croce (Eudeba, 2024)",
+          "role": "Unidad I · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-gutierrez-girardot-modernismo",
+          "name": "Modernismo. Supuestos históricos y culturales — Rafael Gutiérrez Girardot (FCE, México, 1987)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-molloy-poses",
+          "name": "Poses de fin de siglo. Desbordes del género en la modernidad — Sylvia Molloy (Eterna Cadencia, 2012)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-montaldo-cosmopolita",
+          "name": "Viajes de un cosmopolita extremo — Graciela Montaldo (FCE, Buenos Aires, 2013)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-rama-mascaras-democraticas",
+          "name": "Las máscaras democráticas del modernismo — Ángel Rama (Arca-Fundación Ángel Rama, Montevideo, 1985)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-villoro-historicas-pequeneces",
+          "name": "Históricas pequeñeces. Vertientes narrativas en Ramón López Velarde — Juan Villoro (discurso de ingreso, El Colegio Nacional, México, 2014)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-bombal-la-amortajada",
+          "name": "La última niebla. La amortajada — María Luisa Bombal (Seix Barral, Barcelona, 1984)",
+          "role": "Unidad II · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-fernandez-mapocho",
+          "name": "Mapocho — Nona Fernández Silanes (Eterna Cadencia, 2019 [2002])",
+          "role": "Unidad II · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-scorza-redoble-por-rancas",
+          "name": "Redoble por Rancas — Manuel Scorza (Planeta, Barcelona, 1970)",
+          "role": "Unidad II · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-joao-do-rio-alma-encantadora",
+          "name": "A alma encantadora das ruas — João do Rio (Martin Claret, São Paulo, 2007) · selección",
+          "role": "Unidad III · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-monsivais-amor-perdido",
+          "name": "Amor perdido — Carlos Monsiváis (Era, México, 1977) · selección",
+          "role": "Unidad III · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-monsivais-dias-de-guardar",
+          "name": "Días de guardar — Carlos Monsiváis (Era, México, 1969) · los contenidos lo nombran «Días y guardar»",
+          "role": "Unidad III · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-moreno-subrayados",
+          "name": "Subrayados. Leer hasta que la muerte nos separe — María Moreno (Mardulce, Buenos Aires, 2013)",
+          "role": "Unidad III · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-villoro-vertigo-horizontal",
+          "name": "El vértigo horizontal — Juan Villoro (Almadía, México, 2019)",
+          "role": "Unidad III · fuente",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-darrigrandi-el-affair-moreno",
+          "name": "El affair Moreno — Claudia Darrigrandi, Viviane Mahieux y Mariela Méndez (eds.) (Mansalva, Buenos Aires, 2020)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-egan-monsivais",
+          "name": "Carlos Monsiváis. Cultura y crónica en el México contemporáneo — Linda Egan (FCE, México, 2004)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-gomes-joao-do-rio",
+          "name": "João do Rio: vielas do vício, ruas da graças — Renato Cordeiro Gomes (Relume-Dumará / Prefeitura, Rio de Janeiro, 1996, Série Perfis do Rio n. 13)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-latinoamericana.libro-rotker-invencion-de-la-cronica",
+          "name": "La invención de la crónica — Susana Rotker (Letra Viva, Buenos Aires, 1992)",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Problemas de Literatura Latinoamericana «A», códigos 0586 (Plan 1985) / 15036 (Plan 2023) · Prof. Asociada Regular Marcela Croce · 2º cuatrimestre 2026 (FFyL-UBA, Depto. de Letras)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0586%2015036%20PROBLEMAS%20DE%20LITERATURA%20LATINOAMERICANA%20A%20CROCE.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de Problemas de Literatura Latinoamericana «A», códigos 0586 / 15036 · Croce · 2º cuatrimestre 2026 — fuente de todo el contenido dibujado en este nodo",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0586%2015036%20PROBLEMAS%20DE%20LITERATURA%20LATINOAMERICANA%20A%20CROCE.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Programa de Problemas de Literatura Latinoamericana B, códigos 0586-B / 15036-B · Prof. Andrea Ostrov · 1º cuatrimestre 2026 — cátedra paralela; se registra su existencia, su título («Espacios, fronteras y territorios en la literatura latinoamericana (siglos XX y XXI). Bio-eco-políticas de la vulnerabilidad y la precarización») y sus seis unidades, pero no se dibuja su contenido",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0586%20-%2015036%20PROBLEMAS%20DE%20LITERATURA%20LATINOAMERICANA%20B%202026.pdf"
+    }
+  ]
+}

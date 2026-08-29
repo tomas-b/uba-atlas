@@ -1,0 +1,413 @@
+{
+  "address": "uba.ffyl.letras.analisis-del-discurso",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — 3 instancias de evaluación parcial, Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 hs (mínimo 6 y máximo 10 hs semanales de dictado)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0572 (Plan 1985) · 15062 (Plan 2023)",
+    "denominaciones": "LINGÜÍSTICA INTERDISCIPLINARIA (Plan 1985) / ANÁLISIS DEL DISCURSO (Plan 2023) — equivalencia consignada en la portada del programa",
+    "catedra": "Depto. de Letras · Prof. Titular Elvira Narvaja de Arnoux · programa 1º cuatrimestre 2026 (el programa no consigna letra de cátedra ni menciona otras)",
+    "equipoDocente": [
+      "NARVAJA DE ARNOUX, ELVIRA (Profesora Titular)",
+      "BERMÚDEZ, NICOLÁS (JTP regular)",
+      "VITALE, MARÍA ALEJANDRA (JTP regular)",
+      "FERRO, FABIOLA (JTP interina — ayudante de primera, regular)",
+      "ZACCARI, VERÓNICA (JTP interina — ayudante de primera, regular)"
+    ],
+    "modalidad": "presencial, hasta 30% en modalidad virtual · el cuerpo del programa invoca REDEC-2024-2526-UBA-DCT#FFYL; la portada invoca REDEC-2021-2174-UBA-DCT#FFYL",
+    "unidades": 5,
+    "bibliografia": 40,
+    "evaluacion": "3 parciales (Opción A: promedio ≥ 7 sin aplazos · Opción B: ≥ 4 en cada instancia y examen final) · 1 recuperatorio · el último escrito es una monografía sobre un tema de la Unidad 5",
+    "ciclo": "Área Lingüística de la carrera de Letras, materia cuatrimestral, según el nodo padre uba.ffyl.letras (plan 2023); el programa mismo no consigna área ni posición en el plan"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.analisis-del-discurso",
+      "label": "Análisis del Discurso"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Análisis del Discurso",
+  "title": "Un discurso no se lee solo: se le arma el archivo.",
+  "lede": "La relación entre las disciplinas lingüísticas y las ciencias sociales y humanas, tomada por el lado del Análisis del Discurso: su carácter interdisciplinario y su dimensión crítica. Se analizan materiales semióticamente variados —político, histórico, digital, religioso, periodístico, psicoanalítico, jurídico, literario— y el corpus no se hereda: se construye desde archivos, guiado por las hipótesis del investigador. El recorrido va del campo y sus desarrollos latinoamericanos a la activación discursiva de la memoria, la discursividad política y sus mutaciones, la argumentación leída desde la tradición retórica, y cierra en la discursividad panfletaria y los discursos de odio. Los casos son reales y datados: el bombardeo a Plaza de Mayo de 1955, el desalojo de Guernica, la Marcha de las Piedras, el debate de la Reforma Previsional de 2017, la ley 27.610, los documentales de Pino Solanas sobre extractivismo, los discursos políticos de la pandemia, la batalla cultural de los libertarios.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa 1º cuatrimestre 2026 de la Prof. Titular Elvira Narvaja de Arnoux, publicado en letras.filo.uba.ar. EQUIVALENCIA DE DENOMINACIONES: la portada del programa consigna los códigos «0572 (Plan 1985)» y «15062 (Plan 2023)» —en dos renglones de la portada, sin barra— y la materia «LINGÜÍSTICA INTERDISCIPLINARIA (Plan 1985) / ANÁLISIS DEL DISCURSO (Plan 2023)» — la equivalencia se registra citando la portada del propio programa, no un texto del plan. La ubicación en el área Lingüística y el régimen cuatrimestral vienen del nodo padre uba.ffyl.letras (plan 2023); el programa no las consigna. CÁTEDRA: el programa nombra una sola Profesora Titular y cuatro JTP, y no consigna letra de cátedra ni menciona la existencia de otras; la palabra «cátedra» sí aparece en el PDF —en la fundamentación («es aspiración de la cátedra no yuxtaponer enfoques disciplinarios»), en materiales citados en la bibliografía («Material Cátedra de Lingüística Interdisciplinaria», traducciones «para la cátedra») y en el texto reglamentario transcripto de la REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)— pero nunca como designación A/B. CONTRADICCIÓN REGISTRADA, NO RESUELTA: la portada declara «MODALIDAD DE DICTADO: PRESENCIAL ajustado a lo dispuesto por la REDEC-2021-2174-UBA-DCT#FFYL», mientras que la segunda carátula y la sección «Organización del dictado» invocan la REDEC-2024-2526-UBA-DCT#FFYL; además, la nota al pie que acompaña a esa REDEC-2024-2526 describe pautas «durante la cursada del 1º y 2º cuatrimestre de 2022», y el cuerpo del programa dice que la misma REDEC establece pautas «durante el Ciclo Lectivo 2026». También difieren las etiquetas: la portada rotula «MODALIDAD DE DICTADO» y la segunda carátula «MODALIDAD DE PROMOCIÓN» sobre el mismo valor (PRESENCIAL). BIBLIOGRAFÍA: el programa encabeza la sección «Bibliografía (se indica la general y durante la cursada se señalará la obligatoria)» — es bibliografía GENERAL por unidad; el propio programa no marca cuál es obligatoria, y este nodo no lo infiere. SELECCIÓN DECLARADA Y APLICADA EN LOS DOS SENTIDOS: se dibujan como nodo libro únicamente las entradas impresas en forma de volumen publicado (libro de autor o volumen colectivo con editorial). Quedan excluidos, sin excepción: artículos de revista; capítulos, selecciones y entrevistas dentro de obras colectivas; números especiales de revista (AA.VV., «La mémoire et l'oubli», Communications 49; Monnier y otros dirs., Mots 125); informes y tesis (Ipar dir., «Percepción de la violencia y los discursos de odio en las redes sociales», informe cualitativo; Partanen, «Typology of Hate», tesis de maestría, Universidad de Helsinki); documentos institucionales (Naciones Unidas, «Estrategia y plan de acción... contra el discurso de odio»); y materiales de cátedra («El discurso histórico. Material Cátedra de Lingüística Interdisciplinaria», que aloja a Robin 2004 y Hobsbawm 2004). Cuando un capítulo excluido tiene su volumen anfitrión listado aparte como entrada propia, ese volumen sí se dibuja: es el caso de Angenot, cuya selección «Tipologías» de «La palabra panfletaria» figura en la Unidad 4 y cuyo volumen «La parole pamphlétaire» (París: Payot, 1982) figura como entrada en la Unidad 5. Cuando el volumen anfitrión no es entrada propia, no se dibuja: así quedan fuera «El discurso como interacción social» de van Dijk (anfitrión de Fairclough y Wodak en la U1 y de Chilton y Shäffner en la U3), «Fórmulas discursivas», «Partage des savoirs et influence culturelle», «Semiótica y política en el discurso público», «Parlamentos», «Papel da memoria», «Génesis del discurso», «Essai de Logique Naturelle» y «El discurso histórico» de Lozano (Alianza), entre otros. TIPOGRAFÍA DEL ORIGINAL: los títulos y nombres se reproducen tal como los imprime el programa, incluidas sus erratas — «llouz, E.» por Illouz, «Kemperer, Victor» por Klemperer, «Un théorie générale», «Modèle dánalyse», y Perelman citado junto a Olbrechts-Tyteca sin inicial. Ninguna entrada resultó ilegible: el PDF tiene capa de texto y se extrajo íntegro (16 páginas según el extractor). Los contenidos de los libros (L3) no están indexados.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "Del campo al panfleto",
+      "note": "Cada unidad del programa 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "ANÁLISIS DEL DISCURSO · 0572 / 15062 · Arnoux · 1º cuatr. 2026\n│\n├─ 1 · El análisis del discurso como campo interdisciplinario\n│      conformación histórica · desarrollos latinoamericanos · perspectiva crítica\n│      análisis contrastivo · series documentales · reformulación interdiscursiva\n│\n├─ 2 · Lenguaje e ideología · la activación discursiva de la memoria\n│      formaciones discursivas · heterogeneidad · matrices · memoria y desmemoria\n│\n├─ 3 · La discursividad política\n│      mutaciones · tecnologización · discurso experto · batalla cultural libertaria\n│\n├─ 4 · En torno a la argumentación\n│      logos, ethos y pathos · semiotización de las emociones · narración e historia\n│\n└─ 5 · La discursividad panfletaria y los discursos de odio\n       polémica · violencia verbal · estigmatización · redes · derechas actuales",
+        "foot": "El programa declara que a la Unidad 5 «se le va a otorgar particular atención por la importancia actual de la ultra-derecha», y que el último escrito de los prácticos es una monografía sobre uno de sus temas."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.campo-interdisciplinario",
+          "name": "El análisis del discurso como campo interdisciplinario",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.lenguaje-e-ideologia",
+          "name": "Lenguaje e ideología · en torno a la activación discursiva de la memoria",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.discursividad-politica",
+          "name": "La discursividad política",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.argumentacion",
+          "name": "En torno a la argumentación",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.panfletaria-discursos-de-odio",
+          "name": "La discursividad panfletaria y los discursos de odio",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía general del programa",
+      "title": "El aparato de lectura",
+      "note": "El programa encabeza la sección: «se indica la general y durante la cursada se señalará la obligatoria» — es bibliografía general, y el programa no marca cuál es obligatoria. Se dibujan sólo las entradas impresas en forma de volumen publicado; los artículos de revista, los capítulos y selecciones en obras colectivas, los números especiales de revista, los informes, las tesis, los documentos institucionales y los materiales de cátedra no se dibujan. Títulos y nombres reproducidos como los imprime el programa, erratas incluidas. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-adam-grize-texte-et-discours",
+          "name": "Texte et discours: catégories pour l'analyse — J.-M. Adam, J.-B. Grize y M. Ali Bouacha (eds.) (EUD, Dijon, 2004)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-arnoux-modos-de-abordar",
+          "name": "Análisis del Discurso. Modos de abordar materiales de archivo — E. Arnoux (Santiago Arcos, 2006), caps. 1 y 2",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-eco-interpretation",
+          "name": "Interprétation et surinterprétation — U. Eco (PUF, 1996)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-ginzburg-mitos",
+          "name": "Mitos, emblemas, indicios — C. Ginzburg (Gedisa, 1999)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-krieg-planque-formule",
+          "name": "La notion de «formule» en analyse du discours. Cadre théorique et méthodologique — A. Krieg-Planque (Presses Universitaires de Franche-Comté, 2009)",
+          "role": "Unidades 1 y 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-analises-do-discurso-hoje",
+          "name": "Análises do Discurso hoje, vol. 1 — G. Muniz Proença Lara, I. L. Machado y W. Emediato (org.) (Rio de Janeiro, 2008)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-paula-stafuzza",
+          "name": "Da Análise do Discurso no Brasil à Análise do Discurso do Brasil: Três Épocas Histórico-Analíticas — L. de Paula y G. Stafuzza (org.) (EDUFU, Uberlandia, 2010)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-zima-theorie-critique",
+          "name": "Théorie critique du discours. La discursivité entre Adorno et le postmodernisme — P. V. Zima (L'Harmattan, 2003)",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-arnoux-chavez",
+          "name": "El discurso latinoamericanista de Hugo Chávez — E. Arnoux (Biblos, 2008), caps. 1 y 2",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-arnoux-crisis-politica",
+          "name": "La crisis política en la Argentina: memoria discursiva y componente emocional en el debate sobre la Reforma Previsional — E. Arnoux (CALAS, Guadalajara, 2019)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-calabrese-evenement",
+          "name": "L'événement en discours. Presse et mémoire social — L. Calabrese (L'Harmattan-Academia, Lovaina, 2013)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-eagleton-ideologia",
+          "name": "Ideología. Una introducción — T. Eagleton (Paidós, 1997)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-foucault-arqueologia",
+          "name": "La arqueología del saber — M. Foucault (Siglo XXI, 1987)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-fricker-injusticia",
+          "name": "Injusticia epistémica — M. Fricker (Herder, 2017)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-montero-volvimos",
+          "name": "¡Y al final un día volvimos! Los usos de la memoria en el discurso kirchnerista (2003-2007) — A. S. Montero (Prometeo, 2012)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-pecheux-o-discurso",
+          "name": "O discurso. Estrutura ou Acontecimento — M. Pêcheux (Pontes, Campinas, 1997)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-ricoeur-memoria",
+          "name": "La memoria, la historia, el olvido — P. Ricoeur (Fondo de Cultura Económica, 2004)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-sigal-veron-peron",
+          "name": "Perón o muerte — S. Sigal y E. Verón (Eudeba, 2004)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-arnoux-unasur",
+          "name": "Unasur y sus discursos — E. Arnoux, J. E. Bonnin, J. de Diego y F. Magnanego (Biblos, 2012), caps. 2 y 5",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-charaudeau-discours-politique",
+          "name": "Le discours politique. Les masques du pouvoir — P. Charaudeau (Vuibert, 2015)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-mouffe-populismo",
+          "name": "Por un populismo de izquierda — Ch. Mouffe (Siglo XXI, 2018)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-wiggins-memes",
+          "name": "El poder de los memes. Ideologia, semiótica e intertextualidad — B. E. Wiggins (Ampersand, 2024)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-amossy-images-de-soi",
+          "name": "Images de soi dans le discours — R. Amossy (Delachaux y Niestlé, Lausanne, 1999)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-amossy-apologia",
+          "name": "Apología de la polémica — R. Amossy (Prometeo, 2017)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-angenot-dialogues",
+          "name": "Dialogues de sourds — M. Angenot (Mille et une nuits, 2008)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-grize-logique-naturelle",
+          "name": "Logique naturelle & communications — J.-B. Grize (PUF, 1996)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-herschberg-style",
+          "name": "Le style en mouvement. Littérature et art — A. Herschberg Pierrot (Belin, 2005)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-llouz-vida-emocional",
+          "name": "La vida emocional del populismo. Cómo el miedo, el asco, el resentimiento y el amor socavan la democracia — «llouz, E.» (Katz, 2023; el programa imprime el apellido así)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-maingueneau-ethos",
+          "name": "L'ethos en analyse du discours — D. Maingueneau (Éditions Academia, Louvain-la-Neuve, 2022)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-meyer-principia-rhetorica",
+          "name": "Principia Rhetorica. Un théorie générale de l'argumentation — M. Meyer (Fayard, 2009)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-micheli-emotions",
+          "name": "Les émotions dans les discours. Modèle dánalyse, perspectives empiriques — R. Micheli (De Boeck, Duculot, 2014)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-perelman-tratado",
+          "name": "Tratado de la argumentación. La nueva retórica — Ch. Perelman y Olbrechts-Tyteca (Gredos, 1989)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-plantin-essais",
+          "name": "Essais sur l'argumentation. Introduction à l'étude linguistique de la parole argumentative — Ch. Plantin (Éditions Kimé, 1990)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-plantin-lieux-communs",
+          "name": "Lieux communs: topoï, stéréotypes, clichés — Ch. Plantin (dir.) (Kimé, 1993)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-plantin-buenas-razones",
+          "name": "Las buenas razones de las emociones — Ch. Plantin (UNM editora, Moreno, 2014)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-sitri-objet-du-debat",
+          "name": "L'objet du débat — F. Sitri (Presses de la Sorbonne Nouvelle, 2003)",
+          "role": "Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-angenot-parole-pamphletaire",
+          "name": "La parole pamphlétaire — M. Angenot (Payot, 1982)",
+          "role": "Unidad 5 · la Unidad 4 lista aparte la selección «Tipologías» de «La palabra panfletaria» (Angenot 1982, París, Payot), traducción de Roberto Bein",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-kemperer-lengua-tercer-reich",
+          "name": "La lengua del Tercer Reich. Apuntes de un filólogo — V. Kemperer (Minúscula, 2001; el programa imprime el apellido así)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-slimovich-redes-sociales",
+          "name": "Redes sociales, televisión y elecciones argentinas. La mediatización política en la «era K» — A. Slimovich (Eudeba, 2022), cap. 2",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.analisis-del-discurso.libro-vitale-como-pudo-suceder",
+          "name": "¿Cómo pudo suceder? Prensa escrita y golpismo en Argentina — M. A. Vitale (Eudeba, 2015)",
+          "role": "Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Lingüística Interdisciplinaria (Plan 1985) / Análisis del Discurso (Plan 2023), códigos 0572 y 15062 — Prof. Titular Elvira Narvaja de Arnoux, 1º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0572%2015062%20LING%C3%9C%C3%8DSTICA%20INTERDISCIPLINARIA%20AN%C3%81LISIS%20DEL%20DISCURSO%20Programa%202026_0.pdf"
+  }
+}

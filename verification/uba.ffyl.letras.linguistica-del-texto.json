@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.linguistica-del-texto",
+  "wave": "letras-4", "date": "2026-08-29", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3, "units_found": 3,
+  "books_total": 22, "books_found": 19,
+  "not_found": [
+    "'j. Webster' silently capitalized to 'J. Webster' in one exit while the frame asserts no corrections (src L126)",
+    "frame quotes código as a contiguous string with an invented slash (source prints colon + newline, L6-7)",
+    "inserted comma in the REDEC punto-e quote (source has no comma before 'la cual', L171-172)",
+    "role 'Unidad II · 2.2' on van Dijk 1978 is an inference — the U II obligatoria list is flat (L133-144)"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "All six adversarial targets survived: the 2.1/2.2 split is the program's own printed numbering (L99, L104); 22→19 arithmetic closes both directions (Hasan merge, Menéndez-via-Halliday, one CD-actas exclusion, all literal); REDEC 2024-2526 vs 2023-2382 'Ciclo Lectivo 2024' contradiction literal; código 0575/575 and PROFESORA/PROFESORA ADJUNTA variants literal; 'cátedra' = 0 occurrences confirmed by independent grep; all five declared erratas preserved verbatim. Errors are four small literalness defects in a node claiming literal transcription. Minor: map foot promotes the unit's 4th sentence to its opener; 'proposición' dropped from one enumeration."
+}

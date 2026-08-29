@@ -1,0 +1,506 @@
+{
+  "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "promoción directa (PD) · 3 instancias de evaluación parcial (Reglamento Académico, Res. (CD) Nº 4428/17)",
+    "cargaHoraria": "96 horas (portada) · “la carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases”",
+    "cuatrimestre": "2º cuatrimestre de 2026",
+    "codigo": "15037",
+    "catedra": "PROFESOR: VEDDA, MIGUEL (firma como “Prof. Asociado”). El programa no usa la palabra “cátedra” para el equipo: verificado por grep sobre el texto extraído — la única aparición de “Cátedra” es la editorial madrileña en una ficha bibliográfica (García Berrio/Huerta Calvo, Madrid: Cátedra, 1992).",
+    "equipoDocente": [
+      "VEDDA, MIGUEL (profesor)",
+      "ESER, PATRICK (prof. adjunto)",
+      "LACALLE, JUAN MANUEL (jefe de trabajos prácticos)",
+      "PIVETTA, CAROLA INÉS (auxiliar docente de 1ª)",
+      "PASCANSKY, GABRIEL DARÍO (auxiliar docente de 1ª)"
+    ],
+    "tituloDelPrograma": "La cuestión de lxs otrxs: centros, periferias y disidencias en las literaturas de la modernidad",
+    "modalidad": "presencial, ajustada a REDEC-2024-2526-UBA-DCT#FFYL: hasta 30% de las clases en modalidad virtual, exclusivamente asincrónica; con más de 350 estudiantes inscriptos las clases teóricas se dictan virtuales",
+    "unidades": 6,
+    "tramos": 15,
+    "bibliografia": 51,
+    "volumenesBibliografiaObligatoria": 23,
+    "volumenesFuentes": 28,
+    "año": 2026
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada",
+      "label": "Teoría de la Literatura Comparada"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Teoría de la Literatura Comparada",
+  "title": "Comparar es preguntar quién es el otro.",
+  "lede": "La comparatística recorrida como disciplina con historia y con política: del nacimiento de la literatura comparada junto a la expansión colonial y la escuela francesa de fuentes e influencias, a la escuela estadounidense de posguerra, las teorizaciones desde las periferias (transculturación en Ortiz y Rama, comparatismo latinoamericano, Sur Global) y los debates recientes sobre Weltliteratur, canon y estudios de géneros. Sobre ese eje se montan los campos de trabajo: contacto, influencia y recepción; genología y periodización; imagología y tematología; literatura frente a otras artes y medios. Cada unidad baja de la teoría al análisis de narraciones breves —Petronio y Saki, Conrad y Sáleh, Camus y Daoud, Boccaccio y Atwood, Lovecraft y Enríquez, Poe, Machado de Assis y Borges— y, al final, del texto al cine.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "PD",
+      "small": "3 parciales"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "15 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Teoría de la Literatura Comparada, código Nº 15037, Departamento de Letras (FFyL-UBA), profesor Miguel Vedda, 2º cuatrimestre de 2026, título “La cuestión de lxs otrxs: centros, periferias y disidencias en las literaturas de la modernidad”, publicado en letras.filo.uba.ar. El PDF es la única fuente usada; no se consultó ni se cruzó otro programa de esta materia. CÓDIGO: la portada imprime un solo código, “CÓDIGO Nº: 15037”, sin ningún código anterior; los otros programas de Letras ya sourceados en este atlas imprimen en general AMBOS códigos (0xxx del Plan 1985 · 15xxx del Plan 2023); este es de los pocos que imprime solo el 15xxx. El programa no explica la diferencia y acá no se la interpreta. CÁTEDRA: el documento dice “PROFESOR: VEDDA, MIGUEL” y “EQUIPO DOCENTE”, y nunca usa la palabra “cátedra” para el equipo (verificado por grep sobre el texto extraído: la única ocurrencia de “Cátedra” es la editorial de una ficha bibliográfica); por eso acá no se habla de “Cátedra Vedda”. Una nota al pie del propio programa aclara que “los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente”. RÉGIMEN: PD, con la particularidad —literal en el documento— de que la Opción B del régimen de promoción directa exige rendir EXAMEN FINAL; se registra tal cual, sin resolverlo. SELECCIÓN DIBUJADA: de la bibliografía se dibujan como nodo libro solo los volúmenes (monografías y volúmenes colectivos citados como continente) que aparecen en la BIBLIOGRAFÍA OBLIGATORIA de alguna unidad —23 títulos— y los volúmenes de las FUENTES —28 títulos—. EXCLUSIONES declaradas y aplicadas en los dos sentidos: no se dibujan los artículos de revista ni las ponencias en actas (Casanova en New Left Review, Quijano/Wallerstein en RICS, Ďurišin en Casa de las Américas, Sumillera, Dyserinck, Pageaux 2023, Prado, Rajewsky, Topuzian, Vicente-Yagüe Jara, Sánchez-Mesa/Baetens); no se dibuja nada que figure únicamente en la bibliografía complementaria ni en la bibliografía general —de ahí que Ortiz aparezca (está en la obligatoria de la Unidad 2) y Zima, Bhabha o Auerbach no—; y no se dibuja la filmografía de las Fuentes (Visconti, Buñuel, Coppola, Ozon, Kurosawa, Wilder) porque el esquema del atlas no tiene un tipo de nodo para película. CONTRADICCIONES REGISTRADAS, no resueltas: el cuento de M. Enríquez figura como “Bajo el agua sucia” en los contenidos (4.2) y como “Bajo el agua negra” en las Fuentes; el relato de Arlt es “Historia del Sr. Jeffries y Nassim el egipcio” en los contenidos (5.2) y “Historia del sr. Jeffries y Nassin el egipcio” en las Fuentes; el de Atwood es “Impaciente Griselda” en los contenidos y “La impaciente Griselda” en las Fuentes; el de Collins es “El Sr. capitán y la ninfa” en los contenidos y “El [Sr.] capitán y la ninfa” en las Fuentes; la pieza de Arlt es “Isla desierta” en los contenidos (6.3) y “La isla desierta. Burlería en un acto” en las Fuentes; el Compendio de literatura comparada de Brunel/Chevrel se fecha 1989 en la obligatoria de las Unidades 5 y 6 y 1994 en la bibliografía general; y Contrapunteo cubano de F. Ortiz se cita en la complementaria de la Unidad 1 como La Habana, Ciencias Sociales, 1983 y en la obligatoria de la Unidad 2 como Caracas, Biblioteca Ayacucho, sin año. ERRATAS DEL ORIGINAL: las Obras completas de Borges se citan dos veces como “Obras completas 1923-1872”; y en la obligatoria de la Unidad 6 la ficha de Glicksohn (“Literatura y artes”) viene impresa dentro del párrafo de la ficha de D’hulst, sin salto de línea. El extracto del PDF salió legible en su totalidad (19 páginas, texto nativo): no se descartó ningún título por ilegible.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "Los campos de la comparatística",
+      "note": "Cada unidad del programa es un nodo, en orden. Dentro de cada una, el tramo .1 es teórico y los siguientes son análisis de un corpus; los 15 tramos se listan en el mapa.",
+      "map": {
+        "mk": "El programa, en seis unidades y quince tramos",
+        "tree": "TEORÍA DE LA LITERATURA COMPARADA · código 15037 · Vedda · 2C 2026\n“La cuestión de lxs otrxs: centros, periferias y disidencias en las literaturas de la modernidad”\n│\n├─ 1 · Orígenes, derroteros históricos y actualidad de la literatura comparada\n│   ├─ 1.1 · escuela francesa, escuela estadounidense, teorizaciones desde las periferias, Sur Global\n│   └─ 1.2 · estética comparada de la narración breve · Petronio y Saki / Boccaccio y O. Henry\n│\n├─ 2 · Teoría de la literatura comparada y políticas\n│   ├─ 2.1 · Weltliteratur, postcolonialismo, hibridez, canon, estudios de género y queer\n│   └─ 2.2 · imperialismo y colonización inversa · Conrad y Sáleh / Camus y Daoud\n│\n├─ 3 · Comparación, influencia y recepción\n│   ├─ 3.1 · sýnkrisis, influence/succès, tipos de contacto, horizonte de expectativas\n│   └─ 3.2 · espacios de géneros · Collins y Maupassant / Atwood y Boccaccio\n│\n├─ 4 · Géneros, períodos, movimientos\n│   ├─ 4.1 · genología, emic/etic, época, período, generación, movimiento\n│   ├─ 4.2 · mutaciones del cuento de horror · Lovecraft, Ligotti, Enríquez\n│   └─ 4.3 · variantes del relato policial · Meissner, Conan Doyle, Daly\n│\n├─ 5 · Imagología y tematología\n│   ├─ 5.1 · estereotipo y cliché, crítica saidiana, temas, materias y motivos, Translational Turn\n│   ├─ 5.2 · orientalismos y modernidades · Kafka, Borges, Arlt\n│   └─ 5.3 · una gramática de motivos · Poe, Machado de Assis, Borges\n│\n└─ 6 · La literatura en relación con otras artes, medios y discursos\n    ├─ 6.1 · interartialidad, intermedialidad, transmedialidad, remediación\n    ├─ 6.2 · relaciones trans- e intermediales · Visconti, Buñuel / Coppola, Ozon, Kurosawa\n    └─ 6.3 · literatura de oficina · Mariani, Arlt, Keun, Wilder",
+        "foot": "El género elegido para el corpus es la narración breve —el programa lo justifica “por razones de extensión, en vista de las obvias limitaciones de una materia cuatrimestral” y porque existe una tradición de estudios comparatísticos sobre la narración breve que se puede actualizar y discutir."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.historia-de-la-disciplina",
+          "name": "Orígenes, derroteros históricos y actualidad de la literatura comparada",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.politicas-y-weltliteratur",
+          "name": "Teoría de la literatura comparada y políticas",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.comparacion-influencia-recepcion",
+          "name": "Comparación, influencia y recepción",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.generos-periodos-movimientos",
+          "name": "Géneros, períodos, movimientos",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.imagologia-y-tematologia",
+          "name": "Imagología y tematología",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.literatura-y-otros-medios",
+          "name": "La literatura en relación con otras artes, medios y discursos",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · volúmenes",
+      "title": "El aparato teórico",
+      "note": "Los 23 volúmenes —monografías y volúmenes colectivos citados como continente— que aparecen en la bibliografía obligatoria de alguna unidad. Los artículos de revista y las ponencias en actas de la obligatoria no se dibujan; tampoco lo que solo figura en la bibliografía complementaria o en la general. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-carbonell-vega",
+          "name": "La literatura comparada: principios y métodos — N. Carbonell y M. J. Vega (eds.) (Gredos, 1998)",
+          "role": "Unidades 1 y 2 · Croce, Fokkema, Remak, Texte, Wellek, Ashcroft/Griffiths/Tiffin",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-coutinho-textos-fundadores",
+          "name": "Literatura comparada. Textos fundadores — E. F. Coutinho y T. Franco Carvalhal (eds.) (Rocco, 1994)",
+          "role": "Unidad 1 · Étiemble, “Crise da literatura comparada?”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-antologia-novela-corta-alemana",
+          "name": "Antología de la novela corta alemana. De Goethe a Kafka — F. Aren, S. Rotemberg y M. Vedda (eds.) (Colihue, 2001)",
+          "role": "Unidad 1 · Vedda, “Elementos formales de la novela corta”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-anzaldua-borderlands",
+          "name": "Borderlands. La frontera — G. Anzaldúa (Capitán Swing, 2016)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-america-latina-en-su-literatura",
+          "name": "América Latina en su literatura — C. Fernández Moreno (ed.) (Siglo XXI/UNESCO, 1982)",
+          "role": "Unidad 2 · Candido, “Literatura y subdesarrollo”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-moretti-lectura-distante",
+          "name": "Lectura distante — F. Moretti (FCE, 2015)",
+          "role": "Unidades 2 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-ortiz-contrapunteo",
+          "name": "Contrapunteo cubano del tabaco y del azúcar — F. Ortiz (Biblioteca Ayacucho, sin año en la obligatoria)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-rama-transculturacion",
+          "name": "Transculturación narrativa en América Latina — Á. Rama (Siglo XXI, 2004)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-said-orientalismo",
+          "name": "Orientalismo — E. Said (De Bolsillo, 2002)",
+          "role": "Unidad 2 · “Primera parte” y “Epílogo”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-said-cultura-e-imperialismo",
+          "name": "Cultura e Imperialismo — E. Said (Anagrama, 2001)",
+          "role": "Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-cioranescu-principios",
+          "name": "Principios de literatura comparada — A. Cioranescu (Universidad de La Laguna, 1964)",
+          "role": "Unidad 3 · “Relaciones de contacto”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-guillen-entre-lo-uno-y-lo-diverso",
+          "name": "Entre lo uno y lo diverso. Introducción a la Literatura Comparada — C. Guillén (Crítica, 1985)",
+          "role": "Unidades 3 y 4 · “Taxonomías”, “Los géneros: Genología”, “Las configuraciones históricas: historiología”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-weisstein-introduccion",
+          "name": "Introducción a la literatura comparada — U. Weisstein (Planeta, 1975)",
+          "role": "Unidad 3 · “Influencia e imitación” y “Recepción y efecto”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-teoria-de-los-generos-literarios",
+          "name": "Teoría de los géneros literarios — M. A. Garrido Gallardo (ed.) (Arco/Libros, 1988)",
+          "role": "Unidad 4 · Fowler y Genette",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-llovet-teoria-literaria",
+          "name": "Teoría literaria y literatura comparada — J. Llovet et al. (Ariel, 2012)",
+          "role": "Unidad 4 · Llovet y Viñas Piquer",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-naupert-tematologia",
+          "name": "Tematología y comparatismo literario — C. Naupert (comp.) (Arco Libros, 2003)",
+          "role": "Unidad 5 · Doležel, Frenzel, Naupert",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-brunel-chevrel-compendio",
+          "name": "Compendio de literatura comparada — P. Brunel e Y. Chevrel (Siglo XXI, 1989 según la obligatoria; 1994 según la bibliografía general del mismo programa)",
+          "role": "Unidades 5 y 6 · Pageaux y Glicksohn",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-dominguez-literatura-europea-comparada",
+          "name": "Literatura europea comparada — C. Domínguez (comp.) (Arco/Libros, 2013)",
+          "role": "Unidad 6 · D’hulst, “La traducción y su papel en las literaturas europeas”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-benjamin-obra-de-arte",
+          "name": "La obra de arte en la era de su reproductibilidad técnica y otros ensayos sobre arte, técnica y masas — W. Benjamin (Alianza, 2021)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-entre-artes-entre-actos",
+          "name": "Entre artes, entre actos: écfrasis e intermedialidad — S. González Aktories e I. Artigas Albarelli (eds.) (Bonilla Artigas, 2009)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-inter-transmedialidad-genero-negro",
+          "name": "Inter/transmedialidad en el género negro y policial latinoamericano — S. Schmitz y D. Verdú Schumann (eds.) (Vervuert, 2023)",
+          "role": "Unidad 6 · Kirchheimer, “¿Qué hay de nuevo, viejo?”",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-manovich-nuevos-medios",
+          "name": "El lenguaje de los nuevos medios de comunicación. La imagen en la nueva era digital — L. Manovich (Paidós, 2005)",
+          "role": "Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.libro-wellek-warren-teoria-literaria",
+          "name": "Teoría literaria — R. Wellek y A. Warren (Gredos, 1966)",
+          "role": "Unidad 6 · “La literatura y las demás artes”",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "reading",
+      "eyebrow": "Fuentes · el corpus analizado",
+      "title": "Lo que se compara",
+      "note": "Los 28 volúmenes listados como Fuentes en las seis unidades: la narración breve y las obras que la materia pone a comparar. Se dibuja el volumen citado, no el cuento suelto que contiene. La filmografía de las Fuentes (Visconti, Buñuel, Coppola, Ozon, Kurosawa, Wilder) no se dibuja: el atlas no tiene un tipo de nodo para película. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-petronio-satiricon",
+          "name": "El Satiricón — Petronio (Gredos, 1988)",
+          "role": "Unidad 1 · “La matrona de Éfeso”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-saki-tigre-packletide",
+          "name": "El tigre de la señora Packletide y otros cuentos — Saki (CEAL, 1972)",
+          "role": "Unidad 1 · “El cuentista”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-boccaccio-decameron-2",
+          "name": "El Decamerón 2 — G. Boccaccio (trad. E. Benítez, Alianza, 1994)",
+          "role": "Unidades 1 y 3 · “Historia de Federigo de los Alberighi”, “Historia del marqués de Saluzzo”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-o-henry-regalo-reyes-magos",
+          "name": "El regalo de los Reyes Magos — O. Henry (Gaviota, 1994)",
+          "role": "Unidad 1",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-conrad-narrativa-breve",
+          "name": "Narrativa breve completa — J. Conrad (Sexto Piso / Hueders, 2015)",
+          "role": "Unidad 2 · “El corazón de las tinieblas”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-saleh-epoca-de-migracion",
+          "name": "Época de migración al Norte — T. Sáleh (Huerga y Fierro, 1988)",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-camus-el-extranjero",
+          "name": "El extranjero — A. Camus (trad. J. Á. Valente, Alianza, 2001)",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-daoud-meursault",
+          "name": "Meursault, caso revisado — K. Daoud (Almuzara, 2015)",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-collins-cama-extrana",
+          "name": "Una cama sumamente extraña y otros relatos — W. Collins (Navona, 2011)",
+          "role": "Unidad 3 · “El [Sr.] capitán y la ninfa”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-maupassant-cuentos-completos",
+          "name": "Cuentos completos — G. de Maupassant (trad. M. Armiño, Páginas de Espuma, 2011)",
+          "role": "Unidad 3 · “Allouma”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-atwood-perdidas-en-el-bosque",
+          "name": "Perdidas en el bosque — M. Atwood (Salamandra, 2024)",
+          "role": "Unidad 3 · “La impaciente Griselda”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-lovecraft-obras-completas",
+          "name": "Obras completas, vol. 1 — H. P. Lovecraft (Del Nuevo Extremo, 2014)",
+          "role": "Unidad 4 · “El horror de Red Hook”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-ligotti-grimscribe",
+          "name": "Grimscribe. Vidas y obras — Th. Ligotti (Valdemar, 2015)",
+          "role": "Unidad 4 · “Los místicos de Muellenburg”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-ligotti-canciones-sonador-muerto",
+          "name": "Canciones de un soñador muerto — Th. Ligotti (Valdemar, 2016)",
+          "role": "Unidad 4 · “El retozo”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-enriquez-cosas-que-perdimos",
+          "name": "Las cosas que perdimos en el fuego — M. Enríquez (Anagrama, 2016)",
+          "role": "Unidad 4 · “Bajo el agua negra” en las Fuentes / “Bajo el agua sucia” en los contenidos",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-cuentos-de-crimen-y-misterio",
+          "name": "Cuentos de crimen y misterio — AA. VV. (sel., introd., trad. y notas de M. Vedda; Biblos / Universidad Nacional de San Martín, 2009)",
+          "role": "Unidad 4 · Meissner, “Narración criminal”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-conan-doyle-aventuras-sherlock",
+          "name": "Las aventuras de Sherlock Holmes — A. Conan Doyle (Optima, 2001)",
+          "role": "Unidad 4 · “La liga de los pelirrojos”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-daly-falso-burton-combs",
+          "name": "El falso Burton Combs y otros cuentos policiales — C. J. Daly (Refucilo, 2023)",
+          "role": "Unidad 4",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-kafka-obras-completas",
+          "name": "Obras completas — F. Kafka (ed. J. Llovet, Galaxia Gutenberg, 2003)",
+          "role": "Unidad 5 · “Durante la construcción de la Muralla China”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-borges-obras-completas-1974",
+          "name": "Obras completas 1923-1872 [así en el original] — J. L. Borges (Emecé, 1974)",
+          "role": "Unidad 5 · “El hombre en el umbral”, “Historia de los dos que soñaron”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-borges-obras-completas-3",
+          "name": "Obras completas 3 — J. L. Borges (Emecé, 2005)",
+          "role": "Unidad 5 · “El otro”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-arlt-criador-de-gorilas",
+          "name": "El criador de gorilas, vol. 3 — R. Arlt (Carlos Lohlé / Planeta, 1992)",
+          "role": "Unidad 5 · “Historia del sr. Jeffries y Nassin el egipcio”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-poe-cuentos-completos",
+          "name": "Cuentos completos — E. A. Poe (trad. y notas de J. Cortázar, Edhasa, 2009)",
+          "role": "Unidad 5 · “William Wilson”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-machado-de-assis-cuentos-de-madurez",
+          "name": "Cuentos de madurez — J. M. Machado de Assis (Pre-Textos, 2011)",
+          "role": "Unidad 5 · “El espejo”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-arlt-isla-desierta",
+          "name": "La isla desierta. Saverio el cruel — R. Arlt (Eudeba, 1964 [1937])",
+          "role": "Unidad 6 · “La isla desierta. Burlería en un acto”",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-mariani-cuentos-de-la-oficina",
+          "name": "Cuentos de la oficina — R. Mariani (Deucalión, 1956)",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-keun-chica-de-seda-artificial",
+          "name": "La chica de seda artificial — I. Keun (Minúscula, 2014)",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.teoria-de-la-literatura-comparada.fuente-keun-gilgi",
+          "name": "Gilgi, una de nosotras — I. Keun (Minúscula, 2011)",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Teoría de la Literatura Comparada, código Nº 15037 (Prof. Miguel Vedda, 2º cuatrimestre de 2026) — “La cuestión de lxs otrxs: centros, periferias y disidencias en las literaturas de la modernidad”",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/15037%20TEOR%C3%8DA%20DE%20LA%20LITERATURA%20COMPARADA%20VEDDA%202026.pdf"
+  }
+}

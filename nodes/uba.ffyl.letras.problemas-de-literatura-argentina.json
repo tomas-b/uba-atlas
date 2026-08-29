@@ -1,0 +1,474 @@
+{
+  "address": "uba.ffyl.letras.problemas-de-literatura-argentina",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0588 (Plan 1985) · 15035 (Plan 2023)",
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial y 1 recuperatorio",
+    "cargaHoraria": "96 horas (carga horaria mínima; mínimo 6 y máximo 10 hs semanales)",
+    "cuatrimestre": "2º (programa 2º cuatrimestre 2026)",
+    "catedra": "Prof. Titular Regular Soledad Quereilhac (programa 2º cuatrimestre 2026, año 2026); el programa no consigna designación de cátedra (letra ni número) — la palabra “cátedra” sólo aparece en la cláusula de la REDEC sobre estructura de cátedra",
+    "equipoDocente": [
+      "QUEREILHAC, Soledad (Profesora Titular)",
+      "GRECO, Martín (Jefe de trabajos prácticos)",
+      "VICENS, María (Ayudante de Primera)",
+      "SEIFERT, Marcos (Ayudante de Primera)"
+    ],
+    "tituloDelPrograma": "Imaginario histórico e imaginación literaria. Pasado y presente en la literatura argentina",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de sus clases en modalidad virtual)",
+    "unidades": 8,
+    "fuentes": 21,
+    "bibliografiaGeneral": 23,
+    "recomendaciones": "Se recomienda haber cursado al menos una materia de literatura argentina."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.problemas-de-literatura-argentina",
+      "label": "Problemas de Literatura Argentina"
+    }
+  ],
+  "eyebrow": "Letras · Literatura Argentina y Latinoamericana · Problemas de Literatura Argentina",
+  "title": "La historia argentina, escrita en el lenguaje de la ficción.",
+  "lede": "Ocho unidades sobre las articulaciones entre imaginación histórica e imaginación literaria, muy por fuera de las convenciones de la “novela histórica”. Se entra por la teoría —la literatura como “documento de cultura”, los elementos narrativos de toda historiografía— y se recorre después el siglo XX y la contemporaneidad argentina: el pasado colonial en Zama, Río de las congojas y El entenado; las luchas políticas en Tizón y Viñas; la historia nacional y familiar en la poesía de Lugones, Borges, María Elena Walsh y Gelman; el primer peronismo entre Contorno, “Esa mujer” y Santa Evita; la literatura como documento de lo-que-está-pasando en Cancela, Rodolfo Walsh y Fogwill; el “realismo delirante” de Gallardo, Aira y Muzzio; y las relecturas de los setenta escritas por los hijos. Cada obra se lee por sus procedimientos: qué género elige, qué voces narra, qué hace con el pasado y con el presente.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · corpus ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Problemas de Literatura Argentina, códigos 0588 (Plan 1985) y 15035 (Plan 2023) — el programa imprime el mismo nombre de materia para ambos planes—, Prof. Soledad Quereilhac, 2º cuatrimestre 2026 (letras.filo.uba.ar). Título del programa: “Imaginario histórico e imaginación literaria. Pasado y presente en la literatura argentina”. Régimen de promoción PD (3 instancias de evaluación parcial, Reglamento Académico Res. (CD) Nº 4428/17), 96 horas, modalidad presencial ajustada a REDEC-2024-2526-UBA-DCT#FFYL. DESIGNACIÓN DE CÁTEDRA: el PDF no consigna cátedra “A”/“B” ni número de cátedra; nombra a Soledad Quereilhac como Profesora Titular Regular y firma el programa. La única aparición de la palabra “cátedra” en el documento está en la cláusula reglamentaria sobre “estructura de cátedra” citada de la REDEC. El programa aclara en nota al pie que los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente. SELECCIÓN DECLARADA: el programa separa, unidad por unidad, la “Bibliografía” obligatoria y complementaria (crítica: artículos, capítulos, prólogos, entrevistas, reseñas) de las “Fuentes” (el corpus literario que se lee), y cierra con una “Bibliografía general”. Acá se dibujan exactamente dos secciones enteras: las Fuentes de cada unidad (21 entradas, tal como el programa las imprime, incluida la película Los rubios listada junto a la novela de Carri) y la Bibliografía general de cierre (23 entradas). NO SE DIBUJA la bibliografía obligatoria ni la complementaria por unidad y autor —la exclusión se aplica en los dos sentidos: ninguna entrada de esas listas se emite como nodo, aunque nombre un volumen—. La Unidad 1 no tiene corpus propio: el programa imprime “Fuentes: --”. Los libros no están indexados aún a L3.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 8 unidades",
+      "title": "Del pasado colonial a los hijos de los setenta",
+      "note": "Cada unidad del programa Quereilhac 2026 es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en ocho unidades",
+        "tree": "PROBLEMAS DE LITERATURA ARGENTINA · 0588 / 15035\n“Imaginario histórico e imaginación literaria”\n│\n├─ 1 · Perspectivas teóricas · literatura e historia, documento de cultura\n│\n├─ EL PASADO REESCRITO\n│   ├─ 2 · El pasado colonial en la novela del siglo XX · Di Benedetto · Demitrópulos · Saer\n│   ├─ 3 · Las luchas políticas bajo el prisma de la ficción · Tizón · Viñas\n│   └─ 4 · Historia nacional, historia personal y obra poética · Borges · Lugones · Walsh · Gelman\n│\n├─ 5 · Abordajes literarios del primer peronismo · Viñas · Walsh · Eloy Martínez · Venturini\n│\n├─ 6 · La literatura y su presente histórico · Cancela · Walsh · Fogwill\n│\n├─ 7 · “Realismo delirante”, terror y derivas fantásticas · Gallardo · Aira · Muzzio\n│\n└─ 8 · Relecturas de los años 70 en la literatura de los “hijos” · Carri · Alcoba",
+        "foot": "Temas del programa 2026. La Unidad 1 fija el problema teórico —literatura e historiografía, ficción y verdad— y las siete restantes lo prueban sobre un corpus argentino que va del siglo XVI narrado en el XX hasta la literatura de los hijos."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.perspectivas-teoricas",
+          "name": "Perspectivas teóricas sobre las articulaciones entre la literatura y la historia",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.pasado-colonial",
+          "name": "El pasado colonial en la novela del siglo XX",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.luchas-politicas",
+          "name": "Las luchas políticas bajo el prisma de la ficción",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.historia-y-obra-poetica",
+          "name": "Historia nacional, historia personal y obra poética",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.primer-peronismo",
+          "name": "Abordajes literarios del primer peronismo",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.presente-historico",
+          "name": "La literatura y su presente histórico",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.realismo-delirante",
+          "name": "“Realismo delirante”, terror y otras derivas fantásticas de la historia",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.literatura-de-los-hijos",
+          "name": "Relecturas de los años 70 en la literatura de los “hijos”",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Corpus · Fuentes",
+      "title": "Lo que se lee",
+      "note": "Las “Fuentes” del programa: el corpus literario, unidad por unidad, tal como el programa las imprime. La Unidad 1 no lista fuentes (“Fuentes: --”). No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-di-benedetto-zama",
+          "name": "Zama (1956) — Antonio Di Benedetto",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-demitropulos-rio-de-las-congojas",
+          "name": "Río de las congojas (1981) — Libertad Demitrópulos",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-saer-el-entenado",
+          "name": "El entenado (1984) — Juan José Saer",
+          "role": "Unidad 2",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-tizon-fuego-en-casabindo",
+          "name": "Fuego en Casabindo (1969) — Héctor Tizón",
+          "role": "Unidad 3",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-vinas-semana-tragica",
+          "name": "En la semana trágica (1966) — David Viñas",
+          "role": "Unidad 3",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-lugones-romances-rio-seco",
+          "name": "Selección de poemas de Los Romances del Río Seco (1938) — Leopoldo Lugones",
+          "role": "Unidad 4",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-borges-obras-completas",
+          "name": "Selección de poemas y relatos de Obras completas (1974) — Jorge Luis Borges",
+          "role": "Unidad 4",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-walsh-cancionero",
+          "name": "Selección de poemas de Cancionero contra el mal de ojo (1976) — María Elena Walsh",
+          "role": "Unidad 4",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-gelman-si-dulcemente",
+          "name": "Selección de poemas de Si dulcemente (1980) — Juan Gelman",
+          "role": "Unidad 4",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-vinas-malas-costumbres",
+          "name": "Las malas costumbres (1963) y “¡Paso a los héroes!” (Contorno nº 7-8, julio de 1956) — David Viñas",
+          "role": "Unidad 5",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-walsh-esa-mujer",
+          "name": "“Esa mujer”, Los oficios terrestres (1965) — Rodolfo Walsh",
+          "role": "Unidad 5",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-eloy-martinez-santa-evita",
+          "name": "Santa Evita (1995) — Tomás Eloy Martínez",
+          "role": "Unidad 5",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-venturini-eva-alfa-y-omega",
+          "name": "Eva, Alfa y Omega (2014) — Aurora Venturini",
+          "role": "Unidad 5",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-cancela-semana-de-holgorio",
+          "name": "Una semana de holgorio. Diario de un guardia blanca (1919) — Arturo Cancela",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-walsh-quien-mato-a-rosendo",
+          "name": "¿Quién mató a Rosendo? (1969) — Rodolfo Walsh",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-fogwill-los-pichiciegos",
+          "name": "Los pichiciegos. Visiones de una batalla subterránea (1983) — Rodolfo Fogwill",
+          "role": "Unidad 6",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-gallardo-rosa-en-el-viento",
+          "name": "La rosa en el viento (1979) y “Las treinta y tres mujeres del emperador Piedra Azul”, El país del humo (1977) — Sara Gallardo",
+          "role": "Unidad 7",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-aira-la-liebre",
+          "name": "La liebre (1991) — César Aira",
+          "role": "Unidad 7",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-muzzio-esferas-invisibles",
+          "name": "Las esferas invisibles (2015) — Diego Muzzio",
+          "role": "Unidad 7",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-alcoba-casa-de-los-conejos",
+          "name": "La casa de los conejos (2007) — Laura Alcoba",
+          "role": "Unidad 8",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-carri-los-rubios-bestias",
+          "name": "Los rubios (película, 2003) y Lo que aprendí de las bestias (2021) — Albertina Carri",
+          "role": "Unidad 8",
+          "tag": "fuente",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía general",
+      "title": "Con qué se lee",
+      "note": "La “Bibliografía general” que cierra el programa: el marco teórico y crítico común a las ocho unidades. La bibliografía obligatoria y complementaria por unidad y autor no se dibuja. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-altamirano-sarlo-conceptos",
+          "name": "Conceptos de sociología literaria — C. Altamirano y B. Sarlo (CEAL, 1980)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-altamirano-sarlo-literatura-sociedad",
+          "name": "Literatura-Sociedad — C. Altamirano y B. Sarlo (Hachette, 1983)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-chartier-pequeno-chartier",
+          "name": "Pequeño Chartier ilustrado. Breve diccionario del libro, la lectura y la cultura escrita — R. Chartier (Ampersand, 2022)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-chartier-cavallo-historia-de-la-lectura",
+          "name": "La historia de la lectura en el mundo occidental — R. Chartier y G. Cavallo (Taurus, 1998) · Introducción",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-darnton-beso-de-lamourette",
+          "name": "El beso de Lamourette. Reflexiones sobre historia cultural — R. Darnton (FCE, 2010)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-delacroix-historicidades",
+          "name": "Historicidades — C. Delacroix, F. Dosse y P. García (Waldhuter, 2010)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-fernandez-prieto-historia-y-novela",
+          "name": "“Historia y novela: Poética de la novela histórica” — C. Fernández Prieto (EUNSA, Anejos de Rilce n. 23, Universidad de Navarra, 1998)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-fernandez-prieto-novela-postmodernidad",
+          "name": "“Novela, historia y postmodernidad” — C. Fernández Prieto, en Literatura e Historia (Fundación Caballero Bonald, 2004), pp. 89-104",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-jameson-arqueologias-del-futuro",
+          "name": "Arqueologías del futuro. El deseo llamado utopía y otras aproximaciones de ciencia ficción — F. Jameson (Akal, 2009)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-jelin-trabajos-de-la-memoria",
+          "name": "Los trabajos de la memoria — E. Jelin (Siglo XXI, 2002)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-jitrik-historia-e-imaginacion",
+          "name": "Historia e imaginación literaria. Las posibilidades de un género — N. Jitrik (Biblos, 1995)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-kohut-invencion-del-pasado",
+          "name": "La invención del pasado. La novela histórica en el marco de la postmodernidad — K. Kohut (Vervuert Verlag-Iberoamericana, 1997), pp. 9-26",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-koselleck-futuro-pasado",
+          "name": "Futuro pasado. Para una semántica de los tiempos históricos — R. Koselleck (Paidós, 1993)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-lukacs-novela-historica",
+          "name": "La novela histórica — G. Lukács (Era, 1966)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-ranciere-nombres-de-la-historia",
+          "name": "Los nombres de la historia. Una poética del saber — J. Rancière (Nueva Visión, 1992)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-ricoeur-tiempo-y-narracion",
+          "name": "Tiempo y narración I. Configuración del tiempo en el relato histórico — P. Ricoeur (Siglo XXI, 1995)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-sapiro-sociologia-de-la-literatura",
+          "name": "La sociología de la literatura — G. Sapiro (FCE, 2016)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-white-ficcion-de-la-narrativa",
+          "name": "La ficción de la narrativa. Ensayos sobre historia, literatura y teoría 1957-2007 — H. White (Eterna Cadencia, 2011)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-white-contenido-de-la-forma",
+          "name": "El contenido de la forma. Narrativa, discurso y representación histórica — H. White (Paidós, 1992 [1ª ed. 1987])",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-white-ficcion-historica",
+          "name": "Ficción histórica, historia ficcional y realidad histórica — H. White (Prometeo, 2011)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-williams-cultura",
+          "name": "Cultura. Sociología de la comunicación y el arte — R. Williams (Paidós, 1982)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-williams-marxismo-y-literatura",
+          "name": "Marxismo y literatura — R. Williams (Península, 1980)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.problemas-de-literatura-argentina.libro-williams-larga-revolucion",
+          "name": "La larga revolución — R. Williams (Nueva Visión, 2003)",
+          "role": "bibliografía general",
+          "tag": "crítica",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Problemas de Literatura Argentina, códigos 0588 (Plan 1985) / 15035 (Plan 2023), Prof. Soledad Quereilhac, 2º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0588%2015035%20PROBLEMAS%20LITERATURA%20ARGENTINA%20QUEREILHAC.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de Problemas de Literatura Argentina, códigos 0588 (Plan 1985) / 15035 (Plan 2023), Prof. Soledad Quereilhac, 2º cuatrimestre 2026 — fuente única: unidades, corpus, bibliografía general, régimen, carga horaria, equipo docente",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0588%2015035%20PROBLEMAS%20LITERATURA%20ARGENTINA%20QUEREILHAC.pdf"
+    }
+  ]
+}

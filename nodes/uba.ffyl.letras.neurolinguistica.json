@@ -1,0 +1,432 @@
+{
+  "address": "uba.ffyl.letras.neurolinguistica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — Reglamento Académico, Res. (CD) Nº 4428/17: 3 instancias de evaluación parcial, con Opción A (80% de asistencia, promedio ≥ 7 sin aplazos) u Opción B (75% de prácticos, cada parcial ≥ 4, promedio ≥ 4 y < 7, más EXAMEN FINAL con nota mínima 4)",
+    "cargaHoraria": "96 horas (mínimo), con un mínimo de 6 y un máximo de 10 horas semanales de dictado",
+    "cuatrimestre": "1º · 2026",
+    "codigo": "15055 (Plan 2023) · 0579 (Plan 1985) — el mismo nombre de materia figura en ambos planes según la portada del programa",
+    "catedra": "Depto. de Letras · PROFESOR/A: JAICHENCO, VIRGINIA (firma el programa como «Profesora asociada»). El programa NO designa una cátedra nominada: verificado por búsqueda sobre el texto extraído, la palabra «cátedra» aparece solo en «Ficha de cátedra» y «Traducción de la cátedra» dentro de la bibliografía.",
+    "equipoDocente": [
+      "JAICHENCO, Virginia (profesora a cargo · «Profesora asociada» en la firma)",
+      "SEVILLA, Yamila (prof. adjunta)",
+      "SÁNCHEZ, María Elina (JTP)",
+      "ATP 1: el programa imprime el renglón sin nombre"
+    ],
+    "modalidad": "presencial · CONTRADICCIÓN INTERNA REGISTRADA: la portada y el encabezado dicen «ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», mientras que el apartado «Organización del dictado» dice «atendiendo a lo dispuesto por REDEC-2023-2382-UBA-DCT#FFYL». El programa no consigna resolución de aprobación del plan de la materia.",
+    "unidades": 11,
+    "bibliografia": 36,
+    "bibliografiaDesglose": "24 volúmenes citados en la bibliografía por unidad + 12 volúmenes que solo aparecen en la «Bibliografía general»",
+    "excluidos": "19 ítems no dibujados como libro: 17 artículos de revista científica y 2 fichas de cátedra (enumerados en el frame)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.neurolinguistica",
+      "label": "Neurolingüística"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Neurolingüística",
+  "title": "Qué le pasa al lenguaje cuando se daña el cerebro.",
+  "lede": "El procesamiento del lenguaje en el cerebro humano leído por sus roturas. Se entra por la historia —frenología, Broca y Wernicke, el método anátomoclínico, las clasificaciones clínicas de las afasias— y por la máquina misma: sistema nervioso, neuronas, áreas funcionales de la corteza. Después el foco se corre a los procesos mentales: la hipótesis de la modularidad de Fodor, la neuropsicología cognitiva del lenguaje y su método de disociar componentes en un mismo paciente. Desde ahí se recorre nivel por nivel lo que puede fallar: producir y comprender palabras habladas, leer (alexias superficial, fonológica y profunda), escribir (agrafias centrales y periféricas), armar y entender oraciones (agramatismo, paragramatismo), recordar. El cierre vuelve a atar mente y cerebro con las neurociencias cognitivas —técnicas electrofisiológicas y hemodinámicas—, la evaluación y el tratamiento de la afasia, y el cerebro bilingüe. Se trabaja con historias clínicas y material videofilmado de personas con afasia, y el curso termina en el diseño de un proyecto de investigación.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "11",
+      "small": "cód. 15055 / 0579"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Neurolingüística, códigos 15055 (Plan 2023) y 0579 (Plan 1985), carrera de Letras (FFyL-UBA), a cargo de la Prof. Virginia Jaichenco, 1º cuatrimestre de 2026, publicado en letras.filo.uba.ar. Fuente única: no se consultó ni se cita ningún otro programa de esta materia. El área («Lingüística») viene del nodo padre —el plan de Letras—, no del programa, que no consigna área ni orientación. CÁTEDRA: el programa no nombra una cátedra («A», «B», etc.); solo consigna «PROFESOR/A: JAICHENCO, VIRGINIA» y la firma «Virginia Jaichenco / Profesora asociada» — verificado por búsqueda sobre el texto: la palabra «cátedra» solo aparece en «Ficha de cátedra» y «Traducción de la cátedra». EQUIPO DOCENTE: Prof. adjunta Yamila Sevilla, JTP María Elina Sánchez, y un renglón «ATP 1:» impreso sin nombre; una nota al pie aclara que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». CONTRADICCIÓN REGISTRADA (modalidad): la portada y el encabezado citan REDEC-2024-2526-UBA-DCT#FFYL, y el apartado «Organización del dictado» cita REDEC-2023-2382-UBA-DCT#FFYL; ambas se dejan como están, sin resolver. TAL COMO ESTÁ IMPRESO: la fundamentación dice que «la investigación neurolingüística se inicia en el siglo XVIII con los primeros estudios de Broca y Wernicke»; se transcribe sin corregir. SELECCIÓN Y EXCLUSIONES DECLARADAS, aplicadas en los dos sentidos: se dibujan como libro los ítems citados como VOLUMEN —monografías, volúmenes editados o compilaciones, y opúsculos de serie citados como unidad—; NO se dibujan (a) los artículos de revista científica, (b) las fichas de cátedra. Los capítulos citados dentro de un volumen dibujado se anotan en el rol de ese volumen y no se dibujan aparte. ARTÍCULOS DE REVISTA EXCLUIDOS (17): Rapp y Goldrick 2006 (Cognitive Neuropsychology); Ferreres, Martínez Cuitiño, Jacubovich, Olmedo y López 2003 (Revista Argentina de Neuropsicología); Ferreres 2008 (Psico); Marroco Martínez 2020 (Revista Argentina de Neuropsicología); Politis, Jaichenco y Ferreres 1998 (Revista Fonoaudiológica); García Orza, Madrazo Lazcano y Viñals Alvarez 2002 (Revista Española de Neuropsicología); Sánchez, Taboh, Fuchs, Barreyro y Jaichenco 2017 (Panamerican Journal of Neuropsychology–Cuadernos de Neuropsicología); Sánchez, Fuchs, Taboh, Barreyro y Jaichenco 2018 (ELUA); Sánchez, Sevilla, Fuchs y Jaichenco 2020 (Subjetividad y Procesos Cognitivos–UCES); Sevilla, Sánchez, Fuchs y Jaichenco 2024 (Signos. Revista de Lingüística); Patiño Torrealva 2007 (Revista Neuropsicológica); Wrigth, Downey, Gravier, Love y Shapiro 2007 (Aphasiology); Beres 2017 (Appl Psychophysiol Biofeedback); Martínez Cuitiño, Barreyro y Jaichenco 2009 (Revista Neuropsicología Latinoamericana); Bialystok, Craik y Luk 2012 (Trends in Cognitive Sciences); Dehaene 1999 (Brain); Duñabeitia y Carreiras 2015 (Cortex). FICHAS DE CÁTEDRA EXCLUIDAS (2): Jaichenco, V. 2020, «Afasia: concepto, clasificación y síntomas»; Sevilla, Y. 2020, «El lenguaje y el cerebro». VARIACIONES INTERNAS DEL PROPIO PROGRAMA, registradas sin resolver: el libro de Caplan «Introducción a la neurolingüística y al estudio de los trastornos del lenguaje» (Madrid: Visor) figura con año 1987 en la Unidad I y con año 1992 en la Bibliografía general; «El lenguaje y el cerebro» de Obler y Gjerlow figura como «Gjerlow, A. … Madrid: Cambridge» en la Unidad II y como «Gjerlow, K. … Madrid: Cambridge UP» en la general; «Evaluación Neuropsicológica en adultos» (Paidós, 2007) figura como «Burin, Drake y Harris (Compiladores)» en la Unidad X y como «Drake, M.; Harris, P. y Burin, D.» en la general; el programa imprime «Pinker, E.» en sus dos apariciones y así se transcribe, porque el propio PDF no ofrece ninguna otra inicial que permita corregirlo; la entrada de Cuetos Vega en la Unidad VIII imprime «Javier Rodríguez-Ferreiro» a continuación del pie de imprenta. Ningún título resultó ilegible en la extracción. Los libros no están indexados aún como libros (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 11 unidades",
+      "title": "Del cerebro lesionado al modelo de la mente",
+      "note": "Cada unidad del programa 15055/0579 (Jaichenco, 1º cuatrim. 2026) es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en once unidades",
+        "tree": "NEUROLINGÜÍSTICA · cód. 15055 (Plan 2023) / 0579 (Plan 1985)\n│\n├─ HISTORIA Y SUSTRATO\n│    ├─ I · Cerebro, cognición y lenguaje en perspectiva histórica\n│    │      frenología · Broca y Wernicke · afasias · Luria · Lichteim–Wernicke\n│    └─ II · Bases cerebrales del lenguaje\n│           neuronas · impulso nervioso · áreas funcionales de la corteza\n│\n├─ III · Modelos cognitivos de procesamiento de lenguaje\n│         Fodor y la modularidad · neuropsicología cognitiva · sistema lexical\n│\n├─ LO QUE PUEDE FALLAR\n│    ├─ IV · Trastornos en el procesamiento lexical — anomias, sordera verbal pura\n│    ├─ V · La lectura — alexia superficial, fonológica y profunda · la «caja de letras»\n│    ├─ VI · La escritura — agrafias centrales y periféricas\n│    ├─ VII · Procesamiento de oraciones — agramatismo y paragramatismo\n│    └─ VIII · Memoria y lenguaje — sistemas de memoria, procesamiento semántico\n│\n└─ VUELTA AL CEREBRO Y A LA CLÍNICA\n     ├─ IX · Neurociencias del lenguaje — técnicas electrofisiológicas y hemodinámicas\n     ├─ X · Evaluación y tratamiento del lenguaje — baterías, rehabilitación de la afasia\n     └─ XI · Bilingüismo — el cerebro bilingüe, reserva cognitiva, afasia en bilingües",
+        "foot": "Temas del programa Jaichenco 2026. Los agrupamientos con mayúsculas son de este nodo, para leer el orden; el programa numera once unidades corridas, de la I a la XI, sin partes."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.cerebro-cognicion-lenguaje",
+          "name": "Cerebro, cognición y lenguaje en perspectiva histórica",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.bases-cerebrales",
+          "name": "Bases cerebrales del lenguaje",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.modelos-cognitivos",
+          "name": "Modelos cognitivos de procesamiento de lenguaje",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.procesamiento-lexical",
+          "name": "Trastornos en el procesamiento lexical",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.lectura",
+          "name": "Dificultades en el procesamiento ortográfico: la lectura",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.escritura",
+          "name": "Trastornos en el procesamiento ortográfico: la escritura",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.procesamiento-oraciones",
+          "name": "Alteraciones en el procesamiento de oraciones",
+          "role": "Unidad VII",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.memoria-lenguaje",
+          "name": "Memoria y lenguaje",
+          "role": "Unidad VIII",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.neurociencias-lenguaje",
+          "name": "Neurociencias del lenguaje",
+          "role": "Unidad IX",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.evaluacion-tratamiento",
+          "name": "Evaluación y tratamiento del lenguaje",
+          "role": "Unidad X",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.bilinguismo",
+          "name": "Bilingüismo",
+          "role": "Unidad XI",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía por unidad",
+      "title": "Los volúmenes de cada unidad",
+      "note": "Los 24 títulos citados como volumen en la bibliografía por unidad del programa. Los artículos de revista científica (17) y las fichas de cátedra (2) no se dibujan y están enumerados en el marco. Los capítulos se anotan en el rol del volumen. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-ardila-afasias",
+          "name": "Las Afasias — A. Ardila (2005; el programa lo cita por URL, www.aphasia.org/libroespanol.php, sin pie de imprenta)",
+          "role": "Unidad I · cap. 3 «Daño cerebral en la afasia» · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-caplan-introduccion",
+          "name": "Introducción a la neurolingüística y al estudio de los trastornos del lenguaje — D. Caplan (Madrid: Visor; el programa imprime 1987 en la Unidad I y 1992 en la bibliografía general)",
+          "role": "Unidad I · caps. 3, 4 y 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-kandel-schwartz-jessell",
+          "name": "Neurociencia y conducta — E. Kandel, J. Schwartz y T. Jessell (Madrid: Prentice Hall, 1997)",
+          "role": "Unidad II · secciones I, II y V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-pinker-instinto",
+          "name": "El instinto del lenguaje — Pinker (Madrid: Alianza, 1994; el programa imprime la inicial «E.» en sus dos apariciones)",
+          "role": "Unidad II · cap. 10 · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-obler-gjerlow",
+          "name": "El lenguaje y el cerebro — L. Obler y Gjerlow (Madrid: Cambridge, 2001; el programa imprime «Gjerlow, A.» en la Unidad II y «Gjerlow, K.» en la bibliografía general)",
+          "role": "Unidad II · cap. 2 «El cerebro»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-cuadernos-2-sistema-lexical",
+          "name": "El sistema lexical — A. Caramazza, Cuadernos de Neurolingüística 2 (Buenos Aires: OPFyL, Facultad de Filosofía y Letras, 1988)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-handbook-cognitive-neuropsychology",
+          "name": "Handbook of Cognitive Neuropsychology — B. Rapp (Ed.) (New York: Psychology Press, 2001) · cap. de Coltheart «Supuestos y métodos en neuropsicología cognitiva» (traducción de la cátedra)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-acquired-aphasia",
+          "name": "Acquired Aphasia (2nd Edition) — T. M. Sarno (Ed.) (Nueva York: Academic Press, 1991) · cap. de Rapp y Caramazza «Déficits lexicales», pp. 181-222 (traducción de la cátedra)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-ellis-young",
+          "name": "Neuropsicología cognitiva humana — A. Ellis y A. Young (Barcelona: Masson, 1992)",
+          "role": "Unidades IV, V y VI · caps. 5, 6, 7 y 8 · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-dehaene-cerebro-lector",
+          "name": "El cerebro lector — S. Dehaene (Buenos Aires: Siglo XXI editores, 2014 [2009])",
+          "role": "Unidad V · cap. 2 «La caja de letras del cerebro» · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-neuropsicolinguistica-en-espanol",
+          "name": "Neuropsicolingüística en español — E. Labos y J. L. Nespoulous (Edit.) (Buenos Aires: Editorial Akadia, 2019) · cap. de Jaichenco y Sánchez «Procesamiento de oraciones en la afasia: perspectivas sobre el agramatismo»",
+          "role": "Unidad VII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-cuadernos-3-agramatismo",
+          "name": "Agramatismo. Abordajes teóricos y evidencia clínica de la producción y comprensión de oraciones — Y. Sevilla, Cuadernos de Neurolingüística 3 (Buenos Aires: OPFyL, Facultad de Filosofía y Letras, 2004)",
+          "role": "Unidad VII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-alteraciones-procesamiento-sintactico",
+          "name": "Alteraciones del procesamiento sintáctico — Sánchez, Friese, Sevilla y Jaichenco (Comp.) (Buenos Aires: OPFyL, Facultad de Filosofía y Letras, 2016) · cap. de Thompson «Producción de verbos inacusativos en la afasia agramática»",
+          "role": "Unidad VII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-cuetos-neurociencia-lenguaje",
+          "name": "Neurociencia del Lenguaje: bases neurológicas e implicaciones clínicas — F. Cuetos Vega (Madrid: Editorial Médica Panamericana, 2012; la entrada de la Unidad VIII imprime «Javier Rodríguez-Ferreiro» tras el pie de imprenta)",
+          "role": "Unidad VIII · cap. 7 «Semántica» · Unidad IX · cap. 1 «Introducción»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-bases-biologicas-aprendizaje",
+          "name": "Las bases biológicas del aprendizaje — C. Glejzer (compilador) (el programa no consigna editorial ni lugar) · cap. de Fachinetti «Plasticidad y memoria», 2017 (selección de secciones)",
+          "role": "Unidad VIII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-cognitive-neurosciences",
+          "name": "The cognitive neurosciences — M. Gazzaniga (Ed.) (Cambridge, Mass.: MIT Press, 1995) · cap. de Tulving «La organización de la memoria: Quo vadis?», pp. 839-847 (traducción de la cátedra)",
+          "role": "Unidad VIII · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-neurociencias-del-lenguaje",
+          "name": "Neurociencias del lenguaje — Friese, Sánchez, Sevilla y Jaichenco (Comp.) (Buenos Aires: OPFyL, Facultad de Filosofía y Letras, 2016) · caps. de Grodzinsky y Friederici, Improta Franca, Laganaro Molina/Morand/Schnider, y Meltzer-Asscher/Mack/Barbieri/Thompson",
+          "role": "Unidad IX",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-oxford-handbook-experimental-syntax",
+          "name": "Oxford Handbook of Experimental Syntax (Oxford: OUP) · cap. de Matchin y Rogalsky «Aphasia and syntax», 2021",
+          "role": "Unidad IX · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-evaluacion-neuropsicologica-adultos",
+          "name": "Evaluación Neuropsicológica en Adultos (Buenos Aires: Paidós, 2007) · cap. de Jaichenco, Wilson y Ruiz «Evaluación del Lenguaje» — el programa cita «Burin, Drake y Harris (Compiladores)» en la Unidad X y «Drake, M.; Harris, P. y Burin, D.» en la general",
+          "role": "Unidad X · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-badea-guia-de-uso",
+          "name": "Batería para el Análisis de Déficits Afásicos. Guía de Uso — G. Miceli, G. Laudana y C. Burani (1991), versión en español de Aldo Ferreres y colaboradores (el programa no consigna editorial)",
+          "role": "Unidad X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-modelos-metodos-rehabilitacion",
+          "name": "Modelos & métodos de rehabilitación en la Neuropsicología Contemporánea — L. Quintanar Rojas (Ed.) (México: Editorial Universidad Autónoma de Tlaxcala) · cap. de Jaichenco, Politis, Jacubovich y Ferreres, 2001",
+          "role": "Unidad X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-aphasia-rehabilitation",
+          "name": "Aphasia Rehabilitation — N. Martin, C. Thompson y L. Worrall (Eds.) (Abingdon: Plural Publishing, 2008) · caps. de Thompson y de Worrall sobre el agramatismo (traducciones de la cátedra)",
+          "role": "Unidad X · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-costa-cerebro-bilingue",
+          "name": "El cerebro bilingüe — A. Costa (Barcelona: Debate, 2017)",
+          "role": "Unidad XI · cap. 2 «Cerebros bilingües», pp. 57-106",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-handbook-neuropsychology",
+          "name": "Handbook of Neuropsychology — H. Goodglass y A. R. Damasio (Eds.) (Amsterdam: Elsevier) · cap. de Paradis «Afasia en políglotas y en bilingües», 1990, pp. 117-140 (traducción de la cátedra)",
+          "role": "Unidad XI",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía general",
+      "title": "El fondo de la disciplina",
+      "note": "Los 12 volúmenes que el programa lista solo en su «Bibliografía general» —los que también aparecen por unidad ya están dibujados arriba, con la mención en su rol—. Mismo criterio: volúmenes sí, artículos de revista no. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-caplan-el-lenguaje",
+          "name": "El lenguaje. Estructura, procesamiento y trastornos — D. Caplan (Buenos Aires: Docencia, 1998)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-handbook-clinical-linguistics",
+          "name": "The Handbook of clinical linguistics — M. J. Ball, M. Perkins, N. Mueller y S. Howard (eds.) (Oxford: Blackwell) · cap. de Clahsen «Teoría sintáctica chomskiana y trastornos del lenguaje», 2008, pp. 165-183 (traducción de la cátedra)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-druks-agrammatism",
+          "name": "Contemporary and emergent theories of agrammatism — J. Druks (Londres: Routledge, 2017)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-helm-estabrooks-albert",
+          "name": "Manual de la afasia y de Terapia de la afasia — N. Helm Estabrooks y M. Albert (Buenos Aires: Panamericana, 2003)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-oxford-handbook-psycholinguistics",
+          "name": "The Oxford Handbook of Psycholinguistics — M. G. Gaskell (Ed.) (Nueva York: Oxford University Press, 2007)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-grodzinsky-perspectives",
+          "name": "Theoretical perspectives on language deficits — Y. Grodzinsky (Cambridge: MIT Press, 1990)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-brocas-region",
+          "name": "Broca´s region — Y. Grodzinsky y K. Amunts (Eds.) (Oxford: Oxford University Press, 2006)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-ingram-neurolinguistics",
+          "name": "Neurolinguistics. An introduction to spoken language processing and its disorders — J. Ingram (Cambridge: Cambridge UP, 2007)",
+          "role": "bibliografía general · citado también en la fundamentación",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-kemmerer",
+          "name": "Cognitive Neuroscience of Language — D. Kemmerer (Psychology Press, 2015)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-raiter-jaichenco",
+          "name": "Psicolingüística. Elementos de adquisición, producción, comprensión y patologías del lenguaje — A. Raiter y V. Jaichenco (Buenos Aires: Docencia, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-science-of-reading",
+          "name": "The science of reading — M. Snowling y C. Hulme (Oxford: Blackwell Publishing, 2007)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.neurolinguistica.libro-handbook-neurolinguistics",
+          "name": "Handbook of neurolinguistics — B. Stemmer y H. Whitaker (San Diego: Academic Press, 1998)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Neurolingüística, cód. 15055 (Plan 2023) / 0579 (Plan 1985), Prof. Virginia Jaichenco, 1º cuatrimestre 2026 (PDF de 10 páginas, extraído por texto)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0579%20-%2015055%20NEUROLING%C3%9C%C3%8DSTICA%202026.pdf"
+  }
+}

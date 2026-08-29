@@ -1,0 +1,256 @@
+{
+  "address": "uba.ffyl.letras.linguistica-del-texto",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), establecida en el Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 hs (mínimo; mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º",
+    "anio": 2026,
+    "codigo": "0575 (Plan 1985) · 15050 (Plan 2023)",
+    "denominacion": "GRAMÁTICA TEXTUAL (Plan 1985) / LINGÜÍSTICA DEL TEXTO (Plan 2023)",
+    "catedra": "El programa no usa la palabra «cátedra» (verificado sobre el texto extraído). Firma: CARRIZO, Alicia Eugenia, profesora adjunta.",
+    "equipoDocente": [
+      "CARRIZO, Alicia Eugenia (profesora adjunta; la portada la consigna sólo como «PROFESORA»)",
+      "NOBLIA, María Valentina (jefa de trabajos prácticos)"
+    ],
+    "modalidad": "presencial, con hasta 30% de clases en modalidad virtual asincrónica; teóricas virtuales si hay más de 350 inscriptos",
+    "unidades": 3,
+    "tramos": 4,
+    "bibliografia": 19,
+    "departamento": "Letras · FFyL-UBA (directora del Departamento: Carina Zubillaga)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.linguistica-del-texto",
+      "label": "Lingüística del Texto"
+    }
+  ],
+  "eyebrow": "Letras · Área Lingüística · Lingüística del Texto",
+  "title": "El texto como unidad, y lo que esa unidad obliga.",
+  "lede": "Una gramática textual no se define por el nombre de su unidad de análisis sino por la perspectiva que esa unidad impone: mirar el lenguaje como un sistema de significados codificados formalmente, y no como un sistema de formas. Desde ahí se abre la pregunta de si «gramática textual» frente a «gramática oracional» es siquiera una oposición válida, y se recorren dos modelos de gramática de texto —la lingüística sistémico-funcional, con la cohesión como proyección textual, y la ciencia del texto, con la coherencia y la macroestructura— para terminar poniéndolos a trabajar contra el análisis del discurso y el análisis crítico del discurso. El planteo es textualista en lo gramatical, discursivo en lo interaccional y genérico en lo sociocultural.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "4 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de la materia, 2º cuatrimestre 2026, Departamento de Letras (FFyL-UBA), firmado por la profesora adjunta Alicia Eugenia Carrizo. La portada del PDF atestigua la doble denominación y el doble código: «0575 (Plan 1985)» y «15050 (Plan 2023)» —impresos en dos renglones de la portada, sin barra— y «MATERIA: GRAMÁTICA TEXTUAL (Plan 1985) / LINGÜÍSTICA DEL TEXTO (Plan 2023)» — es la misma materia bajo dos planes. El programa NO usa la palabra «cátedra» en ningún lugar (verificado por búsqueda sobre el texto extraído): consigna profesora adjunta y jefa de trabajos prácticos, nada más; por eso acá no se afirma ni la existencia de cátedras paralelas ni ningún cambio de titularidad — la fuente no lo dice. CONTRADICCIÓN REGISTRADA (no resuelta): la portada declara la modalidad de dictado «ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», mientras que el punto e del mismo PDF dice que la materia «se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2023-2382-UBA-DCT#FFYL la cual establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2024» — dos REDEC distintas en el mismo documento, y la segunda referida al ciclo lectivo 2024 en un programa fechado en 2026. VARIANTES DEL ORIGINAL: el código se imprime «0575» en la portada y «575» en la página siguiente; Carrizo figura como «PROFESORA» en la portada y como «PROFESORA ADJUNTA» en la página siguiente. El encabezado del punto d anuncia bibliografía «obligatoria, complementaria y fuentes», pero bajo cada unidad sólo aparece «Bibliografía obligatoria»: no hay bibliografía complementaria en el programa. SELECCIÓN DECLARADA de la bibliografía: de las 22 entradas de la bibliografía obligatoria se dibujan 19 nodos libro, uno por volumen; un capítulo o artículo se dibuja únicamente a través del volumen que lo contiene y una sola vez —por eso las dos entradas de Hasan (1984 y 2012) comparten el volumen «Describing language: form and function» y el capítulo de Menéndez 2017 se dibuja dentro de «Obras esenciales» de Halliday—, y se EXCLUYE la única ponencia en actas de congreso (Menéndez, S.M. 2005, «¿Qué es una estrategia discursiva?», Actas del Congreso Internacional: Debates Actuales, FFyL-UBA, edición en CD): las actas no se dibujan como libro. TRANSCRIPCIÓN LITERAL: los títulos y nombres se copian como los imprime el programa, sin corregir —«Dressler, W. y de Beaugrande» (sin inicial), «Mahtiessen, Ch.», «C. Cioran» como coeditor de las obras completas de Hasan, «Genre Systems: Mapping Culture», «P. Chareadeau», «Raiser, H.»—; ninguna corrección se aplica porque ninguna segunda fuente la respalda. Tres entradas no consignan año de volumen: Coulthard y Caldas-Coulthard (eds.), «Texts and practices»; «Lengua, discurso, texto» (Visor); «Los intersticios del análisis del discurso en Argentina» (Universidad de Tolima). Ningún título quedó ilegible: la extracción es texto nativo, 7 páginas. La materia se aprueba por promoción directa con tres parciales; la Opción B del propio régimen PD exige además examen final.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades",
+      "title": "De la unidad de análisis al discurso",
+      "note": "Las tres unidades del programa 2026, con los dos tramos numerados de la Unidad II, en orden.",
+      "map": {
+        "mk": "El programa, en tres unidades",
+        "tree": "LINGÜÍSTICA DEL TEXTO (Plan 2023) · GRAMÁTICA TEXTUAL (Plan 1985)\ncódigo 0575 / 15050 · 2º cuatrimestre 2026\n│\n├─ I · Desarrollo de una gramática textual\n│      formalismo y funcionalismo · la oración como dominio\n│      texto frente a oración, enunciado, discurso, interacción, serie\n│      normas de la textualidad · del estructuralismo a la multimodalidad\n│\n├─ II · MODELOS DE GRAMÁTICAS DE TEXTO\n│   ├─ 2.1 · La lingüística sistémico-funcional\n│   │        texto, registro, género, ideología · cohesión léxica y gramatical\n│   │        el caso límite de los conectores · estructura retórica\n│   └─ 2.2 · La ciencia del texto\n│            coherencia local y global · macroestructura · macro acto de habla\n│            texto y contexto · de la regla a la estrategia\n│\n└─ III · Gramática del texto y análisis del discurso\n         gramática, registro, estrategia y género · recursos, rasgos, estrategias\n         intertextualidad e interdiscursividad · la prueba lingüística\n         descripción gramatical + explicación discursiva + interpretación crítica",
+        "foot": "Temas del programa Carrizo 2026. La Unidad I abre discutiendo si «gramática textual» frente a «gramática oracional» es una oposición válida; la II confronta dos modelos —cohesión (sistémico-funcional) contra coherencia (ciencia del texto)—; la III los complementa con el análisis del discurso y el análisis crítico del discurso."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.desarrollo-gramatica-textual",
+          "name": "Desarrollo de una gramática textual",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.sistemico-funcional",
+          "name": "La lingüística sistémico-funcional",
+          "role": "Unidad II · 2.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.ciencia-del-texto",
+          "name": "La ciencia del texto",
+          "role": "Unidad II (la lista de bibliografía de la unidad no se subdivide; la asignación a 2.2 es por contenido)",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.gramatica-y-analisis-del-discurso",
+          "name": "Gramática del texto y análisis del discurso",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Los 19 volúmenes de la bibliografía obligatoria del programa 2026, por unidad. Un capítulo se dibuja a través de su volumen y una sola vez; la ponencia en actas de congreso (Menéndez 2005, edición en CD) no se dibuja. El programa no trae bibliografía complementaria. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-menendez-gramatica-textual",
+          "name": "¿Qué es una gramática textual? — S. M. Menéndez (Litterae Ediciones, 2006)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-beaugrande-dressler",
+          "name": "Introducción a la lingüística del texto — W. Dressler y de Beaugrande (Ariel, 1997; el programa imprime «de Beaugrande» sin inicial)",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-hasan-describing-language",
+          "name": "Describing language: form and function — The Collected Works of Ruqaiya Hasan, vol. 5, ed. j. Webster [así impreso] y C. Cioran (Equinox, 2019) · caps. «What kind of resource is language?» (1984), 3-28, y «A view of pragmatics in a social semiotic perspective» (2012), 80-105",
+          "role": "Unidad I · dos entradas del programa, un volumen",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-petofi-garcia-berrio",
+          "name": "Lingüística del texto y crítica literaria — J. Petöfi y A. García Berrio (eds.) (Alberto Corazón, 1978) · cap. H. Raiser, «El desarrollo de la gramática textual»",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-halliday-semiotica-social",
+          "name": "El lenguaje como semiótica social — M. Halliday (FCE, 1978), tercera parte",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-halliday-matthiessen-ifg",
+          "name": "Introduction to Functional Grammar — M. Halliday y Ch. Mahtiessen (Arnold, 2003, 3ª edición; el apellido se imprime así en el programa)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-halliday-obras-esenciales",
+          "name": "Obras esenciales — M. Halliday (Eudeba / Universidad Nacional del Litoral, 2017), parte 2: caps. 1, 2, 3, 5 y 11 · incluye el cap. de S. M. Menéndez, «M.A.K. Halliday: de la opción al recurso, de la gramática al registro», 17-35",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-halliday-webster-text-linguistics",
+          "name": "Text linguistics. The How and Why of meaning — M. Halliday y j. Webster [así impreso] (Equinox, 2014)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-van-dijk-ciencia-del-texto",
+          "name": "La ciencia del texto — T. van Dijk (Paidós, 1978)",
+          "role": "Unidad II (la lista de bibliografía de la unidad no se subdivide; la asignación a 2.2 es por contenido)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-coulthard-texts-and-practices",
+          "name": "Texts and practices — M. Coulthard y C. Caldas-Coulthard (eds.) (Routledge; el programa no consigna año)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-fairclough-analysing-discourse",
+          "name": "Analysing Discourse — N. Fairclough (Routledge, 2003)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-lavandera",
+          "name": "Curso de lingüística para el análisis del discurso — B. Lavandera (CEAL, 1985)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-martin-rose-genre",
+          "name": "Genre Systems: Mapping Culture — J. Martin y D. Rose (Equinox, 2007; título como lo imprime el programa)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-lengua-discurso-texto",
+          "name": "Lengua, discurso, texto — J. J. de Bustos y P. Chareadeau (eds.) (Visor; el programa no consigna año del volumen) · cap. S. M. Menéndez, «Estrategias discursivas: principio metodológico para el análisis pragmático del discurso» (2000), 926-945",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-intersticios-discurso-argentina",
+          "name": "Los intersticios del análisis del discurso en Argentina — O. I. Londoño Zapata (ed.) (Universidad de Tolima, Colombia; el programa no consigna año del volumen) · cap. S. M. Menéndez, «Entre la gramática y el género: el discurso. Un enfoque estratégico» (2018)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-meurer-generos",
+          "name": "Gêneros: teorías, métodos, debates — J. L. Meurer, A. Bonini y D. Motta-Roth (Parábola, 2005)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-van-dijk-kintsch",
+          "name": "Strategies for discourse comprehension — T. van Dijk y W. Kintsch (Academic Press, 1983)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-van-dijk-discourse-studies",
+          "name": "Discourse studies — T. van Dijk (ed.) (Sage, 1997), volúmenes I y II",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-del-texto.libro-young-harrison",
+          "name": "Systemic Functional Linguistics and Critical Discourse Analysis — L. Young y C. Harrison (Continuum, 2004)",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de GRAMÁTICA TEXTUAL (Plan 1985) / LINGÜÍSTICA DEL TEXTO (Plan 2023), códigos 0575 y 15050, profesora adjunta Alicia Eugenia Carrizo, 2º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0575%2015050%20GRAM%C3%81TICA%20TEXTUAL%20CARRIZO.pdf"
+  }
+}

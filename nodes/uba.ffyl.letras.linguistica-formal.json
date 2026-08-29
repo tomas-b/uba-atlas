@@ -1,0 +1,181 @@
+{
+  "address": "uba.ffyl.letras.linguistica-formal",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17",
+    "cargaHoraria": "96 horas (mínimo de 6 y máximo de 10 horas semanales de dictado)",
+    "cuatrimestre": "2º (programa 2º cuatrimestre 2026)",
+    "codigo": "580 / 15051 (así impreso en la portada)",
+    "nombreDelPrograma": "LINGÜÍSTICA CHOMSKYANA (Plan 1985) / LINGÜÍSTICA FORMAL (Plan 2023)",
+    "catedra": "El programa no asigna letra ni número de cátedra: la portada consigna PROFESOR/A Laura Kornfeld. La palabra «cátedra» sí aparece en el PDF, pero sólo en «ficha de cátedra» y «la cátedra de Lingüística Chomskyana».",
+    "profesor": "Laura Kornfeld (firma «Profesora adjunta regular»)",
+    "equipoDocente": [
+      "KORNFELD, Laura (profesora)",
+      "ZDROJEWSKI, Pablo (Jefe de Trabajos Prácticos)",
+      "MALDONADO, Ángel (Ayudante de Primera)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL (portada); hasta un 30% de las clases en modalidad virtual, exclusivamente asincrónica",
+    "evaluacion": "3 instancias de evaluación parcial · Opción A: 80% de asistencia y promedio ≥ 7 sin aplazos · Opción B: 75% de trabajos prácticos, ≥ 4 en cada instancia, promedio entre 4 y 7, y examen final ≥ 4 · 1 recuperatorio · regularidad vigente 4 años",
+    "departamento": "Letras (Directora: Carina Zubillaga)",
+    "unidades": 3,
+    "bibliografia": 9,
+    "año": 2026
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.linguistica-formal",
+      "label": "Lingüística Formal"
+    }
+  ],
+  "eyebrow": "Letras · orientación Lingüística · Lingüística Formal",
+  "title": "Una sintaxis anterior a toda experiencia.",
+  "lede": "La materia recorre el programa de investigación abierto por Chomsky en 1957 con Estructuras sintácticas: la idea de un conocimiento lingüístico innato, una estructura sintáctica común a la especie y previa a toda experiencia. Se ordenan los modelos que se sucedieron dentro de la gramática generativa —Principios y parámetros como teoría de la adquisición y la variación, el Programa Minimalista y su reducción de niveles de representación— y se sigue hasta las zonas de trabajo actuales: macro y microparámetros, cartografía sintáctica, gramaticalización, lenguas polisintéticas, las interfaces léxico-sintaxis, sintaxis-semántica y morfología-sintaxis, la Morfología Distribuida. El banco de pruebas es el español, y las lenguas románicas.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "código 580 / 15051"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de la materia, código «580 / 15051» tal como lo imprime la portada (el PDF no explicita cuál de los dos números corresponde a cuál plan; el nombre del archivo publicado escribe «0580- 15051»). Un mismo programa cubre DOS nombres: «LINGÜÍSTICA CHOMSKYANA (Plan 1985)» y «LINGÜÍSTICA FORMAL (Plan 2023)»; el cuerpo del texto usa siempre el nombre viejo —«Lingüística Chomskyana se propone presentar…», «ficha de cátedra para Lingüística Chomskyana»— y el nodo se dirige acá porque así lo llama el plan en el nodo padre. Profesora: Laura Kornfeld, 2º cuatrimestre 2026, con Pablo Zdrojewski (JTP) y Ángel Maldonado (Ayudante de Primera); el programa aclara al pie que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». El programa NO asigna letra ni número de cátedra, y no dice cuántas cátedras dicta la materia. La ubicación en la orientación Lingüística viene del nodo padre (plan de Letras), no de este PDF, que sólo consigna el departamento. CONTRADICCIÓN REGISTRADA sobre la resolución de modalidad: la portada dice «PRESENCIAL ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL» (dos veces), mientras que el apartado «Organización del dictado» dice «modalidad presencial atendiendo a lo dispuesto por REDEC-2023-2382-UBA-DCT#FFYL la cual establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2024» — dos resoluciones distintas en un programa fechado en 2026, y una referida al ciclo lectivo 2024. No se resuelve: se registran las dos como están. VARIACIÓN DEL ORIGINAL: el volumen de Gallego se cita como «Perspectivas de la sintaxis formal» en la bibliografía por unidad y como «Perspectivas de sintaxis formal» (sin «la») solo en la entrada de volumen de la bibliografía general —las demás menciones de esa misma lista usan «de la»—; se dibuja con la forma mayoritaria. SELECCIÓN DECLARADA: se dibujan como nodo libro únicamente los títulos de VOLUMEN citados en la bibliografía OBLIGATORIA de las tres unidades —monografías y volúmenes colectivos, con el capítulo leído anotado en el nombre—. Quedan fuera, en ambos sentidos: la bibliografía complementaria de cada unidad y la «Bibliografía general» del cierre (que en su mayoría reitera lo anterior), y, dentro de la obligatoria, los artículos de revista (Cinque y Rizzi 2016, en The Annual Review of Linguistics), las ponencias (Marantz 2001, WCCFL 20), las tesis inéditas (Kornfeld 2005) y las fichas de cátedra en mimeo (Kornfeld 2023a, 2023b y 2023c). Dos volúmenes obligatorios se dibujan sin año de edición porque el programa no lo consigna: el compilado de Carrió, Gonzalo y Parera y el de Cabré Monné — la fecha que el programa imprime pertenece a la contribución citada, no al volumen.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades",
+      "title": "Del innatismo a las interfaces",
+      "note": "Cada unidad del programa es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en tres unidades",
+        "tree": "LINGÜÍSTICA FORMAL (Plan 2023) / LINGÜÍSTICA CHOMSKYANA (Plan 1985)\ncódigo 580 / 15051 · Kornfeld · 2º cuatrimestre 2026\n│\n├─ 1 · Fundamentos de la lingüística chomskyana\n│      lenguaje como capacidad cognitiva · competencia y actuación\n│      lengua-i vs. lengua-e · innatismo y gramática universal\n│      el problema de la adquisición · universales y particulares\n│\n├─ 2 · El modelo de la gramática\n│      Principios y parámetros (1981, 1986) · modularidad\n│      niveles de representación: profunda, superficial, FF, FL\n│      Programa Minimalista (1995) · economía y «buen diseño»\n│      rasgos interpretables y no interpretables · estructura argumental\n│      ensamble externo e interno · el caso y la legitimación de los SSDD\n│\n└─ 3 · Variación lingüística e interfaces de la gramática\n       macroparámetros y microparámetros · tipología y lingüística formal\n       cartografía sintáctica · gramaticalización · lenguas polisintéticas\n       interfaces léxico-sintaxis, sintaxis-semántica, morfología-sintaxis\n       Morfología Distribuida y operaciones post-sintácticas",
+        "foot": "Temas del programa Kornfeld 2026. La Unidad 1 fija el objeto y el recorrido histórico de los modelos; la Unidad 2 arma el modelo de la gramática de Principios y parámetros al Minimalismo; la Unidad 3 sale del núcleo hacia la variación entre lenguas y hacia los bordes donde la sintaxis toca al léxico, a la semántica y a la morfología."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.fundamentos",
+          "name": "Fundamentos de la lingüística chomskyana",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.modelo-de-la-gramatica",
+          "name": "El modelo de la gramática (glosa editorial: de Principios y parámetros al Minimalismo, según los contenidos 2.1-2.3)",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.variacion-e-interfaces",
+          "name": "Variación lingüística e interfaces de la gramática",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Títulos de volumen de la bibliografía obligatoria de las tres unidades, con el capítulo leído anotado. Los artículos de revista, las ponencias, las tesis inéditas y las fichas de cátedra en mimeo no se dibujan como libro; tampoco la bibliografía complementaria ni la general. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-bosque-gutierrez-rexach",
+          "name": "Fundamentos de sintaxis formal — I. Bosque y J. Gutiérrez-Rexach (Akal, 2008)",
+          "role": "U1 caps. 1-2 · U2 caps. 5-6 · U3 cap. 8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-chomsky-conocimiento",
+          "name": "El conocimiento del lenguaje — N. Chomsky (Altaya, 1994 [1986]), esp. caps. 1 y 2",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-chomsky-criaturas",
+          "name": "¿Qué clase de criaturas somos? — N. Chomsky (Planeta, 2016) · cap. “¿Qué es el lenguaje?”, pp. 25-50",
+          "role": "Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-eguren-fernandez",
+          "name": "Introducción a una sintaxis minimista — L. Eguren y O. Fernández Soriano (Gredos, 2004)",
+          "role": "U1 cap. 1 · U2 cap. 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-gallego-perspectivas",
+          "name": "Perspectivas de la sintaxis formal — Á. Gallego (ed.) (Akal, 2016)",
+          "role": "U2 caps. 2, 4 y 9 · U3 cap. 10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-carrio-linguistica-generativa",
+          "name": "Lingüística Generativa: desde los estudios teóricos a las reflexiones histórico-filosóficas — C. Carrió, A. Gonzalo y G. Parera (comps.) (UNL, Santa Fe; el programa no data el volumen)",
+          "role": "Unidad 3 · Avellana y Kornfeld 2018, pp. 56-104",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-embick-halle",
+          "name": "Word Formation: Aspects of the Latin Conjugation in Distributed Morphology — D. Embick y M. Halle (Mouton de Gruyter, 2012)",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-cabre-linguistica-teorica",
+          "name": "Lingüística teòrica: anàlisi i perspectives II — T. Cabré Monné (ed.) (Universitat Autónoma de Barcelona, Bellaterra; el programa no data el volumen)",
+          "role": "Unidad 3 · Mendikoetxea 2007, pp. 55-102",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-formal.libro-roberts-roussou",
+          "name": "Syntactic Change — I. Roberts y A. Roussou (Cambridge University Press, 2003) · cap. 1 “Introduction”, pp. 1-8",
+          "role": "Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de LINGÜÍSTICA CHOMSKYANA (Plan 1985) / LINGÜÍSTICA FORMAL (Plan 2023), código 580 / 15051 (Prof. Laura Kornfeld, 2º cuatrimestre 2026)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0580-%2015051%20LING%C3%9C%C3%8DSTICA%20CHOMSKYANA.pdf"
+  }
+}

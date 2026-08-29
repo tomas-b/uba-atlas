@@ -1,0 +1,207 @@
+{
+  "address": "uba.ffyl.letras.dialectologia-hispanoamericana",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (noventa y seis)",
+    "cuatrimestre": "1º",
+    "año": "2026",
+    "codigo": "0589 (Plan 1985) / 15056 (Plan 2023)",
+    "catedra": "el programa no consigna cátedra: imprime «PROFESORA: LÓPEZ GARCÍA, MARÍA» y va firmado «Dra. María López García — prof. adjunta regular». La palabra «cátedra» aparece una sola vez en el PDF, dentro del texto citado de la REDEC-2024-2526 («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "equipoDocente": [
+      "LÓPEZ GARCÍA, MARÍA (profesora)",
+      "HEIT, SILVIA (jefa de trabajos prácticos)",
+      "SHIMABUKURO, CECILIA (jefa de trabajos prácticos)",
+      "LAURIA, DANIELA (ayudante)"
+    ],
+    "modalidad": "presencial, ajustado a REDEC-2024-2526-UBA-DCT#FFYL. El programa reproduce la norma que habilita hasta un 30% de clases en modalidad virtual pero no declara qué porcentaje adopta: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "departamento": "Letras · Directora: Carina Zubillaga",
+    "unidades": 4,
+    "bibliografia": 12
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.dialectologia-hispanoamericana",
+      "label": "Dialectología Hispanoamericana"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Dialectología Hispanoamericana",
+  "title": "Quién decide cómo se habla bien.",
+  "lede": "Un recorrido por los aportes teóricos sobre la diversidad y el cambio lingüísticos, con herramientas de la dialectología, la sociolingüística y las políticas lingüísticas. La materia parte de la premisa de que el estatuto de las variedades de una lengua trasciende lo estrictamente lingüístico e involucra siempre componentes ideológicos: se entra por los atlas y la geografía lingüística y los conceptos operativos —lengua, dialecto, variedad; estándar y norma; hegemonía y prestigio; actitud sociolingüística y representación social—, se sigue por las teorías sobre la base lingüística del español de América y sus rasgos centrales, se pasa al derrotero de las discusiones sobre la lengua nacional argentina, y se cierra en la geopolítica actual del español: academias, estados, empresas tecnológicas, discurso panhispánico, diccionarios y gramáticas como instrumentos de gramatización, y sesgos de variedad en las IA.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "cód. 0589 / 15056"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Dialectología Hispanoamericana, códigos 0589 (Plan 1985) / 15056 (Plan 2023), Departamento de Letras (FFyL-UBA), 1º cuatrimestre 2026, profesora María López García. EL PROGRAMA NO CONSIGNA CÁTEDRA: no nombra ninguna cátedra ni letra de cátedra; la única aparición de la palabra «cátedra» en el PDF está dentro del texto citado de la REDEC-2024-2526 sobre estructura de cátedra. Todo lo que aquí se dice sobre el equipo docente sale de la lista impresa (profesora López García; JTP Heit y Shimabukuro; ayudante Lauria), con la nota al pie del propio programa: «Las docentes interinas están sujetas a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». ATRIBUCIÓN CRUZADA: la ubicación en el «Área · Lingüística» viene del nodo padre (plan de Letras), no del PDF, que sólo declara el departamento. SELECCIÓN DECLARADA: se dibujan como nodo libro únicamente los títulos de la BIBLIOGRAFÍA OBLIGATORIA de las cuatro unidades; la bibliografía complementaria —mucho más extensa— no se dibuja. EXCLUSIÓN DECLARADA, aplicada en los dos sentidos: dentro de la obligatoria sólo se dibuja lo que la cita identifica como VOLUMEN con pie de imprenta (libro o volumen colectivo), sea citado entero o por un capítulo/selección dentro de él; quedan fuera artículos de revista, ponencias en actas y publicaciones en línea sin volumen —por eso no se dibujan Acuña 1999 (Actas ASELE), Bravo García 2010, Del Valle 1998 y 2002, Marimón Llora 2006 (Biblioteca Virtual Cervantes), Acuña 1997, Bein 2013, Blanco 1986, Di Tullio 2010, Moure 2004, Carrió 2024, Del Valle y Meirinho-Guede 2016 (CUNY Academic Works), Hecht y Messineo 2017, Hofmann et al. 2024 (Nature), Lauria 2021, López García 2024, Rizzo 2020 ni Salerno y Vilar 2025—; y ningún título que aparezca sólo en la complementaria entra por otra vía. CASO LÍMITE REGISTRADO: Coseriu (1956) «La geografía lingüística» se imprime con título entrecomillado y pie institucional (Facultad de Humanidades y Ciencias, Instituto de Filología, Universidad de la República, Montevideo) en lugar de título de volumen, y por eso no se dibuja. CONTRADICCIONES REGISTRADAS, no resueltas: (1) el código se imprime «0589 (PLAN 1985)» en la carátula y «589 (PLAN 1985)» en el encabezado de la página siguiente del mismo PDF; (2) el volumen de Resnik aparece como «La historia del español en la Argentina. Temas gramaticales, Ediciones Universidad Nacional de General Sarmiento» en la obligatoria de la Unidad I y como «La historia del español de la Argentina, Universidad Nacional de General Sarmiento» en la complementaria de la Unidad III; (3) el volumen de Kornfeld aparece con pie «Buenos Aires: Universidad Nacional de General Sarmiento» en la obligatoria de la Unidad III (citado por Carrió 2014) y con pie «Buenos Aires, UNSAM» en la complementaria de la misma unidad; (4) Méndez García de Paredes (2012) se imprime dos veces, en la complementaria de la Unidad II y en la de la Unidad IV. Los teóricos se acompañan de comisiones de trabajos prácticos que, según la fundamentación, hacia las últimas unidades hacen foco en aspectos técnicos e ideológicos de diccionarios actuales del español.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "De los atlas al mercado global",
+      "note": "Cada unidad del programa 2026 es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "DIALECTOLOGÍA HISPANOAMERICANA · cód. 0589 / 15056 · 1º cuatrim. 2026\n│\n├─ I · INTRODUCCIÓN A LOS ESTUDIOS DE LA VARIACIÓN LINGÜÍSTICA\n│      dialectología y geografía lingüística · atlas · dialectología areal\n│      política y planificación · estandarización\n│      lengua/dialecto/variedad · estándar y norma · hegemonía y prestigio\n│\n├─ II · EL ESPAÑOL EN AMÉRICA\n│      teorías sobre la base lingüística · polémicas sobre el origen\n│      regiones lingüísticas · róticas y palatales, pronombres, tratamiento\n│      americanismo · lenguas en contacto (indígenas, portugués, inglés)\n│\n├─ III · EL ESPAÑOL EN LA ARGENTINA\n│      nativismo e hispanismo · Vidal de Battini\n│      lenguas de inmigración pasada y reciente\n│      estatuto político y simbólico de las lenguas\n│\n└─ IV · GEOPOLÍTICA DEL ESPAÑOL\n       academias, estados, empresas tecnológicas · soberanía lingüística\n       discurso panhispánico · rol de la escuela\n       instrumentos de gramatización · sesgos de variedad en las IA · LEIA",
+        "foot": "Según la fundamentación impresa, la Unidad IV «retoma las anteriores y las proyecta en un análisis geopolítico del español actual»."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.variacion-linguistica",
+          "name": "Introducción a los estudios de la variación lingüística",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.espanol-en-america",
+          "name": "El español en América",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.espanol-en-argentina",
+          "name": "El español en la Argentina",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.geopolitica-del-espanol",
+          "name": "Geopolítica del español",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "Los volúmenes",
+      "note": "Títulos de volumen de la bibliografía OBLIGATORIA de las cuatro unidades, citados enteros o por un capítulo dentro de ellos. La bibliografía complementaria, los artículos de revista, las ponencias en actas y las publicaciones en línea sin volumen no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-amoros-negre",
+          "name": "La estandarización lingüística de los relativos en el mundo hispánico. Una aproximación empírica — C. Amorós Negre (Iberoamericana-Vervuert, 2018) · cap. «Fundamentos teóricos para el análisis de la estandarización lingüística del español»",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-calvet-politicas",
+          "name": "Las políticas lingüísticas — L.-J. Calvet (Edicial, 1997) · cap. «Los instrumentos de la planificación lingüística»",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-dialectologia-hispanica-routledge",
+          "name": "Dialectología hispánica. The Routledge Handbook of Spanish Dialectology — F. Moreno Fernández y R. Caravedo (eds.) (Routledge, 2023)",
+          "role": "Unidad I (García Mouton, «Dialectología del español y geografía lingüística») · Unidad III (Borzi, «El español en Argentina»)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-resnik-historia-espanol-argentina",
+          "name": "La historia del español en la Argentina. Temas gramaticales — G. Resnik (comp.) (Ediciones Universidad Nacional de General Sarmiento, 2023) · cap. «La generalización del diminutivo -ito en el español rioplatense»",
+          "role": "Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-sinner-clases-categorias",
+          "name": "Clases y categorías en el análisis de la variación lingüística — C. Sinner (ed.) (Leipziger Universitätsverlag, 2022) · cap. de L. Becker, «Biparticiones diatópicas del español: problemas y posibilidades»",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-company-espanol-en-america",
+          "name": "El español en América: de lengua de conquista a lengua patrimonial — C. Company Company (El Colegio Nacional, México, 2021)",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-fontanella-espanol-de-america",
+          "name": "El español de América — M. B. Fontanella de Weinberg (Mapfre, Madrid, 1992) · selección de capítulos",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-hualde-introduccion",
+          "name": "Introducción a la lingüística hispánica — J. I. Hualde et al. (Cambridge University Press, 2009) · capítulo 17",
+          "role": "Unidad II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-kornfeld-de-lenguas-ficciones-patrias",
+          "name": "De lenguas, ficciones y patrias — L. Kornfeld (comp.) (Universidad Nacional de General Sarmiento, Buenos Aires, 2014) · cap. de C. Carrió, «Lenguas en Argentina. Notas sobre algunos desafíos»",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-gutierrez-rexach-enciclopedia",
+          "name": "Enciclopedia de lingüística hispánica — J. Gutierrez Rexach (Routledge, 2016) · selección de capítulos",
+          "role": "Unidad III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-hofmann-medios-espacios",
+          "name": "Medios, espacios y nuevas comunidades imaginadas — S. Hofmann (ed.) (Edition Tranvia, Berlín, 2006) · cap. de E. Arnoux sobre el III Congreso de la Lengua Española",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.dialectologia-hispanoamericana.libro-nuevo-retrato-andalucia",
+          "name": "Nuevo retrato lingüístico de Andalucía — A. Narbona Jiménez y E. Méndez-Gª de Paredes (ed.) (Universidad Internacional de Andalucía, Sevilla, 2022) · cap. de A. López Serena, «¿Tan mal hablamos los andaluces?»",
+          "role": "Unidad IV",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Dialectología Hispanoamericana, códigos 0589 (Plan 1985) / 15056 (Plan 2023), profesora María López García, 1º cuatrimestre 2026 (modalidad ajustada a REDEC-2024-2526-UBA-DCT#FFYL)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0589%20-%2015056%20DIALECTOLOG%C3%8DA%20HISPANOAMERICANA2026_0.pdf"
+  }
+}
