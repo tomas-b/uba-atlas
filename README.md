@@ -58,8 +58,14 @@ flowchart TB
 **34 researchers + 34 verifiers over Letras alone. Verdicts: zero fabricated
 units, zero fabricated books, ~70 precision fixes.** Every verdict is committed
 in `verification/` — line-referenced refutation reports, one per node — and
-`extract/manifest.json` records each source's URL and extraction method. The
-loop's output isn't just data — it's data with an audit trail you can read.
+`extract/manifest.json` records each source's URL and extraction method.
+
+**And the audit trail ships with the artifact**: every verified node on the
+live site carries a *Verificación adversarial* panel (verdict badge, refuted
+claims, the verifier's full report), and
+[**/audit.html**](https://uba-atlas.vercel.app/audit.html) lists all 136
+verdicts — filterable down to the fabrications the loop caught. The output
+isn't just data — it's data with an audit trail you can browse.
 
 ## 📊 Scale so far
 

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UBA Atlas · auditoría</title>
+<meta name="description" content="El audit trail del atlas: un veredicto adversarial por nodo verificado — qué se intentó refutar y qué sobrevivió.">
+<style>
+  :root {
+    --paper:#e1e0da; --surface:#ecebe5; --ink:#23262b; --ink-soft:#565b62; --ink-faint:#8a8e88;
+    --hairline:#c6c6bd; --steel:#2c4257; --accent:#bd7514; --accent-ink:#7a4c0c; --ready:#3f7d5a;
+    --font-display:ui-monospace,"SF Mono","JetBrains Mono","Cascadia Code",Menlo,Consolas,monospace;
+    --font-body:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,sans-serif;
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --paper:#15171a; --surface:#1d2024; --ink:#e8e7e1; --ink-soft:#9ca19f; --ink-faint:#6d716e;
+    --hairline:#34383d; --steel:#7ba0c6; --accent:#db9636; --accent-ink:#e7ad57; --ready:#5fa982;
+    color-scheme:dark;
+  }}
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-body);line-height:1.55;}
+  .wrap{max-width:1000px;margin:0 auto;padding:28px 24px 80px;}
+  .top{display:flex;gap:16px;padding:14px 0 0;font-family:var(--font-display);font-size:12px;}
+  .top a{color:var(--steel);text-decoration:none;}
+  h1{font-family:var(--font-display);font-weight:600;font-size:clamp(24px,4vw,34px);margin:18px 0 8px;}
+  .lede{font-size:14.5px;color:var(--ink-soft);max-width:70ch;margin:0 0 20px;}
+  .stats{display:flex;gap:0;font-family:var(--font-display);border:1.5px solid var(--ink);background:var(--surface);margin-bottom:22px;flex-wrap:wrap;}
+  .stat{padding:12px 20px;border-right:1px solid var(--hairline);flex:1;min-width:120px;}
+  .stat:last-child{border-right:0;}
+  .stat .k{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);}
+  .stat .v{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums;}
+  .stat.clean .v{color:var(--ready);} .stat.errors .v{color:var(--accent-ink);} .stat.fab .v{color:#c0453f;}
+  .filters{font-family:var(--font-display);font-size:11.5px;margin-bottom:14px;display:flex;gap:8px;flex-wrap:wrap;}
+  .filters button{font:inherit;letter-spacing:.06em;text-transform:uppercase;background:transparent;border:1px solid var(--hairline);border-radius:2px;color:var(--ink-soft);padding:4px 10px;cursor:pointer;}
+  .filters button.on{border-color:var(--ink);color:var(--ink);font-weight:600;}
+  .tblwrap{overflow-x:auto;border:1px solid var(--hairline);border-radius:2px;background:var(--surface);}
+  table{border-collapse:collapse;width:100%;font-size:13px;}
+  th{font-family:var(--font-display);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);text-align:left;padding:10px 14px;border-bottom:1px solid var(--hairline);}
+  td{padding:8px 14px;border-bottom:1px solid var(--hairline);vertical-align:baseline;}
+  tr:last-child td{border-bottom:0;}
+  td.addr a{font-family:var(--font-display);font-size:12px;color:var(--steel);text-decoration:none;}
+  td.addr a:hover{text-decoration:underline;}
+  td.num{font-family:var(--font-display);font-variant-numeric:tabular-nums;color:var(--ink-soft);white-space:nowrap;}
+  td.wave{font-family:var(--font-display);font-size:11px;color:var(--ink-faint);white-space:nowrap;}
+  .badge{font-family:var(--font-display);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;padding:2px 8px;border-radius:2px;border:1px solid;white-space:nowrap;}
+  .badge.clean{color:var(--ready);border-color:color-mix(in srgb,var(--ready) 45%,transparent);}
+  .badge.errors{color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent) 45%,transparent);}
+  .badge.fabrication{color:#c0453f;border-color:#c0453f;}
+  .rec{font-family:var(--font-display);font-size:10px;color:var(--ink-faint);}
+  .foot{font-family:var(--font-display);font-size:11px;color:var(--ink-faint);margin-top:20px;max-width:78ch;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><a href="index.html">← navegador</a><a href="graph.html">▚ grafo</a><a href="https://github.com/tomas-b/uba-atlas" style="margin-left:auto;color:var(--ink-faint);">cómo se construye ↗</a></div>
+  <h1>⚔ Auditoría</h1>
+  <p class="lede">Cada nodo verificado tiene un <b>veredicto adversarial</b>: un agente independiente releyó la fuente extraída e intentó <b>refutar</b> cada unidad, cada libro, cada número y cada claim de prosa. El veredicto refleja el estado <i>al momento de la verificación</i>; los errores que cazó se corrigieron en el commit de cierre de su ola. Nada de esto se genera acá: es el registro de la máquina local.</p>
+  <div class="stats" id="stats"></div>
+  <div class="filters" id="filters"></div>
+  <div class="tblwrap"><table>
+    <thead><tr><th>nodo</th><th>veredicto</th><th>unidades</th><th>libros</th><th>ola</th><th></th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table></div>
+  <p class="foot">Los veredictos «recuperado» fueron minados de los transcripts de sesión (olas anteriores a que el audit trail se commiteara). Los nodos sin veredicto en esta tabla son de la era pre-verificación del pilote — se re-verifican en olas de refresco. Fuente de cada fila: <span style="color:var(--steel)">verification/&lt;address&gt;.json</span> en el repo.</p>
+</div>
+<script>
+  const esc = s => (s == null ? "" : String(s));
+  const VLABEL = { clean: "limpio", errors: "errores", fabrication: "fabricación" };
+  let DATA = [], FILTER = "all";
+  function draw() {
+    const rows = DATA.filter(v => FILTER === "all" || v.v === FILTER);
+    document.getElementById("rows").innerHTML = rows.map(v => `<tr>
+      <td class="addr"><a href="index.html#${esc(v.a)}">${esc(v.a)}</a></td>
+      <td><span class="badge ${esc(v.v)}">${esc(VLABEL[v.v] || v.v)}</span></td>
+      <td class="num">${v.ut != null ? v.u + "/" + v.ut : "—"}</td>
+      <td class="num">${v.bt != null ? v.b + "/" + v.bt : "—"}</td>
+      <td class="wave">${esc(v.w || "—")}${v.d ? " · " + esc(v.d) : ""}</td>
+      <td class="rec">${v.r ? "recuperado" : ""}</td>
+    </tr>`).join("");
+  }
+  fetch("audit-data.json").then(r => r.json()).then(j => {
+    DATA = j.verdicts;
+    const n = { clean: 0, errors: 0, fabrication: 0 };
+    for (const v of DATA) n[v.v] = (n[v.v] || 0) + 1;
+    document.getElementById("stats").innerHTML = `
+      <div class="stat"><div class="k">veredictos</div><div class="v">${DATA.length}</div></div>
+      <div class="stat clean"><div class="k">limpios</div><div class="v">${n.clean}</div></div>
+      <div class="stat errors"><div class="k">con errores (corregidos)</div><div class="v">${n.errors}</div></div>
+      <div class="stat fab"><div class="k">fabricaciones cazadas</div><div class="v">${n.fabrication}</div></div>`;
+    const F = [["all","todos"],["clean","limpios"],["errors","errores"],["fabrication","fabricaciones"]];
+    const fb = document.getElementById("filters");
+    fb.innerHTML = F.map(([k,l]) => `<button data-f="${k}" class="${k==="all"?"on":""}">${l}</button>`).join("");
+    fb.addEventListener("click", e => {
+      const b = e.target.closest("[data-f]"); if (!b) return;
+      FILTER = b.dataset.f;
+      fb.querySelectorAll("button").forEach(x => x.classList.toggle("on", x === b));
+      draw();
+    });
+    draw();
+  });
+</script>
+</body>
+</html>

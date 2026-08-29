@@ -51,6 +51,30 @@ for (const a of all) {
   };
 }
 
+// --- verification/: the audit trail rides along with the artifact ---
+const VER = path.join(ROOT, "verification");
+const verdicts = [];
+if (fs.existsSync(VER)) {
+  fs.mkdirSync(path.join(OUT, "verification"), { recursive: true });
+  for (const f of fs.readdirSync(VER).filter((f) => f.endsWith(".json"))) {
+    try {
+      const v = JSON.parse(fs.readFileSync(path.join(VER, f), "utf8"));
+      if (!v.address || !v.verdict) continue;
+      fs.copyFileSync(path.join(VER, f), path.join(OUT, "verification", f));
+      verdicts.push({
+        a: v.address, v: v.verdict,
+        u: v.units_found ?? null, ut: v.units_total ?? null,
+        b: v.books_found ?? null, bt: v.books_total ?? null,
+        w: v.wave || null, d: v.date || null, r: v.recovered ? 1 : 0,
+      });
+    } catch {}
+  }
+  verdicts.sort((x, y) => x.a.localeCompare(y.a));
+  fs.writeFileSync(path.join(OUT, "audit-data.json"), JSON.stringify({ verdicts }));
+}
+const verifiedSet = new Set(verdicts.map((v) => v.a));
+for (const a of all) if (meta[a]) meta[a].v = verifiedSet.has(a) ? 1 : 0;
+
 // --- write site/ (never wipe: site/.vercel holds the project link) ---
 fs.mkdirSync(path.join(OUT, "nodes"), { recursive: true });
 for (const f of files) fs.copyFileSync(path.join(NODES, f), path.join(OUT, "nodes", f));
@@ -59,4 +83,4 @@ fs.writeFileSync(path.join(OUT, "graph-data.json"), JSON.stringify({ generatedAt
 for (const f of fs.readdirSync(SRC)) fs.copyFileSync(path.join(SRC, f), path.join(OUT, f));
 
 const sealed = [...drawn].filter((a) => nodes[a].sealed).length;
-console.log(`site/ built: ${drawn.size} nodes (${sealed} sealed), ${all.size} addresses in the graph`);
+console.log(`site/ built: ${drawn.size} nodes (${sealed} sealed), ${all.size} addresses in the graph, ${verdicts.length} verdicts`);

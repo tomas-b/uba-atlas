@@ -98,10 +98,26 @@
   .dk-course{background:#e2efe8;border-color:#3f7d5a;} .dk-unit{background:#dcecef;border-color:#2b7a86;}
   .dk-book{background:#f2e3ea;border-color:#a34a72;} .dk-career{background:#e7e3f2;border-color:#4a3aa7;}
   .dk-faculty{background:#dfe8f2;border-color:#2c4257;} .dk-cbc-area{background:#f7f0e4;border-color:#c98a2e;}
+  .audit{margin-top:22px;background:var(--surface);border:1px solid var(--hairline);border-left:3px solid var(--ready);border-radius:2px;}
+  .audit.errors{border-left-color:var(--accent);}
+  .audit.fabrication{border-left-color:#c0453f;}
+  .audit-head{padding:13px 18px;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;font-family:var(--font-display);}
+  .audit-head .ak{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-faint);}
+  .badge{font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;padding:2px 9px;border-radius:2px;border:1px solid;}
+  .badge.clean{color:var(--ready);border-color:color-mix(in srgb,var(--ready) 45%,transparent);}
+  .badge.errors{color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent) 45%,transparent);}
+  .badge.fabrication{color:#c0453f;border-color:#c0453f;}
+  .audit-head .astat{font-size:12px;color:var(--ink-soft);font-variant-numeric:tabular-nums;}
+  .audit details{border-top:1px solid var(--hairline);}
+  .audit summary{font-family:var(--font-display);font-size:11px;color:var(--steel);padding:9px 18px;cursor:pointer;list-style:none;}
+  .audit summary::before{content:"▸ ";} .audit details[open] summary::before{content:"▾ ";}
+  .audit .anotes{font-size:12.5px;color:var(--ink-soft);padding:0 18px 14px;white-space:pre-wrap;max-height:340px;overflow-y:auto;}
+  .audit .alist{font-size:12.5px;color:var(--ink-soft);padding:0 18px 12px;margin:0;}
+  .audit .alist li{margin-bottom:4px;}
 </style>
 </head>
 <body>
-<div style="max-width:1000px;margin:0 auto;padding:14px 24px 0;display:flex;gap:16px;"><a id="graphlink" href="graph.html" style="font-family:var(--font-display);font-size:12px;color:var(--steel);text-decoration:none;">▚ ver en el grafo →</a><a href="https://github.com/tomas-b/uba-atlas" style="font-family:var(--font-display);font-size:12px;color:var(--ink-faint);text-decoration:none;margin-left:auto;">cómo se construye ↗</a></div>
+<div style="max-width:1000px;margin:0 auto;padding:14px 24px 0;display:flex;gap:16px;"><a id="graphlink" href="graph.html" style="font-family:var(--font-display);font-size:12px;color:var(--steel);text-decoration:none;">▚ ver en el grafo →</a><a href="audit.html" style="font-family:var(--font-display);font-size:12px;color:var(--steel);text-decoration:none;margin-left:auto;">⚔ auditoría →</a><a href="https://github.com/tomas-b/uba-atlas" style="font-family:var(--font-display);font-size:12px;color:var(--ink-faint);text-decoration:none;">cómo se construye ↗</a></div>
 <div class="wrap" id="app"></div>
 <script>
   // Static artifact: this page only reads nodes/*.json produced by the local
@@ -158,7 +174,31 @@
     return `<div class="axis ${esc(g.kind || "plain")}">${head}${map}${rooms}</div>`;
   }
 
-  function render(node) {
+  const VLABEL = { clean: "limpio", errors: "errores (corregidos al cierre de ola)", fabrication: "fabricación cazada (corregida)" };
+  function auditHTML(v) {
+    if (!v) return "";
+    const cls = esc(v.verdict);
+    const stat = [];
+    if (v.units_total != null) stat.push(`${v.units_found}/${v.units_total} unidades`);
+    if (v.books_total != null) stat.push(`${v.books_found}/${v.books_total} libros`);
+    if (v.wave) stat.push(esc(v.wave));
+    if (v.date) stat.push(esc(v.date));
+    if (v.recovered) stat.push("recuperado del transcript");
+    const list = (arr, label) => (arr && arr.length)
+      ? `<details><summary>${label} (${arr.length})</summary><ul class="alist">${arr.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>` : "";
+    return `<div class="audit ${cls}">
+      <div class="audit-head">
+        <span class="ak">Verificación adversarial</span>
+        <span class="badge ${cls}">${esc(VLABEL[v.verdict] || v.verdict)}</span>
+        <span class="astat">${stat.join(" · ")}</span>
+      </div>
+      ${list(v.not_found, "claims refutados")}
+      ${list(v.omitted, "omisiones registradas")}
+      ${v.notes ? `<details><summary>informe del verificador</summary><div class="anotes">${esc(v.notes)}</div></details>` : ""}
+    </div>`;
+  }
+
+  function render(node, verdict) {
     const crumb = node.breadcrumb.map((b, i) => {
       const last = i === node.breadcrumb.length - 1;
       return (last ? `<span class="here">${esc(b.label)}</span>`
@@ -183,6 +223,7 @@
       ${scaleHTML(node.level)}
       ${node.frame ? `<p class="frame">${esc(node.frame)}</p>` : ""}
       ${(node.groups || []).map(groupHTML).join("")}
+      ${auditHTML(verdict)}
       <p class="src">Ground truth · <a href="${esc(node.source && node.source.url)}" target="_blank" rel="noopener">${esc(node.source && node.source.label)}</a> · un nodo del árbol direccionable — arriba el plano, abajo los programas y los libros (el 1:1).</p>
     `;
     document.title = "UBA Atlas · " + node.breadcrumb[node.breadcrumb.length - 1].label;
@@ -214,8 +255,13 @@
 
   async function loadNode(address) {
     if (!INDEX.size) await loadIndex();
-    const r = await fetch("nodes/" + address + ".json");
-    if (r.ok) { render(await r.json()); return; }
+    const [r, rv] = await Promise.all([
+      fetch("nodes/" + address + ".json"),
+      fetch("verification/" + address + ".json").catch(() => null),
+    ]);
+    let verdict = null;
+    if (rv && rv.ok) { try { verdict = await rv.json(); } catch {} }
+    if (r.ok) { render(await r.json(), verdict); return; }
     sinTrazar(address);
   }
 
