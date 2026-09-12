@@ -1,0 +1,16 @@
+{
+  "address": "uba.med.medicina.iar-tocoginecologia",
+  "wave": "medicina-iar-cierre",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "books_total": 0,
+  "books_found": 0,
+  "units_total": 58,
+  "units_found": 58,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "14 competencias (E×9,D×3,C×2) match L373-398 incl. the two genuine C levels; 28 procedimientos = 23 + 5 spill-page items, none invented; 16 patologías match L462-483; Departamento quote (5 semanas/143 hs) correctly fenced as materia figures, not rotation; no guía-vigente duration claimed — correct, the guía never names Tocoginecología."
+}

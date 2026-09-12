@@ -1,0 +1,14 @@
+{
+  "address": "uba.ffyl.letras.literatura-francesa",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7, "units_found": 7,
+  "books_total": 71, "books_found": 71,
+  "not_found": [
+    "frame '19 entradas de la Bibliografía general' — the section prints 20; Solnit's Wanderlust (src 419-420) dropped from the exclusion ledger; '= 135' should read 136 (drawn side unaffected)"
+  ],
+  "omitted": ["Torres Bodet 1959 cited in U3 contenidos with no bibliography entry anywhere — dangling citation unflagged", "manifest lacks this extract's key (project-wide gap: 139/305 unregistered)"],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Survives on every named claim: live re-fetch byte-identical; 7 units literal; 71 drawn books exact by both routes (73 obligatoria − 9 articles − 3 folded = 61 + 10 ediciones); code 15025 on BOTH faces with 15023 filename recorded; Balzac no-source gap real; form-letter g-n derail printed exactly (APARICIO unlettered, dictado=o, evaluación=p); Tzara 55-54, Barthes dual, Lukács dual, Restif R./N. all real; cátedra characterization holds (9 stem hits, 4 strict); área attributed to parent. Low-severity drift: diacritics/capitalization restored against the as-printed stance (Flâneuses, Las Cuarenta, Caja Negra). Fix: 19→20, add Solnit, 135→136; optionally add Torres Bodet as errata."
+}

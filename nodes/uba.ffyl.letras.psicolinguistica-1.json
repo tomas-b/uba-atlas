@@ -1,0 +1,397 @@
+{
+  "address": "uba.ffyl.letras.psicolinguistica-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — el programa imprime «OPCIÓN 2 · Régimen de PROMOCIÓN DIRECTA (PD)», establecido en el Reglamento Académico, Res. (CD) Nº 4428/17: 3 instancias de evaluación parcial calificadas según los artículos 39º y 40º, con UN (1) recuperatorio",
+    "cargaHoraria": "96 horas (la portada consigna «CARGA HORARIA: 96 HORAS»; el apartado de organización dice «la carga horaria mínima es de 96 horas» y comprende un mínimo de 6 y un máximo de 10 horas semanales de dictado)",
+    "cuatrimestre": "2º · 2026",
+    "codigo": "15053 (Plan 2023) · 0576 (Plan 1985) — la portada imprime los dos códigos y los dos nombres: «PSICOLINGÜÍSTICA I (ADQUISICIÓN)» en el Plan 1985 y «PSICOLINGÜÍSTICA I (ADQUISICIÓN DEL LENGUAJE)» en el Plan 2023",
+    "tituloDelPrograma": "Adquisición del lenguaje y aprendizaje de la lectura y la escritura: perspectivas, modelos, evidencias experimentales y alteraciones",
+    "catedra": "Depto. de Letras · PROFESOR/A: JAICHENCO, VIRGINIA (firma el programa junto a Carina Zubillaga, Directora del Departamento de Letras). El programa NO designa una cátedra nominada: verificado por búsqueda sobre el texto extraído, la palabra «cátedra» aparece 23 veces y todas son «Serie de Fichas de cátedra», «Traducción/Traducción y adaptación de la cátedra», «Traducción para la cátedra», «Ficha de cátedra», «Ficha para la cátedra» —dentro de la bibliografía— más una vez dentro del texto citado de la REDEC («estructura de cátedra que permita desdoblar las clases teóricas»).",
+    "equipoDocente": [
+      "JAICHENCO, Virginia (profesora a cargo · «PROFESOR/A» en la portada)",
+      "FUMAGALLI, Julieta (JTP)",
+      "D´ALESSIO, Josefina (ayudante 1º)",
+      "SZENKMAN, Daniela (ayudante 1º)"
+    ],
+    "modalidad": "presencial · SIN CONTRADICCIÓN: la portada, el encabezado y el apartado «Organización del dictado de la materia» citan los tres la MISMA resolución, REDEC-2024-2526-UBA-DCT#FFYL. El programa no consigna resolución de aprobación del plan de la materia.",
+    "unidades": 10,
+    "bibliografia": 33,
+    "bibliografiaDesglose": "33 volúmenes distintos dibujados, tomados de las 56 entradas de la bibliografía por unidad; el programa NO tiene apartado de «Bibliografía general»: toda su bibliografía está repartida en las diez unidades",
+    "excluidos": "21 ítems no dibujados como libro: 17 artículos de revista científica, 2 fichas de cátedra sueltas y 2 ítems citados sin volumen contenedor identificable (enumerados en el frame)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.psicolinguistica-1",
+      "label": "Psicolingüística I (Adquisición del Lenguaje)"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Psicolingüística I",
+  "title": "Cómo un chico llega al lenguaje, y después a la letra escrita.",
+  "lede": "La adquisición del lenguaje tratada como disciplina experimental: primero el método —qué cuenta como dato, cómo se observa a un bebé, los estudios fetales y perinatales, los diarios y las listas de chequeo maternas, el paradigma intermodal de la mirada preferencial, las técnicas de imagen cerebral—, y después el cerebro que aprende: plasticidad, período sensible, atención, memoria y funciones ejecutivas. Sobre esa base se enfrentan las grandes perspectivas que explican cómo se adquiere una lengua: Piaget y el enfoque cognitivo, Vigotsky y Luria, el innatismo de Chomsky con la gramática universal y los parámetros, los enfoques pragmáticos de Bruner y de Tomasello, Fodor y la modularidad, el neoconstructivismo de Karmiloff Smith. Viene entonces el sistema mismo, nivel por nivel: percepción y producción de los sonidos, la organización del léxico mental, el desarrollo morfológico y sintáctico, de la holofrase a la oración compleja, las habilidades pragmáticas y discursivas; y el caso del chico bilingüe. La segunda mitad se corre a la lengua escrita: conciencia fonológica y morfológica, vocabulario, la visión simple de la lectura y el modelo de la cuerda, la fluidez lectora, la comprensión y la producción de textos, y la disputa por los métodos de alfabetización inicial y la enseñanza basada en la evidencia. Cierra por lo que falla —trastorno del desarrollo del lenguaje, dislexias y disgrafias— leído como evidencia del desarrollo típico. Durante la cursada se arma un proyecto de investigación propio: tema, objetivos, herramientas metodológicas, informe final.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "cód. 15053 / 0576"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Psicolingüística I, códigos 15053 (Plan 2023) y 0576 (Plan 1985), carrera de Letras (FFyL-UBA), a cargo de la Prof. Virginia Jaichenco, 2º cuatrimestre de 2026, publicado en letras.filo.uba.ar (PDF de 12 páginas, extraído por texto). Título del programa: «Adquisición del lenguaje y aprendizaje de la lectura y la escritura: perspectivas, modelos, evidencias experimentales y alteraciones». Fuente única: no se consultó ni se cita ningún otro programa de esta materia. EL NOMBRE CAMBIA SEGÚN EL PLAN, tal como lo imprime la portada: «PSICOLINGÜÍSTICA I (ADQUISICIÓN)» en el Plan 1985 y «PSICOLINGÜÍSTICA I (ADQUISICIÓN DEL LENGUAJE)» en el Plan 2023; este nodo lleva el nombre del Plan 2023, que es el que usa el nodo padre. El área («Lingüística») viene del nodo padre —el plan de Letras—, no del programa, que no consigna área ni orientación. CÁTEDRA: el programa no nombra una cátedra («A», «B», etc.); solo consigna «PROFESOR/A: JAICHENCO, VIRGINIA» y lleva las firmas de Virginia Jaichenco y de Carina Zubillaga, Directora del Departamento de Letras — verificado por búsqueda sobre el texto extraído: las 23 apariciones de la palabra «cátedra» son todas de la bibliografía («Serie de Fichas de cátedra», «Traducción de la cátedra», «Traducción para la cátedra», «Ficha de cátedra», «Ficha para la cátedra») salvo una, dentro del texto citado de la REDEC. EQUIPO DOCENTE: JTP Julieta Fumagalli, y dos ayudantes de 1º, Josefina D´Alessio y Daniela Szenkman; una nota al pie aclara que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». MODALIDAD, SIN CONTRADICCIÓN: a diferencia de otros programas del mismo Departamento, la portada, el encabezado y el apartado «Organización del dictado de la materia» citan aquí la misma resolución, REDEC-2024-2526-UBA-DCT#FFYL. CONTRADICCIONES Y RAREZAS DEL ORIGINAL, REGISTRADAS SIN RESOLVER: (a) el apartado de evaluación imprime un único régimen —«OPCIÓN 2 · Régimen de PROMOCIÓN DIRECTA (PD)»— pero a continuación dice «Para ambos regímenes», sin que el segundo aparezca en el PDF; (b) siendo promoción directa, el apartado «VIGENCIA DE LA REGULARIDAD» habla de presentarse «a examen final en 3 (tres) mesas examinadoras»; (c) la cita del Reglamento Académico queda con el paréntesis sin cerrar: «Res. (CD) Nº 4428/17.»; (d) el PDF imprime dos llamadas al pie (un «1» tras la línea de modalidad y un «2» tras «EQUIPO DOCENTE») pero la extracción muestra un solo texto al pie, numerado 1. SELECCIÓN Y EXCLUSIONES DECLARADAS, aplicadas en los dos sentidos, sobre las 56 entradas de la bibliografía por unidad (el programa no tiene «Bibliografía general»): se dibujan como libro los ítems citados como VOLUMEN —monografías, volúmenes editados o compilaciones, y opúsculos de serie citados como unidad, con título propio e identificación editorial—; cuando el programa cita un capítulo, una traducción o una adaptación, se dibuja el volumen que la contiene y el capítulo se anota en el rol de ese volumen, no aparte. Resultado: 33 volúmenes distintos dibujados y 21 ítems no dibujados. ARTÍCULOS DE REVISTA EXCLUIDOS (17): Barón Birchenall, Müller y Galindo 2014 (Revista Colombiana de Psicología); Berko 1958 (Word); Clark y Berman 1984 (Language); Costa y Sebastián Gallés 2014 (Nature Reviews Neuroscience); Barreyro, Fumagalli, Álvarez-Drexler, Calero y Formoso 2023 (RECIE. Revista Caribeña de Investigación Educativa); Fumagalli, Barreyro y Jaichenco 2012 (Revista de Psicología de la Pontificia Universidad Católica Argentina); González, Cuetos, Vilar y Uceira 2014 (Aula Abierta); Hoover y Gough 1990 (Reading and Writing: An Interdisciplinary Journal); Abchi y Diuk 2007 (Universitas psychologica); De Mier, Borzone y Cupani 2012 (Neuropsicología Latinoamericana); Fumagalli y Jaichenco 2019 (Investigaciones en Psicología); Yausaz 2012 (Interdisciplinaria); Alegría, Carrillo y Sanchez 2005 (Investigación y ciencia); Castedo 2010 (Lectura y Vida Revista Latinoamericana de Lectura); Crespo Allende, Alfaro-Faccio, Góngora-Costa, Alvarado y Marfull-Villanueva 2020 (Revista Signos. Estudios de lingüística); Fumagalli, Sanchez, Barreyro, Jacubovich y Jaichenco 2018 (Revista Argentina de Neuropsicología); Sant Torrent 2002 (Revista de Logopedia, Fonética y Audiología). FICHAS DE CÁTEDRA SUELTAS EXCLUIDAS (2): D´Alessio, J. y Szenkman, D. 2023, «Desarrollo fonológico en los primeros años de vida: una perspectiva psicolingüística»; Jaichenco, V. 2021, «Trastorno Específico del Lenguaje: Investigaciones y discusiones» — ambas citadas sin volumen, sin editorial y sin paginación. ÍTEMS EXCLUIDOS POR NO OFRECER VOLUMEN CONTENEDOR IDENTIFICABLE (2): Perfetti y Hart 2002, «The lexical quality hypothesis», impreso como «Precursors of functional literacy, 11, 67-86. Ficha para la cátedra», sin editores ni pie de imprenta, en forma de cita de publicación periódica; Friedmann y Novogrodsky 2008, «Subtypes of Sli: Sysli, Phosli, Lesli, and Prasli. Traducción de la cátedra», citado sin ninguna fuente contenedora. TENSIÓN DECLARADA SOBRE LAS FICHAS: los tres volúmenes «Cuadernos de Psicolingüística I» SÍ se dibujan —tienen título propio, compiladores, año y pie de imprenta (Secretaría de Publicaciones, Facultad de Filosofía y Letras, UBA) y contienen varios capítulos y traducciones citados por separado—, aunque el propio programa rotula la colección como «Serie de Fichas de cátedra»; las dos fichas sueltas, que no son volumen, no se dibujan. Se deja el rótulo del programa impreso en el nombre de cada volumen. Un artículo de revista excluido puede, aun así, haber grounded un volumen: la traducción y adaptación de Hoover y Gough 1990 es lo que el programa ubica dentro de «Cuadernos de Psicolingüística I. Lectura y comprensión de textos» (2018), volumen que sí se dibuja. VARIACIONES INTERNAS DEL PROPIO PROGRAMA, registradas sin resolver: los TRES volúmenes de la serie llevan el mismo número «I» —«Cuadernos de Psicolingüística I. Desarrollo del léxico» (1997), «Cuadernos de Psicolingüística I. Desarrollo léxico y morfosintáctico» (2003) y «Cuadernos de Psicolingüística I. Lectura y comprensión de textos» (2018)—; el volumen de Boysson-Bardies aparece dos veces en la Unidad 4 con títulos distintos, «How Languages Comes to Children» (con «(Ed.)» tras el apellido) y «How Language Comes to Children. From Birth to Two Years»; D´Alessio figura como «D´Alessio, J.» en la Unidad 4, como «D´Alessio, M.J.» en la Unidad 7 y como «D´ALESSIO, JOSEFINA» en el equipo docente; los mismos autores de la Unidad 5 figuran como «Michnick Golinkoff, R. & Hirsh-Pasek, K.» en la entrada de 1995 y como «Golinkoff, R. y Hirsch – Pasek. K.» en las dos de 1999, y el volumen fuente imprime «Roberta Michnik Golinkoff». TAL COMO ESTÁ IMPRESO, sin corregir: «Psycholinguistcs» (Clark y Clark), «mistery» (Golinkoff y Hirsch-Pasek), «Backwell Handbook of Language Development» (Hoff y Shatz), «El significado del lenguaje en lo niños» (Clark y Clark), «Contextos de adquisición de otras leguas» (Unidad 6), «Sanchez» sin tilde y «américa latina» en minúscula (Unidad 9); en la Unidad 3 la entrada de Piaget y la de Pinker salen impresas en el mismo renglón («Cap. 1. Pinker, S. 1994. El instinto del lenguaje»), y lo mismo ocurre con Bruner y Curtiss — se cuentan como entradas separadas. CRUCE CON OTRO NODO DEL ATLAS, atribuido: dos de estos volúmenes reaparecen en el programa de Neurolingüística de la misma profesora (cód. 15055/0579, 1º cuatrim. 2026) — «El instinto del lenguaje» de Pinker, que aquel programa imprime con la inicial «E.» y este con la inicial «S.», y «El cerebro lector» de Dehaene. Ningún título resultó ilegible en la extracción. Los libros no están indexados aún como libros (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 10 unidades",
+      "title": "Del método experimental a la letra escrita",
+      "note": "Cada unidad del programa 15053/0576 (Jaichenco, 2º cuatrim. 2026) es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en diez unidades",
+        "tree": "PSICOLINGÜÍSTICA I (ADQUISICIÓN DEL LENGUAJE) · cód. 15053 (Plan 2023) / 0576 (Plan 1985)\n│\n├─ MÉTODO Y SUSTRATO\n│    ├─ 1 · ¿Qué es la Psicolingüística?\n│    │      objeto y método · estudios fetales y perinatales · diarios y reportes maternales\n│    │      mirada preferencial intermodal · técnicas de imagen cerebral\n│    └─ 2 · Bases neurobiológicas del lenguaje y del desarrollo\n│           plasticidad cerebral · período sensible · atención, memoria, funciones ejecutivas\n│\n├─ 3 · Perspectivas teóricas que explican la adquisición del lenguaje\n│      3.1 Piaget · Vigotsky y Luria\n│      3.2 Chomsky · gramática universal · principios y parámetros\n│      3.3 Bruner (formatos, SAAL) · Tomasello (lenguaje en uso, aprendizaje estadístico)\n│      3.4 Fodor y la modularidad · neoconstructivismo de Karmiloff Smith\n│\n├─ EL SISTEMA LINGÜÍSTICO SE ADQUIERE\n│    ├─ 4 · Desarrollo fonológico y organización del léxico mental\n│    ├─ 5 · Morfología, sintaxis y discurso — de la holofrase a la complejidad sintáctica\n│    └─ 6 · Adquisición del lenguaje y bilingüismo\n│\n├─ LA LENGUA ESCRITA\n│    ├─ 7 · Lectura y escritura: el léxico — conciencia fonológica · modelo de la cuerda\n│    ├─ 8 · Lectura y escritura: del léxico al texto — fluidez · comprensión · producción\n│    └─ 9 · Alfabetizar — métodos de enseñanza · las disputas · enseñanza basada en la evidencia\n│\n└─ 10 · Dificultades en la adquisición del lenguaje y en el aprendizaje\n       trastorno del desarrollo del lenguaje · dislexias y disgrafias",
+        "foot": "Temas del programa Jaichenco 2026. Los agrupamientos con mayúsculas son de este nodo, para leer el orden; el programa numera diez unidades corridas, de la 1 a la 10, sin partes. Solo la Unidad 3 lleva subdivisiones numeradas (3.1 a 3.4) en el propio programa."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.que-es-la-psicolinguistica",
+          "name": "¿Qué es la Psicolingüística?",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.bases-neurobiologicas",
+          "name": "Bases neurobiológicas del lenguaje y del desarrollo",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.perspectivas-teoricas",
+          "name": "Perspectivas teóricas que explican la adquisición del lenguaje",
+          "role": "Unidad 3 · subdividida 3.1 a 3.4 en el programa",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.desarrollo-fonologico-lexico",
+          "name": "Adquisición del sistema lingüístico: desarrollo fonológico y organización del léxico mental",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.morfologia-sintaxis-discurso",
+          "name": "Adquisición del sistema lingüístico: morfología, sintaxis y discurso",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.bilinguismo",
+          "name": "Adquisición del lenguaje y bilingüismo",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.lectura-escritura-lexico",
+          "name": "Aprendizaje de la lectura y la escritura: el léxico",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.lectura-escritura-texto",
+          "name": "Aprendizaje de la lectura y la escritura: del léxico al texto",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.alfabetizar",
+          "name": "Alfabetizar",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.dificultades-desarrollo",
+          "name": "Dificultades en la adquisición del lenguaje y en el aprendizaje",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía por unidad",
+      "title": "Los volúmenes de cada unidad",
+      "note": "Los 33 volúmenes distintos citados en la bibliografía por unidad del programa —el único apartado bibliográfico que el programa tiene: no hay «Bibliografía general»—. Los artículos de revista científica (17), las fichas de cátedra sueltas (2) y los ítems sin volumen contenedor identificable (2) no se dibujan y están enumerados en el marco. Los capítulos, traducciones y adaptaciones se anotan en el rol del volumen que los contiene. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-cuadernos-desarrollo-lexico",
+          "name": "Cuadernos de Psicolingüística I. Desarrollo del léxico — L. Giussani, V. Jaichenco y A. Raiter (1997), «Serie de Fichas de cátedra» — Secretaría de Publicaciones, Facultad de Filosofía y Letras, UBA",
+          "role": "Unidad 1 · cap. «Métodos de recolección de datos en el estudio del primer desarrollo léxico» · Unidad 4 · contiene además las traducciones y adaptaciones de Clark y Clark 1977 y de Barrett 1994",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-cuadernos-lexico-morfosintactico",
+          "name": "Cuadernos de Psicolingüística I. Desarrollo léxico y morfosintáctico — A. Raiter, V. Jaichenco, A. Abusamra y L. Giussani (2003), «Serie de Fichas de cátedra» — Secretaría de Publicaciones, Facultad de Filosofía y Letras, UBA",
+          "role": "Unidad 1 · selección, traducción y adaptación de «Methods for Assessing Children´s Syntax» · Unidad 4 · traducción de Boysson-Bardies · Unidad 5 · las dos traducciones de Golinkoff y Hirsch-Pasek",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-methods-assessing-syntax",
+          "name": "Methods for Assessing Children´s Syntax — D. McDaniel, C. Mc Kee y H. Smith Cairns (eds.) (Cambridge: MIT Press, 1998)",
+          "role": "Unidad 1 · el programa lo cita como «selección, traducción y adaptación», publicada dentro de los Cuadernos de Psicolingüística I (2003)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-aitchison-mamifero-articulado",
+          "name": "El mamífero articulado — J. Aitchison (Madrid: Alianza, 1992)",
+          "role": "Unidad 2 · cap. 4 · Unidad 3 · cap. 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-blakemore-frith",
+          "name": "Cómo aprende el cerebro. Las claves para la educación — S. Blakemore y U. Frith (Barcelona: Ariel, 2007)",
+          "role": "Unidad 2 · caps. 1 y 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-dehaene-como-aprendemos",
+          "name": "¿Cómo aprendemos? — S. Dehaene (Buenos Aires: Siglo XXI, 2019)",
+          "role": "Unidad 2 · caps. 4 y 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-ruiz-martin-como-aprendemos",
+          "name": "¿Cómo aprendemos? Una aproximación científica al aprendizaje y a la enseñanza — H. Ruiz Martín (Ed. Grao, 2020; el programa no consigna lugar)",
+          "role": "Unidad 2 · bloque 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-bruner-habla-del-nino",
+          "name": "El habla del niño. Aprendiendo a usar el lenguaje — J. Bruner (Barcelona: Paidós, 1983)",
+          "role": "Unidad 3 · caps. 1, 2, 3 y 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-panorama-linguistica-moderna",
+          "name": "Panorama de la lingüística moderna de la Universidad de Cambridge, Vol. 2 — F. J. Newmeyer (coord.) (el programa no consigna editorial ni lugar)",
+          "role": "Unidad 3 · cap. de Curtiss «La adquisición anormal del lenguaje y la modularidad», 1991, pp. 121-148",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-fodor-modularidad",
+          "name": "La modularidad de la mente — J. Fodor (Madrid: Morata, 1986)",
+          "role": "Unidad 3 · tercera parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-luria-conciencia-lenguaje",
+          "name": "Conciencia y lenguaje — A. R. Luria (Madrid: Visor, 1984)",
+          "role": "Unidad 3 · caps. 1, 2 y 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-piaget-seis-estudios",
+          "name": "Seis estudios de psicología — J. Piaget (Ariel: Buenos Aires, 1981)",
+          "role": "Unidad 3 · cap. 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-pinker-instinto",
+          "name": "El instinto del lenguaje — S. Pinker (Madrid: Alianza, 1994)",
+          "role": "Unidad 3 · cap. 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-tomasello-origenes-culturales",
+          "name": "Los orígenes culturales de la cognición humana — M. Tomasello (Buenos Aires: Amorrortu, 1999)",
+          "role": "Unidad 3 · caps. 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-boysson-bardies",
+          "name": "How Language Comes to Children. From Birth to Two Years — B. de Boysson-Bardies (Cambridge, Massachusetts: The MIT Press, 1999; el programa imprime el título dos veces y distinto: «How Languages Comes to Children», con «(Ed.)», y «How Language Comes to Children. From Birth to Two Years»)",
+          "role": "Unidad 4 · caps. 1 y 2, traducción para la cátedra · y el cap. «El habla deviene lenguaje: de los dieciocho a los veinticuatro meses», traducido y adaptado en los Cuadernos de Psicolingüística I (2003)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-clark-psychology-and-language",
+          "name": "Psychology and Language. An Introduction to Psycholinguistcs — H. Clark y E. Clark (New York: Harcourt Brace Jovanovich, 1977; «Psycholinguistcs» está así impreso en el programa)",
+          "role": "Unidad 4 · cap. «El significado del lenguaje en lo niños», traducido y adaptado en los Cuadernos de Psicolingüística I (1997)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-bloom-language-acquisition",
+          "name": "Language acquisition. Core Readings — P. Bloom (Bradford, Cambridge, 1994)",
+          "role": "Unidad 4 · cap. «Primer desarrollo léxico» de M. Barrett, traducido y adaptado en los Cuadernos de Psicolingüística I (1997)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-berko-desarrollo-del-lenguaje",
+          "name": "Desarrollo del lenguaje — J. Berko y N. Bernstein Ratner (Eds.) (Madrid: Pearson Educación, 2010)",
+          "role": "Unidad 4 · cap. de Pan y Uccelli «Desarrollo semántico. El aprendizaje del significado de las palabras», pp. 109-156",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-methods-studying-language-production",
+          "name": "Methods for studying language production — L. Menn y N. Bernstein Ratner (Eds.) (Lawrence Erlbaum Associates Publishers; el programa no consigna lugar ni año del volumen)",
+          "role": "Unidad 5 · cap. de E. Clark «Coining new words: old and new word forms for new meanings», 2000 (traducción de la cátedra)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-handbook-child-language",
+          "name": "Handbook of child language — P. Fletcher y B. Mac Whinney (Oxford: Blackwell; el programa no consigna año del volumen)",
+          "role": "Unidad 5 · cap. de Michnick Golinkoff y Hirsh-Pasek «Reinterpreting children´s sentence comprehension: toward a new framework», 1995 (traducción de la cátedra)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-golinkoff-how-babies-talk",
+          "name": "How babies talk: the magic and mistery of language in the first three years of life — R. Michnik Golinkoff y K. Hirsch-Pasek (Dutton, 1999; «mistery» está así impreso en el programa)",
+          "role": "Unidad 5 · dos capítulos traducidos y adaptados en los Cuadernos de Psicolingüística I (2003): «El lenguaje sofisticado de los veinticuatro a los treinta y seis meses: ¿Por qué? ¿Por qué? ¿Por qué?» y «Oraciones de dos palabras lo dicen todo»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-handbook-of-bilingualism",
+          "name": "The Handbook of Bilingualism — T. K. Bhatia y W. C. Ritchie (eds.) (Blackwell Handbooks in Linguistics; el programa no consigna lugar ni año del volumen)",
+          "role": "Unidad 6 · cap. de Meisel «The Bilingual Child», 2008 (traducción de la cátedra)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-handbook-language-development",
+          "name": "Backwell Handbook of Language Development — E. Hoff y M. Shatz (eds.) (así impreso, «Backwell»; el programa no consigna lugar, editorial ni año del volumen)",
+          "role": "Unidad 6 · cap. de Paradis «Second Language acquisition in childhood», 2009 (traducción de la cátedra)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-dehaene-cerebro-lector",
+          "name": "El cerebro lector — S. Dehaene (Buenos Aires: Siglo XXI, 2014)",
+          "role": "Unidad 7 · caps. 1 y 5 · Unidad 10 · cap. 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-ellis-learning-to-read-and-write",
+          "name": "Learning to read and write. Reading, writing and dyslexia — A. Ellis (Hove, UK: Psychology Press, 1993)",
+          "role": "Unidad 7 · traducción de la cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-cuadernos-lectura-comprension",
+          "name": "Cuadernos de Psicolingüística I. Lectura y comprensión de textos — M. J. D´Alessio, D. Szenkman, J. Fumagalli y V. Jaichenco (2018), «Serie de Fichas de cátedra» — Secretaría de Publicaciones, Facultad de Filosofía y Letras, UBA",
+          "role": "Unidad 7 · contiene la traducción y adaptación de «The simple view of reading» de Hoover y Gough 1990",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-alfabetizacion-en-el-aula",
+          "name": "Alfabetización en el aula: procesos y propuesta para enseñar a leer y escribir (Buenos Aires: Universidad Nacional de Hurlingham, 2023)",
+          "role": "Unidad 7 · cap. de Jaichenco, Fumagalli y Ferroni «Habilidades implicadas en el proceso de alfabetización. El modelo de la cuerda» (el programa imprime título de capítulo y de volumen separados por dos puntos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-reading-acquisition",
+          "name": "Reading acquisition — P. B. Gough, L. C. Ehri y R. Treiman (Eds.) (Lawrence Erlbaum Associates; el programa no consigna lugar ni año del volumen)",
+          "role": "Unidad 7 · cap. de Perfetti «The representation problem in reading acquisition», 1992 · «Ficha para la cátedra»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-competencia-lectora-siglo-xxi",
+          "name": "La competencia lectora a principios del siglo XXI — D. I. Burin (Ed.) (Buenos Aires, AR: TESEO, 2020)",
+          "role": "Unidad 8 · cap. de Barreyro «La comprensión del texto escrito», pp. 13-45",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-textos-en-contexto-1",
+          "name": "Textos en contexto n°1 (Buenos Aires: Lectura y Vida)",
+          "role": "Unidad 8 · cap. de Flower y Hayes «La teoría de la redacción como proceso cognitivo», 1996",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-braslavsky-ensenar-a-entender",
+          "name": "Enseñar a entender lo que se lee — B. Braslavsky (Buenos Aires: Fondo de cultura económica, 2005)",
+          "role": "Unidad 9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-dehaene-aprender-a-leer",
+          "name": "Aprender a leer. De las ciencias cognitivas al aula — S. Dehaene (Buenos Aires: Siglo XXI, 2015)",
+          "role": "Unidad 9 · cap. 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-1.libro-encuentro-textual",
+          "name": "Encuentro textual. Ensayos sobre literaturas y lenguas — B. Neumann (comp.) (Universidad Nacional de la Patagonia San Juan Bosco: EDUPA – ILLPAT)",
+          "role": "Unidad 10 · cap. de Jaichenco y Fumagalli «Lenguaje, lectura y genes: evidencias en estudios familiares», 2018, pp. 149-159",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Psicolingüística I (Adquisición del Lenguaje), cód. 15053 (Plan 2023) / 0576 (Plan 1985), Prof. Virginia Jaichenco, 2º cuatrimestre 2026 (PDF de 12 páginas, extraído por texto)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0576%2015053%20PSICOLING%C3%9C%C3%8DSTICA%20I.docx_.pdf"
+  }
+}

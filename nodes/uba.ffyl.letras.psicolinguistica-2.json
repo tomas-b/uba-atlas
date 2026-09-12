@@ -1,0 +1,399 @@
+{
+  "address": "uba.ffyl.letras.psicolinguistica-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD) — Reglamento Académico, Res. (CD) Nº 4428/17: 3 instancias de evaluación parcial, con Opción A (80% de asistencia a cada instancia de la cursada, promedio ≥ 7 sin aplazos) u Opción B (75% de las clases de trabajos prácticos, cada parcial ≥ 4, promedio ≥ 4 y < 7, más EXAMEN FINAL con nota mínima 4)",
+    "cargaHoraria": "96 horas (mínimo), con un mínimo de 6 y un máximo de 10 horas semanales de dictado",
+    "cuatrimestre": "1º · 2026",
+    "codigo": "15054 (Plan 2023) · 0577 (Plan 1985) — la portada consigna los dos códigos y los dos nombres de la materia: «PSICOLINGÜÍSTICA II (Producción y Percepción)» en el Plan 1985 y «PSICOLINGÜÍSTICA II (Procesos de Comprensión y Producción)» en el Plan 2023",
+    "catedra": "Depto. de Letras · PROFESOR/A: ABUSAMRA, VALERIA (firma el programa como «Adjunta regular / a cargo»). El programa NO designa una cátedra nominada («A», «B», etc.): verificado por búsqueda sobre el texto extraído, la palabra «cátedra» aparece 9 veces, todas ellas en créditos de traducción de la bibliografía («traducción para uso exclusivo de la cátedra de Psicolingüística II de …», «traducción … para la cátedra») o en el texto reglamentario de la REDEC («estructura de cátedra»).",
+    "equipoDocente": [
+      "ABUSAMRA, Valeria (profesora a cargo · «Adjunta regular / a cargo» en la firma)",
+      "CARTOCETI, Romina (JTP regular)",
+      "ZUNINO, Gabriela (JTP regular)",
+      "SAMPEDRO, María Bárbara (ayudante de 1ª categoría regular)"
+    ],
+    "modalidad": "presencial · ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (la portada, el encabezado y el apartado «Organización del dictado» citan la MISMA resolución). Hasta un 30% de las clases puede dictarse en modalidad virtual. El programa no consigna resolución de aprobación del plan de la materia.",
+    "tituloDelPrograma": "Psicolingüística II: procesos de comprensión y producción del lenguaje. Una perspectiva cognitiva.",
+    "unidades": 6,
+    "bibliografia": 36,
+    "bibliografiaDesglose": "32 volúmenes citados en la bibliografía por unidad + 4 volúmenes que solo aparecen en la «Bibliografía general»",
+    "excluidos": "31 ítems no dibujados como libro: 29 artículos de revista científica, 1 tesis doctoral y 1 ítem sin contenedor ni pie de imprenta (enumerados en el frame)",
+    "correlatividades": "El programa declara, en «Recomendaciones»: «La cursada no supone conocimientos específicos de otras materias.»"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.psicolinguistica-2",
+      "label": "Psicolingüística II"
+    }
+  ],
+  "eyebrow": "Letras · área Lingüística · Psicolingüística II",
+  "title": "Qué hace la mente para entender y para decir.",
+  "lede": "La arquitectura cognitiva que sostiene el comportamiento lingüístico, leída como dos movimientos simétricos: comprender y producir. Se entra por la disciplina misma —la Psicolingüística como ciencia experimental, el enfoque cognitivo, los sistemas de entrada y los sistemas centrales, la autonomía de los módulos, serialidad contra interacción, y los neuromitos que hay que desarmar antes de empezar—. Sigue la pregunta por el origen: el lenguaje como instinto, la comunicación animal, el protolenguaje de Bickerton, Chomsky y las leyes de la física. Después el léxico mental: su arquitectura modular, la lexicalidad, la frecuencia, la categoría gramatical, y cómo se mide todo eso con decisión léxica, priming y tiempos de reacción. El corazón son dos unidades espejadas que recorren tres niveles cada una —léxico, oracional, textual—: del lado de la comprensión, los modelos de búsqueda de Forster y de activación de Morton, el modelo de la cohorte, la lectura, el léxico bilingüe, la ambigüedad sintáctica, la macroestructura y los modelos de situación; del lado de la producción, los errores de habla, el modelo de Garrett, el de Levelt, y la escritura como planificación, textualización y revisión. Cierra la dimensión pragmática: metáfora, ironía, toma de perspectiva, discurso conversacional y lo que se rompe en lesionados del hemisferio derecho. Los trabajos prácticos apuntan a investigaciones empíricas en pequeña escala que validen o critiquen los modelos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "cód. 15054 / 0577"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Psicolingüística II, códigos 15054 (Plan 2023) y 0577 (Plan 1985), carrera de Letras (FFyL-UBA), a cargo de la Prof. Valeria Abusamra, 1º cuatrimestre de 2026, publicado en letras.filo.uba.ar (PDF de 13 páginas, extraído por texto). Fuente única: no se consultó ni se cita ningún otro programa de esta materia. DOS NOMBRES: la portada imprime la materia con un nombre por plan — «PSICOLINGÜÍSTICA II (Producción y Percepción)» en el Plan 1985 (cód. 0577) y «PSICOLINGÜÍSTICA II (Procesos de Comprensión y Producción)» en el Plan 2023 (cód. 15054) —; el encabezado del cuerpo del programa usa un tercer título propio: «PSICOLINGÜÍSTICA II: PROCESOS DE COMPRENSIÓN Y PRODUCCIÓN DEL LENGUAJE. UNA PERSPECTIVA COGNITIVA.» Los tres se registran; no se elige uno como el verdadero. El área («Lingüística») viene del nodo padre —el plan de Letras—, no del programa, que no consigna área ni orientación. CÁTEDRA: el programa no nombra una cátedra («A», «B», etc.); solo consigna «PROFESOR/A: ABUSAMRA, VALERIA» y la firma «Valeria ABUSAMRA / Adjunta regular / a cargo», junto a la firma de Carina Zubillaga como Directora del Departamento de Letras — verificado por búsqueda sobre el texto extraído: la palabra «cátedra» aparece 9 veces, todas en créditos de traducción de la bibliografía («traducción para uso exclusivo de la cátedra de Psicolingüística II de …») o dentro del texto reglamentario de la REDEC («estructura de cátedra»). EQUIPO DOCENTE: JTP regulares Romina Cartoceti y Gabriela Zunino, y ayudante de 1ª categoría regular María Bárbara Sampedro; una nota al pie aclara que «los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». TAL COMO ESTÁ IMPRESO: bajo «EQUIPO DOCENTE:» el PDF publica la instrucción de plantilla «[La nota al pie debe figurar en el programa.]»; el bloque de evaluación conserva el encabezado de plantilla «OPCIÓN 2»; y el párrafo «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción.» está impreso dos veces seguidas. CONTRADICCIÓN REGISTRADA (alcance de la REDEC): la nota al pie 1, que glosa REDEC-2024-2526-UBA-DCT#FFYL, dice que esa resolución establece las pautas «durante la cursada del Bimestre de Verano, 1º y 2º cuatrimestre de 2023», mientras que el apartado «Organización del dictado» dice que la misma REDEC-2024-2526-UBA-DCT#FFYL «establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2026». Ambas se dejan como están, sin resolver. A diferencia de otros programas del Departamento, aquí la portada, el encabezado y el cuerpo citan una sola y misma resolución. SELECCIÓN Y EXCLUSIONES DECLARADAS, aplicadas en los dos sentidos: se dibujan como libro los 36 ítems citados como VOLUMEN —monografías, volúmenes editados o compilaciones, y baterías o tests publicados como libro—; NO se dibujan (a) los 29 artículos de revista científica, (b) 1 tesis doctoral, (c) 1 ítem que el programa cita sin contenedor ni pie de imprenta. Los capítulos citados dentro de un volumen dibujado se anotan en el rol de ese volumen y no se dibujan aparte. El programa separa cada unidad en bibliografía «obligatoria» y «complementaria»; esa distinción se conserva en el rol de cada volumen. ARTÍCULOS DE REVISTA EXCLUIDOS (29): Difalcis, Leiva, Ferreres y Abusamra 2018 (Nueva Revista del Pacífico 69, 34-51 — el programa lo repite en la obligatoria de la Unidad III y en la complementaria de la Unidad IV, se cuenta una vez); Perea y Rosa 1999 (Psicológica 20); Abusamra, Difalcis, Martínez, Low y Formoso 2020 (Languages 5(3)); Cartoceti, Abusamra, De Beni y Cornoldi 2016 (Interdisciplinaria 33(1)); Hou, Rachid y Lee 2017 (Computers in Human Behaviour 67); Margolin, Driscol, Toland y Kegler 2013 (Applied Cognitive Psychology 27); Ridge, Weisberg, Ilgaz, Hirsh-Pasek y Golinkoff 2015 (Mind, Brain, and Education 9(3)); Sampedro, Ferreres, Abusamra, Otero, Casajús y Cartoceti 2011 (Revista Neurología Argentina 3(4)); Teira e Igoa 2007 (Anuario de Psicología 38(1)); Van Gompel et al. 2006 (Journal of Memory and Language 55); Véliz et al. 2011 (Onomazein 24); Difalcis, Ferreres, Osiadacz y Abusamra 2018 (Investigaciones Sobre Lectura 9); Irrazabal y Molinari Maroto 2005 (Revista Latinoamericana de Psicología 37(3)); Skeide, Brauer y Fredierici 2014 (Neuroimage 100); Zunino 2019 (Quintú Quimün 3); Zwaan, Langston y Graesser 1995 (Psicological Science 6); Difalcis, Cartoceti y Abusamra 2022 (Revista Traslaciones 9(17)); Flower y Hayes 1996 (Lectura y vida); Sánchez Abchi y Borzone 2010 (Lectura y vida 1 — el programa lo repite en la obligatoria y en la complementaria de la Unidad V, se cuenta una vez); Scardamalia y Bereiter 1992 (Infancia y aprendizaje 58); Aznárez-Mauléon y López-Flamerique 2020 (Revista Brasileira de Linguística Aplicada 20(3)); Valenzuela 2022 (Revista signos 55(110)); Abusamra, Miranda y Ferreres 2007 (Revista Argentina de Neuropsicología 9); Joanette, Ansaldo, Kahlaoui, Côté, Abusamra, Ferreres y Roch-Lecours 2008 (Revista de Neurología, España, 46(8)); Abusamra, Côté, Joanette y Ferreres 2009 (Life-span disability); Abusamra, Abusamra, Sampedro, Macaya, Guemes y Ferreres 2016 (Journal of Life Sciences); Difalcis, Leiva, Micciuli, Abusamra, Ferreres y Joanette 2018 (Cuadernos de Neuropsicología / Panamerican Journal of Neuropsychology 12(3)); Joanette 2009 (Revista Neuropsicología Latinoamericana 1(1)); Lindell 2006 (Neuropsychol Rev 16). OTROS ÍTEMS EXCLUIDOS (2): Abusamra, V. 2010, «El efecto de la temporalidad en el procesamiento de secuencias de eventos: estudios en sujetos controles y en sujetos con daño cerebral», citado como «Tesis doctoral: capítulo 5» (tesis, no volumen publicado); González Álvarez, J. 2004, «Tema 4. Procesamiento de palabras», citado sin contenedor, editorial ni lugar, de modo que el propio PDF no permite determinar si es volumen, capítulo o apunte. VARIACIONES Y RAREZAS DEL PROPIO PROGRAMA, registradas sin resolver: el programa cita DOS colecciones distintas de Alianza 1990 con títulos y listas de editores distintas — «Lecturas de Psicolingüística», F. Valle Arroyo (Ed.) (de donde toma Forster 1976 y, como «Valle Arroyo et al. (Eds.)», Morton 1990) y «Lecturas de psicolingüística I. Comprensión y producción del lenguaje», F. Valle, F. Cuetos, J. M. Igoa y S. del Viso (eds.) (de donde toma Tyler y Marslen-Wilson 1982) —; se dibujan por separado, tal como están impresas, sin unificarlas. El «Handbook of Psycholinguistics» de Traxler y Gernsbacher figura con ese título en la Unidad I y como «Handbook of Psycholinguistic» en la Bibliografía general. La entrada de Carruthers 2008 imprime su contenedor dos veces seguidas («… The Oxford Handbook of Philosophy of Cognitive Science. Oxford University Press. In E. Margolis, R. Samuels, and S. Stich (eds.), The Oxford Handbook of Philosophy of Cognitive Science. Oxford University Press, 2008»). El programa imprime «F. Newmayer» como editor del «Panorama de la lingüística moderna de la Universidad de Cambridge», «Neruopsi Ediciones» como editorial del Protocolo MEC y «Blackwel» como editorial de «The science of reading»; los tres se transcriben tal como están, porque el propio PDF no ofrece ninguna otra grafía que permita corregirlos. «Leer y Comprender. Tejidos con hilos de palabras» (Abusamra, Ferreres, Difalcis y Piacente, 2022) se cita sin editorial ni lugar. Carroll figura como «Carroll, D.» en la Unidad I y como «Carroll» a secas en la Unidad III. Ningún título resultó ilegible en la extracción. Los libros no están indexados aún como libros (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "Comprender y producir, nivel por nivel",
+      "note": "Cada unidad del programa 15054/0577 (Abusamra, 1º cuatrim. 2026) es un nodo, en el orden impreso. Las Unidades IV y V se despliegan internamente en tres niveles numerados (léxico, oracional, textual) que el programa no numera como unidades aparte.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "PSICOLINGÜÍSTICA II · cód. 15054 (Plan 2023) / 0577 (Plan 1985)\n│\n├─ I · INTRODUCCIÓN\n│      la Psicolingüística como ciencia experimental · neuromitos\n│      sistemas de entrada y sistemas centrales · modularidad\n│      serialidad vs. interacción · técnicas experimentales\n│\n├─ II · LENGUAJE Y EVOLUCIÓN\n│      el lenguaje como instinto · comunicación animal\n│      el protolenguaje y el enfoque de Bickerton · Chomsky y las leyes de la física\n│\n├─ III · EL LÉXICO MENTAL\n│      arquitectura funcional modular · lexicalidad, frecuencia,\n│      categoría gramatical, morfología · decisión léxica, priming,\n│      tiempos de reacción\n│\n├─ IV · MODELOS DE COMPRENSIÓN DEL LENGUAJE\n│      ├─ (1) nivel léxico — palabra hablada (Forster, Morton, cohorte),\n│      │      palabra escrita y lectura, el léxico bilingüe\n│      ├─ (2) nivel oracional — Marslen Wilson y Tyler · efectos del contexto\n│      │      ¿autonomía o interacción?\n│      └─ (3) nivel textual — macroestructura, construcción de estructuras,\n│             modelos mentales o de situación\n│\n├─ V · MODELOS DE PRODUCCIÓN DEL LENGUAJE\n│      ├─ (1) nivel léxico — generación y selección de palabras,\n│      │      curso temporal del procesamiento\n│      ├─ (2) nivel oracional — errores de habla · modelo de Garrett\n│      │      (mensaje, funcional, posicional) · dos estadios · Levelt\n│      └─ (3) nivel textual — el problema retórico · planificación,\n│             textualización, revisión\n│\n└─ VI · LA DIMENSIÓN PRAGMÁTICA\n       significado referencial y figurativo · toma de perspectiva\n       discurso conversacional · lesionados del hemisferio derecho y pacientes con HIV",
+        "foot": "Temas del programa Abusamra 2026. El programa numera seis unidades corridas, de la I a la VI; los tres niveles dentro de las Unidades IV y V están impresos como (1), (2) y (3) dentro de cada unidad, no como unidades propias."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.introduccion",
+          "name": "Introducción",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.lenguaje-y-evolucion",
+          "name": "Lenguaje y evolución",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.lexico-mental",
+          "name": "El léxico mental",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.modelos-de-comprension",
+          "name": "Modelos de comprensión del lenguaje",
+          "role": "Unidad IV · niveles léxico, oracional y textual",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.modelos-de-produccion",
+          "name": "Modelos de producción del lenguaje",
+          "role": "Unidad V · niveles léxico, oracional y textual",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.dimension-pragmatica",
+          "name": "La dimensión pragmática",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía por unidad",
+      "title": "Los volúmenes de cada unidad",
+      "note": "Los 32 títulos citados como volumen en la bibliografía por unidad del programa (10 en la Unidad I, 7 en la II, 3 en la III, 6 en la IV, 5 en la V y 1 en la VI). El programa separa «obligatoria» de «complementaria» y esa marca va en el rol. Los 29 artículos de revista científica, la tesis doctoral y el ítem sin pie de imprenta no se dibujan y están enumerados en el marco. Los capítulos se anotan en el rol del volumen. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-cerebro-y-ficcion",
+          "name": "Cerebro y ficción. Mitos y verdades en la neurociencia — V. Abusamra, A. Arévalo y M. Armele (Buenos Aires: Tilde Ediciones, 2024)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-carroll-psicologia-del-lenguaje",
+          "name": "Psicología del lenguaje — D. Carroll (Madrid: Thomson Ediciones Paraninfo, 2004)",
+          "role": "Unidad I · obligatoria · cap. 1 «Introducción: Aspectos de la Psicolingüística» — Unidad III · obligatoria · cap. 5 «El léxico interno» (allí citado como «Carroll», sin inicial)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-psicolinguistica-del-espanol",
+          "name": "Psicolingüística del español — M. de Vega y F. Cuetos (Madrid: Editorial Trotta, 1999)",
+          "role": "Unidades I y III · obligatoria — Unidad IV · obligatoria · cap. 5 de Carreiras y Messeguer «Procesamiento de ambigüedades sintácticas»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-neurociencias-y-educacion",
+          "name": "Neurociencias y educación — A. Ferreres y V. Abusamra (Buenos Aires: Paidós, 2016)",
+          "role": "Unidad I · obligatoria · caps. 1 y 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-fodor-modularidad",
+          "name": "La modularidad de la mente — J. Fodor (Madrid: Morata, 1986)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-que-son-las-neurociencias",
+          "name": "Qué son las neurociencias — A. Ibáñez y A. M. García (Paidós, 2015) · cap. «La mente charleta», pp. 135-153",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-introduction-to-cognitive-neuroscience",
+          "name": "Introduction to Cognitive Neuroscience — I. Jääskeläinen (Amazon, 2012) · cap. 1 «Qué es la neurociencia cognitiva» (traducción para uso exclusivo de la cátedra, de Macarena Quiroga) y cap. 2 «Métodos en neurociencia cognitiva» (traducción de Carla de Benedictis y Cecilia de Mena)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-pinker-instinto-del-lenguaje",
+          "name": "El instinto del lenguaje — S. Pinker (Alianza, 1995) · cap. 2 «Charlatanes»",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-oxford-handbook-language-evolution",
+          "name": "The Oxford handbook of language evolution — M. Tallerman y K. R. Gibson (Eds.) (Oxford University Press, 2012) · cap. 20 de Arbib «Los sistemas espejo: la evolución de la imitación y el puente desde la praxis hasta el lenguaje» y cap. 36 de Dunbar «El chisme y los orígenes sociales del lenguaje» (ambos en traducción de Analía Zilber para uso exclusivo de la cátedra)",
+          "role": "Unidad I · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-handbook-of-psycholinguistics",
+          "name": "Handbook of Psycholinguistics — M. Traxler y M. A. Gernsbacher (Boston: Academic Press, 2006; en la Bibliografía general el programa imprime «Handbook of Psycholinguistic»)",
+          "role": "Unidad I · complementaria · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lingua-ex-machina",
+          "name": "Lingua ex Machina — D. Bickerton y W. Calvin (Barcelona: Gedisa, 2000)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-adams-tongue",
+          "name": "Adam's tongue. How humans made language, how language made humans — D. Bickerton (New York: Hill and Wang, 2009) · cap. «The Big Bang», pp. 146-169",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-oxford-handbook-philosophy-cognitive-science",
+          "name": "The Oxford Handbook of Philosophy of Cognitive Science — E. Margolis, R. Samuels y S. Stich (eds.) (Oxford University Press, 2008) · cap. de Carruthers «Language in Cognition» (la entrada del programa imprime el contenedor dos veces seguidas)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-knowledge-of-language",
+          "name": "Knowledge of Language. Its Nature, Origin and Use — N. Chomsky (USA: Convergence, 1986)",
+          "role": "Unidad II · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lenguaje-y-especies",
+          "name": "Lenguaje y especies — D. Bickerton (Madrid: Alianza, 1994) · cap. «La paradoja de la continuidad», pp. 23-43",
+          "role": "Unidad II · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-language-thought-and-consciousness",
+          "name": "Language, thought and consciousness. An essay in philosophical psychology — P. Carruthers (Gran Bretaña: Cambridge University Press, 1996)",
+          "role": "Unidad II · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lenguaje-y-problemas-del-conocimiento",
+          "name": "El lenguaje y los problemas del conocimiento — N. Chomsky (Madrid: Visor, 1984)",
+          "role": "Unidad II · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lecturas-de-psicolinguistica",
+          "name": "Lecturas de Psicolingüística — F. Valle Arroyo (Ed.) (Madrid: Alianza, 1990) · cap. de Forster «Acceso al léxico mental», 1976, y cap. de Morton «Reconocimiento de palabras», 1990 (este último citado como «Valle Arroyo et al. (Eds.)»)",
+          "role": "Unidad III · obligatoria — también Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lecturas-de-psicolinguistica-i",
+          "name": "Lecturas de psicolingüística I. Comprensión y producción del lenguaje — F. Valle, F. Cuetos, J. M. Igoa y S. del Viso (eds.) (Madrid: Alianza, 1990) · cap. de Tyler y Marslen-Wilson «Procesos de comprensión del habla», 1982",
+          "role": "Unidad III · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-panorama-de-la-linguistica-moderna-iii",
+          "name": "Panorama de la lingüística moderna de la Universidad de Cambridge. Tomo III: Aspectos psicológicos y biológicos — F. Newmayer (Madrid: Visor; el programa imprime así el apellido del editor) · cap. de Fromkin «El léxico mental», 1992",
+          "role": "Unidad III · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-leer-y-comprender",
+          "name": "Leer y Comprender. Tejidos con hilos de palabras — V. Abusamra, A. Ferreres, M. Difalcis y T. Piacente (2022; el programa no consigna editorial ni lugar) · prólogo y cap. 4",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-la-ciencia-de-la-lectura",
+          "name": "La ciencia de la lectura — V. Abusamra, A. Chimenti y S. Tiscornia (Buenos Aires: Tilde Editora, 2021) · caps. 2 y 5 «Una asamblea de palabras»",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-test-leer-para-comprender-ii",
+          "name": "Test Leer para comprender II. Evaluación de la comprensión de textos — V. Abusamra, A. Ferreres, A. Raiter, R. De Beni y C. Cornoldi (Buenos Aires: Paidós, 2014) · cap. 1",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-lexical-representation-and-processes",
+          "name": "Lexical representation and processes — W. Marslen Wilson (Massachussets: MIT Press, 1989; el programa lo cita como «Ed. MIT Press»)",
+          "role": "Unidad IV · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-esta-bien-dicho",
+          "name": "¿Está bien dicho? Hablar y escribir más allá de la ortografía y el diccionario — M. López García (Tilde Editora, 2023) · cap. 1 «La lengua son los padres»",
+          "role": "Unidad IV · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-strategies-of-discourse-comprehension",
+          "name": "Strategies of discourse comprehension — T. van Dijk y W. Kintsch (New York: Academic Press, 1983)",
+          "role": "Unidad IV · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-beesc-bateria-escritura",
+          "name": "BEEsc. Batería para la evaluación de la escritura — V. Abusamra, R. Cartoceti, M. Difalcis, A. Re y C. Cornoldi (Buenos Aires: Paidós, 2020)",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-biological-perspectives-of-language",
+          "name": "Biological perspectives of language — D. Caplan, A. Lecours y A. Smith (Comps.) (Cambridge: MIT Press) · cap. de Garrett «The organization of processing structure for language production: aplications to aphasic speech», 1994",
+          "role": "Unidad V · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-levelt-speaking",
+          "name": "Speaking. From Intention to Articulation — W. Levelt (Cambridge: The MIT Press, 1989)",
+          "role": "Unidad V · obligatoria · también en la bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-psicologia-del-lenguaje-investigacion-y-teoria",
+          "name": "Psicología del lenguaje. Investigación y teoría — M. Belinchon, J. Igoa y A. Riviere (Madrid: Trotta, 1994)",
+          "role": "Unidad V · complementaria · cap. 12 «La producción del lenguaje» — también en la bibliografía general, allí con el cap. 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-speech-errors-as-linguistic-evidence",
+          "name": "Speech errors as linguistic evidence — V. Fromkin (La Haya: Mouton, 1973)",
+          "role": "Unidad V · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-protocolo-mec",
+          "name": "Protocolo MEC: Evaluación de la comunicación verbal — A. Ferreres, V. Abusamra, M. Martínez, H. Cote, B. Ska e Y. Joanette (Buenos Aires: Neruopsi Ediciones, 2004; el programa imprime así el nombre de la editorial)",
+          "role": "Unidad VI · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía general",
+      "title": "El fondo de la disciplina",
+      "note": "Los 4 volúmenes que el programa lista solo en su «Bibliografía general» —los que también aparecen por unidad (Belinchon/Igoa/Riviere, Levelt y Traxler/Gernsbacher) ya están dibujados arriba, con la mención en su rol—. Mismo criterio: volúmenes sí, artículos de revista no. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-human-cognitive-neuropsychology",
+          "name": "Human Cognitive Neuropsychology — A. Ellis y A. Young (Hove: Psychology Press, 2004)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-evaluacion-neuropsicologica-en-adultos",
+          "name": "Evaluación Neuropsicológica en Adultos — D. Burin, M. Drake y P. Harris (compiladoras) (Buenos Aires: Paidós, 2007) · cap. de Ferreres «Evaluación de las alteraciones de la lectura»",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-narrative-comprehension-causality-coherence",
+          "name": "Narrative comprehension, Causality, and Coherence. Essays in Honor of Tom Trabasso — S. Goldman, A. Graesser y van den Broeck (Eds.) (Londres: Lawrence Erlbaum Associates, 1999)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.psicolinguistica-2.libro-the-science-of-reading",
+          "name": "The science of reading — M. Snowling y C. Hulme (Eds.) (Oxford: Blackwel, 2005; el programa imprime así el nombre de la editorial)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Psicolingüística II, cód. 15054 (Plan 2023) / 0577 (Plan 1985), Prof. Valeria Abusamra, 1º cuatrimestre 2026 (PDF de 13 páginas, extraído por texto)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0577%20-%2015054%20PSICOLING%C3%9C%C3%8DSTICA%20II%202026.pdf"
+  }
+}

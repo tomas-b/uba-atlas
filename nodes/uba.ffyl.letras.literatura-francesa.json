@@ -1,0 +1,649 @@
+{
+  "address": "uba.ffyl.letras.literatura-francesa",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · examen final (EF), Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial + 1 recuperatorio",
+    "cargaHoraria": "96 horas (el encabezado interno declara «CARGA HORARIA: 96 HORAS»; el apartado de organización del dictado declara la carga horaria mínima de 96 horas, con mínimo de 6 y máximo de 10 horas semanales)",
+    "cuatrimestre": "2º",
+    "codigo": "0504 (PLAN 1985) · 15025 (PLAN 2023), según la carátula y el encabezado interno del PDF. DISCREPANCIA REGISTRADA: el nombre del archivo publicado es «0504 15023 LITERATURA FRANCESA ROMERO.pdf» — imprime 15023, no 15025",
+    "catedra": "Depto. de Letras · PROFESOR: ROMERO, WALTER (firma como «Profesor Adjunto Regular»). El programa no imprime la palabra «cátedra» como designación de esta materia: su única designación docente es la de profesor",
+    "equipoDocente": [
+      "ROMERO, WALTER (profesor · firma «Profesor Adjunto Regular»)",
+      "ARNOUX, MAGDALENA (jefe de trabajos prácticos)",
+      "DI NUCCI, SERGIO (ayudante)",
+      "VOGELFANG, LUCIA (ayudante)",
+      "CAPUTO, JORGE (ayudante)"
+    ],
+    "tituloDelPrograma": "PARIS, CIUDAD ESCRITA",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de sus clases en modalidad virtual, sincrónica o asincrónica)",
+    "anio": "2026 · la carátula dice «2º CUATRIMESTRE 2026» y «AÑO: 2026»; el encabezado interno dice «2º CUATRIMESTRE 2026»",
+    "unidades": 7,
+    "bibliografia": 71,
+    "ciclo": "Área de Literaturas Extranjeras y Comparadas (según el nodo padre) · cuatrimestral"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-francesa",
+      "label": "Literatura Francesa"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Literatura Francesa",
+  "title": "París no es el escenario: es la forma.",
+  "lede": "El programa se llama «Paris, ciudad escrita» y recorre críticamente las configuraciones literarias de París desde fines del siglo XVIII hasta el siglo XXI, entendiendo la ciudad no sólo como escenario narrativo sino como forma simbólica, dispositivo de lectura y espacio de inscripción histórica. El corpus va de El espectador nocturno de Restif de la Bretonne a Lugares de Perec: la París romántica y monumental de Victor Hugo dialoga con la cartografía social de Balzac y el naturalismo de Zola; la modernidad fragmentada se despliega en la prosa poética de Baudelaire; el tránsito a las vanguardias pasa por Aragon, donde la ciudad deviene territorio onírico y deriva surrealista; y la mirada irónica de Maupassant, los márgenes de Charles-Louis Philippe, el juego lingüístico de Queneau y la memoria espectral de Modiano cierran una constelación que permite pensar París como palimpsesto textual. El curso pregunta cómo la literatura produce sus propias cartografías: recorridos, umbrales, pasajes y periferias de una geografía imaginaria en permanente reescritura.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "examen final"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "Paris, ciudad escrita"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa «PARIS, CIUDAD ESCRITA» de la materia Literatura Francesa, carrera de Letras (FFyL-UBA), profesor Walter Romero, 2º cuatrimestre de 2026, publicado en letras.filo.uba.ar. DESIGNACIÓN DOCENTE — el programa no imprime la palabra «cátedra» para esta materia en ningún lugar: la carátula dice «PROFESOR/A: ROMERO, Walter», el encabezado interno dice «PROFESOR: ROMERO, WALTER» y la firma final dice «Walter Romero · Profesor Adjunto Regular». Las únicas apariciones de «cátedra» en el PDF son el nombre de la editorial Cátedra en la bibliografía y la frase reglamentaria «estructura de cátedra» del apartado de modalidad de dictado. No se afirma aquí una «Cátedra Romero» ni la existencia o inexistencia de otras cátedras de la materia. DISCREPANCIA REGISTRADA, NO RESUELTA — código del plan 2023: la carátula y el encabezado interno del PDF imprimen ambos «CÓDIGO N.º: 0504 (PLAN 1985) / 15025 (PLAN 2023)», mientras que el nombre del archivo publicado en el sitio es «0504 15023 LITERATURA FRANCESA ROMERO.pdf», es decir 15023. Se toma el código de la carátula (15025) por ser el que el documento imprime, y se deja constancia del 15023 del nombre de archivo sin corregirlo. ERRATAS DEL ORIGINAL — (1) la lista de letras del formulario se descarrila: los objetivos van de «a.» a «e.», la bibliografía es «f.», y luego la organización del dictado es «o.» y la de la evaluación «p.», porque las letras «g.» a «n.» quedaron pegadas a ocho entradas de la bibliografía complementaria de la Unidad 7 (g. BLANCKEMAN, h. COSNARD, i. MAGNÈ, j. PARROCHIA, k. PEREC, l. ROMERO, m. ROSS, n. VILLAPLANA). (2) Tzara (1955) lleva el rango de páginas invertido, «55-54». (3) Barthes, Variaciones sobre la literatura, aparece dos veces con datos distintos: en la Unidad 2 sin año y con «Paidós, 129-132», en la Unidad 5 con «(2002)» y «Paidós, 119-124»; ambas entradas cierran además con un segundo rango suelto «33-37». (4) Lukács, Ensayos sobre el realismo [1934-1935] (1965), aparece como «Siglo Veinte» sin traductor en la Unidad 3 y como «Ediciones Siglo XX», trad. Juan José Sebreli, en la Unidad 5. (5) Restif de la Bretonne se consigna «Bretonne, R.» en las ediciones sugeridas y «BRETONNE, N.» en la entrada de Mariño Espuelas; la fundamentación lo nombra «Nicolás Edmé Restif de la Bretonne». (6) Jost (2012) se imprime «Du Duchamp a los reality shows». (7) Los contenidos de la Unidad 3 citan «Torres Bodet, 1959», que no tiene entrada en ninguna bibliografía del programa: cita colgada, registrada y no resuelta. Todo se cita como está impreso; nada se corrige. SELECCIÓN DECLARADA — se dibujan como nodo libro 71 de las 136 entradas bibliográficas del programa, siempre a nivel de volumen: las 10 «Ediciones sugeridas en español» (el corpus literario) y 61 volúmenes de la bibliografía obligatoria de las siete unidades. Cuando el programa cita un capítulo, prólogo o conferencia dentro de un libro, el nodo es el libro y el capítulo va en el rol. EXCLUSIONES DECLARADAS — no se dibujan las 65 entradas restantes: las 33 entradas de la bibliografía complementaria de las siete unidades (Vergé-Franceschi y Moretti, Darío, Bernet, Duby, Vargas Llosa, Hazan, Martínez Estrada, Maurois, Moreno, Balakian, Baudelaire Cartas a la madre, Friedrich, Gide, Murphy, Raymond, Sartre, Scott, Céline, Laporte, Mandeville, Aguirre, Bancquart, Breton, Nadeau, Aparicio Maydeu, Blanckeman, Cosnard, Magnè, Parrochia, Perec Espèces d'espace, Romero, Ross, Villaplana); las 20 entradas de la «Bibliografía general» (Balzac, Benjamin El libro de los pasajes, Compagnon, Corbin, Darnton, Hazan, Fargue, Kalifa, Meschonnic, Molloy, Monnier, Moretti, Scaraffia, Solnit, Soja, Songel, Vila-Matas, Williams, White, Yonnet); las 9 entradas de la obligatoria que son artículos de revista o textos publicados sólo en la web, y no volúmenes (Burriguini en Revista de Literaturas Modernas 34, Preciado en Revista Fractal 92, López Echeverri en Thélème 39(1), Moseley en Acta Poética 24, Darnton en Revista Santiago, Hiernaux-Nicolas en Imagonautas 14, Díaz en Revista Sonda 9, Navarro en Arte y ciudad 14, Poch Violán en Tropelías 42); y 3 entradas que no generan nodo propio porque su volumen ya está dibujado (Blanchot, «Restif de la Bretonne», que es un texto dentro de la edición de El espectador nocturno ya dibujada, y las segundas apariciones de Barthes y de Lukács, que se pliegan en su nodo único). 10 + 61 dibujadas + 33 + 20 + 9 + 3 excluidas = 136 entradas. NO DIBUJADO POR FALTA DE FUENTE — la Unidad 3 se titula «La gran urbe en Ilusiones perdidas» y su bibliografía obligatoria discute la novela de Balzac, pero las «Ediciones sugeridas en español» no consignan ninguna edición de Ilusiones perdidas ni de ninguna otra obra de Balzac; no se dibuja. Los contenidos de los libros (L3) no están indexados.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades",
+      "title": "París, de la noche del siglo XVIII al palimpsesto del XXI",
+      "note": "Cada unidad del apartado «Contenidos» del programa es un nodo, en orden. El recorrido es cronológico, de Restif de la Bretonne a Perec y Modiano.",
+      "map": {
+        "mk": "Paris, ciudad escrita, en siete unidades",
+        "tree": "LITERATURA FRANCESA · «Paris, ciudad escrita» · prof. Walter Romero\n│\n├─ 1 · Espectadores-búhos por las calles de París\n│      Restif de la Bretonne · el espectador nocturno · los bajos fondos\n├─ 2 · Nuestra Señora de París: la catedral de las novelas\n│      Victor Hugo · el monumento como protagonista · el Ananké · el París popular\n├─ 3 · La gran urbe en Ilusiones perdidas\n│      Balzac · La Comedia Humana · el mercado, la moda, la degradación moral\n├─ 4 · Baudelaire y la segunda revolución lírica\n│      El Spleen de París · el poema en prosa · mercancía, aureola perdida, alegoría\n├─ 5 · París en su disolución: el naturalismo del bajo fondo\n│      Zola, Maupassant, Philippe · la novela experimental · el siglo serio\n├─ 6 · Mitologías del pasaje: Aragon y el surrealismo\n│      El aldeano de París · el Pasaje de la Ópera · collage, deambular, deriva\n└─ 7 · París en el Siglo XX. Memoria y sociología\n       Queneau y Zazie · lo infraordinario de Perec · la cartografía espectral de Modiano",
+        "foot": "Recorrido del programa Romero 2026. La ciudad se sigue como forma simbólica y dispositivo de lectura: del cuadro de costumbres y la novela total al poema en prosa y la escritura oulipiana, con el flâneur, el espectador nocturno, el realismo mesiánico y lo infraordinario como categorías de la mirada urbana."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.espectadores-buhos",
+          "name": "Espectadores-búhos por las calles de París",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.catedral-de-las-novelas",
+          "name": "Nuestra Señora de París: la catedral de las novelas",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.ilusiones-perdidas",
+          "name": "La gran urbe en Ilusiones perdidas: ascenso y degradación moral",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.baudelaire-poema-en-prosa",
+          "name": "Baudelaire y la segunda revolución lírica: el poema en prosa entre mercancía y alegoría",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.naturalismo-bajo-fondo",
+          "name": "París en su disolución: el naturalismo del bajo fondo",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.aragon-pasaje",
+          "name": "Mitologías del pasaje: Louis Aragon y la revolución surrealista del espacio urbano",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.memoria-y-sociologia",
+          "name": "París en el Siglo XX. Memoria y sociología: una topografía emocional",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Ediciones sugeridas y bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Las «Ediciones sugeridas en español» (el corpus literario) y la bibliografía obligatoria de las siete unidades, a nivel de volumen y en el orden del programa. Cuando el programa cita un capítulo o prólogo dentro de un libro, el nodo es el libro y el capítulo va en el rol. La bibliografía complementaria, la bibliografía general y los artículos de revista no se dibujan. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-aragon-aldeano",
+          "name": "El aldeano de París — L. Aragon (Errata Naturae, 2016; trad. Vanesa García Cazorla)",
+          "role": "Edición sugerida en español · Unidad 6 (el título se nombra en los contenidos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-baudelaire-spleen",
+          "name": "El Spleen de París. Pequeños poemas en prosa. Los paraísos artificiales — Ch. Baudelaire (Cátedra, 2011; trad. José Antonio Millán Alba)",
+          "role": "Edición sugerida en español · Unidad 4 (el título se nombra en los contenidos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bretonne-espectador-nocturno",
+          "name": "El espectador nocturno (selección de Las noches de París) — R. de la Bretonne (Tumbona Ediciones, 2007; trad. María Virginia Jaua)",
+          "role": "Edición sugerida en español · Unidad 1 · contiene la obligatoria Blanchot, «Restif de la Bretonne», 117-149",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-hugo-nuestra-senora",
+          "name": "Nuestra Señora de París — V. Hugo (Losada, 2019; trad. Luis Echávarri)",
+          "role": "Edición sugerida en español · Unidad 2 (el título se nombra en los contenidos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-queneau-zazie",
+          "name": "Zazie en el metro — R. Queneau (Godot, 2020; trad. Ariel Dilon)",
+          "role": "Edición sugerida en español · Unidad 7 (el título se nombra en los contenidos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-maupassant-domingos",
+          "name": "Los domingos de un burgués en París — G. de Maupassant (Periférica, 2014; trad. Manuel Arranz)",
+          "role": "Edición sugerida en español · Maupassant se trata en la Unidad 5; el título no aparece en los contenidos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-modiano-cafe",
+          "name": "En el café de la juventud perdida — P. Modiano (Anagrama, 2008; trad. María Teresa Gallego Urrutia)",
+          "role": "Edición sugerida en español · Modiano se trata en la Unidad 7; el título no aparece en los contenidos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-perec-lugares",
+          "name": "Lugares — G. Perec (Anagrama, 2025; trad. Pablo Martínez Sánchez)",
+          "role": "Edición sugerida en español · Perec se trata en la Unidad 7; el título aparece en la fundamentación, no en los contenidos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-philippe-bubu",
+          "name": "Bubu de Montparnasse — Ch.-L. Philippe (Trama editorial, 2017; trad. Paula Izquierdo)",
+          "role": "Edición sugerida en español · Philippe se trata en la Unidad 5; el título no aparece en los contenidos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-zola-pagina-de-amor",
+          "name": "Una página de amor — É. Zola (Alianza, 1971; trad. J. F. Vidal Jové)",
+          "role": "Edición sugerida en español · Zola se trata en la Unidad 5; el título no aparece en los contenidos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-kalifa-bajos-fondos",
+          "name": "Los bajos fondos. Historia de un imaginario — D. Kalifa (2013; trad. Alvaro Rodríguez Luévano) · «El gran paseo nocturno», 237-311",
+          "role": "Bibliografía obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-kracauer-offenbach",
+          "name": "Jacques Offenbach y el París de su tiempo — S. Kracauer (Capitán Swing, 2015; trad. Lolo Ábalos) · «La libertad guiando al pueblo», 27-108",
+          "role": "Bibliografía obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bretonne-noches-revolucionarias",
+          "name": "Las noches revolucionarias — N. Bretonne (El olivo azul, 2009; trad. Eric Jalain) · A. Mariño Espuelas, «El espectador nocturno de las calles de París», 5-11",
+          "role": "Bibliografía obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-barthes-variaciones",
+          "name": "Variaciones sobre la literatura — R. Barthes (Paidós; trad. Enrique Folch González) · «La catedral de las novelas», 129-132 y «Maupassant o la física de la desgracia», 119-124",
+          "role": "Bibliografía obligatoria · Unidades 2 y 5 · el programa imprime la entrada de la U2 sin año y la de la U5 con «(2002)», y ambas cierran con un segundo rango «33-37»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-benichou-magos-romanticos",
+          "name": "Los magos románticos — P. Bénichou (Fondo de Cultura Económica, 2017; trad. Glenn Gallardo) · «Hugo. Alrededor de 1830», 291-311",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-gribaudi-paris-obrera",
+          "name": "París obrera. Una historia oculta (1789-1848) — M. Gribaudi (SB, 2023; trad. Marcela De Grande) · «Luego de la Revolución, una sociedad se cuestiona», 27-86",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-hugo-elogio-de-paris",
+          "name": "Elogio de París — V. Hugo (Gadir, 2011; trad. Jacqueline Nonclercq)",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-huysmans-notre-dame",
+          "name": "Notre-Dame de Paris — J. K. Huysmans (José J. de Olañeta Editor, 2023; trad. Silvia Alemany)",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-macherey-en-que-piensa",
+          "name": "¿En qué piensa la literatura? — P. Macherey (Siglo del Hombre, 2003; trad. Ruben Sierra Mejía) · «En torno a Victor Hugo: visiones del hombre de abajo», 11-140",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-maurois-olympo",
+          "name": "Olympo o la vida de Victor Hugo — A. Maurois (José Janés, Barcelona, 1956; trad. Ramón Hernández) · «Ananké», 204-214",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-picard-romanticismo-social",
+          "name": "El romanticismo social — R. Picard (Fondo de Cultura Económica, 2005; trad. Blanca Chacel) · «Victor Hugo, hombre político y poeta social», 110-133",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-verjat-victor-hugo",
+          "name": "Victor Hugo — A. Verjat (Síntesis, 2007) · «Victor Hugo. El novelista popular», 95-137",
+          "role": "Bibliografía obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-blanchot-falsos-pasos",
+          "name": "Falsos pasos — M. Blanchot (Pretextos, 1977) · «El arte de novelar en Balzac», 191-195",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-butor-sobre-literatura",
+          "name": "Sobre literatura — M. Butor (Seix-Barral, Barcelona, 1960; trad. Salvado Oliva) · «Balzac y la realidad», 125-145",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-curtius-ensayos-criticos",
+          "name": "Ensayos críticos acerca de literatura europea — E. Curtius (Seix Barral, 1959; trad. Eduardo Valentí) · «Reencuentro con Balzac»",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-friedrich-tres-clasicos",
+          "name": "Tres clásicos de la novela moderna. Stendhal, Balzac, Flaubert — H. Friedrich (Losada, 1969; trad. J. Rovira Armengol) · «Balzac», 97-133",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-harvey-paris-capital",
+          "name": "París, capital de la modernidad — D. Harvey (Akal, 2006; trad. José María Amoroto Salido) · «Los mitos de la modernidad: el París de Balzac», 33-78",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-jameson-documentos-de-cultura",
+          "name": "Documentos de cultura, documentos de barbarie. La narrativa como acto socialmente simbólico — F. Jameson (Visor, 1989; trad. Tomás Segovia) · «Realismo y deseo: Balzac y el problema del sujeto», 121-147",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-levin-realismo-frances",
+          "name": "El realismo francés (Stendhal, Balzac, Flaubert, Zola, Proust) — H. Levin (Laia, 1974; trad. Patiño Gutiérrez) · «Balzac», 187-264",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-lukacs-ensayos-realismo",
+          "name": "Ensayos sobre el realismo [1934-1935] — G. Lukács (1965) · «Balzac: Ilusiones perdidas», 140-159 y «Para el centenario de Zola», 111-124",
+          "role": "Bibliografía obligatoria · Unidades 3 y 5 · el programa imprime el mismo libro y año como «Siglo Veinte» sin traductor en la U3 y como «Ediciones Siglo XX», trad. Juan José Sebreli, en la U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-altamirano-sarlo-literatura-y-sociedad",
+          "name": "Literatura y sociedad — C. Altamirano y B. Sarlo (eds.) (CEAL, 1977) · G. Lukács, «¿Narrar o describir?»",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-moretti-atlas",
+          "name": "Atlas de la novela europea. 1800-1900 — F. Moretti (Siglo XXI, 1999; trad. Mario Merlino) · «El mercado de la novela hacia 1850», 147-202",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-zweig-balzac",
+          "name": "Balzac. La novela de una vida — S. Zweig (Jackson, 1948; trad. A. Gregori) · «La Comedia Humana», 344-354",
+          "role": "Bibliografía obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-agamben-estancias",
+          "name": "Estancias. La palabra y el fantasma en la cultura occidental — G. Agamben (Pretextos, 1995; trad. Tomas Segovia) · «Baudelaire o la mercancía absoluta», 85-92",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-beguin-alma-romantica",
+          "name": "El alma romántica y el sueño — A. Béguin (1979; trad. Mario Toledo) · «Baudelaire: el poeta civilizado y la voluntad de magia», 456-461",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-benjamin-paris-baudelaire",
+          "name": "El París de Baudelaire — W. Benjamin (Eterna Cadencia, 2012; trad. Mariana Dimópulos)",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-blin-sadismo-baudelaire",
+          "name": "El sadismo de Baudelaire — G. Blin (Ediciones del Subsuelo, 2021; trad. Lluís María Todó) · «Introducción a los Pequeños poemas en prosa», 155-194",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bonnefoy-siglo-baudelaire",
+          "name": "El siglo de Baudelaire — Y. Bonnefoy (Fondo de Cultura Económica, 2017; trad. Carlos Riccardo) · «Señuelo y verdad de las alegorías», 19-56, y «París en poesía», 181-198",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bourget-baudelaire-estudios",
+          "name": "Baudelaire y otros estudios críticos — P. Bourget (Ediciones del Copista, 2008; trad. Sergio Sánchez) · «El pesimismo de Baudelaire» y «Teoría de la decadencia», 76-99",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-compagnon-verano-baudelaire",
+          "name": "Un verano con Baudelaire — A. Compagnon (Libros del Zorzal, 2020; trad. Pablo Krantz) · «El barro y el oro», «Acertijos entre los desechos», «Moralejas desagradables» y «Banalidades», 129-151",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-derrida-dar-el-tiempo",
+          "name": "Dar (el) tiempo. I. La moneda falsa — J. Derrida (Paidós, 1995; trad. Cristina de Peretti) · «La moneda falsa I» y «La moneda falsa II», 75-169",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-elkin-flaneuses",
+          "name": "Flâneuses. Mujeres caminan por la ciudad — L. Elkin (Malpaso, 2021; trad. Aurora Echevarría)",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-jauss-transformaciones",
+          "name": "Las transformaciones de lo moderno. Estudios sobre las etapas de la modernidad estética — H. R. Jauss (Visor, 2004; trad. Jesús García Sánchez) · «El recurso de Baudelaire a la alegoría», 143-159",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-porche-vida-dolorosa",
+          "name": "La vida dolorosa de Charles Baudelaire — F. Porché (Taurus, 1997; trad. Silvia Iparraguirre) · «Spleen, excesos, amores blancos», 130-143",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-ranciere-hilo-perdido",
+          "name": "El hilo perdido. Ensayos sobre la ficción moderna — J. Rancière (Manantial, 2014; trad. María del Carmen Rodríguez) · «El gusto infinito por la República», 89-105",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-starobinski-saltimbanqui",
+          "name": "Retrato del artista como saltimbanqui — J. Starobinski (Abada Editores, 2017; trad. Belén Gala Valencia) · «Nacimiento del payaso trágico», 99-124",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-cedintel-cuarto-coloquio",
+          "name": "Cuarto Coloquio de Avances de Investigaciones del CEDINTEL — A. Gerbaudo y otros (Universidad Nacional del Litoral, Santa Fe, 2017) · S. Venturini, «El último Baudelaire: sobre El spleen de París», 245-261",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-veras-baudelaire-limites",
+          "name": "Baudelaire os limites da poesia — E. Veras (Corsário-Satã, 2021) · «Bagatelas laboriosas», 133-162",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-zubiaurre-espacio-novela-realista",
+          "name": "El espacio en la novela realista. Paisajes, miniaturas, perspectivas — M. Zubiaurre (Fondo de Cultura Económico, 2000) · «La ciudad como sistema: cartografía, muchedumbre, flâneurs», 252-273",
+          "role": "Bibliografía obligatoria · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-agosti-emilio-zola",
+          "name": "Emilio Zola. Todas las inquietudes de una época, a través de una vida poderosa y fértil — H. Agosti (Antártida, 1941) · «Nulla dies sine linea», 55-81",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bonet-realismo-literario",
+          "name": "El realismo literario — C. Bonet (Nova, 1958) · «Emilio Zola y el naturalismo», «Algunas palabras sobre la novela experimental», «El naturalismo y la fatiga» y «Naturalismo doctrinario y realizado», 63-79",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-lukacs-alma-y-formas",
+          "name": "El alma y las formas — G. Lukács (Universidad de Valencia, 2013; trad. Manuel Sacristán) · «Nostalgia y forma. Charles-Louis Philippe», 151-173",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-martino-naturalismo-frances",
+          "name": "El naturalismo francés — P. Martino (Huemul, 1967; trad. Helen Rousseau) · «La reacción antirromántica. Positivismo y naturalismo», «Les Rougon-Macquart» y «Novelas líricas y filosóficas», 11-25 y 101-112",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-moretti-burgues",
+          "name": "El burgués. Entre la historia y la literatura — F. Moretti (Fondo de Cultura Económica, 2014) · «Un siglo serio», 87-123",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-savinio-maupassant",
+          "name": "Maupassant y «el otro» — A. Savinio (Acantilado, 2018; trad. José Ramón Monreal Salvador)",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-zola-naturalismo",
+          "name": "El naturalismo — É. Zola (Península, 1989; trad. Jaume Fuster) · «Sobre la novela», 239-270",
+          "role": "Bibliografía obligatoria · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-benjamin-iluminaciones-1",
+          "name": "Iluminaciones I. Estética y Revolución — W. Benjamin (Taurus, 1980; trad. Joaquín Ruedo) · «El Surrealismo. La última instantánea de la inteligencia europea», 41-63",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-bataille-religion-surrealista",
+          "name": "La religión surrealista. Conferencias 1947-1948 — G. Bataille (Las Cuarenta, 2008; trad. Lucía Ana Belloro y Julián Fava) · «La religión surrealista. Martes 24 de febrero de 1948», 39-67",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-durozoi-lecherbonnier-surrealismo",
+          "name": "El surrealismo. Teorías, temas, técnicas — G. Durozoi y B. Lecherbonnier (Guadarrama, 1974; trad. Josep Elías)",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-foster-belleza-compulsiva",
+          "name": "Belleza compulsiva — H. Foster (Adriana Hidalgo, 2008; trad. Tamara Stuby) · «Belleza compulsiva», 57-106",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-sante-populacho-de-paris",
+          "name": "El populacho de París. La ciudad de la gente en los siglos XIX y XX — L. Sante (Libros del K.O., 2018; trad. Pablo Uroz Velasco) · «Capital», 9-38",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-tzara-surrealismo-de-hoy",
+          "name": "El surrealismo de hoy — T. Tzara (Alpe, 1955; trad. Raúl Gustavo Aguirre) · «La Acción impregnada de sueño», el programa imprime el rango invertido «55-54»",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-velazquez-louis-aragon",
+          "name": "Louis Aragon — J.-I. Velázquez (Síntesis, 2009) · «El periodo surrealista. El aldeano de París», 39-64",
+          "role": "Bibliografía obligatoria · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-calvino-por-que-leer-los-clasicos",
+          "name": "Por qué leer los clásicos — I. Calvino (Tusquets, 1992; trad. Aurora Bernárdez) · «La filosofía de Raymond Queneau», 250-266",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-castillo-paris-modiano",
+          "name": "Paris-Modiano. De la Ocupación a Mayo del 68 — F. Castillo (Fórcola, 2015)",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-cohen-realmente-fantastico",
+          "name": "¡Realmente fantástico! y otros ensayos — M. Cohen (Norma, 2003) · «Raymond Queneau, la lluvia y el sol», 55-61",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-debord-psicogeografia",
+          "name": "Psicogeografía, arquitectura y urbanismo — G. Debord (Asimétricas, 2024; trad. Luis Navarro)",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-fernandez-cardo-literatura-francesa-xx",
+          "name": "Literatura Francesa del Siglo XX — J. M. Fernández Cardo y F. González (Síntesis, 2012) · «Raymond Queneau (1903-1976)», 213-216",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-jost-culto-de-lo-banal",
+          "name": "El culto de lo banal. De Duchamp a los reality shows — F. Jost (2012; trad. Agustina Pérez Rial) · «¿Inventar lo cotidiano?», 59-82 · el programa imprime «Du Duchamp»",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-perec-infraordinario",
+          "name": "Lo infraordinario — G. Perec (Eterna Cadencia, 2013; trad. Jorge Fondebrider)",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-francesa.libro-queneau-oulipo",
+          "name": "OULIPO. Ejercicios de literatura potencial — R. Queneau y otros (Caja Negra, 2016; trad. Ezequiel Alemián)",
+          "role": "Bibliografía obligatoria · Unidad 7",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Literatura Francesa «PARIS, CIUDAD ESCRITA», prof. Walter Romero, 2º cuatrimestre 2026, régimen EF, 96 horas, modalidad REDEC-2024-2526-UBA-DCT#FFYL. Códigos impresos en la carátula y en el encabezado interno: 0504 (plan 1985) y 15025 (plan 2023); el nombre del archivo publicado imprime 15023.",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0504%2015023%20LITERATURA%20FRANCESA%20ROMERO.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa «PARIS, CIUDAD ESCRITA», Literatura Francesa, prof. Walter Romero · 2º cuatrim. 2026 · 7 unidades · fuente única de este nodo · el documento imprime el código 15025 (plan 2023) y el nombre del archivo imprime 15023",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0504%2015023%20LITERATURA%20FRANCESA%20ROMERO.pdf"
+    }
+  ]
+}

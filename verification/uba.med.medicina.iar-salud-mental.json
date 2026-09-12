@@ -1,0 +1,19 @@
+{
+  "address": "uba.med.medicina.iar-salud-mental",
+  "wave": "medicina-iar-cierre",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "books_total": 0,
+  "books_found": 0,
+  "units_total": 27,
+  "units_found": 27,
+  "not_found": [
+    "bloque II renders «cirugías mutiladoras» (source) as «cirugías mutilantes» — quote drift, repaired to the source's word.",
+    "noConfundir calls the sibling materia 'de primer año del Ciclo Biomédico' — its own node hedges 'se cursa en 1º, 2º ó 3º año' and the Departamento files it under Ciclo Clínico; defensible via the plan's first-year block but harder than its source. Softened."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Strongest illegibility test, passed: worst-OCR section of the PDF and the node assigns ZERO expertise levels (regex-confirmed, unlike the other five). 16+2+2+7 items all present, none invented. 32 hs correctly attributed only to the Departamento page — quote confirmed live verbatim. 2 semanas correct in both 2844/12 and 516/15, and the node says the module doesn't change between them. Transversalidad and role-playing quotes real (L710-715)."
+}

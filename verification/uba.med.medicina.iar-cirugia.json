@@ -1,0 +1,18 @@
+{
+  "address": "uba.med.medicina.iar-cirugia",
+  "wave": "medicina-iar-cierre",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "books_total": 0,
+  "books_found": 0,
+  "units_total": 24,
+  "units_found": 24,
+  "not_found": [
+    "metadata.sinPatologias: «el único de los seis que no imprime lista de patologías prevalentes» — FALSE: Salud Mental tampoco imprime lista (PATOLOGÍAS heading appears only under Clínica Médica L264, Tocoginecología L460, Pediatría L615, APS L955 — four of six). Repair: «uno de los dos módulos (junto con Salud Mental)»."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "6 competencias E,E,D,D,D,D match L318-325; 18 procedimientos exact; family headings declared as node-side grouping; 'en simulador' kept only where the programa marks it; Departamento de Cirugía page fetched live — no IAR mention, claim accurate; 7/5 semanas correct. The enumeration frame was already right; only the 'único' superlative overstated."
+}

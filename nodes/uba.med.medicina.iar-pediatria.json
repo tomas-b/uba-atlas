@@ -1,0 +1,113 @@
+{
+  "address": "uba.med.medicina.iar-pediatria",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO DE PEDIATRÍA en el programa Res. (CD) 261/14; «Pediatría» en el plan y en el reglamento",
+    "regimen": "7 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23); 5 semanas según la modificatoria Res. (CD) 516/15 (art. 23.A)",
+    "cargaHoraria": "el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: el Departamento de Pediatría declara actividades en el IAR; en cada unidad asistencial responde un Responsable de Módulo [Res. (CD) 2844/12]",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014",
+    "noConfundir": "no es la materia Pediatría del Ciclo Clínico (PIP, CUDAP EXP-UBA 26817/2017), que es otro nodo y otro programa",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-pediatria",
+      "label": "Pediatría (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Pediatría · rotación del Internado Anual Rotatorio",
+  "title": "Medir, pesar, percentilar: en el niño el examen empieza por el crecimiento.",
+  "lede": "Las competencias básicas son las mismas de Clínica Médica —historia clínica, signos vitales, bioseguridad, diagnóstico y derivación—, pero el módulo agrega una exigencia propia en nivel de rutina: valorar crecimiento y desarrollo con control antropométrico e interpretación en tablas, el desarrollo neurológico por etapas, la maduración ósea, dental y puberal por estadios de Tanner, y la puericultura, con énfasis en la lactancia materna y el calendario oficial de vacunas. Los procedimientos cubren nueve categorías, de la otoscopía a la punción lumbar. La patología viene ordenada por aparato, diecinueve casilleros.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "5-7 sem.",
+      "small": "según la norma"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "4",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado leído por OCR: el «MÓDULO DE PEDIATRÍA» trae competencias básicas, procedimientos básicos, competencias semiológicas de nivel E y patología prevalente por aparato. El programa gradúa cada competencia en cinco niveles de expertez: A sólo teoría · B haber visto o presenciado · C haber practicado en simuladores · D haber aplicado en escenarios reales bajo supervisión · E rutina. La duración sale del Reglamento del IAR: 7 semanas en la Res. (CD) 2844/12, 5 semanas tras la modificatoria Res. (CD) 516/15. La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. El sitio del Departamento de Pediatría declara que «desarrolla actividades en el IAR de la carrera de Medicina» y no publica material propio del módulo. Esta rotación es distinta de la materia Pediatría del Ciclo Clínico, que tiene su propio programa. El programa del IAR no lista bibliografía.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias básicas · lo que hay que saber hacer",
+      "title": "Siete competencias, con su nivel de expertez",
+      "note": "Transcriptas del módulo; son las mismas siete de Clínica Médica, con una diferencia: acá aplicar planes y normas de tratamiento se exige en nivel de rutina.",
+      "map": {
+        "mk": "Módulo de Pediatría · competencias",
+        "tree": "PEDIATRÍA — competencias básicas\n│\n├─ E · Realizar historia clínica completa de los pacientes de la Unidad de Internación y consultorios externos\n├─ E · Realizar control diario de signos vitales\n├─ E · Respetar las normas de bioseguridad para el desarrollo de prácticas asistenciales\n├─ E · Realizar diagnóstico presuntivo, diagnósticos diferenciales, recomendaciones terapéuticas y derivación\n│       oportuna y adecuada de pacientes internados y/o ambulatorios con patologías relevantes/prevalentes\n├─ E · Aplicar planes y normas de tratamiento a pacientes internados o ambulatorios con patologías prevalentes\n├─ D · Realizar planes de hidratación parenteral\n└─ C · Realizar reanimación cardiopulmonar básica",
+        "foot": "Res. (CD) 261/14, sección «MÓDULO DE PEDIATRÍA · COMPETENCIAS BÁSICAS»."
+      }
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Semiología del niño · lo propio del módulo",
+      "title": "Lo que se exige en nivel de rutina",
+      "note": "«El estudiante deberá llegar al nivel E en las competencias que se mencionan a continuación y en relación a sus aspectos semiológicos».",
+      "map": {
+        "mk": "Módulo de Pediatría · competencias de nivel E",
+        "tree": "PEDIATRÍA — nivel E (rutina)\n│\n├─ VALORACIÓN DEL CRECIMIENTO Y DESARROLLO\n│  └─ Examen físico adecuado a las distintas edades, con control antropométrico (peso, talla, perímetro\n│     cefálico), interpretando el resultado en las tablas correspondientes\n│\n├─ DESARROLLO NEUROLÓGICO\n│  └─ Maduración en sus distintas etapas evolutivas, lenguaje y adaptación social\n│\n├─ MADURACIÓN ÓSEA, DENTAL Y PUBERAL\n│  └─ Estadios de Tanner\n│\n├─ PUERICULTURA\n│  └─ Alimentación adecuada para cada edad con énfasis en la lactancia materna · vacunas según el calendario\n│     oficial · comprender la relación del niño con su familia y su medio ecológico y social\n│\n└─ EXPLORACIÓN FÍSICA\n   ├─ Piel (color, lesiones fundamentales)\n   ├─ Cabeza y cuello\n   ├─ Aparato respiratorio, cardiovascular, digestivo y abdomen, genitourinario\n   └─ Sistema nervioso",
+        "foot": "Res. (CD) 261/14, módulo de Pediatría."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Procedimientos básicos · lo que hay que hacer con las manos",
+      "title": "Nueve categorías",
+      "note": "El programa los tabula con una cruz en la columna de nivel A a E; esa tabla llegó degradada al OCR, así que acá va la lista tal como está impresa, sin atribuirle a cada procedimiento un nivel que no se lee con certeza. El renglón de Radiología quedó parcialmente ilegible y se transcribe sólo lo que se lee.",
+      "map": {
+        "mk": "Módulo de Pediatría · procedimientos",
+        "tree": "PEDIATRÍA — procedimientos básicos\n│\n├─ CARDIOVASCULAR · tomar la tensión arterial · interpretar un electrocardiograma\n├─ RESPIRATORIO · utilizar inhaladores y aerosoles · realizar pruebas funcionales respiratorias\n├─ ORL · otoscopías · extracción de cuerpos extraños superficiales de fosas nasales, garganta y oídos ·\n│        taponamiento anterior de una epistaxis · intubación endotraqueal · extracción de cuerpo extraño\n│        en laringe · colocación de sonda nasogástrica\n├─ OFTALMOLOGÍA · extracción de cuerpos extraños superficiales del ojo · explorar fondo de ojo\n├─ LABORATORIO · punción venosa · determinar glucemias capilares · exámenes básicos de orina por tirillas\n│        reactivas · interpretar resultados de análisis básicos de orina y sangre · recolección de muestras\n│        de los estudios complementarios más usuales\n├─ RADIOLOGÍA · interpretar radiografías (renglón parcialmente ilegible en el original escaneado)\n├─ CIRUGÍA GENERAL · asepsia en heridas simples · suturas de heridas simples · curas planas cutáneas ·\n│        reanimación cardiopulmonar básica · mantener permeabilidad de la vía aérea · tratamiento inicial\n│        de hemorragia externa · colocar sonda vesical y rectal\n├─ TRAUMATOLOGÍA · inmovilizaciones elásticas (muñeca, mano, tobillo y pie) · inmovilización preliminar\n│        con yeso · colocar collar cervical al accidentado\n└─ VÍAS Y PUNCIONES · colocar vías endovenosas · inyectables intramusculares, intradérmicos y subcutáneos ·\n         punción lumbar · toracocentesis y drenaje pleural",
+        "foot": "Res. (CD) 261/14, sección «PROCEDIMIENTOS BÁSICOS» del módulo."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Patología prevalente · frente a qué",
+      "title": "Diecinueve casilleros, por aparato",
+      "note": "El programa ejemplifica cómo graduar cuadro clínico, diagnóstico y tratamiento con seis casos —IRAB, neumonía complicada, síndrome meníngeo, síndrome nefrítico y nefrótico, síndrome convulsivo, anemia— y marca que en uno de ellos el diagnóstico exige punción arterial practicada en simulador.",
+      "map": {
+        "mk": "Módulo de Pediatría · patología significativa, relevante y prevalente",
+        "tree": "PEDIATRÍA — patología por aparato\n│\n├─ NUTRICIONAL · desnutrición parcial y mixta · déficit de vitaminas y minerales · raquitismo · anorexia ·\n│     bulimia · obesidad\n├─ OTORRINOLARINGOLÓGICA · laringitis · cuerpo extraño · faringoamigdalitis · sinusitis · otitis · hipoacusias\n├─ ODONTOLÓGICA · caries · síndrome maloclusivo · traumatismos\n├─ GASTROENTEROLÓGICA · diarrea aguda y crónica · parasitosis intestinales · dolor abdominal · vómitos ·\n│     enfermedad celíaca · reflujo gastroesofágico\n├─ GINECOLÓGICA · vulvovaginitis · adherencia de labios\n├─ CARDIOLÓGICA · insuficiencia cardíaca · soplos · arritmias · hipertensión arterial\n├─ NEUMONOLÓGICA · neumonía no complicada y complicada · asma · bronquiolitis · enfermedad fibroquística\n├─ INFECTOLÓGICA · sepsis · meningitis · exantemáticas · TBC · hepatitis · Chagas · ETS\n├─ NEUROLÓGICA · síndromes convulsivos · traumatismos · cefalea · microcefalia · hidrocefalia ·\n│     síndromes recurrentes\n├─ HEMATOLÓGICA · anemia ferropénica y no ferropénica · síndromes hemorragíparos\n├─ ORTOPÉDICA · traumas · fracturas · prono doloroso · luxación de cadera · pie plano\n├─ NEFROLÓGICA · IRA · infección urinaria · síndrome nefrítico y nefrótico · SUH\n├─ DERMATOLÓGICA · dermatitis seborreica y moniliásica · prurigo · piodermitis · ectoparasitosis · micosis\n├─ MÉDICO-QUIRÚRGICA · abdomen agudo · hernias · fimosis · politraumatismos · testículo en ascensor ·\n│     criptorquidia · torsión testicular\n├─ HEMATO-ONCOLÓGICA · leucemia · linfoma\n├─ DESEQUILIBRIOS DEL MEDIO INTERNO · deshidratación aguda · hipo e hipernatremia · hipo e hiperkalemia ·\n│     hipo e hipercalcemia · alcalosis · acidosis · shock\n├─ GENÉTICA · síndrome de Down · baja talla normal y patológica (Turner, Klinefelter)\n├─ OFTALMOLÓGICA · ojo rojo · conjuntivitis · obstrucción lagrimal · glaucoma · estrabismo\n└─ ENDOCRINOLÓGICA · diabetes · hipotiroidismo · insuficiencia suprarrenal congénita",
+        "foot": "Res. (CD) 261/14, sección «PATOLOGÍA SIGNIFICATIVA, RELEVANTE Y PREVALENTE» del módulo."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

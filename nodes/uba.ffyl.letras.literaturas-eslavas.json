@@ -1,0 +1,547 @@
+{
+  "address": "uba.ffyl.letras.literaturas-eslavas",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "0585 (Plan 1985) · 15029 (Plan 2023)",
+    "regimen": "cuatrimestral · promoción directa (PD) · 3 instancias de evaluación parcial (Reglamento Académico, Res. (CD) Nº 4428/17)",
+    "cargaHoraria": "96 hs (mín. 6 y máx. 10 hs semanales de dictado)",
+    "cuatrimestre": "2º (programa 2026)",
+    "año": 2026,
+    "catedra": "El programa no consigna letra ni número de cátedra; se refiere a «la cátedra de Literaturas Eslavas». Portada: «PROFESOR/A: LOBOS, OMAR (ADJUNTO)» · p. 2: «PROFESORES: OMAR LOBOS Y LAURA ESTRIN» · firma: Omar Lobos, Prof. Adjunto",
+    "tituloDelPrograma": "Literatura y socialismo",
+    "equipoDocente": [
+      "PROFESOR ADJUNTO: LOBOS, OMAR",
+      "JEFE DE TRABAJOS PRÁCTICOS: ESTRIN, LAURA",
+      "AYUDANTE 1RA: FRANCHI, FULVIO",
+      "AYUDANTE 1RA: GOLDBERG, ANDRÉS",
+      "AYUDANTE 1RA: SARACHU, JULIA"
+    ],
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden optar por dictar hasta un 30% de sus clases en modalidad virtual)",
+    "departamento": "Letras · Directora: Carina Zubillaga",
+    "unidades": 5,
+    "bibliografia": 59,
+    "recomendaciones": "«Se recomienda tener aprobada Teoría literaria.»",
+    "discrepanciaDeArchivo": "El PDF se publica como «0585 15029 LITERATURAS ESLAVAS LÓPEZ ARRIAZU.pdf», pero la portada nombra a LOBOS, OMAR (ADJUNTO) como profesor y él firma el programa. Registrada, no resuelta."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literaturas-eslavas",
+      "label": "Literaturas Eslavas"
+    }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Literaturas Eslavas",
+  "title": "Setenta años de literatura con el Estado encima.",
+  "lede": "Literatura y socialismo: la institución literaria de la Europa del Este del siglo XX, donde escribir estaba subordinado al control estatal —por instituciones, pero también por «opiniones, caprichos y preferencias que emanan de figuras del poder político»—. Se entra por la eslavística y por la revolución ya presente en la literatura rusa del XIX, entre la fatalidad y la profecía: Pushkin, Herzen, Dostoievski, Botev, Prešeren. Sigue el quiebre de 1917 —vanguardias, Hermanos de Serapión, LEF, El Paso, RAPP, Proletkult, la guerra civil de Bábel y Pilniak, los ecos entre los eslavos del sur con Kveder y Kosovel—, y después el realismo socialista como estética oficial: la Unión de Escritores, el Primer Congreso de 1934, Gorki, Ždánov, Platónov, Gladkov, Peredélkino. La Gran Guerra Patria entra como epopeya y como testimonio —Ajmátova, Grossman, Shólojov, Hrabal, la poesía partisana eslovena— y el recorrido cierra con el ždanovismo y el «deshielo»: el GULAG de Shalamov, los bardos y los sesentistas, la prosa rural y la urbana, el samizdat y el tamizdat, Szymborska y Makarovič.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "PD",
+      "small": "3 parciales"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "programa 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · fuentes ✓"
+    }
+  ],
+  "frame": "Contenido real del programa 2026 (2º cuatrimestre) de Literaturas Eslavas, Departamento de Letras, publicado en letras.filo.uba.ar. Doble codificación en la propia fuente: 0585 (Plan 1985) y 15029 (Plan 2023) — es la misma materia. El programa se titula «LITERATURA Y SOCIALISMO» y lo firma LOBOS, OMAR con el cargo «Prof. Adjunto», junto a Carina Zubillaga, Directora del Departamento de Letras.\n\nDISCREPANCIA DEL NOMBRE DE ARCHIVO, REGISTRADA: el PDF se publica con el nombre de archivo «0585 15029 LITERATURAS ESLAVAS LÓPEZ ARRIAZU.pdf», pero la portada del documento dice «PROFESOR/A: LOBOS, OMAR (ADJUNTO)» y la firma final es la de Omar Lobos. Este nodo se funda en la portada, no en el nombre de archivo. Eugenio López Arriazu aparece en el programa únicamente como autor de bibliografía y como traductor, y el propio texto lo nombra —junto a Sarachu— entre «los miembros de la cátedra»; el programa no le asigna cargo docente en este dictado. CONTRADICCIÓN INTERNA REGISTRADA, no resuelta: la portada consigna un solo profesor (LOBOS, OMAR) y la página siguiente encabeza «PROFESORES: OMAR LOBOS Y LAURA ESTRIN», mientras el equipo docente de esa misma página lista a ESTRIN, LAURA como Jefe de Trabajos Prácticos.\n\nCÁTEDRA: el programa no consigna letra ni número de cátedra. Se refiere a «la cátedra de Literaturas Eslavas» como institución —dice que las literaturas no rusas «recién empezaron a estudiarse e incluirse gradualmente en los programas de la cátedra de Literaturas Eslavas a partir de 2018» y que la cátedra coorganiza bienalmente las Jornadas de Estudios Eslavos—; nada en este PDF permite afirmar cuántas cátedras tiene la materia, y acá no se afirma. Tampoco se afirma nada sobre programas de otros años.\n\nOTRA CONTRADICCIÓN REGISTRADA: cuatro entradas de la bibliografía obligatoria y complementaria de las Unidades 4 y 5 remiten a «Material a proveer por el seminario» (Bochárov; Kulish-Oskotski; Símonov, «Stalin y la guerra»; Loshínina-Sirótkina), aunque la portada declara MATERIA y régimen de promoción directa.\n\nSELECCIÓN DECLARADA — qué se dibuja como nodo libro: los volúmenes literarios que la materia lee, es decir las secciones «Textos primarios de teóricos» y «Textos primarios de prácticos» de las cinco unidades más las secciones «Fuentes». Son 59 volúmenes. Las secciones «Textos primarios» suman 74 renglones: 55 volúmenes distintos dibujados, 6 repeticiones del mismo volumen en otra unidad o comisión, y 13 entradas que no son volumen. Las secciones «Fuentes» suman 13 renglones: 4 volúmenes nuevos dibujados, 8 repeticiones y 1 entrada que no es volumen.\n\nEXCLUSIONES CONSISTENTES, contadas — las 14 entradas primarias que no son volumen: Esenin, «Pugachov» (revista Eslavia Nº 5, 2020); Maiakovski, «Una nube en pantalones» (material de cátedra); Milev, «Septiembre» (enlace a trianarts.com); Pilniak, «Póviest' de la luna sin apagar» (inédito, trad. O. Lobos); Maiakovski, «La chinche» y «El baño» (s/d); Platónov, «En pro» (inédita, trad. O. Lobos); Berggolts, «Poemas» (inédito, trad. O. Lobos); Estrin, «Samizdat» (Ficha de Cátedra, FyL UBA, 2017); Evtushenko, «Babi Iar» (revista Eslavia n° 6, 2020); Berggolts, «Nadie olvida y nada se olvida» (inédito, trad. F. Franchi); Kocbek, «Reflexiones acerca de España» (trad. inédita, Dom in svet, 1938); AA.VV., «Los sesentistas. Selección de poemas»; AA.VV., «Memorias de mujeres en el GULAG. Selección de textos»; y la selección de poemas de Evtushenko, Brodsky, Voznesenski, Ajmadúlina, Zabolotski, Okudžava y Vysotski que la cátedra provee (fuentes de la Unidad 5).\n\nTAMPOCO SE DIBUJA, contado: la bibliografía crítica y teórica, que es mucho más extensa que el corpus literario — 27 entradas de «Bibliografía obligatoria» y 41 de «Bibliografía complementaria» repartidas por unidad, más 242 renglones de entrada en la «Bibliografía general» (Bajtín, Benjamin, Lukács, Lotman, Todorov, Foucault, Deleuze, Said, Slonim, Lo Gatto, Ripellino, Trotski, Groys, Jameson y la sección en ruso, entre muchos otros): 310 entradas frente a 59 volúmenes literarios dibujados — crítica y teoría en su mayor parte, aunque la «Bibliografía general» reimprime además volúmenes literarios primarios, varios de ellos ya dibujados desde «Textos primarios» y «Fuentes»: por eso no se las rotula a todas como crítica. La propia «Bibliografía general» repite tres entradas de manera idéntica: «Cartas sin dirección» de Plejánov, «Una estrella errante» de Sartelli y «Terror y Utopía: Moscú en 1937» de Schlögel figuran dos veces cada una (Sartelli aparece además con una tercera entrada distinta, «Mañana campestre»).\n\nTRES VOLÚMENES SE DIBUJAN SIN EDITORIAL, declarado: Voranc, «La lucha en el tragadero» (1935), del que el programa sólo da un enlace a sl.wikisource.org; Keff, «Una obra sobre la madre y la patria», impreso sin editorial ni año; y Shalamov, «Relatos de Kolymá Vol.I-Vi» (Barcelona, 2017), impreso con ciudad y año pero sin editorial.\n\nCONTRADICCIONES DE TÍTULO Y EDICIÓN DENTRO DEL PROPIO PROGRAMA, registradas y no resueltas: (a) la novela de Ostrovski se nombra «Cómo se templó el acero» en la fundamentación y «Así se templó el acero» en los textos primarios y en las fuentes; (b) Alexiévich figura como «Los muchachos del zinc» (fundamentación, 1989) y como «Los jóvenes del zinc» (Unidad 5, 2015); (c) los Strugatski aparecen como «Picnic junto al camino» (fundamentación) y como «Picnic extraterrestre» (Unidad 5); (d) «Retratos» de Tsvietáieva se cita como Partícula, 2025 en la Unidad 2 y como Ed. Añosluz, 2024 en la bibliografía general; (e) «Cuadernos de Vorónezh» de Mandelstam se cita como Blatt & Ríos, sin año, en la Unidad 3 y como Muestrario de Poesía 54, República Dominicana, 2010 en la bibliografía general; (f) «Chapáiev» se atribuye a «Konstantín Fúrmanov» unas líneas después de que la misma fundamentación nombre a «Dmitri Fúrmanov»; (g) Carl Schmitt aparece como «Carl» y como «Karl» para el mismo «Teoría del partisano» (Buenos Aires, Gandhi), que las dos entradas fechan en 1984; (h) Levin figura como «Levin, B.» con Ficha de cátedra, Opfyl, 2020 y como «Levin, B. U.», s.f., edición de la cátedra.\n\nTRANSLITERACIONES Y ERRATAS DEL ORIGINAL, preservadas tal como se imprimen y no corregidas: Solženitsyn / Solzhenitsyn / Solshenitzin; Tsvietáieva / Tsvietaieva; Platónov / Platonov; Chukóvskia; Dovlátov / Dovlatov; Alexiévich / Aléxievich; Galaxia Gutenberg / Galaxia Gutemberg; «Buenos Airs»; «Navarr»; «Vol.I-Vi»; «Altaza»; Aškerc, Prešeren, Kosovel, Tavčar, Makarovič, Ugrešić, Močnik, Vrečko, Ždánov, Bréžnev, Okudžava con sus diacríticos eslavos. La sección en ruso de la bibliografía general se conserva en cirílico en la fuente; este nodo no la dibuja.\n\nEl ÁREA («Literaturas Extranjeras y Comparadas») no la declara el programa: viene del plan 2023 en el nodo padre. El programa sí consigna una recomendación: «Se recomienda tener aprobada Teoría literaria».",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades",
+      "title": "De la profecía del XIX al deshielo",
+      "note": "Cada unidad del programa Lobos 2026 es un nodo, en el orden impreso. El programa numera las unidades sin titularlas: el nombre que va acá es una de las frases temáticas que la unidad imprime —la primera en las unidades 2 y 5; la segunda en la 1 («Introducción a la materia» abre, «La eslavística como objeto de estudio» sigue) y en la 3 («La disolución de los grupos literarios…» abre, «El realismo socialista como estética oficial» sigue); y en la 4 la primera abreviada, por «La Gran Guerra como tema ineludible y contexto para un sinnúmero de epopeyas»—. El rótulo es del atlas; el programa no titula ninguna unidad.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LITERATURAS ESLAVAS — «Literatura y socialismo» · cód. 0585 / 15029\n│\n├─ 1 · LA ESLAVÍSTICA COMO OBJETO DE ESTUDIO\n│      introducción a la materia · constitución nacional de la literatura rusa\n│      la revolución en la literatura rusa del XIX: entre la fatalidad y la profecía\n│      la literatura revolucionaria en los países eslavos\n│\n├─ 2 · REVOLUCIÓN Y UTOPÍA\n│      tradición y vanguardias en el quiebre revolucionario\n│      la guerra civil y su larga pervivencia · los «maestros» Bieli, Zamiatin, Gorki\n│      grupos literarios: Hermanos de Serapión, LEF, El Paso, RAPP\n│      el proletkult y los «compañeros de ruta» · Kveder, Kosovel y los eslavos del sur\n│\n├─ 3 · EL REALISMO SOCIALISTA COMO ESTÉTICA OFICIAL\n│      disolución de los grupos y creación de la Unión de Escritores Soviéticos\n│      entre el retrato realista y la construcción del Hombre Nuevo\n│      la crítica literaria: medios y representantes · Peredélkino\n│      el realismo socialista en el Reino de los Serbios, Croatas y Eslovenos\n│\n├─ 4 · LA GRAN GUERRA COMO TEMA INELUDIBLE\n│      el rol de la literatura en el fortalecimiento espiritual del pueblo\n│      los escritores en el frente · el «hombre común» como héroe\n│      el documento, el diario, el testimonio y la crónica\n│      la literatura partisana entre los eslavos del sur\n│\n└─ 5 · ŽDANOVISMO Y «DESHIELO»/«POSTDESHIELO»\n       vivencias del GULAG: autobiografía y literatura\n       Szymborska y Makarovič · los años sesenta y la eclosión de la juventud\n       la canción de autor y los bardos: Okudžava, Vuisotski\n       conservadores versus liberales · prosa rural y urbana\n       el underground: samizdat y tamizdat · realismo y literatura no permitida",
+        "foot": "Temas del programa Lobos 2026. Cada unidad reparte sus lecturas en «Textos primarios de teóricos» y «Textos primarios de prácticos»; el programa aclara que de los de prácticos «se verán algunos de estos textos según comisión»."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.eslavistica",
+          "name": "La eslavística como objeto de estudio",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.revolucion-y-utopia",
+          "name": "Revolución y utopía",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.realismo-socialista",
+          "name": "El realismo socialista como estética oficial",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.gran-guerra",
+          "name": "La Gran Guerra como tema ineludible",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.zdanovismo-deshielo",
+          "name": "Ždanovismo y «deshielo»/«postdeshielo»",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Textos primarios y fuentes del programa",
+      "title": "Los textos que se leen",
+      "note": "Los 59 volúmenes literarios de las secciones «Textos primarios» y «Fuentes» del programa 2026, en las ediciones que el programa consigna, con sus erratas y transliteraciones tal como se imprimen. No se dibujan las 310 entradas de las bibliografías obligatoria, complementaria y general —crítica y teoría en su mayor parte, aunque la general reimprime también volúmenes literarios primarios, varios ya dibujados— ni las 14 entradas primarias que no son volumen (revista, material de cátedra, inéditos, selecciones): el detalle y las cuentas están en el marco. Los volúmenes de prácticos se ven «según comisión». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-botev-vasil-levski",
+          "name": "El colgamiento de Vasil Levski — J. Botev (Dedalus Editores, Buenos Aires, 2018), trad. Eugenio López Arriazu",
+          "role": "Unidad 1 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-pushkin-evgueni-onieguin",
+          "name": "Evgueni Onieguin — A. Pushkin (Colihue, Buenos Aires, 2013), trad. Fulvio Franchi · se lee el «Discurso sobre Pushkin» de F. Dostoievski",
+          "role": "Unidad 1 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-pushkin-antologia-lirica",
+          "name": "Antología lírica — A. Pushkin (Hiperión, Madrid; el programa no consigna año) · selección de poemas",
+          "role": "Unidad 1 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-pushkin-los-gitanos",
+          "name": "Los gitanos — A. Pushkin (Editorial de la FF y L, UBA, Buenos Aires, 2024), trad. F. Franchi, comentarios de L. Estrin",
+          "role": "Unidad 1 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-askerc-baladas-y-romances",
+          "name": "Baladas y romances — Anton Aškerc (A pasitos del fin de este mundo, Buenos Aires, 2017), trad. Julia Sarachu",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-blok-un-pedante-sobre-un-poeta",
+          "name": "Un pedante sobre un poeta y otros textos — Alexandr Blok (Barral, Barcelona, 1972) · «Inteligencia y revolución» (U1) y «El ocaso del humanismo» (U2, obligatoria)",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-dostoievski-memorias-del-subsuelo",
+          "name": "Memorias del subsuelo — F. Dostoievski (Colihue, Buenos Aires, 2005)",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-dovlatov-reserva-nacional-pushkin",
+          "name": "La Reserva Nacional Pushkin — S. Dovlátov (Añosluz, Buenos Aires, 2016)",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-herzen-ideas-revolucionarias",
+          "name": "El desarrollo de las ideas revolucionarias en Rusia — Aleksandr Herzen (Siglo XXI, México, 1979) · obligatoria U1: caps. 1, 4 y 5",
+          "role": "Unidad 1 · textos primarios (prácticos) + obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-preseren-pesmi-cantos",
+          "name": "Pesmi/Cantos — France Prešeren (Municipio de Kranj, Kranj, 2003), trad. Octavio Prenz",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-pushkin-narraciones-completas",
+          "name": "Narraciones completas — A. Pushkin (Alba, Barcelona, 2003) · «Dubrovski»",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-tsvietaieva-mi-pushkin",
+          "name": "Mi Pushkin — M. Tsvietáieva (Ed. Partícula, Buenos Aires, 2026), trad. Fulvio Franchi, prólogo y edición Laura Estrin",
+          "role": "Unidad 1 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-babel-caballeria-roja",
+          "name": "Caballería roja. Diario de 1920 — Isaak Bábel (Galaxia Gutenberg, Barcelona, 1999)",
+          "role": "Unidad 2 · textos primarios (teóricos y prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-brodsky-menos-que-uno",
+          "name": "Menos que uno — Joseph Brodsky (Altaza, Barcelona, 1995) · «En una habitación y media»",
+          "role": "Unidad 2 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-bulgakov-la-guardia-blanca",
+          "name": "La guardia blanca — M. Bulgákov (Libros del Zorzal/Galerna, Buenos Aires, 2019)",
+          "role": "Unidad 2 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-kosovel-integrales",
+          "name": "Integrales — Srečko Kosovel (Bassarai Poesía, Zaragoza, 2005), trad. Santiago Martín",
+          "role": "Unidad 2 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-kveder-hanka",
+          "name": "Hanka. Recuerdos de la guerra — Zofka Kveder (Gog & Magog, Buenos Aires, 2026), trad. Julia Sarachu",
+          "role": "Unidad 2 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-ostrovski-asi-se-templo-el-acero",
+          "name": "Así se templó el acero — N. Ostrovski (Lectulandia, 2013, ebook) · la fundamentación del mismo programa lo nombra «Cómo se templó el acero»",
+          "role": "Unidad 2 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-shklovski-viaje-sentimental",
+          "name": "Viaje sentimental. Crónica de la Revolución Rusa — Víktor Shklovski (Anagrama, Barcelona, 1972)",
+          "role": "Unidad 2 · textos primarios (teóricos y prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-tsvietaieva-diarios-1917",
+          "name": "Diarios de la Revolución de 1917 — M. Tsvietaieva (Acantilado, Barcelona, 2015)",
+          "role": "Unidad 2 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-tsvietaieva-retratos",
+          "name": "Retratos — M. Tsvietaieva (Partícula, Buenos Aires, 2025) · la bibliografía general del mismo programa lo consigna como Ed. Añosluz, 2024",
+          "role": "Unidad 2 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-gradnik-la-tierra-desolada",
+          "name": "La tierra desolada — Alojz Gradnik (Gog & Magog, Buenos Aires, 2009), trad. Julia Sarachu",
+          "role": "Unidad 2 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-jlebnikov-el-rey-del-tiempo",
+          "name": "El rey del tiempo — V. Jlébnikov (Añosluz, Buenos Aires, 2019)",
+          "role": "Unidad 2 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-poesia-rusa-del-siglo-xx",
+          "name": "Poesía rusa del siglo XX (selección) — A. Blok et al. (CEAL, Buenos Aires, 1970), varios traductores",
+          "role": "Unidad 2 · fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-fadeyev-la-derrota",
+          "name": "La derrota — A. Fadeyev (Mnemosyne, 1950), trad. Lila Guerrero",
+          "role": "Unidad 2 · fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-pilniak-el-ano-desnudo",
+          "name": "El año desnudo — B. Pilniak (RyR, Buenos Aires, 2020), trad. A. González",
+          "role": "Unidad 2 · fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-chukovskaia-sofia-petrovna",
+          "name": "Sofia Petrovna, una ciudadana ejemplar — L. Chukóvskia (Errata Naturae, Madrid, 2014), trad. M. Rebón",
+          "role": "Unidad 3 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-voranc-lucha-en-el-tragadero",
+          "name": "La lucha en el tragadero — Prežihov Voranc (1935) · el programa sólo consigna el enlace a sl.wikisource.org, sin editorial",
+          "role": "Unidad 3 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-zazubrin-la-astilla",
+          "name": "La astilla — V. Zazubrin (RyR, Buenos Aires, 2017), trad. A. González",
+          "role": "Unidad 3 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-gladkov-cemento",
+          "name": "Cemento — F. Gladkov (Sociedad Americana de Ediciones, Buenos Aires, 1943)",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-mandelstam-cuadernos-de-voronezh",
+          "name": "Cuadernos de Vorónezh — Ósip Mandelstam (Blatt & Ríos, «Buenos Airs» tal como se imprime; el programa deja el año en blanco) · la bibliografía general lo consigna como Muestrario de Poesía 54, República Dominicana, 2010",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-platonov-dzhan",
+          "name": "Dzhan — A. Platónov (Alianza Tres, Madrid, 1973)",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-platonov-el-pozo-de-cimientos",
+          "name": "El pozo de cimientos — A. Platónov (Colihue, Buenos Aires, 2022)",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-platonov-patria-de-la-electricidad",
+          "name": "La patria de la electricidad y otros relatos — A. Platonov (Galaxia Gutemberg, Barcelona, s/f)",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-tavcar-flores-de-otono",
+          "name": "Flores de otoño — Ivan Tavčar (Gog & Magog, Buenos Aires, 2025), trad. Julia Sarachu",
+          "role": "Unidad 3 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-ajmatova-requiem",
+          "name": "Requiem/Poema sin héroe — A. Ajmátova (Cátedra, Madrid, 2006)",
+          "role": "Unidad 4 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-destovnik-poesia-partisana",
+          "name": "Poesía partisana — Karel Destovnik-Kajuh (Gog & Magog, Buenos Aires, 2026), trad. Julia Sarachu",
+          "role": "Unidad 4 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-grossman-el-pueblo-es-inmortal",
+          "name": "El pueblo es inmortal — V. Grossman (Galaxia Gutenberg, Barcelona, 2023)",
+          "role": "Unidad 4 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-hrabal-trenes-vigilados",
+          "name": "Trenes rigurosamente vigilados — B. Hrabal (Ebookofilo, 2013)",
+          "role": "Unidad 4 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-keff-madre-y-patria",
+          "name": "Una obra sobre la madre y la patria — Bozena Keff · el programa no consigna editorial ni año",
+          "role": "Unidad 4 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-una-cosa-bien-simple",
+          "name": "Una cosa bien simple. Novelas cortas soviéticas — VV.AA. (Progreso, Moscú, 1975), trad. C. Astor · «El destino de un hombre» de M. Shólojov",
+          "role": "Unidad 4 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-alexievich-guerra-sin-rostro-de-mujer",
+          "name": "La guerra no tiene rostro de mujer — S. Alexiévich (Penguin Random House Grupo Editorial España, 2015)",
+          "role": "Unidad 4 · textos primarios (prácticos) · también U5 (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-alexievich-ultimos-testigos",
+          "name": "Últimos testigos — S. Alexiévich (Penguin Random House Grupo Editorial España, 2016)",
+          "role": "Unidad 4 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-shklovski-disimilitud-de-lo-similar",
+          "name": "La disimilitud de lo similar — V. Shklovski (Alberto Corazon Editor, Madrid, 1973)",
+          "role": "Unidad 4 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-sholojov-lucharon-por-la-patria",
+          "name": "Lucharon por la patria — M. Shólojov (Hyspamerica, Madrid, 1983)",
+          "role": "Unidad 4 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-alexievich-jovenes-del-zinc",
+          "name": "Los jóvenes del zinc — S. Alexiévich (Penguin Random House Grupo Editorial España, 2015) · la fundamentación del mismo programa lo nombra «Los muchachos del zinc», 1989",
+          "role": "Unidad 5 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-alexievich-homo-sovieticus",
+          "name": "El fin del ´homo soviéticus´ — S. Aléxievich (Penguin Random House Grupo Editorial España; el programa no consigna año)",
+          "role": "Unidad 5 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-chentalinski-archivos-kgb",
+          "name": "De los Archivos de la KGB Vol. I-IV — V. Chentalinski (Galaxia Gutemberg, Barcelona, 2018) [selección]",
+          "role": "Unidad 5 · textos primarios (teóricos y prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-dovlatov-el-oficio",
+          "name": "El oficio — S. Dovlatov (Añosluz, Buenos Aires, 2017)",
+          "role": "Unidad 5 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-dovlatov-la-maleta",
+          "name": "La maleta — S. Dovlatov («Navarr», Fulgencio Pimentel, 2018), tal como se imprime",
+          "role": "Unidad 5 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-erofeiev-moscu-petushki",
+          "name": "Moscú-Petushkí — V. Eroféiev (Marbot, Barcelona, 2010), trad. H. Kriúkova y V. Cazcarra",
+          "role": "Unidad 5 · textos primarios (teóricos y prácticos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-makarovic-estrella-sobre-la-montana",
+          "name": "La estrella sobre la montaña — Svetlana Makarovič (Gog & Magog, Buenos Aires, 2025), trad. Julia Sarachu",
+          "role": "Unidad 5 · textos primarios (teóricos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-shalamov-relatos-de-kolyma",
+          "name": "Relatos de Kolymá Vol. I-VI — V. Shalamov (Barcelona, 2017; el programa no consigna editorial) [selección]",
+          "role": "Unidad 5 · textos primarios (teóricos y prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-szymborska-poesia-completa",
+          "name": "Poesía completa — W. Szymborska (FCE, México, 2017), trad. G. Beltrán y A. Murcia · selección",
+          "role": "Unidad 5 · textos primarios (teóricos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-cunta-a-veces-nos-perdemos",
+          "name": "A veces nos perdemos, luego regresamos — Miljana Cunta (Gog & Magog, Buenos Aires, 2025), trad. Julia Sarachu",
+          "role": "Unidad 5 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-dovlatov-la-zona",
+          "name": "La zona — S. Dovlátov (Ikusager, Vitoria, 2009)",
+          "role": "Unidad 5 · textos primarios (prácticos) + fuentes",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-kocbek-poesia-en-holograma",
+          "name": "Poesía en holograma — Edvard Kocbek (Gog & Magog, Buenos Aires, 2011), trad. Julia Sarachu",
+          "role": "Unidad 5 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-strugatski-picnic-extraterrestre",
+          "name": "Picnic extraterrestre — A. y B. Strugatsky (Sextopiso, México; el programa deja el año en blanco) · la fundamentación del mismo programa lo nombra «Picnic junto al camino»",
+          "role": "Unidad 5 · textos primarios (prácticos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literaturas-eslavas.libro-solzhenitsyn-obras-escogidas",
+          "name": "Obras escogidas — A. Solzhenitsyn (Aguilar, Madrid, 1973), trad. J. Pericacho · «Un día de la vida de Iván Denísovich»",
+          "role": "Unidad 5 · fuentes",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa 2026 (2º cuatrimestre) — Literaturas Eslavas, cód. 0585 (Plan 1985) / 15029 (Plan 2023), «Literatura y socialismo», Prof. Adjunto Omar Lobos (el archivo publicado se nombra «LÓPEZ ARRIAZU»; la portada y la firma dicen LOBOS, OMAR)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0585%2015029%20LITERATURAS%20ESLAVAS%20L%C3%93PEZ%20ARRIAZU.pdf"
+  }
+}

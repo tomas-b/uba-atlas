@@ -1,0 +1,12 @@
+{
+  "address": "uba.ffyl.letras.literatura-inglesa",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7, "units_found": 7,
+  "books_total": 17, "books_found": 17,
+  "not_found": [],
+  "omitted": ["Beckett 'Malacoda' — the only excluded Fuentes entry the frame's 'entre ellas' list doesn't name (28 of 29; hedged, so incomplete not false)"],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "No fabrication; all counts exact: Fuentes 45 entries by unit (2·3·4·7·8·8·13), 16 qualify → 17 exits each traced to its line; critical bibliography 47+47+36+68=198 confirmed (U7=10 via alphabetical-order proof for Grossman). Código '508' really printed without leading zero on both faces; '0508' filename-only. REDEC 'Ciclo Lectivo 2025' contradiction real; all 3 bibliography contradictions real; all erratas printed incl. Rosmary ×3 and Alapha Decay ×2; Wilde '(Prácticos)' unique. Minor: Lydgate imprint order inverted; equipo normalized to APELLIDO, Nombre; Opción B promedio clause compressed; manifest gap."
+}

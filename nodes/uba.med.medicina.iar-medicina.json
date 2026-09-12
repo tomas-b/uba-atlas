@@ -1,0 +1,101 @@
+{
+  "address": "uba.med.medicina.iar-medicina",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO DE CLÍNICA MÉDICA en el programa Res. (CD) 261/14; «Clínica Médica» en el reglamento; «Medicina» en el plan",
+    "regimen": "7 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23); 3 semanas según la modificatoria Res. (CD) 516/15 (art. 23.A); 4 semanas según la Guía para Estudiantes de las PFO publicada hoy",
+    "cargaHoraria": "el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: el sitio del Departamento de Medicina lista «Internado Anual Rotatorio (Ciclo clínico - Carrera de Medicina)» entre las materias que dicta; en cada unidad asistencial responde un Responsable de Módulo",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014 — deroga la Res. (CD) 213/10",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-medicina",
+      "label": "Medicina (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Medicina · rotación del Internado Anual Rotatorio",
+  "title": "La sala de clínica, todos los días, con la historia clínica en la mano.",
+  "lede": "El plan la nombra <b>Medicina</b>; el programa del Internado la llama <b>Módulo de Clínica Médica</b>. Es la rotación de base: unidad de internación y consultorios externos, historia clínica completa y control diario de signos vitales en nivel de rutina, veinte cuadros prevalentes que hay que saber diagnosticar y tratar bajo supervisión, y una lista corta de procedimientos —punción lumbar, punción pleural, punción de líquido ascítico, hemocultivos, electrocardiograma— que se aprenden haciéndolos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "3-7 sem.",
+      "small": "según la norma"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "3",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado de 21 páginas leído por OCR: el módulo tiene su propia sección con competencias básicas, procedimientos básicos y patologías prevalentes. El programa gradúa cada competencia en cinco niveles de expertez: A sólo teoría · B haber visto o presenciado · C haber practicado en simuladores · D haber aplicado en escenarios reales bajo supervisión · E rutina. La duración sale del Reglamento del IAR: 7 semanas en la Res. (CD) 2844/12, 3 semanas tras la modificatoria Res. (CD) 516/15. La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. El nombre de la rotación es el del plan Res. CS 2861/92; el del módulo, el del programa. El programa no lista bibliografía ni asigna sedes: dónde se rota lo define la Unidad Docente Hospitalaria.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias básicas · lo que hay que saber hacer",
+      "title": "Siete competencias, con su nivel de expertez",
+      "note": "Transcriptas del módulo. La letra final es el nivel exigido: E rutina, D aplicado en escenarios reales bajo supervisión, C practicado en simuladores.",
+      "map": {
+        "mk": "Módulo de Clínica Médica · competencias",
+        "tree": "CLÍNICA MÉDICA — competencias básicas\n│\n├─ E · Realizar historia clínica completa de los pacientes de la Unidad de Internación y consultorios externos\n├─ E · Realizar control diario de signos vitales\n├─ E · Respetar las normas de bioseguridad para el desarrollo de prácticas asistenciales\n├─ E · Realizar diagnóstico presuntivo, diagnósticos diferenciales, recomendaciones terapéuticas y derivación\n│       oportuna y adecuada de pacientes internados y/o ambulatorios con patologías relevantes/prevalentes\n├─ D · Aplicar planes y normas de tratamiento a pacientes internados o ambulatorios con patologías prevalentes\n├─ D · Realizar planes de hidratación parenteral\n└─ C · Realizar reanimación cardiopulmonar básica",
+        "foot": "Res. (CD) 261/14, sección «MÓDULO DE CLÍNICA MÉDICA · COMPETENCIAS BÁSICAS»."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Procedimientos básicos · lo que hay que hacer con las manos",
+      "title": "Cuatro categorías, quince procedimientos",
+      "note": "El programa los tabula con una cruz en la columna de nivel A a E. La tabla llegó degradada al OCR, así que acá va la lista de procedimientos tal como está impresa, sin atribuirle a cada uno un nivel que no se lee con certeza.",
+      "map": {
+        "mk": "Módulo de Clínica Médica · procedimientos",
+        "tree": "CLÍNICA MÉDICA — procedimientos básicos\n│\n├─ CARDIOVASCULAR\n│  ├─ Tomar la tensión arterial\n│  ├─ Realizar ECG\n│  └─ Interpretar un electrocardiograma\n│\n├─ LABORATORIO\n│  ├─ Llevar a cabo el procedimiento para la extracción de muestra para hemocultivos\n│  └─ Interpretar resultados de análisis básicos de orina y sangre\n│\n├─ RADIOLOGÍA\n│  ├─ Interpretar radiografía simple de tórax\n│  ├─ Interpretar radiografía simple de abdomen\n│  ├─ Interpretar TAC\n│  └─ Interpretar RNM\n│\n└─ VÍAS Y PUNCIONES\n   ├─ Administrar inyectables por vía intramuscular\n   ├─ Administrar inyectables intradérmicos y subcutáneos\n   ├─ Punción lumbar\n   ├─ Punción de líquido ascítico\n   ├─ Punción pleural\n   └─ Realizar punción venosa y extracción de sangre arterial para estado ácido-base",
+        "foot": "Res. (CD) 261/14, sección «PROCEDIMIENTOS BÁSICOS» del módulo."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Patologías prevalentes · frente a qué",
+      "title": "Veinte pacientes que hay que saber resolver",
+      "note": "«El estudiante deberá llegar al nivel D en las situaciones que se mencionan a continuación» — es decir, haberlas atendido en escenarios reales bajo supervisión. El programa agrega ejemplos de cómo graduar cuadro clínico, diagnóstico y tratamiento, y marca que en disnea de causa cardiovascular, síndrome meníngeo y ascitis el diagnóstico exige punción arterial, punción lumbar y punción de líquido ascítico respectivamente.",
+      "map": {
+        "mk": "Módulo de Clínica Médica · patologías significativas / relevantes / prevalentes",
+        "tree": "EL PACIENTE CON…\n│\n├─ dolor precordial\n├─ disnea de origen cardíaco\n├─ disnea de origen respiratorio\n├─ diarrea aguda y crónica\n├─ hipertensión arterial\n├─ diabetes\n├─ enfermedad cerebrovascular\n├─ ascitis y edemas\n├─ anemia\n├─ ictericia\n├─ enfermedad poliarticular\n├─ enfermedad monoarticular\n├─ infección respiratoria\n├─ infección urinaria\n├─ síndrome meníngeo\n├─ adenomegalias\n├─ insuficiencia renal aguda y crónica\n├─ enfermedad tiroidea\n├─ sida\n└─ hemorragia digestiva",
+        "foot": "Res. (CD) 261/14, sección «PATOLOGÍAS SIGNIFICATIVAS / RELEVANTES / PREVALENTES» del módulo."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

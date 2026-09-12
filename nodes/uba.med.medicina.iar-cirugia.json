@@ -1,0 +1,91 @@
+{
+  "address": "uba.med.medicina.iar-cirugia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO CIRUGÍA en el programa Res. (CD) 261/14; «Cirugía» en el plan y en el reglamento",
+    "regimen": "7 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23); 5 semanas según la modificatoria Res. (CD) 516/15 (art. 23.A)",
+    "cargaHoraria": "el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: el sitio del Departamento de Cirugía no consigna el módulo del IAR; en cada unidad asistencial responde un Responsable de Módulo [Res. (CD) 2844/12]",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "sinPatologias": "el módulo de Cirugía es uno de los dos módulos (junto con Salud Mental) que no imprime lista de patologías prevalentes",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-cirugia",
+      "label": "Cirugía (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Cirugía · rotación del Internado Anual Rotatorio",
+  "title": "Antes del quirófano: la mano que lava, sutura, inmoviliza y reconoce la urgencia.",
+  "lede": "El módulo no pide operar. Pide historia clínica de internado y de primera vez en consultorio en nivel de rutina, y reconocer —bajo supervisión— la patología que constituye una urgencia quirúrgica, el tratamiento que corresponde proponer y la ansiedad del paciente antes de entrar. Lo demás son dieciocho maniobras: lavado quirúrgico, campo, anestesia local, drenaje de abscesos, hemostasia, suturas y venopuntura en simulador, yesos y férulas, sondas.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "5-7 sem.",
+      "small": "según la norma"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "2",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado leído por OCR: el «MÓDULO CIRUGÍA» trae competencias básicas y procedimientos básicos, y —a diferencia de Clínica Médica, Tocoginecología, Pediatría y APS— no incluye una lista de patologías prevalentes; acá no se le inventa una. El programa gradúa cada competencia en cinco niveles de expertez: A sólo teoría · B haber visto o presenciado · C haber practicado en simuladores · D haber aplicado en escenarios reales bajo supervisión · E rutina. La duración sale del Reglamento del IAR: 7 semanas en la Res. (CD) 2844/12, 5 semanas tras la modificatoria Res. (CD) 516/15. La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. El sitio del Departamento de Cirugía no publica material propio del módulo del IAR. El programa no lista bibliografía.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias básicas · lo que hay que saber hacer",
+      "title": "Seis competencias, con su nivel de expertez",
+      "note": "Transcriptas del módulo. E rutina; D aplicado en escenarios reales bajo supervisión.",
+      "map": {
+        "mk": "Módulo Cirugía · competencias",
+        "tree": "CIRUGÍA — competencias básicas\n│\n├─ E · Realizar una historia clínica completa en pacientes internados\n├─ E · Realizar una historia clínica de primera vez en consultorios externos\n├─ D · Efectuar diagnósticos presuntivos y diferenciales en pacientes quirúrgicos\n├─ D · Reconocer patología que constituya una urgencia quirúrgica en un paciente\n├─ D · Proponer tratamientos a pacientes internados\n└─ D · Reconocer señales de ansiedad en pacientes antes de ser operados",
+        "foot": "Res. (CD) 261/14, sección «MÓDULO CIRUGÍA · COMPETENCIAS BÁSICAS»."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Procedimientos básicos · lo que hay que hacer con las manos",
+      "title": "Dieciocho maniobras",
+      "note": "El programa las tabula con una cruz en la columna de nivel A a E; esa tabla llegó degradada al OCR, así que acá va la lista tal como está impresa, sin atribuirle a cada maniobra un nivel que no se lee con certeza. Dos de ellas el propio programa las nombra en simulador.",
+      "map": {
+        "mk": "Módulo Cirugía · procedimientos",
+        "tree": "CIRUGÍA — procedimientos básicos\n│\n├─ REANIMACIÓN Y VÍA AÉREA\n│  ├─ Resucitación cardiopulmonar\n│  └─ Intubación orolaríngea\n│\n├─ ASEPSIA Y CAMPO\n│  ├─ Lavado quirúrgico de manos\n│  ├─ Preparación del campo quirúrgico\n│  └─ Anestesia infiltrativa local\n│\n├─ HERIDAS\n│  ├─ Incisión y avenamiento de abscesos\n│  ├─ Hemostasia en heridas simples\n│  ├─ Suturas de heridas en simulador\n│  ├─ Extracción de puntos de sutura\n│  └─ Cuidado de heridas externas\n│\n├─ TRAUMATOLOGÍA\n│  ├─ Inmovilización de fracturas\n│  ├─ Corrección de luxaciones\n│  ├─ Confección de férula\n│  └─ Confección de yesos en fracturas\n│\n└─ VÍAS, SONDAS Y EXAMEN\n   ├─ Venopuntura en simulador\n   ├─ Inspección y palpación de hernias\n   ├─ Colocación de sonda nasogástrica\n   └─ Colocación de sonda vesical",
+        "foot": "Res. (CD) 261/14, sección «PROCEDIMIENTOS BÁSICOS» del módulo. El agrupamiento por familia es de lectura; los ítems son los del programa."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

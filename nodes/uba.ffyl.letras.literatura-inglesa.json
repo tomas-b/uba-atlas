@@ -1,0 +1,93 @@
+{
+  "address": "uba.ffyl.letras.literatura-inglesa",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "codigo": "508 (Plan 1985) · 15026 (Plan 2023) — la carátula imprime «508», sin cero inicial; el nombre del archivo publicado imprime «0508»",
+    "regimen": "cuatrimestral · promoción directa (PD) · 3 instancias de evaluación parcial (Reglamento Académico, Res. (CD) Nº 4428/17), con opción A (80% de asistencia y promedio ≥ 7 sin aplazos) u opción B (75% de asistencia a prácticos, ≥ 4 en cada instancia y examen final)",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 hs semanales de dictado de clases)",
+    "cuatrimestre": "2º — «2º CUATRIMESTRE 2026» en la carátula y en la segunda página; «AÑO: 2026». CONTRADICCIÓN EN LA FUENTE, no resuelta: el apartado «Organización del dictado de la materia» dice que la REDEC-2024-2526-UBA-DCT#FFYL «establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2025»",
+    "catedra": "PROFESOR/A: MARGARIT, LUCAS — firma el programa como «Profesor Titular». El programa no consigna cuántas cátedras dicta la materia",
+    "equipoDocente": [
+      "MARGARIT, Lucas (profesor titular, firma el programa)",
+      "CASTAGNINO, María Inés (Jefe de Trabajos Prácticos)",
+      "FERNÁNDEZ, Noelia (Ayudante de 1ª)",
+      "LARA, Marcelo (Ayudante de 1ª)",
+      "LASA, Cecilia (Ayudante de 1ª)",
+      "RIVAS, Ezequiel (Ayudante de 1ª)"
+    ],
+    "tituloDelPrograma": "Lo irrepresentable: algunas variantes alrededor de la muerte en la Literatura Inglesa.",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (las materias de grado pueden dictar hasta un 30% de sus clases en modalidad virtual, sincrónica o asincrónica; con más de 350 estudiantes inscriptos/as y sin estructura de cátedra para desdoblar, las teóricas se dictan en forma virtual)",
+    "unidades": 7,
+    "bibliografia": 17,
+    "aclaracionEquipo": "«Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente» (nota al pie del programa)"
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.ffyl", "label": "Filosofía y Letras" },
+    { "address": "uba.ffyl.letras", "label": "Letras" },
+    { "address": "uba.ffyl.letras.literatura-inglesa", "label": "Literatura Inglesa" }
+  ],
+  "eyebrow": "Letras · Literaturas Extranjeras y Comparadas · Literatura Inglesa",
+  "title": "Hablar de lo que no puede experimentarse.",
+  "lede": "Toda la literatura inglesa recorrida por un solo motivo: la muerte, y lo que se hace con ella cuando no se la puede representar. Se entra por la pregunta misma —qué es hablar de la muerte y de los muertos, del rito a la representación, con Luciano y Montaigne— y se avanza por períodos: la elegía y las danzas de la muerte medievales, con Everyman y el cuento del Bulero; la tragedia isabelina y la herencia de Séneca, con Kyd, Hamlet y Tourneur; los poetas metafísicos del siglo XVII y la meditación sobre el cuerpo, la enfermedad y los límites de la palabra poética; el siglo XVIII de los cementerios, los espectros y lo sublime, de Gray y Hervey a Frankenstein; el ghost tale victoriano y el paisaje gótico como territorio de la alteridad; y, ya en el siglo XX, la reelaboración del cuento de fantasmas, la renovación del lenguaje poético y la poesía como resistencia ante la pérdida. Cada período cambia las nociones de «muerte», «fantasma» y «espectro»; ninguno cierra la pregunta.",
+  "meta": [
+    { "k": "Régimen", "v": "PD", "small": "promoción directa" },
+    { "k": "Carga", "v": "96 hs", "small": "2º cuatrimestre" },
+    { "k": "Unidades", "v": "7", "small": "programa Margarit" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" }
+  ],
+  "frame": "Contenido real del programa de Literatura Inglesa, códigos 508 (Plan 1985) y 15026 (Plan 2023) —la carátula imprime «508», sin cero inicial, mientras el nombre del archivo publicado imprime «0508»—, profesor MARGARIT, LUCAS, 2º cuatrimestre 2026, publicado en letras.filo.uba.ar. El nombre de la materia es el mismo en los dos planes. El programa se titula «Lo irrepresentable: algunas variantes alrededor de la muerte en la Literatura Inglesa.» y ordena siete unidades por períodos históricos, de la pregunta general sobre el hablar de la muerte hasta la contemporaneidad. CONTRADICCIÓN REGISTRADA, NO RESUELTA: la carátula y la segunda página imprimen «2º CUATRIMESTRE 2026» y «AÑO: 2026», pero el apartado «Organización del dictado de la materia» dice que la REDEC-2024-2526-UBA-DCT#FFYL «establece pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2025»; los dos datos se registran tal como están impresos y el nodo no elige entre ellos. SELECCIÓN DECLARADA de bibliografía: el programa separa en cada unidad «Fuentes» (los textos literarios que se leen) de la bibliografía crítica. Se dibujan como nodo libro únicamente las Fuentes de extensión de volumen —novelas, teatro, prosa extensa— y las colecciones que el programa nombra como tales (Diálogos de Luciano, Ensayos de Montaigne, The Canterbury Tales). De las 45 entradas de «Fuentes» del programa (Unidad 1: 2 · Unidad 2: 3 · Unidad 3: 4 · Unidad 4: 7 · Unidad 5: 8 · Unidad 6: 8 · Unidad 7: 13), 16 entradas cumplen ese criterio y dan 17 nodos libro: la entrada «Beckett, Samuel, Play , Breath» aporta dos piezas, y de la entrada de Shakespeare se dibuja Hamlet pero no el poema «The Phoenix and the Turtle». EXCLUSIONES DECLARADAS: las 29 entradas restantes de Fuentes son poemas sueltos, relatos breves y ensayos sueltos, y no se dibujan — entre ellas The Waste Land de Eliot (que el programa lista bajo «Poemas»), Lycidas de Milton, Adonaïs de Percy Shelley, The Rime of the Ancient Mariner de Coleridge, «Elegy in a Country Churchyard» de Gray, los poemas de Donne, Finch, Herbert, Philips, Pope, Lawrence, H.D., Dylan Thomas, Auden y Sassoon, «On Death» de Bacon, «Death» de Samuel Johnson (The Idler nº 41), «Sobre la muerte» de Jeremy Taylor (trad. Ramiro Vilar, con enlace a litinglesa.wordpress.com), «The Dead» de Joyce, «El diario de Mr. Poynter» de M.R. James, «The Stranger» de Mansfield y los siete relatos de la antología victoriana de la Unidad 6 (Braddon, Collins, Dickens, Edwards, Hawker, Le Fanu y «El fantasma de Canterville» de Wilde, único texto marcado «(Prácticos)»). Tampoco se dibuja ninguna de las 198 entradas de bibliografía crítica: 47 en las secciones «Bibliografía obligatoria»/«Bibliografía» de las siete unidades, 47 en las «Bibliografía complementaria», 36 en «Bibliografía sobre el eje del programa» y 68 en la «Bibliografía general» final; son en su mayoría artículos y capítulos, aunque incluyen monografías exentas (Ariès, Blanchot, Morin, Huizinga, Praz, Jackson, Todorov, Tillyard…) que quedan fuera por recorte, no por esa regla. CONTRADICCIONES INTERNAS DE LA BIBLIOGRAFÍA, registradas sin resolver: Ariès, «La muerte en occidente», aparece como «Barcelona: Argos Vergara, 1982» en la Unidad 1 y como «Madrid, Argos Vergara, 1980» en la bibliografía del eje; Barthes, Diario de duelo, como «Madrid: Paidós, 2006» y como «Madrid: Paidós, 2009»; Morin, El hombre y la muerte, como «Kairós, 1994» (Unidades 1 y 7) y como «Kairós, 2000» (eje). ERRATAS DEL ORIGINAL: el programa imprime el encabezado «Bibliografía general» dos veces (la primera encabeza la sección «Bibliografía sobre el eje del programa»); la entrada de González-Rivas Fernández en la Unidad 7 termina en «en» sin consignar la obra que la contiene; Ledesma cita «Frankestein»; Jackson figura como «Rosmary»; y el sello de Simon Critchley se imprime «Alapha Decay». Los libros no están indexados aún (L3).",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las siete unidades",
+      "title": "Lo irrepresentable, por períodos",
+      "note": "Cada unidad del programa Margarit es un nodo, en orden.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "LITERATURA INGLESA — lo irrepresentable: variantes alrededor de la muerte\n│\n├─ 1 · Hablar de la muerte\n│        del rito a la representación · la muerte como modo de significar la vida\n│        aproximaciones desde Filosofía, Antropología e Historia\n├─ 2 · La muerte en la Edad Media\n│        elegía y rememoración · danzas de la muerte · el personaje alegórico\n├─ 3 · Fugacidad, violencia y muerte en el Renacimiento\n│        el período isabelino · la tragedia y la influencia de Séneca · Montaigne\n├─ 4 · La muerte durante el siglo XVII\n│        los poetas metafísicos · el cuerpo, la enfermedad y los límites de la palabra\n├─ 5 · Siglo XVIII: del Iluminismo al Gótico y Romanticismo\n│        tumbas y cementerios · lo bello y lo sublime · el cadáver y los despojos\n├─ 6 · La muerte y los espectros — el siglo XIX\n│        ghost tale victoriano · el paisaje gótico como territorio de la alteridad\n└─ 7 · Del siglo XX a nuestra contemporaneidad\n         reelaboración del cuento de fantasmas · modernismo · la poesía y la pérdida",
+        "foot": "Temas del programa Margarit (2º cuatrimestre 2026). El recorrido es cronológico, pero el eje no: cada período reescribe qué puede decirse de la muerte, del lamento medieval a la poesía como resistencia."
+      },
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-inglesa.hablar-de-la-muerte", "name": "Hablar de la muerte", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.edad-media", "name": "La muerte en la Edad Media", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.renacimiento", "name": "Fugacidad, violencia y muerte en el Renacimiento", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.siglo-xvii", "name": "La muerte durante el siglo XVII", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.siglo-xviii", "name": "Siglo XVIII: del Iluminismo al Gótico y Romanticismo", "role": "Unidad 5", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.siglo-xix", "name": "La muerte y los espectros - El siglo XIX", "role": "Unidad 6", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.siglo-xx", "name": "Del siglo XX a nuestra contemporaneidad", "role": "Unidad 7", "tag": "unidad", "kind": "unit" }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes del programa",
+      "title": "Las obras que se leen",
+      "note": "Las Fuentes de extensión de volumen —novelas, teatro, prosa extensa— y las colecciones que el programa nombra. Los poemas sueltos, los relatos breves y los ensayos sueltos de las Fuentes no se dibujan (29 de 45 entradas), ni la bibliografía crítica (198 entradas entre obligatoria, complementaria, del eje y general). Títulos en inglés tal como los imprime el programa. No indexadas aún como libros (L3).",
+      "exits": [
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-luciano-dialogos", "name": "Diálogos / «Sobre el luto» — Luciano de Samosata (el programa no consigna edición)", "role": "Unidad 1 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-montaigne-ensayos", "name": "Ensayos — Michel de Montaigne · Libro I, caps. XVIII y XIX; Libro II, cap. XIII (el programa no consigna edición)", "role": "Unidad 1 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-everyman", "name": "Everyman — Anónimo (el programa no consigna edición)", "role": "Unidad 2 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-canterbury-tales", "name": "The Canterbury Tales — Chaucer · «The Pardoner's Tale» (el programa no consigna edición)", "role": "Unidad 2 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-lydgate-danza-de-la-muerte", "name": "La danza de la muerte — John Lydgate, trad. José Antonio Alonso Navarro (Eduvim, Villa María, 2023)", "role": "Unidad 2 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-kyd-spanish-tragedy", "name": "The Spanish Tragedy — Thomas Kyd (el programa no consigna edición)", "role": "Unidad 3 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-shakespeare-hamlet", "name": "Hamlet — William Shakespeare (el programa no consigna edición)", "role": "Unidad 3 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-tourneur-tragedia-del-vengador", "name": "La tragedia del vengador — Cyril Tourneur (el programa no consigna edición)", "role": "Unidad 3 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-browne-hydriotaphia", "name": "Hydriotaphia, Urn Burial — Sir Thomas Browne (el programa no consigna edición)", "role": "Unidad 4 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-defoe-plague-year", "name": "A Journal of the Plague Year (1722) — Daniel Defoe (el programa no consigna edición)", "role": "Unidad 5 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-hervey-meditaciones", "name": "Meditaciones entre los sepulcros — James Hervey (el programa no consigna edición)", "role": "Unidad 5 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-shelley-frankenstein", "name": "Frankenstein — Mary Shelley (el programa no consigna edición)", "role": "Unidad 5 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-bronte-wuthering-heights", "name": "Wuthering Heights (1847) — Emily Brontë (el programa no consigna edición)", "role": "Unidad 6 · fuente · novela", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-critchley-teatro-de-la-memoria", "name": "El teatro de la memoria — Simon Critchley (Barcelona: Alapha Decay, 2016 — así impreso en el programa)", "role": "Unidad 7 · fuente", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-mcewan-jardin-de-cemento", "name": "Jardín de cemento — Ian McEwan (el programa no consigna edición)", "role": "Unidad 7 · fuente · novela", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-beckett-play", "name": "Play — Samuel Beckett (el programa no consigna edición)", "role": "Unidad 7 · fuente · teatro", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.letras.literatura-inglesa.libro-beckett-breath", "name": "Breath — Samuel Beckett (el programa no consigna edición)", "role": "Unidad 7 · fuente · teatro", "tag": "libro", "kind": "book" }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Literatura Inglesa, cód. 508 (Plan 1985) / 15026 (Plan 2023), profesor Lucas Margarit, 2º cuatrimestre 2026 — «Lo irrepresentable: algunas variantes alrededor de la muerte en la Literatura Inglesa»",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0508%2015026%20LITERATURA%20INGLESA%20-%20MARGARIT_0.pdf"
+  }
+}

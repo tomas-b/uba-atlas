@@ -1,0 +1,12 @@
+{
+  "address": "uba.ffyl.letras.estudios-del-lexico",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4, "units_found": 4,
+  "books_total": 26, "books_found": 26,
+  "not_found": [],
+  "omitted": ["2 journal articles declared (Ciapuscio Oralia 20; Geeraerts y Peirsman); 26 complementaria entries enumerated 1:1"],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Double recount closes exactly: 31 obligatoria + 26 complementaria = 57; 29 volume-form minus 3 duplicates = 26 distinct = 26 exits. Equivalence ESTUDIOS DEL LÉXICO ← TEORÍA LÉXICA cited to the ACS-2023-58 table (sources/ line 294), never to the programa (which prints only TEORÍA LÉXICA/0582). Stale 1C2024 declared with the not-offered claim attributed to the scout and hedged. All 5 erratas verified against the LIVE PDF (re-extraction matched the stored extract line-for-line — extract not adulterated). 'Cátedra' exactly 2× as Madrid publisher. Minor: Routledge imprint is a trivial inference from the title; chapter-year-as-volume-year convention consistent across all 8 cases; manifest lacks this extract's entry (pipeline accounting, fixed at close)."
+}

@@ -1,0 +1,21 @@
+{
+  "address": "uba.der.abogacia.cpo-notarial",
+  "wave": "letras-5-cierre",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 0,
+  "units_found": 0,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "'en diez departamentos' — grid prints EIGHT 'DEPARTAMENTO DE' + TWO 'ORIENTACIÓN EN' headers; '638 de todo el CPO' loose (grid excludes Práctica Profesional + 5 obligatorias)",
+    "same departamento/orientación label repair as Tributario"
+  ],
+  "omitted": [
+    "contenidos mínimos of the principales not drawn at L1 (declared)"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "3 principales literal; inverse derivados note correctly grounded in Privado's plan block; snapshot NOT 20/28 exact."
+}

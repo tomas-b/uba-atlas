@@ -1,0 +1,244 @@
+{
+  "address": "uba.ffyl.letras.sanscrito",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "anual — el PDF imprime «CUATRIMESTRE: ANUAL» en la carátula sellada y «Cuatrimestre y año: Anual - 2017» en el encabezado; la portada generada por el repositorio imprime «Anual - 2017» y el registro FILO:Digital consigna dc.description.abstract «Anual». El plan 2023 citado en el nodo padre la lista como cuatrimestral: contradicción registrada, no resuelta.",
+    "cargaHoraria": "no consignada — el PDF no imprime carga horaria ni horas semanales (la cadena «hora» no aparece en el texto extraído)",
+    "cuatrimestre": "no aplica: materia anual (el programa no divide contenidos por cuatrimestre)",
+    "codigo": "Programa N° 0597",
+    "año": 2017,
+    "departamento": "Lenguas y Literaturas Clásicas",
+    "catedra": "El programa no identifica ninguna cátedra por número, letra ni titular: imprime «PROFESOR VQFCHUK. ROSALÍA CLARA» en la carátula sellada y «Profesor: Vofchuk, Rosalía Clara» en el encabezado. La palabra «cátedra» aparece seis veces, en cinco renglones del texto extraído: tres son el sello madrileño Ed. Cátedra en las entradas de Ramat, y las otras tres son «Libro de cátedra:» (Unidad II.3) y las dos de «seleccionados por la cátedra y proporcionados a los alumnos, a través de las Fichas de Cátedra ya citadas» (Actividades). En ningún caso se le atribuye una denominación de cátedra.",
+    "equipoDocente": [
+      "VOFCHUK, Rosalía Clara (impresa como «Profesor»; firma al pie «Dra. Rosalía C. Vofchuk / Profesora Adjunta Regular»; es la creadora del registro en FILO:Digital)"
+    ],
+    "evaluacion": "nota de concepto por participación constante en Trabajos Prácticos, dos exámenes parciales de lengua y un trabajo monográfico sobre alguno de los temas de cultura del programa. Regulares: 75% de asistencia a Trabajos Prácticos y promedio mínimo de 4 entre los dos parciales y el monográfico; luego un final en dos instancias ambas eliminatorias — oral (lectura, análisis fonético, morfológico y sintáctico, traducción y comentario de un texto ya trabajado en clase) y escrito (análisis y traducción de un texto no visto antes). Libres: examen escrito y oral, ambos eliminatorios. El programa no ofrece promoción directa.",
+    "resolucion": "el PDF NO imprime legiblemente ninguna resolución: el sello de la carátula sale del reconocimiento óptico como «AprobadoporResoatceon» y el número queda destruido («Q tp m J d b 'f»). El número «Res. N° 1069/17» proviene de los metadatos del registro filodigital/10585 (dc.description.abstract «Aprobado Resolución N°1069/17»), no del cuerpo del documento: atribución cruzada declarada.",
+    "unidades": 3,
+    "tramosDibujados": 5,
+    "bibliografia": 12,
+    "staleness": "programa de 2017 — el más reciente publicado de esta materia en cualquier parte; el sitio de la carrera de Letras no publica programa alguno de Sánscrito"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.sanscrito",
+      "label": "Sánscrito"
+    }
+  ],
+  "eyebrow": "Letras · área Letras Clásicas · Sánscrito",
+  "title": "Una lengua que explicó a todas las otras.",
+  "lede": "Cuando el sánscrito se «descubre» en Europa, la lingüística cambia de forma: aparece la familia indo-europea y con ella la idea de que el griego, el latín y el védico son ramas de un mismo tronco. La materia entra por ahí —el descubrimiento, la familia de lenguas, la rama indo-irania, la historia interna del sánscrito: védico, clásico, indio medio— y después baja a la lengua misma. Primero la escritura: oralidad y escritura, los sistemas gráficos de la India —bráhmí, kharosthí, devanágari—, el alfabeto devanágari, las ligaduras, el viráma, el avagraha, el anusvára, el anunásika, el visarga. Después la gramática entera, marcando siempre la diferencia entre el clásico y el védico: sistema vocálico y consonántico, sandhi vocálico y consonántico dentro de la palabra y en la frase, geminación, asimilación, deaspiración, cerebralización, los grados apofónicos guna y vrddhi; la declinación en consonante, en vocal y en diptongo, la declinación pronominal, los numerales, las indeclinables, la composición nominal —dvandva, tatpurusa, bahuvrihi— y la derivación; el verbo con su sistema de presente temático y atemático por clases, futuro, condicional, perfecto, aoristo asigmático y sigmático, precativo y subjuntivo védico, pasivo, intensivo, desiderativo, denominativo, causativo, conjugación perifrástica; y la sintaxis de la oración, la subordinación y la coordinación. El objetivo declarado es traducir: que al terminar la cursada se pueda traducir un texto original, en védico o en sánscrito clásico, y fundamentar esa traducción con un análisis minucioso de sus elementos fonéticos y morfológico-sintácticos, y leerlo a la luz de su contexto cultural. Por eso el tercer tramo es todo texto: el <i>Rgveda</i> y el <i>Atharvaveda</i>, las <i>Upanishad</i>, la <i>Bhagavadgjtá</i>, Nágárjuna y los <i>Yogasütras</i> de Patañjali; el <i>Mahábhárata</i>, el <i>Buddhacarita</i> de Asvaghosa, el <i>Gitagovinda</i> de Jayadeva y los <i>sataka</i> de Bhartrhari; y los textos legales y científicos —el <i>Mánava-dharma-sástra</i>, la <i>Samhitá</i> de Susruta—. Se lee en la lengua original, en fragmentos.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "anual",
+      "small": "sin prom. directa"
+    },
+    {
+      "k": "Programa",
+      "v": "N° 0597",
+      "small": "año impreso 2017"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "I–III · 5 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "FUENTE VIEJA, DECLARADA: este es el programa de 2017 de Sánscrito, Programa N° 0597, y es el último programa localizable de la materia en cualquier parte — está publicado en FILO:Digital (repositorio.filo.uba.ar, registro filodigital/10585) y el sitio de la carrera de Letras no publica ninguno. El PDF imprime «CUATRIMESTRE: ANUAL» y «AÑO 2017» en la carátula sellada y «Cuatrimestre y año: Anual - 2017» en el encabezado; el registro consigna dc.date.issued 2017 y fue subido al repositorio recién el 2019-04-05 (dc.date.accessioned). El contenido de clase es time-invariant, pero la antigüedad se declara: nada acá afirma qué se dicta hoy. DOCUMENTO ESCANEADO: el PDF es una digitalización de papel y el texto llega con reconocimiento óptico imperfecto — ver más abajo la normalización declarada. ATRIBUCIÓN DE FUENTE CRUZADA: (a) el número de resolución «Res. N° 1069/17» NO está impreso legiblemente en el PDF —el sello de la carátula sale como «AprobadoporResoatceon» y el número queda destruido («Q tp m J d b 'f»)— y proviene de los metadatos del registro filodigital/10585 (dc.description.abstract «Aprobado Resolución N°1069/17»); (b) el nombre del Departamento como editor —«Universidad de Buenos Aires. Facultad de Filosofía y Letras. Departamento de Lenguas y Literatura Clásicas.» (así, «Literatura» en singular)— proviene también de los metadatos del registro, mientras que el PDF imprime «DEPARTAMENTO/CARRERA: LENGUAS Y LITERATURAS CLÁSICAS» (en plural) en la carátula y «Departamento de Lenguas y Literaturas Clásicas» en el encabezado; (c) la ubicación de la materia en el área de Letras Clásicas de la carrera de Letras proviene del Plan de Estudios 2023 (Res. ACS-2023-58) citado en el nodo padre, no de este programa. CONTRADICCIONES REGISTRADAS, no resueltas: (1) la portada generada por el repositorio declara «Programa correspondiente a la carrera de Lengua y Literaturas Clásicas de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires» —así, «Lengua» en singular— mientras que el plan 2023 del nodo padre lista Sánscrito dentro de la carrera de Letras; el PDF nunca imprime «Letras» como nombre de carrera, ni «Licenciatura» ni «Profesorado» (ninguna de las tres cadenas aparece en el texto extraído). (2) El programa se declara anual en cuatro lugares distintos; el nodo padre, desde el plan 2023, la lista como cuatrimestral. (3) El sitio de la carrera (letras.filo.uba.ar) lista Sánscrito en dos páginas de plan —«Orientación en Letras Clásicas» y «plan de estudios versión antigua»— entre las siete materias («Epigrafía, Latín Posclásico, Lengua y Cultura Griegas V, Lengua y Cultura Latinas V, Paleografía, Papirología, Sánscrito») de las que hay que cursar dos como electivas de la Orientación, y en ambas marca «(anual)» junto a Filología Latina y Filología Griega pero NO junto a Sánscrito: el sitio no declara su régimen. LO QUE EL SITIO DE LA CARRERA NO PUBLICA, verificado: la búsqueda propia de letras.filo.uba.ar por «sánscrito» devuelve exactamente esas dos páginas de plan (fechadas 15/05/2015 y 02/11/2020) y ningún programa; el índice PROGRAMACIÓN 2017-2026 de la carrera tampoco la nombra, aunque esa página es un índice que no nombra materia alguna: su silencio no prueba nada sobre esta. El único programa localizable es el de FILO:Digital. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: carga horaria u horas semanales (la cadena «hora» no aparece), correlatividades (la cadena «correlativ» no aparece), modalidad de dictado o porcentaje virtual, régimen de promoción directa, y ningún reglamento académico citado. CÁTEDRA: no se le atribuye ninguna denominación de cátedra —el programa no la nombra por número, letra ni titular—; usa la palabra seis veces en cinco renglones, tres de ellas como sello editorial (Madrid, Ed. Cátedra, en las entradas de Ramat) y las otras tres en «Libro de cátedra:» (Unidad II.3) y en «seleccionados por la cátedra y proporcionados a los alumnos, a través de las Fichas de Cátedra ya citadas». Al pie firma «Dra. Rosalía C. Vofchuk / Profesora Adjunta Regular»; no se nombra ningún otro docente. REGISTROS HERMANOS, verificados por metadatos y NO extraídos: FILO:Digital guarda dos ediciones anteriores del mismo Programa N° 0597, ambas de Vofchuk y ambas anuales — filodigital/3944 (dc.date.issued 2016, resumen «Aprobado Resolución N° 3527/15») y filodigital/15959 (dc.date.issued 2015, resumen «Aprobado Resolución N° 1636/15»). Esas resoluciones pertenecen a sus propias ediciones y no se transfieren al programa de 2017 acá dibujado. REGISTRO DISTINTO, registrado sin resolver: el repositorio guarda además filodigital/15139, «Lectura y análisis de textos en sánscrito» (dc.date.issued 2021, creadora Vofchuk, resumen «Segundo Cuatrimestre · Materia · Programa N° 05004 · Aprobado Resolución N° 732/20») — otro título, otro número de programa y régimen cuatrimestral. No es esta materia y no se dibuja acá; que su régimen cuatrimestral coincida con el que el plan 2023 asigna a «Sánscrito» se registra como observación, no como explicación. SELECCIÓN DECLARADA de bibliografía: el programa organiza sus bloques como «Bibliografía general (complementaria)», «Bibliografía especial (obligatoria)», «Bibliografía obligatoria», «Libro de cátedra», «Bibliografía general» y «Bibliografía complementaria». Se dibuja como libro cada entrada de los bloques OBLIGATORIOS (incluido «Libro de cátedra») cuyo título propio está impreso sin comillas —es decir, un volumen— y ninguna otra: doce en total. EXCLUSIONES DECLARADAS, aplicadas en las dos direcciones: no se dibujan (a) los bloques «Bibliografía general (complementaria)» de la Unidad I (Adrados-Bernabé-Mendoza, Beekes, Burrow, Day, Gamkrelidze e Ivanov, Kobayashi, Lehmann, Lindeman, Mallory, Martinet, Masica, Nacev Skomal y Polomé, Polomé, Ramat y Ramat, Renfrew, Villar, Watkins), de la Unidad II.2 (Filliozat, Kale, Macdonell, Maurer, Renou, Rodríguez Adrados, Whitney) y de la Unidad II.3 (Grassmann, Mayrhofer, Macdonell, Renou, Wackernagel, más los diccionarios de Monier Williams y de Stchoupak-Nitti-Renou); (b) el bloque «b. Bibliografía general — Traducciones de obras sánscritas» de la Unidad III (De Palma, Martín, Arnau Navarro sobre Nagarjuna, Olivelle ×2, Rodríguez Adrados, Tola ×3): son traducciones de las fuentes primarias, y las fuentes no se dibujan como libro, igual que en Filología Latina; (c) toda la «c. Bibliografía complementaria» de la Unidad III; (d) las «Fuentes» de la Unidad III —los textos sánscritos mismos, que se listan en el árbol y no como nodo libro—; y (e) dentro de los bloques obligatorios, cada entrada cuyo título propio va entre comillas —artículos de revista y capítulos dentro de otra obra—, lo que deja a la Unidad II.1 sin ningún libro dibujado, porque sus tres entradas obligatorias son artículos y capítulos (Filliozat, Salomon, Farmer-Sproat-Witzel), y descarta en la Unidad I a Bernabé Pajares, Burrow (dos capítulos «op.cit.»), Campanile, Comrie, Hamp, Orqueda, Renfrew (dos capítulos «op.cit.») y Watkins (dos capítulos «op.cit.»). DECISIÓN DECLARADA sobre las fichas de cátedra: las cuatro obras obligatorias de la Unidad III son publicaciones de la Facultad de Filosofía y Letras firmadas por Vofchuk y su equipo, y la sección «Actividades» las identifica como «las Fichas de Cátedra ya citadas». Acá SÍ se dibujan como libro, por ser volúmenes con autor, título, editor y año impresos —a diferencia del criterio aplicado en el nodo de Lingüística, donde las fichas de cátedra no se dibujan—; la divergencia de criterio se declara y no se disimula. NORMALIZACIÓN DECLARADA — CLASES, y solo estas: el PDF es un escaneo con reconocimiento óptico defectuoso y se corrigen en silencio únicamente (i) confusiones de forma de letra inequívocas por contexto (l↔í↔i, h↔b, rn↔m, u↔n, t↔f, J↔A, ú↔ü) — el PDF imprime «Tilomas» por Thomas, «Vjachesíav» por Vjacheslav, «Oíd» por Old, «HistóricaI» por Historical, «Aífica» por Africa, «Deihi» por Delhi, «Munsbiram» por Munshiram, «Mülíer» y «Mtiller» por Müller, «AJfaro» por Alfaro, «Universíty» por University, «Grayter» por Gruyter, «Arycm» por Aryan; y (ii) espacios insertados o comidos por el escaneo («R am at» por Ramat, «alum nos», «D epartam ento», «C uatrim estre», «Gitago vinda», «A tharvaveda», «Su fruta»). NO se normaliza ninguna otra cosa: los acentos agudos con que el programa transcribe las vocales largas del sánscrito (devanágari, anusvára, Bhagavadgjtá, Mülamadhamikakárikás) son su propia convención y se conservan tal cual, y el nombre y el año de cada entrada dibujada van exactamente como el programa los imprime. TÍTULOS NO LEÍDOS, declarados y no adivinados: el encabezado del bloque obligatorio de la Unidad III sale del escaneo como «a. o iu n u g i a n a o u iig a iu iia \\ n c u a $ u e c a icu i a;» y es ilegible —se lo reconstruye como bloque obligatorio solo porque las cuatro entradas que lo siguen son las que «Actividades» llama Fichas de Cátedra, y esa inferencia se declara acá—; en la lista de Fuentes, «Chándogya í^mAAaúffragrnentos)» queda ilegible después de «Chándogya» y se marca como tal en el árbol, sin completarla; el rango de páginas del capítulo de Filliozat sale como «pp. MO­HO.» y no se transcribe; el modo védico impreso «frijunctivo» se conserva tal cual porque su restitución sería una conjetura. Ninguno de estos casos se resuelve.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 3 unidades",
+      "title": "De la familia indo-europea al texto en su lengua",
+      "note": "Las tres unidades del Programa N° 0597, en el orden impreso. La Unidad II se abre en sus tres tramos numerados —II.1, II.2 y II.3— porque cada uno lleva su propio bloque de bibliografía: cinco nodos para tres unidades. El programa reparte el trabajo entre teóricas y prácticas: las teóricas desarrollan la Unidad II y después la aplican a los textos de la Unidad III; las prácticas desarrollan la Unidad I, refuerzan la II y trabajan especialmente un texto literario y otro filosófico de la III.",
+      "map": {
+        "mk": "El programa, en tres unidades y cinco tramos",
+        "tree": "SÁNSCRITO · Programa N° 0597 · Vofchuk · anual 2017\n│\n├─ I · EL SÁNSCRITO Y LA LINGÜÍSTICA INDO-EUROPEA\n│      el «descubrimiento» del sánscrito y los orígenes de la lingüística indo-europea\n│      la familia de lenguas indo-europeas · la rama indo-irania\n│      historia del sánscrito: el védico · el sánscrito clásico · el indio medio\n│\n├─ II · SÁNSCRITO CLÁSICO Y VÉDICO\n│   │\n│   ├─ II.1 · ORALIDAD Y ESCRITURA\n│   │      el sistema gráfico de la India: bráhmí, kharosthí, devanágari\n│   │      el alfabeto devanágari · ligaduras\n│   │      viráma, avagraha, anusvára, anunásika, visarga, etc.\n│   │\n│   ├─ II.2 · GRAMÁTICA\n│   │      II.2.1 fonética y fonología — sistema vocálico y consonántico\n│   │             sandhi vocálico y consonántico · geminación, simplificación,\n│   │             asimilación, deaspiración, aspiración, cerebralización\n│   │             grados apofónicos: guna, vrddhi · fonética de la frase\n│   │      II.2.2 morfología — sistema nominal: caso, género, número\n│   │             declinación en consonante, en vocal y diptongo · pronominal\n│   │             numerales · indeclinables · derivación nominal\n│   │             composición: dvandva, tatpurusa, bahuvrihi\n│   │             sistema verbal: tiempo, modo, voz\n│   │             presente temático (clases 1,4,6,10) y atemático (2,3,5,7,8,9)\n│   │             futuro · condicional · perfecto\n│   │             aoristo asigmático (1,2,3) y sigmático (4,5,6,7)\n│   │             precativo, «frijunctivo», subjuntivo en védico\n│   │             conjugación secundaria: pasivo, intensivo, desiderativo,\n│   │             denominativo, causativo · conjugación perifrástica\n│   │      II.2.3 sintaxis — la oración · rol de la composición\n│   │             frase nominal, interrogativa, negativa, exclamativa\n│   │             subordinación · coordinación\n│   │\n│   └─ II.3 · DIFERENCIAS PRINCIPALES ENTRE EL SÁNSCRITO CLÁSICO Y EL VÉDICO\n│          (el tramo se apoya en los libros de cátedra sobre védico)\n│\n└─ III · TEXTOS Y CONTEXTOS\n       a. filosóficos y religiosos — Rgveda · Atharvaveda · Brhadáranyaka,\n          Kena, Katha, Mandükya y Chándogya [ilegible] Upanishad ·\n          Bhagavadgjtá · Prajñápáramitráhrdayasütra · Shálistamba Sútra ·\n          Mülamadhamikakárikás de Nágárjuna · Yogasütras de Patañjali\n       b. literarios, épica y lírica — Mahábhárata · Buddhacarita de\n          Asvaghosa · Gitagovinda de Jayadeva · NItifataka y Srúgárasataka\n          de Bhartrhari\n       c. legales y científicos — Mánava-dharma-sástra · Ápastamba Sútra ·\n          Caturádhyáyiká de Gaunaka (Atharva Veda Piátéákhya) ·\n          Su fruta Samhitá\n       todos «(fragmentos)», salvo dos: el Prajñápáramitráhrdayasütra y los Yogasütras de Patañjali",
+        "foot": "Los nombres de las fuentes van como el programa los imprime, con su propia transcripción de vocales largas por acento agudo; solo se juntan los espacios que el escaneo insertó. «Chándogya í^mAAaúffragrnentos)» queda ilegible después de «Chándogya» y no se completa. Los objetivos específicos declarados: traducir un texto original en védico o sánscrito clásico, fundamentar la traducción con un análisis minucioso de sus elementos fonéticos y morfológico-sintácticos, e interpretarlo a la luz de su contexto cultural."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sanscrito.sanscrito-y-linguistica-indoeuropea",
+          "name": "El sánscrito y la lingüística indo-europea · el descubrimiento, la familia, la rama indo-irania",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.oralidad-y-escritura",
+          "name": "Oralidad y escritura · bráhmí, kharosthí, devanágari",
+          "role": "Unidad II · II.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.gramatica",
+          "name": "Gramática · fonética y fonología, morfología, sintaxis",
+          "role": "Unidad II · II.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.clasico-y-vedico",
+          "name": "Diferencias principales entre el sánscrito clásico y el védico",
+          "role": "Unidad II · II.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.textos-y-contextos",
+          "name": "Textos y contextos · filosóficos y religiosos, literarios, legales y científicos",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · las obras de volumen, por tramo",
+      "title": "El aparato de lectura",
+      "note": "Las doce obras de volumen que el programa lista en sus bloques obligatorios —«Bibliografía especial (obligatoria)», «Bibliografía obligatoria» y «Libro de cátedra»—, tramo por tramo. La Unidad II.1 no aporta ninguna: sus tres entradas obligatorias son artículos y capítulos. No se dibujan los bloques complementarios de ninguna unidad, ni las traducciones de la «Bibliografía general» de la Unidad III, ni las Fuentes sánscritas, ni los artículos y capítulos de los bloques obligatorios. Los datos van como el programa los imprime, salvo el ruido de reconocimiento óptico normalizado según las clases declaradas en el encuadre; donde la forma impresa se aparta visiblemente, se anota. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-clackson-indo-european-linguistics",
+          "name": "Indo-European Linguistics. An Introduction — J. Clackson (Cambridge, University Press, 2007)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-mallory-adams-oxford-introduction",
+          "name": "The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World — J. P. Mallory y D. Q. Adams (Oxford, University Press, 2006)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-misra-aryan-problem",
+          "name": "The Aryan Problem. A Linguistic Approach — S. Misra (New Delhi, Munshiram Manoharlal, 1992) · el escaneo imprime «The Arycm Problem», «New Deihi», «Munsbiram»",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-szemerenyi-linguistica-comparativa",
+          "name": "Introducción a la Lingüística Comparativa — O. Szemerényi (Madrid, Gredos, 1978) · obligatorios el Cap. 1 «Introducción» (16-31) y el Cap. 3 «Tareas de la Lingüística Indoeuropea» (51-54)",
+          "role": "Unidad I · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-nueva-gramatica-sanscrita",
+          "name": "Nueva gramática elemental de la lengua sánscrita — Rosalía C. Vofchuk, corregida por Gabriela Müller (Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2016)",
+          "role": "Unidad II · II.2 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-introduccion-sanscrito-clasico",
+          "name": "Introducción al sánscrito clásico — Rosalía C. Vofchuk (Buenos Aires, Colihue) · el programa la da «(En prensa)» en 2017",
+          "role": "Unidad II · II.2 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-introduccion-al-vedico",
+          "name": "Introducción al védico — Rosalía C. Vofchuk (Facultad de Filosofía y Letras, Universidad de Buenos Aires) · el programa la da «(en prensa)» en 2017",
+          "role": "Unidad II · II.3 · libro de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-gramatica-elemental-vedico",
+          "name": "Gramática elemental del védico — Rosalía C. Vofchuk (Facultad de Filosofía y Letras, Universidad de Buenos Aires) · el programa la anuncia «(a publicar en 2017)»",
+          "role": "Unidad II · II.3 · libro de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-muller-textos-literarios-filosofico-religiosos",
+          "name": "Textos Literarios y Filosófico-religioso de la India antigua (Segunda parte) — Rosalía C. Vofchuk y Gabriela Müller (Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2015) · título impreso así, «Filosófico-religioso» en singular",
+          "role": "Unidad III · obligatoria · ficha de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-mujer-india-antigua-primera-parte",
+          "name": "La Mujer en la India Antigua (Primera parte) — Rosalía C. Vofchuk, Gabriela Müller, Miranda Trinchen, Guadalupe Alfaro, Ignacio Aragües, Zara Benaventos, Vanesa Cuccia, Gabriel Martino y María Luz Pedace (Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2011) · el apellido sale «Trinchen» acá y «Trincheri» en la Segunda parte",
+          "role": "Unidad III · obligatoria · ficha de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-muller-martino-textos-filosoficos",
+          "name": "Textos filosóficos de la India Antigua — Rosalía C. Vofchuk, Gabriela Müller y Gabriel Martino (Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2014)",
+          "role": "Unidad III · obligatoria · ficha de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.sanscrito.libro-vofchuk-mujer-india-antigua-segunda-parte",
+          "name": "La Mujer en la India Antigua (Segunda parte) — Rosalía C. Vofchuk, Gabriela Müller, Miranda Trincheri, Guadalupe Alfaro, Ignacio Aragües y María Luz Pedace (Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2014)",
+          "role": "Unidad III · obligatoria · ficha de cátedra",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "FILO:Digital (repositorio.filo.uba.ar) · Sánscrito, Programa N° 0597, anual 2017 — Rosalía Clara Vofchuk, Departamento de Lenguas y Literaturas Clásicas, FFyL-UBA. Registro filodigital/10585; el PDF es un escaneo y su sello de aprobación llega ilegible — el número «Res. N° 1069/17» proviene de los metadatos del registro. Último programa localizable de la materia: el sitio de la carrera de Letras no publica ninguno.",
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/be065762-52a8-4a34-a915-7401f1e2a7d8/content"
+  },
+  "sources": [
+    {
+      "label": "FILO:Digital · registro filodigital/10585 — «Sánscrito», dc.date.issued 2017, dc.date.accessioned 2019-04-05, creadora Vofchuk, Rosalía Clara; resumen «Anual · Materia · Programa N°0597 · Aprobado Resolución N°1069/17»; editor «Universidad de Buenos Aires. Facultad de Filosofía y Letras. Departamento de Lenguas y Literatura Clásicas.». EXTRAÍDO: es la base de este nodo.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/10585"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/3944 — «Sánscrito», dc.date.issued 2016, creadora Vofchuk; resumen «Anual · Materia · Programa N° 0597 · Aprobado Resolución N° 3527/15». Edición anterior del mismo programa, verificada por metadatos y NO extraída.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/3944"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/15959 — «Sánscrito», dc.date.issued 2015, creadora Vofchuk; resumen «Anual · Materia · Programa N° 0597 · Aprobado Resolución N° 1636/15». Edición anterior del mismo programa, verificada por metadatos y NO extraída.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/15959"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/15139 — «Lectura y análisis de textos en sánscrito», dc.date.issued 2021, creadora Vofchuk; resumen «Segundo Cuatrimestre · Materia · Programa N° 05004 · Aprobado Resolución N° 732/20». OTRA materia: otro título, otro número de programa, régimen cuatrimestral. Registrada como observación, no extraída y no dibujada acá.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/15139"
+    },
+    {
+      "label": "letras.filo.uba.ar · «Orientación en Letras Clásicas» — lista Sánscrito entre las siete materias («Epigrafía, Latín Posclásico, Lengua y Cultura Griegas V, Lengua y Cultura Latinas V, Paleografía, Papirología, Sánscrito») de las que hay que cursar dos como electivas de la Orientación y marca «(anual)» a Filología Latina y Filología Griega pero no a Sánscrito. No publica programa.",
+      "url": "https://letras.filo.uba.ar/orientaci%C3%B3n-letras-cl%C3%A1sicas"
+    },
+    {
+      "label": "letras.filo.uba.ar · «plan de estudios versión antigua» — lista Sánscrito entre las materias electivas que dicta el Departamento de Lenguas y Literaturas Clásicas. No publica programa. Junto con la página anterior son los dos únicos resultados de la búsqueda del sitio por «sánscrito».",
+      "url": "https://letras.filo.uba.ar/plan-de-estudios-versi%C3%B3n-antigua"
+    },
+    {
+      "label": "letras.filo.uba.ar · Plan de Estudios 2023 (Res. ACS-2023-58) — origen de la ubicación de la materia en el área de Letras Clásicas de la carrera de Letras y de su régimen cuatrimestral; citado en el nodo padre uba.ffyl.letras, no en este programa.",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf"
+    }
+  ]
+}

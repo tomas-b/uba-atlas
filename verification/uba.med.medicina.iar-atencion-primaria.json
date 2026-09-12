@@ -1,0 +1,18 @@
+{
+  "address": "uba.med.medicina.iar-atencion-primaria",
+  "wave": "medicina-iar-cierre",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "books_total": 0,
+  "books_found": 0,
+  "units_total": 33,
+  "units_found": 33,
+  "not_found": [
+    "Régimen chip subtitle 'según la norma' — the 4 semanas comes from the guía vigente, not the reglamento; repaired to 'según la fuente' (the wording Salud Mental's equivalent chip already uses)."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Cleanest of the six otherwise: 12 competencias with the lone B and lone C exactly where the source has them (L915-953) — precisely where smoothing would fabricate; 21 patologías = L960-995; the no-own-procedures remit quoted correctly (L929-937); all four per-source names present and correctly attributed (plan med-plan-2861.txt L201, programa, reglamento 'APS', guía 'Centro de Salud'); cátedra sentence verified live on two separate fmed pages."
+}

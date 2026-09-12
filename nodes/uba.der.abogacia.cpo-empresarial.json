@@ -1,0 +1,119 @@
+{
+  "address": "uba.der.abogacia.cpo-empresarial",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L1",
+  "metadata": {
+    "ciclo": "CPO",
+    "orientacion": "Derecho Empresarial",
+    "numeralEnElPlan": "4",
+    "departamento": "Derecho Económico y Empresarial",
+    "puntosOrientacion": 20,
+    "puntosPrincipales": 12,
+    "puntosDerivados": 8,
+    "puntosTotalesCPO": 69,
+    "cursosPrincipalesEnElPlan": 5,
+    "correlatividad": "Cursos principales y derivados de las orientaciones en Derecho Empresarial y en Derecho Tributario: correlativas 22 y 24 —Sociedades Civiles y Comerciales y Finanzas Públicas y Derecho Tributario—.",
+    "electivosEnumerados": false,
+    "ofertaSnapshot": "Departamento de Derecho Económico y Empresarial, oferta 1C 2025: 66 cursos distintos en 178 comisiones — dato fechado, no estructura"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.der",
+      "label": "Derecho"
+    },
+    {
+      "address": "uba.der.abogacia",
+      "label": "Abogacía"
+    },
+    {
+      "address": "uba.der.abogacia.cpo-empresarial",
+      "label": "CPO · Der. Empresarial"
+    }
+  ],
+  "eyebrow": "CPO · Orientación en Derecho Empresarial · Abogacía",
+  "title": "La única orientación que el Texto Ordenado 2023 rehizo.",
+  "lede": "Bajo el Texto Ordenado 2018 —la fuente de este nodo— los doce puntos principales de Derecho Empresarial se arman con dos cursos obligatorios, Institutos de Derecho de la Navegación por Agua y por Aire y Derecho de los Recursos Naturales y Protección del Medio Ambiente, más uno a elegir entre Contratación mercantil, Títulos de crédito, mercado financiero y de capitales, y Propiedad industrial, mercado y derecho de la competencia. Los derivados también quedan atados a esa elección: cuatro de los ocho puntos deben caer en temáticas de los dos cursos principales no cursados, dos y dos. El Texto Ordenado 2023 cambia exactamente este bloque, y es el único bloque de orientación que cambia.",
+  "meta": [
+    {
+      "k": "Orientación",
+      "v": "20 pts",
+      "small": "12 principales + 8 derivados"
+    },
+    {
+      "k": "Principales",
+      "v": "5",
+      "small": "cursos nombrados por el plan"
+    },
+    {
+      "k": "Grounding",
+      "v": "L1",
+      "small": "plan oficial · sin programas de cátedra"
+    },
+    {
+      "k": "Ciclo",
+      "v": "CPO",
+      "small": "orientado"
+    }
+  ],
+  "frame": "Estructura sourceada del PDF citado: el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18, EXP-UBA 45.501/2018 —así lo rotula la propia página de la carrera en derecho.uba.ar—. Lo que este nodo dibuja es lo que el plan imprime para esta orientación: sus cursos principales con puntaje, carga horaria total y dedicación, la regla de sus cursos derivados y su correlatividad. Ningún puntaje ni hora se calcula ni se completa: los que no están en la fuente, no están aquí. El diff propio de ambos PDF: de las ocho entradas de orientación del CPO, ésta es la única que el T.O. 2023 reescribe. Allí queda un solo principal obligatorio —Navegación por Agua y por Aire—, se eligen DOS de los tres restantes, y Derecho de los Recursos Naturales y Protección del Medio Ambiente se muda fuera de la orientación: pasa a ser una asignatura obligatoria de 4 puntos para todas, en el Departamento de Derecho Económico y Empresarial. La regla de los derivados también se afloja: de 4 puntos repartidos dos y dos entre los dos principales no cursados, a «por lo menos DOS (2) puntos» vinculados al único principal no cursado. En el mismo movimiento el T.O. 2023 baja los puntos de libre elección de OCHO a CUATRO, y el total del CPO sigue siendo 69. El curso de Derecho Constitucional Profundizado que corresponde a esta orientación y los departamentos donde tomar los puntos de libre elección no salen del plan sino de la ficha «Organización curricular del CPO» de la misma página, y van atribuidos como tales. Nivel L1: el plan define la orientación y nombra sus cursos principales —eso es estructura real—, pero el CPO no tiene programas de cátedra alcanzables por curso, de modo que no se dibujan unidades ni bibliografía. La oferta concreta rota por cuatrimestre: los cursos derivados y electivos NO se enumeran como estructura. El único recuento que se declara es un snapshot fechado de la grilla del primer período lectivo 2025.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Cursos principales · 12 puntos",
+      "title": "Lo que el plan nombra",
+      "note": "Dos obligatorios de cuatro puntos más uno de cuatro a elegir entre tres. Los cinco llevan contenidos mínimos oficiales en el plan.",
+      "map": {
+        "mk": "Los principales, con su puntaje",
+        "tree": "DERECHO EMPRESARIAL · 12 puntos principales\n│\n├─ Institutos de Derecho de la Navegación por Agua y por Aire · 4 puntos · 54 h · cuatrimestral · obligatorio\n├─ Derecho de los Recursos Naturales y Protección del Medio Ambiente · 4 puntos · 54 h · cuatrimestral · obligatorio en el T.O. 2018\n├─ Contratación mercantil · 4 puntos · 54 h · cuatrimestral · uno de los tres\n├─ Títulos de crédito, mercado financiero y de capitales · 4 puntos · 54 h · cuatrimestral · uno de los tres\n└─ Propiedad industrial, mercado y derecho de la competencia · 4 puntos · 54 h · cuatrimestral · uno de los tres",
+        "foot": "Puntos, carga horaria total y dedicación tal como los imprime el Texto Ordenado 2018 (Res. CS N° 787/18)."
+      },
+      "exits": []
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Los otros 49 puntos · dónde entra esta orientación",
+      "title": "La orientación son 20 de 69",
+      "note": "De los ocho puntos derivados que se cursan en el Departamento dentro de la orientación, cuatro «deberán escogerse dentro de las temáticas vinculadas o relacionadas con los cursos principales no cursados por el alumno, repartiendo por lo menos, DOS (2) puntos en uno … y otros DOS (2) puntos en la otra». Los cursos concretos son de oferta variable y no se enumeran aquí. Los 4 puntos de Derecho Constitucional Profundizado se cursan, para esta orientación, en «Derecho Constitucional Económico» (ficha de organización curricular del CPO). Los 8 puntos de libre elección, en al menos dos departamentos distintos, se toman —según la misma ficha— entre los de Derecho Público, Derecho Privado, Derecho Penal y Criminología o Derecho del Trabajo y de la Seguridad Social. Cursos principales y derivados de las orientaciones en Derecho Empresarial y en Derecho Tributario: correlativas 22 y 24 —Sociedades Civiles y Comerciales y Finanzas Públicas y Derecho Tributario—. Las cinco asignaturas obligatorias para todas las orientaciones —Derecho Internacional Público (54 h), Sociedades Civiles y Comerciales (54 h), Derecho de Familia y Sucesiones (81 h), Finanzas Públicas y Derecho Tributario (54 h) y Derecho Internacional Privado (54 h)— no pertenecen a esta orientación: son del ciclo entero y se cursan igual se elija la que se elija.",
+      "map": {
+        "mk": "El reparto completo del CPO",
+        "tree": "CPO — 69 puntos (T.O. 2018)\n│\n├─ 20 · orientación elegida (12 principales + 8 derivados)\n├─ 19 · Departamento de Práctica Profesional\n├─ 8 · libre elección, en al menos dos departamentos\n├─ 6 · Departamento de Derecho Procesal y clínica jurídica\n├─ 4 · Derecho Constitucional Profundizado (Dpto. de Derecho Público)\n├─ 4 · Derecho de la Integración (Dpto. de Derecho Público)\n├─ 4 · Departamento de Ciencias Sociales\n└─ 4 · Departamento de Filosofía del Derecho\n\nMás las CINCO asignaturas obligatorias para todas las orientaciones\ny UN curso cuatrimestral de lecto-comprensión en lengua extranjera.",
+        "foot": "Reparto literal del T.O. 2018. El T.O. 2023 mueve dos piezas de este cuadro: la libre elección baja de 8 a 4 puntos y aparecen 4 puntos de Derecho de los Recursos Naturales y Protección del Ambiente obligatorios para todas las orientaciones; el total sigue siendo 69."
+      },
+      "exits": []
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "La oferta rota · snapshot 1C 2025",
+      "title": "Un cuatrimestre, contado y fechado",
+      "note": "En la grilla del primer período lectivo 2025 del CPO, el Departamento de Derecho Económico y Empresarial publica 66 cursos distintos en 178 comisiones (sobre los 638 códigos de curso distintos y 1.281 comisiones que trae esa grilla de la oferta del 1C 2025 —que no incluye la Práctica Profesional ni las cinco materias obligatorias del CPO—, publicados bajo ocho encabezados «DEPARTAMENTO DE» y dos «ORIENTACIÓN EN», la de Derecho Notarial, Registral e Inmobiliario y la de Derecho Tributario). Los cinco cursos principales del T.O. 2018 figuran en ese snapshot con esos mismos nombres. Este recuento es un dato de un cuatrimestre, no estructura del plan: por eso ninguno de esos cursos se dibuja como nodo.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · «Orientaciones del Ciclo Profesional Orientado»",
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf"
+  },
+  "sources": [
+    {
+      "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado a la vez «Plan de Estudio de la Carrera de Abogacía 2004» y «Texto Ordenado 2018 - Resolución (CS) N° 787/18»; la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23» y la ficha «Organización curricular del CPO (orientaciones)», y advierte que «aquellos que hayan ingresado desde el 2024 en adelante deben guiarse por la organización curricular modificada por la resolución 818/2023».",
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php"
+    },
+    {
+      "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024 para los estudiantes que habiendo aprobado el Ciclo Básico Común ingresen en la Facultad de Derecho a partir de enero de 2024», y que quienes cursan bajo el 787/18 «dispondrán hasta la finalización del ciclo lectivo 2028». EXTRAÍDO y diffeado contra el T.O. 2018 sobre el bloque de esta orientación: es el único bloque de orientación que cambia. En el T.O. 2023 queda UN solo curso principal obligatorio —Institutos de Derecho de la Navegación por Agua y por Aire— y el estudiante elige DOS de los otros tres; Derecho de los Recursos Naturales y Protección del Medio Ambiente sale de la orientación y pasa a ser asignatura obligatoria de 4 puntos para todas las orientaciones, en el Departamento de Derecho Económico y Empresarial, junto con sus contenidos mínimos; y la regla de los derivados baja de cuatro puntos repartidos dos y dos a «por lo menos DOS (2) puntos … relacionadas con el curso principal no cursado».",
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf"
+    },
+    {
+      "label": "derecho.uba.ar · «PLAN 2004 — Ciclo Profesional Orientado (CPO)», la ficha que la página de la carrera enlaza como «Organización curricular del CPO (orientaciones)». EXTRAÍDO y verificado contra el PDF vivo (idéntico, carácter por carácter, a extract/out/abog-cpo.txt). De aquí —y no del plan— salen el curso de Derecho Constitucional Profundizado asignado a cada orientación y la lista de departamentos donde tomar los puntos de libre elección. Contradicción registrada: la ficha cuenta las horas en la escala anterior al T.O. 2018 —«cada punto corresponde a doce (12) horas de clase», «los cursos de cuarenta y ocho (48) horas otorgan cuatro (4) puntos»— mientras el plan citado fija TRECE HORAS Y MEDIA por punto y 54 horas por curso de cuatro puntos; los puntajes coinciden, las horas no. La ficha habla además de OCHO (8) puntos de libre elección, que el T.O. 2023 reduce a CUATRO (4).",
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/org_curr_cpo.pdf"
+    },
+    {
+      "label": "derecho.uba.ar · «Primer período lectivo 2025 — CPO», la grilla de cursos y comisiones que publica la Facultad. EXTRAÍDA y contada por el atlas: 638 códigos de curso distintos en 1.281 comisiones, publicados bajo ocho encabezados «DEPARTAMENTO DE» y dos «ORIENTACIÓN EN» (la de Derecho Notarial, Registral e Inmobiliario y la de Derecho Tributario). La grilla no incluye la Práctica Profesional ni las cinco materias obligatorias del CPO. Snapshot fechado, no estructura permanente: la oferta rota cuatrimestre a cuatrimestre. Los cinco cursos principales del T.O. 2018 figuran en ese snapshot con esos mismos nombres.",
+      "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_25_1S_1-Ab25s1T1/CPO_1S_1_25.pdf"
+    }
+  ]
+}

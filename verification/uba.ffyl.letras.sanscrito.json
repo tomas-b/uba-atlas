@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.letras.sanscrito",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 12, "books_found": 12,
+  "not_found": [
+    "'(fragmentos) salvo los Yogasütras' FALSE — TWO Fuentes lack it (also Prajñápáramitráhrdayasütra, src:282)",
+    "'cátedra aparece tres veces' FALSE — six occurrences on five lines (3 = Editorial Cátedra), and the enumeration counts the U-III header the node itself declares illegible: internal contradiction",
+    "'Bhagavadgítá' silently repairs the exact token ('Bhagavadgjtá') the frame's keep-list promised to conserve; j→í not among the declared pairs"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Counts hold both ways (3 unidades → 5 tramos; 12 books by block 4+0+2+2+4 with the U-II.1 zero confirmed; U-I's 8 quoted-title exclusions exactly match). Res. 1069/17 handling clean: stamp illegibility verified verbatim and every cross-attribution matches the DSpace record character-for-character incl. the no-space N°0597. All absence claims true (hora/correlativ/licenciatur = 0 hits). Anual-vs-cuatrimestral and carrera-name contradictions recorded. 2021 sibling kept as observation. Site status exact (2 hits, dated, neither a programa) — though the plan lists Sánscrito as one of SEVEN options for two slots, not 'una de las dos electivas' (sources[] label right, frame phrasing wrong), and the PROGRAMACIÓN-index evidence is vacuous (hub page names no materias). Normalization mostly disciplined ([ilegible] markers, frijunctivo kept, Trinchen/Trincheri annotated) with the Su fruta/Susruta inconsistency and a few undeclared pairs in excluded-entry prose. Fixes: the three not_found items + soften two phrasings."
+}

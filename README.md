@@ -3,8 +3,8 @@
 **A multi-agent pipeline that researches the real Universidad de Buenos Aires,
 writes a knowledge graph, and — the hard part — proves it didn't make anything up.**
 
-**Live artifact: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 606 nodes ·
-6,483 addresses · every one traced to a real document**
+**Live artifact: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 633 nodes ·
+6,997 addresses · every one traced to a real document**
 
 The interesting problem is not scraping a university. It is that **LLMs
 fabricate**, and at 5,000+ addresses no human can check them. So every wave of
@@ -56,16 +56,18 @@ flowchart TB
 | Clásicas w3 | a selection rule claiming a drawn volume was "the only one" — the verifier found 6 more qualifying volumes and a book the rule demanded but the researcher missed (drawn at wave close) |
 | Letras w4 | **the loop refuted its own orchestrator**: a node sealing Filología Latina as "no programa exists" was overturned by an absence-verifier that found 3 real programas in the repository — the node was re-grounded at L2 the same wave |
 | Full re-verify | the loop ran retroactively over every node built before it existed: **13 fabrications caught** — invented units with date ranges, a student repo passed off as a cátedra programa, an apunte authored from instructor names, bibliographies harvested from unrelated courses, a chronologically impossible correlativa — every one re-grounded from real sources or removed |
+| Letras w5 | a **contradictions register that itself fabricated**: the node's ledger of in-PDF contradictions invented one mention and inverted another — the verifier re-split it from the four real line hits. Plus an off-by-one cascade traced to a single entry skipped after a form-feed |
+| Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) and by diffing all eight orientation blocks across two texto-ordenado editions to prove the one claimed rewrite is the only one |
 
-**47 researchers + 50 verifiers over Letras alone. Verdicts: zero fabricated
-units, zero fabricated books, ~110 precision fixes.** Every verdict is committed
+**60 researchers + 63 verifiers over Letras alone. Verdicts: zero fabricated
+units, zero fabricated books, ~130 precision fixes.** Every verdict is committed
 in `verification/` — line-referenced refutation reports, one per node — and
 `extract/manifest.json` records each source's URL and extraction method.
 
 **And the audit trail ships with the artifact**: every verified node on the
 live site carries a *Verificación adversarial* panel (verdict badge, refuted
 claims, the verifier's full report), and
-[**/audit.html**](https://uba-atlas.vercel.app/audit.html) lists all 223
+[**/audit.html**](https://uba-atlas.vercel.app/audit.html) lists all 250
 verdicts — filterable down to the fabrications the loop caught. The output
 isn't just data — it's data with an audit trail you can browse.
 
@@ -74,8 +76,9 @@ isn't just data — it's data with an audit trail you can browse.
 | | |
 |---|---|
 | faculties at L1 | **13 / 13** — every career, ~2,640 courses verified against official sources |
-| Medicina at L2 | **38 / 44** courses with real topics + bibliography from syllabus PDFs |
-| Letras at L2 | **47 / 62** — four full research+verify waves (incl. all of Letras Clásicas) |
+| Medicina at L2 | **43 / 44** — incl. the 6 rotations of the Internado Anual Rotatorio, from the real per-rotation programa (the 44th is honestly L1: its source publishes no program) |
+| Letras at L2 | **62 / 62 — complete** — five full research+verify waves (incl. all of Letras Clásicas) |
+| Abogacía indexed | CPC + all **8 CPO orientation nodes** drawn literal from the texto ordenado, cross-checked against a live course-offer snapshot |
 | honest sealed nodes | **2** (no published source exists — so no node pretends) |
 | L2 courses verified | **100%** — every course node in the graph carries an adversarial verdict in `verification/` |
 | fabrications shipped | **0** |

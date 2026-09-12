@@ -1,0 +1,690 @@
+{
+  "address": "uba.ffyl.letras.literatura-alemana",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · PROMOCIÓN DIRECTA (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas (4 hs semanales de clases teóricas + 2 hs de clases prácticas = 6 hs semanales)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0510 (Plan 1985) · 15024 (Plan 2023)",
+    "tituloDelPrograma": "«FORMAS DE LA NARRATIVA BREVE EN LA LITERATURA ALEMANA. CRISIS Y CRÍTICA — impreso con comilla de apertura y sin comilla de cierre",
+    "catedra": "el programa no designa cátedra por letra ni por nombre: consigna «PROFESOR: VEDDA, MIGUEL» y va firmado «Dr. Miguel Vedda / Prof. titular plenario». La palabra «cátedra» aparece 8 veces en el PDF: una sola vez para referirse a la de esta materia («El equipo docente de esta cátedra opta por dictar un treinta por ciento (30%) en modalidad virtual»), tres en nombres de colecciones de la bibliografía («Fichas de cátedra», «Colección fichas de cátedra») y cuatro como el nombre de la editorial madrileña Cátedra",
+    "modalidad": "PRESENCIAL, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL · el equipo docente opta por dictar un 30% en modalidad virtual mediante actividades asincrónicas; con más de 350 estudiantes inscriptos las clases teóricas se dictan en forma virtual",
+    "equipoDocente": [
+      "VEDDA, MIGUEL (profesor · firma como Prof. titular plenario)",
+      "BURELLO, MARCELO G. (prof. adjunto)",
+      "SETTON, ROMÁN (JTP)",
+      "REARTE, JUAN (JTP)",
+      "FERRARI, MARIELA (JTP)",
+      "SALINAS, MARTÍN (JTP)",
+      "GARCÍA CHICOTE, FRANCISCO (JTP)",
+      "KOVAL, MARTÍN I. (JTP)",
+      "MARANDO, GUADALUPE (JTP)",
+      "PIVETTA, CAROLA (auxiliar docente de 1ª)"
+    ],
+    "areaSegunElPlan": "Área de Literaturas Extranjeras y Comparadas — dato del plan 2023 (ACS-2023-58) tomado del nodo padre uba.ffyl.letras, no del programa: este PDF no consigna área, ciclo ni correlatividades",
+    "unidades": 5,
+    "bibliografia": 79
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.literatura-alemana",
+      "label": "Literatura Alemana"
+    }
+  ],
+  "eyebrow": "Letras · Literatura Alemana · Vedda · 1º cuatrim. 2026",
+  "title": "La forma breve aparece donde algo se rompe.",
+  "lede": "Un corpus de narraciones breves de la literatura alemana moderna —novela corta, cuento maravilloso popular y artístico, novela corta de artista, narración histórica, cuento fantástico y de horror, cuento policial (Kriminalnovelle), caso policial (Kriminalfall)— leído contra sus contextos estéticos y sociohistóricos, para evidenciar las relaciones entre la emergencia de determinadas formas narrativas y las instancias de crisis: social, política, económica, religiosa, cultural, de lenguaje y de conciencia. Se entra por las teorías y poéticas del género —definición de la «épica breve», los rasgos que la caracterizan (intensidad, acontecimiento inaudito, punto de giro, el «motivo del halcón», caracterización paroxística, estructura antitética, Leitmotiv, Ding-Symbol, marco narrativo)— y se recorre después el siglo y medio que va de Goethe y Schiller a Ferdinand von Schirach: los Grimm y el Kunstmärchen, Hoffmann codificando el terror, el fantástico y el policial, Kleist, Brentano, la Restauración de Grillparzer, Tieck y Büchner, el realismo de Storm y Meyer, y el siglo XX de Schnitzler, Thomas Mann, Kafka, Ewers, Strobl, Anna Seghers y el Krimi contemporáneo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "narrativa breve"
+    }
+  ],
+  "frame": "Contenido real del programa de LITERATURA ALEMANA, Departamento de Letras (FFyL-UBA), cód. 0510 (Plan 1985) / 15024 (Plan 2023), Prof. Miguel Vedda, 1º cuatrimestre 2026, publicado en letras.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF, salvo el área, que se declara como dato cruzado. CÁTEDRA: el programa no designa ninguna cátedra por letra ni por nombre; consigna «PROFESOR: VEDDA, MIGUEL» y va firmado «Dr. Miguel Vedda / Prof. titular plenario». La palabra «cátedra» sí aparece en el PDF —ocho veces—: una sola para referirse a la de esta materia («El equipo docente de esta cátedra opta por dictar un treinta por ciento (30%) en modalidad virtual mediante actividades asincrónicas»), tres en nombres de colección de la bibliografía («Fichas de cátedra», «Colección fichas de cátedra») y cuatro como nombre de la editorial madrileña Cátedra. DATO CRUZADO: el encuadre del plan —Área de Literaturas Extranjeras y Comparadas— viene del plan 2023 (ACS-2023-58) tal como está asentado en el nodo padre uba.ffyl.letras, NO de este programa, que no consigna área, ciclo, correlatividades ni orientación. NORMATIVA CITADA POR EL PROGRAMA: REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). MODALIDAD: la portada declara «PRESENCIAL» y la sección e. agrega que el equipo docente opta por dictar el 30% en modalidad virtual asincrónica, y que con más de 350 estudiantes inscriptos las clases teóricas se dictan en forma virtual; las dos cosas están impresas y se registran juntas. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) Obra de Meyer: la lista de obras de la fundamentación anuncia «Conrad Ferdinand Meyer, ‹El amuleto›», mientras la Unidad 4 de los contenidos y la bibliografía obligatoria de esa unidad trabajan «La jueza»; la obra de Meyer «El amuleto» no vuelve a aparecer ni en los contenidos ni en la bibliografía (la palabra «amuleto» reaparece una sola vez en el PDF, dentro del título de un capítulo de Thomas Gräff sobre el romanticismo, ajeno a Meyer). (2) Ubicación de Schnitzler: «El teniente Gustl» figura en los contenidos de la Unidad 5 y su asiento bibliográfico está bajo la Unidad 4. (3) Nombre de pila de Lange: «Hartmut Lange» en la fundamentación y en la complementaria de la Unidad 5 (Freund), «Helmut Lange» en los contenidos de la Unidad 5 y en la bibliografía obligatoria. (4) Título de Halm: «Liese Mazapán» en la fundamentación y en la bibliografía, «Lisa Mazapán» en los contenidos de la Unidad 3. (5) Título de Schiller: «El criminal por culpa del honor perdido» en la fundamentación, «El delincuente por culpa del honor perdido» en la bibliografía. (6) Título de Goethe: «Conversaciones de emigrados alemanes» en la fundamentación, «Conversaciones de emigrantes alemanes» en los contenidos, «Conversación de emigrantes alemanes» en la bibliografía; y la pieza anunciada como «Novela corta» en la fundamentación y los contenidos aparece en la bibliografía como «Relato». (7) Título de Storm: «El jinete del corcel blanco» en la fundamentación y en los contenidos, «El jinete del caballo blanco» en la bibliografía. (8) Título de Brentano: «de la bella Annerl» en la fundamentación y los contenidos, «de la hermosa Annerl» en la bibliografía. (9) Volumen de Benjamin: el mismo libro de Planeta-Agostini, 1986 se imprime «Sobre el problema de la filosofía futura» en la obligatoria de la Unidad 1 y «Sobre el programa de la filosofía futura» en la complementaria de la Unidad 5. (10) Año de Lukács, El alma y las formas: 1982 en la obligatoria de la Unidad 4 y 1985 en la complementaria de la misma unidad, con idéntico capítulo y paginación (99-132). ERRATAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el título del programa abre comillas y no las cierra; en la Unidad 1 se lee «Formas mixtas: el cuento maravilloso artístico (Kunstmärchen), combinación entre cuento maravilloso y novela corta (Kunstmärchen)», con el mismo término alemán en las dos glosas; el apellido del autor de las dos Die deutsche Novelle se imprime «Kunf, Josef» y en el asiento siguiente «Kunz, Josef»; «PMLA (30 (1915)» abre dos paréntesis y cierra uno; «morbus pessimus» en la Unidad 3 y «morbusvpessimus» en la Unidad 4; «Barelona» dos veces en la complementaria de la Unidad 5 (Koppen, Reich-Ranicki); «Vom Wesen des Volkmärchens» (Lüthi); «Novela, cuento teatro: apogeo y crisis» (Rest), sin coma; «Emilio Estiú, El mundo estético de Goethe», con el nombre de pila primero y sin punto final; el asiento de Maier-Katkin cierra con dos puntos («pp. 90–108..»); Wiese, «La imagen del hombre en Heinrich von Kleist» aparece dos veces idéntico, en las complementarias de las Unidades 2 y 3. Ninguna se corrige. LO QUE EL PROGRAMA ANUNCIA Y NO ASIENTA: «El duelo», de Kleist, figura en la lista de obras y en los contenidos de la Unidad 2 pero no tiene asiento bibliográfico (de Kleist sólo se asienta «El terremoto en Chile»); las narraciones de artista de Franz Kafka figuran en la lista de prácticos y en los contenidos de la Unidad 5 sin ningún volumen de Kafka en la bibliografía (sólo estudios sobre él en la complementaria); «Muerte en Venecia» y «El pequeño señor Friedemann» se anuncian en la lista de obras y en los contenidos de la Unidad 5, y el único volumen de Thomas Mann asentado es «La voluntad de ser feliz y otros relatos» (Alba, 2001), sin que el programa diga si los contiene. El asiento de Freund, Novelle (Reclam, Stuttgart) no consigna año: se declara la falta en lugar de completarla. ESTRUCTURA: la sección a. Fundamentación anuncia el corpus repartido en «Teóricos» (14 obras) y «Prácticos» (6 obras); ese reparto no es la estructura de contenidos y no se dibuja. La sección c. Contenidos tiene cinco unidades numeradas, y son las cinco que se dibujan. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta: la sección d. Bibliografía obligatoria y complementaria tiene 117 asientos (U1: 3 + 17 · U2: 10 + 25 · U3: 5 + 11 · U4: 8 + 10 · U5: 7 + 21). Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, prólogo, introducción o comentario se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—. NO se dibujan los 17 asientos cuyo contenedor es una revista, un anuario o una tesis: Clements en Comparative Literature Studies y Mitchell en PMLA (U1); Burello en Revista de Filología Alemana, Burello en el Anuario Argentino de Germanística, Burello en Luthor y Probst en el Boletín del Instituto de Estudios Germánicos (U2); Lillyman en The German Quarterly (U3); Vedda en Revista de Filología Alemana, García Alonso en Cuadernos Hispanoamericanos, Hienger en Fragmente y Lukács en Inter Litteras (U4); Cohen en Monatshefte, Ferrari (tesis de doctorado, UBA, 2006), Maier-Katkin en The German Quarterly, Neumann en Arbitrium, Mizrahi en Cuadernos Hispanoamericanos y Robert en Eco (U5). Quedan 100 asientos con volumen, que al unificarse los repetidos dan 79 libros, y 79 son los que se dibujan. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen con pie editorial del programa queda fuera. Ningún asiento se descartó por ilegible: el PDF trae capa de texto y se extrajo entero (12 páginas). ARTEFACTO DE EXTRACCIÓN, no del original: en la sección e. el texto sale entrelazado con la caja de la tabla reglamentaria y la palabra «antes» queda partida («…de cada carrera a» + «ntes del inicio de la inscripción»); es un efecto del orden de lectura del PDF y no se le atribuye al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · programa «Formas de la narrativa breve en la literatura alemana. Crisis y crítica» (Vedda, 1º cuatrim. 2026)",
+      "title": "De la teoría del género al Krimi contemporáneo",
+      "note": "Las cinco unidades numeradas de la sección c. Contenidos, en orden.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "LITERATURA ALEMANA · cód. 0510 (Plan 1985) / 15024 (Plan 2023)\nVedda · 1º cuatrim. 2026 · 96 hs · PD\n│\n├─ 1 · Teorías y poéticas de la narración breve\n│      la «épica breve» · Novelle, Märchen, Legende, Sage, Anekdote,\n│      Kurzgeschichte · Wendepunkt, motivo del halcón, Ding-Symbol, Rahmen\n├─ 2 · Clasicismo de Weimar y Romanticismos\n│      Goethe y la Revolución Francesa · Schiller · los Grimm · Kunstmärchen\n│      Hoffmann · Kleist · Brentano\n├─ 3 · El período de la Restauración\n│      Grillparzer · Halm · Tieck · Büchner · alienación\n├─ 4 · La narrativa breve durante el período realista\n│      unificación alemana · Storm · Conrad Ferdinand Meyer\n└─ 5 · La literatura del siglo XX\n       Schnitzler · Thomas Mann · Kafka · Ewers y Strobl\n       Anna Seghers · Lange · Schirach",
+        "foot": "Recorrido único: el programa no consigna cátedras alternativas. El eje declarado —la relación entre la emergencia de formas narrativas breves y las instancias de crisis— atraviesa las cinco unidades."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.u1-teorias-y-poeticas-de-la-narracion-breve",
+          "name": "Teorías y poéticas de la narración breve",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.u2-clasicismo-de-weimar-y-romanticismos",
+          "name": "Clasicismo de Weimar y Romanticismos",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.u3-el-periodo-de-la-restauracion",
+          "name": "El período de la Restauración",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.u4-la-narrativa-breve-durante-el-periodo-realista",
+          "name": "La narrativa breve durante el período realista",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.u5-la-literatura-del-siglo-xx",
+          "name": "La literatura del siglo XX",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y complementaria del programa",
+      "title": "Lo que se lee",
+      "note": "Los 79 volúmenes con pie editorial de la sección d., por unidad. Un capítulo, prólogo o introducción se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 17 asientos de revista, anuario o tesis: quedan declarados uno por uno en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-benjamin-filosofia-futura",
+          "name": "Sobre el problema de la filosofía futura — W. Benjamin, trad. de Roberto J. Vernengo (Barcelona, Planeta-Agostini, 1986) · «El narrador», pp. 189-211 · el mismo volumen reaparece en la complementaria de la Unidad 5 impreso «Sobre el programa de la filosofía futura», con «Franz Kafka. En el décimo aniversario de su muerte», pp. 213-238",
+          "role": "obligatoria · U1 · + complementaria U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-rohland-vedda-teoria-y-critica-de-la-novela-corta",
+          "name": "Teoría y crítica de la novela corta — Regula Rohland de Langbehn y Miguel Vedda (comps.) (Buenos Aires, Facultad de Filosofía y Letras, UBA, «Fichas de cátedra», 2002)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-antologia-novela-corta-alemana",
+          "name": "Antología de la novela corta alemana. De Goethe a Kafka — F. Aren, S. Rotemberg y M. Vedda (eds.) (Buenos Aires, Colihue, 2001) · Miguel Vedda, «Elementos formales de la novela corta», pp. 5-24",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-aust-novelle",
+          "name": "Novelle — Hugo Aust (Stuttgart, Metzler, 2ª ed., 1995)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-todorov-theorie-de-la-litterature",
+          "name": "Théorie de la littérature. Textes des formalistes russes — T. Todorov (ed.) (París, Seuil, 1965) · V. Chklovski, «La construction de la nouvelle et du roman», pp. 170-196",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-jolles-las-formas-simples",
+          "name": "Las formas simples — A. Jolles, trad. de R. Kempf Titze (Santiago de Chile, Editorial Universitaria, 1972)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-klein-geschichte-der-deutschen-novelle",
+          "name": "Geschichte der deutschen Novelle von Goethe bis zur Gegenwart — Johannes Klein (Wiesbaden, Franz Steiner, 1954)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-kramer-theorie-der-novelle",
+          "name": "Theorie der Novelle — Herbert Krämer (ed.) (Stuttgart, Philipp Reclam, 1976)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-kunz-novelle-siglo-xix",
+          "name": "Die deutsche Novelle im 19. Jahrhundert — Josef Kunf [así impreso] (Berlín, Erich Schmidt, 1970)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-kunz-novelle-siglo-xx",
+          "name": "Die deutsche Novelle im 20. Jahrhundert — Josef Kunf [así impreso] (Berlín, Erich Schmidt, 1970)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-kunz-novelle",
+          "name": "Novelle — Josef Kunz (ed.) (Darmstadt, WBG, 1973)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lockemann-gestalt-und-wandlungen",
+          "name": "Gestalt und Wandlungen der deutschen Novelle. Geschichte einer literarischen Gattung im neunzehnten und zwanzigsten Jahrhundert — Fritz Lockemann (Múnich, Max Hueber, 1957)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lukacs-realistas-alemanes",
+          "name": "Realistas alemanes del siglo XIX — Georg Lukács, trad. de Jacobo Muñoz (Barcelona / México, Grijalbo, 1970) · «Gottfried Keller», pp. 159-253 (U1); «La tragedia de Heinrich von Kleist», pp. 15-48 (U2)",
+          "role": "complementaria · U1 y U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-paine-theory-and-criticism-of-the-novella",
+          "name": "Theory and Criticism of the Novella — J. H. E. Paine (Bonn, Bouvier, 1979)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-pouillon-tiempo-y-novela",
+          "name": "Tiempo y novela — J. Pouillon (Buenos Aires, Paidós, «Letras mayúsculas», 1968)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-rest-novela-cuento-teatro",
+          "name": "Novela, cuento teatro: apogeo y crisis [así impreso] — Jaime Rest (Buenos Aires, CEAL, 1971)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-wiese-die-deutsche-novelle",
+          "name": "Die deutsche Novelle von Goethe bis Kafka — Benno von Wiese, 2 vols. (Düsseldorf, August Bagel, 1956)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-wiese-novelle",
+          "name": "Novelle — Benno von Wiese (Stuttgart, Metzler, 8ª ed. revisada, 1982)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-cuentos-romanticos-alemanes",
+          "name": "Cuentos románticos alemanes — VV.AA., selección y prólogo de Hugo von Hofmannsthal (Madrid, Siruela, 1992) · Brentano, «Historia del valiente Kasperl y de la hermosa Annerl», pp. 451-472; Goethe, «Relato», pp. 17-32; Kleist, «El terremoto en Chile», pp. 33-44 (U2); Grillparzer, «El pobre músico», pp. 531-559 (U3)",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-goethe-narrativa",
+          "name": "Narrativa. Los sufrimientos del joven Werther. Los años de aprendizaje de Wilhelm Meister. Conversaciones de emigrantes alemanes. Las afinidades electivas. Los años itinerantes de Wilhelm Meister — J. W. von Goethe, versiones de Marisa Siguan y Eduardo Aznar, Miguel Salmerón y Helena Cortés (Madrid, Espasa Calpe / Córdoba, Almuzara, 2006) · «Conversación de emigrantes alemanes»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-grimm-cuentos",
+          "name": "Cuentos — Jakob y Wilhelm Grimm, trad. de Ma. Teresa Zurdo (Madrid, Cátedra, 1999) · contiene la «Introducción» de María Teresa Zurdo, pp. 11-80",
+          "role": "obligatoria · U2 · + complementaria U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-hoffmann-nocturnos",
+          "name": "Nocturnos — E. T. A. Hoffmann, trad. de Isabel Hernández (Barcelona, Alba, 2009) · «El hombre de la arena», pp. 17-56",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-hoffmann-cuentos",
+          "name": "Cuentos — E. T. A. Hoffmann, trad. de Celia y Rafael Lupiani (Madrid, Cátedra, 2014) · «La señorita de Scuderi (Un relato de los tiempos de Luis XIV)», pp. 1211-1270",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-schiller-narraciones-completas",
+          "name": "Narraciones completas — Friedrich Schiller, trad. de Isabel Hernández (Barcelona, Alba, 2005) · «El delincuente por culpa del honor perdido», pp. 77-108",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-cuentos-de-crimen-y-misterio",
+          "name": "Cuentos de crimen y misterio — VV.AA., selección, introducción, traducción y notas de Miguel Vedda (Buenos Aires, Editorial Biblos / UNSAM, 2009) · contiene Halm, «Liese Mazapán» (U3) y Vedda, «Anatomía del crimen y el misterio. Caracterización de la narrativa policial alemana»",
+          "role": "obligatoria · U2 y U3 · + complementaria U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-vedda-leer-a-goethe",
+          "name": "Leer a Goethe — Miguel Vedda (Buenos Aires, Biblioteca Nacional / Quadrata, 2015)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-beguin-alma-romantica",
+          "name": "El alma romántica y el sueño — Albert Béguin (México, FCE; el programa imprime 1954 en la complementaria de la U2 y 1996, trad. de Mario Monteforte Toledo, en la de la U3) · «Selene», pp. 271-296; «El lirio y la serpiente», pp. 364-382",
+          "role": "complementaria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-antologia-romanticismo-aleman",
+          "name": "Antología de estudios críticos sobre el romanticismo alemán — R. Rohland de Langbehn y M. Vedda (Colección fichas de cátedra, Buenos Aires, UBA, Facultad de Filosofía y Letras, 2003) · E. K. Bennett, «La novela corta metafísica: Kleist», pp. 17-22; Thomas Gräff, «Aspectos metafísicos: azar-destino-gitana-amuleto», pp. 23-27, ambos en traducción de Román Setton",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-benjamin-dos-ensayos-sobre-goethe",
+          "name": "Dos ensayos sobre Goethe — Walter Benjamin, trad. de Graciela Calderón y Griselda Mársico (Barcelona, Gedisa, 1996)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-bettelheim-psicoanalisis-cuentos-de-hadas",
+          "name": "Psicoanálisis de los cuentos de hadas — Bruno Bettelheim (Barcelona, Crítica, 2006)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-bravo-villasante-hoffmann",
+          "name": "El alucinante mundo de E. T. A. Hoffmann — Carmen Bravo-Villasante (Madrid, Nostromo, 1973)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-estiu-mundo-estetico-de-goethe",
+          "name": "El mundo estético de Goethe — Emilio Estiú [así impreso, con el nombre de pila primero] (La Plata, Escuela Superior de Lenguas Vivas, 1950)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-freud-obras-completas-xvii",
+          "name": "Obras Completas, t. XVII — Sigmund Freud (Buenos Aires, Amorrortu, 1996, 9ª ed.) · «Lo ominoso»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-raposo-kleist-crisis-y-modernidad",
+          "name": "Heinrich von Kleist: crisis y modernidad — B. Raposo et al. (eds.) (Valencia, Universitat de Valencia, 2013) · Jordi Jané, «El derecho natural en la obra de Kleist», pp. 15-22",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-luthi-es-war-einmal",
+          "name": "Es war einmal. Vom Wesen des Volkmärchens [así impreso] — M. Lüthi (Göttingen, Vandenhoeck & Ruprecht, 4ª ed. revisada, 1973)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lukacs-goethe-y-su-epoca",
+          "name": "Goethe y su época. Precedido de «Minna von Barnhelm» — Georg Lukács, trad. de Manuel Sacristán (Barcelona / México, Grijalbo, 1968) · contiene «La teoría schilleriana de la literatura»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-moldenhauer-homenaje-a-kleist",
+          "name": "Homenaje a Heinrich von Kleist — G. Moldenhauer (ed.) (Rosario, U. N. del Litoral, 1964) · Benno von Wiese, «La imagen del hombre en Heinrich von Kleist», pp. 31-52 (asentado dos veces, en las complementarias de U2 y U3)",
+          "role": "complementaria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-pape-arnim-und-die-berliner-romantik",
+          "name": "Arnim und die Berliner Romantik: Kunst, Literatur und Politik — Walter Pape (Tubinga, Niemeyer, 2001)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-rolleke-grimms-marchen",
+          "name": "Grimms Märchen — J. y W. Grimm, ed. de H. Rölleke (Frankfurt/M, Deutscher Klassiker, 2007) · Heinz Rölleke, «Kommentar», pp. 1149ss.",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-rolleke-die-marchen-der-bruder-grimm",
+          "name": "Die Märchen der Brüder Grimm. Eine Einführung — Heinz Rölleke (Múnich / Zúrich, Arthemis, 1986)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-wellek-historia-de-la-critica-moderna",
+          "name": "Historia de la crítica moderna (1750-1950) — René Wellek (Madrid, Gredos) · «Arnim y Kleist», v. 2, 1984, pp. 323-326 (U2); «Goethe (1749-1832)», vol. I, 1965, trad. de J. C. Cayol de Bethencourt, pp. 233-261 (U3)",
+          "role": "complementaria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-buchner-obras-completas",
+          "name": "Obras Completas — Georg Büchner, trad. de C. Gauger (Madrid, Trotta, 1992) · «Lenz», pp. 135-156",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-vedda-el-realismo-en-la-literatura-alemana",
+          "name": "El realismo en la literatura alemana. Nuevas interpretaciones — Miguel Vedda (comp.) (Buenos Aires, Editorial de la Facultad de Filosofía y Letras, UBA, 2011) · Werner Jung, «Vormärz y Biedermeier. Realismo y época de la fundación del Imperio» (obligatoria U3); M. G. Burello, «Un estudio patológico con forma épica. Lenz, de Georg Büchner» y Mariela Ferrari, «Necesarias transiciones identitarias… ‹Las cosas superfluas de la vida›, de Ludwig Tieck» (complementaria U3); Carola Pivetta, «La narrativa de crímenes de Theodor Storm», pp. 281-302 (complementaria U4)",
+          "role": "obligatoria · U3 · + complementaria U3 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-brugger-cuentos-alemanes-siglo-xix",
+          "name": "Cuentos alemanes del siglo XIX — Ilse M. de Brugger (ed. y trad.) (Buenos Aires, Corregidor, 1977) · Ludwig Tieck, «Las cosas superfluas de la vida», pp. 65-112",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-canetti-la-conciencia-de-las-palabras",
+          "name": "La conciencia de las palabras — Elias Canetti (México, FCE, 1981) · «Georg Büchner»",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lukacs-dos-siglos-de-literatura-alemana",
+          "name": "Dos siglos de literatura alemana — Georg Lukács (Barcelona, Grijalbo, 1970) · «El auténtico Georg Büchner y el falsificado por el fascismo»",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lutzeler-romane-und-erzahlungen",
+          "name": "Romane und Erzählungen zwischen Romantik und Realismus — Paul Michael Lützeler (ed.) (Stuttgart, Reclam, 1983) · Ingrid Oesterle, «Ludwig Tieck. Des Lebens Überfluß», pp. 231-267",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-ciordia-vedda-placeres-de-la-melancolia",
+          "name": "Placeres de la melancolía. Reflexiones sobre literatura y tristeza — Martín José Ciordia y Miguel Vedda (comps.) (Buenos Aires, Gorla / DAAD, 2014) · Miguel Vedda, «Bilis atra, morbus pessimus. Melancolía y sociedad en novelas cortas alemanas del Biedermeier», pp. 53-73 (asentado en las complementarias de U3 y U4; en la U4 el título se imprime «morbusvpessimus»)",
+          "role": "complementaria · U3 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lukacs-el-alma-y-las-formas",
+          "name": "El alma y las formas — Georg Lukács, trad. de M. Sacristán (Barcelona, Grijalbo; el programa imprime 1982 en la obligatoria de la U4 y 1985 en la complementaria de la misma unidad) · «Espíritu burgués y l'art pour l'art (Theodor Storm)», pp. 99-132",
+          "role": "obligatoria · U4 · + complementaria U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-meyer-el-disparo-desde-el-pulpito",
+          "name": "El disparo desde el púlpito. La jueza — Conrad Ferdinand Meyer, ed. al cuidado de Carola Pivetta y Miguel Vedda, introd. de Miguel Vedda, trads. de Alfredo Bauer y Carola Pivetta (Buenos Aires, Gorla, 2014) · «La jueza», pp. 91-158; Miguel Vedda, «Las pesadillas de la razón. Crimen, justicia y comunidad en la narrativa breve de Conrad Ferdinand Meyer», pp. 5-35",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-schnitzler-el-teniente-gustl",
+          "name": "El teniente Gustl, etc. — Arthur Schnitzler, ed. y trad. de M. A. Vega (Madrid, Cátedra, 1995) · «El teniente Gustl», pp. 97-130",
+          "role": "obligatoria · U4 (los contenidos lo tratan en la U5)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-storm-el-jinete-del-caballo-blanco",
+          "name": "El jinete del caballo blanco — Th. Storm, trad. de Julio Pintado (Madrid, Valdemar, 1994) · la fundamentación y los contenidos lo llaman «El jinete del corcel blanco»",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-storm-un-doble",
+          "name": "Un doble y otras novelas cortas — Th. Storm, selección, introducción, traducción y notas de Miguel Vedda (Buenos Aires, Gorla, 2007) · «Introducción», pp. 5-57",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-bollenbeck-theodor-storm",
+          "name": "Theodor Storm — G. Bollenbeck (Frankfurt a/M, Insel, 1988)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-bloch-literarische-aufsatze",
+          "name": "Literarische Aufsätze — Ernst Bloch (Frankfurt/M, Suhrkamp, 1965) · «Das Wirtshaus im Spessart»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-actas-xv-jornadas-aag",
+          "name": "Actas de las XV Jornadas Nacionales de Literaturas en Lengua Alemana. 200º aniversario del Fausto I, de J. W. Goethe (Buenos Aires, AAG, 2009) · Martín Salinas, «La materia fáustica en Theodor Storm. Acerca de ‹El titiritero polaco› y ‹El jinete del caballo blanco›», pp. 165-172",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-schorske-viena-fin-de-siecle",
+          "name": "Viena fin-de-siècle. Política y cultura — Carl Schorske (Barcelona, Gustavo Gili, 1981) · «Política y Psique. Schnitzler y Hofmannsthal» y «La transformación del jardín»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-vega-arthur-schnitzler",
+          "name": "Arthur Schnitzler: Aspectos Socioliterarios de su Obra — Miguel Ángel Vega (Madrid, Univ. Complutense, 1985)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-cuentos-aracnofobicos",
+          "name": "Cuentos aracnofóbicos — VV.AA., sin datos de traductor (La Plata, Terramar, 2005) · Hanns Heinz Ewers, «La araña», pp. 117-140",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lange-el-concierto",
+          "name": "El concierto — Helmut Lange, trad. de Pilar Giralt Gorina (Barcelona, Seix Barral, 1986) · la fundamentación y la complementaria imprimen «Hartmut Lange»",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-lukacs-thomas-mann",
+          "name": "Thomas Mann — Georg Lukács, trad. de Jacobo Muñoz (Barcelona, Grijalbo, 1969)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-mann-la-voluntad-de-ser-feliz",
+          "name": "La voluntad de ser feliz y otros relatos — Thomas Mann, trad. de Rosa Sala Rose (Barcelona, Alba, 2001)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-schirach-crimenes",
+          "name": "Crímenes — Ferdinand von Schirach, trad. de Juan de Sola (Buenos Aires, ediciones Salamandra, 2011)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-seghers-historias-de-mujeres",
+          "name": "Historias de mujeres — Anna Seghers, trad. de Martina Fernández Polcuch (Buenos Aires, Sudamericana, 2004) · «La excursión de las muchachas muertas», pp. 70-97",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-strobl-lemuria",
+          "name": "Lemuria. Cuentos extraños y malditos — Karl Hans Strobl, trad. de José Rafael Hernández Arias (Madrid, Valdemar, 2016) · «El mausoleo en Père Lachaise»",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-adorno-critica-cultural-y-sociedad",
+          "name": "Crítica cultural y sociedad — Th. Adorno, trad. de M. Sacristán (Barcelona, Ariel, 1970) · «Apuntes sobre Kafka», pp. 131-173",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-spalek-bell-exile",
+          "name": "Exile: The Writer's Experience — John M. Spalek y Robert Bell (eds.), vol. 99 (University of North Carolina Press, 1982) · Susan E. Cernyak, «Anna Seghers: Between Judaism and Communism», pp. 278-285",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-dujovne-thomas-mann",
+          "name": "Thomas Mann. Las ideas y los seres en su obra — Leon Dujovne (Buenos Aires, El ateneo, 1946)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-fischer-literatura-y-crisis",
+          "name": "Literatura y crisis de la civilización europea: Karl Kraus, Robert Musil, y Franz Kafka — Ernst Fischer (Barcelona, Icaria, 1977)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-fleischmann-thomas-bernhard",
+          "name": "Thomas Bernhard: Un encuentro. Conversaciones — Krista Fleischmann, trad. de M. Sáenz (Barcelona, Tusquets, 1998)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-freund-novelle",
+          "name": "Novelle — Winfried Freund (Stuttgart, Reclam; el programa no consigna año) · «Hartmut Lange», pp. 307-309",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-marven-short-story-in-german",
+          "name": "The Short Story in German in the Twenty-First Century — Lyn Marven y otros (eds.) (Boydell & Brewer, 2020) · Todd Herzog, «The German Crime Story in the Twenty-First Century»",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-hopenhayn-por-que-kafka",
+          "name": "¿Por qué Kafka? Poder, mala conciencia y literatura — Martín Hopenhayn (Buenos Aires, Paidós, 1983)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-koppen-thomas-mann-y-don-quijote",
+          "name": "Thomas Mann y Don Quijote. Ensayos de literatura comparada — Erwin Koppen, trad. de R. de la Vega (Barelona [así impreso], Gedisa, 1990)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-mayer-literatura-alemana-desde-thomas-mann",
+          "name": "La literatura alemana desde Thomas Mann — Hans Mayer (Madrid, Alianza, 1970)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-reich-ranicki-thomas-mann-y-los-suyos",
+          "name": "Thomas Mann y los suyos — Marcel Reich-Ranicki, trad. de A. Rossell (Barelona [así impreso], Tusquets, 1989)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-robert-kafka",
+          "name": "Kafka — Marthe Robert, trad. de C. A. Fayard (Buenos Aires, Paidós, 1969)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-scarpa-thomas-mann",
+          "name": "Thomas Mann. Una personalidad en una obra — Esteban Scarpa (Santiago de Chile, Centro de Investigaciones de Literatura Comparada, U. de Chile, 1961)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.literatura-alemana.libro-unlp-thomas-mann-homenaje",
+          "name": "Thomas Mann 1875/1975. Homenaje en su centenario — VV.AA. (La Plata, U. Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación, Departamento de Letras, 1975)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de LITERATURA ALEMANA, cód. 0510 (Plan 1985) / 15024 (Plan 2023), «Formas de la narrativa breve en la literatura alemana. Crisis y crítica», Prof. Miguel Vedda, 1º cuatrimestre 2026",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0510%20-%2015024%20LITERATURA%20ALEMANA%202026_0.pdf"
+  }
+}

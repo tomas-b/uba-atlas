@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.linguistica-diacronica",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6, "units_found": 6,
+  "books_total": 25, "books_found": 25,
+  "not_found": [
+    "'cátedra nueve veces / ocho en créditos' REFUTED — ten occurrences, nine in credits + one in recomendaciones",
+    "'65 filas' of the equivalencias table REFUTED — 74 printed rows (42+32); absence conclusion unaffected",
+    "Remco/Remzi 'mismo título' near-refuted — titles differ by a space (indo europea / indoeuropea)",
+    "'módulos DIRLI compilados por Acuña' imprecise — only Módulo 3 prints (comp.); Módulo 1 prints her as author"
+  ],
+  "omitted": ["objetivos not represented (obj. 5 names nivaĉle/wichí/qom, the only echo of Unidad VI outside contenidos)"],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "No fabricated book/unit/code/resolution: 6-units-vs-5-blocks confirmed as printed with roles citing printed blocks only; 84 entries recounted both directions (57+27; 30 volume entries → 25 distinct via Hualde ×4 + Campbell ×3); duplications and stale hedging PASS ('no se dicta' zero hits); equivalencias absence confirmed (grep 0) with the names-only-no-codes observation accurate; all 7 erratas and all 3 resolutions verified with a full-document regex proving no approval resolution exists. Fixes: the four numeric/wording repairs above."
+}

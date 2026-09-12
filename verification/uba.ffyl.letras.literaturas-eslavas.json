@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.letras.literaturas-eslavas",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 59, "books_found": 59,
+  "not_found": [
+    "Schmitt 'dos años (1984 y sin año)' FALSE — both entries print 1984; the Carl/Karl split is real, the year discrepancy invented",
+    "spine note 'cada nombre es la frase con que la unidad abre' FALSE for U1 and U3 (second phrase used) and truncated for U4",
+    "'310 entradas de crítica' mislabels a general bibliography that reprints primary literary volumes, several already drawn"
+  ],
+  "omitted": ["a third drawn volume lacks a publisher (Shalamov L391) — exit declares it, frame says 'DOS volúmenes'"],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "No fabricated books; every count exact and recounted line-by-line (74=55+6+13; 13=4+8+1; 55+4=59; 27+41+242=310). Cover-vs-filename and cover-vs-p.2 contradictions real; 'material a proveer por el seminario' exactly 4 hits; 6 of 7 title/edition contradictions real; triple-dupes real; transliteration zoo verified with two slips against its own policy (Vol.I-Vi normalized; Destovnik name order). Área inheritance correct. Fixes: drop 'y sin año'; fix the spine-note rule; relabel the 310; 'tres volúmenes sin editorial'."
+}

@@ -1361,5 +1361,183 @@
     "ocrPages": null,
     "chars": 70397,
     "ok": true
+  },
+  "abog-cpo": {
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/org_curr_cpo.pdf",
+    "method": "text",
+    "pages": 9,
+    "chars": 12925,
+    "ok": true,
+    "note": "ficha «Organización curricular del CPO (orientaciones)» enlazada desde derecho.uba.ar/academica/carreras_grado/abogacia.php — rotulada PLAN 2004, en la escala horaria anterior al T.O. 2018 (12 h por punto, 48 h = 4 puntos). Fuente del curso de Derecho Constitucional Profundizado asignado a cada orientación y de los departamentos donde tomar los puntos de libre elección. Re-fetch 2026-09: byte-idéntico al extracto que ya estaba en disco"
+  },
+  "abog-cpo-oferta-1c2025": {
+    "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_25_1S_1-Ab25s1T1/CPO_1S_1_25.pdf",
+    "method": "text",
+    "pages": 26,
+    "chars": 278244,
+    "ok": true,
+    "note": "grilla «Primer período lectivo 2025 — CPO»: 638 códigos de curso distintos en 1.281 comisiones, diez departamentos. Snapshot fechado de la oferta, no estructura del plan"
+  },
+  "letras-alemana-vedda-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0510%20-%2015024%20LITERATURA%20ALEMANA%202026_0.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 32187,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-diacronica-lapalma-2024": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0591LINGUISTICA%20DIACRONICA%20LAPALMA.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 23134,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-eslavas-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0585%2015029%20LITERATURAS%20ESLAVAS%20L%C3%93PEZ%20ARRIAZU.pdf",
+    "method": "text",
+    "pages": 25,
+    "ocrPages": null,
+    "chars": 78464,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-etnolinguistica-courtis-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0574%2015058%20ETNOLING%C3%9C%C3%8DSTICA%20COURTIS_0.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 32840,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-francesa-romero-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0504%2015023%20LITERATURA%20FRANCESA%20ROMERO.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 33848,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-inglesa-margarit-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0508%2015026%20LITERATURA%20INGLESA%20-%20MARGARIT_0.pdf",
+    "method": "text",
+    "pages": 15,
+    "ocrPages": null,
+    "chars": 38419,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-italiana-patat-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0507%20-%2015027%20LITERATURA%20ITALIANA%202026.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 29675,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-lenguajes-medios-pardo-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0587-%2015061-ANALISIS%20DE%20LOS%20LENGUAJES%20DE%20LOS%20MEDIOS%20MASIVOS%20DE%20COMUNICACI%C3%93N%20B%202026_0.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 31726,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-norteamericana-burello-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0520%2015028%20LITERATURA%20NORTEAMERICANA%20BURELLO_1.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 36665,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-psicoling1-jaichenco-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0576%2015053%20PSICOLING%C3%9C%C3%8DSTICA%20I.docx_.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 25226,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-psicoling2-abusamra-2026": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0577%20-%2015054%20PSICOLING%C3%9C%C3%8DSTICA%20II%202026.pdf",
+    "method": "text",
+    "pages": 14,
+    "ocrPages": null,
+    "chars": 29942,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-sanscrito-vofchuk-2017": {
+    "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/be065762-52a8-4a34-a915-7401f1e2a7d8/content",
+    "method": "ocr",
+    "pages": 12,
+    "ocrPages": 12,
+    "chars": 24338,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "letras-teoria-lexica-ciapuscio-2024": {
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0582%20TEOR%C3%8DA%20L%C3%89XICA%20CIAPUSCIO.pdf",
+    "method": "text",
+    "pages": 9,
+    "ocrPages": null,
+    "chars": 19893,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "med-iar-programa-2014": {
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 35788,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "med-iar-reglamento-2844-12": {
+    "url": "http://www.fmed.uba.ar/sites/default/files/2023-02/Reglamento%20del%20IAR%20-%20Resoluci%C3%B3n%20%28CD%29n%C2%B0%202844-12.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 20458,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "med-iar-modif-516-15": {
+    "url": "http://www.fmed.uba.ar/sites/default/files/2023-02/Modificatoria%20del%20Reglamento%202015%20-Resoluci%C3%B3n%20%28CD%29n%C2%B0%20516-15.pdf",
+    "method": "text",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 12398,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "med-iar-fechas-2025-2026": {
+    "url": "http://www.fmed.uba.ar/sites/default/files/2025-10/FECHAS%20DE%20LAS%20NUEVAS%20ROTACIONES-2025-2026.pdf",
+    "method": "text",
+    "pages": 3,
+    "ocrPages": null,
+    "chars": 7545,
+    "ok": true,
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+  },
+  "med-iar-guia-vigente-pfo": {
+    "url": "https://www.fmed.uba.ar/internado-anual-rotatorio-iar/informacion-importante-de-las-pfo",
+    "method": "html",
+    "pages": 1,
+    "ocrPages": null,
+    "chars": 8257,
+    "ok": true,
+    "note": "snapshot of the guía vigente de las PFO cited by the six IAR frames — captured 2026-09-12 after the adversarial verifier flagged it as the one grounding leg without local ground"
   }
 }

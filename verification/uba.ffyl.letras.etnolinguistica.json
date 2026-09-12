@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.letras.etnolinguistica",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4, "units_found": 4,
+  "books_total": 23, "books_found": 23,
+  "not_found": [
+    "errata list misattributes Hymes 2019 to the sin-tilde group — src:193 prints the tilde; the sin-tilde asientos are 4 others",
+    "'misma sección ambas veces' for Schiefflin false — one hit is complementaria U3 (Woolard), one general",
+    "metadata.equivalencia joins two separately-printed lines with an invented slash inside guillemets"
+  ],
+  "omitted": ["the declared 'tres formas' names only two — the third (no article + tilde) never printed in the frame", "manifest lacks this extract's entry"],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Arithmetic airtight: 36/34/31/23/5/28/20/84 reconcile under two independent counting methods; cátedra 18 hits split exactly 1+16+1; Golluscio dual-subtitle real with all seven occurrences in the right buckets; duplicates real; Fabb/Duranti is the true printed form (not corrected); chapter-year rule declared and applied (one uneven surfacing: Arnoux et al. no volume year); área attributed and confirmed in parent. Live PDF byte-identical. Fixes at close: move Hymes out of the sin-tilde list + print the third form; narrow the Schiefflin claim; unjoin the equivalencia quote."
+}

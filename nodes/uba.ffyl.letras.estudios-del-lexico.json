@@ -1,0 +1,317 @@
+{
+  "address": "uba.ffyl.letras.estudios-del-lexico",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD), Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial",
+    "cargaHoraria": "96 horas",
+    "cuatrimestre": "1º",
+    "codigo": "0582 (código del plan anterior, impreso en el programa; el programa no consigna código del plan 2023)",
+    "nombreEnElPrograma": "TEORÍA LÉXICA — el nombre del plan anterior; «ESTUDIOS DEL LÉXICO» es el nombre del plan 2023",
+    "profesora": "CIAPUSCIO, GUIOMAR ELENA (firma el programa como «profesora titular plenaria»)",
+    "catedra": "el programa NO declara cátedra: encabeza «PROFESOR/A: CIAPUSCIO, GUIOMAR ELENA». La palabra «Cátedra» aparece 2 veces en el PDF y las 2 son la editorial Cátedra de Madrid en la bibliografía",
+    "equipoDocente": [
+      "CIAPUSCIO, Guiomar Elena (profesora)",
+      "BERRI, Marina (JTP)",
+      "NERCESIAN, Verónica (JTP)"
+    ],
+    "modalidad": "presencial, con hasta 30% de las clases en modalidad virtual asincrónica (REDEC-2023-2382-UBA-DCT#FFYL); el programa precisa «un 30 % de las clases prácticas … en forma virtual asincrónica, bajo la forma de ejercicios»",
+    "recomendaciones": "«Se recomienda tener aprobadas las materias Gramática y Lingüística para cursar la materia» — recomendación, no correlatividad; el programa no consigna correlativas",
+    "unidades": 4,
+    "bibliografia": 26,
+    "bibliografiaEntradas": "57 entradas (31 obligatoria + 26 complementaria)",
+    "programaAño": "1º cuatrimestre 2024 (el más reciente que existe; ver frame)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.estudios-del-lexico",
+      "label": "Estudios del Léxico"
+    }
+  ],
+  "eyebrow": "Letras · orientación Lingüística · Estudios del Léxico",
+  "title": "El diccionario es parte de la gramática.",
+  "lede": "El léxico tratado como componente esencial del conocimiento lingüístico, no como el depósito de palabras que sobra después de la gramática. Se empieza por los fundamentos —el signo, los niveles de significado, la noción misma de palabra y de unidad léxica— y después se recorre el léxico por sus fronteras: con la morfología (derivación, composición, herencia de rasgos), con la sintaxis (modelos proyeccionistas contra (neo)construccionistas, estructura argumental, alternancias del español), con la semántica (polisemia, Léxico Generativo, normas y explotaciones, neología). Cierra con la metáfora, tema transversal que liga la lingüística con otras ciencias, hasta el caso de las interacciones cardiólogo-paciente. Todo se prueba en ejemplos escogidos y en corpus del español. Se recomienda haber aprobado Gramática y Lingüística.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "13 tramos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa oficial de la materia, publicado en letras.filo.uba.ar. NOMBRE — el programa se titula «TEORÍA LÉXICA», código Nº 0582, que es el nombre y el código del plan anterior; no lleva nombre ni código del plan 2023. La equivalencia con «Estudios del Léxico» no es una inferencia: la tabla de equivalencias del propio plan 2023 (Res. ACS-2023-58, sección «u. Equivalencias», págs. 74-76, columnas «Asignaturas del nuevo plan» / «Equivalencia con el plan anterior») imprime la fila «ESTUDIOS DEL LÉXICO — TEORÍA LÉXICA». Esa tabla es la fuente del mapeo de nombre y está citada en sources[]. CÁTEDRA — el programa NO declara cátedra: encabeza «PROFESOR/A: CIAPUSCIO, GUIOMAR ELENA» y lo firma «profesora titular plenaria». La palabra «Cátedra» aparece dos veces en el PDF y las dos son la editorial Cátedra de Madrid, en la bibliografía (Battaner Arias y López Ferrero 2019; Lakoff y Johnson 1991). No se afirma aquí ninguna cátedra ni ningún número de cátedras. UBICACIÓN EN EL PLAN — que la materia sea del área Lingüística y cuatrimestral viene del plan 2023 en el nodo padre; el programa no consigna ciclo, orientación, área ni correlatividades (sólo la recomendación de tener aprobadas Gramática y Lingüística). FUENTE ESTANCADA — el programa instanciado es el del 1º cuatrimestre 2024, y según el relevamiento del scout que abasteció este nodo es el más nuevo que existe: la materia no figura ofrecida en 2025 ni en 2026 bajo ninguno de los dos nombres. Corroboración propia parcial: en las páginas de programación y de programas de letras.filo.uba.ar que se pudieron recuperar por HTTP, ni «Estudios del Léxico» ni «Teoría Léxica» aparecen en el HTML servido — pero esos listados no vienen en el marcado estático, así que esa comprobación no prueba la ausencia; la afirmación de no-oferta queda atribuida al scout, no verificada aquí. La ley del proyecto vale igual: la clase es invariante en el tiempo y un programa estancado es fuente legítima de L2. BIBLIOGRAFÍA — el programa lista 57 entradas: 31 obligatorias y 26 complementarias. Se dibujan como nodo libro los TÍTULOS DE VOLUMEN de la bibliografía OBLIGATORIA: de las 31 entradas obligatorias, 29 son volúmenes o capítulos dentro de un volumen y 2 son artículos de revista que no se dibujan (Ciapuscio 2017, en Oralia 20; Geeraerts y Peirsman 2006, en Cognitive Linguistics 17-3). Esas 29 entradas remiten a 26 volúmenes distintos, porque «Panorama de la lexicología» (De Miguel ed., Ariel 2009) es citado 3 veces —Mendikoetxea en la Unidad II, Álvarez de Miranda y De Miguel en la Unidad III— y «La neología del español. Del uso al diccionario» (Bernal, Freixa y Torner eds., 2022) 2 veces —Adelstein y Freixa, ambos en la Unidad III—. De ahí los 26 nodos libro. NO se dibujan: las 26 entradas de la bibliografía complementaria completa (Badia, Cabré, Neef y Vater, Tucker Childs, Bohrn, De Miguel 2023, Kornfeld, Mendikoetxea 2000, Ortega 1999, Trebisacce 2018 y 2014, Cabré 2016, Cañete y Freixa, Guilbert, Estopà, Murphy, Pustejovsky y Batiukova, Pustejovsky, Kilgarriff, Sinclair, Aristóteles 2005, Ciapuscio 2003, Lakoff 2008, Pinker, Semino, Weinrich) ni los 2 artículos obligatorios ya nombrados. ERRATAS Y CONTRADICCIONES DEL ORIGINAL, REGISTRADAS SIN RESOLVER — (1) la obligatoria de la Unidad IV imprime la editorial de Croft y Cruse como «Alkal» (Akal es la editorial madrileña de ese título); se transcribe como está impreso; (2) la complementaria de la Unidad III lista «Pustejovsky, J. y Batiukova, O. (1995) The Lexicon. Cambridge: Cambridge University Press. Caps. 4, 6 y 7» y, en la línea siguiente, «Pustejovsky, J. (1995) The Generative Lexicon. Cambridge: The MIT Press» — dos entradas de 1995 con títulos, editoriales y autorías distintas; se registran ambas tal cual y ninguna se dibuja (son complementaria); (3) en el texto extraído, la entrada de Estopà (2009) y la de Murphy (2010) corren pegadas en un mismo párrafo; (4) el mismo apellido se imprime «Mendikoetxea Pelayo, A.» en la obligatoria de la Unidad II y «Mendikoetxea, A.» en la complementaria; (5) la entrada de Freixa en la Unidad III lleva el año al final («…, 2022»), no junto al autor. Los capítulos de obras colectivas se dibujan por el volumen que los contiene, nombrando el capítulo usado. Ningún libro está indexado todavía a L3.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades",
+      "title": "El léxico y sus fronteras",
+      "note": "Cada unidad del programa 0582 es un nodo, en orden. Los tramos numerados (i)-(iv) de cada unidad van en el mapa.",
+      "map": {
+        "mk": "El programa, en cuatro unidades y trece tramos",
+        "tree": "TEORÍA LÉXICA / ESTUDIOS DEL LÉXICO · código 0582 · 1C 2024\n│\n├─ I · FUNDAMENTOS\n│   ├─ i · El signo lingüístico y el significado · semiótica y semántica, motivación y arbitrariedad, significado literal y metafórico\n│   ├─ ii · El significado en el sistema · estatuto del léxico, módulo o transversalidad, teórica y aplicada\n│   └─ iii · Palabra y unidad léxica · léxico y vocabulario, léxico mental, léxico documentado, dinamismo\n│\n├─ II · LÉXICO Y GRAMÁTICA\n│   ├─ i · Léxico y morfología · derivación y composición, base y afijo, herencia\n│   ├─ ii · Léxico y sintaxis · proyeccionistas vs. (neo)construccionistas, estructura argumental y eventiva\n│   ├─ iii · Alternancias argumentales del español · causativa-anticausativa, benefactiva-posesiva, locativa\n│   └─ iv · Eventividad · alternancias aspectuales, herencia aspectual, lecturas eventivas y resultativas\n│\n├─ III · LÉXICO Y SEMÁNTICA\n│   ├─ i · Semántica léxica · homonimia, polisemia y vaguedad · el Léxico Generativo\n│   ├─ ii · Relaciones léxicas · paradigmáticas y sintagmáticas, colocaciones\n│   ├─ iii · Normas y Explotaciones · significado como evento y potencial de significado\n│   └─ iv · Léxico y aplicaciones · neología, tipos de neologismos, neología semántica\n│\n└─ IV · METÁFORA\n    ├─ i · Teorías de la metáfora · enfoque interactivo, teoría conceptual, estructurales/orientacionales/ontológicas, metonimia\n    └─ ii · La metáfora en el discurso · interacciones cardiólogo-paciente, convencionales y creativas",
+        "foot": "Orden del programa 1º cuatrimestre 2024. El recorrido va de los fundamentos del significado a cada frontera del léxico —morfología, sintaxis, semántica— y termina en la metáfora, que la fundamentación declara «tema transversal»."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.fundamentos",
+          "name": "Fundamentos · signo, significado y unidad léxica",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.lexico-y-gramatica",
+          "name": "Léxico y Gramática · morfología, sintaxis, alternancias, eventividad",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.lexico-y-semantica",
+          "name": "Léxico y semántica · polisemia, Léxico Generativo, normas y neología",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.metafora",
+          "name": "Metáfora · teoría conceptual y metáfora en el discurso",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria",
+      "title": "El aparato de lectura",
+      "note": "Los 26 títulos de volumen distintos de la bibliografía obligatoria del programa 0582. No se dibujan los 2 artículos de revista de la obligatoria ni ninguna de las 26 entradas de la complementaria. Los capítulos en obras colectivas se dibujan por el volumen que los contiene. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-battaner-lopez-ferrero",
+          "name": "Introducción al léxico, componente transversal de la lengua — P. Battaner Arias y C. López Ferrero (Cátedra, 2019) · caps. 1 y 2",
+          "role": "Unidad I · ii y iii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-messineo-gran-chaco",
+          "name": "Léxico y categorización etnobiológicas en grupos indígenas del Gran Chaco — C. Messineo, G. Scarpa y F. Tola (comps.) (Editorial de la Universidad Nacional de La Pampa, 2010) · cap. Cúneo, “Nombres que ‘suenan’: simbolismo sonoro en el léxico etnobiológico toba”",
+          "role": "Unidad I · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lara-lexicologia",
+          "name": "Curso de lexicología — L. F. Lara (El Colegio de México, 2006) · “Introducción: el léxico y sus abordajes” y “La recolección de datos léxicos”",
+          "role": "Unidad I · iii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-krieger-negri",
+          "name": "As ciências do Lexico: Lexicologia, Lexicografia e Terminologia (vol. II) — M. da G. Krieger y A. Negri (eds.) (UFRGS, 2003) · cap. Lorente, “La lexicología de encuentro: entre la gramática y la semántica”",
+          "role": "Unidad I · ii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lobner",
+          "name": "Understanding Semantics — S. Löbner (Hodder Education, 2002) · cap. 1",
+          "role": "Unidad I · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lyons-semantica",
+          "name": "Semántica — J. Lyons (Teide, 1980) · pp. 91-113",
+          "role": "Unidad I · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lyons-semantica-linguistica",
+          "name": "Semántica lingüística — J. Lyons (Paidós, 1997) · cap. 1",
+          "role": "Unidad I · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-enciclopedia-hispanica",
+          "name": "Enciclopedia de lingüística hispánica — J. Gutiérrez-Rexach (Routledge, 2016) · cap. Arche, “El aspecto léxico”",
+          "role": "Unidad II · ii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-fabregas-morfologia",
+          "name": "La morfología. El análisis de la palabra compleja — A. Fábregas (Síntesis, 2013) · cap. 1",
+          "role": "Unidad II · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-panorama-lexicologia",
+          "name": "Panorama de la lexicología — E. De Miguel (ed.) (Ariel, 2009) · caps. Mendikoetxea, “Modelos formales”; Álvarez de Miranda, “Neología y pérdida léxica”; De Miguel, “La teoría del Lexicón Generativo”",
+          "role": "Unidades II · ii y III · i y iv",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-morimoto",
+          "name": "Los verbos de movimiento — Y. Morimoto (Visor Libros, 2001) · caps. 1 y 3",
+          "role": "Unidad II · iv",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-demonte-gramatica-espanol",
+          "name": "Gramática del español — V. Demonte (El Colegio de México, 1994) · cap. Ortega, “Cuestiones pendientes de la morfología del español”",
+          "role": "Unidad II · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-colantoni-rodriguez-louro",
+          "name": "Perspectivas teóricas y experimentales sobre el español de la Argentina — L. Colantoni y C. Rodríguez Louro (Iberoamericana, 2013) · cap. Resnik, “Las nominalizaciones en -ada en el español rioplatense”",
+          "role": "Unidad II · iv",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-rodriguez-ramalle",
+          "name": "Las relaciones sintácticas — T. M. Rodríguez Ramalle (Síntesis, 2015) · cap. 2",
+          "role": "Unidad II · iii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-neologia-del-espanol",
+          "name": "La neología del español. Del uso al diccionario — E. Bernal, J. Freixa y S. Torner (eds.) (Iberoamericana-Vervuert, 2022) · caps. Adelstein, “Neología y semántica: grados de neologicidad en el ámbito nominal”; Freixa, “El proceso neológico”",
+          "role": "Unidad III · iv",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-cruse-meaning",
+          "name": "Meaning in language. An introduction to semantics and pragmatics — D. A. Cruse (Oxford University Press, 2000) · caps. 8 y 9",
+          "role": "Unidad III · ii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-jezek-lexicon",
+          "name": "The Lexicon. An Introduction — E. Jezek (Oxford University Press, 2016) · caps. 3, 5 y 6",
+          "role": "Unidad III · i y iii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-hanks-lexical-analysis",
+          "name": "Lexical Analysis. Norms and exploitations — P. Hanks (Oxford University Press, 2013) · caps. 3 y 8",
+          "role": "Unidad III · iii",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-albadalejo-retorica",
+          "name": "Retórica — T. Albadalejo Mayordomo (Síntesis, 1991) · “La elocutio”",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-aristoteles-poetica",
+          "name": "Poética — Aristóteles (Barlovento, 1977) · pp. 101-110",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-valdes-busqueda-significado",
+          "name": "La Búsqueda del Significado. Lecturas de Filosofía del Lenguaje — L. Valdés Villanueva (ed.) (Tecnos, 1995) · cap. Black, “Metáfora”",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-croft-cruse-cognitiva",
+          "name": "Lingüística cognitiva — W. Croft y D. A. Cruse (Madrid, 2008) · cap. “La metáfora” (el programa imprime la editorial como «Alkal»; se transcribe como está impreso)",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-kovecses-metaphor",
+          "name": "Metaphor: A Practical Introduction — Z. Kovecses (Oxford University Press, 2002) · caps. 1 y 2",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lakoff-johnson-metaforas",
+          "name": "Metáforas de la vida cotidiana — G. Lakoff y M. Johnson (Cátedra, 1991; 1ª ed. en inglés 1980) · pp. 39-95",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-lakoff-johnson-philosophy",
+          "name": "Philosophy in the Flesh. The embodied Mind and its Challenge to Western Thought — G. Lakoff y M. Johnson (Basic Books / Perseus, 1999) · Parte I, caps. 4 y 5",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.estudios-del-lexico.libro-routledge-handbook-metaphor",
+          "name": "The Routledge Handbook of Metaphor and Language — E. Semino y Z. Demjén (eds.) (Routledge, 2017) · cap. Steen, “Identifying metaphors in language”",
+          "role": "Unidad IV · i",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de TEORÍA LÉXICA, código Nº 0582 (Prof. Guiomar Elena Ciapuscio, 1º cuatrimestre 2024; REDEC-2023-2382-UBA-DCT#FFYL) — nombre del plan anterior, equivalente a «Estudios del Léxico» del plan 2023",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0582%20TEOR%C3%8DA%20L%C3%89XICA%20CIAPUSCIO.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de TEORÍA LÉXICA, código Nº 0582 (Ciapuscio, 1º cuatrimestre 2024) — contenidos, bibliografía, régimen y carga horaria",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0582%20TEOR%C3%8DA%20L%C3%89XICA%20CIAPUSCIO.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Plan de Estudios 2023 (Res. ACS-2023-58, Licenciatura en Letras), sección «u. Equivalencias», págs. 74-76 — la tabla «Asignaturas del nuevo plan / Equivalencia con el plan anterior» imprime «ESTUDIOS DEL LÉXICO — TEORÍA LÉXICA». Única fuente del mapeo de nombre; cosecha local en sources/letras-equivalencias-acs-2023-58.txt",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf"
+    }
+  ]
+}

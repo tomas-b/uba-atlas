@@ -1,0 +1,101 @@
+{
+  "address": "uba.med.medicina.iar-tocoginecologia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO DE TOCOGINECOLOGÍA en el programa Res. (CD) 261/14; «Tocoginecología» en el plan y en el reglamento",
+    "regimen": "7 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23); 5 semanas según la modificatoria Res. (CD) 516/15 (art. 23.A)",
+    "cargaHoraria": "el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: el sitio del Departamento de Tocoginecología no consigna el módulo del IAR; en cada unidad asistencial responde un Responsable de Módulo [Res. (CD) 2844/12]",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-tocoginecologia",
+      "label": "Tocoginecología (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Tocoginecología · rotación del Internado Anual Rotatorio",
+  "title": "Controlar un embarazo, asistir un parto, reconocer el riesgo oncológico.",
+  "lede": "Es el módulo con más competencias de los seis: catorce. El control de la embarazada, las etapas de la gestación, el examen ginecológico completo y la derivación temprana de lo prevalente se exigen en nivel de rutina; la asistencia y el control del parto normal —y la urgencia por riesgo de parto en la vía pública— se practican en simulador. Detrás van veintiocho procedimientos, de las maniobras de Leopold y el Papanicolaou a la colposcopia, el raspado uterino y la cesárea.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "5-7 sem.",
+      "small": "según la norma"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "3",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado leído por OCR: el «MÓDULO DE TOCOGINECOLOGÍA» trae competencias básicas, procedimientos básicos y patologías prevalentes. El programa gradúa cada competencia en cinco niveles de expertez: A sólo teoría · B haber visto o presenciado · C haber practicado en simuladores · D haber aplicado en escenarios reales bajo supervisión · E rutina. La duración sale del Reglamento del IAR: 7 semanas en la Res. (CD) 2844/12, 5 semanas tras la modificatoria Res. (CD) 516/15. La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. El sitio del Departamento de Tocoginecología describe sus dos asignaturas del Ciclo Clínico (Obstetricia y Ginecología, 5 semanas y 143 hs cada una) y no publica material propio del módulo del IAR; esas cifras son de las materias, no de esta rotación. El programa no lista bibliografía.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias básicas · lo que hay que saber hacer",
+      "title": "Catorce competencias, con su nivel de expertez",
+      "note": "Transcriptas del módulo. E rutina; D aplicado en escenarios reales bajo supervisión; C practicado en simuladores.",
+      "map": {
+        "mk": "Módulo de Tocoginecología · competencias",
+        "tree": "TOCOGINECOLOGÍA — competencias básicas\n│\n├─ E · Realizar controles de la embarazada\n├─ E · Identificar en la atención de pacientes obstétricas las etapas de la gestación\n├─ E · Asistir pacientes reconociendo etapas de maduración y desarrollo de la mujer\n├─ E · Asistir pacientes considerando los aspectos éticos y legales involucrados\n├─ E · Comunicar adecuadamente estrategias preventivas en enfermedades de transmisión sexual\n├─ E · Realizar historias clínicas completas en pacientes de Tocoginecología\n├─ E · Diagnosticar tempranamente y derivar oportunamente las patologías prevalentes en tocoginecología\n├─ E · Realizar seguimiento clínico de las pacientes internadas: diagnóstico, tratamiento médico y quirúrgico,\n│       complicaciones, interconsultas, indicación de estudios complementarios\n├─ E · Reconocer pacientes con riesgo oncológico\n├─ D · Indicar analgésicos comunicando indicaciones y contraindicaciones\n├─ D · Realizar examen ginecológico completo\n├─ D · Observar y asistir en quirófano\n├─ C · Realizar asistencia y control del parto normal\n└─ C · Realizar asistencia de urgencia por riesgo del parto en la vía pública",
+        "foot": "Res. (CD) 261/14, sección «MÓDULO DE TOCOGINECOLOGÍA · COMPETENCIAS BÁSICAS»."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Procedimientos básicos · lo que hay que hacer con las manos",
+      "title": "Veintiocho procedimientos",
+      "note": "El programa los tabula con una cruz en la columna de nivel A a E; esa tabla llegó degradada al OCR, así que acá va la lista tal como está impresa, sin atribuirle a cada procedimiento un nivel que no se lee con certeza.",
+      "map": {
+        "mk": "Módulo de Tocoginecología · procedimientos",
+        "tree": "TOCOGINECOLOGÍA — procedimientos básicos\n│\n├─ EXAMEN\n│  ├─ Examen mamario (incluye axila)\n│  ├─ Examen obstétrico\n│  ├─ Examen de pelvis\n│  ├─ Inspección de la cintura pelviana\n│  ├─ Pelvimetría externa\n│  ├─ Maniobras de Leopold\n│  └─ Colocación del espéculo\n│\n├─ TOMA DE MUESTRAS Y DIAGNÓSTICO\n│  ├─ Toma de frotis cervical (Papanicolaou)\n│  ├─ Toma de material para cultivo\n│  ├─ Colposcopia\n│  ├─ Biopsia dirigida\n│  ├─ Biopsia de cuello\n│  ├─ Legrado endocervical\n│  └─ Preparación para monitoreo fetal\n│\n├─ QUIRÓFANO\n│  ├─ Preparación del campo quirúrgico para cirugía\n│  ├─ Asistir en el quirófano\n│  ├─ Cirugía miniinvasiva\n│  ├─ Raspado uterino\n│  └─ Cesárea\n│\n└─ HERIDAS, ASEPSIA Y VÍAS\n   ├─ Asepsia, antisepsia y esterilización\n   ├─ Prevención de tétanos\n   ├─ Control y cuidado de heridas externas\n   ├─ Curación de heridas\n   ├─ Suturas de heridas\n   ├─ Debridamiento de heridas con bisturí y tijeras\n   ├─ Extracción de puntadas\n   ├─ Colocación de sonda vesical\n   └─ Venopuntura",
+        "foot": "Res. (CD) 261/14, sección «PROCEDIMIENTOS BÁSICOS» del módulo. El agrupamiento por familia es de lectura; los ítems son los del programa."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Patologías prevalentes · frente a qué",
+      "title": "La paciente, y el embarazo normal y patológico",
+      "note": "El programa ejemplifica cómo graduar cuadro clínico, diagnóstico y tratamiento con dos casos —la paciente con enfermedad de transmisión sexual y la paciente con infección vulvovaginal— y marca que en el segundo el diagnóstico exige un procedimiento practicado en simulador.",
+      "map": {
+        "mk": "Módulo de Tocoginecología · patologías significativas / relevantes / prevalentes",
+        "tree": "TOCOGINECOLOGÍA — patologías prevalentes\n│\n├─ PLANIFICACIÓN FAMILIAR\n│  └─ Orientación en anticoncepción natural, hormonal, dispositivos intrauterinos y de barrera ·\n│     variantes, tipos y combinaciones\n│\n├─ LA PACIENTE CON…\n│  ├─ patología del climaterio\n│  ├─ patología benigna\n│  ├─ infecciones vulvovaginales\n│  ├─ lesiones distróficas\n│  ├─ patología preneoplásica\n│  ├─ patología neoplásica de vulva\n│  ├─ enfermedades de transmisión sexual\n│  ├─ amenorrea primaria\n│  ├─ amenorrea secundaria\n│  ├─ patología mamaria\n│  └─ patología oncológica\n│\n├─ OBSTETRICIA NORMAL\n│  ├─ Examen de la embarazada\n│  └─ Embarazo en la segunda mitad · edad gestacional y vitalidad fetal\n│\n└─ OBSTETRICIA PATOLÓGICA\n   ├─ Detección precoz de complicaciones del embarazo normal y de alto riesgo\n   └─ Complicaciones del trabajo de parto, parto y puerperio",
+        "foot": "Res. (CD) 261/14, sección «PATOLOGÍAS SIGNIFICATIVAS / RELEVANTES / PREVALENTES» del módulo."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

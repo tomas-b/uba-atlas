@@ -3,7 +3,7 @@
   "level": "carrera",
   "kind": "career",
   "groundingLevel": "L1",
-  "metadata": { "plan": "2004 · Texto Ordenado 2018 (Res. CS N° 787/18)", "planPosterior": "Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024 — no es la fuente de este nodo", "titulo": "Abogado/a · Bachiller Universitario en Derecho (CPC)", "ciclos": 2, "materiasCPC": 14, "orientacionesCPO": 7, "correlativas": true },
+  "metadata": { "plan": "2004 · Texto Ordenado 2018 (Res. CS N° 787/18)", "planPosterior": "Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024 — no es la fuente de este nodo", "titulo": "Abogado/a · Bachiller Universitario en Derecho (CPC)", "ciclos": 2, "materiasCPC": 14, "orientacionesCPO": 7, "nodosOrientacionCPO": 8, "nodosOrientacionNota": "siete orientaciones, ocho nodos: el plan desdobla Derecho Público en sus dos suborientaciones (1.a Administrativo y 1.b Internacional Público) y el estudiante debe optar por una o hacer ambas", "correlativas": true },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -18,7 +18,7 @@
     { "k": "CPO", "v": "7", "small": "orientaciones" },
     { "k": "Grounding", "v": "L1", "small": "plan oficial" }
   ],
-  "frame": "Estructura sourceada del PDF citado: el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18, EXP-UBA 45.501/2018 —así lo rotula la propia página de la carrera en derecho.uba.ar—. Dato externo de esa misma página: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23) que, según su propio texto, «comienza a regir a partir del primer cuatrimestre de 2024» para quienes ingresen desde enero de 2024, dejando plazo hasta 2028 a quienes cursan bajo el 787/18. El diff propio de ambos PDF muestra que los contenidos mínimos de trece de las catorce materias del CPC son textualmente idénticos; la excepción es Elementos de Derecho Comercial, y está declarada en ese nodo. El CPC —catorce materias obligatorias— está desarrollado a nivel L2: cada materia lleva sus contenidos mínimos oficiales agregados en unidades por el atlas (el plan los publica como bloques de prosa sin numerar; la partición es editorial y se declara en cada nodo). La bibliografía específica vive en cada programa de cátedra: sólo cuatro materias —Administrativo, Comercial, Teoría del Estado y Trabajo— tienen hoy un programa alcanzable y citable, y sólo ésas llevan libros dibujados; en las otras diez el atlas no dibuja bibliografía. El CPO se representa solo como estructura: sus siete orientaciones son nodos a-indexar. Los cientos de cursos electivos del CPO (principales, derivados, optativos de oferta variable, por sistema de puntos) NO se enumeran ni se fabrican —exceden este alcance y cambian por cuatrimestre.",
+  "frame": "Estructura sourceada del PDF citado: el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18, EXP-UBA 45.501/2018 —así lo rotula la propia página de la carrera en derecho.uba.ar—. Dato externo de esa misma página: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23) que, según su propio texto, «comienza a regir a partir del primer cuatrimestre de 2024» para quienes ingresen desde enero de 2024, dejando plazo hasta 2028 a quienes cursan bajo el 787/18. El diff propio de ambos PDF muestra que los contenidos mínimos de trece de las catorce materias del CPC son textualmente idénticos; la excepción es Elementos de Derecho Comercial, y está declarada en ese nodo. El CPC —catorce materias obligatorias— está desarrollado a nivel L2: cada materia lleva sus contenidos mínimos oficiales agregados en unidades por el atlas (el plan los publica como bloques de prosa sin numerar; la partición es editorial y se declara en cada nodo). La bibliografía específica vive en cada programa de cátedra: sólo cuatro materias —Administrativo, Comercial, Teoría del Estado y Trabajo— tienen hoy un programa alcanzable y citable, y sólo ésas llevan libros dibujados; en las otras diez el atlas no dibuja bibliografía. El CPO está desarrollado a nivel L1: sus siete orientaciones —ocho nodos, porque Derecho Público se desdobla en dos suborientaciones— llevan los cursos principales que el propio plan nombra, con puntaje, carga horaria y dedicación, más la regla de sus derivados y su correlatividad. Los cientos de cursos derivados y electivos del CPO (de oferta variable, por sistema de puntos) NO se enumeran ni se fabrican: cambian por cuatrimestre y sólo se declaran como recuento fechado dentro de cada orientación.",
   "groups": [
     {
       "kind": "spine",
@@ -51,16 +51,16 @@
       "kind": "plain",
       "eyebrow": "Ciclo Profesional Orientado · 7 orientaciones",
       "title": "La especialidad, por sistema de puntos",
-      "note": "El CPO capacita para la práctica en una orientación elegida (20 puntos de cursos principales y derivados, más obligatorias comunes y puntos de libre elección; 69 puntos en total). Aquí solo se indexa la estructura: cada orientación es un nodo a-indexar. Los cursos electivos concretos NO se enumeran.",
+      "note": "El CPO capacita para la práctica en una orientación elegida: 20 puntos de cursos principales y derivados, más las cinco asignaturas obligatorias comunes, Derecho Constitucional Profundizado, Derecho de la Integración y los puntos de Ciencias Sociales, Filosofía del Derecho, Procesal, Práctica Profesional y libre elección; 69 puntos en total. Cada puerta abre a los cursos principales que el plan nombra para esa orientación, con su puntaje y su carga horaria. Los cursos derivados y electivos concretos NO se enumeran: son de oferta variable.",
       "exits": [
-        { "address": "uba.der.abogacia.cpo-publico-administrativo", "name": "Derecho Público · Suborientación Derecho Administrativo", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-publico-internacional", "name": "Derecho Público · Suborientación Derecho Internacional Público", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-privado", "name": "Derecho Privado", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-penal", "name": "Derecho Penal", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-empresarial", "name": "Derecho Empresarial", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-trabajo", "name": "Derecho del Trabajo y la Seguridad Social", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-tributario", "name": "Derecho Tributario", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" },
-        { "address": "uba.der.abogacia.cpo-notarial", "name": "Derecho Notarial, Registral e Inmobiliario", "role": "orientación CPO · a indexar", "tag": "CPO", "kind": "course" }
+        { "address": "uba.der.abogacia.cpo-publico-administrativo", "name": "Derecho Público · Suborientación Derecho Administrativo", "role": "20 pts · 7 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-publico-internacional", "name": "Derecho Público · Suborientación Derecho Internacional Público", "role": "20 pts · 3 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-privado", "name": "Derecho Privado", "role": "20 pts · 3 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-penal", "name": "Derecho Penal", "role": "20 pts · 4 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-empresarial", "name": "Derecho Empresarial", "role": "20 pts · 5 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-trabajo", "name": "Derecho del Trabajo y la Seguridad Social", "role": "20 pts · 3 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-tributario", "name": "Derecho Tributario", "role": "20 pts · 3 cursos principales", "tag": "CPO", "kind": "course" },
+        { "address": "uba.der.abogacia.cpo-notarial", "name": "Derecho Notarial, Registral e Inmobiliario", "role": "20 pts · 3 cursos principales", "tag": "CPO", "kind": "course" }
       ]
     }
   ],

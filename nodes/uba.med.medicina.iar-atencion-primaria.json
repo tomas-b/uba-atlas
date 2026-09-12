@@ -1,0 +1,92 @@
+{
+  "address": "uba.med.medicina.iar-atencion-primaria",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO DE ATENCIÓN PRIMARIA DE LA SALUD en el programa Res. (CD) 261/14; «APS» en el reglamento; «Atención Primaria en Áreas Programáticas [Medicina Familiar (2º Parte) y Terapia y Urgencias Hospitalarias]» en el plan",
+    "regimen": "2 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23) y la modificatoria Res. (CD) 516/15 (art. 23.A); la Guía para Estudiantes de las PFO publicada hoy habla de una rotación de «Centro de Salud» de 4 semanas",
+    "cargaHoraria": "el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: en cada unidad asistencial responde un Responsable de Módulo [Res. (CD) 2844/12]; la inscripción a Centro de Salud se hace sólo por sistema, a los centros autorizados dentro del país, y firman la libreta los Coordinadores de cada CeSAC o los referentes nombrados en cada CAPS",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014",
+    "reflexion": "«Los rotantes en este módulo en particular deberán asistir personas sanas o enfermas de cualquier grupo etáreo y sexo. Por lo tanto es necesario que hagan una reflexión sobre su práctica en las cuatro materias básicas»",
+    "procedimientos": "el módulo no tabula procedimientos propios: los estudios diagnósticos «quedan incluidos dentro de los procedimientos generales» y el examen físico remite al núcleo común de Clínica Médica, Cirugía, Pediatría y Tocoginecología",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-atencion-primaria",
+      "label": "Atención Primaria en Áreas Programáticas (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Atención Primaria en Áreas Programáticas · rotación del Internado Anual Rotatorio",
+  "title": "Salir del hospital: personas sanas o enfermas, de cualquier edad y sexo.",
+  "lede": "El módulo pide algo que ningún otro pide: <b>reflexionar sobre la propia práctica en las cuatro materias básicas</b>. El examen físico no es nuevo —su núcleo son las maniobras ya aprendidas en Clínica Médica, Cirugía, Pediatría y Tocoginecología—; lo nuevo es el interrogatorio, que baja al núcleo familiar, al medio social, a la vivienda y a las condiciones laborales, y que busca alcoholismo, adicciones, violencia doméstica y depresión. El plan terapéutico se mide por adherencia y autocuidado. Veintiún cuadros prevalentes cierran el módulo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2-4 sem.",
+      "small": "según la fuente"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "2",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado leído por OCR: el «MÓDULO DE ATENCIÓN PRIMARIA DE LA SALUD» trae competencias básicas por categoría y patologías prevalentes. El programa gradúa cada competencia en cinco niveles de expertez: A sólo teoría · B haber visto o presenciado · C haber practicado en simuladores · D haber aplicado en escenarios reales bajo supervisión · E rutina. El nombre largo es el del plan Res. CS 2861/92 —«Atención Primaria en Áreas Programáticas [Medicina Familiar (2º Parte) y Terapia y Urgencias Hospitalarias]»—; el programa lo titula «Módulo de Atención Primaria de la Salud» y el reglamento lo abrevia «APS». La duración sale del Reglamento del IAR: 2 semanas en la Res. (CD) 2844/12 y en la modificatoria Res. (CD) 516/15. La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. El programa no lista bibliografía, y el módulo no tiene sección propia de procedimientos: los remite a los procedimientos generales de los otros módulos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Competencias básicas · lo que hay que saber hacer",
+      "title": "Interrogatorio, examen físico, estudios, plan terapéutico",
+      "note": "Transcriptas del módulo con su nivel de expertez: D aplicado en escenarios reales bajo supervisión, C practicado en simuladores, B haber visto o presenciado.",
+      "map": {
+        "mk": "Módulo de Atención Primaria de la Salud · competencias",
+        "tree": "ATENCIÓN PRIMARIA — competencias básicas\n│\n├─ INTERROGATORIO\n│  ├─ D · Realizar una anamnesis dirigida al/los problema/s de salud que trae el paciente\n│  ├─ D · Elaborar hipótesis operativas que permitan un nivel eficaz de comprobación\n│  ├─ D · Integrar el núcleo familiar permitiendo un diagnóstico amplio\n│  ├─ D · Interrogar acerca de los componentes de medio social, vivienda y condiciones laborales\n│  │       pertinentes al paciente\n│  ├─ D · Detectar a través del interrogatorio problemas prevalentes: alcoholismo y otras adicciones,\n│  │       violencia doméstica, depresión\n│  └─ D · Pesquisar antecedentes familiares de relevancia para la prevención de enfermedades prevalentes\n│\n├─ EXAMEN FÍSICO\n│  └─ D · Elaborar un examen físico por aparatos diferenciando condiciones fisiológicas de patológicas\n│         (su núcleo común son las maniobras desarrolladas en los módulos de Clínica Médica, Cirugía,\n│         Pediatría y Tocoginecología)\n│\n├─ ESTUDIOS DIAGNÓSTICOS\n│  └─ Quedan incluidos dentro de los procedimientos generales\n│\n└─ PLAN TERAPÉUTICO\n   ├─ D · Transmitir la posología a los pacientes\n   ├─ B · Reconocer estrategias que aumenten la adherencia de tratamientos crónicos\n   ├─ C · Involucrar a la familia en el mejor manejo del paciente\n   └─ D · Utilizar estrategias que aumenten el autocuidado y autocumplimiento del paciente",
+        "foot": "Res. (CD) 261/14, sección «MÓDULO DE ATENCIÓN PRIMARIA DE LA SALUD · COMPETENCIAS BÁSICAS»."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Patologías prevalentes · frente a qué",
+      "title": "Veintiún cuadros, del niño sano al vértigo",
+      "note": "«El rotante deberá conocer el razonamiento diagnóstico, los diagnósticos diferenciales y las bases terapéuticas de…».",
+      "map": {
+        "mk": "Módulo de Atención Primaria de la Salud · patologías prevalentes",
+        "tree": "ATENCIÓN PRIMARIA — patologías prevalentes\n│\n├─ PREVENCIÓN Y CONTROL\n│  ├─ Prácticas preventivas en las distintas etapas de la vida\n│  ├─ Evaluación del niño sano\n│  └─ Cuidado del embarazo y puerperio normales\n│\n├─ PACIENTE CON…\n│  ├─ hipertensión arterial\n│  ├─ ansiedad / depresión\n│  ├─ desnutrición / obesidad\n│  ├─ lumbalgias, cervicalgias y síndromes relacionados\n│  ├─ osteoartrosis\n│  ├─ dispepsia\n│  ├─ gastroenteritis\n│  ├─ enfermedades exantemáticas\n│  ├─ neumonías\n│  ├─ enfermedades comunes de la piel y faneras\n│  ├─ asma\n│  ├─ hemoptisis\n│  ├─ dolor abdominal / vómitos\n│  ├─ cefaleas\n│  ├─ enfermedades de transmisión sexual\n│  ├─ alcoholismo, tabaquismo, otras drogas\n│  └─ mareos - vértigos\n│\n└─ SÍNDROME DE VÍAS AÉREAS SUPERIORES E INFERIORES",
+        "foot": "Res. (CD) 261/14, sección «PATOLOGÍAS PREVALENTES» del módulo."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

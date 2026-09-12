@@ -1,0 +1,328 @@
+{
+  "address": "uba.ffyl.letras.linguistica-diacronica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · promoción directa (PD)",
+    "cargaHoraria": "96 horas (mínimo 6 y máximo 10 hs semanales)",
+    "cuatrimestre": "2º",
+    "año": "2024 · 2º cuatrimestre (el PDF imprime «2º CUATRIMESTRE 2024» y «AÑO: 2024»)",
+    "codigo": "0591 (código impreso en el programa; plan anterior al 2023)",
+    "catedra": "el programa NO nombra la cátedra por letra, número ni titular: firma «PROFESOR/A: LAPALMA, MARÍA GABRIELA». La palabra «cátedra» aparece diez veces en el texto: nueve en créditos de traducción y resumen («para la Cátedra de Lingüística Diacrónica») y una en las recomendaciones; nunca como denominación de cátedra.",
+    "objetivos": "el programa imprime cinco objetivos (apartado «b. Objetivos»), que no se dibujan como grupo; el quinto es el único lugar del programa fuera de los contenidos donde aparecen las lenguas de la Unidad VI: «Presentar los cambios que se dieron en la historia de la escritura y analizar casos de estandarización de las lenguas indígenas argentinas (nivaĉle, wichí y qom) y su problemática en el sistema educativo»",
+    "equipoDocente": [
+      "LAPALMA, MA. GABRIELA (Prof. Adjunta)",
+      "GUTIÉRREZ, ANALÍA (Prof. Jefa de Trabajos Prácticos)"
+    ],
+    "modalidad": "presencial, con hasta un 30% de clases en modalidad virtual asincrónica (REDEC-2023-2382-UBA-DCT#FFYL); teóricas virtuales si hay más de 350 inscriptos",
+    "orientacion": "Lingüística — «Entre las materias de la orientación Lingüística que analizan la heterogeneidad de la lengua…» (fundamentación del propio programa)",
+    "correlatividades": "el programa no imprime ninguna (la cadena «correlativ» no aparece en el texto); solo una recomendación: tener cursada y aprobada «Lingüística General»",
+    "equivalencias": "AUSENTE de la tabla de equivalencias del plan 2023 (Res. ACS-2023-58): la materia no figura en ninguna de las dos columnas. No hay código del nuevo plan atestiguado para esta materia.",
+    "unidades": 6,
+    "bibliografia": 25,
+    "firmaDelDocumento": "MIGUEL VEDDA, Director del Departamento de Letras"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.letras",
+      "label": "Letras"
+    },
+    {
+      "address": "uba.ffyl.letras.linguistica-diacronica",
+      "label": "Lingüística Diacrónica"
+    }
+  ],
+  "eyebrow": "Letras · orientación Lingüística · Lingüística Diacrónica",
+  "title": "Reconstruir lo que nadie escribió.",
+  "lede": "Una lengua vista a lo largo del tiempo, y el método para llegar hasta donde no hay documentos. Se entra por el origen del lenguaje y la distinción entre diacronía y sincronía; se sigue por los modelos que explicaron el cambio —neogramáticos, estructuralismo, los aportes de la generativa y de la sociolingüística—; y se llega al núcleo técnico: protolenguas, familias lingüísticas, el sánscrito y el indoeuropeo, las hipótesis sobre su origen (Cáucaso, Anatolia, mixta), las leyes de Grimm y de Verner, la reconstrucción comparativa y la interna. Después el cambio se desarma por niveles —fonético, morfológico, sintáctico, léxico y semántico, préstamo y calco, analogía— sobre lenguas indoeuropeas, romances, germánicas e indígenas de América. Cierran dos zonas donde la historia de la lengua se toca con la historia social: las lenguas en contacto y la difusión areal, y la escritura como tecnología —sumerio, egipcio, alfabetos semíticos, griego y latino, las escrituras de América— junto con la planificación lingüística y los casos del nivaĉle, el qom y el wichí en la escuela.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "prom. directa"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "programa 0591"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de Lingüística Diacrónica, código 0591, Departamento de Letras (FFyL-UBA), Prof. María Gabriela Lapalma, 2º cuatrimestre de 2024, publicado en letras.filo.uba.ar. FUENTE VIEJA, DECLARADA: el PDF imprime «2º CUATRIMESTRE 2024» y «AÑO: 2024» y es el programa más reciente localizado en este relevamiento; no se localizó programa de 2025 ni de 2026. El repositorio FILO:Digital guarda solo dos registros de esta materia —«Lingüística Diacrónica», filodigital/10604 (dc.date.issued 2017) y filodigital/3992 (2016)—, verificados por consulta a la API de descubrimiento del propio repositorio y NO extraídos acá. El contenido de clase es time-invariant, pero la antigüedad se declara: nada en este nodo afirma qué se dicta hoy ni que la materia se ofrezca actualmente. CÓDIGO Y EQUIVALENCIAS — HECHO DE FUENTE: el único código atestiguado es el 0591 que imprime este programa, correspondiente al plan anterior al 2023. La materia está AUSENTE de la tabla de equivalencias del Plan de Estudios 2023 (Res. ACS-2023-58, apartado u., «Equivalencias entre el nuevo plan de estudios y el plan anterior»): en las 74 filas de esa tabla (42 en la página 75 y 32 en la página 76 de la resolución), que emparejan asignaturas por nombre y sin ningún código, «Lingüística Diacrónica» no aparece ni en la columna del nuevo plan ni en la del anterior, y la cadena «diacr» no aparece en ninguna parte del extracto de la resolución guardado en sources/letras-equivalencias-acs-2023-58.txt (páginas 70 a 76). Por lo tanto NO se le atribuye ningún código del nuevo plan: la familia 15xxx que sí llevan otras materias de Letras no está atestiguada para ésta y no se inventa. La ubicación de la materia dentro de la carrera de Letras proviene del nodo padre (plan 2023) y, en cuanto a la orientación, del propio programa, cuya fundamentación la sitúa «entre las materias de la orientación Lingüística». CÁTEDRA: no se le atribuye ninguna denominación —el programa no la nombra por letra, número ni titular—; la palabra «cátedra» aparece diez veces, nueve de ellas en créditos de traducción o resumen de bibliografía («Traducción a cargo de Laura Andrada para la Cátedra de Lingüística Diacrónica», «traducción para la cátedra a cargo de Muriel Picone», «Traducción del Cap. III a cargo de Rodrigo Loredo», «Traducciones para la cátedra realizadas por Daniel Low, 2014», «Resumen a cargo de la cátedra») y una en las recomendaciones. El programa tampoco menciona que la materia se dicte en más de una cátedra: acá no se afirma ni lo uno ni lo otro. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece) y resolución de aprobación del programa. Las únicas resoluciones citadas son REDEC-2023-2382-UBA-DCT#FFYL (pautas de modalidad de dictado para el ciclo lectivo 2024), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen de promoción directa) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie por MIGUEL VEDDA, Director del Departamento de Letras. CONTRADICCIONES Y DESAJUSTES REGISTRADOS, no resueltos: (1) los Contenidos traen SEIS unidades (I a VI) y la bibliografía trae CINCO bloques, encabezados «Unidad I» en romano y «Unidad 2», «Unidad 3», «Unidad 4» y «Unidad 5» en arábigos; no hay bloque «Unidad 6». Los bloques 4 y 5 corresponden por tema a las unidades de contenido V (lenguas en contacto) y VI (escritura y estandarización), y el bloque 3 arrastra material de las unidades III y IV a la vez (tipología y universales: Comrie, Greenberg, WALS; cambio: Labov, Givon), pero el programa no declara ninguna correspondencia: por eso el rol de cada libro cita el bloque bibliográfico tal como está impreso y NO una unidad de contenido inferida. (2) La fundamentación anuncia como ejemplificación temas que ninguna unidad de los Contenidos nombra literalmente: el gran cambio vocálico del inglés, la lengua quechua y las lenguas del Chaco de las familias mataco-mataguayo y guaycurú; los Contenidos dicen solo «Lenguas indígenas de América» (Unidad IV) y «contacto lingüístico» (Unidad V). (3) El programa recomienda «tener cursada y aprobada Lingüística General»; el plan 2023 citado en el nodo padre no tiene ninguna asignatura con ese nombre —tiene «Lingüística»—. No se resuelve. (4) La obligatoria de la Unidad 3 trae dos entradas casi idénticas: «Remco, B. et al. (2008) “Cartografía del origen y expansión de la familia lingüística indoeuropea” Resumen para la cátedra» y «Remzi, B. et al. (2012). “Cartografía del origen y expansión de la familia lingüística indoeuropea” Resumen»: los títulos difieren sólo en un espacio —«indo europea» en Remco, «indoeuropea» en Remzi—; ninguna de las dos se dibuja. DUPLICACIONES REGISTRADAS: Baldi & Werth, Readings in historical phonology figura como complementaria de la Unidad 2 y como obligatoria de la Unidad 3 —se dibuja una sola vez, bajo la Unidad 3, por figurar en la obligatoria—; Dryer & Haspelmath, The World Atlas of Language Structures Online figura a la vez en la obligatoria y en la complementaria de la Unidad 3 —una sola vez—; Beekes, Comparative Indo-European linguistics figura como complementaria de las Unidades 2 y 3 y no se dibuja en ningún caso. SELECCIÓN DECLARADA de bibliografía, contada en las dos direcciones: el programa lista 84 entradas bibliográficas en total, repartidas en 57 obligatorias (11 en la Unidad I, 6 en la 2, 22 en la 3, 11 en la 4, 7 en la 5) y 27 complementarias (2, 3, 8, 10 y 4 respectivamente). Se dibuja como libro cada entrada de la bibliografía OBLIGATORIA cuyo autor o editor citado es el autor o editor del volumen entero, se cite el volumen completo o capítulos suyos: 30 de esas 57 entradas cumplen la condición y corresponden a 25 volúmenes distintos —Hualde aparece en cuatro entradas y Campbell en tres—, y esos 25 son los que se dibujan. NO se dibujan las 27 entradas obligatorias restantes: artículos de revista (Chomsky 2021, Christiansen, Ross, Bomhard, Anthony & Ringe, Greenberg 1960, Hagy, Villanueva Svensson, Renfrew, Gaamkrelidze & Ivanov, Aikhenvald 2003, Avellana & Messineo, Chang, Viegas Barros 2013), capítulos dentro de obras colectivas de otros (Company en Colombo & Soler; Aikhenvald 2006 en Caron & Zima; Comrie et al. 2010 en Estrada Fernández & Arzápalo Marín; Acuña, Chang y Lapalma 2023 en la Crónica de la lengua española de la RAE), resúmenes y ponencias de cátedra sin volumen propio (Muñoz Pérez, Remco 2008, Remzi 2012, Bolhuis et al., Thomason), documentos en línea sin volumen (el Manual pedagógico IPPDH-MERCOSUR y el Informe de la RAE sobre lenguaje inclusivo) y los módulos del Programa DIRLI de Acuña —el Módulo n° 3 la imprime «(comp.)», los dos Módulo n° 1 la imprimen como autora—. Tampoco se dibuja NINGUNA de las 27 entradas complementarias. TRADUCCIONES DE CÁTEDRA: varios de los volúmenes dibujados se leen en traducción o resumen preparados por la propia cátedra (Campbell caps. II, V, VII y VIII; Givon cap. III; Labov vol. II caps. I y II; Muysken); el volumen es el que se dibuja, y el estado de la lectura queda anotado en el nombre. ERRATAS DEL ORIGINAL, registradas y no enmendadas: «Gaamkrelidze» por Gamkrelidze y «Berwich» por Berwick en las entradas excluidas; la línea suelta «Cengage Learning.» que precede sin relación a la entrada de Bach & Harms en la complementaria de la Unidad 3; «Investigación y ciencias» en plural en la entrada de Renfrew frente a «Investigación y Ciencia» en la de Gaamkrelidze; el guion espaciado de «code – mixing» en Muysken y la falta de espacio en «Cambridge:Cambridge» y «(pp. 93-106).Cambridge». En los nombres dibujados se conservan tal cual el autor, el título, el lugar, la editorial, el año y los capítulos impresos, y solo se restituye en silencio el espaciado que dejó la maquetación del PDF.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades",
+      "title": "Del origen del lenguaje a la escritura como tecnología",
+      "note": "Cada unidad del apartado c) Contenidos es un nodo, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "LINGÜÍSTICA DIACRÓNICA · código 0591 · Prof. Lapalma\n│\n├─ I · Introducción\n│      hominización y orígenes del lenguaje · diacronía y sincronía\n│      diacrónica, histórica, comparativa\n│\n├─ II · Modelos de evolución lingüística\n│      neogramáticos · estructuralismo · generativa · sociolingüística\n│\n├─ III · Lingüística comparativa\n│      protolenguas y familias · sánscrito e indoeuropeo\n│      Cáucaso / Anatolia / hipótesis mixta · Grimm y Verner\n│      reconstrucción comparativa e interna\n│\n├─ IV · Lingüística histórica\n│      cambio fonético, morfológico, sintáctico, léxico y semántico\n│      analogía · préstamo y calco · tipología y universales\n│      indoeuropeas · romances · germánicas · indígenas de América\n│\n├─ V · Lenguas en contacto\n│      préstamos · difusión areal · morfología nueva por contacto\n│\n└─ VI · Escritura y estandarización de lenguas\n       sumerio y egipcio · alfabetos semíticos, griego y latino\n       escrituras de América · planificación lingüística\n       nivaĉle, qom y wichí en la escuela · lenguaje inclusivo",
+        "foot": "Seis unidades de contenido. La bibliografía del mismo programa se organiza en cinco bloques y no hay un bloque «Unidad 6»: la correspondencia entre unos y otros no está declarada en el documento y acá no se infiere."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.introduccion",
+          "name": "Introducción · hominización, orígenes del lenguaje, diacronía y sincronía",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.modelos-de-evolucion",
+          "name": "Modelos de evolución lingüística",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.linguistica-comparativa",
+          "name": "Lingüística comparativa · protolenguas y reconstrucción",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.linguistica-historica",
+          "name": "Lingüística histórica · evolución, cambio y tipología",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.lenguas-en-contacto",
+          "name": "Lenguas en contacto",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.escritura-y-estandarizacion",
+          "name": "Escritura y estandarización de lenguas",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · volúmenes",
+      "title": "El aparato de lectura",
+      "note": "25 volúmenes, de las 57 entradas de la bibliografía obligatoria (30 de esas entradas nombran uno de estos 25 volúmenes; Hualde aparece en cuatro y Campbell en tres). Las otras 27 entradas obligatorias —artículos de revista, capítulos en obras colectivas ajenas, resúmenes y traducciones de cátedra sin volumen propio, documentos en línea y los módulos del Programa DIRLI— y las 27 entradas de la bibliografía complementaria no se dibujan. El rol cita el bloque bibliográfico tal como lo encabeza el programa. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-arlotto",
+          "name": "Introduction to historical linguistics — A. Arlotto (Houghton Mifflin, Boston, 1972)",
+          "role": "bibliografía Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-hockett",
+          "name": "Curso de lingüística moderna — Ch. F. Hockett (EUDEBA, Buenos Aires, 1971)",
+          "role": "bibliografía Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-hualde",
+          "name": "Los sonidos del español — J. I. Hualde (Cambridge University Press, 2014) · caps. I y II (Unidad I), cap. V (Unidad 2), caps. V y VI (Unidad 3)",
+          "role": "bibliografía Unidades I, 2 y 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-jeffers-lehiste",
+          "name": "Principles and Methods for Historical Linguistics — R. J. Jeffers e I. Lehiste (M.I.T., Cambridge Mass., 1979)",
+          "role": "bibliografía Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-pinker",
+          "name": "El instinto del lenguaje — S. Pinker (Alianza Editorial, Madrid, 1995) · cap. XI",
+          "role": "bibliografía Unidad I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-campbell",
+          "name": "Historical linguistics: an introduction — L. Campbell (MIT Press, 1999) · cap. 2 «Cambio de sonido» (trad. Laura Andrada para la cátedra), cap. V «El método comparativo y la reconstrucción lingüística», caps. VII y VIII en selección y traducción de cátedra",
+          "role": "bibliografía Unidades 2 y 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-leroy",
+          "name": "Las grandes corrientes de la lingüística — M. Leroy (Fondo de Cultura Económica, México, 1969) · cap. I",
+          "role": "bibliografía Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-martinet-evolucion",
+          "name": "Evolución de las lenguas y reconstrucción — A. Martinet (Gredos, Madrid, 1983)",
+          "role": "bibliografía Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-trask",
+          "name": "Historical linguistics — R. L. Trask (Arnold / Oxford U.P., Londres, 1998)",
+          "role": "bibliografía Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-baldi-werth",
+          "name": "Readings in historical phonology — P. Baldi y R. Werth (eds.) (Pennsylvania State U.P., Londres, 1978)",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-ballester",
+          "name": "El enigma indoeuropeo — X. Ballester (Universidad de Las Palmas de Gran Canaria, Servicio de Publicaciones y Difusión Científica, 2023, 578 p.)",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-comrie-universales",
+          "name": "Universales del lenguaje y tipología lingüística — B. Comrie (Gredos, Madrid, 1990) · caps. I, II y III",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-wals",
+          "name": "The World Atlas of Language Structures Online — M. S. Dryer y M. Haspelmath (eds.) (Max Planck Institute for Evolutionary Anthropology, Leipzig, 2013)",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-givon",
+          "name": "The genesis of syntactic complexity — T. Givon (John Benjamins, Ámsterdam / Filadelfia, 2009) · cap. III en traducción de Rodrigo Loredo para la cátedra",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-greenberg-typology",
+          "name": "Language typology: a historical and analytical overview — J. Greenberg (Mouton de Gruyter, La Haya, 1994)",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-labov",
+          "name": "Principles of Linguistic Change — W. Labov (Blackwell, Oxford, 1994), volúmenes I, II y III · caps. I y II del volumen II en traducción de Muriel Picone para la cátedra",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-martinet-estepas",
+          "name": "De las estepas a los océanos. El indoeuropeo y los indoeuropeos — A. Martinet (Gredos, Madrid, 1994)",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-villar",
+          "name": "Los indoeuropeos y los orígenes de Europa — F. Villar (Gredos, Madrid, 1996) · caps. I y II",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-zuloaga",
+          "name": "Aproximaciones teóricas a la lingüística histórica — M. Zuloaga (coord.) (Zaragoza, 2008) · introducción y caps. I y II",
+          "role": "bibliografía Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-censabella",
+          "name": "Las lenguas indígenas de la Argentina. Una mirada actual — M. Censabella (Eudeba, Buenos Aires, 1999)",
+          "role": "bibliografía Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-cerron-palomino",
+          "name": "Lingüística quechua — R. Cerrón Palomino (Centro de Estudios Rurales Andinos Bartolomé de las Casas, Cuzco, 1987)",
+          "role": "bibliografía Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-muysken",
+          "name": "Bilingual Speech. A typology of code-mixing — P. Muysken (Cambridge University Press, 2000) · resumen a cargo de la cátedra",
+          "role": "bibliografía Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-calvet-ecriture",
+          "name": "Histoire de l'écriture — J-L. Calvet (Hachette, París, 1996)",
+          "role": "bibliografía Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-calvet-politicas",
+          "name": "Las políticas lingüísticas — J-L. Calvet (Edicial, Buenos Aires, 1997)",
+          "role": "bibliografía Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.letras.linguistica-diacronica.libro-kalinowski",
+          "name": "Inclusive el lenguaje. Debate sobre lengua, género y política — S. Kalinowski, M. Mariasch y A. Raier (coord. Daniela Lauria y Julia Zullo; Debates y conferencias en el Instituto de Lingüística, FFyL-UBA, 2018)",
+          "role": "bibliografía Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "letras.filo.uba.ar · Programa de Lingüística Diacrónica, código 0591 (Prof. María Gabriela Lapalma, 2º cuatrimestre 2024)",
+    "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0591LINGUISTICA%20DIACRONICA%20LAPALMA.pdf"
+  },
+  "sources": [
+    {
+      "label": "letras.filo.uba.ar · Programa de Lingüística Diacrónica, código 0591 (Prof. María Gabriela Lapalma, 2º cuatrimestre 2024) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/0591LINGUISTICA%20DIACRONICA%20LAPALMA.pdf"
+    },
+    {
+      "label": "letras.filo.uba.ar · Plan de Estudios 2023 (Res. ACS-2023-58, Licenciatura en Letras), apartado u. «Equivalencias entre el nuevo plan de estudios y el plan anterior» — consultado para el código del nuevo plan: la materia NO figura en la tabla; extracto local en sources/letras-equivalencias-acs-2023-58.txt",
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888739-UBA-SG%25REC%20%28LICENCIATURA%29_0.pdf"
+    },
+    {
+      "label": "repositorio.filo.uba.ar · FILO:Digital — los dos únicos registros de la materia en el repositorio, «Lingüística Diacrónica» filodigital/10604 (2017) y filodigital/3992 (2016); consultados por la API de descubrimiento del repositorio para fechar la fuente, NO extraídos",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/10604"
+    }
+  ]
+}

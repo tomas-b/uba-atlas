@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.letras.literatura-italiana",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 8, "units_found": 8,
+  "books_total": 14, "books_found": 14,
+  "not_found": [
+    "FABRICATED ATTRIBUTION inside the contradictions register: the L'isola d'Arturo/di Arturo split inverts Moestrup (L419 prints DI) and invents a Rosa mention (his title contains no L'isola at all); real split: d'Arturo L245+L409(Cartoni), di Arturo L413(Leavitt)+L419(Moestrup)",
+    "'trad. De' declared conserved ('Ninguna se corrige') but lowercased in both drawn instances (L268→node, L357→node) — selective, since other case oddities ARE preserved",
+    "'3 vol.' in the Asor Rosa name comes from the general-bibliography entry, fused without marking",
+    "eyebrow truncates the parent's 'Literaturas Extranjeras y Comparadas' to 'Literaturas Extranjeras' while the frame claims single-PDF provenance"
+  ],
+  "omitted": ["manifest lacks this extract's entry (pipeline bookkeeping)"],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Everything structural survived: 8 units (0-7) literal; the off-by-one bibliography headers confirmed one by one (7 headers, each naming the PREVIOUS unit's author; U7-by-author/U0-by-number without bibliography, ambiguity recorded); 14 books by both routes (9 contenidos + 5 obligatoria, folds correct); all 86 exclusions exact to the entry; dual-edition rule applied without exception — and the verifier found the claimed 'primera edición' rule DOESN'T EXIST in the repo skills (grep empty), so the declared divergence has no basis; cátedra 7+4 split exact; 4 of 5 contradictions real; all erratas printed. Live PDF re-extracted byte-identical. Fixes at close: rewrite contradiction (d) to the truth, restore 'trad. De' or amend the errata list, mark the '3 vol.' fusion, complete the eyebrow."
+}

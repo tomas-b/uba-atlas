@@ -1,0 +1,105 @@
+{
+  "address": "uba.med.medicina.iar-salud-mental",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tipo": "rotación (módulo) del Ciclo Internado Anual Rotatorio · plan Res. CS 2861/92",
+    "nombreEnLaFuente": "MÓDULO DE SALUD MENTAL en el programa Res. (CD) 261/14; «Salud Mental» en el plan y en el reglamento",
+    "regimen": "2 semanas según el Reglamento del IAR Res. (CD) 2844/12 (art. 23) y la modificatoria Res. (CD) 516/15 (art. 23.A); 4 semanas según el sitio del Departamento de Psiquiatría y Salud Mental",
+    "cargaHoraria": "32 hs según el sitio del Departamento de Psiquiatría y Salud Mental («en el IAR se cursa un Módulo de Salud Mental de 4 semanas, carga horaria 32 hs»); el reglamento no discrimina la carga horaria por módulo — el reglamento fija 2140 hs para todo el IAR — 32 semanas en el hospital asignado de 8 a 14 hs, 844 hs de guardias y 528 hs de actividades curriculares obligatorias — y no discrimina la carga horaria de cada módulo [Res. (CD) 2844/12, art. 21; Res. (CD) 516/15]",
+    "correlativas": "para iniciar el IAR se requiere tener aprobada la totalidad de las asignaturas del Ciclo Clínico [Reglamento Res. (CD) 2844/12, art. 19]; el plan Res. CS 2861/92 no consigna correlativas por rotación",
+    "catedra": "sin cátedra: el módulo depende del Departamento de Psiquiatría y Salud Mental; en cada unidad asistencial responde un Responsable de Módulo [Res. (CD) 2844/12]",
+    "programa": "Programa (Guía de Actividades) del IAR · Res. (CD) 261/14 · CUDAP EXP-UBA 6978/2014",
+    "transversalidad": "el programa declara que las competencias del módulo «se integran y transversalizan en todos los otros módulos»",
+    "simulacion": "«el nivel C se obtiene en situaciones simuladas con actores o con técnicas psicodramáticas (role playing)»",
+    "noConfundir": "no es la materia Salud Mental del Ciclo Biomédico —cuyo programa dice que se cursa en 1º, 2º ó 3º año—, que es otro nodo y otro programa",
+    "ocr": "sección fuertemente degradada en el PDF escaneado: la tabla de niveles A-E del módulo es ilegible y por eso no se consignan niveles de expertez",
+    "evaluacion": "regularidad con 80% de presentismo · evaluación final del módulo: examen de habilidades y destrezas clínicas frente a un paciente concreto con lista de cotejo, grilla de observación o rúbrica, a cargo del Jefe de Servicio/Unidad/División/Departamento o Responsable de Módulo · acta sin calificación numérica (promovido) · aprobados todos los módulos, Examen Final Integrado del Ciclo Clínico (Medicina Integrada), centralizado en la Facultad [Reglamento del IAR, Res. (CD) 2844/12, arts. 27-35]",
+    "escenarios": "Escenarios de aprendizaje que el programa fija para todo el IAR: sala de internación, consultorios externos, centro de atención primaria, sala de partos, quirófano, guardia, ateneos clínicos y ateneos bibliográficos — «y cualquier otro escenario formativo que asegure la posibilidad de que el estudiante realice prácticas bajo estricta supervisión docente».",
+    "bibliografia": "el Programa del IAR no lista bibliografía: en sus 19 hojas no hay una sola referencia de libro. Este nodo no abre puertas L3 porque la fuente no las da"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.med",
+      "label": "Medicina"
+    },
+    {
+      "address": "uba.med.medicina",
+      "label": "Medicina (carrera)"
+    },
+    {
+      "address": "uba.med.medicina.iar-salud-mental",
+      "label": "Salud Mental (rotación del IAR)"
+    }
+  ],
+  "eyebrow": "Salud Mental · rotación del Internado Anual Rotatorio",
+  "title": "El módulo corto que atraviesa a los otros cinco.",
+  "lede": "Dos semanas según el reglamento, cuatro según el Departamento. El programa lo dice de entrada: las competencias de este módulo «se integran y transversalizan en todos los otros módulos», porque la mitad no son de psiquiatría sino de la relación médico-paciente. Cuatro bloques: la patología psiquiátrica prevalente en el niño, el adolescente, el adulto y el adulto mayor; las reacciones emocionales ligadas a estar físicamente enfermo; las crisis agudas por violencia, accidentes, pérdidas y duelos recientes; y las habilidades relacionales. Es el único módulo donde el programa aclara cómo se alcanza el nivel de simulador: con actores y técnicas psicodramáticas.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "2-4 sem.",
+      "small": "según la fuente"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "programa del IAR"
+    },
+    {
+      "k": "Contenidos",
+      "v": "4",
+      "small": "bloques"
+    },
+    {
+      "k": "Referencias",
+      "v": "0",
+      "small": "sin bibliografía"
+    }
+  ],
+  "frame": "Sourceado del Programa (Guía de Actividades) del Internado Anual Rotatorio, Res. (CD) 261/14, PDF escaneado leído por OCR. Aviso de fidelidad: esta sección del original está fuertemente degradada —la tabla de niveles A a E del módulo es ilegible— así que acá se transcribe sólo lo que se lee con certeza y no se le asigna nivel de expertez a ninguna competencia. La duración sale del Reglamento del IAR: 2 semanas en la Res. (CD) 2844/12 y en la modificatoria Res. (CD) 516/15; el sitio del Departamento de Psiquiatría y Salud Mental, en cambio, publica «un Módulo de Salud Mental de 4 semanas, carga horaria 32 hs». La «Guía para Estudiantes - Prácticas Finales Obligatorias» que la Facultad publica hoy describe otra configuración: Curso Introductorio en paralelo con la primera rotación, Centro de Salud (4 semanas), Clínica Médica (4 semanas), tres Módulos Específicos de 4 semanas cada uno en servicios diferentes, y un Módulo de Emergentología de 8 pases por guardia dentro de las rotaciones hospitalarias. Esa guía no nombra cuáles son los tres módulos específicos, así que la correspondencia con las rotaciones del plan no se afirma acá. Esta rotación es distinta de la materia Salud Mental del Ciclo Biomédico —que se cursa en 1º, 2º ó 3º año— y tiene su propio programa. El programa del IAR no lista bibliografía.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Bloque I · patología psiquiátrica prevalente",
+      "title": "En el niño, el adolescente, el adulto y el adulto mayor",
+      "note": "Lo que el alumno deberá ser capaz de hacer. El programa gradúa cada ítem en una tabla A-E que el escaneo dejó ilegible; por eso van sin nivel.",
+      "map": {
+        "mk": "Módulo de Salud Mental · bloque I",
+        "tree": "PATOLOGÍA PSIQUIÁTRICA PREVALENTE — el alumno deberá ser capaz de:\n│\n├─ Realizar el completo examen del estado mental\n├─ Investigar síntomas y signos que permitan detectar una depresión y su manejo inicial\n│     (énfasis en depresiones enmascaradas como somatizaciones)\n├─ Evaluar riesgo suicida\n├─ Hacer un plan de farmacoterapia básica de la depresión\n├─ Detectar un trastorno por ansiedad y su manejo inicial\n├─ Hacer un plan de farmacoterapia básica para un trastorno de ansiedad\n├─ Detectar trastornos cognitivos y su manejo inicial\n├─ Detectar un trastorno psicótico y su manejo inicial\n├─ Detectar un estado confusional (delirium), sus posibles etiologías y su manejo inicial\n├─ Hacer un plan de farmacoterapia de los estados de excitación psicomotriz\n├─ Detectar consumo / abuso / abstinencia de sustancias y psicofármacos y su manejo inicial\n│     (énfasis especial en alcoholismo)\n├─ Detectar maltrato / abuso sexual infantil y violencia familiar y su manejo inicial\n├─ Detectar trastornos de la alimentación y su manejo inicial\n├─ Confeccionar un pedido de interconsulta\n├─ Realizar la derivación de un paciente al Servicio de Psiquiatría\n└─ Confeccionar el trámite legal necesario para una internación psiquiátrica",
+        "foot": "Res. (CD) 261/14, «MÓDULO DE SALUD MENTAL», bloque I. Transcripción de los ítems legibles del escaneo."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bloques II y III · la emoción en el cuerpo y en la crisis",
+      "title": "Enfermar, y lo que irrumpe",
+      "note": "Dos bloques cortos, de la misma forma: reconocer y responder.",
+      "map": {
+        "mk": "Módulo de Salud Mental · bloques II y III",
+        "tree": "II · REACCIONES EMOCIONALES Y ESTADOS DE ÁNIMO LIGADOS A LA ENFERMEDAD FÍSICA\n│\n├─ Reconocer las distintas reacciones emocionales y estados de ánimo\n└─ Responder adecuadamente a las mismas —verbal, actitudinal y farmacológicamente— sabiendo dar noticias\n   e información de diagnósticos, pronósticos o procedimientos terapéuticos a realizarse o ya realizados,\n   y de secuelas inmediatas de enfermedades agudas, accidentes o cirugías mutiladoras, se presenten con o\n   sin dolor físico intenso\n\nIII · REACCIONES Y CRISIS EMOCIONALES REACTIVAS AGUDAS\n     (violencia, violaciones, robos, accidentes, pérdidas y duelos recientes)\n│\n├─ Reconocer estas reacciones emocionales\n└─ Responder adecuadamente a las mismas (verbal, actitudinal y farmacoterapéuticamente)",
+        "foot": "Res. (CD) 261/14, «MÓDULO DE SALUD MENTAL», bloques II y III."
+      }
+    },
+    {
+      "kind": "problems",
+      "eyebrow": "Bloque IV · habilidades relacionales",
+      "title": "Lo que se exige en toda relación médico-paciente",
+      "note": "El bloque que el programa declara transversal a los otros cinco módulos del Internado.",
+      "map": {
+        "mk": "Módulo de Salud Mental · bloque IV",
+        "tree": "HABILIDADES RELACIONALES — el alumno deberá ser capaz de:\n│\n├─ Establecer una relación personalizada, empática y confiable con el paciente niño, adolescente,\n│     adulto o adulto mayor\n├─ Atender las necesidades del paciente en cuanto a su bienestar, pudor y confidencialidad\n├─ Explicar al paciente (y su familia) el diagnóstico y los fundamentos del estudio / tratamiento a seguir,\n│     buscando su consentimiento y adherencia\n├─ Detectar y nombrar el estado anímico / emocional del paciente, articulándolo a su modo de reacción y\n│     afrontamiento respecto de su enfermedad actual\n├─ Evolucionar el estado anímico / emocional en la historia clínica\n├─ Manejar el estado anímico detectado con intervenciones verbales y actitudinales apropiadas\n└─ Educar al paciente crónico en el manejo apropiado de su terapéutica y autocuidados",
+        "foot": "Res. (CD) 261/14, «MÓDULO DE SALUD MENTAL», bloque IV."
+      }
+    }
+  ],
+  "source": {
+    "label": "fmed.uba.ar · Programa (Guía de Actividades) del Internado Anual Rotatorio — Prácticas Finales Obligatorias, Res. (CD) 261/14 (anexo de 19 hojas)",
+    "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf"
+  }
+}

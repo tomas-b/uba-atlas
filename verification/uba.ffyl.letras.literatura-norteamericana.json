@@ -1,0 +1,15 @@
+{
+  "address": "uba.ffyl.letras.literatura-norteamericana",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4, "units_found": 4,
+  "books_total": 25, "books_found": 25,
+  "not_found": [],
+  "omitted": [
+    "in-PDF imprint contradiction unrecorded: Burello/Lasa T.I-III 'Opfyl/OPFyL' in complementaria vs 'EFyL' in general",
+    "name variants unrecorded: Cohen Jerome/J.J. (same Monster Theory); Dick Philip K./Philip; PDF-vs-ficha equipo name/rank variants"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "No fabrication: extract byte-identical to live PDF (md5 confirmed); 25 books recounted exactly; complementaria 70 and general 86 recounted by section; all five declared contradictions real; Hawthorne shared-imprint handled without inventing years; PD-vs-final real; ficha cross-claims verbatim. Defects: 174 total mixes counting conventions (obligatoria author-counted 18 vs typographic 19 — Anderson's '–,' continuation; uniform count = 175); 'fechados por delante de la cursada' overstates Melville (Colihue 2026 = cursada year; only Fitzgerald 'en prensa' genuinely unpublished); the unrecorded variants above. Fixes at close."
+}

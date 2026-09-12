@@ -1,0 +1,11 @@
+{
+  "address": "uba.ffyl.letras.literatura-alemana",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5, "units_found": 5,
+  "books_total": 79, "books_found": 79,
+  "not_found": [], "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "No fabrication: live PDF byte-identical; 117 asientos hand-counted per unit; 17 exclusions match item-for-item; 100−21 duplicates = 79 by BOTH routes, mapped 1:1 onto the exits with the four distinct 'Novelle' volumes correctly kept apart. All 10 contradictions printed (Meyer amuleto/jueza with the grep-exact two occurrences; Schnitzler U5/U4; Hartmut/Helmut; the six dual-title sets; Benjamin problema/programa; Lukács 1982/1985). All 3 announced-without-entry absences verified by grep (Kleist Duelo, Kafka 0 hits as author, Muerte en Venecia). All 12 erratas printed. Cátedra 1+3+4 breakdown exact. Área attribution confirmed in parent. Notes: manifest gap (wave-wide); 6 unregistered same-class variants (Lukács Georg/György/G., Hoffmann Th./T., Scuderi ×3, El realismo ×4 imprints) — completeness of the register, not truth; verifier also flagged scratchpad filename collisions between parallel agents."
+}

@@ -1,0 +1,15 @@
+{
+  "address": "uba.ffyl.letras.analisis-de-los-lenguajes-de-los-medios",
+  "wave": "letras-5-cierre", "date": "2026-09-12", "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6, "units_found": 6,
+  "books_total": 17, "books_found": 17,
+  "not_found": [
+    "off-by-one cascade from ONE complementaria entry skipped right after a form-feed (Marchese 2024, Refracción, L378): bibliografiaEntradas 76→77, complementaria 18→19 (5+3+3+8), bloc-excluded 35→36",
+    "Handbook of Qualitative Research carries 1994 as the CHAPTER year — volume year not printed (same case the node flags on Vila)"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Everything drawn is true: 6/6 units and 17/17 books literal with correct imprints/recortes; 21→17 via the three declared merges; 'Cátedra B' never printed (only 0587-B + the sic signature) confirmed by grep; 15061-A/15061 code asymmetry confirmed LIVE on both fichas; no 2025-A-programa claim (only the verified 2021 PDF, 211968 bytes); triple-dated Biblos volume real, drawn once with both dates; both truncations real, observation-not-identification; all six erratas literal; REDEC 2026-here/2025-in-Croce cross-note accurate. Soft: lede 'la IA entra dos veces' vs three content hits; trabajoFinal rests on the L400 heading only (cited). Fixes: the three off-by-one numbers."
+}
