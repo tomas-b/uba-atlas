@@ -106,7 +106,7 @@ const server = http.createServer((req, res) => {
 
   if (STATIC) return staticFile(res, p === "/" ? "/index.html" : p === "/graph" ? "/graph.html" : p);
   if (p === "/graph" || p === "/graph.html") return staticFile(res, "/graph.html");
-  if (p === "/graph-data.json" || p.startsWith("/vendor/")) return staticFile(res, p);
+  if (p === "/graph-space.html" || p === "/graph-data.json" || p.startsWith("/vendor/")) return staticFile(res, p);
 
   if (p === "/" || p === "/index.html") return send(res, 200, fs.readFileSync(path.join(ROOT, "shell.html"), "utf8"), "text/html; charset=utf-8");
   if (p === "/mermaid") return send(res, 200, buildMermaid(u.searchParams.get("root") || "uba", parseInt(u.searchParams.get("depth") || "2", 10)));
