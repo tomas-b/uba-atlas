@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.filosofia.antigua",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 8,
+  "books_found": 8,
+  "not_found": [
+    "map.foot asserts 'una figura introductoria de método' — 'método'/'introductoria' have ZERO hits in the program",
+    "the source's own contradiction (Fundamentación says SEIS unidades, lists 5) silently resolved without declaring"
+  ],
+  "omitted": [
+    "~40 obligatory secondary items; 'tal como los asigna la cátedra' implies completeness over 8 of ~50"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Metadata exact, 5 units literal, 8 books traceable. The asserted-but-absent 'figura de método' is the fabrication."
+}

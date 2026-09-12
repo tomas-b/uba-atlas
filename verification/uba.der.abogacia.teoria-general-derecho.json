@@ -1,0 +1,18 @@
+{
+  "address": "uba.der.abogacia.teoria-general-derecho",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "Alegre cátedra programa 2025 unreachable (login-gated); only a third-party 2022 copy exists, unfetchable — all 5 exits unverifiable AS ASSIGNED",
+    "silent normalization: source's own typo 'Leguaje' corrected to 'Lenguaje' without recording"
+  ],
+  "omitted": [
+    "selection undeclarable"
+  ],
+  "metadata_matches": true,
+  "verdict": "unverifiable",
+  "notes": "Plan half unusually tight: 9 contenido lines map 1:1 onto 6 units, aggregation declared. All 5 works exist; Olsen honestly tagged 'artículo' and corroborated in a CPO programa (cross-source, unattributed). Hart's role 'obligatoria' papers over a missing imprint."
+}

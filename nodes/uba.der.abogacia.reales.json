@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 5 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidadesEditoriales": 5, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Elementos de Derechos Reales estudia los derechos que recaen directamente sobre las cosas: qué es un derecho real, cómo se ejerce el poder sobre la cosa y cuáles son sus figuras concretas. Materia cuatrimestral del Ciclo Profesional Común, recorre la teoría general y las relaciones de poder, el dominio y sus formas de propiedad, los derechos sobre cosa ajena de disfrute, los derechos reales de garantía y, por último, su defensa y publicidad. Los contenidos mínimos oficiales se organizan en cinco unidades.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
-    { "k": "Unidades", "v": "5", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "5", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra del Prof. Titular Claudio Marcelo Kiper.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en cinco unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 5 unidades",
       "title": "De la teoría general a la defensa del derecho real",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en cinco unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en cinco unidades",
         "tree": "ELEMENTOS DE DERECHOS REALES\n│\n├─ Unidad 1 · Teoría general y relaciones de poder\n├─ Unidad 2 · Dominio, condominio y propiedades especiales\n├─ Unidad 3 · Superficie y derechos de disfrute\n├─ Unidad 4 · Derechos reales de garantía\n└─ Unidad 5 · Defensa y publicidad",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Kiper."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en cinco unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.reales.teoria-general", "name": "Teoría general y relaciones de poder", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -40,18 +40,17 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía del programa de la cátedra del Prof. Titular Claudio Marcelo Kiper (adjunto Roberto Malizia). Fuente: programa de cátedra (año lectivo 2025).",
-      "exits": [
-        { "address": "uba.der.abogacia.reales.kiper-manual", "name": "Claudio Kiper — Manual de Derechos Reales", "role": "Rubinzal-Culzoni · 2016", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.reales.kiper-tratado", "name": "Claudio Kiper — Tratado de Derechos Reales", "role": "Rubinzal-Culzoni · 2 t. 2016", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.reales.kiper-malizia-casos", "name": "Kiper y Malizia — Derechos Reales. Casos para su aprendizaje", "role": "Astrea · 2005", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.reales.abreut-de-begher-manual", "name": "Liliana Abreut de Begher — Manual de Derechos Reales", "role": "Hammurabi · 3ª ed. 2019", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.reales.malizia-modelos", "name": "Roberto Malizia — Modelos de escritos. Derechos Reales", "role": "Rubinzal-Culzoni · 2018", "tag": "libro", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "El programa de la cátedra Kiper (2025) no es alcanzable: está detrás del login del portal académico. Los cinco títulos que se le atribuían no son verificables COMO ASIGNADOS —cuatro existen con los pies de imprenta declarados y el quinto lleva un título no literal frente al catálogo de su editorial—, y que un libro exista no prueba que un programa lo asigne. La oferta CPC del primer cuatrimestre de 2024 lista comisiones de esta materia bajo cinco titulares —Abreut, Clerc, Kiper, Peralta Mariscal y Vázquez— y en ella sí consta el par Kiper–Malizia al frente de comisiones: eso ubica la cátedra, no su bibliografía. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de cátedras que dictan la materia. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

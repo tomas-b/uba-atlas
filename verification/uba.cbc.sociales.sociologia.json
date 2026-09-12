@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.sociales.sociologia",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "exits 3-4 truncated (perspectivas teóricas, configuraciones de la sociedad moderna dropped)",
+    "frame attributes 'contextos nacional, latinoamericano y global' to contenido 4 — it lives in B. Objetivos (cross-block, undeclared)",
+    "undeclared segmentation + unsourced regimen"
+  ],
+  "omitted": [
+    "contenido 3's fuller concept list kept partial with no 'entre otros'"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Exit 1 verbatim. Title/lede grounded in the Fundamentación. Verified against the shared Cap. D dump (no per-materia extract existed).",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

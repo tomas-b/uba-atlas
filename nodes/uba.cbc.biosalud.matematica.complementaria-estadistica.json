@@ -1,0 +1,76 @@
+{
+  "address": "uba.cbc.biosalud.matematica.complementaria-estadistica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": "C2",
+    "de": "7 unidades temáticas + 2 unidades complementarias",
+    "tipo": "unidad complementaria"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.complementaria-estadistica",
+      "label": "Muestra aleatoria. Estadística descriptiva"
+    }
+  ],
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad Complementaria 2",
+  "title": "Muestra aleatoria. Estadística descriptiva",
+  "lede": "Resumir una muestra: dónde está el centro, cuánto se dispersa y cómo se dibuja.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "C2",
+      "small": "complementaria"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC · código 51"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad complementaria"
+    }
+  ],
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Medidas de posición y dispersión: media aritmética, modo, mediana, cuartiles, percentiles, varianza, desvío estándar, coeficiente de variación, amplitud · propiedades; Distribución de la media muestral; Gráficos: de barras; de bastones y escalones; histogramas; polígono de frecuencias y ojiva; box-plot. Unidad Complementaria: el programa la numera aparte de las siete unidades temáticas, y el cronograma de la sección C no le asigna ningún encuentro.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "MUESTRA ALEATORIA · ESTADÍSTICA DESCRIPTIVA\n│\n• Medidas de posición y dispersión: media aritmética, modo, mediana, cuartiles, percentiles, varianza, desvío estándar, coeficiente de variación, amplitud · propiedades\n• Distribución de la media muestral\n• Gráficos: de barras; de bastones y escalones; histogramas; polígono de frecuencias y ojiva; box-plot",
+        "foot": "Unidad Complementaria: el programa la numera aparte de las siete unidades temáticas, y el cronograma de la sección C no le asigna ningún encuentro. La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

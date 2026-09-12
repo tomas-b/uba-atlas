@@ -1,0 +1,22 @@
+{
+  "address": "uba.der.abogacia.ddhh-garantias",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 4,
+  "books_found": 0,
+  "not_found": [
+    "Nikken book: zero hits anywhere",
+    "the other 3 books are stitched from TWO unrelated CPO electives (Furfaro's DIDH; Pautassi's género course) under a false 'cátedra Pinto programa' attribution",
+    "'Prof. Titular'/'adjunto' ranks not in any source (cpc_offer is a bare schedule)"
+  ],
+  "omitted": [
+    "'reglamentación, restricción y suspensión de los derechos' folded into U2 unnamed"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Best spine alongside penal: 6 blocks map 1:1 in source order. The bibliography is a synthetic compilation under a single false attribution."
+}

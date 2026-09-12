@@ -1,0 +1,18 @@
+{
+  "address": "uba.der.abogacia.reales",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "Kiper cátedra programa (2025) unreachable (behind portalacademico login) — all 5 books unverifiable AS ASSIGNED",
+    "Abreut de Begher title non-literal vs publisher catalogue ('Derechos Reales', not 'Manual de...'; edition unconfirmed)"
+  ],
+  "omitted": [
+    "selection of 5 titles undeclarable — assigning program never located"
+  ],
+  "metadata_matches": true,
+  "verdict": "unverifiable",
+  "notes": "Plan half clean and complete: 21/21 contenido items present across the declared 5-unit aggregation; 54h/cuatrimestral/CPC verified. 4 of 5 titles exist with stated imprints (existence ≠ assignment); Kiper-Malizia pairing grounded in the oferta CPC. 'biblio ✓' meta overclaims."
+}

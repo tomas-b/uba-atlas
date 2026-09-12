@@ -4,9 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Física CBC (biofísica)",
-    "unidades": 6
+    "seccion": "Cap. D · «FÍSICA E INTRODUCCIÓN A LA BIOFÍSICA» · PROGRAMA DE CONTENIDOS MÍNIMOS, ítems 1) a 6)",
+    "contenidos": 6,
+    "numeradosEnLaFuente": true,
+    "nomenclatura": "la fuente los llama «PROGRAMA DE CONTENIDOS MÍNIMOS» y los numera 1) a 6); llamarlos «unidades» es de este atlas"
   },
   "breadcrumb": [
     {
@@ -28,40 +29,40 @@
   ],
   "eyebrow": "Física e Introducción a la Biofísica · CBC · Bio·Salud",
   "title": "La física leída desde el cuerpo vivo.",
-  "lede": "La Física del perfil biológico. No es la mecánica pura del área exacta: cada bloque de física se ancla en un sistema del organismo —la biomecánica, la circulación, la termodinámica del cuerpo, la bioelectricidad—. La física como herramienta para entender lo vivo.",
+  "lede": "La Física del perfil biológico. Cada bloque de física cierra con una «Perspectiva biofísica» que lo ancla en el organismo: el hombre como estructura mecánica, el aparato circulatorio como sistema tubular cerrado, el hombre como sistema termodinámico, las membranas biológicas, los fenómenos bioeléctricos, las bases físicas de la visión y la audición.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Contenidos",
+      "v": "6",
+      "small": "1) a 6)"
     },
     {
-      "k": "Unidades",
-      "v": "6",
-      "small": "programa"
+      "k": "Perspectiva",
+      "v": "biofísica",
+      "small": "en cada bloque"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
-      "k": "Cursan",
-      "v": "núcleo",
-      "small": "carreras"
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenido de los contenidos mínimos oficiales del CBC. Seis unidades que van de la mecánica a las señales, pero siempre con una lectura biofísica: el hombre como estructura mecánica, el aparato circulatorio como sistema de fluidos, el organismo como sistema termodinámico. Es la variante que cursan todas las carreras de la orientación.",
+  "frame": "«PROGRAMA DE CONTENIDOS MÍNIMOS» oficial del CBC (Cap. D del Código UBA), seis ítems numerados 1) a 6) que van de la mecánica a las señales. La fuente misma cierra casi todos con una «Perspectiva biofísica». Llamarlos «unidades» es de este atlas: la fuente no usa esa palabra. Los cuerpos de temas de cada ítem todavía no están dibujados. La sección no trae duración, carga horaria, cátedra ni bibliografía.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 6 unidades",
+      "eyebrow": "Contenidos mínimos · los 6 ítems",
       "title": "El recorrido del programa",
-      "note": "Cada unidad es un tramo del programa, en orden.",
+      "note": "Cada ítem es un tramo del programa, en el orden numerado de la fuente; el nombre es su enunciado.",
       "map": {
-        "mk": "El programa, en 6 unidades",
-        "tree": "FÍSICA E INTRODUCCIÓN A LA BIOFÍSICA\n│\n├─ Unidad 1 · Introducción a la Biomecánica\n├─ Unidad 2 · Bases físicas de la Circulación y la Respiración\n├─ Unidad 3 · La Termodinámica de los Seres Vivos\n├─ Unidad 4 · Las Bases Fisicoquímicas de la Vida\n├─ Unidad 5 · Bases Físicas de los Fenómenos Bioeléctricos\n└─ Unidad 6 · Introducción al manejo de señales en los seres vivos",
-        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+        "mk": "El programa, en 6 ítems",
+        "tree": "FÍSICA E INTRODUCCIÓN A LA BIOFÍSICA — programa de contenidos mínimos\n│\n├─ 1) Introducción a la Biomecánica\n├─ 2) Bases físicas de la Circulación y la Respiración\n├─ 3) La Termodinámica de los Seres Vivos\n├─ 4) Las Bases Fisicoquímicas de la Vida\n├─ 5) Bases Físicas de los Fenómenos Bioeléctricos\n└─ 6) Introducción al manejo de señales en los seres vivos",
+        "foot": "Cap. D del Código UBA, «PROGRAMA DE CONTENIDOS MÍNIMOS», ítems 1) a 6). La sección no publica bibliografía, duración ni cátedra."
       },
       "exits": [
         {

@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.filosofia.ciencias",
+  "source_reachable": true,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 8,
+  "books_found": 8,
+  "not_found": [
+    "the entire two-cátedras framing (rota Gentile/Cassini, the Cassini paragraph) rests on an UNDECLARED local extract (fdc_2021b.txt) — real but uncited",
+    "'no existe contenido mínimo normativo separado' — unverifiable negative"
+  ],
+  "omitted": [
+    "5 obligatory Eudeba monographs dropped; bibliografia:8 vs ~25"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Strongest structural match: metadata exact, 8 unit titles literal, 8 books literal with roles."
+}

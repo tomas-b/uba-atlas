@@ -4,9 +4,13 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Coordinación de Matemática (CBC)",
-    "unidades": 7
+    "codigo": "27",
+    "denominacionSitio": "Álgebra 27 (para Exactas)",
+    "area": "Área de Matemática — Ciclo Básico Común (así se identifica el sitio; no publica cátedra ni docentes)",
+    "practicas": 8,
+    "unidadDelSitio": "práctica (P0 a P7) — el sitio no usa la palabra «unidad»",
+    "bibliografia": 0,
+    "materiaHomonima": "Álgebra A 62 (para Ingeniería) — materia distinta, listada aparte en el mismo índice, con 10 prácticas propias (0 a 9)"
   },
   "breadcrumb": [
     {
@@ -26,113 +30,105 @@
       "label": "Álgebra"
     }
   ],
-  "eyebrow": "Álgebra · CBC · exactas–ingeniería",
-  "title": "El álgebra lineal, de los vectores a la diagonalización.",
-  "lede": "El Álgebra del perfil exacto: una introducción al álgebra lineal. De los vectores y la geometría a los espacios vectoriales abstractos, las matrices y transformaciones lineales, hasta autovalores y diagonalización. Materia núcleo, complemento de Análisis en el área matemática.",
+  "eyebrow": "Álgebra 27 · CBC · Cs. Exactas",
+  "title": "Ocho prácticas, de los vectores a la diagonalización.",
+  "lede": "El Álgebra del código 27, la que cursan quienes van a Ciencias Exactas. Arranca con una práctica de repaso que no cuenta como tema nuevo, sigue con flechas en R² y R³, y de ahí entra al álgebra lineal propiamente dicha: sistemas de ecuaciones y matrices, determinantes, espacios vectoriales y subespacios, transformaciones lineales. Cierra con dos prácticas que cambian de terreno: los números complejos con los polinomios, y la diagonalización — autovalores y autovectores. Cada práctica es un PDF suelto con definiciones, propiedades y ejercicios.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Prácticas",
+      "v": "8",
+      "small": "P0 a P7"
     },
     {
-      "k": "Unidades",
-      "v": "7",
-      "small": "programa"
+      "k": "Código",
+      "v": "27",
+      "small": "Cs. Exactas"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio ✓"
+      "small": "temas ✓ · sin biblio"
     },
     {
-      "k": "Rol",
-      "v": "núcleo",
-      "small": "área mat."
+      "k": "Bibliografía",
+      "v": "—",
+      "small": "el sitio no publica"
     }
   ],
-  "frame": "Contenido de la cátedra de Álgebra (Álgebra A) del CBC: introducción al álgebra lineal, en siete unidades. Los temas están sourceados y el texto de cátedra identificado (Álgebra A, de Capitelli, Escayola, Fernández y Rossi).",
+  "frame": "Material real de Álgebra 27 publicado por el ÁREA DE MATEMÁTICA del Ciclo Básico Común (así se titula y encabeza el sitio; no dice «Coordinación» ni nombra cátedra o docentes). El índice general del sitio la lista como «Álgebra 27 (para Exactas)» y su página propia la titula «Explicaciones teóricas con ejemplos resueltos de Álgebra (Cs. Exactas) (27)». LA UNIDAD ES LA PRÁCTICA: la estructura que el sitio publica son OCHO PRÁCTICAS numeradas de 0 a 7, ocho PDF sueltos; la palabra impresa es «práctica», no «unidad», y acá se dibujan una por una, tal como están numeradas, sin fusionar ni renumerar. IDENTIDAD — NO CONFUNDIR: el mismo índice lista aparte «Álgebra A 62 (para Ingeniería)», con diez prácticas propias (0 a 9) y su propio canal de YouTube. Es OTRA materia, con otro código y otro destinatario; no se mezcla con ésta ni le presta contenidos. CONTRADICCIÓN REGISTRADA entre dos páginas citables del mismo sitio: los títulos que da 27.html (la página de explicaciones teóricas) y los encabezados impresos en los PDF de las prácticas no coinciden en tres casos — P1: «Álgebra vectorial» contra «VECTORES EN R2 Y EN R3»; P4: «Espacios vectoriales» contra «ESPACIOS VECTORIALES – SUBESPACIOS»; P7: «Diagonalización» contra «AUTOVECTORES Y AUTOVALORES». Se dibujan los títulos de 27.html y se consigna al lado el encabezado del PDF donde difiere. La Práctica 0 no lleva título en su PDF: sólo una nota a los alumnos que aclara que sus temas «se suponen conocidos» y se repasan; el título «Preliminares» viene de 27.html. BIBLIOGRAFÍA: el sitio NO publica ninguna para Álgebra 27 — ni en el índice general, ni en 27.html, ni en los ocho PDF de prácticas. No se dibuja ningún libro. El nodo anterior atribuía a esta materia el texto «Álgebra A», de Capitelli, Escayola, Fernández y Rossi: ese título no aparece en ninguna página citable del sitio y se retira. TAMPOCO se publica régimen, carga horaria, correlatividades ni cuatrimestre: no se afirman. ACCESO: http://www.mate.cbc.uba.ar/ y http://mate.cbc.uba.ar/ redirigen (301, nginx) a https://mate.cbc.uba.ar/; el host CON www sirve por HTTPS un certificado vencido —CN=*.rec.uba.ar, Let's Encrypt Authority X3, válido del 04/03/2020 al 02/06/2020—, así que https://www.mate.cbc.uba.ar/ no verifica y falla. La URL citable es la del host SIN www, que sí presenta certificado válido (CN=mate.cbc.uba.ar). Los ocho PDF de prácticas fueron creados el 16/03/2020.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 7 unidades",
-      "title": "El recorrido del álgebra lineal",
-      "note": "Cada unidad en orden, de los vectores a la diagonalización.",
+      "eyebrow": "Contenidos · las 8 prácticas, como están impresas",
+      "title": "El recorrido, práctica por práctica",
+      "note": "Las ocho prácticas que publica el sitio, en su numeración original (0 a 7). Sin fusiones. Donde el PDF de la práctica encabeza distinto que 27.html, se consignan los dos.",
       "map": {
-        "mk": "El programa, en siete unidades",
-        "tree": "ÁLGEBRA — introducción al álgebra lineal\n│\n├─ U1 · Álgebra Vectorial\n├─ U2 · Espacios Vectoriales\n├─ U3 · Matrices y Determinantes\n├─ U4 · Transformaciones Lineales\n├─ U5 · Transformaciones Lineales y Matrices\n├─ U6 · Números Complejos y Polinomios\n└─ U7 · Autovalores y Autovectores",
-        "foot": "Temas de la cátedra de Álgebra. El texto de cátedra es Álgebra A (Capitelli et al.)."
+        "mk": "Álgebra 27 (Cs. Exactas) — ocho prácticas",
+        "tree": "ÁLGEBRA 27 · Área de Matemática · CBC\n│\n├─ P0 · Preliminares            · repaso; el PDF no lleva título\n├─ P1 · Álgebra vectorial       · PDF: «Vectores en R2 y en R3»\n├─ P2 · Sistemas lineales y matrices\n├─ P3 · Determinantes\n├─ P4 · Espacios vectoriales    · PDF: «Espacios vectoriales – Subespacios»\n├─ P5 · Transformaciones lineales\n├─ P6 · Números complejos y polinomios\n└─ P7 · Diagonalización         · PDF: «Autovectores y autovalores»\n\nAPARTE — no es esta materia:\n└─ Álgebra A 62 (para Ingeniería) · 10 prácticas propias (P0 a P9)",
+        "foot": "Ocho prácticas, no siete unidades. El sitio no publica bibliografía para esta materia."
       },
       "exits": [
         {
+          "address": "uba.cbc.exactas.algebra.preliminares",
+          "name": "Preliminares",
+          "role": "Práctica 0 · el PDF no lleva título",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
           "address": "uba.cbc.exactas.algebra.algebra-vectorial",
-          "name": "Álgebra Vectorial",
-          "role": "U1",
-          "tag": "unidad",
+          "name": "Álgebra vectorial",
+          "role": "Práctica 1 · PDF: «Vectores en R2 y en R3»",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.sistemas-lineales-matrices",
+          "name": "Sistemas lineales y matrices",
+          "role": "Práctica 2",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.algebra.determinantes",
+          "name": "Determinantes",
+          "role": "Práctica 3",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.algebra.espacios-vectoriales",
-          "name": "Espacios Vectoriales",
-          "role": "U2",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.exactas.algebra.matrices-determinantes",
-          "name": "Matrices y Determinantes",
-          "role": "U3",
-          "tag": "unidad",
+          "name": "Espacios vectoriales",
+          "role": "Práctica 4 · PDF: «Espacios vectoriales – Subespacios»",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.algebra.transformaciones-lineales",
-          "name": "Transformaciones Lineales",
-          "role": "U4",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.exactas.algebra.transformaciones-matrices",
-          "name": "Transformaciones Lineales y Matrices",
-          "role": "U5",
-          "tag": "unidad",
+          "name": "Transformaciones lineales",
+          "role": "Práctica 5",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.algebra.complejos-polinomios",
-          "name": "Números Complejos y Polinomios",
-          "role": "U6",
-          "tag": "unidad",
+          "name": "Números complejos y polinomios",
+          "role": "Práctica 6",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.algebra.autovalores-autovectores",
-          "name": "Autovalores y Autovectores",
-          "role": "U7",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.algebra.diagonalizacion",
+          "name": "Diagonalización",
+          "role": "Práctica 7 · PDF: «Autovectores y autovalores»",
+          "tag": "práctica",
           "kind": "unit"
-        }
-      ]
-    },
-    {
-      "kind": "plain",
-      "eyebrow": "Bibliografía · sourceada",
-      "title": "El libro de la cátedra",
-      "note": "Texto oficial de la materia. Su contenido (L3) es un índice aparte.",
-      "exits": [
-        {
-          "address": "uba.cbc.exactas.algebra.algebra-a-capitelli",
-          "name": "Álgebra A — Capitelli, Escayola, Fernández, Rossi",
-          "role": "texto de cátedra",
-          "tag": "libro",
-          "kind": "book"
         }
       ]
     }
   ],
   "source": {
-    "label": "mate.cbc.uba.ar · Álgebra (CBC)",
-    "url": "https://www.mate.cbc.uba.ar/"
+    "label": "mate.cbc.uba.ar · Área de Matemática (CBC) — «Explicaciones teóricas con ejemplos resueltos de Álgebra (Cs. Exactas) (27)», https://mate.cbc.uba.ar/27.html · índice general del material («Álgebra 27 (para Exactas)», ocho prácticas P0–P7, y aparte «Álgebra A 62 (para Ingeniería)»), https://mate.cbc.uba.ar/ · PDF de las prácticas https://mate.cbc.uba.ar/materias/27/27_practica_0.pdf … 27_practica_7.pdf (creados 16/03/2020). Sin bibliografía publicada. El host www.mate.cbc.uba.ar no sirve HTTPS válido (certificado *.rec.uba.ar vencido el 02/06/2020); http:// redirige 301 al host sin www.",
+    "url": "https://mate.cbc.uba.ar/27.html"
   }
 }

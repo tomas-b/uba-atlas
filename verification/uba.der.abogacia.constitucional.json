@@ -1,0 +1,23 @@
+{
+  "address": "uba.der.abogacia.constitucional",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 4,
+  "books_found": 4,
+  "not_found": [
+    "CROSS-COURSE MISATTRIBUTION: the bibliography note paraphrases §8 of 'Bases Constitucionales del Derecho Privado' — a CPO course from 2014 — presented as this CPC materia's programa",
+    "CATEGORY INFLATION: 2 of 4 exits sit in §9 COMPLEMENTARIA, filed as 'general y obligatoria'",
+    "'Astrea' attribution on Constitución y Derechos Humanos has no ground"
+  ],
+  "omitted": [
+    "Ientile and Alexy entries silently dropped",
+    "1-of-8 cátedra selection undeclared"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Spine clean (6 units literal vs plan blocks). The bibliography group presents another course's reading list as this materia's — remove or re-source at fix.",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -4,10 +4,11 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 10
+    "seccion": "Cap. D · «05. ECONOMÍA» · Contenidos mínimos 1 a 10",
+    "contenidos": 10,
+    "numeradosEnLaFuente": true,
+    "homonimiaEnLaFuente": "Este nodo dibuja «05. ECONOMÍA» (10 contenidos mínimos). El Cap. D contiene además una segunda materia distinta también llamada «Economía», en el bloque de Ciencias Económicas (junto a Análisis Contable, Administración General, Sociología de las Organizaciones e Instituciones de Gobierno y Economía Política), con 5 contenidos mínimos y 72 hs de carga horaria. Esa segunda materia queda fuera de este nodo.",
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +28,24 @@
       "label": "Economía"
     }
   ],
-  "eyebrow": "Economía · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Economía · CBC · Código UBA, Cap. D",
   "title": "Cómo funciona el sistema económico, con la Argentina de fondo.",
   "lede": "Una introducción al funcionamiento del sistema económico —producción, distribución, consumo, mercados y precios— apoyada en la realidad económica argentina y en la comparación entre las principales escuelas teóricas.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "10",
+      "small": "numerados 1–10"
     },
     {
-      "k": "Unidades",
-      "v": "10",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +53,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): diez bloques que van del funcionamiento del sistema económico y la circulación del capital a la economía internacional, el problema del método y los problemas económicos argentinos (1880-1983). La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales de «05. ECONOMÍA» (Cap. D del Código UBA): diez bloques que van del funcionamiento del sistema económico y la circulación del capital a la economía internacional, el problema del método y los problemas económicos argentinos, que la fuente parte en dos períodos, 1880-1976 y 1976-1983. Este nodo dibuja «05. ECONOMÍA» (10 contenidos mínimos). El Cap. D contiene además una segunda materia distinta también llamada «Economía», en el bloque de Ciencias Económicas (junto a Análisis Contable, Administración General, Sociología de las Organizaciones e Instituciones de Gobierno y Economía Política), con 5 contenidos mínimos y 72 hs de carga horaria. Esa segunda materia queda fuera de este nodo. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un contenido mínimo numerado de la fuente; el nombre es su enunciado.",
       "map": {
         "mk": "La materia, comprimida",
         "tree": "ECONOMÍA — contenidos mínimos\n│\n├─ 1 · Sistema económico: características generales\n├─ 2 · Sistema económico: esquema de circulación\n├─ 3 · Factores de la producción y cambios tecnológicos\n├─ 4 · Mercados y precios\n├─ 5 · Producto e ingreso\n├─ 6 · Economía internacional: centro y periferia\n├─ 7 · Acumulación y crecimiento\n├─ 8 · Sistemas económicos y planificación\n├─ 9 · El problema del método. Economía e ideología\n└─ 10 · Problemas económicos argentinos",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "foot": "Cap. D del Código UBA, «05. ECONOMÍA», Contenidos mínimos 1 a 10 — no la otra «Economía» del bloque de Ciencias Económicas (5 contenidos, 72 hs). La sección no publica bibliografía."
       },
       "exits": [
         {

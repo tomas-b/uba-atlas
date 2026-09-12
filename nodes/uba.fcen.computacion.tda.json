@@ -5,62 +5,154 @@
   "groundingLevel": "L2",
   "metadata": {
     "regimen": "cuatrimestral",
-    "catedra": "Departamento de Computación (FCEN-UBA) · cát. Bonomo–Lin",
-    "cargaHoraria": "10 h semanales (35% teór · 35% práct · 30% lab)",
-    "cuatrimestre": "1º · año 2",
-    "unidades": 7,
-    "bibliography": [
-      "Algorithm Design — Jon Kleinberg, Éva Tardos",
-      "Introduction to Algorithms (CLRS) — Cormen, Leiserson, Rivest, Stein"
-    ]
+    "cuatrimestre": "1º",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "10 hs semanales · 160 hs totales · 35% teóricas / 35% prácticas / 30% laboratorio",
+    "correlativas": [
+      "Algoritmos y Estructuras de Datos"
+    ],
+    "equivalencia": "Algoritmos y Estructuras de Datos 3 (Plan 1993)",
+    "unidades": 9,
+    "bibliography": 0
   },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.tda",
+      "label": "Técnicas de Diseño de Algoritmos"
+    }
   ],
-  "eyebrow": "Técnicas de Diseño de Algoritmos · Lic. Computación · año 2",
-  "title": "Backtracking, dinámica, greedy, grafos y flujo.",
-  "lede": "Técnicas de Diseño de Algoritmos (ex Algoritmos y Estructuras de Datos III): cómo diseñar algoritmos eficientes y demostrar que resuelven bien el problema. El temario, basado en Kleinberg–Tardos, recorre las grandes técnicas — fuerza bruta y backtracking, programación dinámica, divide y vencerás, greedy — y luego el mundo de los grafos: recorridos, camino mínimo y flujo en redes. Se cursa con guías de ejercicios y trabajos prácticos con juez automático.",
+  "eyebrow": "Técnicas de Diseño de Algoritmos · Año 2 · 1º cuat.",
+  "title": "Las técnicas con que se diseña un algoritmo, y dónde se aplican.",
+  "lede": "El objetivo que le fija el plan: «describir las principales técnicas usadas para diseñar algoritmos a partir de la identificación de características comunes en los problemas —búsqueda iterativa, divide and conquer, backtracking, etc.— aplicando las distintas técnicas a problemas clásicos de grafos, cadenas y problemas geométricos». Cierra con heurísticas y algoritmos aproximados para lo intratable. Equivale a Algoritmos y Estructuras de Datos 3 del Plan 1993.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
-    { "k": "Unidades", "v": "7", "small": "técnicas + grafos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
-    { "k": "Biblio", "v": "2", "small": "Kleinberg–Tardos, CLRS" }
+    {
+      "k": "Año",
+      "v": "2",
+      "small": "1º cuat."
+    },
+    {
+      "k": "Unidades",
+      "v": "9",
+      "small": "contenidos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · sin biblio"
+    },
+    {
+      "k": "Carga",
+      "v": "10 hs",
+      "small": "sem · 160 tot."
+    }
   ],
-  "frame": "Contenido de la cátedra (programa Bonomo–Lin, cursada 1C2024, repo público de la materia) cruzado con la descripción oficial del Plan 2023 (computacion.dc.uba.ar): resolución de problemas en grafos, complejidad, técnicas de diseño y soluciones heurísticas. El temario se declara «basado en Kleinberg–Tardos» y se recorre por siete bloques de técnicas y estructuras. La complejidad computacional / NP se corrió a la materia posterior. El cronograma es orientativo y puede variar por cuatrimestre y turno.",
+  "frame": "Todo lo que se dibuja acá sale del Plan de Estudios 2023 del Departamento de Computación en su documento oficial «Versión 11/2025» (VERSIÓN 1.6, elevada a CODEP 6/2022 con actualizaciones hasta noviembre de 2025), que publica para cada materia el objetivo, la correlativa, la carga horaria, los contenidos mínimos y una lista de contenidos analíticos. Los nueve bloques de abajo son esa lista, en su orden y con sus palabras. El Repositorio Digital de Programas de Exactas —la vía oficial que la propia página del plan indica para los programas de las materias— fue consultado el 29/08/2026: entre los 1127 programas del Departamento de Computación NO hay ninguno de Técnicas de Diseño de Algoritmos, y de su equivalente del Plan 1993 sólo figura «Algoritmos y Estructura de Datos III (1995)», de otro plan. www.dc.uba.ar tampoco publica programa de la materia: el material vivo está en el campus (login). En consecuencia no hay bibliografía atribuible y la materia se deja honestamente sin libros. La página del plan describe además la materia como «resolución de problemas en grafos, estudio de la complejidad algorítmica (ej. P vs. NP), técnicas de diseño de algoritmos y soluciones aproximadas y heurísticas».",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las técnicas",
-      "title": "El recorrido, de las técnicas a los grafos",
-      "note": "Orden de dictado según el cronograma de la cátedra (orientativo).",
+      "eyebrow": "Contenidos · los contenidos analíticos del plan",
+      "title": "El recorrido, de las técnicas a los problemas intratables",
+      "note": "Nueve bloques, en el orden en que los enumera el documento oficial del plan.",
       "map": {
-        "mk": "El programa, en siete bloques",
-        "tree": "TÉCNICAS DE DISEÑO DE ALGORITMOS\n│  (temario basado en Kleinberg–Tardos)\n├─ 1 · Análisis y backtracking     · fuerza bruta, recursión\n├─ 2 · Programación dinámica       · memoización, top-down / bottom-up\n├─ 3 · Divide y vencerás           · teorema maestro, búsqueda binaria\n├─ 4 · Algoritmos greedy           · óptimo local → global\n├─ 5 · Grafos: repres. y recorridos· DFS/BFS, AGM (Prim, Kruskal)\n├─ 6 · Camino mínimo               · Dijkstra, Bellman-Ford, Floyd-Warshall\n└─ 7 · Flujo en redes              · flujo máximo, Edmonds-Karp",
-        "foot": "Bloques del programa de la cátedra (Bonomo–Lin). La NP-completitud vive en Complejidad Computacional (materia posterior)."
+        "mk": "Los contenidos analíticos, en nueve bloques",
+        "tree": "TÉCNICAS DE DISEÑO DE ALGORITMOS\n│\n├─ 1 · Conceptos básicos de técnicas algorítmicas\n├─ 2 · Divide and conquer          · teorema maestro, geometría\n├─ 3 · Recorridos de grafos y árboles · DFS, BFS, componentes\n├─ 4 · Búsqueda iterativa y backtracking · mochila, coloreo, clique\n├─ 5 · Programación dinámica       · optimalidad, memorización\n├─ 6 · Algoritmos golosos          · árbol generador mínimo\n├─ 7 · Búsqueda local              · flujo máximo\n├─ 8 · Aproximados y heurísticas   · clique, coloreo, viajante\n└─ 9 · Estructuras de datos de soporte · colas de prioridad, disjoint sets",
+        "foot": "Contenidos analíticos del Plan de Estudios 2023, documento oficial v11/2025. La cátedra no publica programa propio ni bibliografía en fuente oficial."
       },
       "exits": [
-        { "address": "uba.fcen.computacion.tda.analisis-backtracking", "name": "Análisis y Backtracking", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.programacion-dinamica", "name": "Programación Dinámica", "role": "bloque 2", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.divide-conquer", "name": "Divide y Vencerás", "role": "bloque 3", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.greedy", "name": "Algoritmos Greedy", "role": "bloque 4", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.grafos", "name": "Grafos: representación y recorridos", "role": "bloque 5", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.camino-minimo", "name": "Camino Mínimo", "role": "bloque 6", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.tda.flujo-redes", "name": "Flujo en Redes", "role": "bloque 7", "tag": "unidad", "kind": "unit" }
-      ]
-    },
-    {
-      "kind": "spine",
-      "eyebrow": "Bibliografía",
-      "title": "Los libros de la materia",
-      "note": "Referencias declaradas en el programa de la cátedra. Los contenidos de cada libro (L3) son un índice aparte.",
-      "exits": [
-        { "address": "uba.fcen.computacion.tda.kleinberg-tardos", "name": "Algorithm Design — Kleinberg, Tardos", "role": "texto base", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.tda.clrs", "name": "Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein", "role": "referencia", "tag": "libro", "kind": "book" }
+        {
+          "address": "uba.fcen.computacion.tda.tecnicas-algoritmicas",
+          "name": "Conceptos básicos de técnicas algorítmicas",
+          "role": "bloque 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.divide-conquer",
+          "name": "Divide and conquer",
+          "role": "bloque 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.grafos",
+          "name": "Recorridos de grafos y árboles",
+          "role": "bloque 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.busqueda-backtracking",
+          "name": "Búsqueda iterativa y backtracking",
+          "role": "bloque 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.programacion-dinamica",
+          "name": "Programación dinámica",
+          "role": "bloque 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.greedy",
+          "name": "Algoritmos golosos",
+          "role": "bloque 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.busqueda-local",
+          "name": "Búsqueda local",
+          "role": "bloque 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.aproximados-heuristicas",
+          "name": "Algoritmos aproximados y heurísticas",
+          "role": "bloque 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.tda.estructuras-soporte",
+          "name": "Estructuras de datos de soporte",
+          "role": "bloque 9",
+          "tag": "unidad",
+          "kind": "unit"
+        }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Versión 11/2025» (contenidos mínimos y analíticos de TDA)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — orden sugerido por año/cuatrimestre, descripción breve de cada materia y carga horaria semanal (10 hs; 35% teóricas / 35% prácticas / 30% laboratorio) + tabla de equivalencias con el Plan 1993.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 sólo existe «Algoritmos y Estructura de Datos III (1995)», de otro plan de estudios.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

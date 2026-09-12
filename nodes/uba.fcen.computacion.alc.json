@@ -6,10 +6,11 @@
   "metadata": {
     "regimen": "cuatrimestral",
     "cuatrimestre": "1º",
-    "catedra": "Álgebra Lineal Computacional (DC-FCEN + Depto. de Matemática)",
-    "cargaHoraria": "10 hs semanales · 35% teórica / 35% práctica / 30% laboratorio",
+    "catedra": "Álgebra Lineal Computacional — programa 1c2023 publicado por el Departamento de Matemática (FCEN)",
+    "cargaHoraria": "10 hs semanales · 160 hs totales · 35% teórica / 35% práctica / 30% laboratorio",
+    "correlativas": ["Algoritmos y Estructuras de Datos"],
     "unidades": 6,
-    "bibliography": 6
+    "bibliography": 8
   },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
@@ -19,48 +20,64 @@
   ],
   "eyebrow": "Álgebra Lineal Computacional · Año 3 · 1º cuat.",
   "title": "El álgebra lineal, hecha algoritmo y aritmética finita.",
-  "lede": "El álgebra lineal llevada a la computadora: resolver sistemas, factorizar matrices y descomponerlas cuando lo único que hay es aritmética de punto flotante. Seis capítulos que van de los espacios vectoriales y la factorización LU/QR a los autovalores, los métodos iterativos, la SVD y los cuadrados mínimos — con el condicionamiento y el error como hilo. Co-dictada con Matemática; en el Plan 1993 era Métodos Numéricos.",
+  "lede": "El álgebra lineal llevada a la computadora: resolver sistemas, factorizar matrices y descomponerlas. Seis capítulos que van de los espacios vectoriales y las factorizaciones LU/QR a los autovalores, los métodos iterativos, la SVD y los cuadrados mínimos — con las normas y el condicionamiento como hilo. La aritmética de punto flotante entra por la Práctica 2 («Aritmética de punto flotante. Número de condición»). En el Plan 1993 la materia era Métodos Numéricos.",
   "meta": [
     { "k": "Año", "v": "3", "small": "1º cuat." },
-    { "k": "Capítulos", "v": "6", "small": "unidades" },
+    { "k": "Capítulos", "v": "6", "small": "I → VI" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
-    { "k": "Carga", "v": "10 hs", "small": "T/P/lab" }
+    { "k": "Carga", "v": "160 hs", "small": "10 hs · T/P/lab" }
   ],
-  "frame": "Contenido real de la cátedra (programa 1c2023, cms.dm.uba.ar): álgebra lineal numérica desarrollada en seis capítulos, del espacio vectorial a los cuadrados mínimos, con normas, condicionamiento y aritmética de punto flotante atravesándolo todo. Los temas y la bibliografía están sourceados; los contenidos de cada libro son un índice L3 aparte. El detalle vivo se publica por el campus (login).",
+  "frame": "Contenido real de la cátedra: el programa del 1er cuatrimestre 2023 publicado en cms.dm.uba.ar, dentro del listado de materias del Departamento de Matemática de la FCEN (la materia es del plan de la Lic. en Cs. de la Computación; la fuente no dice quién la co-dicta — no se afirma nada al respecto). El programa numera seis capítulos como «Capítulo I»…«Capítulo VI» y NO les pone título: cada capítulo es un párrafo de temas corridos. SELECCIÓN DECLARADA: los nombres que se leen acá son las primeras palabras literales de cada párrafo, no títulos de la fuente. La bibliografía son las ocho entradas que la cátedra lista, transcriptas tal como están impresas (sin agregarles editorial ni edición); los contenidos de cada libro son un índice L3 aparte. Se corrigió una fabricación previa: un «apunte Acosta & Laplagne» que la fuente no menciona — los dos apuntes reales son el de Jeronimo/Sabia/Tesauri y el de Durán/Lasalle/Rossi. El detalle vivo (teóricas, cronograma) se publica por el campus (login); la propia página avisa que «toda la información de esta materia se publica a través del campus».",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · los 6 capítulos",
       "title": "El recorrido del álgebra numérica",
-      "note": "Cada capítulo del programa es una unidad, en orden.",
+      "note": "Cada capítulo del programa es una unidad, en orden. Los capítulos van sin título en la fuente: el nombre es la primera frase literal de cada uno.",
       "map": {
         "mk": "El programa, en seis capítulos",
-        "tree": "ÁLGEBRA LINEAL COMPUTACIONAL\n│\n├─ I   · Espacios vectoriales y bases\n├─ II  · Normas, sistemas lineales y factorizaciones (LU, QR)\n├─ III · Autovalores y autovectores\n├─ IV  · Métodos iterativos\n├─ V   · Matrices definidas positivas y SVD\n└─ VI  · Formas bilineales y cuadrados mínimos",
-        "foot": "Capítulos del programa de la cátedra (cms.dm.uba.ar, 1c2023). La aritmética de punto flotante y el condicionamiento se tratan en el apunte de la materia y en el Cap. II."
+        "tree": "ÁLGEBRA LINEAL COMPUTACIONAL\n│\n├─ I   · Espacios vectoriales y bases\n├─ II  · Normas, equivalencia de normas\n├─ III · Autovalores y autovectores\n├─ IV  · Métodos iterativos para sistemas lineales\n├─ V   · Matrices definidas positivas\n└─ VI  · Formas bilineales\n\n(nombres = primeras palabras de cada párrafo; la fuente sólo rotula «Capítulo I»…«VI»)",
+        "foot": "Capítulos del programa de la cátedra (cms.dm.uba.ar, 1c2023). El condicionamiento de matrices está en el Capítulo II; la aritmética de punto flotante no aparece en el programa sino en la Práctica 2 («Aritmética de punto flotante. Número de condición»)."
       },
       "exits": [
         { "address": "uba.fcen.computacion.alc.espacios-vectoriales", "name": "Espacios vectoriales y bases", "role": "Cap. I", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.alc.normas-sistemas", "name": "Normas, sistemas lineales y factorizaciones", "role": "Cap. II", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.alc.normas-sistemas", "name": "Normas, equivalencia de normas", "role": "Cap. II", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.alc.autovalores", "name": "Autovalores y autovectores", "role": "Cap. III", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.alc.metodos-iterativos", "name": "Métodos iterativos", "role": "Cap. IV", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.alc.svd", "name": "Matrices definidas positivas y SVD", "role": "Cap. V", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.alc.cuadrados-minimos", "name": "Formas bilineales y cuadrados mínimos", "role": "Cap. VI", "tag": "unidad", "kind": "unit" }
+        { "address": "uba.fcen.computacion.alc.metodos-iterativos", "name": "Métodos iterativos para sistemas lineales", "role": "Cap. IV", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.alc.svd", "name": "Matrices definidas positivas", "role": "Cap. V", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.alc.cuadrados-minimos", "name": "Formas bilineales", "role": "Cap. VI", "tag": "unidad", "kind": "unit" }
       ]
     },
     {
       "kind": "index",
-      "eyebrow": "Bibliografía · las referencias",
+      "eyebrow": "Bibliografía · las 8 referencias",
       "title": "La lista de lecturas",
-      "note": "Libros citados por la cátedra. Sus contenidos son un índice L3 aparte.",
+      "note": "Las ocho entradas de la sección «Bibliografía» del programa, transcriptas como están impresas. Sus contenidos son un índice L3 aparte.",
       "exits": [
-        { "address": "uba.fcen.computacion.alc.trefethen-bau", "name": "Numerical Linear Algebra — Trefethen & Bau (SIAM, 1997)", "role": "libro", "tag": "biblio", "kind": "book" },
-        { "address": "uba.fcen.computacion.alc.golub-vanloan", "name": "Matrix Computations — Golub & Van Loan (JHU Press, 4ª ed.)", "role": "libro", "tag": "biblio", "kind": "book" },
-        { "address": "uba.fcen.computacion.alc.demmel", "name": "Applied Numerical Linear Algebra — Demmel (SIAM, 1997)", "role": "libro", "tag": "biblio", "kind": "book" },
-        { "address": "uba.fcen.computacion.alc.strang", "name": "Linear Algebra and Its Applications — Strang", "role": "libro", "tag": "biblio", "kind": "book" },
-        { "address": "uba.fcen.computacion.alc.horn-johnson", "name": "Matrix Analysis — Horn & Johnson (Cambridge UP)", "role": "libro", "tag": "biblio", "kind": "book" },
-        { "address": "uba.fcen.computacion.alc.apunte-acosta-laplagne", "name": "Álgebra Lineal Computacional (apunte) — Acosta & Laplagne", "role": "apunte", "tag": "biblio", "kind": "book" }
+        { "address": "uba.fcen.computacion.alc.trefethen-bau", "name": "Numerical Linear Algebra — Lloyd N. Trefethen, David Bau III. SIAM. 1997", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.golub-vanloan", "name": "Matrix Computations — Gene H. Golub, Charles F. Van Loan. Johns Hopkins Studies in the Mathematical Sciences. 2013", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.demmel", "name": "Applied Numerical Linear Algebra — James W. Demmel. SIAM. 1997", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.strang", "name": "Linear Algebra and Its Applications — Gilbert Strang. Cengage Learning. 2006", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.kincaid-cheney", "name": "Numerical Analysis — D.R. Kincaid, E.W. Cheney. Brooks/Cole Publishing Company. 1991", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.horn-johnson", "name": "Matrix Analysis — Roger A. Horn, Charles R. Johnson. Cambridge University Press", "role": "libro", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.apunte-jeronimo-sabia-tesauri", "name": "Álgebra lineal (apunte de la materia) — Gabriela Jeronimo, Juan Sabia y Susana Tesauri", "role": "apunte", "tag": "biblio", "kind": "book" },
+        { "address": "uba.fcen.computacion.alc.apunte-duran-lasalle-rossi", "name": "Elementos de Cálculo Numérico (apunte de la materia) — Ricardo Durán, Silvia Lasalle y Julio Rossi", "role": "apunte", "tag": "biblio", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "cms.dm.uba.ar · programa Álgebra Lineal Computacional (1c2023) · computacion.dc.uba.ar/plan-de-estudios-2023", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" }
+  "source": { "label": "cms.dm.uba.ar · programa de Álgebra Lineal Computacional, 1er cuatrimestre 2023 (Depto. de Matemática, FCEN)", "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/" },
+  "sources": [
+    {
+      "label": "cms.dm.uba.ar · programa de la materia, 1c2023. DIBUJADO: los seis «Capítulo I…VI» y sus temas; las ocho entradas de bibliografía verbatim; las guías prácticas (de ahí que la aritmética de punto flotante sea Práctica 2); el reparto teórica/práctica/laboratorio del horario. Texto guardado en extract/out/fcen-alc-cms.txt.",
+      "url": "https://cms.dm.uba.ar/academico/materias/1ercuat2023/Algebra_lineal_computacional/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica ALC en 3er año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su tabla de equivalencias imprime «Álgebra Lineal Computacional ↔ Métodos Numéricos (Plan 1993)».",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "Plan de Estudios Lic. Cs. Computación, versión 11/2025 (PDF). DIBUJADO: 10 hs / 160 hs totales para ALC en la tabla de dedicación horaria; correlativa AED; equivalencia con Métodos Numéricos. Texto en extract/out/plan-comp-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    }
+  ]
 }

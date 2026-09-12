@@ -1,0 +1,20 @@
+{
+  "address": "uba.cbc.sociales.semiologia",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "exit 1 is a fabricated composite: welds 'Teorías del signo y de los sistemas semióticos' with the mid-block 'Teorías de la comunicación', dropping 'sistemas semióticos'",
+    "lede's 'Base común de las carreras del área' unsourced plan-level assertion",
+    "undeclared segmentation + unsourced regimen"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Exits 2-4 verbatim (enunciación, discurso/texto/representación, mediatización).",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -1,0 +1,20 @@
+{
+  "address": "uba.der.abogacia.civil-parte-general",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 6,
+  "books_found": 0,
+  "not_found": [
+    "entire 6-book bibliography rests on a cátedra programa with no URL, no local extract, no manifest entry — 6/6 ungrounded (titles corroborated only by third parties)"
+  ],
+  "omitted": [
+    "1-of-10 cátedra selection undeclared"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Cleanest spine of the five: 6 units 1:1 with literal openings. The book group must be re-sourced or removed.",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

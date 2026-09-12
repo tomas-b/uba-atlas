@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.analisis-1",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 11,
+  "books_found": 4,
+  "not_found": [
+    "unit 3 drops 'Vectoriales' — load-bearing half of the printed title",
+    "'cruzado con la ficha de cátedra (cms)' claimed but no cms URL anywhere",
+    "'texto base' role invented (source list is alphabetical, unranked)"
+  ],
+  "omitted": [
+    "7 of 11 biblio entries dropped undeclared — worst ratio of the batch"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "5 of 6 unit titles literal and in order."
+}

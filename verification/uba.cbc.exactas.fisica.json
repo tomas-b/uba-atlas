@@ -1,0 +1,20 @@
+{
+  "address": "uba.cbc.exactas.fisica",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 9,
+  "books_found": 9,
+  "not_found": [
+    "'Cada guía es una unidad del programa' contradicted — programa has SEVEN contenidos mínimos incl. ESTÁTICA which has no guía and is absent from the node"
+  ],
+  "omitted": [
+    "Guía 0 de repaso; 6 'textos de nivel secundario' excluded undeclared; live /materias/ publishes a DIFFERENT current bibliography — conflict unrecorded"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Best of the batch: 5/5 guía names and 9/9 books literal (from nprog03.pdf, which source.url never cites — misattribution to the site root). Stale 'biblio aún no extraída' foot vs the 9 books shipped.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

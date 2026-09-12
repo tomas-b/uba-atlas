@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "15 h semanales", "unidades": 4, "bibliography": ["Cormen, Leiserson, Rivest, Stein · Introduction to Algorithms", "Sedgewick · Algorithms in C", "Brassard, Bratley · Fundamentals of Algorithmics", "Gries · The Science of Programming"] },
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "15 h semanales · 240 h totales (CHS/CHT de la tabla del plan)", "correlativas": ["Introducción a la Programación", "Álgebra I"], "unidades": 4, "unidadesFuente": 6, "bibliography": ["The Science of Programming (Monographs in Computer Science) — la wiki no nombra autor", "R. Sedgewick · Algorithms in C, Partes I-IV (1998), Addison Wesley", "Bratley, Brassard · Fundamental of Algorithmics (Prentice Hall, 1995)", "Cormen, Leiserson, Rivest, Stein · Introduction to Algorithms (MIT Press, 2001)", "ACM Vol. 32.3 (julio de 1985), págs. 652-686 — el paper de los Splay Trees; la wiki no nombra autores", "Ronald Fagin et al. · Extendible Hashing — a Fast Access Method for Dynamic Files, ACM TODS 4.3 (sep. 1979), págs. 315-344"] },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
@@ -14,22 +14,22 @@
   "title": "Especificar, medir y estructurar los datos.",
   "lede": "El segundo paso en programación: especificar formalmente los tipos de datos y demostrar la correctitud de los algoritmos, medir su complejidad, y diseñar las estructuras que los hacen eficientes — de los árboles balanceados al hashing. Talleres de laboratorio en Java.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "2º · teór-práct-lab" },
-    { "k": "Bloques", "v": "4", "small": "contenidos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
-    { "k": "Carga", "v": "15 h", "small": "semanales" }
+    { "k": "Régimen", "v": "cuatrim.", "small": "2º · T/P/L" },
+    { "k": "Bloques", "v": "4", "small": "reagrupados de 6" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 6/6" },
+    { "k": "Carga", "v": "15 h", "small": "semanales · 240 h" }
   ],
-  "frame": "Contenido sourceado del plan oficial (computacion.dc.uba.ar/plan-de-estudios-2023) y de la transcripción de cátedra (Cuba-Wiki, plan 2023). Cuatro bloques: especificación y verificación, análisis de complejidad, búsqueda y ordenamiento, y estructuras de datos. La cátedra aclara que la parte de especificación no tiene bibliografía de libro; los textos de algoritmos sí están sourceados (Cormen, Sedgewick, Brassard, Gries).",
+  "frame": "Dos fuentes, separadas. La tabla del plan oficial (PDF «Texto ordenado del Plan de Estudios», enlazado desde computacion.dc.uba.ar/plan-de-estudios-2023) da la carga horaria (15 h semanales, 240 h totales, modalidad T/P/L) y las correlativas (Introducción a la Programación y Álgebra I); sus contenidos mínimos son tres frases. El temario detallado y la bibliografía vienen de Cuba-Wiki — la wiki de estudiantes de Computación y Datos de la FCEyN, que en su portada aclara que «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»: no es una transcripción de cátedra. La wiki lista seis ítems de contenido; los cuatro bloques de abajo los reagrupan de a pares consecutivos (1-2, 3-4, 5, 6) — el reagrupamiento es editorial, no está en la fuente. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · los 4 bloques",
       "title": "El recorrido de la materia",
-      "note": "De la especificación a las estructuras eficientes.",
+      "note": "Reagrupamiento editorial de los seis ítems de contenido de la wiki, en orden y sin perder ninguno.",
       "map": {
         "mk": "El programa, en cuatro bloques",
-        "tree": "ALGORITMOS Y ESTRUCTURAS DE DATOS\n│\n├─ B1 · Especificación formal y verificación\n├─ B2 · Análisis de algoritmos y complejidad\n├─ B3 · Búsqueda y ordenamiento\n└─ B4 · Estructuras de datos (árboles, hashing, colas de prioridad)",
-        "foot": "Temas de la cátedra (DC, plan 2023). Textos: Cormen, Sedgewick, Brassard."
+        "tree": "ALGORITMOS Y ESTRUCTURAS DE DATOS\n│\n├─ B1 · Especificación formal y verificación        ← ítems 1-2\n├─ B2 · Análisis de algoritmos y complejidad        ← ítems 3-4\n├─ B3 · Búsqueda y ordenamiento                     ← ítem 5\n└─ B4 · Estructuras de datos (árboles, hashing, colas de prioridad)  ← ítem 6",
+        "foot": "Contenidos según Cuba-Wiki (wiki de estudiantes, no oficial). Carga horaria y correlativas, según la tabla del plan."
       },
       "exits": [
         { "address": "uba.fcen.computacion.aed.especificacion-verificacion", "name": "Especificación formal y verificación", "role": "Bloque 1", "tag": "unidad", "kind": "unit" },
@@ -40,16 +40,32 @@
     },
     {
       "kind": "plain",
-      "eyebrow": "Bibliografía · sourceada",
-      "title": "Los textos de algoritmos",
-      "note": "La parte de especificación usa apuntes de cátedra, sin libro. Contenido de libros (L3): índice aparte.",
+      "eyebrow": "Bibliografía recomendada · según Cuba-Wiki",
+      "title": "Los seis textos de la lista",
+      "note": "Los seis ítems de la sección «Bibliografía recomendada» de Cuba-Wiki, completos y en orden. La wiki agrega, sobre la primera parte: «El tema de especificación de la primer parte de la materia no tiene bibliografía (por el momento)» — es la wiki quien lo dice, no la cátedra. Contenido de los libros (L3): índice aparte.",
       "exits": [
-        { "address": "uba.fcen.computacion.aed.clrs", "name": "Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein", "role": "referencia", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.aed.sedgewick", "name": "Algorithms in C — R. Sedgewick", "role": "referencia", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.aed.brassard", "name": "Fundamentals of Algorithmics — Brassard, Bratley", "role": "complejidad", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.aed.gries", "name": "The Science of Programming — D. Gries", "role": "precondición más débil", "tag": "libro", "kind": "book" }
+        { "address": "uba.fcen.computacion.aed.science-of-programming", "name": "The Science of Programming (Monographs in Computer Science)", "role": "«solo la parte de precondición mas débil» · la wiki no nombra autor", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.sedgewick", "name": "Algorithms in C, Partes I-IV (1998) — R. Sedgewick, Addison Wesley", "role": "«toca casi todos los temas de la materia»", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.brassard", "name": "Fundamental of Algorithmics — Bratley, Brassard (Prentice Hall, 1995)", "role": "«explica bastante bien la parte de complejidad»", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.clrs", "name": "Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein (MIT Press, 2001)", "role": "circulante en la Biblioteca Central", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.splay-trees", "name": "ACM Vol. 32.3 (julio de 1985), págs. 652-686", "role": "«el paper que desarrolla los Splay Trees» · la wiki no nombra autores", "tag": "paper", "kind": "book" },
+        { "address": "uba.fcen.computacion.aed.extendible-hashing", "name": "Extendible Hashing — a Fast Access Method for Dynamic Files — Ronald Fagin et al., ACM TODS 4.3 (1979)", "role": "«el paper que desarrolla el método de Hashing Extensible»", "tag": "paper", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (tabla y contenidos mínimos, PDF del texto ordenado) · cubawiki.com.ar (wiki de estudiantes: temario y bibliografía)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación», PDF oficial enlazado desde la página del Plan 2023. EXTRAÍDO y verificado (extract/out/propuesta-plan.txt, idéntico al PDF vivo): de acá salen la fila de la tabla del Segundo Ciclo (N° 9, CUAT 4, CHS 15, CHT 240, correlatividad «Introducción a la Programación, Álgebra I», modalidad T/P/L) y los contenidos mínimos de la materia.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "cubawiki.com.ar · «Algoritmos y Estructuras de Datos» (plan 2023). Fuente del temario de seis ítems y de los seis ítems de bibliografía recomendada. Cuba-Wiki es la wiki de estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Algoritmos_y_Estructuras_de_Datos"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. La propia página del Plan 2023 remite ahí: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas». Todavía no explotado para este nodo — es el paso pendiente para reemplazar la wiki por el programa oficial.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

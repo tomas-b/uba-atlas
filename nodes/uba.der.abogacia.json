@@ -3,22 +3,22 @@
   "level": "carrera",
   "kind": "career",
   "groundingLevel": "L1",
-  "metadata": { "plan": "2004 · Texto Ordenado 2023 (Res. CS 818/23)", "titulo": "Abogado/a · Bachiller Universitario en Derecho (CPC)", "ciclos": 2, "materiasCPC": 14, "orientacionesCPO": 7, "correlativas": true },
+  "metadata": { "plan": "2004 · Texto Ordenado 2018 (Res. CS N° 787/18)", "planPosterior": "Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024 — no es la fuente de este nodo", "titulo": "Abogado/a · Bachiller Universitario en Derecho (CPC)", "ciclos": 2, "materiasCPC": 14, "orientacionesCPO": 7, "correlativas": true },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
     { "address": "uba.der.abogacia", "label": "Abogacía" }
   ],
-  "eyebrow": "Abogacía · Facultad de Derecho · Plan 2004 (T.O. 2023)",
+  "eyebrow": "Abogacía · Facultad de Derecho · Plan 2004 (T.O. 2018)",
   "title": "Un tronco común de catorce, y después la orientación.",
   "lede": "El plan real de Abogacía se recorre en dos tiempos. Primero el Ciclo Profesional Común: catorce materias que todo abogado atraviesa —de la Teoría General del Derecho al análisis económico— y que al completarse dan el título de Bachiller Universitario en Derecho. Después el Ciclo Profesional Orientado, siete orientaciones donde se elige la especialidad por sistema de puntos. Cada materia del CPC es una puerta: clic para trazar sus contenidos mínimos oficiales por unidades.",
   "meta": [
-    { "k": "Plan", "v": "2004", "small": "T.O. 2023" },
+    { "k": "Plan", "v": "2004", "small": "T.O. 2018 · Res. CS 787/18" },
     { "k": "CPC", "v": "14", "small": "materias comunes" },
     { "k": "CPO", "v": "7", "small": "orientaciones" },
     { "k": "Grounding", "v": "L1", "small": "plan oficial" }
   ],
-  "frame": "Estructura sourceada del plan oficial (Texto Ordenado 2023, Res. CS 818/23, EXP-UBA 45.501/2018). El CPC —catorce materias obligatorias— está desarrollado a nivel L2: cada materia lleva sus contenidos mínimos oficiales convertidos en unidades reales; la bibliografía específica vive en cada programa de cátedra y queda pendiente de extracción. El CPO se representa solo como estructura: sus siete orientaciones son nodos a-indexar. Los cientos de cursos electivos del CPO (principales, derivados, optativos de oferta variable, por sistema de puntos) NO se enumeran ni se fabrican —exceden este alcance y cambian por cuatrimestre.",
+  "frame": "Estructura sourceada del PDF citado: el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18, EXP-UBA 45.501/2018 —así lo rotula la propia página de la carrera en derecho.uba.ar—. Dato externo de esa misma página: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23) que, según su propio texto, «comienza a regir a partir del primer cuatrimestre de 2024» para quienes ingresen desde enero de 2024, dejando plazo hasta 2028 a quienes cursan bajo el 787/18. El diff propio de ambos PDF muestra que los contenidos mínimos de trece de las catorce materias del CPC son textualmente idénticos; la excepción es Elementos de Derecho Comercial, y está declarada en ese nodo. El CPC —catorce materias obligatorias— está desarrollado a nivel L2: cada materia lleva sus contenidos mínimos oficiales agregados en unidades por el atlas (el plan los publica como bloques de prosa sin numerar; la partición es editorial y se declara en cada nodo). La bibliografía específica vive en cada programa de cátedra: sólo cuatro materias —Administrativo, Comercial, Teoría del Estado y Trabajo— tienen hoy un programa alcanzable y citable, y sólo ésas llevan libros dibujados; en las otras diez el atlas no dibuja bibliografía. El CPO se representa solo como estructura: sus siete orientaciones son nodos a-indexar. Los cientos de cursos electivos del CPO (principales, derivados, optativos de oferta variable, por sistema de puntos) NO se enumeran ni se fabrican —exceden este alcance y cambian por cuatrimestre.",
   "groups": [
     {
       "kind": "spine",
@@ -28,7 +28,7 @@
       "map": {
         "mk": "El CPC, en catorce puertas",
         "tree": "CPC — Ciclo Profesional Común\n│\n├─ Teoría General del Derecho\n├─ Teoría del Estado\n├─ Derechos Humanos y Garantías\n├─ Elementos de Derecho Constitucional\n├─ Elementos de Derecho Civil (Parte General)\n├─ Obligaciones Civiles y Comerciales\n├─ Elementos de Derecho Comercial\n├─ Contratos Civiles y Comerciales · anual\n├─ Elementos de Derecho Procesal Civil y Comercial\n├─ Elementos de Derecho Penal y de Procesal Penal · anual\n├─ Elementos de Derechos Reales\n├─ Elementos de Derecho Administrativo\n├─ Elementos de Derecho del Trabajo y de la Seguridad Social\n└─ Elementos de Análisis Económico y Financiero",
-        "foot": "Los catorce, del Texto Ordenado 2023. El orden real no es por año fijo sino por correlatividades y puntos."
+        "foot": "Los catorce, del Texto Ordenado 2018 (Res. CS N° 787/18). El orden real no es por año fijo sino por correlatividades y puntos."
       },
       "exits": [
         { "address": "uba.der.abogacia.teoria-general-derecho", "name": "Teoría General del Derecho", "role": "cuatrimestral · 54 h", "tag": "CPC", "kind": "course" },
@@ -64,5 +64,9 @@
       ]
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía (Texto Ordenado 2023, Res. CS 818/23)", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018)", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado a la vez «Plan de Estudio de la Carrera de Abogacía 2004» y «Texto Ordenado 2018 - Resolución (CS) N° 787/18»; la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024 para los estudiantes que habiendo aprobado el Ciclo Básico Común ingresen en la Facultad de Derecho a partir de enero de 2024», y que quienes cursan bajo el 787/18 «dispondrán hasta la finalización del ciclo lectivo 2028». EXTRAÍDO y diffeado contra el TO 2018: trece de las catorce materias del CPC tienen contenidos mínimos textualmente idénticos; la excepción es Elementos de Derecho Comercial.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" }
+  ]
 }

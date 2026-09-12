@@ -4,9 +4,9 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Departamento de Computación (FCEN-UBA)",
-    "unidades": 9
+    "catedra": "Departamento de Computación (FCEN-UBA) — equipo docente anunciado: Esteban Mocskos, Ignacio Ojeda y Christian Cossio-Mercado",
+    "unidades": "9 actividades anunciadas (lista abierta)",
+    "seccion": "Cap. D · «PENSAMIENTO COMPUTACIONAL» · C- Contenidos (un párrafo, sin unidades)"
   },
   "breadcrumb": [
     {
@@ -28,17 +28,17 @@
   ],
   "eyebrow": "Pensamiento Computacional · CBC · DC-FCEN",
   "title": "Resolver problemas programando, en Python.",
-  "lede": "Pensamiento Computacional: aprender a resolver problemas con la ayuda de un lenguaje de programación, sin conocimientos previos. Se dicta enteramente en laboratorio y con un enfoque pragmático — conceptualizar la solución, expresarla como algoritmo y programarla en Python. El recorrido son nueve actividades temáticas, de las figuritas al proyecto final. Optativa de la orientación.",
+  "lede": "Pensamiento Computacional: resolver problemas con el soporte de un lenguaje de programación multiparadigma, sin conocimientos previos. Se cursa enteramente en laboratorio, con un enfoque pragmático — discutir cómo se resuelve una situación, convertirla en algoritmo o pseudocódigo, y escribir y ejecutar el programa en Python.",
   "meta": [
-    {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "laboratorio"
-    },
     {
       "k": "Actividades",
       "v": "9",
-      "small": "módulos"
+      "small": "anunciadas"
+    },
+    {
+      "k": "Lista",
+      "v": "abierta",
+      "small": "«algunas»"
     },
     {
       "k": "Grounding",
@@ -51,87 +51,97 @@
       "small": "bloques→código"
     }
   ],
-  "frame": "Contenido de Pensamiento Computacional (Departamento de Computación, FCEN-UBA, ofrecida en el CBC): resolución de problemas con Python, dictada en laboratorio a través de nueve actividades temáticas. El proceso es común a todas — conceptualizar, algoritmizar (pseudocódigo o bloques), programar y probar. La fuente oficial no publica bibliografía formal para la materia.",
+  "frame": "Los contenidos oficiales de la materia viven en el Cap. D del Código UBA, en un solo párrafo sin unidades: resolución de problemas utilizando pensamiento computacional, algoritmos y programas, programación en un lenguaje multiparadigma, variables, expresiones y tipos de datos, funciones y programación modular, abstracción, datos estructurados, estructuras de control, manejo básico de archivos de texto y formatos de intercambio, y uso de funciones predefinidas y bibliotecas. Las nueve actividades que se recorren abajo NO son ese temario: salen de una nota de novedades que el Departamento de Computación publicó el 18 de diciembre de 2023, antes del primer dictado, y que las presenta así — «Algunas de las actividades prácticas previstas serán». Es una lista abierta y anunciada, no un programa cerrado.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 9 actividades",
-      "title": "El recorrido por actividades",
-      "note": "Cada actividad es un problema que introduce ideas nuevas de programación.",
+      "eyebrow": "Las actividades anunciadas",
+      "title": "El recorrido anunciado",
+      "note": "Las actividades tal como las enunció la nota del Departamento de Computación, con su propia pregunta disparadora. La nota dice «algunas de las actividades prácticas previstas»: la lista no se cierra ahí, y ninguna de estas actividades tiene todavía un programa publicado.",
       "map": {
-        "mk": "El programa, en nueve actividades",
-        "tree": "PENSAMIENTO COMPUTACIONAL — problemas con Python\n│\n├─ A1 · Figuritas          · simulación, probabilidad\n├─ A2 · Diez Mil           · condicionales, flujo\n├─ A3 · Incendio Forestal  · grillas, iteración\n├─ A4 · Difusión           · reglas locales, evolución\n├─ A5 · Cumpleaños         · estimación de probabilidad\n├─ A6 · Criptografía       · cadenas de texto\n├─ A7 · Imágenes           · matrices de píxeles\n├─ A8 · Datos del Mundo    · análisis de datos\n└─ A9 · Proyecto Final     · integración",
-        "foot": "Actividades de la materia según el Departamento de Computación (FCEN-UBA). Sin bibliografía formal publicada."
+        "mk": "Las nueve actividades anunciadas",
+        "tree": "PENSAMIENTO COMPUTACIONAL — «algunas de las actividades prácticas previstas»\n│\n├─ 1 · Figuritas       · ¿cuánto me costará llenar el álbum del mundial 2026?\n├─ 2 · Diez mil        · juguemos con dados y programemos un rato\n├─ 3 · Incendio Forestal · Tormenta de rayos, ¿sobrevive el bosque?\n├─ 4 · Difusión        · ¿Qué hace una gota en un vaso de agua?\n├─ 5 · Cumpleaños      · ¿Qué chances tengo de encontrar en el aula alguien que\n│                        cumpla años el mismo día que yo?\n├─ 6 · Criptografía    · juguemos a los espías con la compu\n├─ 7 · Imágenes        · ¿es fácil hacer que en las fotos me vea más joven?\n├─ 8 · Datos del mundo · mundo maravilloso u horripilante, que los datos juzguen\n└─ 9 · Proyecto        · poner en práctica todo lo visto con un proyecto bien\n                         interesante",
+        "foot": "Nota de novedades del Departamento de Computación (FCEN-UBA), 18 de diciembre de 2023, previa al primer dictado. La lista es abierta («algunas de las actividades previstas») y la nota no trata el tema de la bibliografía."
       },
       "exits": [
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.figuritas",
           "name": "Figuritas",
-          "role": "A1",
-          "tag": "actividad",
+          "role": "actividad 1",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.diez-mil",
-          "name": "Diez Mil",
-          "role": "A2",
-          "tag": "actividad",
+          "name": "Diez mil",
+          "role": "actividad 2",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.incendio-forestal",
           "name": "Incendio Forestal",
-          "role": "A3",
-          "tag": "actividad",
+          "role": "actividad 3",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.difusion",
           "name": "Difusión",
-          "role": "A4",
-          "tag": "actividad",
+          "role": "actividad 4",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.cumpleanos",
           "name": "Cumpleaños",
-          "role": "A5",
-          "tag": "actividad",
+          "role": "actividad 5",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.criptografia",
           "name": "Criptografía",
-          "role": "A6",
-          "tag": "actividad",
+          "role": "actividad 6",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.imagenes",
           "name": "Imágenes",
-          "role": "A7",
-          "tag": "actividad",
+          "role": "actividad 7",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.datos-del-mundo",
-          "name": "Datos del Mundo",
-          "role": "A8",
-          "tag": "actividad",
+          "name": "Datos del mundo",
+          "role": "actividad 8",
+          "tag": "actividad anunciada",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.pensamiento-computacional.proyecto-final",
-          "name": "Proyecto Final",
-          "role": "A9",
-          "tag": "actividad",
+          "name": "Proyecto",
+          "role": "actividad 9",
+          "tag": "actividad anunciada",
           "kind": "unit"
         }
       ]
     }
   ],
   "source": {
-    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "label": "dc.uba.ar · «Se viene Pensamiento Computacional» — nota de novedades del Departamento de Computación (FCEN-UBA), 18/12/2023. Anuncio previo al primer dictado, no un programa.",
     "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
-  }
+  },
+  "sources": [
+    {
+      "label": "codigo.rec.uba.ar · Título 16 (CBC), Cap. D, «PENSAMIENTO COMPUTACIONAL» — A- Fundamentación, B- Objetivos generales y C- Contenidos oficiales. Los contenidos son un solo párrafo, sin unidades ni bibliografía.",
+      "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+    },
+    {
+      "label": "dc.uba.ar · «Se viene Pensamiento Computacional» (18/12/2023) — nota de novedades del Departamento de Computación. EXTRAÍDA: base de las nueve actividades anunciadas, del dictado en laboratorio, de las tres etapas A) B) C) y del equipo docente. Es un anuncio, no un programa.",
+      "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
+    }
+  ]
 }

@@ -4,9 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Biología CBC (cátedra)",
-    "unidades": 10
+    "catedra": "Cátedra Castiñeira de Dios — el sitio de la cátedra titula la materia «BIOLOGÍA (Código 08)»",
+    "seccion": "Cap. D · «15. BIOLOGÍA» · Contenidos 1 a 10",
+    "contenidos": 10,
+    "numeradosEnLaFuente": true
   },
   "breadcrumb": [
     {
@@ -28,17 +29,17 @@
   ],
   "eyebrow": "Biología · CBC · Bio·Salud",
   "title": "Biología celular, del plan de la vida a la herencia.",
-  "lede": "La Biología del CBC que cursan Veterinaria y Agronomía. Diez unidades de biología celular y molecular: cómo está organizada la materia viva, de qué está hecha, cómo transforma energía, cómo copia y expresa su información y cómo la hereda.",
+  "lede": "Diez unidades de biología celular y molecular: cómo está organizada la materia viva, de qué está hecha, cómo transforma energía, cómo copia y expresa su información y cómo la hereda.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Contenidos",
+      "v": "10",
+      "small": "numerados 1–10"
     },
     {
-      "k": "Unidades",
-      "v": "10",
-      "small": "programa"
+      "k": "Cátedra",
+      "v": "Castiñeira",
+      "small": "cód. 08"
     },
     {
       "k": "Grounding",
@@ -46,22 +47,22 @@
       "small": "temas + libros ✓"
     },
     {
-      "k": "Cursan",
-      "v": "Veterinaria",
-      "small": "carreras"
+      "k": "Fuente",
+      "v": "Código",
+      "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenido de los contenidos mínimos oficiales del CBC. El programa recorre la célula como sistema: su plan de organización y composición química, sus membranas y organoides, la transducción de energía, y el eje genético completo —núcleo, transcripción, síntesis proteica, división celular y herencia—.",
+  "frame": "Contenidos mínimos oficiales del CBC («15. BIOLOGÍA», Cap. D del Código UBA), numerados 1 a 10 en la fuente. El programa recorre la célula como sistema: su plan de organización y composición química, sus membranas y organoides, la transducción de energía, y el eje genético completo —núcleo, transcripción, síntesis protéica, división celular y herencia—. Cada contenido se despliega en la fuente en sub-puntos a) a h) que este nodo todavía no dibuja, igual que los Objetivos de la sección. Los libros no vienen del Cap. D —que no publica bibliografía— sino del sitio de la Cátedra Castiñeira de Dios.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · las 10 unidades",
       "title": "El recorrido del programa",
-      "note": "Cada unidad es un tramo del programa, en orden.",
+      "note": "Cada unidad es un contenido numerado de la fuente; el nombre es su enunciado.",
       "map": {
         "mk": "El programa, en 10 unidades",
-        "tree": "BIOLOGÍA\n│\n├─ Unidad 1 · Biología celular: el plan de organización de la materia viva\n├─ Unidad 2 · Composición química de los seres vivos\n├─ Unidad 3 · La superficie celular, el sistema de endomembranas y la secreción\n├─ Unidad 4 · El sistema de endomembrana y la digestión celular\n├─ Unidad 5 · La transducción de energía\n├─ Unidad 6 · El núcleo interfásico y el ciclo celular\n├─ Unidad 7 · Genética molecular: la transcripción\n├─ Unidad 8 · La síntesis proteica: la traducción y su regulación\n├─ Unidad 9 · La división celular\n└─ Unidad 10 · Herencia",
-        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "BIOLOGÍA\n│\n├─  1 · Biología celular: el plan de organización de la materia viva\n├─  2 · Composición química de los seres vivos\n├─  3 · La superficie celular, el sistema de endomembranas y el proceso de secreción celular\n├─  4 · El sistema de endomembrana y digestión celular\n├─  5 · La transducción de energía\n├─  6 · El núcleo interfásico y el ciclo celular\n├─  7 · Genética molecular: la transcripción\n├─  8 · La síntesis protéica: la traducción y su regulación\n├─  9 · La división celular\n└─ 10 · Herencia",
+        "foot": "Cap. D del Código UBA, «15. BIOLOGÍA», Contenidos 1 a 10. El Cap. D no publica bibliografía: los libros de abajo salen del sitio de la Cátedra Castiñeira de Dios."
       },
       "exits": [
         {
@@ -80,14 +81,14 @@
         },
         {
           "address": "uba.cbc.biosalud.biologia.superficie-endomembranas",
-          "name": "La superficie celular, el sistema de endomembranas y la secreción",
+          "name": "La superficie celular, el sistema de endomembranas y el proceso de secreción celular",
           "role": "Unidad 3",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.biosalud.biologia.digestion-celular",
-          "name": "El sistema de endomembrana y la digestión celular",
+          "name": "El sistema de endomembrana y digestión celular",
           "role": "Unidad 4",
           "tag": "unidad",
           "kind": "unit"
@@ -115,7 +116,7 @@
         },
         {
           "address": "uba.cbc.biosalud.biologia.sintesis-proteica",
-          "name": "La síntesis proteica: la traducción y su regulación",
+          "name": "La síntesis protéica: la traducción y su regulación",
           "role": "Unidad 8",
           "tag": "unidad",
           "kind": "unit"
@@ -140,7 +141,7 @@
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias",
       "title": "Los libros de la cátedra",
-      "note": "Bibliografía de la cátedra de Biología CBC (Cátedra Castiñeira de Dios, biologia-cbc.es.tl): textos generales de biología.",
+      "note": "«Bibliografía fundamental» del sitio de la Cátedra Castiñeira de Dios (biologia-cbc.es.tl), materia «BIOLOGÍA (Código 08)». La lista de la fuente tiene ocho puntos: los siete libros de acá más «Guías de estudio preparadas por los profesores del CBC y sus colaboradores», que no se dibuja por no ser un título publicado. La fuente agrega que la bibliografía complementaria y ampliatoria «será brindada por cada profesor».",
       "exits": [
         {
           "address": "uba.cbc.biosalud.biologia.audesirk",
@@ -197,5 +198,15 @@
   "source": {
     "label": "codigo.rec.uba.ar · Contenidos mínimos CBC",
     "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
-  }
+  },
+  "sources": [
+    {
+      "label": "codigo.rec.uba.ar · Título 16 (CBC), Cap. D, «15. BIOLOGÍA» — Contenidos 1 a 10. Base de las unidades.",
+      "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+    },
+    {
+      "label": "biologia-cbc.es.tl · Cátedra Castiñeira de Dios, «CONTENIDOS MINIMOS (programas)» → BIOLOGÍA (Código 08), sección «Bibliografía fundamental». Base de los siete libros. Sitio de cátedra, no fuente normativa; la propia página anuncia mudanza a biologia-cbc.webnode.es.",
+      "url": "http://biologia-cbc.es.tl/CONTENIDOS-MINIMOS--k1-programas-k2-.htm"
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "address": "uba.cbc.sociales.ddhh-constitucional",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "exits 3-6 reworded/abbreviated vs printed titles (posguerra, regionalización, tratados sobre DDHH)",
+    "'requerida por las carreras de Derecho' inferred from the Derecho Privado section (which names Abogacía, Traductorado y Calígrafo Público) — cross-section, unattributed",
+    "same three ungrounded metadata fields"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "6/6 exits map to Contenidos mínimos 1-6 (src 1929-1950); exits 1-2 literal. This materia's section has no Fundamentación/Objetivos — nothing omitted.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

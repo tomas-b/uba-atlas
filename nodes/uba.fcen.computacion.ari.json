@@ -8,7 +8,7 @@
     "cuatrimestre": "2º",
     "catedra": "Almacenamiento y Recuperación de la Información (DC-FCEN)",
     "cargaHoraria": "10 hs semanales · 160 hs totales · 35% teórica / 35% práctica / 30% laboratorio",
-    "correlativas": ["Ingeniería de Software", "Programación Concurrente y Paralela"],
+    "correlativas": ["Ingeniería de Software"],
     "unidades": 5,
     "bibliography": 0
   },
@@ -19,34 +19,52 @@
     { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" }
   ],
   "eyebrow": "Almacenamiento y Recuperación de la Información · Año 3 · 2º cuat.",
-  "title": "Bases de datos: diseñar, consultar y recuperar.",
-  "lede": "La materia de bases de datos del plan. Del modelado y diseño de datos y los lenguajes de manipulación (con optimización de consultas) a las transacciones y el control de concurrencia, los modelos alternativos al relacional, las bases distribuidas y paralelas, la extracción de información y el gobierno de datos. En 2c2025 se dictó unificada con la vieja Base de Datos.",
+  "title": "Bases de datos: diseñar, consultar y gobernar.",
+  "lede": "La materia de bases de datos del plan. Del modelado de datos transaccionales y orientados a consulta y las pautas de diseño a los lenguajes de manipulación con optimización de consultas, las transacciones con recuperación y control de concurrencia, las limitaciones del modelo relacional y los modelos alternativos de bases de datos, y el cierre en arquitectura, calidad, gobierno, seguridad y normas legales vinculadas a los datos.",
   "meta": [
     { "k": "Año", "v": "3", "small": "2º cuat." },
     { "k": "Unidades", "v": "5", "small": "temas" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
-    { "k": "Carga", "v": "160 hs", "small": "T/P/lab" }
+    { "k": "Carga", "v": "160 hs", "small": "10 hs · T/P/lab" }
   ],
-  "frame": "Contenido sourceado del Plan de Estudios 2023 (computacion.dc.uba.ar; detalle de temas en la versión-propuesta del plan). La fuente oficial da los temas propuestos pero no un programa numerado de la cátedra ni bibliografía — el material vive en el campus (login). Los temas del plan se reagrupan acá en cinco unidades fieles a esa lista (la columna de detalle «puede variar» según la implementación); la bibliografía se deja honestamente vacía. Correlativas: Ingeniería de Software y Programación Concurrente y Paralela.",
+  "frame": "Contenido sourceado del documento oficial del Plan de Estudios 2023 (fila «Almacenamiento y Recuperación de Información (ARI) · 10 hs»): la columna «contenidos mínimos» y la columna de detalle. La fuente oficial da los temas propuestos pero no un programa numerado de la cátedra ni bibliografía — el material vive en el campus (login), y la bibliografía se deja honestamente vacía. SELECCIÓN DECLARADA: los temas del plan se reagrupan acá en cinco unidades; el agrupamiento es editorial, los temas son literales, y ningún tema de la fuente queda afuera — «Arquitectura de datos», «Pautas de seguridad y normas legales vinculadas a los datos» y los «tópicos de calidad» entran en la Unidad 5. La columna de detalle «puede variar» según la implementación de la cátedra. CONTRADICCIÓN REGISTRADA: la ficha en prosa del sitio describe la materia con otras palabras («Técnicas de procesamiento de consultas y de tuning») — se dibuja el documento del plan. Correlativa: Ingeniería de Software, y sólo esa (dato coincidente en la tabla de la propuesta 2023 y en la columna «Correlativas» de las versiones 07/2024 y 11/2025). Se corrigieron tres fabricaciones previas: una correlativa inventada («Programación Concurrente y Paralela», que además es de 4º año y por lo tanto posterior a esta materia), un tema inventado («bases distribuidas y paralelas», que la fuente no dice) y una unificación con la vieja Base de Datos en 2c2025 que ninguna fuente sostiene — el plan sólo declara que Bases de Datos es la equivalencia del Plan 1993.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · los temas del plan",
       "title": "El recorrido de las bases de datos",
-      "note": "Cinco unidades temáticas, fieles a los temas propuestos del plan.",
+      "note": "Cinco unidades temáticas. El agrupamiento es editorial; los temas son los del plan, sin agregados ni faltantes.",
       "map": {
         "mk": "Los temas, en cinco unidades",
-        "tree": "ALMACENAMIENTO Y RECUPERACIÓN DE LA INFORMACIÓN\n│\n├─ 1 · Modelado y diseño de datos\n├─ 2 · Lenguajes de manipulación y optimización de consultas\n├─ 3 · Transacciones y control de concurrencia\n├─ 4 · Modelos alternativos y bases distribuidas/paralelas\n└─ 5 · Extracción de información y gobierno de datos",
-        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar). Sin bibliografía publicada en fuente oficial."
+        "tree": "ALMACENAMIENTO Y RECUPERACIÓN DE LA INFORMACIÓN\n│\n├─ 1 · Modelado y diseño de datos · transaccionales y orientados a consulta,\n│                                    pautas de diseño de bases de datos\n├─ 2 · Lenguajes de manipulación de datos · optimización de consultas\n├─ 3 · Transacciones · recuperación y control de concurrencia\n├─ 4 · Limitaciones del modelo relacional · modelos alternativos de bases de datos\n└─ 5 · Arquitectura, calidad, gobierno y seguridad de los datos · normas legales",
+        "foot": "Contenidos mínimos y detalle del documento oficial del Plan 2023 (computacion.dc.uba.ar, versiones 07/2024 y 11/2025). Sin bibliografía publicada en fuente oficial."
       },
       "exits": [
         { "address": "uba.fcen.computacion.ari.modelado-diseno", "name": "Modelado y diseño de datos", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.ari.lenguajes-consultas", "name": "Lenguajes de manipulación y optimización de consultas", "role": "Unidad 2", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.ari.transacciones-concurrencia", "name": "Transacciones y control de concurrencia", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.ari.modelos-distribuidas", "name": "Modelos alternativos y bases distribuidas y paralelas", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.ari.recuperacion-gobierno", "name": "Extracción de información y gobierno de datos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
+        { "address": "uba.fcen.computacion.ari.transacciones-concurrencia", "name": "Transacciones, recuperación y control de concurrencia", "role": "Unidad 3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.modelos-distribuidas", "name": "Modelos alternativos de bases de datos", "role": "Unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.ari.recuperacion-gobierno", "name": "Arquitectura, calidad, gobierno y seguridad de los datos", "role": "Unidad 5", "tag": "unidad", "kind": "unit" }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Propuesta Plan Lic. Cs. Computación (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Plan de Estudios Lic. Cs. Computación, versión 11/2025 (fila «Almacenamiento y Recuperación de Información (ARI) · 10 hs»)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "Plan de Estudios Lic. Cs. Computación, versión 11/2025 (PDF). DIBUJADO: contenidos mínimos y columna de detalle de la fila ARI (de donde salen las cinco unidades); correlativa «IS» en la tabla de alto nivel; 10 hs / 160 hs en la tabla de dedicación horaria (p.16); equivalencia «Bases de Datos → ARI». Texto en extract/out/plan-comp-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "Plan de Estudios Lic. Cs. Computación, versión 07/2024 (PDF). VERIFICADO: fila ARI idéntica, misma correlativa y misma carga 10 hs / 160 hs — las dos versiones concuerdan. Texto en extract/out/plan-comp-v07-2024.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2024/07/Plan-de-Estudios-Lic.-Cs-Computacion-Version-07_2024-1.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica ARI en 3er año, 2º cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)»; ubica Programación Concurrente y Paralela en 4º año, lo que hace imposible la correlativa que se había inventado. Su descripción en prosa no se dibuja.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "Propuesta de Nuevo Plan de Estudios (PDF, 2023). VERIFICADO, no dibujado: su tabla de materias imprime «Almacenamiento y Recuperación · C · 10 · 160 · Ingeniería de Software» — una sola correlativa, coincidente con las versiones posteriores. Texto en extract/out/propuesta-plan.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlandeEstudiosLicCsComputacion.pdf"
+    }
+  ]
 }

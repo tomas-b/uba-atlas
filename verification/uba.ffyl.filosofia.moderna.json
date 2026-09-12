@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.filosofia.moderna",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 14,
+  "books_found": 9,
+  "not_found": [
+    "frame 'la obligatoria son textos primarios' false — it contains three secondary studies, one drawn and tagged 'estudio' by the node itself"
+  ],
+  "omitted": [
+    "Moro's Utopía (obligatoria #1) absent while the map names Moro; Popkin, Regulae, Beiser dropped"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Spine accurate; prerequisite claim literal; 9 drawn exits with exact imprints. Selection partly declared ('en selección')."
+}

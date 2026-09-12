@@ -1,0 +1,22 @@
+{
+  "address": "uba.der.abogacia.procesal-civil",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "ALL four books untraceable corpus-wide (Kielmanovich/Palacio/Falcón/Arazi manuals — zero hits)",
+    "'sitio de la cátedra' never fetched, no URL",
+    "undeclared merge: U2 straddles the MARC paragraph the node makes U3"
+  ],
+  "omitted": [
+    "sistema de fuentes/competencias Nación-provincias named in no unit; incidentes/costas/nulidades and modos anormales folded unnamed"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Spine traceable (6 labels in plan prose; cuatrimestral/54h/CPC verified). Most completely ungrounded bibliography of the five."
+}

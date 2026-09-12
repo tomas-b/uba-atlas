@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidadesEditoriales": 6, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Obligaciones Civiles y Comerciales estudia la relación jurídica por la que un sujeto puede exigir de otro una prestación. Cuatrimestral, sus contenidos mínimos van del concepto y método del Código Civil y Comercial a los elementos, los efectos y el pago; luego la ejecución y la responsabilidad civil, la garantía patrimonial y el incumplimiento inimputable, la clasificación de las obligaciones y, por fin, su transmisión y extinción. Seis unidades ordenan ese recorrido.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
-    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "6", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la Cátedra «B» (Plan 2017), en la línea de Alterini, Ameal y López Cabana.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en seis unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 6 unidades",
       "title": "El arco de la obligación: nacer, cumplirse, responder, extinguirse",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en seis unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en seis unidades",
         "tree": "OBLIGACIONES CIVILES Y COMERCIALES\n│\n├─ Unidad 1 · Concepto y método\n├─ Unidad 2 · Elementos, efectos y pago\n├─ Unidad 3 · Ejecución y responsabilidad civil\n├─ Unidad 4 · Garantía común e incumplimiento inimputable\n├─ Unidad 5 · Clasificación de las obligaciones\n└─ Unidad 6 · Transmisión, extinción y fuentes",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la Cátedra «B»."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en seis unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.obligaciones.concepto-metodo", "name": "Concepto y método", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -41,20 +41,17 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía general del programa de la Cátedra «B» (Plan 2017). Fuente: programa de cátedra.",
-      "exits": [
-        { "address": "uba.der.abogacia.obligaciones.alterini-obligaciones", "name": "Atilio A. Alterini — Derecho de las obligaciones civiles y comerciales", "role": "Abeledo-Perrot · 2ª ed. 2004", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.alterini-ameal-lopez-cabana-curso", "name": "Alterini, Ameal y López Cabana — Curso de Obligaciones", "role": "Abeledo-Perrot", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.borda-obligaciones", "name": "Guillermo A. Borda — Tratado de Derecho Civil. Obligaciones", "role": "Abeledo-Perrot", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.cazeaux-trigo-represas", "name": "Cazeaux y Trigo Represas — Tratado de Derecho de las Obligaciones", "role": "Platense", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.boffi-boggero", "name": "Luis M. Boffi Boggero — Tratado de las Obligaciones", "role": "Astrea", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.belluscio-codigo", "name": "Belluscio (dir.) — Código Civil Anotado y Concordado", "role": "Astrea · t. 2, 3 y 5", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.obligaciones.bueres-highton-codigo", "name": "Bueres y Highton — Código Civil y Normas Complementarias", "role": "Hammurabi", "tag": "libro", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "No hay programa de cátedra citable para esta materia. Los títulos que circulaban bajo la atribución «Cátedra B (Plan 2017)» no son rastreables —cinco sin referente alguno, dos tomados del índice bibliográfico general del programa de Comercial con editorial y título alterados— y la atribución misma contradice el registro de inscripciones, donde toda comisión de la materia aparece encabezada por Calvo Costa. La oferta CPC del primer cuatrimestre de 2024 lista comisiones de esta materia bajo seis titulares —Calvo Costa, Gosende, Picasso, Silvestre, Vergara y Wierzba—: cualquier bibliografía sería la de una de las seis, no la de la materia. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de cátedras que dictan la materia. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

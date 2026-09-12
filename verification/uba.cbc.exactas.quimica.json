@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.exactas.quimica",
+  "source_reachable": "HTTP 200 content-empty (Vue SPA shell)",
+  "units_total": 11,
+  "units_found": 0,
+  "books_total": 2,
+  "books_found": 0,
+  "not_found": [
+    "all 11 units unverifiable — declared source serves no content on any path",
+    "'EUDEBA' imprint added to Angelini (no publisher in any reachable source)",
+    "'Química Básica — Di Risio' absent from every reachable source (0 grep hits repo-wide)",
+    "parcial split 1-5/6-11 invented (nearest real programa splits at 8)",
+    "'Cátedra Única' in tension with the named Cátedra Idoyaga"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Worst of the batch: cites a JS shell as if it grounded 11 units, plus affirmative inventions on top. Re-grounded same wave from a real source or sealed honestly.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

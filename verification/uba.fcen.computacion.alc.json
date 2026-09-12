@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.alc",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 8,
+  "books_found": 5,
+  "not_found": [
+    "FABRICATED EXIT: 'apunte Acosta & Laplagne' — instructor names converted into an authored apunte; the source lists two REAL apuntes (Jeronimo/Sabia/Tesauri; Durán/Lasalle/Rossi), both dropped",
+    "'JHU Press, 4ª ed.' invented for Golub & Van Loan",
+    "4 of 6 chapter labels synthesized (source chapters carry no titles) presented as 'capítulos del programa'"
+  ],
+  "omitted": [
+    "Kincaid/Cheney + both real apuntes dropped undeclared"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Source fully live (the 000 was root-only). 6 chapters and order correct; Trefethen/Golub/Demmel/Strang/Horn real. 'Co-dictada con Matemática' an inference."
+}

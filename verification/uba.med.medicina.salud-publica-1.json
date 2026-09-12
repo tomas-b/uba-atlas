@@ -1,0 +1,16 @@
+{
+  "address": "uba.med.medicina.salud-publica-1",
+  "wave": "normalizacion-med",
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 18,
+  "books_found": 18,
+  "notes": "Clean; Ortiz dedupe declared; Laurell's missing article title honestly stated; CS 7591/09 vs 2861/92 contradiction registered. Minor: metadata.año duplicates a clause; several book roles carry derivable editorial glosses.",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean"
+}

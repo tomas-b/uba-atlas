@@ -4,9 +4,12 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Cátedra Única de Química (CBC)",
-    "unidades": 11
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "contenidosMinimos": 10,
+    "alcance": "los objetivos y contenidos mínimos son comunes a las carreras de las áreas de Ciencias Naturales, Ciencias de la Salud e Ingenierías (según el Capítulo D)",
+    "regimen": "no consignado en el Capítulo D",
+    "catedra": "el Capítulo D no nombra cátedra; en material publicado por otras dependencias aparecen al menos dos — «QUÍMICA (O5) · CÁTEDRA IDOYAGA» en el programa analítico que publica Farmacia y Bioquímica (ffyb.uba.ar) y «QUÍMICA | DI RISIO» en el campus virtual del CBC (cbccampusvirtual.uba.ar)",
+    "bibliografia": "el Capítulo D fija contenidos, no bibliografía"
   },
   "breadcrumb": [
     {
@@ -26,148 +29,119 @@
       "label": "Química"
     }
   ],
-  "eyebrow": "Química · CBC · Cátedra Única",
-  "title": "De los átomos a los ácidos y las bases.",
-  "lede": "La Química del CBC — cátedra única, teórico-práctica. Un recorrido de química general: del instrumental de cálculo y la estructura de la materia a los enlaces, la orgánica, los gases, las soluciones, las reacciones y el equilibrio, hasta ácidos y bases. Optativa de la orientación exacta.",
+  "eyebrow": "Química · CBC · contenidos mínimos",
+  "title": "De la materia al equilibrio ácido-base, en diez contenidos.",
+  "lede": "La Química del CBC. Diez contenidos mínimos que suben de escala: primero clasificar la materia, después mirar adentro del átomo y ver cómo se une con otros, después medirla —el mol, los gases, las soluciones— y al final transformarla: reacciones, equilibrio, cinética, ácidos y bases. Es una sola materia: los mismos contenidos rigen para las carreras de Ciencias Naturales, de la Salud e Ingenierías.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Contenidos",
+      "v": "10",
+      "small": "mínimos"
     },
     {
-      "k": "Unidades",
-      "v": "11",
-      "small": "programa"
+      "k": "Alcance",
+      "v": "común",
+      "small": "3 áreas"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio ✓"
+      "small": "contenidos mín."
     },
     {
-      "k": "Cátedra",
-      "v": "única",
-      "small": "CBC"
+      "k": "Biblio",
+      "v": "—",
+      "small": "no la fija"
     }
   ],
-  "frame": "Contenido de la cátedra única de Química del CBC: química general en once unidades, evaluadas en dos parciales (unidades 1–5 y 6–10/11). Los temas están sourceados y los textos de cátedra identificados (Angelini, EUDEBA; Di Risio y otros).",
+  "frame": "Los contenidos mínimos oficiales de Química del CBC, tal como los enumera el Capítulo D del Código UBA en su punto 14. La fuente dice de la materia: «Es una materia que comprende la formación específica de diversas carreras de las áreas de Ciencias Naturales, Ciencias de la Salud e Ingenierías. Los objetivos y contenidos mínimos que se presentan son comunes a las diferentes carreras». Química del CBC es, entonces, UNA materia: lo que se dibuja acá para la orientación exacta y tecnológica son los mismos diez contenidos que rigen para las carreras biológicas y de la salud, donde este atlas los dibuja también. El punto 11 del texto, Compuestos orgánicos, no se dibuja acá: la fuente lo rotula «CONTENIDOS MÍNIMOS ADICIONALES PARA LA CARRERA DE ODONTOLOGÍA». El Capítulo D enumera contenidos y objetivos, y nada más: no fija bibliografía, no fija régimen de cursada ni de evaluación y no nombra cátedra — por eso este nodo no dibuja libros ni afirma parciales. Dos hechos de otras fuentes, atribuidos: el programa analítico de Química del CBC que publica la Facultad de Farmacia y Bioquímica (ffyb.uba.ar) lo encabeza como «QUÍMICA (O5) – CÁTEDRA IDOYAGA» y remite a estos mismos contenidos mínimos por la Resol. UBA N°4426/16; y el campus virtual del CBC (cbccampusvirtual.uba.ar) publica en acceso de invitado el curso «QUÍMICA | DI RISIO», que organiza el material en series numeradas. Hay más de una cátedra.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 11 unidades",
-      "title": "El recorrido de química general",
-      "note": "Cada unidad en orden. Los dos parciales parten el programa por la mitad.",
+      "eyebrow": "Contenidos mínimos · los diez puntos",
+      "title": "El recorrido oficial",
+      "note": "Cada punto es un contenido mínimo del Capítulo D, con su nombre literal, en el orden en que la fuente los enumera.",
       "map": {
-        "mk": "El programa, en once unidades",
-        "tree": "QUÍMICA CBC — química general\n│\n├─ U1  · Cálculos Básicos: Magnitudes y Unidades\n├─ U2  · Materia, Átomos y Moléculas\n├─ U3  · Estructura Atómica y Tabla Periódica\n├─ U4  · Magnitudes Atómico-Moleculares\n├─ U5  · Enlaces, Compuestos e Interacciones\n├─ U6  · Química Orgánica\n├─ U7  · Gases\n├─ U8  · Soluciones\n├─ U9  · Reacciones Químicas\n├─ U10 · Cinética y Equilibrio Químico\n└─ U11 · Ácidos y Bases",
-        "foot": "Temas de la cátedra única. Textos: Angelini (EUDEBA) y Di Risio."
+        "mk": "Química del CBC, en diez contenidos mínimos",
+        "tree": "QUÍMICA · CBC · Capítulo D, punto 14\n│\n├─ 1  · Sistemas Materiales\n├─ 2  · Estructura atómica y clasificación periódica\n├─ 3  · Uniones químicas y nomenclatura\n├─ 4  · Fuerzas de atracción entre partículas y propiedades físicas\n├─ 5  · Magnitudes atómicas y moleculares\n├─ 6  · Gases ideales\n├─ 7  · Soluciones\n├─ 8  · Reacciones químicas\n├─ 9  · Equilibrio químico y Cinética Química\n└─ 10 · Ácidos y bases",
+        "foot": "Un punto 11 —Compuestos orgánicos— existe en la fuente como contenido mínimo adicional para la carrera de Odontología; no corresponde a esta orientación. La fuente no fija bibliografía."
       },
       "exits": [
         {
-          "address": "uba.cbc.exactas.quimica.calculos-magnitudes",
-          "name": "Cálculos Básicos: Magnitudes y Unidades",
-          "role": "U1",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.exactas.quimica.materia-atomos-moleculas",
-          "name": "Materia, Átomos y Moléculas",
-          "role": "U2",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.quimica.sistemas-materiales",
+          "name": "Sistemas Materiales",
+          "role": "Contenido mínimo 1",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.estructura-atomica",
-          "name": "Estructura Atómica y Tabla Periódica",
-          "role": "U3",
-          "tag": "unidad",
+          "name": "Estructura atómica y clasificación periódica",
+          "role": "Contenido mínimo 2",
+          "tag": "contenido mínimo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.uniones-quimicas",
+          "name": "Uniones químicas y nomenclatura",
+          "role": "Contenido mínimo 3",
+          "tag": "contenido mínimo",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.quimica.fuerzas-intermoleculares",
+          "name": "Fuerzas de atracción entre partículas y propiedades físicas de las sustancias",
+          "role": "Contenido mínimo 4",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.magnitudes-atomico-moleculares",
-          "name": "Magnitudes Atómico-Moleculares",
-          "role": "U4",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.exactas.quimica.enlaces-compuestos",
-          "name": "Enlaces, Compuestos e Interacciones",
-          "role": "U5",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.exactas.quimica.quimica-organica",
-          "name": "Química Orgánica",
-          "role": "U6",
-          "tag": "unidad",
+          "name": "Magnitudes atómicas y moleculares",
+          "role": "Contenido mínimo 5",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.gases",
-          "name": "Gases",
-          "role": "U7",
-          "tag": "unidad",
+          "name": "Gases ideales",
+          "role": "Contenido mínimo 6",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.soluciones",
           "name": "Soluciones",
-          "role": "U8",
-          "tag": "unidad",
+          "role": "Contenido mínimo 7",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.reacciones-quimicas",
-          "name": "Reacciones Químicas",
-          "role": "U9",
-          "tag": "unidad",
+          "name": "Reacciones químicas",
+          "role": "Contenido mínimo 8",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.quimica.cinetica-equilibrio",
-          "name": "Cinética y Equilibrio Químico",
-          "role": "U10",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.quimica.equilibrio-cinetica",
+          "name": "Equilibrio químico y Cinética Química",
+          "role": "Contenido mínimo 9",
+          "tag": "contenido mínimo",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.quimica.acidos-bases",
-          "name": "Ácidos y Bases",
-          "role": "U11",
-          "tag": "unidad",
+          "name": "Ácidos y bases",
+          "role": "Contenido mínimo 10",
+          "tag": "contenido mínimo",
           "kind": "unit"
-        }
-      ]
-    },
-    {
-      "kind": "plain",
-      "eyebrow": "Bibliografía · sourceada",
-      "title": "Los textos de la cátedra",
-      "note": "Textos habituales de Química del CBC. Su contenido (L3) es un índice aparte.",
-      "exits": [
-        {
-          "address": "uba.cbc.exactas.quimica.temas-quimica-general-angelini",
-          "name": "Temas de Química General — Angelini y otros (EUDEBA)",
-          "role": "texto",
-          "tag": "libro",
-          "kind": "book"
-        },
-        {
-          "address": "uba.cbc.exactas.quimica.quimica-basica-di-risio",
-          "name": "Química Básica — Di Risio, Roverano, Vázquez",
-          "role": "texto",
-          "tag": "libro",
-          "kind": "book"
         }
       ]
     }
   ],
   "source": {
-    "label": "cbc.uba.ar · Química (CBC)",
-    "url": "https://www.cbc.uba.ar/"
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
   }
 }

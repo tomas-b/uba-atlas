@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidades": 5 },
+  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidadesEditoriales": 5, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Elementos de Derecho Penal y de Procesal Penal recorre el poder punitivo desde su base constitucional hasta el juicio que lo aplica. Los contenidos mínimos van de las garantías del derecho penal y procesal penal a la teoría del delito como método, la respuesta punitiva, los delitos en particular y el proceso penal. Materia anual del Ciclo Profesional Común, organizada en cinco unidades.",
   "meta": [
     { "k": "Régimen", "v": "anual", "small": "108 h" },
-    { "k": "Unidades", "v": "5", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "5", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de la cátedra del Prof. Titular Alejandro Alagia, del Departamento de Derecho Penal y Criminología, en la línea teórica de Zaffaroni.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en cinco unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos. Variante interna de la fuente, registrada: el plan imprime el nombre de la materia como «Elementos de Derecho Penal y de Procesal Penal» en la tabla de asignaturas y como «Elementos de Derecho Penal y Procesal Penal», sin la segunda preposición, en la tabla de correlatividades.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 5 unidades",
       "title": "De la garantía constitucional al juicio oral",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en cinco unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en cinco unidades",
         "tree": "PENAL Y PROCESAL PENAL\n│\n├─ Unidad 1 · Garantías y ley penal\n├─ Unidad 2 · El delito y su teoría\n├─ Unidad 3 · La respuesta punitiva\n├─ Unidad 4 · Los delitos en particular\n└─ Unidad 5 · El proceso penal",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Alagia."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en cinco unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.penal.garantias-ley-penal", "name": "Garantías y ley penal", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -40,18 +40,16 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía obligatoria del programa de la cátedra del Prof. Titular Alejandro Alagia (Departamento de Derecho Penal y Criminología, CPC), continuadora de la línea de Zaffaroni. Fuente: programa de la cátedra (Alagia, 2011).",
-      "exits": [
-        { "address": "uba.der.abogacia.penal.zaffaroni-alagia-slokar-manual", "name": "Zaffaroni, Alagia y Slokar — Manual de Derecho Penal. Parte General", "role": "Ediar · 2ª ed. 2006", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.penal.zaffaroni-alagia-slokar-tratado", "name": "Zaffaroni, Alagia y Slokar — Derecho Penal. Parte General", "role": "Ediar · 2002", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.penal.zaffaroni-enemigo", "name": "E. Raúl Zaffaroni — El enemigo en el derecho penal", "role": "Ediar · 2006", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.penal.zaffaroni-palabra-muertos", "name": "E. Raúl Zaffaroni — La palabra de los muertos", "role": "Ediar · 2011", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.penal.codigos", "name": "Código Penal, Código Procesal Penal y Constitución Nacional", "role": "textos legales", "tag": "fuentes", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "No hay programa de cátedra citable para esta materia: el programa invocado no existe —la entrada de esa cátedra en el catálogo no lleva bibliografía— y los cuatro títulos de Zaffaroni que circulaban vienen en bloque de un curso electivo del CPO sobre criminología del genocidio, con editorial y año alterados en dos casos y un tercero sobre el que el corpus arroja tres años en conflicto. El extracto de oferta CPC disponible (primer cuatrimestre de 2024, tomos 1 y 2) no lista esta materia, de modo que el atlas no declara aquí cuántas cátedras la dictan. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" }
+  ]
 }

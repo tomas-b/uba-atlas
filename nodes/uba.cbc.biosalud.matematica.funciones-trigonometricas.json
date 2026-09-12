@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.matematica.funciones-trigonometricas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": "5",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.funciones-trigonometricas",
+      "label": "Funciones trigonométricas exponenciales"
+    }
+  ],
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 5",
+  "title": "Funciones trigonométricas exponenciales",
+  "lede": "Las funciones que se repiten: seno, coseno y tangente leídas por período y amplitud.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "5",
+      "small": "de 7"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC · código 51"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Definición de las funciones trigonométricas · gráficos · propiedades; Ceros, imagen, amplitud y período; Positividad y negatividad · valores máximos y mínimos; Aplicaciones. ERRATA DEL ORIGINAL: el título impreso es \"Funciones trigonométricas exponenciales\" y se transcribe literal, aunque el desarrollo de la unidad trata solo funciones trigonométricas — las exponenciales pertenecen a la Unidad 4.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "FUNCIONES TRIGONOMÉTRICAS\n│\n• Definición de las funciones trigonométricas · gráficos · propiedades\n• Ceros, imagen, amplitud y período\n• Positividad y negatividad · valores máximos y mínimos\n• Aplicaciones",
+        "foot": "ERRATA DEL ORIGINAL: el título impreso es \"Funciones trigonométricas exponenciales\" y se transcribe literal, aunque el desarrollo de la unidad trata solo funciones trigonométricas — las exponenciales pertenecen a la Unidad 4. La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

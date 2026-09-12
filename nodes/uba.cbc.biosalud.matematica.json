@@ -4,9 +4,16 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Cátedra Única (CBC · código 51)",
-    "unidades": 6
+    "regimen": "presencial · 16 semanas · 2 encuentros semanales obligatorios de 3 hs (6 hs semanales), según el programa; el programa no consigna cuatrimestre",
+    "cargaHoraria": "96 hs totales — 27 hs de seminarios teóricos, 60 hs de talleres prácticos, 9 hs de evaluaciones (literal del programa)",
+    "catedra": "Cátedra Rossomando — encabezado del programa: \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO\"",
+    "codigo": "51 (impreso junto al nombre de la materia)",
+    "unidades": 7,
+    "unidadesComplementarias": 2,
+    "contenidosMinimos": "Resol. UBA N°917/90 (citada en el encabezado de la sección A del programa)",
+    "actividades": "9 seminarios teóricos · 20 talleres de resolución de problemas · 3 instancias de evaluación (2 parciales y 1 recuperatorio)",
+    "evaluacion": "75% de asistencia a los talleres + 2 exámenes presenciales escritos aprobados con 4 o más → regularidad y examen final; promedio de 7 o más entre ambos → promoción directa; un examen desaprobado admite recuperatorio, sin promoción",
+    "bibliografia": 3
   },
   "breadcrumb": [
     {
@@ -26,47 +33,47 @@
       "label": "Matemática"
     }
   ],
-  "eyebrow": "Matemática · CBC · Bio·Salud",
-  "title": "El cálculo, de los reales a la integral.",
-  "lede": "La Matemática del CBC para el perfil biológico y de la salud. Un curso de análisis de una variable: se parte de los números reales y las coordenadas, se recorre el catálogo de funciones y se llega a las dos herramientas centrales del cálculo, la derivada y la integral.",
+  "eyebrow": "Matemática (51) · CBC · Cátedra Rossomando",
+  "title": "Del número real a la integral, en dieciséis semanas.",
+  "lede": "Un curso de análisis de una variable armado sobre la función. Se abre en los conjuntos numéricos y el plano cartesiano; se recorren las familias —polinómicas, racionales con sus límites y asíntotas, inversas y composición, exponenciales y logarítmicas, trigonométricas— y se cierra con las dos herramientas del cálculo: la derivada y la integral, hasta la regla de Barrow y el cálculo de áreas. Dos unidades complementarias abren, aparte, la puerta de la probabilidad y la estadística descriptiva.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Unidades",
+      "v": "7",
+      "small": "+2 complementarias"
     },
     {
-      "k": "Unidades",
-      "v": "6",
-      "small": "programa"
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "16 semanas"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas + libros ✓"
+      "small": "temas ✓ · biblio ✓"
     },
     {
-      "k": "Cursan",
-      "v": "núcleo",
-      "small": "carreras"
+      "k": "Cátedra",
+      "v": "Rossomando",
+      "small": "código 51"
     }
   ],
-  "frame": "Contenido del programa analítico de la cátedra única (código 51). El eje es la función: primero los conjuntos numéricos y el plano cartesiano, después las familias de funciones (polinómicas, racionales, trigonométricas, exponenciales) y finalmente el cálculo diferencial e integral. Es la Matemática que cursan Medicina, Odontología, Farmacia y Bioquímica; Agronomía y Veterinaria cursan una variante propia de su facultad (Matemática · Agronomía).",
+  "frame": "Contenido del PROGRAMA ANALÍTICO de MATEMÁTICA (51) — CÁTEDRA ROSSOMANDO, Ciclo Básico Común de la UBA, en el PDF publicado (hosting) por la Facultad de Farmacia y Bioquímica en ffyb.uba.ar. La sección B del programa —UNIDADES TEMÁTICAS— imprime siete unidades numeradas 1 a 7 más dos Unidades Complementarias numeradas 1 y 2; acá se respeta esa numeración al pie de la letra. La carga horaria es la de la sección D: 96 hs totales (27 de seminarios, 60 de talleres, 9 de evaluaciones), sobre 16 semanas de 2 encuentros presenciales obligatorios de 3 hs. DISCREPANCIA INTERNA REGISTRADA: la sección A del programa transcribe los CONTENIDOS MÍNIMOS de la Resol. UBA N°917/90 en cinco bloques —funciones; funciones lineales, cuadráticas y polinómicas; exponenciales y trigonométricas; derivadas e integrales; y VECTORES EN EL PLANO Y EN EL ESPACIO— más un PROGRAMA DE MODULO COMPLEMENTARIO (sucesiones, series, Rolle, Lagrange, Cauchy, L'Hôpital, estudio completo de funciones); ni los vectores ni ese módulo reaparecen en las unidades temáticas de la sección B, y las unidades de la sección B no se declaran mapeadas a los contenidos mínimos. GAP REGISTRADO: el cronograma de la sección C cubre solo las Unidades 1 a 7 —los dos parciales evalúan Unidades 1 a 5 y Unidades 6 a 7— y no menciona las dos Unidades Complementarias en ningún encuentro. ERRATA DEL ORIGINAL: el título impreso de la Unidad 5 es \"Funciones trigonométricas exponenciales\", aunque su desarrollo trata solo funciones trigonométricas (las exponenciales están en la Unidad 4); el título se transcribe literal. La bibliografía es una lista plana de tres títulos al final del programa, sin editorial, año, edición ni asignación por unidad. El programa no consigna cuatrimestre, ni régimen nominal, ni equipo docente además del nombre de cátedra, ni carreras que cursan la materia — nada de eso se afirma acá.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 6 unidades",
+      "eyebrow": "Sección B · Unidades temáticas",
       "title": "El recorrido del programa",
-      "note": "Cada unidad es un tramo del programa, en orden.",
+      "note": "Las siete unidades numeradas y las dos unidades complementarias, con el título tal como está impreso.",
       "map": {
-        "mk": "El programa, en 6 unidades",
-        "tree": "MATEMÁTICA\n│\n├─ Unidad 1 · Números reales y coordenadas cartesianas\n├─ Unidad 2 · Funciones polinómicas\n├─ Unidad 3 · Funciones racionales\n├─ Unidad 4 · Funciones trigonométricas y exponenciales\n├─ Unidad 5 · Derivadas\n└─ Unidad 6 · Integración",
-        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+        "mk": "El programa, tal como está numerado",
+        "tree": "MATEMÁTICA (51) · Cátedra Rossomando\n│\n├─ Unidad 1 · Números Reales y Coordenadas Cartesianas\n├─ Unidad 2 · Funciones polinómicas\n├─ Unidad 3 · Funciones racionales y limites\n├─ Unidad 4 · Funciones inversas, composición de funciones,\n│              funciones exponenciales y logarítmicas\n├─ Unidad 5 · Funciones trigonométricas exponenciales\n├─ Unidad 6 · Derivadas\n├─ Unidad 7 · Integración\n│\n├─ Unidad Complementaria 1 · Distribuciones en probabilidad\n└─ Unidad Complementaria 2 · Muestra aleatoria. Estadística descriptiva.",
+        "foot": "Numeración y títulos literales de la sección B. El cronograma de la sección C recorre solo las Unidades 1 a 7; las complementarias no aparecen en él."
       },
       "exits": [
         {
           "address": "uba.cbc.biosalud.matematica.numeros-reales",
-          "name": "Números reales y coordenadas cartesianas",
+          "name": "Números Reales y Coordenadas Cartesianas",
           "role": "Unidad 1",
           "tag": "unidad",
           "kind": "unit"
@@ -80,58 +87,79 @@
         },
         {
           "address": "uba.cbc.biosalud.matematica.funciones-racionales",
-          "name": "Funciones racionales",
+          "name": "Funciones racionales y límites",
           "role": "Unidad 3",
           "tag": "unidad",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.biosalud.matematica.funciones-trascendentes",
-          "name": "Funciones trigonométricas y exponenciales",
+          "address": "uba.cbc.biosalud.matematica.funciones-inversas-exponenciales",
+          "name": "Funciones inversas, composición de funciones, funciones exponenciales y logarítmicas",
           "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.funciones-trigonometricas",
+          "name": "Funciones trigonométricas exponenciales",
+          "role": "Unidad 5",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.biosalud.matematica.derivadas",
           "name": "Derivadas",
-          "role": "Unidad 5",
+          "role": "Unidad 6",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.biosalud.matematica.integracion",
           "name": "Integración",
-          "role": "Unidad 6",
+          "role": "Unidad 7",
           "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.complementaria-probabilidad",
+          "name": "Distribuciones en probabilidad",
+          "role": "Unidad Complementaria 1",
+          "tag": "unidad complementaria",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.biosalud.matematica.complementaria-estadistica",
+          "name": "Muestra aleatoria. Estadística descriptiva",
+          "role": "Unidad Complementaria 2",
+          "tag": "unidad complementaria",
           "kind": "unit"
         }
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los libros del programa",
-      "note": "Bibliografía del programa analítico de la cátedra única (código 51, ffyb.uba.ar).",
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa",
+      "title": "Las fuentes",
+      "note": "Los tres títulos de la lista de bibliografía, con los datos exactos que imprime el programa. No hay editorial, año, edición ni asignación por unidad en el original. No indexados aún como libros (L3).",
       "exits": [
         {
           "address": "uba.cbc.biosalud.matematica.sadosky-guber",
-          "name": "Sadosky y Guber — Elementos de cálculo diferencial e integral",
-          "role": "ed.",
+          "name": "Elementos de cálculo diferencial e integral — Manuel Sadosky y Rebeca Ch. de Guber",
+          "role": "sin datos de edición en el programa",
           "tag": "libro",
           "kind": "book"
         },
         {
           "address": "uba.cbc.biosalud.matematica.piskunov",
-          "name": "Piskunov — Cálculo diferencial e integral",
-          "role": "ed.",
+          "name": "Cálculo diferencial e integral — N. Piskunov",
+          "role": "sin datos de edición en el programa",
           "tag": "libro",
           "kind": "book"
         },
         {
           "address": "uba.cbc.biosalud.matematica.spiegel",
-          "name": "Spiegel — Estadística",
-          "role": "ed.",
+          "name": "Estadística — Murray R. Spiegel",
+          "role": "sin datos de edición en el programa",
           "tag": "libro",
           "kind": "book"
         }
@@ -139,7 +167,7 @@
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común; contenidos mínimos según Resol. UBA N°917/90 citada en el propio programa",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
   }
 }

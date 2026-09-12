@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 5
+    "seccion": "Cap. D · «10. PSICOLOGÍA» · Contenidos mínimos 1 a 5",
+    "contenidos": 5,
+    "numeradosEnLaFuente": true,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Psicología"
     }
   ],
-  "eyebrow": "Psicología · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Psicología · CBC · Código UBA, Cap. D",
   "title": "Las grandes corrientes que disputaron el objeto de la psicología.",
-  "lede": "Una introducción a las principales corrientes contemporáneas de la psicología —conductismo, cognitivismo, psicoanálisis y psicología social— y a los supuestos epistemológicos que las separan.",
+  "lede": "Una introducción a los postulados básicos de las principales corrientes contemporáneas de la psicología —la conducta, los procesos cognitivos, los procesos inconscientes, la interacción humana— y a los supuestos epistemológicos con los que se construyen las teorías psicológicas.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "5",
+      "small": "numerados 1–5"
     },
     {
-      "k": "Unidades",
-      "v": "5",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +52,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): cinco bloques que recorren el objeto y método de la psicología y sus grandes corrientes, cada una definida por una ruptura con la anterior. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA, «10. PSICOLOGÍA»): cinco bloques numerados que recorren el objeto y los métodos de la psicología y sus grandes corrientes. La fuente presenta los sistemas psicológicos contemporáneos como constituidos «a partir de diversas rupturas», y nombra la ruptura explícitamente en los contenidos 2 y 4. Esta sección trae Objetivos y Contenidos mínimos: no imprime Fundamentación ni bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un contenido mínimo numerado de la fuente; el nombre es su enunciado.",
       "map": {
         "mk": "La materia, comprimida",
         "tree": "PSICOLOGÍA — contenidos mínimos\n│\n├─ 1 · Objeto y métodos de la Psicología\n├─ 2 · Estudio de la conducta humana\n├─ 3 · Estudio de los procesos cognitivos\n├─ 4 · Estudio de los procesos inconscientes\n└─ 5 · Estudio de la interacción humana",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "foot": "Cap. D del Código UBA, «10. PSICOLOGÍA», Contenidos mínimos 1 a 5. La sección no publica bibliografía."
       },
       "exits": [
         {

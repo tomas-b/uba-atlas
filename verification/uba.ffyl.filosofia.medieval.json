@@ -1,0 +1,17 @@
+{
+  "address": "uba.ffyl.filosofia.medieval",
+  "source_reachable": true,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 32,
+  "books_found": 8,
+  "not_found": [
+    "código written '0205' where the PDF prints '205' (leading zero added)"
+  ],
+  "omitted": [
+    "~24 fuentes+obligatoria items undrawn with no declared ratio; group title 'tal como los asigna la cátedra' overstates"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Spine solid, honesty caveats verified by grep (Aquino only in U-IV; Ockham 0 hits). All 8 drawn readings traceable."
+}

@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "96 hs (4 teór + 2 práct sem.)", "cuatrimestre": "2º", "catedra": "Cátedra Bonilla (Prof. Alcira B. Bonilla, programa Nº 0232-12023)", "unidades": 5, "bibliografia": 8, "rota": "sí — parte especial y cátedra rotan" },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "4 horas de clases teóricas y 2 de trabajos prácticos semanales (el programa no imprime carga total)", "cuatrimestre": "2º", "anioDelPrograma": "2012 — carátula «AÑO: 2012»; el interior dice «SEGUNDO CUATRIMESTRE DE 2011»", "catedra": "Cátedra Bonilla (Prof. Alcira B. Bonilla, programa Nº 0232)", "codigo": "0232 — el programa Nº 0232 es lo único que imprime este documento; el par «0232-12023» (código del Plan 2017) figura en el programa Bertorello 2020, no acá", "unidades": 5, "bibliografia": 8, "rota": "sí — dos programas reales en mano lo confirman: Bonilla 2012 y Bertorello 2020" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.ffyl", "label": "Filosofía y Letras" },
@@ -19,7 +19,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Foco", "v": "rota", "small": "parte especial" }
   ],
-  "frame": "Contenido real del programa Nº 0232 (Cátedra Bonilla, filosofia.filo.uba.ar). Parte general (estable): el surgimiento de la Antropología Filosófica como disciplina (antecedentes antiguos y modernos, Pico, Hume, Kant), su constitución en el siglo XX (Scheler, Cassirer, Gehlen, Buber, Kusch) y las críticas al 'giro antropológico' (Heidegger, Horkheimer, Foucault, Althusser). Parte especial (rota por año): 'Naturaleza humana, cuerpo y política' — dualismos y monismos, la relación mente-cuerpo, el giro dialéctico, bioética y biopolítica. CAVEAT: la parte especial cambia de eje cada año; además la materia rota entre cátedras — otra (Cátedra Bertorello) la dicta desde la fenomenología hermenéutica y la teoría de la enunciación. No se localizó un 'contenido mínimo' normativo separado.",
+  "frame": "PROGRAMA VIEJO, declarado: la fuente principal de este nodo es el programa de la Cátedra Bonilla fechado 2012 en su carátula (Dra. Alcira B. Bonilla, programa Nº 0232, filosofia.filo.uba.ar), cuyo interior dice en realidad «SEGUNDO CUATRIMESTRE DE 2011». No es el programa vigente. Parte general: el surgimiento de la Antropología Filosófica como disciplina (antecedentes antiguos y modernos, Pico, Hume, Kant), su constitución en el siglo XX (Scheler, Cassirer, Gehlen, Buber, Kusch) y las críticas al 'giro antropológico' (Heidegger, Horkheimer, Foucault, Althusser). Parte especial: 'Naturaleza humana, cuerpo y política' — dualismos y monismos, la relación mente-cuerpo, el giro dialéctico, bioética y biopolítica. SEGUNDA FUENTE, atribuida: existe un programa mucho más nuevo, el de la Cátedra Bertorello (Adrián Bertorello, 2º cuatrim. 2020, repositorio FILO:Digital 12725), que dicta la materia desde la fenomenología hermenéutica y la teoría de la enunciación — de él, y sólo de él, salen el dato «CARGA HORARIA: 96 HORAS» y el código completo «0232 - 12023»; el programa Bonilla no imprime ninguno de los dos. Este nodo no dibuja las unidades de Bertorello. Búsquedas hechas: sobre el repositorio FILO:Digital y el sitio del Departamento de Filosofía no se localizó un texto de 'contenido mínimo' normativo separado del programa de cada cátedra; la afirmación vale para esas búsquedas, no como negativa universal.",
   "groups": [
     {
       "kind": "spine",
@@ -29,21 +29,21 @@
       "map": {
         "mk": "El programa, en cinco unidades",
         "tree": "ANTROPOLOGÍA FILOSÓFICA\n│\n├─ PARTE GENERAL (estable)\n│    I  · La Antropología Filosófica · Pico · Hume · Kant\n│    II · La AF y sus críticos · Scheler/Cassirer/Gehlen vs. Heidegger/Foucault\n└─ PARTE ESPECIAL · 'Naturaleza humana, cuerpo y política' (rota)\n     III · Cuerpo y política en la historia de la filosofía\n     IV  · Las críticas del dualismo · Feuerbach → Butler\n     V   · Entre bioéticas y biopolíticas · racismo · migración",
-        "foot": "Temas del programa Bonilla. La parte general es el núcleo estable de la materia; la especial es el recorte del año."
+        "foot": "Temas del programa Bonilla 2012 (interior: 2º cuatrim. 2011). Los nombres de las unidades son los literales del documento. El programa Bertorello 2020 organiza la materia de otro modo y no está dibujado acá."
       },
       "exits": [
-        { "address": "uba.ffyl.filosofia.antropologia.disciplina", "name": "La Antropología Filosófica: antecedentes y surgimiento", "role": "Unidad I", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.disciplina", "name": "La Antropología Filosófica", "role": "Unidad I · antecedentes y surgimiento", "tag": "unidad", "kind": "unit" },
         { "address": "uba.ffyl.filosofia.antropologia.criticos", "name": "La Antropología Filosófica y sus críticos", "role": "Unidad II", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.ffyl.filosofia.antropologia.cuerpo-historia", "name": "Naturaleza humana, cuerpo y política en la historia de la filosofía", "role": "Unidad III", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.ffyl.filosofia.antropologia.cuerpo-historia", "name": "Naturaleza humana, cuerpo y política en la historia de la filosofía occidental", "role": "Unidad III", "tag": "unidad", "kind": "unit" },
         { "address": "uba.ffyl.filosofia.antropologia.criticas-dualismo", "name": "Las críticas del dualismo", "role": "Unidad IV", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.ffyl.filosofia.antropologia.biopolitica", "name": "Entre las bioéticas y las biopolíticas", "role": "Unidad V", "tag": "unidad", "kind": "unit" }
+        { "address": "uba.ffyl.filosofia.antropologia.biopolitica", "name": "La Antropología filosófica contemporánea entre las bioéticas y las biopolíticas", "role": "Unidad V", "tag": "unidad", "kind": "unit" }
       ]
     },
     {
       "kind": "books",
-      "eyebrow": "Bibliografía obligatoria",
-      "title": "Las fuentes",
-      "note": "Títulos reales del programa (obligatoria). No indexados aún como libros (L3).",
+      "eyebrow": "Bibliografía específica",
+      "title": "Ocho títulos de la Bibliografía específica",
+      "note": "El programa Bonilla no rotula esta lista 'obligatoria': la titula «4. Bibliografía específica» (y lleva aparte una «5. Bibliografía general»). SELECCIÓN DECLARADA: 8 de unas 45 entradas de esa lista. Quedan sin dibujar, entre otros, Pico, Buber, Gehlen, Kusch, Heidegger, Althusser, Ryle, Deleuze, Nancy, Feuerbach, Marx, Gramsci, Darwin, Nietzsche, Husserl, Sontag, Van Dijk, Esposito y las fichas de cátedra. No indexados aún como libros (L3).",
       "exits": [
         { "address": "uba.ffyl.filosofia.antropologia.libro-kant", "name": "Antropología en sentido pragmático — I. Kant (Losada, 2009)", "role": "Unidad I", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.antropologia.libro-scheler", "name": "El puesto del hombre en el cosmos — M. Scheler (Losada)", "role": "Unidad II", "tag": "libro", "kind": "book" },
@@ -56,5 +56,9 @@
       ]
     }
   ],
-  "source": { "label": "filosofia.filo.uba.ar · Programa de Antropología Filosófica Nº 0232 (Bonilla)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" }
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Antropología Filosófica Nº 0232 (Bonilla, carátula 2012 / interior 2º cuatrim. 2011)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" },
+  "sources": [
+    { "role": "principal — unidades y bibliografía dibujadas", "label": "Programa Nº 0232 · Antropología Filosófica (Cátedra Bonilla) · carátula «AÑO: 2012», interior «SEGUNDO CUATRIMESTRE DE 2011»", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Antrop%20Fil%2012%20II.doc" },
+    { "role": "segunda fuente — única procedencia de «96 horas» y del código «0232 - 12023»", "label": "Programa 2020 · Antropología filosófica (Bertorello, 2º cuatrim. 2020) · repositorio FILO:Digital", "url": "http://repositorio.filo.uba.ar/handle/filodigital/12725" }
+  ]
 }

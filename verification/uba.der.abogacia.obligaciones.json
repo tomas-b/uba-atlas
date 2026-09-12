@@ -1,0 +1,21 @@
+{
+  "address": "uba.der.abogacia.obligaciones",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 7,
+  "books_found": 0,
+  "not_found": [
+    "'Cátedra B (Plan 2017)' CONTRADICTED by the enrolment record (every commission headed by CALVO COSTA)",
+    "7/7 books untraceable: five with no referent at all, two harvested from the Comercial program's generic index with publisher/title embellished"
+  ],
+  "omitted": [
+    "final source block (casos especiales de responsabilidad, Ley 24.240) represented by no unit"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Spine holds (6 labels trace; cuatrimestral/54h/CPC verified). Worst bibliography of the five."
+}

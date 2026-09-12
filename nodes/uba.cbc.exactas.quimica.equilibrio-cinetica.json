@@ -1,0 +1,77 @@
+{
+  "address": "uba.cbc.exactas.quimica.equilibrio-cinetica",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenidoMinimo": 9,
+    "de": 10,
+    "nombreEnLaFuente": "Equilibrio químico y Cinética Química",
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D, punto 14 (QUÍMICA)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.equilibrio-cinetica",
+      "label": "Equilibrio químico y cinética química"
+    }
+  ],
+  "eyebrow": "Química · contenido mínimo · 9 de 10",
+  "title": "Equilibrio químico y cinética química",
+  "lede": "Hacia dónde va la reacción, y qué tan rápido llega.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "9",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "contenidos mín."
+    },
+    {
+      "k": "Tipo",
+      "v": "cont. mínimo"
+    }
+  ],
+  "frame": "Contenido mínimo 9 de la materia Química del CBC, en el texto del Capítulo D: «Equilibrio químico. Concepto de equilibrio químico. Constante de equilibrio y su significado. Cociente de reacción. Perturbaciones a un sistema en equilibrio. Principio de Le Chatelier. Nociones de Cinética Química. Curva de concentraciones de reactivos y productos en función del tiempo. Expresión genérica de velocidad de reacción.» El Capítulo D fija contenidos, no bibliografía: ningún libro se atribuye acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del contenido",
+      "title": "De qué se trata",
+      "note": "Los temas que el Capítulo D enumera para este punto, en el orden en que los enumera.",
+      "map": {
+        "mk": "El contenido mínimo, comprimido",
+        "tree": "EQUILIBRIO QUÍMICO Y CINÉTICA QUÍMICA\n│\n├─ Concepto de equilibrio químico\n├─ Constante de equilibrio y su significado\n├─ Cociente de reacción\n├─ Perturbaciones · principio de Le Chatelier\n├─ Cinética · curva de concentraciones en el tiempo\n└─ Expresión genérica de velocidad de reacción",
+        "foot": "Enumeración literal del Capítulo D. Los mismos contenidos rigen para las carreras de Ciencias Naturales, Ciencias de la Salud e Ingenierías."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 3 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidadesEditoriales": 3, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "El instrumental para estudiar la economía argentina y sus grandes variables — crecimiento, inflación, desempleo, moneda, tasas de interés — puesto al servicio de la comprensión de las normas jurídicas que las regulan. Materia cuatrimestral del CPC. Sus contenidos mínimos se ordenan en tres unidades: las variables macroeconómicas y el modelo clásico; el dinero, el sector público y la experiencia argentina; y el puente entre esas variables y el material jurídico.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
-    { "k": "Unidades", "v": "3", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "3", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía obligatoria se toma del programa de la cátedra del Prof. Eduardo Stordeur (h).",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en tres unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos. Partición declarada: el plan publica los contenidos mínimos de esta materia en dos bloques de prosa —el instrumental macroeconómico y sus variables, y la comprensión y aplicación de esas variables al material jurídico—; el atlas los reparte en tres unidades. El corte es editorial, no de la fuente.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 3 unidades",
       "title": "De las variables macro al análisis de la norma",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en tres unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en tres unidades",
         "tree": "ELEMENTOS DE ANÁLISIS ECONÓMICO Y FINANCIERO\n│\n├─ Unidad 1 · Variables macroeconómicas y modelo clásico\n├─ Unidad 2 · Dinero, sector público y experiencia argentina\n└─ Unidad 3 · Las variables macro y las normas jurídicas",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Stordeur."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en tres unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.analisis-economico.variables-macro", "name": "Variables macroeconómicas y modelo clásico", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -38,16 +38,16 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía obligatoria de las primeras unidades del programa de la cátedra del Prof. Eduardo Stordeur (h). Fuente: programa de cátedra (2024).",
-      "exits": [
-        { "address": "uba.der.abogacia.analisis-economico.mankiw-principios", "name": "N. Gregory Mankiw — Principios de Economía", "role": "6ª ed. · 2012", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.analisis-economico.stordeur-aed", "name": "Eduardo Stordeur (h) — Análisis económico del derecho", "role": "texto de cátedra", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.analisis-economico.read-yo-el-lapiz", "name": "Leonard Read — Yo, el lápiz", "role": "obligatoria", "tag": "texto", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "No hay programa de cátedra citable para esta materia: el programa al que se atribuían tres títulos no tiene URL, ni extracto local, ni entrada en el manifiesto de extracciones. De esos tres, uno sólo aparece en un agregador de terceros, otro con un título que no coincide literalmente con ninguna edición atestiguada, y el tercero sin ningún respaldo. El extracto de oferta CPC disponible (primer cuatrimestre de 2024, tomos 1 y 2) no lista esta materia, de modo que el atlas no declara aquí cuántas cátedras la dictan. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" }
+  ]
 }

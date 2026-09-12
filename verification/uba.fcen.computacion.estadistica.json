@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.estadistica",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 0,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "ALL FOUR unit names have zero support in the cited source — generic ML-course headings credited to the plan ('se reagrupan fieles a esa lista' FALSE)",
+    "'160 hs totales' invented",
+    "'primera cursada 2c2025' in neither source",
+    "source.label cites a v07/2024 extract that doesn't exist"
+  ],
+  "omitted": [
+    "the REAL published programa (Cuba-Wiki, 7 blocks: Probabilidad/VA/conjuntas/inferencia/regresión+ANOVA/bootstrapping/bayesiana) entirely unused"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Correlativas happen to be right per cubawiki — unattributed, sitting next to fabricated units. Four child unit files propagate the fabrication. Fix path clear: re-ground from the public 7-block programa."
+}

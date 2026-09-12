@@ -4,8 +4,8 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 5,
-    "de": 6
+    "unidad": "6",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
   },
   "breadcrumb": [
     {
@@ -29,47 +29,47 @@
       "label": "Derivadas"
     }
   ],
-  "eyebrow": "Matemática · unidad · Unidad 5",
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 6",
   "title": "Derivadas",
-  "lede": "La razón de cambio: la derivada como pendiente y como velocidad.",
+  "lede": "La razón de cambio: la derivada como pendiente, y como lupa sobre la forma de una curva.",
   "meta": [
     {
       "k": "Unidad",
-      "v": "5",
-      "small": "de 6"
+      "v": "6",
+      "small": "de 7"
     },
     {
       "k": "Materia",
       "v": "Matemática",
-      "small": "CBC"
+      "small": "CBC · código 51"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "temas ✓"
     },
     {
       "k": "Tipo",
       "v": "unidad"
     }
   ],
-  "frame": "Temas de la unidad, según los contenidos oficiales: Cociente incremental · definición de derivada; Interpretación geométrica y cinética; Recta tangente; Reglas de derivación; Estudio de funciones y optimización.",
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Cociente incremental · definición de derivada · cálculo de derivadas sucesivas; Interpretación geométrica · recta tangente · reglas de derivación; Aplicaciones a la construcción de curvas · cálculo de recta tangente y recta normal; Derivada primera: intervalos de crecimiento, decrecimiento y puntos críticos; Derivada segunda: puntos de inflexión. El cronograma de la sección C divide el dictado en dos seminarios: parte 1 (cálculo de recta tangente) y parte 2 (estudio de funciones).",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "Los contenidos de la unidad, en orden.",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "DERIVADAS\n│\n• Cociente incremental · definición de derivada\n• Interpretación geométrica y cinética\n• Recta tangente\n• Reglas de derivación\n• Estudio de funciones y optimización",
-        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+        "tree": "DERIVADAS\n│\n• Cociente incremental · definición de derivada · cálculo de derivadas sucesivas\n• Interpretación geométrica · recta tangente · reglas de derivación\n• Aplicaciones a la construcción de curvas · cálculo de recta tangente y recta normal\n• Derivada primera: intervalos de crecimiento, decrecimiento y puntos críticos\n• Derivada segunda: puntos de inflexión",
+        "foot": "El cronograma de la sección C divide el dictado en dos seminarios: parte 1 (cálculo de recta tangente) y parte 2 (estudio de funciones). La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
   }
 }

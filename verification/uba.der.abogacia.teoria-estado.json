@@ -1,0 +1,19 @@
+{
+  "address": "uba.der.abogacia.teoria-estado",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 6,
+  "books_found": 6,
+  "not_found": [
+    "Oszlak title altered (article added, subtitle truncated)",
+    "Mann and Oszlak are journal articles, Dahl/Held/Weber are chapter excerpts — all tagged 'libro': the word doesn't match the ground",
+    "program year (2019) and URL unrecorded; attribution prose-only"
+  ],
+  "omitted": [
+    "UNDECLARED SELECTION: ~40 entries in the De Luca program, 6 exposed, ~34 dropped without declaration"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "All 6 works verified verbatim against the live De Luca 2019 program PDF (teoriadelestadouba.wordpress.com). Plan half clean: 10 contenido blocks all land in the 6 units."
+}

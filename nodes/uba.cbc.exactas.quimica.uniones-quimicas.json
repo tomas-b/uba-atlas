@@ -1,0 +1,77 @@
+{
+  "address": "uba.cbc.exactas.quimica.uniones-quimicas",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenidoMinimo": 3,
+    "de": 10,
+    "nombreEnLaFuente": "Uniones químicas y nomenclatura",
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D, punto 14 (QUÍMICA)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.uniones-quimicas",
+      "label": "Uniones químicas y nomenclatura"
+    }
+  ],
+  "eyebrow": "Química · contenido mínimo · 3 de 10",
+  "title": "Uniones químicas y nomenclatura",
+  "lede": "Cómo se pegan los átomos entre sí — y cómo se nombra lo que resulta.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "3",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "contenidos mín."
+    },
+    {
+      "k": "Tipo",
+      "v": "cont. mínimo"
+    }
+  ],
+  "frame": "Contenido mínimo 3 de la materia Química del CBC, en el texto del Capítulo D: «Uniones químicas. Tipos de unión química: iónica, covalente, metálica. Unión covalente simple, múltiple y coordinada (dativa). Estructuras de Lewis. Características del enlace covalente: longitud, energía y polaridad. Número de oxidación y nomenclatura. Concepto de número de oxidación. Nomenclatura de compuestos inorgánicos binarios, terciarios y cuaternarios.» El Capítulo D fija contenidos, no bibliografía: ningún libro se atribuye acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del contenido",
+      "title": "De qué se trata",
+      "note": "Los temas que el Capítulo D enumera para este punto, en el orden en que los enumera.",
+      "map": {
+        "mk": "El contenido mínimo, comprimido",
+        "tree": "UNIONES QUÍMICAS Y NOMENCLATURA\n│\n├─ Tipos de unión · iónica, covalente, metálica\n├─ Covalente simple, múltiple y coordinada (dativa)\n├─ Estructuras de Lewis\n├─ El enlace covalente · longitud, energía, polaridad\n├─ Número de oxidación\n└─ Nomenclatura inorgánica · binarios, terciarios, cuaternarios",
+        "foot": "Enumeración literal del Capítulo D. Los mismos contenidos rigen para las carreras de Ciencias Naturales, Ciencias de la Salud e Ingenierías."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

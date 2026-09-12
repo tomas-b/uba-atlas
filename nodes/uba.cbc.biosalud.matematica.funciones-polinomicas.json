@@ -4,8 +4,8 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 2,
-    "de": 6
+    "unidad": "2",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
   },
   "breadcrumb": [
     {
@@ -29,47 +29,47 @@
       "label": "Funciones polinómicas"
     }
   ],
-  "eyebrow": "Matemática · unidad · Unidad 2",
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 2",
   "title": "Funciones polinómicas",
-  "lede": "La primera familia de funciones: lineales, cuadráticas y polinomios de mayor grado.",
+  "lede": "La primera familia: de la recta a la parábola y a los polinomios de grado mayor.",
   "meta": [
     {
       "k": "Unidad",
       "v": "2",
-      "small": "de 6"
+      "small": "de 7"
     },
     {
       "k": "Materia",
       "v": "Matemática",
-      "small": "CBC"
+      "small": "CBC · código 51"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "temas ✓"
     },
     {
       "k": "Tipo",
       "v": "unidad"
     }
   ],
-  "frame": "Temas de la unidad, según los contenidos oficiales: Concepto de función · dominio e imagen; Función lineal · pendiente y ordenada; Función cuadrática · vértice y raíces; Polinomios · raíces y factorización.",
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Definición y ejemplos · dominio e imagen · representación gráfica; Ceros · conjuntos de positividad y de negatividad · crecimiento y decrecimiento · extremos locales; Función lineal · gráfico · rectas en el plano · pendiente · intersección de rectas; Funciones cuadráticas · gráfico · ceros · imagen · vértice y eje de simetría de la parábola · intersección entre rectas y parábolas · problemas de aplicación; Funciones polinómicas · ceros · factorización · noción de continuidad · teorema de Bolzano · intervalos de positividad y de negatividad.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "Los contenidos de la unidad, en orden.",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "FUNCIONES POLINÓMICAS\n│\n• Concepto de función · dominio e imagen\n• Función lineal · pendiente y ordenada\n• Función cuadrática · vértice y raíces\n• Polinomios · raíces y factorización",
-        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+        "tree": "FUNCIONES POLINÓMICAS\n│\n• Definición y ejemplos · dominio e imagen · representación gráfica\n• Ceros · conjuntos de positividad y de negatividad · crecimiento y decrecimiento · extremos locales\n• Función lineal · gráfico · rectas en el plano · pendiente · intersección de rectas\n• Funciones cuadráticas · gráfico · ceros · imagen · vértice y eje de simetría de la parábola · intersección entre rectas y parábolas · problemas de aplicación\n• Funciones polinómicas · ceros · factorización · noción de continuidad · teorema de Bolzano · intervalos de positividad y de negatividad",
+        "foot": "La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
   }
 }

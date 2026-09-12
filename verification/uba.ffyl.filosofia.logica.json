@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.filosofia.logica",
+  "source_reachable": true,
+  "units_total": 9,
+  "units_found": 9,
+  "books_total": 7,
+  "books_found": 6,
+  "not_found": [
+    "frame 'recorrido estable y canónico' contradicted by the two OTHER real Lógica programs on disk (Lazzer 2017 and Barrio 2021: 4 units, different hours) — the 9-unit/160hs shape is Oller 2013's, not stable",
+    "map attributes 'decidibilidad' to U8 where the PDF says 'semidecidibilidad'"
+  ],
+  "omitted": [
+    "Goldstein et al. (U1 obligatoria) silently dropped"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Strongest of the five: 9 unit titles literal/truncated, 6 books exact incl. the Gamut multi-unit role."
+}

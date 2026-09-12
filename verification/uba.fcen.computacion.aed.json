@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.aed",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 4,
+  "books_total": 6,
+  "books_found": 4,
+  "not_found": [
+    "6→4 editorial merge of the proposal's bullets presented as source structure",
+    "Cuba-Wiki (a student wiki whose header disclaims cátedra endorsement) mislabeled 'transcripción de cátedra'; its hedge re-attributed to 'la cátedra'",
+    "'D. Gries' author added where the wiki names none"
+  ],
+  "omitted": [
+    "2 wiki-biblio papers dropped undeclared"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Cited URL contains none of the rendered content (2-sentence blurb). Official repository (bibliotecadigital.exactas.uba.ar, 1127 DC programs) unexploited."
+}

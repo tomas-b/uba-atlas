@@ -1,0 +1,22 @@
+{
+  "address": "uba.der.abogacia.administrativo",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 2,
+  "books_found": 2,
+  "not_found": [
+    "'Res. CS 818/23' real but appears nowhere in the cited PDF — unattributed cross-source fact (systemic across all 5)",
+    "U4 title silently drops 'El control de la Administración Pública' (block 8; content survives in the child)"
+  ],
+  "omitted": [
+    "9-title BIBLIOGRAFÍA OPTATIVA existence unstated",
+    "1-of-7 cátedra selection (Balbín) undeclared"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Spine clean: 7 units map the 16 contenidos-mínimos blocks with nothing lost; metadata exact (3 CHS/54 CHT/cuatrimestral/CPC); 2 books verbatim from the Balbín programa — which has no URL in source{} and no manifest entry.",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

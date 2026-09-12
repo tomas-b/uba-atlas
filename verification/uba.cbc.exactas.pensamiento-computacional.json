@@ -1,0 +1,23 @@
+{
+  "address": "uba.cbc.exactas.pensamiento-computacional",
+  "source_reachable": true,
+  "units_total": 9,
+  "units_found": 9,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "ALL nine per-activity topic labels invented (none in the source, in any form)",
+    "'Optativa de la orientación' not in source",
+    "FABRICATED COMPLETENESS: source says 'Algunas de las actividades previstas serán' — an explicitly partial pre-launch list converted into a closed 9-unit syllabus"
+  ],
+  "omitted": [
+    "the source's actual activity glosses, replaced by invented labels",
+    "the Dec-2023 announcement framing"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "8/9 activity NAMES literal — but the source is a news post, not a programa, and its silence about bibliography was converted into a claim. Fixed same wave: invented topics removed, list re-declared as open/announced.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

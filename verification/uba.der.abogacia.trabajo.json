@@ -1,0 +1,19 @@
+{
+  "address": "uba.der.abogacia.trabajo",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 7,
+  "books_found": 7,
+  "not_found": [
+    "FABRICATED NAME: node says 'Prof. Fabián Gianibelli' twice — the source it transcribes prints 'Profesor titular: Mgter. Guillermo Gianibelli'",
+    "'bibliografía complementaria' — the program's heading is 'b) Optativa'",
+    "the verified bibliography URL (derecho.uba.ar Gianibelli PDF) recorded nowhere"
+  ],
+  "omitted": [
+    "UNDECLARED SELECTION: 19 Optativa entries, 6 shown, 13 dropped silently"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "All 7 book citations verified verbatim against the live program. Plan half clean: all 12 contenido blocks accounted for across 6 children. The invented given name is the headline defect."
+}

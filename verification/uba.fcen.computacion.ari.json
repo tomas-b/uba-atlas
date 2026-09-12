@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.ari",
+  "source_reachable": true,
+  "units_total": 10,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "FABRICATED CORRELATIVA: 'Programación Concurrente y Paralela' — both sources say Ingeniería de Software ONLY, and the plan's chronology makes it impossible (PCP is cursada AFTER ARI)",
+    "FABRICATED TOPIC: 'bases distribuidas y paralelas' added to the proposal's 'modelos alternativos'",
+    "'fieles a esa lista' false: one topic invented, three dropped",
+    "'unificada con la vieja Base de Datos en 2c2025' unsupported"
+  ],
+  "omitted": [
+    "'Arquitectura de datos', 'seguridad y normas legales', 'calidad de datos' dropped"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "160hs correctly grounded (proposal p.16). The honestly-empty bibliography is the one law the node respects. Detail source (v11/2025 proposal PDF) named but never given a URL."
+}

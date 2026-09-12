@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.filosofia.gnoseologia",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 17,
+  "books_found": 8,
+  "not_found": [
+    "metadata.rota 'sí — foco por cátedra/año' + the epistemología-analítica speculation: zero grounding (one program exists)",
+    "unit names are editorial composites (program units carry no titles) — undeclared"
+  ],
+  "omitted": [
+    "9 obligatory titles dropped with no declared selection (8 of ~17)"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "All 8 drawn books traceable with correct imprints; regimen/hours/código/cátedra literal."
+}

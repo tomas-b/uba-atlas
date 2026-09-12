@@ -3,37 +3,86 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 3 },
+  "metadata": {
+    "unidad": 2
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
-    { "address": "uba.fcen.computacion.tda.divide-conquer", "label": "Divide y Vencerás" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.tda",
+      "label": "Técnicas de Diseño de Algoritmos"
+    },
+    {
+      "address": "uba.fcen.computacion.tda.divide-conquer",
+      "label": "Divide and conquer"
+    }
   ],
-  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 3",
-  "title": "Partir el problema hasta que resolverlo sea trivial.",
-  "lede": "La unidad recorre los conceptos teóricos y las optimizaciones de divide y vencerás, con la búsqueda binaria y el teorema maestro como herramientas. Incluye el cálculo de sumas de potencias de matrices.",
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 2",
+  "title": "Partir, resolver, combinar — y contar el costo.",
+  "lede": "Definición de divide and conquer, cálculo de complejidad y teorema maestro, aplicado a problemas de ordenamiento, de matrices y de geometría (puntos cercanos, cápsula convexa).",
   "meta": [
-    { "k": "Unidad", "v": "3", "small": "de 7" },
-    { "k": "Rol", "v": "unidad", "small": "partir y combinar" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Unidad",
+      "v": "2",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "partir y combinar"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "Dividir un problema en subproblemas menores, resolverlos y combinarlos, analizando el costo con el teorema maestro.",
+  "frame": "Divide and conquer: definición, cálculo de complejidad, teorema maestro y aplicación a problemas de ordenamiento, matrices y geometría (ej. puntos cercanos, cápsula convexa).",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "note": "Los temas del bloque, tal como están enunciados en la fuente.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "DIVIDE Y VENCERÁS (bloque 3)\n│\n├─ Tema · conceptos teóricos y optimizaciones\n├─ Tema · búsqueda binaria\n├─ Tema · teorema maestro\n└─ Idea · cálculo de sumas de potencias de matrices",
-        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+        "tree": "DIVIDE AND CONQUER (bloque 2)\n│\n├─ Definición de divide and conquer\n├─ Cálculo de complejidad\n├─ Teorema maestro\n├─ Aplicación a problemas de ordenamiento\n├─ Aplicación a problemas de matrices\n└─ Aplicación a geometría (ej. puntos cercanos, cápsula convexa)",
+        "foot": "Contenidos analíticos de TDA en el Plan de Estudios 2023, documento oficial v11/2025 (computacion.dc.uba.ar). La cátedra no publica programa propio en fuente oficial; sin bibliografía publicada."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Versión 11/2025» (contenidos mínimos y analíticos de TDA)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — orden sugerido por año/cuatrimestre, descripción breve de cada materia y carga horaria semanal (10 hs; 35% teóricas / 35% prácticas / 30% laboratorio) + tabla de equivalencias con el Plan 1993.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 sólo existe «Algoritmos y Estructura de Datos III (1995)», de otro plan de estudios.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

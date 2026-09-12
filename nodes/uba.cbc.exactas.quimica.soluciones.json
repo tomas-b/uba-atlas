@@ -4,7 +4,10 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 8
+    "contenidoMinimo": 7,
+    "de": 10,
+    "nombreEnLaFuente": "Soluciones",
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D, punto 14 (QUÍMICA)"
   },
   "breadcrumb": [
     {
@@ -28,47 +31,47 @@
       "label": "Soluciones"
     }
   ],
-  "eyebrow": "Química · unidad · U8",
-  "title": "Mezclas homogéneas y su concentración.",
-  "lede": "Las soluciones: soluto y solvente, las formas de expresar la concentración y las propiedades que dependen de ella.",
+  "eyebrow": "Química · contenido mínimo · 7 de 10",
+  "title": "Soluciones",
+  "lede": "Medir cuánto hay de algo disuelto en otra cosa, y qué pasa al diluirlo.",
   "meta": [
     {
-      "k": "Unidad",
-      "v": "8",
-      "small": "de 11"
+      "k": "Contenido",
+      "v": "7",
+      "small": "de 10"
     },
     {
-      "k": "Rol",
-      "v": "tema",
-      "small": "soluciones"
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "contenidos mín."
     },
     {
       "k": "Tipo",
-      "v": "unidad"
+      "v": "cont. mínimo"
     }
   ],
-  "frame": "Soluciones: soluto y solvente, solubilidad. Unidades de concentración: % m/m, % m/V, molaridad, molalidad, fracción molar. Dilución. Propiedades coligativas (noción).",
+  "frame": "Contenido mínimo 7 de la materia Química del CBC, en el texto del Capítulo D: «Soluciones. Soluto y solvente. Distintos tipos de soluciones. Formas de expresar la concentración de las soluciones: % m/m, % m/V, %V/V, molaridad, partes por millón. Soluciones acuosas de compuestos iónicos, disociación, electrolitos. Variación de la concentración por dilución. Mezcla de soluciones.» El Capítulo D fija contenidos, no bibliografía: ningún libro se atribuye acá.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "El hilo de la unidad",
+      "eyebrow": "El hilo del contenido",
       "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "note": "Los temas que el Capítulo D enumera para este punto, en el orden en que los enumera.",
       "map": {
-        "mk": "La unidad, comprimida",
-        "tree": "SOLUCIONES (U8)\n│\n├─ Concepto · soluto, solvente, solubilidad\n├─ Concentración · molaridad, molalidad, %\n└─ Propiedades   · dilución, coligativas",
-        "foot": "Temas de la cátedra única de Química del CBC."
+        "mk": "El contenido mínimo, comprimido",
+        "tree": "SOLUCIONES\n│\n├─ Soluto y solvente · tipos de soluciones\n├─ Concentración · % m/m, % m/V, % V/V, molaridad, ppm\n├─ Soluciones acuosas de iónicos · disociación, electrolitos\n└─ Dilución y mezcla de soluciones",
+        "foot": "Enumeración literal del Capítulo D. Los mismos contenidos rigen para las carreras de Ciencias Naturales, Ciencias de la Salud e Ingenierías."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "cbc.uba.ar · Química (CBC)",
-    "url": "https://www.cbc.uba.ar/"
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
   }
 }

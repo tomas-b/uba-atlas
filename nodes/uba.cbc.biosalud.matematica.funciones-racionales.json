@@ -4,8 +4,8 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 3,
-    "de": 6
+    "unidad": "3",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
   },
   "breadcrumb": [
     {
@@ -26,50 +26,50 @@
     },
     {
       "address": "uba.cbc.biosalud.matematica.funciones-racionales",
-      "label": "Funciones racionales"
+      "label": "Funciones racionales y límites"
     }
   ],
-  "eyebrow": "Matemática · unidad · Unidad 3",
-  "title": "Funciones racionales",
-  "lede": "Cocientes de polinomios: dónde se rompen y cómo se comportan en los bordes.",
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 3",
+  "title": "Funciones racionales y límites",
+  "lede": "Cocientes de polinomios y el instrumento que los mide en los bordes: el límite.",
   "meta": [
     {
       "k": "Unidad",
       "v": "3",
-      "small": "de 6"
+      "small": "de 7"
     },
     {
       "k": "Materia",
       "v": "Matemática",
-      "small": "CBC"
+      "small": "CBC · código 51"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "temas ✓"
     },
     {
       "k": "Tipo",
       "v": "unidad"
     }
   ],
-  "frame": "Temas de la unidad, según los contenidos oficiales: Cociente de polinomios; Dominio y ceros; Asíntotas verticales y horizontales; Representación gráfica.",
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Funciones homográficas · propiedades y gráficos; Análisis de asíntotas a partir de su fórmula básica; Definición de límite formal; Cálculo de límite a un punto y a infinito; Cálculo y definición de asíntotas horizontales y verticales de funciones. El título impreso en el programa es \"Funciones racionales y limites\", sin tilde en el original.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "Los contenidos de la unidad, en orden.",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "FUNCIONES RACIONALES\n│\n• Cociente de polinomios\n• Dominio y ceros\n• Asíntotas verticales y horizontales\n• Representación gráfica",
-        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+        "tree": "FUNCIONES RACIONALES Y LÍMITES\n│\n• Funciones homográficas · propiedades y gráficos\n• Análisis de asíntotas a partir de su fórmula básica\n• Definición de límite formal\n• Cálculo de límite a un punto y a infinito\n• Cálculo y definición de asíntotas horizontales y verticales de funciones",
+        "foot": "El título impreso en el programa es \"Funciones racionales y limites\", sin tilde en el original. La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
   }
 }

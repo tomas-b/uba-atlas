@@ -1,0 +1,22 @@
+{
+  "address": "uba.der.abogacia.penal",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "'programa de la cátedra Alagia (2011)' doesn't exist — the Alagia entry in the CPO catalogue lists NO bibliography",
+    "the four Zaffaroni titles come as a block from Susini's 'Criminología del Genocidio' CPO elective",
+    "'El enemigo · Ediar · 2006' — source says Dykinson, Madrid, 2011: publisher AND year invented",
+    "'Manual · 2ª ed. 2006' — source says Ediar 2005",
+    "'Derecho Penal PG · 2002' — corpus carries three conflicting years (2000/2002/2011), contradiction unrecorded"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "STRONGEST spine of the five — the only genuinely source-derived unit count (5 colon-labeled blocks, units 3-5 verbatim). Minor unrecorded source contradiction: 'Penal y de Procesal Penal' (L74) vs 'Penal y Procesal Penal' (L296). Bibliography fabricated."
+}

@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.ingenieria-software",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "metadata.catedra '· LaFHIS' appears in no cited source",
+    "frame names GoF/Object Thinking/Legacy Code as figuring 'en cursadas previas' — three titles from an unnamed source",
+    "undeclared reorder of the testing/CI/TDD sequence"
+  ],
+  "omitted": [
+    "'Arquitecturas y diseño de software' breve item folded into unit 3 unmentioned"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Spine sound: all six exits trace to the IS detailed column; lede near-verbatim; hours correct."
+}

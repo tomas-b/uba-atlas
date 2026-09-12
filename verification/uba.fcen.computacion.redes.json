@@ -1,0 +1,17 @@
+{
+  "address": "uba.fcen.computacion.redes",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "misattribution: the ejes come from the UNCITED plan document, not the cited page",
+    "undeclared source conflict on cuatrimestre (web: 4º año 1C; plan table: cuat 8) — picked silently",
+    "'materia nueva' overstated (equivalence table: successor of Teoría de las Comunicaciones)"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Best content grounding of the four: exits near-literal 1:1, correlativas exact."
+}

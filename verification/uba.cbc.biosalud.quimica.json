@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.biosalud.quimica",
+  "source_reachable": true,
+  "units_total": 11,
+  "units_found": 11,
+  "books_total": 7,
+  "books_found": 7,
+  "not_found": [
+    "catedra 'cátedra única' in neither source (ffyb programa: CÁTEDRA IDOYAGA)",
+    "regimen inferred"
+  ],
+  "omitted": [
+    "the ffyb programa's OWN 12 unidades temáticas with different names — contenidos-mínimos items silently relabelled 'unidades' and the competing structure unrecorded",
+    "fundamentación/objetivos; laboratorios remotos"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "11/11 exit names literal vs codigo.rec incl. the Odontología item; 7/7 books literal — but from an UNDECLARED second source (ffyb Química PDF, prose-only attribution). Stale foot contradiction.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

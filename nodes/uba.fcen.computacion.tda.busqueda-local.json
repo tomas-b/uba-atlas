@@ -1,0 +1,88 @@
+{
+  "address": "uba.fcen.computacion.tda.busqueda-local",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": 7
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.tda",
+      "label": "Técnicas de Diseño de Algoritmos"
+    },
+    {
+      "address": "uba.fcen.computacion.tda.busqueda-local",
+      "label": "Búsqueda local"
+    }
+  ],
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 7",
+  "title": "Mejorar la solución que ya se tiene.",
+  "lede": "Búsqueda local y su aplicación a problemas, incluyendo flujo máximo en grafos.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "7",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "mejorar"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Búsqueda local y su aplicación a problemas incluyendo flujo máximo en grafos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los temas del bloque, tal como están enunciados en la fuente.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "BÚSQUEDA LOCAL (bloque 7)\n│\n├─ Búsqueda local\n└─ Aplicación a problemas (ej. flujo máximo en grafos)",
+        "foot": "Contenidos analíticos de TDA en el Plan de Estudios 2023, documento oficial v11/2025 (computacion.dc.uba.ar). La cátedra no publica programa propio en fuente oficial; sin bibliografía publicada."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Versión 11/2025» (contenidos mínimos y analíticos de TDA)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — orden sugerido por año/cuatrimestre, descripción breve de cada materia y carga horaria semanal (10 hs; 35% teóricas / 35% prácticas / 30% laboratorio) + tabla de equivalencias con el Plan 1993.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 sólo existe «Algoritmos y Estructura de Datos III (1995)», de otro plan de estudios.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
+}

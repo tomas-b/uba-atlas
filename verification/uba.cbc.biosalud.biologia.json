@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.biosalud.biologia",
+  "source_reachable": true,
+  "units_total": 10,
+  "units_found": 10,
+  "books_total": 7,
+  "books_found": 7,
+  "not_found": [
+    "'cursan Veterinaria y Agronomía' invented",
+    "regimen 'cuatrimestral' not literal anywhere",
+    "catedra placeholder (real one per book source: Castiñeira de Dios, código 08)"
+  ],
+  "omitted": [
+    "8th biblio item (Guías de estudio) dropped undeclared; a)-h) sub-points; objetivos"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "10/10 units map to codigo.rec §15 (one silently shortened); all 7 books literal — but on an UNDECLARED second source (biologia-cbc.es.tl) absent from source{}. Stale foot contradiction.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

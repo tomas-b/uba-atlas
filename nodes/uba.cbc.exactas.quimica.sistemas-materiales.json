@@ -1,0 +1,77 @@
+{
+  "address": "uba.cbc.exactas.quimica.sistemas-materiales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "contenidoMinimo": 1,
+    "de": 10,
+    "nombreEnLaFuente": "Sistemas Materiales",
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D, punto 14 (QUÍMICA)"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica",
+      "label": "Química"
+    },
+    {
+      "address": "uba.cbc.exactas.quimica.sistemas-materiales",
+      "label": "Sistemas materiales"
+    }
+  ],
+  "eyebrow": "Química · contenido mínimo · 1 de 10",
+  "title": "Sistemas materiales",
+  "lede": "El punto de partida: clasificar la materia antes de mirar el átomo.",
+  "meta": [
+    {
+      "k": "Contenido",
+      "v": "1",
+      "small": "de 10"
+    },
+    {
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "contenidos mín."
+    },
+    {
+      "k": "Tipo",
+      "v": "cont. mínimo"
+    }
+  ],
+  "frame": "Contenido mínimo 1 de la materia Química del CBC, en el texto del Capítulo D: «Características de la materia. Cambios de estado. Clasificación de los sistemas materiales. Sustancias puras y mezclas.» El Capítulo D fija contenidos, no bibliografía: ningún libro se atribuye acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo del contenido",
+      "title": "De qué se trata",
+      "note": "Los temas que el Capítulo D enumera para este punto, en el orden en que los enumera.",
+      "map": {
+        "mk": "El contenido mínimo, comprimido",
+        "tree": "SISTEMAS MATERIALES\n│\n├─ Características de la materia\n├─ Cambios de estado\n├─ Clasificación de los sistemas materiales\n└─ Sustancias puras y mezclas",
+        "foot": "Enumeración literal del Capítulo D. Los mismos contenidos rigen para las carreras de Ciencias Naturales, Ciencias de la Salud e Ingenierías."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.complejidad",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 1,
+  "books_found": 1,
+  "not_found": [
+    "book exit points at a node file that does not exist (dangling — 'link only to indexed structure')",
+    "publisher 'Cambridge UP' added from outside both cited sources",
+    "cubawiki supplies the temario+biblio but its URL is never given"
+  ],
+  "omitted": [
+    "L3-detail topics absent from tree (declared regrouping — defensible)",
+    "second correlativa unnamed in lede"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Well-grounded content: hours verbatim, contenidos quote verbatim, six units map cleanly onto the 1C2025 programa with the regrouping declared."
+}

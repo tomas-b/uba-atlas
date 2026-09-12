@@ -9,18 +9,18 @@
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
     { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
     { "address": "uba.fcen.computacion.ari", "label": "Almacenamiento y Recuperación de la Información" },
-    { "address": "uba.fcen.computacion.ari.recuperacion-gobierno", "label": "Extracción de información y gobierno de datos" }
+    { "address": "uba.fcen.computacion.ari.recuperacion-gobierno", "label": "Arquitectura, calidad, gobierno y seguridad de los datos" }
   ],
   "eyebrow": "ARI · unidad · Unidad 5",
-  "title": "Recuperar información y gobernar los datos.",
-  "lede": "El cierre, del lado de la recuperación y la responsabilidad. La extracción de información desde los datos almacenados, los tópicos de gobierno de datos y las pautas de seguridad y normas legales que los regulan.",
+  "title": "Gobernar los datos: arquitectura, calidad, seguridad.",
+  "lede": "El cierre, del lado de la responsabilidad. La arquitectura de datos, los tópicos de calidad y gobierno de datos, y las pautas de seguridad y normas legales vinculadas a los datos.",
   "meta": [
     { "k": "Unidad", "v": "5", "small": "de 5" },
-    { "k": "Rol", "v": "recuperar", "small": "gobernar" },
+    { "k": "Rol", "v": "gobernar", "small": "calidad · seguridad" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Extracción de información. Tópicos de gobierno de datos. Pautas de seguridad y normas legales vinculadas a los datos.",
+  "frame": "Arquitectura de datos. Tópicos de gobierno de datos. Pautas de seguridad y normas legales vinculadas a los datos. (Frases literales de la columna de detalle de la fila ARI; los «tópicos de calidad» vienen de la columna de contenidos mínimos, que dice «Tópicos de calidad y gobierno de datos».) Una versión anterior de este nodo abría con «Extracción de información»: esa frase no está en la fuente y se eliminó.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,11 @@
       "note": "Temas del plan reagrupados en la Unidad 5.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "EXTRACCIÓN DE INFORMACIÓN Y GOBIERNO DE DATOS (Unidad 5)\n│\n├─ Extracción de información\n├─ Tópicos de gobierno de datos\n└─ Pautas de seguridad y normas legales vinculadas a los datos",
-        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+        "tree": "ARQUITECTURA, CALIDAD, GOBIERNO Y SEGURIDAD DE LOS DATOS (Unidad 5)\n│\n├─ Arquitectura de datos\n├─ Tópicos de calidad y gobierno de datos\n└─ Pautas de seguridad y normas legales vinculadas a los datos",
+        "foot": "Temas de la fila ARI del documento oficial del Plan 2023 (versiones 07/2024 y 11/2025, computacion.dc.uba.ar)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios Lic. Cs. Computación, versión 11/2025 — fila ARI (columnas de contenidos mínimos y detalle)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" }
 }

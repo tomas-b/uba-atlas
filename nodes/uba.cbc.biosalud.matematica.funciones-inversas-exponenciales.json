@@ -1,0 +1,75 @@
+{
+  "address": "uba.cbc.biosalud.matematica.funciones-inversas-exponenciales",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": "4",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.funciones-inversas-exponenciales",
+      "label": "Funciones inversas, composición de funciones, funciones exponenciales y logarítmicas"
+    }
+  ],
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 4",
+  "title": "Funciones inversas, composición de funciones, funciones exponenciales y logarítmicas",
+  "lede": "Encadenar funciones y volver atrás: composición, inversa, y el par exponencial–logaritmo.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 7"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC · código 51"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
+  ],
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Composición de funciones · teoría y aplicación práctica; Función exponencial y logarítmica · gráficos, dominio e imagen · asíntotas; Aplicaciones al crecimiento de poblaciones; Funciones inversas · inyectivas, sobreyectivas y biyectivas; Cálculo de inversa sobre funciones lineales, homográficas, exponenciales y logarítmicas · dominio y gráfico · ejemplos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "FUNCIONES INVERSAS, COMPOSICIÓN, EXPONENCIALES Y LOGARÍTMICAS\n│\n• Composición de funciones · teoría y aplicación práctica\n• Función exponencial y logarítmica · gráficos, dominio e imagen · asíntotas\n• Aplicaciones al crecimiento de poblaciones\n• Funciones inversas · inyectivas, sobreyectivas y biyectivas\n• Cálculo de inversa sobre funciones lineales, homográficas, exponenciales y logarítmicas · dominio y gráfico · ejemplos",
+        "foot": "La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

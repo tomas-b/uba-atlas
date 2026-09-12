@@ -1,0 +1,16 @@
+{
+  "address": "uba.med.medicina.anatomia",
+  "wave": "normalizacion-med",
+  "units_total": 51,
+  "units_found": 51,
+  "books_total": 34,
+  "books_found": 34,
+  "notes": "Re-verified via fresh 270°-rotation OCR (anatomia-verify.txt is glyph-flipped noise for contents — redo that extract). All 11 sections + 51 units verbatim; biblio recount 34 exact. Minor: 'Ciclo Biomédico' unattributed; three silent OCR repairs undeclared; one co-author dropped.",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean"
+}

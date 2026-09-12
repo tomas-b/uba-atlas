@@ -1295,5 +1295,71 @@
     "chars": 16063,
     "ok": true,
     "session": "fb31cde7-dbd0-434e-af05-b43e46672c4b"
+  },
+  "abog-to2023": {
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf",
+    "method": "text",
+    "pages": 74,
+    "ocrPages": null,
+    "chars": 213893,
+    "ok": true
+  },
+  "deluca-2019": {
+    "url": "https://teoriadelestadouba.wordpress.com/wp-content/uploads/2019/02/programa-teorc3ada-del-estado-2019-1.pdf",
+    "method": "text",
+    "pages": 5,
+    "ocrPages": null,
+    "chars": 7116,
+    "ok": true
+  },
+  "balbin-prog-verify": {
+    "url": "https://13191726-3c96-db10-c3ca-78b27f9ded71.filesusr.com/ugd/43189b_414bc7d712064eb3902ac2e8b33138a9.pdf",
+    "method": "text",
+    "pages": 11,
+    "ocrPages": null,
+    "chars": 19935,
+    "ok": true,
+    "note": "idéntico a adm_programa.txt — establece la URL de la fuente del programa Balbín"
+  },
+  "vitolo-prog-verify": {
+    "url": "https://www.dropbox.com/s/mbg1jlo4jl9eg5i/PROGRAMA%20ELEMENTOS%20DE%20DERECHO%20COMERCIAL%20%20CATEDRA%20VITOLO%202017%20_1_.pdf?dl=1",
+    "method": "text",
+    "pages": 29,
+    "ocrPages": null,
+    "chars": 130989,
+    "ok": true,
+    "note": "idéntico a com_progVitolo.txt — establece la URL de la fuente del programa Vítolo 2017"
+  },
+  "gianibelli-verify": {
+    "url": "https://www.derecho.uba.ar/institucional/derecho-del-trabajo/documentos/programa-elementos-de-derecho-del-trabajo-y-la-seguridad-social-gianibelli.pdf",
+    "method": "text",
+    "pages": 10,
+    "ocrPages": null,
+    "chars": 11704,
+    "ok": true,
+    "note": "idéntico a trab_gianibelli.txt — establece la URL de la fuente del programa Gianibelli"
+  },
+  "cpc_offer": {
+    "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf",
+    "method": "text",
+    "pages": 22,
+    "ocrPages": null,
+    "chars": 184003,
+    "ok": true,
+    "note": "oferta CPC 1er período lectivo 2024, tomo 1 — URL verificada contra el extracto existente"
+  },
+  "abog-plan": {
+    "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf",
+    "method": "text",
+    "ok": true,
+    "note": "Plan de Estudios Abogacía = Texto Ordenado 2018, Res. (CS) N° 787/18, según el rótulo de derecho.uba.ar/academica/carreras_grado/abogacia.php"
+  },
+  "dc-plan-2023-v11-2025": {
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf",
+    "method": "text",
+    "pages": 20,
+    "ocrPages": null,
+    "chars": 70397,
+    "ok": true
   }
 }

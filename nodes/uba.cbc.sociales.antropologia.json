@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 4
+    "seccion": "Cap. D · «04. ANTROPOLOGÍA» · C. Contenidos",
+    "contenidos": 4,
+    "numeradosEnLaFuente": false,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Antropología"
     }
   ],
-  "eyebrow": "Antropología · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Antropología · CBC · Código UBA, Cap. D",
   "title": "La otredad como objeto: desnaturalizar lo humano.",
   "lede": "Una introducción a la mirada antropológica: cómo se construyó la disciplina alrededor de la diferencia, lo distintivo y la desigualdad, y qué herramientas da para cuestionar etnocentrismos y racismos.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "4",
+      "small": "sin numerar"
     },
     {
-      "k": "Unidades",
-      "v": "4",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +52,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques: la construcción científica de la Antropología, la constitución de lo humano, los conceptos clave (cultura, alteridad, identidad) y su aporte a problemas sociales actuales. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA, «04. ANTROPOLOGÍA», sección C. Contenidos). Cuatro bloques: la construcción de la Antropología científica, la constitución de lo humano, los conceptos clave de la Antropología y el aporte de la mirada antropológica sobre los problemas sociales actuales. La fuente imprime esos bloques como párrafos sin numerar: numerarlos 1 a 4 es de este atlas y sigue el orden impreso. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un párrafo de «C. Contenidos», en el orden impreso; el nombre es el tema con el que la fuente lo encabeza.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "ANTROPOLOGÍA — contenidos mínimos\n│\n├─ 1 · La construcción de la Antropología científica\n├─ 2 · La constitución de lo humano\n├─ 3 · Conceptos clave de la Antropología\n└─ 4 · La mirada antropológica sobre problemas actuales",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "ANTROPOLOGÍA — contenidos mínimos\n│\n├─ 1 · La construcción de la Antropología científica\n├─ 2 · La constitución de lo humano\n├─ 3 · Conceptos clave de la Antropología\n└─ 4 · Aporte de la mirada antropológica sobre los problemas sociales actuales",
+        "foot": "Cap. D del Código UBA, «04. ANTROPOLOGÍA», C. Contenidos. La fuente no numera los cuatro párrafos ni publica bibliografía para la materia."
       },
       "exits": [
         {
@@ -88,7 +88,7 @@
         },
         {
           "address": "uba.cbc.sociales.antropologia.problemas",
-          "name": "La mirada antropológica sobre problemas actuales",
+          "name": "Aporte de la mirada antropológica sobre los problemas sociales actuales",
           "role": "contenido 4",
           "tag": "unidad",
           "kind": "unit"

@@ -3,37 +3,86 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 5 },
+  "metadata": {
+    "unidad": 3
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.tda", "label": "Técnicas de Diseño de Algoritmos" },
-    { "address": "uba.fcen.computacion.tda.grafos", "label": "Grafos: representación y recorridos" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.tda",
+      "label": "Técnicas de Diseño de Algoritmos"
+    },
+    {
+      "address": "uba.fcen.computacion.tda.grafos",
+      "label": "Recorridos de grafos y árboles"
+    }
   ],
-  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 5",
-  "title": "Nodos y aristas: la estructura que conecta todo lo demás.",
-  "lede": "La unidad presenta los conceptos básicos, los tipos de grafos y sus propiedades, junto con su representación. Cubre los recorridos DFS y BFS y el árbol generador mínimo con los algoritmos de Prim y Kruskal.",
+  "eyebrow": "Técnicas de Diseño de Algoritmos · unidad · 3",
+  "title": "Caminar la estructura: DFS y BFS.",
+  "lede": "Recorridos de grafos y árboles usando DFS y BFS, y su aplicación a problemas de grafos, incluyendo cálculos de distancias y cómputo de componentes.",
   "meta": [
-    { "k": "Unidad", "v": "5", "small": "de 7" },
-    { "k": "Rol", "v": "unidad", "small": "estructura y recorridos" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Unidad",
+      "v": "3",
+      "small": "de 9"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "recorrer"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "Representar grafos y recorrerlos con DFS y BFS, y construir el árbol generador mínimo con Prim y Kruskal.",
+  "frame": "Recorridos de grafos y árboles usando DFS y BFS; aplicación a problemas de grafos, incluyendo cálculos de distancias y cómputo de componentes.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "note": "Los temas del bloque, tal como están enunciados en la fuente.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "GRAFOS: REPRESENTACIÓN Y RECORRIDOS (bloque 5)\n│\n├─ Tema · conceptos básicos, tipos de grafos y propiedades\n├─ Tema · representación\n├─ Tema · recorridos DFS y BFS\n└─ Idea · árbol generador mínimo (Prim y Kruskal)",
-        "foot": "Bloque del programa de la cátedra (Bonomo–Lin), Técnicas de Diseño de Algoritmos (DC-FCEN)."
+        "tree": "RECORRIDOS DE GRAFOS Y ÁRBOLES (bloque 3)\n│\n├─ Recorridos de grafos y árboles con DFS y BFS\n├─ Aplicación a problemas de grafos\n├─ Cálculo de distancias\n└─ Cómputo de componentes",
+        "foot": "Contenidos analíticos de TDA en el Plan de Estudios 2023, documento oficial v11/2025 (computacion.dc.uba.ar). La cátedra no publica programa propio en fuente oficial; sin bibliografía publicada."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · programa cát. Bonomo–Lin (repo TDA)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Versión 11/2025» (contenidos mínimos y analíticos de TDA)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — orden sugerido por año/cuatrimestre, descripción breve de cada materia y carga horaria semanal (10 hs; 35% teóricas / 35% prácticas / 30% laboratorio) + tabla de equivalencias con el Plan 1993.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 sólo existe «Algoritmos y Estructura de Datos III (1995)», de otro plan de estudios.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

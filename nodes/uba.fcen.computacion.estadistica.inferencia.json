@@ -3,37 +3,90 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 2 },
+  "metadata": {
+    "unidad": 4
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.estadistica", "label": "Estadística Computacional" },
-    { "address": "uba.fcen.computacion.estadistica.inferencia", "label": "Inferencia estadística y validación de hipótesis" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.estadistica",
+      "label": "Estadística Computacional"
+    },
+    {
+      "address": "uba.fcen.computacion.estadistica.inferencia",
+      "label": "Inferencia estadística"
+    }
   ],
-  "eyebrow": "Estadística · unidad · Unidad 2",
-  "title": "De la muestra a la población: inferir y testear.",
-  "lede": "El corazón de la materia. La introducción a la inferencia estadística — inferir sobre una población a partir de una muestra — y la validación de hipótesis para decidir si un efecto es real.",
+  "eyebrow": "Estadística Computacional · unidad · 4",
+  "title": "De la muestra a la afirmación, con un margen.",
+  "lede": "El bloque más largo: estimación puntual, método de los momentos, cuadrados mínimos y máxima verosimilitud; intervalos de confianza; contraste de hipótesis y p-value; tests para las distribuciones más comunes; tamaño de efecto, potencia estadística y comparaciones múltiples.",
   "meta": [
-    { "k": "Unidad", "v": "2", "small": "de 4" },
-    { "k": "Rol", "v": "núcleo", "small": "inferir" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Unidad",
+      "v": "4",
+      "small": "de 7"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "el núcleo"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "Introducción a la inferencia estadística. Validación de hipótesis. El núcleo de la materia: sacar conclusiones sobre una población desde una muestra y contrastar hipótesis.",
+  "frame": "Estimación puntual. Método de los momentos. Cuadrados mínimos. Estimación de máxima verosimilitud (MLE). Intervalos de confianza. Contraste de hipótesis, p-value. Tests para distribuciones más comunes. Tamaño de efecto. Potencia estadística. Comparaciones múltiples.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "Contenidos mínimos reagrupados en la Unidad 2.",
+      "note": "Los temas del bloque, tal como están enunciados en la fuente.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "INFERENCIA Y VALIDACIÓN DE HIPÓTESIS (Unidad 2)\n│\n├─ Introducción a la inferencia estadística\n└─ Validación de hipótesis",
-        "foot": "Contenidos mínimos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+        "tree": "INFERENCIA ESTADÍSTICA (bloque 4)\n│\n├─ Estimación puntual\n├─ Método de los momentos\n├─ Cuadrados mínimos\n├─ Estimación de máxima verosimilitud (MLE)\n├─ Intervalos de confianza\n├─ Contraste de hipótesis, p-value\n├─ Tests para distribuciones más comunes\n├─ Tamaño de efecto\n├─ Potencia estadística\n└─ Comparaciones múltiples",
+        "foot": "Bloque del programa publicado en Cuba-Wiki (wiki estudiantil, no oficial). El plan oficial v11/2025 fija los contenidos de la materia; el detalle por bloque no está publicado en fuente oficial."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (contenidos mínimos)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (documento oficial v11/2025) + cubawiki.com.ar (programa en 7 bloques, wiki estudiantil, no oficial)",
+    "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — orden sugerido por año/cuatrimestre, descripción breve de cada materia y carga horaria semanal (10 hs; 35% teóricas / 35% prácticas / 30% laboratorio) + tabla de equivalencias con el Plan 1993.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de esta materia.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    },
+    {
+      "label": "cubawiki.com.ar · «Estadística Computacional» (última edición 25/01/2026). Wiki estudiantil de Exactas, abierta a edición: NO es fuente oficial, no la publica la cátedra ni el Departamento de Computación. EXTRAÍDO: el programa en siete bloques y el horario usual.",
+      "url": "https://cubawiki.com.ar/index.php?title=Estad%C3%ADstica_Computacional"
+    }
+  ]
 }

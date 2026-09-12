@@ -4,7 +4,9 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 4
+    "actividad": 4,
+    "de": 9,
+    "estado": "anunciada — la fuente es una nota de novedades del 18/12/2023, previa al primer dictado, que la lista entre «algunas de las actividades prácticas previstas»"
   },
   "breadcrumb": [
     {
@@ -28,47 +30,48 @@
       "label": "Difusión"
     }
   ],
-  "eyebrow": "Pensamiento Computacional · actividad · A4",
-  "title": "Modelar un proceso que se esparce.",
-  "lede": "La difusión de algo (una sustancia, un rumor) a través de un medio: cómo un modelo simple, repetido muchas veces, produce un comportamiento global.",
+  "eyebrow": "Pensamiento Computacional · actividad anunciada 4 de 9",
+  "title": "Difusión: ¿Qué hace una gota en un vaso de agua?",
+  "lede": "Así la enuncia el Departamento de Computación: «Difusión: ¿Qué hace una gota en un vaso de agua?» Se cursa en laboratorio, con actividades prácticas y lúdicas y programación por bloques, para terminar escribiendo el programa en Python.",
   "meta": [
     {
-      "k": "Unidad",
+      "k": "Actividad",
       "v": "4",
-      "small": "de 9"
+      "small": "de 9 anunciadas"
     },
     {
-      "k": "Rol",
-      "v": "actividad",
-      "small": "modelo"
+      "k": "Estado",
+      "v": "anunciada",
+      "small": "dic. 2023"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "sólo el enunciado"
     },
     {
-      "k": "Tipo",
-      "v": "unidad"
+      "k": "Lenguaje",
+      "v": "Python",
+      "small": "en laboratorio"
     }
   ],
-  "frame": "Modelado de un proceso de difusión: reglas locales, iteración temporal, evolución de un sistema. Cómo emerge un patrón global de reglas simples repetidas.",
+  "frame": "«Difusión: ¿Qué hace una gota en un vaso de agua?» — el enunciado completo tal como lo publicó la nota del Departamento de Computación. La nota no publica temas, contenidos ni bibliografía de esta actividad: sólo su nombre y su pregunta. Lo que se ve acá es todo lo que la fuente dice. El proceso es el mismo en todas: A) discutir y pensar cómo se resuelve una situación; B) determinar cómo esa solución se transforma en un algoritmo o en un programa, quizás en forma de pseudocódigo o en forma gráfica con bloques; y C) escribir un programa, ejecutarlo y ver cómo funciona.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "El hilo de la unidad",
-      "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "eyebrow": "La actividad, como la anunció la fuente",
+      "title": "Qué dice la fuente",
+      "note": "El enunciado publicado, sin agregados.",
       "map": {
-        "mk": "La actividad, comprimida",
-        "tree": "DIFUSIÓN (Actividad 4)\n│\n├─ Problema · algo que se esparce\n└─ Idea     · reglas locales, evolución temporal",
-        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+        "mk": "La actividad, tal como se anunció",
+        "tree": "DIFUSIÓN (actividad anunciada 4 de 9)\n│\n└─ «¿Qué hace una gota en un vaso de agua?»",
+        "foot": "Nota «Se viene Pensamiento Computacional», Departamento de Computación (FCEN-UBA), 18/12/2023. Lista abierta: «algunas de las actividades prácticas previstas serán»."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "label": "dc.uba.ar · «Se viene Pensamiento Computacional» — nota de novedades del Departamento de Computación (FCEN-UBA), 18/12/2023. Anuncio previo al primer dictado, no un programa.",
     "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "address": "uba.cbc.sociales.ciencia-politica",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "three exits truncated mid-title ('o facetas', 'en el estudio de la política', 'a distintos problemas políticos' dropped)",
+    "same three ungrounded metadata fields"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "4/4 exits map to Contenidos 1-4 (src 750-768); exit 1 literal. Title/lede well grounded in the Fundamentación (sistema/proceso/resultado).",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

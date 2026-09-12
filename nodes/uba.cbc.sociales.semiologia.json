@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 4
+    "seccion": "Cap. D · «09. SEMIOLOGÍA» · C. Contenidos",
+    "contenidos": 4,
+    "numeradosEnLaFuente": false,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Semiología"
     }
   ],
-  "eyebrow": "Semiología · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Semiología · CBC · Código UBA, Cap. D",
   "title": "Leer críticamente los signos de una vida social mediatizada.",
-  "lede": "Una introducción a la teoría semiológica: cómo funcionan los sistemas de signos, la enunciación y el discurso, y cómo se construye mediáticamente la realidad social. Base común de las carreras del área.",
+  "lede": "Una introducción a la teoría semiológica: cómo funcionan los sistemas de signos, la enunciación y el discurso, y cómo se construye mediáticamente la realidad social.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "4",
+      "small": "sin numerar"
     },
     {
-      "k": "Unidades",
-      "v": "4",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,22 +52,22 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques: teorías del signo y la comunicación, el problema de la enunciación y el discurso, discurso-texto-representación (géneros académicos, lectura crítica) y la mediatización. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA, «09. SEMIOLOGÍA», sección C. Contenidos). Cuatro párrafos: teorías del signo y de los sistemas semióticos —bloque que también recorre las teorías de la comunicación—, el problema de la enunciación, discurso-texto-representación y la mediatización. La fuente no numera esos párrafos: numerarlos 1 a 4 es de este atlas y sigue el orden impreso. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un párrafo de «C. Contenidos», en el orden impreso; el nombre es el enunciado con el que la fuente lo encabeza.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "SEMIOLOGÍA — contenidos mínimos\n│\n├─ 1 · Teorías del signo y la comunicación\n├─ 2 · El problema de la enunciación\n├─ 3 · Discurso, texto, representación\n└─ 4 · Mediatización",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "SEMIOLOGÍA — contenidos mínimos\n│\n├─ 1 · Teorías del signo y de los sistemas semióticos\n├─ 2 · El problema de la enunciación\n├─ 3 · Discurso, texto, representación\n└─ 4 · Mediatización",
+        "foot": "Cap. D del Código UBA, «09. SEMIOLOGÍA», C. Contenidos. La fuente no numera los cuatro párrafos ni publica bibliografía para la materia."
       },
       "exits": [
         {
           "address": "uba.cbc.sociales.semiologia.signo",
-          "name": "Teorías del signo y la comunicación",
+          "name": "Teorías del signo y de los sistemas semióticos",
           "role": "contenido 1",
           "tag": "unidad",
           "kind": "unit"

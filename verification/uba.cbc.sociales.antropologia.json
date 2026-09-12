@@ -1,0 +1,20 @@
+{
+  "address": "uba.cbc.sociales.antropologia",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "exit 4 non-literal: drops 'Aporte de' and 'sociales' from the printed title",
+    "systemic ungrounded metadata: regimen 'cuatrimestral', orientacion 'Cs. Sociales y Humanas', catedra 'cátedra CBC' — 0 hits each in the source",
+    "'la bibliografía vive en la cátedra' is an unattributed world-claim"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "4/4 exits map to the 4 unnumbered Contenidos blocks (src 567-583); exits 1-3 literal. Lede grounded in the Fundamentación. Positional roles declared. Source live and byte-faithful to the extract.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

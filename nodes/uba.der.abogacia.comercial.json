@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "81 h", "ciclo": "CPC", "unidades": 6 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "81 h", "ciclo": "CPC", "unidadesEditoriales": 6, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Elementos de Derecho Comercial recorre la materia mercantil desde su concepto y evolución hasta la unificación Civil y Comercial de la Ley 26.994. Organiza los contenidos mínimos en seis unidades: las fuentes y su recepción legislativa, la registración y los auxiliares del comercio, la empresa y el fondo de comercio, los bienes inmateriales y el mercado, los contratos, sociedades y títulos valores, y la crisis empresaria junto al derecho marítimo, aeronáutico y agrario. Régimen cuatrimestral.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "81 h" },
-    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "6", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓ (programa 2017)" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de enseñanza de la cátedra del Prof. Titular Daniel Roque Vítolo, del Departamento de Derecho Económico Empresarial.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en seis unidades: el plan no numera unidades, esa partición es editorial. ATENCIÓN, ésta es la excepción de la carrera: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024, y en esta materia —única del CPC en que ocurre— los contenidos mínimos NO son idénticos: el TO 2023 reescribe y reubica el bloque de derecho del consumidor y suprime el bloque agrario final. El diff está declarado en las unidades 4 y 6. La bibliografía se toma del programa de enseñanza de la cátedra del Prof. Titular Daniel Roque Vítolo, del Departamento de Derecho Económico Empresarial, cuyo ejemplar alcanzable es el del Ciclo Académico 2017: fuente vieja frente a un plan que cambió después.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 6 unidades",
       "title": "De las fuentes del comercio a la crisis de la empresa",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales del Texto Ordenado 2018. La agrupación en seis unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en seis unidades",
         "tree": "ELEMENTOS DE DERECHO COMERCIAL\n│\n├─ Unidad 1 · Concepto y fuentes del Derecho Comercial\n├─ Unidad 2 · Registros, contabilidad y auxiliares del comercio\n├─ Unidad 3 · La empresa y el fondo de comercio\n├─ Unidad 4 · Bienes inmateriales, mercado y consumidor\n├─ Unidad 5 · Contratos, sociedades y títulos valores\n└─ Unidad 6 · Crisis empresaria, navegación, aeronáutica y agro",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Vítolo."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en seis unidades por el atlas. Bibliografía: programa de la cátedra Vítolo, Ciclo Académico 2017."
       },
       "exits": [
         { "address": "uba.der.abogacia.comercial.concepto-fuentes", "name": "Concepto y fuentes del Derecho Comercial", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -44,11 +44,17 @@
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias",
       "title": "Los textos que asigna",
-      "note": "Bibliografía específica del programa de la cátedra del Prof. Titular Daniel Roque Vítolo (Departamento de Derecho Económico Empresarial, CPC). El programa señala un texto requerido y suma una extensa bibliografía general complementaria. Fuente: sitio de la cátedra (Vítolo, 2017).",
+      "note": "Selección de una cátedra entre doce: la oferta CPC del primer cuatrimestre de 2024 lista comisiones de Elementos de Derecho Comercial bajo doce titulares —Chomer, Favier Dubois, Frick, Gebhardt, Genovesi, Mizraji, Nissen, Paolantonio, Piedecasas, Pisani, Rovira y Vítolo—; esta bibliografía es la de la cátedra Vítolo y no la de las demás. El único título que el programa rotula «Bibliografía específica» es el que sigue —ése es el nombre que usa la fuente, no «texto requerido»: la palabra «requerid» no aparece en el programa—. Debajo, el programa suma una «Bibliografía general complementaria» extensa, que el atlas no dibuja y tampoco cuenta: el PDF la imprime a dos columnas y la extracción no permite un recuento fiable. Fuente vieja: el ejemplar alcanzable es el del Ciclo Académico 2017, anterior al Texto Ordenado 2023 del plan.",
       "exits": [
-        { "address": "uba.der.abogacia.comercial.vitolo-manual", "name": "Daniel Roque Vítolo — Manual de Derecho Comercial", "role": "texto requerido · Ed. Estudio 2016", "tag": "libro", "kind": "book" }
+        { "address": "uba.der.abogacia.comercial.vitolo-manual", "name": "Daniel Roque Vítolo — Manual de Derecho Comercial", "role": "Bibliografía específica · Ed. Estudio, Buenos Aires, 2016", "tag": "libro", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: en esta materia —la única del CPC— los contenidos mínimos difieren, ver unidades 4 y 6.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "Cátedra Vítolo · «Elementos de Derecho Comercial — Programa de enseñanza», Ciclo Académico 2017, Departamento de Derecho Económico Empresarial. PDF enlazado desde el sitio de la cátedra (sites.google.com/site/pelaezcomercial). EXTRAÍDO y verificado: es la fuente de la bibliografía de este nodo (extract/out/com_progVitolo.txt, idéntico al PDF vivo).", "url": "https://www.dropbox.com/s/mbg1jlo4jl9eg5i/PROGRAMA%20ELEMENTOS%20DE%20DERECHO%20COMERCIAL%20%20CATEDRA%20VITOLO%202017%20_1_.pdf?dl=1" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de doce cátedras. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

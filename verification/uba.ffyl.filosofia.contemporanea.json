@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.filosofia.contemporanea",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 14,
+  "books_found": 9,
+  "not_found": [
+    "'donde la carrera lo dibuja como el corte analítica/continental' — no cited source",
+    "'no existe otro programa en el repositorio' — unverifiable negative"
+  ],
+  "omitted": [
+    "5 of 14 obligatory práctico texts silently dropped — including Russell, whom the node's own tree and a role name"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Metadata exact; unit titles literal-truncated; Plan-2017 code chain verified against siblings."
+}

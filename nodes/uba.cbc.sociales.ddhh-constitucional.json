@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia de área · requerida por las carreras de Derecho",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 6
+    "seccion": "Cap. D · «Principios de Derechos Humanos y Derecho Constitucional» · Contenidos mínimos 1 a 6",
+    "contenidos": 6,
+    "numeradosEnLaFuente": true,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Principios de Derechos Humanos y Derecho Constitucional"
     }
   ],
-  "eyebrow": "Principios de Derechos Humanos y Derecho Constitucional · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Principios de Derechos Humanos y Derecho Constitucional · CBC · Código UBA, Cap. D",
   "title": "La Constitución y los derechos humanos como base del Derecho Público.",
-  "lede": "Una introducción al Derecho Constitucional y a los derechos humanos: la supremacía constitucional, el sistema interamericano y la jerarquía de los tratados tras la reforma de 1994. Materia del área requerida por las carreras de Derecho.",
+  "lede": "Una introducción al Derecho Constitucional y a los derechos humanos: la supremacía constitucional, el orden jurídico internacional de la segunda posguerra, el sistema interamericano y la jerarquía constitucional de los tratados tras la reforma de 1994.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "6",
+      "small": "numerados 1–6"
     },
     {
-      "k": "Unidades",
-      "v": "6",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +52,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): seis bloques, del concepto de derecho y la estructura de la Constitución Nacional al orden internacional de posguerra, el sistema interamericano y las violaciones masivas a los derechos humanos. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): seis bloques numerados, del concepto de derecho y la estructura de la Constitución Nacional al orden jurídico internacional de la segunda posguerra, la regionalización de la protección de los derechos humanos y las violaciones masivas. Esta sección del Cap. D trae solo «Contenidos mínimos»: no imprime Fundamentación, Objetivos ni bibliografía, y no nombra carreras. Las carreras de Abogacía, Traductorado y Calígrafo Público aparecen en la Fundamentación de otra sección, la de Principios Generales del Derecho Privado.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un contenido mínimo numerado de la fuente; el nombre es su enunciado.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "PRINCIPIOS DE DERECHOS HUMANOS Y DERECHO CONSTITUCIONAL — contenidos mínimos\n│\n├─ 1 · ¿Qué es el derecho?\n├─ 2 · La Constitución Nacional\n├─ 3 · El orden jurídico internacional de posguerra\n├─ 4 · La protección regional de los DDHH\n├─ 5 · Jerarquía constitucional de los tratados\n└─ 6 · Violaciones masivas a los DDHH",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "PRINCIPIOS DE DERECHOS HUMANOS Y DERECHO CONSTITUCIONAL — contenidos mínimos\n│\n├─ 1 · ¿Qué es el derecho?\n├─ 2 · La Constitución Nacional\n├─ 3 · El orden jurídico internacional de la segunda posguerra mundial\n├─ 4 · Regionalización de la protección de los derechos humanos\n├─ 5 · Jerarquía constitucional de los tratados sobre derechos humanos\n└─ 6 · Violaciones masivas a los derechos humanos",
+        "foot": "Cap. D del Código UBA, Contenidos mínimos 1 a 6. La sección no publica Fundamentación, Objetivos ni bibliografía."
       },
       "exits": [
         {
@@ -81,28 +81,28 @@
         },
         {
           "address": "uba.cbc.sociales.ddhh-constitucional.internacional",
-          "name": "El orden jurídico internacional de posguerra",
+          "name": "El orden jurídico internacional de la segunda posguerra mundial",
           "role": "contenido 3",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.ddhh-constitucional.regional",
-          "name": "La protección regional de los DDHH",
+          "name": "Regionalización de la protección de los derechos humanos",
           "role": "contenido 4",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.ddhh-constitucional.jerarquia",
-          "name": "Jerarquía constitucional de los tratados",
+          "name": "Jerarquía constitucional de los tratados sobre derechos humanos",
           "role": "contenido 5",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.ddhh-constitucional.violaciones",
-          "name": "Violaciones masivas a los DDHH",
+          "name": "Violaciones masivas a los derechos humanos",
           "role": "contenido 6",
           "tag": "unidad",
           "kind": "unit"

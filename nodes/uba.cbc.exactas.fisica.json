@@ -4,9 +4,12 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Cátedra Única de Física (CBC)",
-    "unidades": 5
+    "materia": "Física · Cód. Mat: 03 (Ciclo Básico Común), según la portada del programa nprog03.pdf",
+    "regimen": "cuatrimestral — el programa imprime «DURACIÓN: Cuatrimestral»",
+    "cargaHoraria": "96 horas (16 semanas x 6 horas), según el programa",
+    "contenidosMinimos": 7,
+    "guias": 5,
+    "desajuste": "las 5 guías de problemas que publica el sitio de la materia no coinciden con los 7 contenidos mínimos del programa: ESTÁTICA no tiene guía propia, y el programa separa CINEMÁTICA en una y dos dimensiones"
   },
   "breadcrumb": [
     {
@@ -26,19 +29,19 @@
       "label": "Física"
     }
   ],
-  "eyebrow": "Física · CBC · Cátedra Única",
+  "eyebrow": "Física · CBC · cód. mat. 03",
   "title": "La mecánica, de los vectores a los fluidos.",
-  "lede": "La Física del CBC — cátedra única, teórico-práctica. Su foco es la mecánica: entender los conceptos base y usarlos para resolver problemas. El programa se recorre por cinco guías de problemas, de las magnitudes y vectores hasta la hidrostática.",
+  "lede": "La Física del CBC, cuatrimestral y de 96 horas. Su finalidad, según el programa, es el aprendizaje de los principios básicos de la mecánica. El programa oficial la ordena en siete contenidos mínimos; el sitio de la materia organiza la cursada en cinco guías de problemas, que no le calzan exactamente.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Contenidos",
+      "v": "7",
+      "small": "programa"
     },
     {
       "k": "Guías",
       "v": "5",
-      "small": "unidades"
+      "small": "cursada"
     },
     {
       "k": "Grounding",
@@ -46,22 +49,22 @@
       "small": "temas + libros ✓"
     },
     {
-      "k": "Cátedra",
-      "v": "única",
-      "small": "CBC"
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "16 semanas"
     }
   ],
-  "frame": "Contenido real de la cátedra única (fisica.cbc.uba.ar): mecánica clásica desarrollada a través de cinco guías de problemas. Los temas están sourceados; la bibliografía específica vive en el sitio de la cátedra y aún no fue extraída — es el paso que falta para cerrar L2.",
+  "frame": "Dos estructuras de la misma materia, y no coinciden. El programa oficial (nprog03.pdf) lista SIETE contenidos mínimos: 1. MAGNITUDES FÍSICAS · 2. ESTÁTICA · 3. HIDROSTÁTICA · 4. CINEMÁTICA EN UNA DIMENSIÓN · 5. CINEMÁTICA EN DOS DIMENSIONES · 6. DINÁMICA · 7. TRABAJO Y ENERGÍA. El sitio de la materia (fisica.cbc.uba.ar/materias) reparte la cursada en cinco guías de problemas —más una Guía 0 de repaso, que no se dibuja acá— y ESTÁTICA no tiene guía propia. Las cinco guías son lo que abajo se recorre; los siete contenidos mínimos quedan declarados acá hasta que se dibujen.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 5 guías",
+      "eyebrow": "Cursada · las 5 guías",
       "title": "El recorrido de mecánica",
-      "note": "Cada guía es una unidad del programa, en orden.",
+      "note": "Cada guía es un tramo de la cursada publicado por el sitio de la materia, en orden. No son las unidades del programa: el programa tiene siete contenidos mínimos y ESTÁTICA no tiene guía.",
       "map": {
-        "mk": "El programa, en cinco guías",
-        "tree": "FÍSICA CBC — mecánica clásica\n│\n├─ Guía 1 · Magnitudes Físicas y Vectores\n├─ Guía 2 · Cinemática\n├─ Guía 3 · Dinámica\n├─ Guía 4 · Trabajo y Energía\n└─ Guía 5 · Hidrostática",
-        "foot": "Temas de la cátedra única. La bibliografía específica está en fisica.cbc.uba.ar — sin extraer todavía."
+        "mk": "La cursada, en cinco guías",
+        "tree": "FÍSICA CBC (cód. 03) — mecánica clásica\n│\n├─ (Guía 0 · repaso — no dibujada)\n├─ Guía 1 · Magnitudes Físicas y Vectores\n├─ Guía 2 · Cinemática\n├─ Guía 3 · Dinámica\n├─ Guía 4 · Trabajo y Energía\n└─ Guía 5 · Hidrostática\n\nPROGRAMA (nprog03.pdf) — contenidos mínimos\n│\n├─ 1 · MAGNITUDES FÍSICAS\n├─ 2 · ESTÁTICA            ← sin guía propia\n├─ 3 · HIDROSTÁTICA\n├─ 4 · CINEMÁTICA EN UNA DIMENSIÓN\n├─ 5 · CINEMÁTICA EN DOS DIMENSIONES\n├─ 6 · DINÁMICA\n└─ 7 · TRABAJO Y ENERGÍA",
+        "foot": "Las guías salen de fisica.cbc.uba.ar/materias; los siete contenidos mínimos, del programa nprog03.pdf del mismo sitio. La Guía 0 de repaso existe y no está dibujada."
       },
       "exits": [
         {
@@ -105,7 +108,7 @@
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias",
       "title": "Los textos de la cátedra",
-      "note": "Bibliografía obligatoria y complementaria del programa de la Cátedra Única de Física (fisica.cbc.uba.ar): un texto básico y textos de nivel universitario más avanzado.",
+      "note": "«Bibliografía obligatoria y complementaria» del programa nprog03.pdf: un texto básico (Rela) y ocho textos de nivel más avanzado. El mismo programa lista aparte seis «textos de nivel secundario para la comprensión conceptual» —Rela y Sztrajman, Aristegui y Baredes, Maiztegui y Boido, Hewitt, Einstein e Infeld, Landau y Kitaigorodski—, que no se dibujan acá. Ojo: la página viva de la materia publica hoy una bibliografía distinta y más corta —las copias del libro «Física – CBC», Física Universitaria Vol. 1 de OpenStax y Sears-Zemansky Vol. 1—, más una lista de divulgación científica. Los nueve libros de abajo son los del programa, no los de esa página.",
       "exits": [
         {
           "address": "uba.cbc.exactas.fisica.rela",
@@ -174,7 +177,17 @@
     }
   ],
   "source": {
-    "label": "fisica.cbc.uba.ar · Cátedra Única de Física",
-    "url": "https://fisica.cbc.uba.ar/"
-  }
+    "label": "fisica.cbc.uba.ar · Programa de la materia Física, Cód. Mat: 03 (nprog03.pdf) — contenidos mínimos, bibliografía, carga horaria y duración",
+    "url": "https://fisica.cbc.uba.ar/wp-content/uploads/2019/04/nprog03.pdf"
+  },
+  "sources": [
+    {
+      "label": "fisica.cbc.uba.ar · nprog03.pdf — programa de Física (Cód. Mat: 03). EXTRAÍDO: base de los 7 contenidos mínimos, de los 9 libros, de la carga horaria (96 horas, 16 semanas x 6 horas) y de la duración cuatrimestral.",
+      "url": "https://fisica.cbc.uba.ar/wp-content/uploads/2019/04/nprog03.pdf"
+    },
+    {
+      "label": "fisica.cbc.uba.ar/materias · página viva de la materia — base de las 5 guías de problemas (más la Guía 0 de repaso). Publica además una bibliografía vigente distinta de la del programa: copias del libro «Física – CBC», Física Universitaria Vol. 1 (OpenStax) y Sears-Zemansky, Física Universitaria Vol. 1.",
+      "url": "https://fisica.cbc.uba.ar/materias/"
+    }
+  ]
 }

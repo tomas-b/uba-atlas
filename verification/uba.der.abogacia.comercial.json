@@ -1,0 +1,21 @@
+{
+  "address": "uba.der.abogacia.comercial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 1,
+  "books_found": 1,
+  "not_found": [
+    "role 'texto requerido' — 'requerid' appears nowhere in the Vítolo programa (its own label: 'Bibliografía específica')",
+    "stale source unflagged: programa is Ciclo Académico 2017"
+  ],
+  "omitted": [
+    "1-of-12 cátedra selection undeclared (complementaria exclusion IS declared)"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "81 hs exception correctly grounded (plan prints it as the exception). Spine maps all 17 blocks. Book verbatim. Vítolo programa lacks URL/manifest entry.",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

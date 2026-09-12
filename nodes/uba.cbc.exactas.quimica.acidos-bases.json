@@ -4,7 +4,10 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 11
+    "contenidoMinimo": 10,
+    "de": 10,
+    "nombreEnLaFuente": "Ácidos y bases",
+    "norma": "Código UBA, Libro I, Título 16, Capítulo D, punto 14 (QUÍMICA)"
   },
   "breadcrumb": [
     {
@@ -25,50 +28,50 @@
     },
     {
       "address": "uba.cbc.exactas.quimica.acidos-bases",
-      "label": "Ácidos y Bases"
+      "label": "Ácidos y bases"
     }
   ],
-  "eyebrow": "Química · unidad · U11",
-  "title": "El equilibrio ácido-base y el pH.",
-  "lede": "El cierre de la materia: las teorías de ácidos y bases, la autoionización del agua, el pH y su escala, y el equilibrio en soluciones ácidas y básicas.",
+  "eyebrow": "Química · contenido mínimo · 10 de 10",
+  "title": "Ácidos y bases",
+  "lede": "El equilibrio que define el pH — y cierra el programa.",
   "meta": [
     {
-      "k": "Unidad",
-      "v": "11",
-      "small": "de 11"
+      "k": "Contenido",
+      "v": "10",
+      "small": "de 10"
     },
     {
-      "k": "Rol",
-      "v": "cierre",
-      "small": "pH"
+      "k": "Materia",
+      "v": "Química",
+      "small": "CBC"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "contenidos mín."
     },
     {
       "k": "Tipo",
-      "v": "unidad"
+      "v": "cont. mínimo"
     }
   ],
-  "frame": "Teorías ácido-base (Arrhenius, Brønsted-Lowry). Autoionización del agua, Kw. pH y pOH. Ácidos y bases fuertes y débiles, Ka y Kb. Neutralización, hidrólisis, soluciones reguladoras (noción).",
+  "frame": "Contenido mínimo 10 de la materia Química del CBC, en el texto del Capítulo D: «Ácidos y bases. Concepto de ácido y de base. Teoría de Arrhenius. Teoría de Brönsted y Lowry. Autoionización del agua. Escala de pH. Ácidos y bases fuertes. Equilibrio ácido-base.» El Capítulo D fija contenidos, no bibliografía: ningún libro se atribuye acá.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "El hilo de la unidad",
+      "eyebrow": "El hilo del contenido",
       "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "note": "Los temas que el Capítulo D enumera para este punto, en el orden en que los enumera.",
       "map": {
-        "mk": "La unidad, comprimida",
-        "tree": "ÁCIDOS Y BASES (U11)\n│\n├─ Teorías · Arrhenius, Brønsted-Lowry\n├─ pH      · autoionización del agua, escala de pH\n└─ Equilibrio · fuertes/débiles, neutralización",
-        "foot": "Temas de la cátedra única de Química del CBC."
+        "mk": "El contenido mínimo, comprimido",
+        "tree": "ÁCIDOS Y BASES\n│\n├─ Concepto de ácido y de base\n├─ Teoría de Arrhenius\n├─ Teoría de Brönsted y Lowry\n├─ Autoionización del agua · escala de pH\n├─ Ácidos y bases fuertes\n└─ Equilibrio ácido-base",
+        "foot": "Enumeración literal del Capítulo D. Los mismos contenidos rigen para las carreras de Ciencias Naturales, Ciencias de la Salud e Ingenierías."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "cbc.uba.ar · Química (CBC)",
-    "url": "https://www.cbc.uba.ar/"
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, Capítulo D — Contenidos mínimos de las materias del CBC, punto 14 QUÍMICA",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
   }
 }

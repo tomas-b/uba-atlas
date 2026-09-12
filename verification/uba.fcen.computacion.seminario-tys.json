@@ -1,0 +1,15 @@
+{
+  "address": "uba.fcen.computacion.seminario-tys",
+  "source_reachable": true,
+  "units_total": 0,
+  "units_found": 0,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "undeclared source conflict: cargaHoraria '7 h semanales' vs the cited page's '3.5 hs' (both reconcile to 56h — bimestral vs cuatrimestral reading) — picked silently"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Mildest: every claim literally true against the plan doc; zero exits correct for a seminar; 'bimestral' real (plan legend B)."
+}

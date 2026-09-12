@@ -1,0 +1,22 @@
+{
+  "address": "uba.der.abogacia.contratos",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 1,
+  "books_found": 0,
+  "not_found": [
+    "the single book (Lovece, Ed. Estudio 2023) has ZERO hits corpus-wide — the cited cátedra programa doesn't exist locally, no URL",
+    "Ley 26.361 not in the plan (only 24.240)",
+    "metadata.unidades=7 rendered as sourced — the plan contains zero occurrences of 'unidad'; conversion declared in frame but not in the chip"
+  ],
+  "omitted": [
+    "five source paragraphs absent from all unit names (clasificación, representación, prueba, saneamiento/evicción, desequilibrios negociales)"
+  ],
+  "metadata_matches": true,
+  "verdict": "fabrication",
+  "notes": "Spine honest (labels trace to plan prose; anual/108h/CPC verified). Cited PDF is actually TO 2018 Res. 787/18, not the claimed TO 2023 818/23 (content diffed identical — citation fault). Bibliography group must go."
+}

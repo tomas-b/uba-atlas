@@ -4,100 +4,155 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "régimen": "cuatrimestral",
-    "cuatrimestre": 1,
-    "cargaHoraria": "dos clases semanales de 4 h",
-    "cátedra": "materia universal del CBC (varias cátedras)",
-    "materias": 0,
-    "unidades": 6,
-    "manual": "Pedrosa, Deich y Noce (comps.), Herramientas para el análisis de la sociedad y el Estado (Eudeba)"
+    "regimen": "materia del Ciclo Básico Común · contenidos mínimos fijados por el Consejo Superior (Cap. D, ARTÍCULO 301, CÓDIGO.UBA I-16)",
+    "contenidosOficiales": "3 bloques (Cap. D §02, apartado C- CONTENIDOS)",
+    "unidades": 3,
+    "codigo": "24 (según el programa analítico de la Cátedra Cagnacci-Ricci; el «02» del Cap. D es el orden del listado del anexo, no el código de la materia)",
+    "catedra": "El Cap. D rige para toda la materia. Se instancia acá la CÁTEDRA CAGNACCI-RICCI (programa analítico, 4 unidades temáticas). Existen otras cátedras; ninguna fuente citada las enumera y no se declara su cantidad.",
+    "cargaHoraria": "64 hs — 16 semanas, 2 encuentros semanales presenciales de 2 hs (4 hs semanales). Dato del programa de la Cátedra Cagnacci-Ricci; el Cap. D no fija carga horaria.",
+    "desgloseHorario": "28 hs seminarios teóricos · 30 hs talleres prácticos · 6 hs evaluaciones (Cátedra Cagnacci-Ricci)",
+    "evaluacion": "2 parciales presenciales escritos + 1 recuperatorio; 75% de asistencia a talleres; promoción directa promediando 7 o más (Cátedra Cagnacci-Ricci)",
+    "bibliografia": 11,
+    "bibliografiaFuente": "Cátedra Cagnacci-Ricci — sólo los libros; los artículos de revista, capítulos en obras colectivas y materiales de cátedra no se dibujan"
   },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.cbc", "label": "Ciclo Básico Común" },
     { "address": "uba.cbc.sociedad-estado", "label": "Sociedad y Estado" }
   ],
-  "eyebrow": "Introducción al Conocimiento de la Sociedad y el Estado · programa",
-  "title": "Cómo se hizo el Estado — y qué hace con vos.",
-  "lede": "La otra materia que corre toda la UBA, la contracara social de Pensamiento Científico. Una pregunta desplegada en el tiempo: <b>¿qué es el Estado y cómo llegó a ser el que tenemos?</b> Arma primero las herramientas conceptuales — Estado, poder, dominación, régimen político — y después las usa para recorrer la historia argentina desde 1880 hasta hoy.",
+  "eyebrow": "CBC · universal · Introducción al Conocimiento de la Sociedad y el Estado",
+  "title": "La sociedad, el Estado, y lo que el Estado hace.",
+  "lede": "La materia que toda la UBA cursa para pensar el mundo en el que va a ejercer. Los contenidos oficiales la abren en tres: primero <b>la sociedad</b> —estratificación, orden y conflicto, actores y sus organizaciones, desigualdad y protesta, y cómo la tecnología, la demografía y el trabajo la están cambiando—; después <b>el Estado</b> —qué es, de qué está hecho, cómo se formó y se consolidó en la Argentina, y qué régimen político lo habita: totalitarismo, autoritarismo o democracia—; y al final el cruce de los dos: <b>las políticas públicas</b> como la forma concreta en que un Estado elige un modelo de desarrollo, en economía, salud, infraestructura, ciencia y educación.",
   "meta": [
     { "k": "Tipo", "v": "universal", "small": "toda la UBA" },
-    { "k": "Régimen", "v": "1", "small": "cuatrim." },
-    { "k": "Unidades", "v": "6" },
-    { "k": "Grounding", "v": "L2", "small": "temas + manual" }
+    { "k": "Bloques", "v": "3", "small": "Cap. D §02" },
+    { "k": "Grounding", "v": "L2", "small": "contenidos ✓ · biblio ✓" },
+    { "k": "Carga", "v": "64 hs", "small": "una cátedra" }
   ],
-  "frame": "ICSE es interdisciplinaria por diseño: cruza historia, sociología y ciencia política para pensar la relación entre sociedad y Estado en el tiempo. No es 'historia argentina' ni 'teoría del Estado' por separado — es la teoría puesta a trabajar sobre un caso. La primera unidad entrega los conceptos (Estado, poder, dominación, legitimidad, régimen político); las siguientes los aplican como una periodización: la formación del Estado nacional (1880–1930), el Estado social del peronismo, la inestabilidad y el Estado burocrático-autoritario (1955–1976), el Estado neoliberal (1976–2001) y la reconstrucción posterior. El manual de la cátedra es «Herramientas para el análisis de la sociedad y el Estado» (Eudeba); las cátedras presenciales suman lecturas historiográficas.",
+  "frame": "Contenido oficial de la materia según el CAPÍTULO D del Código UBA — «Contenidos mínimos de las materias del CBC», ARTÍCULO 301, que aprueba los contenidos mínimos fijados mediante el Capítulo B CÓDIGO.UBA I-16. La materia figura allí como «02. INTRODUCCIÓN AL CONOCIMIENTO DE LA SOCIEDAD Y EL ESTADO» y su apartado «C- CONTENIDOS» tiene exactamente TRES bloques: son ésos los que se dibujan acá como unidades, porque son los únicos contenidos que valen para la materia entera y para cualquier cátedra. La fundamentación del Cap. D encuadra la materia como introducción, para todos los estudiantes de la Universidad cualquiera sea su recorrido curricular, a los conceptos básicos sobre la sociedad y el Estado desde distintas perspectivas de análisis, y anticipa que en los distintos grupos de alumnos se enfatizará algún área de las políticas públicas según las carreras cursadas. SEGUNDA FUENTE, ATRIBUIDA: el programa analítico de la CÁTEDRA CAGNACCI-RICCI, que es una instanciación concreta y no la materia en general. Ese programa reproduce los tres bloques del Cap. D bajo el título «A- CONTENIDOS MÍNIMOS», atribuyéndolos al Consejo Superior — es decir, las dos fuentes coinciden en el contenido oficial. Sobre esa base la cátedra arma su propio recorte en CUATRO unidades temáticas: (1) El Estado como fenómeno multidimensional — conceptos y perspectivas teóricas, Estado Moderno, capitalismo y Estado Nación, la formación del Estado en Argentina, la crisis del Estado Nación en la globalización; (2) Sociedad y Estado en Argentina desde la segunda mitad del s. XIX hasta la década del 70 — la sociedad integrada, la migración de ultramar, la ampliación de la ciudadanía, la inestabilidad política y los golpes militares, y el sindicalismo argentino; (3) Del Estado Neoliberal a la Posconvertibilidad — de la integración a la fragmentación, la transición a la democracia, el neoliberalismo de los 90, la crisis de 2001 y la política neodesarrollista desde 2003; (4) La Argentina en el s. XXI — extractivismo, la cuestión ambiental, soberanía y geopolítica, la cuestión Malvinas como caso, género y ciudadanía, y el rol de la universidad pública. Esas cuatro unidades son el recorte de esta cátedra y NO se dibujan como hijos de la materia; sí ordenan la bibliografía de abajo, que también es la de esta cátedra. OTRAS CÁTEDRAS existen y dictan la misma materia con recortes propios: ninguna fuente citada las enumera, así que ni se listan ni se declara su número. Los datos de carga horaria (64 hs), cronograma y evaluación pertenecen exclusivamente al programa Cagnacci-Ricci; el Cap. D no fija ninguno. El cuatrimestre de dictado no consta en ninguna de las dos fuentes y por eso no se afirma.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "El recorrido · las unidades en orden",
-      "title": "De los conceptos a la historia",
-      "note": "La unidad 1 da las herramientas; el resto es una periodización del Estado argentino que las pone a prueba. Ese orden es el programa real.",
+      "eyebrow": "Contenidos oficiales · Cap. D §02, apartado C",
+      "title": "Tres bloques, y el cruce",
+      "note": "Los tres bloques del apartado «C- CONTENIDOS» del Cap. D del Código UBA, en su orden y con su numeración. Valen para la materia entera, en cualquier cátedra.",
       "map": {
-        "mk": "El arco del curso, comprimido",
-        "tree": "SOCIEDAD Y ESTADO — herramientas, luego historia\n│\n├─ 1 · CONCEPTOS    Estado, poder, dominación, régimen político\n├─ 2 · 1880–1930    formación del Estado nacional · orden conservador\n├─ 3 · ESTADO SOCIAL  peronismo · Estado interventor y de bienestar\n├─ 4 · 1955–1976    inestabilidad · Estado burocrático-autoritario\n├─ 5 · 1976–2001    dictadura · Estado neoliberal · crisis de 2001\n└─ 6 · 2001–hoy     la reconstrucción del Estado",
-        "foot": "El corazón de la materia es el paso 1→2: una vez que tenés los conceptos, la historia argentina deja de ser cronología y se vuelve el despliegue de una forma estatal que cambia. Se expande hacia cada unidad → el manual."
+        "mk": "Los contenidos mínimos, en su orden oficial",
+        "tree": "INTRODUCCIÓN AL CONOCIMIENTO DE LA SOCIEDAD Y EL ESTADO\nCap. D §02 · CÓDIGO.UBA I-16 · ART. 301\n│\n├─ 1 · LA SOCIEDAD\n│      conceptos básicos · estratificación social\n│      orden, cooperación y conflicto\n│      actores sociopolíticos y sus organizaciones\n│      desigualdad, pobreza, exclusión · la protesta social\n│      TIC, demografía, trabajo, producción y consumo\n│\n├─ 2 · EL ESTADO\n│      definiciones y tipos · elementos constitutivos\n│      origen y evolución histórica\n│      formación y consolidación en la Argentina\n│      nación, representación, ciudadanía, participación\n│      régimen político: totalitarismo, autoritarismo, democracia\n│      globalización e integración regional\n│\n└─ 3 · ESTADO Y MODELOS DE DESARROLLO\n       el papel de las políticas públicas\n       economía · infraestructura · salud\n       ciencia y técnica · educación y universidad",
+        "foot": "El bloque 3 es el que cierra la pinza: la sociedad y el Estado dejan de ser dos objetos separados y se miran por lo que el Estado efectivamente hace. El Cap. D anticipa que cada grupo de alumnos enfatizará algún área de políticas públicas según la carrera que cursa."
       },
       "exits": [
         {
-          "address": "uba.cbc.sociedad-estado.conceptos",
-          "name": "1 · Conceptos fundamentales: sociedad y Estado",
-          "role": "poder, dominación, régimen político",
+          "address": "uba.cbc.sociedad-estado.sociedad",
+          "name": "La sociedad: conceptos básicos para su definición y análisis",
+          "role": "Bloque 1 · estratificación, conflicto, actores, desigualdad",
           "tag": "unidad",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.sociedad-estado.estado-nacion",
-          "name": "2 · La formación del Estado nacional (1880–1930)",
-          "role": "orden conservador · modelo agroexportador",
+          "address": "uba.cbc.sociedad-estado.estado",
+          "name": "El Estado: definiciones y tipos de Estado",
+          "role": "Bloque 2 · origen, formación en la Argentina, régimen político",
           "tag": "unidad",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.sociedad-estado.estado-social",
-          "name": "3 · El Estado social",
-          "role": "peronismo · Estado interventor",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.sociedad-estado.estado-burocratico",
-          "name": "4 · Inestabilidad y Estado burocrático-autoritario (1955–1976)",
-          "role": "estado tutelado · desarrollismo",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.sociedad-estado.estado-neoliberal",
-          "name": "5 · El Estado neoliberal (1976–2001)",
-          "role": "dictadura · reforma del Estado · crisis 2001",
-          "tag": "unidad",
-          "kind": "unit"
-        },
-        {
-          "address": "uba.cbc.sociedad-estado.reconstruccion",
-          "name": "6 · La reconstrucción del Estado (2001–actualidad)",
-          "role": "nuevos actores · política social",
+          "address": "uba.cbc.sociedad-estado.desarrollo-politicas-publicas",
+          "name": "Estado y modelos de desarrollo socioeconómico",
+          "role": "Bloque 3 · el papel de las políticas públicas",
           "tag": "unidad",
           "kind": "unit"
         }
       ]
     },
     {
-      "kind": "gate",
-      "eyebrow": "El texto · el 1:1",
-      "title": "La bibliografía real",
-      "note": "El manual común de la materia — el compilado que la mayoría de las cátedras usa como base. Las cátedras presenciales agregan además una selección de artículos historiográficos (Oszlak, O'Donnell, Cattaruzza, Cavarozzi, Torre, entre otros) que varía según la cátedra y no se fija acá.",
+      "kind": "books",
+      "eyebrow": "Bibliografía · Cátedra Cagnacci-Ricci",
+      "title": "Los libros de una cátedra",
+      "note": "Libros listados en la bibliografía del programa analítico de la CÁTEDRA CAGNACCI-RICCI, ordenados por SUS cuatro unidades (no por los tres bloques del Cap. D). Es la bibliografía de esta cátedra, no de la materia: el Cap. D no fija bibliografía alguna y otras cátedras leen otra cosa. SELECCIÓN DECLARADA: sólo se dibujan libros. Quedan fuera los artículos de revista (Oszlak en Desarrollo Económico, O'Donnell en la Revista Mexicana de Sociología, Godio, Fernández 2010 y 2015, Wainer, Seoane, Barrancos, Zaikoski Biscay), los capítulos en obras colectivas (Fernández 1988 en «Estudios sobre la Sociedad y el Estado»; Torre 2010 en «Argentina 1910-2010» ed. Russell; los tomos V, VI, VIII, IX y X de la «Nueva Historia Argentina» — Lobato, Ansaldi, Torre, James, Pujol, Suriano, Quiroga, Jelin; Fontana en el volumen de Ricci, Filmus y Rodríguez; Lamas) y los materiales de cátedra (Mantykow). Por eso la Unidad 2 de esta cátedra no aporta ningún libro: toda su bibliografía son artículos y capítulos. No indexados aún como libros (L3).",
       "exits": [
         {
-          "address": "uba.cbc.sociedad-estado.herramientas",
-          "name": "Pedrosa, Deich y Noce (comps.) — Herramientas para el análisis de la sociedad y el Estado",
-          "role": "el manual de la cátedra (Eudeba)",
+          "address": "uba.cbc.sociedad-estado.libro-abal-medina-cao",
+          "name": "Manual de la nueva administración pública argentina — J. M. Abal Medina y H. Cao (comps.) (Ariel, 2012), cap. 1, pp. 49-60",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-garcia-delgado",
+          "name": "Estado-Nación y Globalización — D. García Delgado (Ariel, 1998), parte I cap. 1",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-bobbio",
+          "name": "Estado, Gobierno y Sociedad — N. Bobbio (Fondo de Cultura Económica, 1999)",
+          "role": "Unidad 1 · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-scaltritti",
+          "name": "Pasados presentes: política, economía y conflicto social en la historia argentina contemporánea — M. Scaltritti (Dialektik, 2006)",
+          "role": "Unidad 1 · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-hobsbawm",
+          "name": "La era de la revolución (1789-1848) — E. Hobsbawm (Crítica, 2012), cap. «La Revolución Industrial»",
+          "role": "Unidad 1 · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-svampa",
+          "name": "La sociedad excluyente. Argentina bajo el signo del neoliberalismo — M. Svampa (Taurus, 2005), caps. 1, 5 y 6",
+          "role": "Unidad 3 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-belini-korol",
+          "name": "Historia económica de la Argentina en los siglos XX y XXI — C. Belini y J. C. Korol (Siglo XXI, 2020), pp. 317-325",
+          "role": "Unidad 3 · obligatoria y complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-sidicaro",
+          "name": "La crisis del Estado y los actores políticos y socioeconómicos en la Argentina (1989-2001) — R. Sidicaro (Eudeba, 2002)",
+          "role": "Unidad 3 · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-pucciarelli-castellani",
+          "name": "Los años del kirchnerismo. La disputa hegemónica tras la crisis del orden neoliberal — A. Pucciarelli y A. Castellani (Siglo XXI, 2017)",
+          "role": "Unidad 3 · complementaria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-ricci",
+          "name": "Universidades Públicas Argentinas. Relatos de una década 2003-2013 — D. Ricci (2015)",
+          "role": "Unidad 4 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.sociedad-estado.libro-merchan",
+          "name": "#Ni Una Menos desde los primeros años: educación en géneros para infancias más libres — C. Merchán (Sudestada Chirimbote, 2016)",
+          "role": "Unidad 4 · complementaria",
           "tag": "libro",
           "kind": "book"
         }
       ]
     }
   ],
-  "source": { "label": "cbc.uba.ar · ICSE + cátedra (programa)", "url": "https://www.cbc.uba.ar/" }
+  "source": {
+    "label": "codigo.rec.uba.ar · Código UBA, Libro I, Título 16, CAPÍTULO D — Contenidos mínimos de las materias del CBC, ARTÍCULO 301, §02 «Introducción al Conocimiento de la Sociedad y el Estado» (contenidos mínimos oficiales, 3 bloques). SEGUNDA FUENTE ATRIBUIDA: programa analítico de la Cátedra Cagnacci-Ricci, ICSE (24), CBC UBA — 4 unidades temáticas, 64 hs, bibliografía por unidad, https://www.ffyb.uba.ar/wp-content/uploads/2024/08/03.-Programa-Analitico-de-Introduccion-al-Conocimiento-de-la-Sociedad-y-el-Estado-CBC.pdf",
+    "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+  }
 }

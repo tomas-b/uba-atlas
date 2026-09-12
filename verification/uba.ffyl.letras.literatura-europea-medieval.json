@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.letras.literatura-europea-medieval",
+  "wave": "normalizacion-ffyl",
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 11,
+  "books_found": 11,
+  "notes": "Re-verified clean: units verbatim, all 'primera de N' edition counts correct, triple date contradiction real and unresolved. Minor: three unit names are title+subpoint composites; U4 biblio-vs-contenidos heading variance unflagged.",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean"
+}

@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.filosofia.estetica",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 8,
+  "books_found": 8,
+  "not_found": [
+    "INVENTED CODE: '0226-12011' — '12011' appears in NO fetched source and NO file in extract/out (grep empty)",
+    "staleness undeclared: source is 2012; a newer 2017 Schwarzböck program sits unused (and is the uncited basis of a frame caveat)",
+    "all five exit titles heavy rewrites"
+  ],
+  "omitted": [
+    "~60 bibliography entries"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Content otherwise the cleanest: all 8 books LITERAL with exact imprints and roles."
+}

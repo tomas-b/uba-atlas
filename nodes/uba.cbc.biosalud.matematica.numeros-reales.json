@@ -4,8 +4,8 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 1,
-    "de": 6
+    "unidad": "1",
+    "de": "7 unidades temáticas + 2 unidades complementarias"
   },
   "breadcrumb": [
     {
@@ -26,50 +26,50 @@
     },
     {
       "address": "uba.cbc.biosalud.matematica.numeros-reales",
-      "label": "Números reales y coordenadas cartesianas"
+      "label": "Números Reales y Coordenadas Cartesianas"
     }
   ],
-  "eyebrow": "Matemática · unidad · Unidad 1",
-  "title": "Números reales y coordenadas cartesianas",
-  "lede": "El terreno donde vive todo lo demás: los números reales y el plano cartesiano.",
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad 1",
+  "title": "Números Reales y Coordenadas Cartesianas",
+  "lede": "El terreno donde vive todo lo demás: los conjuntos numéricos, la recta real y el plano.",
   "meta": [
     {
       "k": "Unidad",
       "v": "1",
-      "small": "de 6"
+      "small": "de 7"
     },
     {
       "k": "Materia",
       "v": "Matemática",
-      "small": "CBC"
+      "small": "CBC · código 51"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "temas ✓"
     },
     {
       "k": "Tipo",
       "v": "unidad"
     }
   ],
-  "frame": "Temas de la unidad, según los contenidos oficiales: Números reales · orden e intervalos; Recta real y valor absoluto; Plano · coordenadas cartesianas; Distancia entre puntos.",
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Conjuntos numéricos: naturales, enteros, racionales, reales y complejos; Operaciones básicas con dichos conjuntos; Representación de los reales en la recta real y de los complejos en el plano complejo cartesiano; Representación de puntos en el plano · distancia entre dos puntos · aplicación práctica; Ecuaciones e inecuaciones · desigualdades para cálculo de dominio y resolución de problemas.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la unidad",
       "title": "De qué se trata",
-      "note": "Los contenidos de la unidad, en orden.",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "NÚMEROS REALES Y COORDENADAS CARTESIANAS\n│\n• Números reales · orden e intervalos\n• Recta real y valor absoluto\n• Plano · coordenadas cartesianas\n• Distancia entre puntos",
-        "foot": "Contenidos según la fuente oficial citada. Sin bibliografía específica extraída aún."
+        "tree": "NÚMEROS REALES Y COORDENADAS CARTESIANAS\n│\n• Conjuntos numéricos: naturales, enteros, racionales, reales y complejos\n• Operaciones básicas con dichos conjuntos\n• Representación de los reales en la recta real y de los complejos en el plano complejo cartesiano\n• Representación de puntos en el plano · distancia entre dos puntos · aplicación práctica\n• Ecuaciones e inecuaciones · desigualdades para cálculo de dominio y resolución de problemas",
+        "foot": "La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico de Matemática CBC",
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
   }
 }

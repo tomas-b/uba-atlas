@@ -3,37 +3,73 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "guia": 1 },
+  "metadata": {
+    "guia": 1,
+    "contenidoMinimo": "1. MAGNITUDES FÍSICAS (programa nprog03.pdf)"
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.cbc", "label": "Ciclo Básico Común" },
-    { "address": "uba.cbc.exactas", "label": "Ciencias Exactas, Tecnología y Diseño" },
-    { "address": "uba.cbc.exactas.fisica", "label": "Física" },
-    { "address": "uba.cbc.exactas.fisica.magnitudes-vectores", "label": "Magnitudes Físicas y Vectores" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.exactas",
+      "label": "Ciencias Exactas, Tecnología y Diseño"
+    },
+    {
+      "address": "uba.cbc.exactas.fisica",
+      "label": "Física"
+    },
+    {
+      "address": "uba.cbc.exactas.fisica.magnitudes-vectores",
+      "label": "Magnitudes Físicas y Vectores"
+    }
   ],
   "eyebrow": "Física · unidad · Guía 1",
   "title": "El instrumental: medir y sumar direcciones.",
-  "lede": "La primera guía, antes de que empiece la mecánica. Qué es una magnitud física y cómo se mide, y la herramienta que hace posible todo lo que sigue: los vectores, para operar con cantidades que tienen dirección.",
+  "lede": "La primera guía, antes de que empiece la mecánica. Qué es una magnitud física y la herramienta que hace posible todo lo que sigue: los vectores, para operar con cantidades que tienen dirección.",
   "meta": [
-    { "k": "Guía", "v": "1", "small": "de 5" },
-    { "k": "Rol", "v": "base", "small": "toolkit" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Guía",
+      "v": "1",
+      "small": "de 5"
+    },
+    {
+      "k": "Rol",
+      "v": "base",
+      "small": "toolkit"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "El punto de partida de la mecánica. Magnitudes escalares (un número) vs. vectoriales (número + dirección). Unidades y el Sistema Internacional, dimensiones, cifras significativas. Y los vectores en sí: componentes, suma y resta, producto escalar y producto vectorial — el álgebra con la que se escribirá el resto de la materia.",
+  "frame": "Contenido mínimo 1 del programa, «MAGNITUDES FÍSICAS»: magnitudes escalares y vectoriales, definición y representación gráfica. Operaciones con vectores: suma, resta, multiplicación por un escalar, producto escalar y producto vectorial. Sistema de coordenadas cartesianas. Versores. Expresión de un vector en componentes cartesianas. Proyecciones de un vector. Análisis dimensional.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo de la guía",
       "title": "De qué se trata",
-      "note": "El orden conceptual de la Guía 1.",
+      "note": "El orden en que la fuente enumera el contenido mínimo 1.",
       "map": {
         "mk": "La guía, comprimida",
-        "tree": "MAGNITUDES FÍSICAS Y VECTORES (Guía 1)\n│\n├─ Magnitudes · escalares vs. vectoriales\n├─ Unidades   · SI, dimensiones, cifras significativas\n└─ Vectores   · componentes, suma/resta, productos (escalar · vectorial)",
-        "foot": "Temas de la Guía 1 de la cátedra única. El resto de la mecánica (cinemática, dinámica…) se construye sobre este instrumental."
+        "tree": "MAGNITUDES FÍSICAS (contenido mínimo 1 · Guía 1)\n│\n├─ Magnitudes  · escalares y vectoriales: definición y representación gráfica\n├─ Operaciones · suma, resta, producto por un escalar, producto escalar y vectorial\n├─ Coordenadas · sistema cartesiano, versores, componentes, proyecciones\n└─ Análisis dimensional",
+        "foot": "Contenido mínimo 1 del programa nprog03.pdf, que el sitio de la materia recorre como Guía 1. El resto de la mecánica se construye sobre este instrumental."
       },
       "exits": []
     }
   ],
-  "source": { "label": "fisica.cbc.uba.ar · Guía 1", "url": "https://fisica.cbc.uba.ar/" }
+  "source": {
+    "label": "fisica.cbc.uba.ar · Programa de Física, Cód. Mat: 03 (nprog03.pdf), B. CONTENIDOS MÍNIMOS, punto 1",
+    "url": "https://fisica.cbc.uba.ar/wp-content/uploads/2019/04/nprog03.pdf"
+  }
 }

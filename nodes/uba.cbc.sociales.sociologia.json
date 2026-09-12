@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 4
+    "seccion": "Cap. D · «03. SOCIOLOGÍA» · C. Contenidos",
+    "contenidos": 4,
+    "numeradosEnLaFuente": false,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Sociología"
     }
   ],
-  "eyebrow": "Sociología · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Sociología · CBC · Código UBA, Cap. D",
   "title": "Mirar lo social como se construye, no como se da.",
   "lede": "La materia introduce los enfoques, objetos y problemas de la sociología: cómo una disciplina moderna objetiva «lo social» desde perspectivas macro y micro para pensar críticamente la propia realidad.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "4",
+      "small": "sin numerar"
     },
     {
-      "k": "Unidades",
-      "v": "4",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +52,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques temáticos: del surgimiento histórico de la disciplina a los conceptos fundamentales (hecho social, poder, clases, orden y conflicto) y su aplicación a problemáticas concretas de los contextos nacional, latinoamericano y global. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA, «03. SOCIOLOGÍA», sección C. Contenidos). Cuatro párrafos: el surgimiento histórico de la disciplina, modernidad y sociología, los conceptos y problemas fundamentales y distintas perspectivas teóricas —hecho social, acción social, relaciones sociales, grupos y clases sociales, poder, normas, instituciones, orden y conflicto—, y el conocimiento sociológico aplicado a diversas problemáticas en las distintas configuraciones de la sociedad moderna. Los contextos nacional, latinoamericano y global aparecen en B. Objetivos, no en los contenidos. La fuente no numera los párrafos: numerarlos 1 a 4 es de este atlas y sigue el orden impreso. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un párrafo de «C. Contenidos», en el orden impreso; el nombre es el enunciado con el que la fuente lo encabeza.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "SOCIOLOGÍA — contenidos mínimos\n│\n├─ 1 · La sociología y las ciencias sociales\n├─ 2 · Modernidad y sociología\n├─ 3 · Conceptos y problemas fundamentales\n└─ 4 · El conocimiento sociológico aplicado",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "SOCIOLOGÍA — contenidos mínimos\n│\n├─ 1 · La sociología y las ciencias sociales\n├─ 2 · Modernidad y Sociología\n├─ 3 · Conceptos y problemas fundamentales y distintas perspectivas teóricas\n└─ 4 · El conocimiento sociológico aplicado a diversas problemáticas en las distintas\n       configuraciones de la sociedad moderna",
+        "foot": "Cap. D del Código UBA, «03. SOCIOLOGÍA», C. Contenidos. La fuente no numera los cuatro párrafos ni publica bibliografía para la materia."
       },
       "exits": [
         {
@@ -74,21 +74,21 @@
         },
         {
           "address": "uba.cbc.sociales.sociologia.modernidad",
-          "name": "Modernidad y sociología",
+          "name": "Modernidad y Sociología",
           "role": "contenido 2",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.sociologia.conceptos",
-          "name": "Conceptos y problemas fundamentales",
+          "name": "Conceptos y problemas fundamentales y distintas perspectivas teóricas",
           "role": "contenido 3",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.sociologia.aplicacion",
-          "name": "El conocimiento sociológico aplicado",
+          "name": "El conocimiento sociológico aplicado a diversas problemáticas en las distintas configuraciones de la sociedad moderna",
           "role": "contenido 4",
           "tag": "unidad",
           "kind": "unit"

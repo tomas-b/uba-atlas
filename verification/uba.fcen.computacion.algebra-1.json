@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.algebra-1",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 3,
+  "not_found": [
+    "'Desde 2013 el enfoque es algorítmico, con taller' — nothing in the source",
+    "unit 5 drops the defining qualifier ('con coeficientes en un cuerpo')",
+    "'texto base' role invented for Gentile"
+  ],
+  "omitted": [
+    "2 of 5 biblio entries dropped under 'Bibliografía del programa oficial'",
+    "source's own 'CORRELATIVAS: no tiene' unrecorded"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Unit structure clean 1:1. Cross-source año/cuatrimestre unattributed."
+}

@@ -4,7 +4,9 @@
   "kind": "unit",
   "groundingLevel": "L2",
   "metadata": {
-    "unidad": 9
+    "actividad": 9,
+    "de": 9,
+    "estado": "anunciada — la fuente es una nota de novedades del 18/12/2023, previa al primer dictado, que la lista entre «algunas de las actividades prácticas previstas»"
   },
   "breadcrumb": [
     {
@@ -25,50 +27,51 @@
     },
     {
       "address": "uba.cbc.exactas.pensamiento-computacional.proyecto-final",
-      "label": "Proyecto Final"
+      "label": "Proyecto"
     }
   ],
-  "eyebrow": "Pensamiento Computacional · actividad · A9",
-  "title": "Integrar todo en un proyecto.",
-  "lede": "El cierre integrador: un proyecto donde se combinan las habilidades adquiridas para resolver un problema de punta a punta, del planteo al programa que funciona.",
+  "eyebrow": "Pensamiento Computacional · actividad anunciada 9 de 9",
+  "title": "Proyecto: poner en práctica todo lo visto con un proyecto bien interesante.",
+  "lede": "Así la enuncia el Departamento de Computación: «Proyecto: poner en práctica todo lo visto con un proyecto bien interesante.» Se cursa en laboratorio, con actividades prácticas y lúdicas y programación por bloques, para terminar escribiendo el programa en Python.",
   "meta": [
     {
-      "k": "Unidad",
+      "k": "Actividad",
       "v": "9",
-      "small": "de 9"
+      "small": "de 9 anunciadas"
     },
     {
-      "k": "Rol",
-      "v": "cierre",
-      "small": "integrador"
+      "k": "Estado",
+      "v": "anunciada",
+      "small": "dic. 2023"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas"
+      "small": "sólo el enunciado"
     },
     {
-      "k": "Tipo",
-      "v": "unidad"
+      "k": "Lenguaje",
+      "v": "Python",
+      "small": "en laboratorio"
     }
   ],
-  "frame": "Proyecto integrador (capstone): resolución completa de un problema propio, aplicando el proceso — conceptualizar la solución, expresarla como algoritmo, implementarla y probarla en Python.",
+  "frame": "«Proyecto: poner en práctica todo lo visto con un proyecto bien interesante.» — el enunciado completo tal como lo publicó la nota del Departamento de Computación. La nota no publica temas, contenidos ni bibliografía de esta actividad: sólo su nombre y su pregunta. Lo que se ve acá es todo lo que la fuente dice. El proceso es el mismo en todas: A) discutir y pensar cómo se resuelve una situación; B) determinar cómo esa solución se transforma en un algoritmo o en un programa, quizás en forma de pseudocódigo o en forma gráfica con bloques; y C) escribir un programa, ejecutarlo y ver cómo funciona.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "El hilo de la unidad",
-      "title": "De qué se trata",
-      "note": "El orden conceptual de la unidad.",
+      "eyebrow": "La actividad, como la anunció la fuente",
+      "title": "Qué dice la fuente",
+      "note": "El enunciado publicado, sin agregados.",
       "map": {
-        "mk": "La actividad, comprimida",
-        "tree": "PROYECTO FINAL (Actividad 9)\n│\n├─ Objetivo · resolver un problema de punta a punta\n└─ Idea     · integración, proceso completo",
-        "foot": "Actividad de la materia (DC-FCEN / CBC), en laboratorio, con Python."
+        "mk": "La actividad, tal como se anunció",
+        "tree": "PROYECTO (actividad anunciada 9 de 9)\n│\n└─ «poner en práctica todo lo visto con un proyecto bien interesante.»",
+        "foot": "Nota «Se viene Pensamiento Computacional», Departamento de Computación (FCEN-UBA), 18/12/2023. Lista abierta: «algunas de las actividades prácticas previstas serán»."
       },
       "exits": []
     }
   ],
   "source": {
-    "label": "dc.uba.ar · Pensamiento Computacional (DC-FCEN)",
+    "label": "dc.uba.ar · «Se viene Pensamiento Computacional» — nota de novedades del Departamento de Computación (FCEN-UBA), 18/12/2023. Anuncio previo al primer dictado, no un programa.",
     "url": "https://www.dc.uba.ar/se-viene-pensamiento-computacional/"
   }
 }

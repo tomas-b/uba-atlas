@@ -1,0 +1,17 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "units 6-7 (dispositivos-programables, softcores) FABRICATED — lifted from Arquitectura's contenidos mínimos; SD's block ends at 'Sumadores, Contadores'",
+    "frame 'las siete unidades son los bloques del propio plan' FALSE — the plan names five",
+    "cargaHoraria DOUBLED: node says 10h/160h; both plan versions and the site say 5h/80h"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Blocks 1-5 verbatim-faithful; the fabrication propagates to two child nodes citing the same URL. Lede describes Arquitectura's content. Fixed same wave: fabricated units deleted, hours corrected."
+}

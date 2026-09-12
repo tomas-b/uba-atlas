@@ -1,0 +1,76 @@
+{
+  "address": "uba.cbc.biosalud.matematica.complementaria-probabilidad",
+  "level": "programa",
+  "kind": "unit",
+  "groundingLevel": "L2",
+  "metadata": {
+    "unidad": "C1",
+    "de": "7 unidades temáticas + 2 unidades complementarias",
+    "tipo": "unidad complementaria"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.cbc",
+      "label": "Ciclo Básico Común"
+    },
+    {
+      "address": "uba.cbc.biosalud",
+      "label": "Ciencias Biológicas y de la Salud"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica",
+      "label": "Matemática"
+    },
+    {
+      "address": "uba.cbc.biosalud.matematica.complementaria-probabilidad",
+      "label": "Distribuciones en probabilidad"
+    }
+  ],
+  "eyebrow": "Matemática (51) · Cátedra Rossomando · Unidad Complementaria 1",
+  "title": "Distribuciones en probabilidad",
+  "lede": "Cuando el valor de una variable deja de ser un número y pasa a ser una distribución.",
+  "meta": [
+    {
+      "k": "Unidad",
+      "v": "C1",
+      "small": "complementaria"
+    },
+    {
+      "k": "Materia",
+      "v": "Matemática",
+      "small": "CBC · código 51"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad complementaria"
+    }
+  ],
+  "frame": "Temas de la unidad, literales de la sección B del programa analítico: Variable aleatoria · variables aleatorias discretas y continuas; Distribuciones en probabilidad; Esperanza matemática · varianza; Variable aleatoria continua: distribuciones Normal y Normal Estándar. Unidad Complementaria: el programa la numera aparte de las siete unidades temáticas, y el cronograma de la sección C no le asigna ningún encuentro.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "El hilo de la unidad",
+      "title": "De qué se trata",
+      "note": "Los contenidos de la unidad, en el orden en que los imprime el programa.",
+      "map": {
+        "mk": "La unidad, comprimida",
+        "tree": "DISTRIBUCIONES EN PROBABILIDAD\n│\n• Variable aleatoria · variables aleatorias discretas y continuas\n• Distribuciones en probabilidad\n• Esperanza matemática · varianza\n• Variable aleatoria continua: distribuciones Normal y Normal Estándar",
+        "foot": "Unidad Complementaria: el programa la numera aparte de las siete unidades temáticas, y el cronograma de la sección C no le asigna ningún encuentro. La bibliografía del programa es una lista plana de tres títulos, sin asignación por unidad."
+      },
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "ffyb.uba.ar (hosting: Facultad de Farmacia y Bioquímica, UBA) · \"MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO — PROGRAMA ANALÍTICO\", Ciclo Básico Común · sección B, Unidades Temáticas",
+    "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/01.-Programa-Analitico-de-Matematica-CBC.pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 2,
+  "not_found": [
+    "FABRICATED NEGATIVE: frame declares the source publishes no bibliography — the cited Cuba-Wiki page lists 'Learn You a Haskell' (+Spanish version) and Gries (annotated as further reading)"
+  ],
+  "omitted": [
+    "'Procedimientos' dropped from the Python list",
+    "plan's 'proyectos grupales'/'herramientas de desarrollo' absent"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Temario near-verbatim (Haskell/Python blocks exact). The false 'no bibliography' claim seals a node book-less against a source that lists books — a fabricated negative."
+}

@@ -13,10 +13,10 @@
   "title": "El instrumental para leer la economía argentina.",
   "lede": "El instrumental para el estudio de la economía argentina y sus variables macroeconómicas: el crecimiento, la inflación y el desempleo. El modelo clásico y sus falencias, el crecimiento económico, los transables y los no transables, el adelanto tecnológico. La balanza de pagos, las cuentas nacionales y las tasas de interés; el tipo de cambio real; la función de consumo; la inversión y el ciclo económico.",
   "meta": [
-    { "k": "Unidad", "v": "1", "small": "de 3" },
+    { "k": "Unidad", "v": "1", "small": "de 3 · agregación editorial" },
     { "k": "Materia", "v": "An. Econ.", "small": "CPC" }
   ],
-  "frame": "Contenidos mínimos oficiales de la unidad (Texto Ordenado 2023). Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
+  "frame": "Contenidos mínimos oficiales de la unidad, del PDF citado: el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18. Conceptos reales del plan; sin bibliografía (paso L2 pendiente por cátedra).",
   "groups": [
     {
       "kind": "plain",

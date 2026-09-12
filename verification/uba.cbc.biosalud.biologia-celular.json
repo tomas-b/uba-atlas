@@ -1,0 +1,21 @@
+{
+  "address": "uba.cbc.biosalud.biologia-celular",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 3,
+  "books_found": 3,
+  "not_found": [
+    "title uses the long materia name only the URL filename carries (PDF titles itself 'BIOLOGIA CELULAR (54) - CÁTEDRA SKERL')",
+    "'Es la biología de Medicina, Odontología...' carrera list absent from the PDF — and codigo.rec has a separate 'B' variant declared for Medicina's salud careers, unrecorded contradiction"
+  ],
+  "omitted": [
+    "14 contenidos mínimos (Res. 4426/16), 14 capítulos, carga horaria 96 hs, 16-week structure, evaluation regime — all undeclared"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Units 5/5 and books 3/3 literal; cátedra Skerl literal. Self-contradiction: map.foot's stale 'bibliografía aún no fue extraída' vs the 3 books listed (boilerplate in all 5 biosalud nodes).",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

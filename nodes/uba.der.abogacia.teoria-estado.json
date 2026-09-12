@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidadesEditoriales": 6, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Teoría del Estado abre el Ciclo Profesional Común con la mirada política sobre el poder organizado. Recorre los estudios políticos y su objeto, la formación del Estado y sus formas, la realidad política y sus actores, la representación y el sufragio, los debates sobre la democracia y la evolución del Estado moderno hasta su conformación en la Argentina. Materia cuatrimestral, sus contenidos mínimos se ordenan en seis unidades.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
-    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "6", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓ (6 de 28)" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra del Prof. Titular Miguel De Luca, de orientación en ciencia política.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en seis unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos. La bibliografía se toma del programa 2019 de la cátedra de Miguel De Luca, que organiza su propio dictado en ocho unidades —otra partición, no la de este nodo—.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 6 unidades",
       "title": "Del objeto de los estudios políticos al Estado argentino",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en seis unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en seis unidades",
         "tree": "TEORÍA DEL ESTADO\n│\n├─ Unidad 1 · Los estudios políticos\n├─ Unidad 2 · Formación del Estado y poder\n├─ Unidad 3 · La realidad política\n├─ Unidad 4 · Representación y sufragio\n├─ Unidad 5 · La democracia\n└─ Unidad 6 · Estado moderno y Argentina",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra De Luca."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en seis unidades por el atlas. Bibliografía: programa 2019 de la cátedra De Luca."
       },
       "exits": [
         { "address": "uba.der.abogacia.teoria-estado.objeto-estudios-politicos", "name": "Los estudios políticos: denominaciones y objeto", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -43,17 +43,23 @@
     {
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía del programa de la cátedra del Prof. Titular Miguel De Luca. La referencia general recurrente es Vallés; el resto es bibliografía específica por unidad. Fuente: sitio de la cátedra (teoriadelestadouba.wordpress.com).",
+      "title": "Seis de las obras que asigna",
+      "note": "Selección de una cátedra entre seis: la oferta CPC del primer cuatrimestre de 2024 lista comisiones de Teoría del Estado bajo seis titulares nombrados —Bercholc, Cao, D'Auria, De Luca, Federici y Scherlis— más comisiones «a designar»; ésta es la bibliografía de la cátedra De Luca. Y es una selección dentro de ella: el programa 2019 cita veintiocho obras distintas en treinta y cinco entradas (Vallés se repite unidad por unidad); aquí se exponen seis y quedan veintidós fuera. El programa separa «Bibliografía general» (Vallés, por capítulos) de «Bibliografía específica» (el resto), y en varios casos asigna páginas o capítulos, no el libro entero: eso se dice en cada renglón.",
       "exits": [
-        { "address": "uba.der.abogacia.teoria-estado.valles-ciencia-politica", "name": "Josep M. Vallés — Ciencia política: una introducción", "role": "bibliografía general · Ariel 2000", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.teoria-estado.weber-economia-sociedad", "name": "Max Weber — Economía y sociedad", "role": "FCE", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.teoria-estado.dahl-poliarquia", "name": "Robert A. Dahl — La poliarquía", "role": "Tecnos", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.teoria-estado.held-democracia-orden-global", "name": "David Held — La democracia y el orden global", "role": "Paidós · 1997", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.teoria-estado.oszlak-formacion-estado", "name": "Oscar Oszlak — La formación histórica del Estado en América Latina", "role": "Estudios CEDES · 1978", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.teoria-estado.mann-poder-autonomo", "name": "Michael Mann — El poder autónomo del Estado", "role": "Zona Abierta · 1991", "tag": "libro", "kind": "book" }
+        { "address": "uba.der.abogacia.teoria-estado.valles-ciencia-politica", "name": "Josep M. Vallés — Ciencia Política: una introducción", "role": "bibliografía general · Barcelona: Ariel, 2000 · capítulos asignados unidad por unidad", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.weber-economia-sociedad", "name": "Max Weber — Economía y Sociedad. Esbozo de sociología comprensiva", "role": "bibliografía específica · FCE, México, 1984 [1922] · asignadas pp. 43-45, 171-217 y 1056-1076, no la obra entera", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.dahl-poliarquia", "name": "Robert Dahl — La poliarquía. Participación y oposición", "role": "bibliografía específica · Madrid: Tecnos, 1989 [1971] · asignado el capítulo 1, «Democratización y oposición pública», pp. 13-25", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.held-democracia-orden-global", "name": "David Held — La democracia y el orden global. Del Estado moderno al gobierno cosmopolita", "role": "bibliografía específica · Barcelona: Paidós, 1997 · asignados los capítulos 2 y 3", "tag": "libro", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.oszlak-formacion-estado", "name": "Oscar Oszlak — Formación histórica del Estado en América Latina: elementos teórico-metodológicos para su estudio", "role": "bibliografía específica · Estudios CEDES, vol. I, 3, Buenos Aires, 1978", "tag": "artículo", "kind": "book" },
+        { "address": "uba.der.abogacia.teoria-estado.mann-poder-autonomo", "name": "Michael Mann — El poder autónomo del Estado: sus orígenes, mecanismos y resultados", "role": "bibliografía específica · Zona Abierta, N° 57-58, 1991, pp. 15-50", "tag": "artículo", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "Cátedra De Luca · «TEORÍA DEL ESTADO 2019 — UNIDADES TEMÁTICAS Y BIBLIOGRAFIA», Facultad de Derecho UBA (el encabezado imprime «CÁTEDRA; MIGUEL DE LUCA»). Publicado en el sitio de la cátedra, teoriadelestadouba.wordpress.com. EXTRAÍDO y verificado: es la fuente de la bibliografía de este nodo (extract/out/deluca-2019.txt).", "url": "https://teoriadelestadouba.wordpress.com/wp-content/uploads/2019/02/programa-teorc3ada-del-estado-2019-1.pdf" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de cátedras que dictan la materia. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

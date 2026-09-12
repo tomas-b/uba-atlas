@@ -4,9 +4,11 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Biología CBC · Cátedra Skerl (FFyB)",
-    "unidades": 5
+    "catedra": "Cátedra Skerl — la portada del programa titula la materia «BIOLOGIA CELULAR (54) - CÁTEDRA SKERL»",
+    "unidadesTematicas": 5,
+    "contenidosMinimos": "14 (Resol. UBA N°4426/16), no dibujados aquí",
+    "cargaHoraria": "96 hs (30 hs seminarios · 57 hs talleres · 9 hs evaluaciones)",
+    "nombreLargo": "«Biología e Introducción a la Biología Celular» es el nombre que imprime el Cap. D del Código UBA; el programa analítico de la cátedra se titula «BIOLOGIA CELULAR (54)»"
   },
   "breadcrumb": [
     {
@@ -28,17 +30,17 @@
   ],
   "eyebrow": "Biología e Introducción a la Biología Celular · CBC · Bio·Salud",
   "title": "La célula como unidad de las ciencias de la salud.",
-  "lede": "La biología del perfil de la salud, centrada en la célula. Organizada en cinco unidades temáticas que van de la introducción al estudio de la vida hasta la evolución, pasando por la organización del citoplasma, el genoma y la reproducción. Es la biología de Medicina, Odontología, Farmacia y Bioquímica.",
+  "lede": "La biología del perfil de la salud, centrada en la célula. El programa analítico de la Cátedra Skerl la organiza en cinco unidades temáticas que van de la introducción al estudio de la Biología hasta la evolución, pasando por la organización del citoplasma, el genoma y la reproducción.",
   "meta": [
-    {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
-    },
     {
       "k": "Unidades",
       "v": "5",
-      "small": "programa"
+      "small": "temáticas"
+    },
+    {
+      "k": "Carga",
+      "v": "96 hs",
+      "small": "16 semanas"
     },
     {
       "k": "Grounding",
@@ -46,12 +48,12 @@
       "small": "temas + libros ✓"
     },
     {
-      "k": "Cursan",
-      "v": "Medicina",
-      "small": "carreras"
+      "k": "Cátedra",
+      "v": "Skerl",
+      "small": "cód. 54"
     }
   ],
-  "frame": "Estructura del programa analítico de la Cátedra Skerl (FFyB), que divide la materia en cinco unidades temáticas. El recorrido arma la célula por dentro —citoplasma, genoma— y después la pone en contexto: cómo se reproduce y cómo cambia a lo largo del tiempo. Su foco es la importancia de la biología celular en las ciencias de la salud humana.",
+  "frame": "Estructura del programa analítico de la Cátedra Skerl (FFyB), que divide la materia en cinco unidades temáticas. El recorrido arma la célula por dentro —citoplasma, genoma— y después la pone en contexto: cómo se reproduce y cómo cambia a lo largo del tiempo. Su foco es la importancia de la biología celular en las ciencias de la salud humana. Quedan fuera de este nodo, por ahora: los 14 contenidos mínimos de la Resol. UBA N°4426/16 que el programa lista aparte, los 14 capítulos en que se reparten las cinco unidades, el cronograma de 32 encuentros en 16 semanas y el régimen de evaluación. El Cap. D del Código UBA registra además una variante distinta de la materia, «Biología e Introducción a la Biología Celular B», para las carreras de ciencias de la salud de la Facultad de Medicina; ese programa no está dibujado aquí.",
   "groups": [
     {
       "kind": "spine",
@@ -61,7 +63,7 @@
       "map": {
         "mk": "El programa, en 5 unidades",
         "tree": "BIOLOGÍA E INTRODUCCIÓN A LA BIOLOGÍA CELULAR\n│\n├─ Unidad temática 1 · Introducción al estudio de la Biología\n├─ Unidad temática 2 · Organización del citoplasma\n├─ Unidad temática 3 · Organización del genoma\n├─ Unidad temática 4 · Reproducción y desarrollo\n└─ Unidad temática 5 · Evolución",
-        "foot": "Unidades según la fuente oficial citada. La bibliografía específica de la cátedra aún no fue extraída — es el paso que falta para cerrar L2."
+        "foot": "Las cinco unidades temáticas del programa analítico de la Cátedra Skerl. Sus 14 capítulos y los 14 contenidos mínimos (Resol. UBA N°4426/16) que el mismo programa lista aparte todavía no están dibujados."
       },
       "exits": [
         {
@@ -105,7 +107,7 @@
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias",
       "title": "Los libros de la cátedra",
-      "note": "Bibliografía del programa analítico de la Cátedra Skerl (FFyB, ffyb.uba.ar).",
+      "note": "Bibliografía del programa analítico de la Cátedra Skerl (FFyB): los tres títulos que imprime, completos y sin recortes.",
       "exits": [
         {
           "address": "uba.cbc.biosalud.biologia-celular.de-robertis-hib",
@@ -132,7 +134,17 @@
     }
   ],
   "source": {
-    "label": "ffyb.uba.ar · Programa Analítico Biología e Introd. a la Biología Celular (Cát. Skerl)",
+    "label": "ffyb.uba.ar · Programa Analítico «BIOLOGIA CELULAR (54) - CÁTEDRA SKERL» (CBC) — unidades temáticas y bibliografía",
     "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/04.-Programa-Analitico-de-Biologia-e-Introduccion-a-la-Biologia-Celular-CBC.pdf"
-  }
+  },
+  "sources": [
+    {
+      "label": "ffyb.uba.ar · Programa Analítico «BIOLOGIA CELULAR (54) - CÁTEDRA SKERL». EXTRAÍDO: es la base de las cinco unidades temáticas y de los tres libros.",
+      "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/08/04.-Programa-Analitico-de-Biologia-e-Introduccion-a-la-Biologia-Celular-CBC.pdf"
+    },
+    {
+      "label": "codigo.rec.uba.ar · Título 16 (CBC), Cap. D — imprime el nombre largo «BIOLOGÍA E INTRODUCCIÓN A LA BIOLOGÍA CELULAR» y, por separado, una variante «B» de la materia para las carreras de ciencias de la salud de la Facultad de Medicina. Verificado, no dibujado.",
+      "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-d-contenidos-minimos-de-las-materias-del-cbc/"
+    }
+  ]
 }

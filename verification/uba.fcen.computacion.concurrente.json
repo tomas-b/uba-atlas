@@ -1,0 +1,16 @@
+{
+  "address": "uba.fcen.computacion.concurrente",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "'160 h' INVENTED — a 10×16 derivation presented as sourced (the token 160 in the source means optativas)",
+    "correlativas true per cubawiki but unattributed (cited plan page has none)"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Cleanest content: three ejes near-verbatim; honest negative on bibliography (cubawiki confirms none)."
+}

@@ -15,7 +15,7 @@
   "title": "Describir hardware en el nivel de transferencia entre registros.",
   "lede": "Diseño RTL con una introducción a un HDL, bloques como multiplexores, decodificadores y three-state, descritos por símbolo, tabla de verdad y código.",
   "meta": [
-    { "k": "Unidad", "v": "4", "small": "de 7" },
+    { "k": "Unidad", "v": "4", "small": "de 5" },
     { "k": "Rol", "v": "unidad", "small": "diseño RTL / HDL" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }

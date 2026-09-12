@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.lfayc",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "phantom third source ('página de la cátedra, Campus Exactas') — login-gated, no URL, counted toward a corroboration claim",
+    "'las tres coinciden' overstated: plan emphasizes parsers/compiladores (absent from units), cubawiki emphasizes computabilidad (absent from plan) — ~2 items overlap"
+  ],
+  "omitted": [
+    "plan's own 'sintaxis y semántica'/'parsers' emphasis absent from all units",
+    "'del Parámetro' trimmed from one exit name (kept in tree)"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Structurally strongest: 13 cubawiki bullets grouped consecutively and losslessly into 7 units; every lede term verbatim; bibliography [] honest."
+}

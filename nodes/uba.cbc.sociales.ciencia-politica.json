@@ -4,10 +4,10 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia del área · cátedra CBC",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 4
+    "seccion": "Cap. D · «07. CIENCIA POLÍTICA» · Contenidos 1 a 4",
+    "contenidos": 4,
+    "numeradosEnLaFuente": true,
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +27,24 @@
       "label": "Ciencia Política"
     }
   ],
-  "eyebrow": "Ciencia Política · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Ciencia Política · CBC · Código UBA, Cap. D",
   "title": "La política estudiada como sistema, proceso y resultado.",
   "lede": "Una introducción al conocimiento científico de la política: sus tradiciones de análisis, sus conceptos —poder, autoridad, legitimidad, conflicto— y su aplicación a casos concretos de América Latina y la Argentina.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "4",
+      "small": "numerados 1–4"
     },
     {
-      "k": "Unidades",
-      "v": "4",
-      "small": "cont. mín."
+      "k": "Área",
+      "v": "Sociales",
+      "small": "cbc.uba.ar"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,17 +52,17 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA). Cuatro bloques: qué es el conocimiento científico de la política, sus tres facetas (estructura, proceso, política pública), sus conceptos fundamentales y su aplicación a problemas concretos. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA, «07. CIENCIA POLÍTICA»), numerados 1 a 4 en la fuente: el conocimiento científico de la política; la política y sus dimensiones o facetas —estructura o sistema, proceso, resultado o política pública—; los conceptos y problemas fundamentales en el estudio de la política; y el conocimiento politológico aplicado a distintos problemas políticos. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un contenido numerado de la fuente; el nombre es el enunciado con el que la encabeza.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "CIENCIA POLÍTICA — contenidos mínimos\n│\n├─ 1 · El conocimiento científico de la política\n├─ 2 · La política y sus dimensiones\n├─ 3 · Conceptos y problemas fundamentales\n└─ 4 · El conocimiento politológico aplicado",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "CIENCIA POLÍTICA — contenidos mínimos\n│\n├─ 1 · El conocimiento científico de la política\n├─ 2 · La política y sus dimensiones o facetas\n├─ 3 · Conceptos y problemas fundamentales en el estudio de la política\n└─ 4 · El conocimiento politológico aplicado a distintos problemas políticos",
+        "foot": "Cap. D del Código UBA, «07. CIENCIA POLÍTICA», Contenidos 1 a 4. La sección no publica bibliografía."
       },
       "exits": [
         {
@@ -74,21 +74,21 @@
         },
         {
           "address": "uba.cbc.sociales.ciencia-politica.dimensiones",
-          "name": "La política y sus dimensiones",
+          "name": "La política y sus dimensiones o facetas",
           "role": "contenido 2",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.ciencia-politica.conceptos",
-          "name": "Conceptos y problemas fundamentales",
+          "name": "Conceptos y problemas fundamentales en el estudio de la política",
           "role": "contenido 3",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.ciencia-politica.aplicado",
-          "name": "El conocimiento politológico aplicado",
+          "name": "El conocimiento politológico aplicado a distintos problemas políticos",
           "role": "contenido 4",
           "tag": "unidad",
           "kind": "unit"

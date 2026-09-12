@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidades": 7 },
+  "metadata": { "regimen": "anual", "cargaHoraria": "108 h", "ciclo": "CPC", "unidadesEditoriales": 7, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Contratos Civiles y Comerciales estudia la teoría general del contrato bajo el Código Civil y Comercial unificado: qué es, cómo se forma, qué efectos produce, cómo se extingue y cómo se interpreta, para llegar a los contratos regulados en especial. Materia anual del Ciclo Profesional Común, con 108 horas de cursada. Sus contenidos mínimos oficiales se organizan en siete unidades, del concepto y la regulación del contrato hasta los tipos contractuales particulares.",
   "meta": [
     { "k": "Régimen", "v": "anual", "small": "108 h" },
-    { "k": "Unidades", "v": "7", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "7", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra de la Prof. Titular Graciela Lovece.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en siete unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos. En materia de consumo, el bloque de contenidos mínimos de esta materia cita únicamente la Ley 24.240 de Defensa del Consumidor.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 7 unidades",
       "title": "De la teoría general del contrato a los contratos en especial",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en siete unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en siete unidades",
         "tree": "CONTRATOS CIVILES Y COMERCIALES\n│\n├─ Unidad 1 · Concepto y regulación del contrato\n├─ Unidad 2 · Elementos, objeto, causa y forma\n├─ Unidad 3 · Consentimiento y tratativas\n├─ Unidad 4 · Efectos y cumplimiento\n├─ Unidad 5 · Extinción e ineficacia\n├─ Unidad 6 · Interpretación, conexidad y consumo\n└─ Unidad 7 · Contratos en especial",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Lovece."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en siete unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.contratos.concepto-regulacion", "name": "Concepto y regulación del contrato", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -42,14 +42,17 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía del programa de la cátedra de la Prof. Titular Graciela Lovece. El programa prescribe un texto central, más doctrina y fallos del campus y la legislación de base (CCyC, Constitución Nacional, Leyes 24.240 y 26.361). Fuente: programa de cátedra (2025).",
-      "exits": [
-        { "address": "uba.der.abogacia.contratos.lovece-contratos", "name": "Graciela Lovece — Derecho de los Contratos. Parte General y Parte Especial", "role": "texto central · Ed. Estudio 2023", "tag": "libro", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "No hay programa de cátedra citable para esta materia: el programa invocado no existe en el corpus local, no tiene URL alcanzable, y el título que se le atribuía no aparece en ninguna fuente verificable. La oferta CPC del primer cuatrimestre de 2024 lista comisiones de esta materia bajo los apellidos Ameal, Armella, Barbier, Garrido, Garrido C., Leiva F., Lorenzetti, Lovece y Weingarten, tal como los imprime el listado: cualquier bibliografía sería la de una de esas cátedras, no la de la materia. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de cátedras que dictan la materia. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

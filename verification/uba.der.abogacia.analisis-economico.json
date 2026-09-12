@@ -1,0 +1,21 @@
+{
+  "address": "uba.der.abogacia.analisis-economico",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 3,
+  "books_found": 0,
+  "not_found": [
+    "ALL 3 books ungrounded: Mankiw only via an aggregator snippet; Stordeur title non-literal vs the attested ones; 'Yo, el lápiz' zero support anywhere",
+    "the 2→3 unit split of the plan's two paragraph blocks is undeclared"
+  ],
+  "omitted": [
+    "1-of-7 cátedra selection undeclared; 'primeras unidades' partial take unquantified"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Metadata exact. Bibliography group cites 'programa de cátedra (2024)' with no URL, no extract, no manifest entry — re-source or remove.",
+  "wave": "normalizacion-abogacia",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -1,0 +1,19 @@
+{
+  "address": "uba.ffyl.filosofia.metafisica",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 23,
+  "books_found": 8,
+  "not_found": [
+    "FABRICATED DETAIL: Schopenhauer inserted into the Cragnolini author list — the real program has no Schopenhauer (0 hits)",
+    "INVENTED ATTRIBUTION: Chalmers role 'Unidades 5-6' — source assigns U4 and U6, never U5 (whose obligatoria is Block/Smart/Turing, all undrawn)",
+    "the whole 'rota entre cátedras' half rests on an uncited 2017 program"
+  ],
+  "omitted": [
+    "15 obligatory items undrawn undeclared, incl. U5's entire obligatoria"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Worst of the batch: one inserted author + one source-contradicted role. Unit exits literal; other 7 books exact."
+}

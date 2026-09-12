@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.sociales.derecho-privado",
+  "source_reachable": true,
+  "units_total": 10,
+  "units_found": 10,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "exit 1 'Nociones básicas' ERASES the source's lead topic (Nociones de Derecho Romano) — materially misdescribes the unit",
+    "exit 2 substitutes 'Justicia' into the source's verbatim triad 'Derecho, ley y legitimidad'",
+    "exit 8 drops responsabilidad civil entirely",
+    "frame adds 'Público' to 'Traductorado' (source: 'Abogacía, Traductorado y Calígrafo Público')",
+    "same three ungrounded metadata fields"
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Worst non-literality of the batch: 10/10 exits map (src 1871-1916) but only 3,4,6,9,10 literal. Title/lede grounded (CCCN, constitucionalización).",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -15,7 +15,7 @@
   "title": "Circuitos que recuerdan y avanzan al ritmo del reloj.",
   "lede": "Circuitos secuenciales sincrónicos, desde el latch D y el flip-flop D hasta sumadores y contadores.",
   "meta": [
-    { "k": "Unidad", "v": "5", "small": "de 7" },
+    { "k": "Unidad", "v": "5", "small": "de 5" },
     { "k": "Rol", "v": "unidad", "small": "lógica secuencial" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }

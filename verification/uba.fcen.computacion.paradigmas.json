@@ -1,0 +1,17 @@
+{
+  "address": "uba.fcen.computacion.paradigmas",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "FABRICATED QUOTATION: guillemet quote splices the plan doc with the web page — appears verbatim in neither",
+    "undeclared 3→5 fan-out denied by the frame's own 'sin inventar más estructura'",
+    "false claim that the detailed program lives behind Moodle login — the cited page points at the public Repositorio Digital de Programas"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Metadata fully grounded in the (uncited) propuesta-plan.txt — 160h real here. Errors concentrated in frame rhetoric."
+}

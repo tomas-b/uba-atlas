@@ -30,10 +30,10 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "LENGUAJES Y OPTIMIZACIÓN DE CONSULTAS (Unidad 2)\n│\n├─ Lenguajes de manipulación de datos\n└─ Optimización de consultas",
-        "foot": "Temas propuestos del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+        "foot": "Temas de la fila ARI del documento oficial del Plan 2023 (versiones 07/2024 y 11/2025, computacion.dc.uba.ar)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas ARI)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios Lic. Cs. Computación, versión 11/2025 — fila ARI (columnas de contenidos mínimos y detalle)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" }
 }

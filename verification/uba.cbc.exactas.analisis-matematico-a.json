@@ -1,0 +1,21 @@
+{
+  "address": "uba.cbc.exactas.analisis-matematico-a",
+  "source_reachable": "partial (https dead, http 200)",
+  "units_total": 6,
+  "units_found": 2,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "metadata.unidades=6 appears nowhere (source: 11-12 prácticas)",
+    "biblio claim unsupported (site publishes none)"
+  ],
+  "omitted": [
+    "Taylor and Series dropped entirely; ODEs dropped; four exits are undeclared merges"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Compressing 12 prácticas to 6 units while silently deleting Taylor y Series is an undeclared selection. Código 66 confirmed. Re-grounded same wave from 66.html + 66-practicas.pdf.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

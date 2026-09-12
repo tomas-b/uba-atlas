@@ -1,0 +1,23 @@
+{
+  "address": "uba.cbc.sociedad-estado",
+  "source_reachable": false,
+  "units_total": 0,
+  "units_found": 0,
+  "books_total": 1,
+  "books_found": 1,
+  "not_found": [
+    "ALL 6 unit titles and date ranges — in NO reachable source; contradicted by both real programas found (Cagnacci-Ricci CBC = 4 unidades with different titles; UBA XXI = 6 different ones)",
+    "cargaHoraria 'dos clases semanales de 4 h' CONTRADICTED (Cagnacci-Ricci: 2 encuentros de 2 hs, 4 hs semanales, 64 hs)",
+    "cuatrimestre: 1 unsupported",
+    "'el compilado que la mayoría de las cátedras usa' unsourced (absent from Cagnacci-Ricci's bibliography)"
+  ],
+  "omitted": [
+    "the official Cap. D §02 contenidos (3 blocks) are nowhere reflected and Cap. D is never cited"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "The refresh's first hard fabrication: declared source is cbc.uba.ar (a 2KB JS shell — supports nothing); the 6-unit periodization is shape-plausible but specifically wrong. The one book exit IS real (Pedrosa/Deich/Noce, Eudeba) but it is the UBA XXI Cátedra A manual, falsifying the 'manual de la cátedra' framing. 7 drawn child files inherit the dead source. Consequence: node re-grounded the same wave from the Cagnacci-Ricci CBC programa (ffyb.uba.ar PDF) + Cap. D §02; fabricated unit children removed.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.filosofia.etica",
+  "source_reachable": true,
+  "units_total": 2,
+  "units_found": 2,
+  "books_total": 8,
+  "books_found": 8,
+  "not_found": [
+    "'96 hs' and code '-12006' from the UNCITED 2021 Cano/D'Iorio program",
+    "'Garreta Leclercq' as an Ética cátedra — in no source anywhere",
+    "3 of 8 exits labeled 'textos fuente' where the source tiers them under 'Textos contemporáneos'",
+    "staleness undeclared (2012 doc)"
+  ],
+  "omitted": [
+    "~50 tiered bibliography entries"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Structure exact (2 blocks, 11 cuestiones, both exits literal); all 8 books traceable."
+}

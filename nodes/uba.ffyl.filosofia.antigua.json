@@ -27,7 +27,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Eje", "v": "mito/lógos", "small": "tema especial" }
   ],
-  "frame": "Grounded en el programa 2020 de la cátedra (Soares), código 0204-12001, repositorio.filo.uba.ar. La materia se organiza en cinco unidades atravesadas por un tema especial —filosofía, mito y poesía—: se estudian Heráclito y Parménides, la sofística y la tragedia, y los dos clásicos del período (Platón y Aristóteles) leídos también por su relación con la poesía. La bibliografía obligatoria son fuentes primarias en selección de cátedra más secundaria en español. Cada programa es de un año y una cátedra: el tema especial rota; el arco de figuras es estable.",
+  "frame": "Grounded en el programa 2020 de la cátedra (Soares), código 0204-12001, repositorio.filo.uba.ar. La materia se organiza bajo un tema especial —filosofía, mito y poesía—: se estudian Heráclito y Parménides, la sofística y la tragedia, y los dos clásicos del período (Platón y Aristóteles) leídos también por su relación con la poesía. CONTRADICCIÓN DEL DOCUMENTO, declarada sin resolver: la Fundamentación afirma que «los contenidos del programa se distribuyen en seis unidades», pero el programa lista y desarrolla cinco (Introducción, Presocráticos, Sofística y tragedia, Platón, Aristóteles). Este nodo dibuja las cinco unidades efectivamente listadas y deja constancia de que el propio programa dice seis. La bibliografía obligatoria son fuentes primarias en selección de cátedra más secundaria en español; el nodo dibuja una muestra, no el listado completo (ver el grupo de bibliografía). Cada programa es de un año y una cátedra: el tema especial rota; el arco de figuras es estable.",
   "groups": [
     {
       "kind": "spine",
@@ -37,7 +37,7 @@
       "map": {
         "mk": "El programa 2020, en cinco unidades",
         "tree": "HISTORIA DE LA FILOSOFÍA ANTIGUA — eje: mito y lógos\n│\n├─ 1 · Introducción      el mito, los poetas y el nacer de la filosofía\n├─ 2 · Presocráticos     Heráclito · Parménides (phýsis, lógos, ser y pensar)\n├─ 3 · Sofística y tragedia   Protágoras · Gorgias · el poeta como educador\n├─ 4 · Platón            Formas, reminiscencia, caverna · la crítica a la poesía\n└─ 5 · Aristóteles       ousía y categorías · Poética: mímesis y kátharsis",
-        "foot": "Unidades del programa 2020 (Soares). El programa lista además una figura introductoria de método; las clases prácticas se dedican a Platón y Aristóteles."
+        "foot": "Unidades del programa 2020 (Soares), tal como el documento las lista. Nota: la Fundamentación del mismo programa dice «seis unidades» y a continuación lista cinco — la contradicción es del documento, no del nodo. Las fuentes de clases prácticas están sólo en las unidades 4 y 5 (República II, III y X; Poética)."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.antigua.introduccion", "name": "Introducción", "role": "Unidad 1 · mito y lógos", "tag": "unidad", "kind": "unit" },
@@ -50,8 +50,8 @@
     {
       "kind": "reading",
       "eyebrow": "Bibliografía · fuentes y estudios",
-      "title": "Los textos, tal como los asigna la cátedra",
-      "note": "Fuentes primarias en selección más secundaria de lectura obligatoria. Cada libro es un índice L3 aún sin abrir.",
+      "title": "Ocho textos de la bibliografía obligatoria",
+      "note": "SELECCIÓN DECLARADA: 8 de unas 50 entradas obligatorias del programa (fuentes de lectura obligatoria + bibliografía secundaria de lectura obligatoria, repartidas en las cinco unidades). No es el listado de la cátedra: es una muestra de él. Quedan sin dibujar, entre otras, Brisson, Bernabé, Burnet y las series de teóricas/prácticas de Platón y Aristóteles; la bibliografía complementaria y la general quedan enteramente fuera. Cada libro es un índice L3 aún sin abrir.",
       "exits": [
         { "address": "uba.ffyl.filosofia.antigua.kirk-raven-schofield", "name": "Los filósofos presocráticos", "role": "Kirk · Raven · Schofield (Gredos)", "tag": "fuente", "kind": "book" },
         { "address": "uba.ffyl.filosofia.antigua.guthrie", "name": "Historia de la filosofía griega", "role": "W. K. C. Guthrie (Gredos)", "tag": "estudio", "kind": "book" },

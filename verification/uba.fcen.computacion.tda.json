@@ -1,0 +1,22 @@
+{
+  "address": "uba.fcen.computacion.tda",
+  "source_reachable": "partial",
+  "units_total": 7,
+  "units_found": 5,
+  "books_total": 2,
+  "books_found": 0,
+  "not_found": [
+    "'programa cát. Bonomo–Lin' — the only matching artifact is a STUDENT'S PERSONAL REPO (github.com/malei-dc/TDA) whose README disclaims accuracy; Bonomo not named anywhere in it",
+    "Greedy/Camino Mínimo/Flujo en Redes units absent from the official contenidos mínimos",
+    "invented quote «basado en Kleinberg–Tardos» — the repo contains NO bibliography",
+    "both book exits dangle to nonexistent files",
+    "specific algorithm names in the tree have no source",
+    "'NP se corrió a la materia posterior' contradicted by the node's own cited page"
+  ],
+  "omitted": [
+    "official 'búsqueda iterativa/local', 'cadenas y geometría', 'resolución heurística' all dropped"
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "cargaHoraria/cuatrimestre correct vs plan. Fix path: the Repositorio Digital de Programas de Exactas (advertised by the cited page itself, unexploited) can settle the real programa and bibliography."
+}

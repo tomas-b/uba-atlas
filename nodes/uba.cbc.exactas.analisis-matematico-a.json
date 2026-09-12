@@ -4,9 +4,14 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "Coordinación de Matemática (CBC)",
-    "unidades": 6
+    "codigo": "66",
+    "denominacionSitio": "Análisis Matemático A 66 (para Exactas e Ingeniería)",
+    "area": "Área de Matemática — Ciclo Básico Común (así se identifica el sitio; no publica cátedra ni docentes)",
+    "practicas": 12,
+    "unidadDelSitio": "práctica (P0 a P11) — así están numeradas en la guía",
+    "programaImpreso": "5 unidades (I a V), impresas aparte en la misma guía; no coinciden con la partición en 12 prácticas",
+    "bibliografia": 6,
+    "guia": "«Guía de trabajos prácticos», 70 páginas: Presentación, Prácticas 0 a 11, Programa, Bibliografía"
   },
   "breadcrumb": [
     {
@@ -26,91 +31,183 @@
       "label": "Análisis Matemático A"
     }
   ],
-  "eyebrow": "Análisis Matemático A · CBC · exactas–ingeniería",
-  "title": "El cálculo, del límite a la integral.",
-  "lede": "El Análisis Matemático del perfil exacto: el cálculo diferencial e integral de una variable. Del terreno (números reales y funciones) al límite, la derivada y sus aplicaciones, hasta la integral. Materia núcleo de la orientación, correlativa de casi todo lo que sigue.",
+  "eyebrow": "Análisis Matemático A 66 · CBC · Cs. Exactas e Ingeniería",
+  "title": "Doce prácticas, del repaso a las series.",
+  "lede": "El cálculo de una variable para casi todas las carreras de Exactas y de Ingeniería. Las dos primeras prácticas no son cálculo: son la puesta al día del álgebra y las funciones de la escuela media, que se repasa en las primeras semanas. De ahí en más el orden es el clásico y está impreso práctica por práctica: números reales, sucesiones, límites y continuidad, derivada, teoremas del valor medio, estudio de funciones. Después vienen las tres que suelen quedar fuera de los resúmenes — Taylor, aplicaciones de la integral y series — y que acá figuran con práctica propia porque así están numeradas. Desde la Práctica 2, cada parte reparte sus ejercicios en cuatro escalones: introductorios, de entrenamiento, de evaluación, y problemas y complementos.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "teór-práct"
+      "k": "Prácticas",
+      "v": "12",
+      "small": "P0 a P11"
     },
     {
-      "k": "Unidades",
-      "v": "6",
-      "small": "programa"
+      "k": "Programa",
+      "v": "5",
+      "small": "unidades I–V"
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · biblio ✓"
     },
     {
-      "k": "Rol",
-      "v": "núcleo",
-      "small": "correlativa"
+      "k": "Código",
+      "v": "66",
+      "small": "Exactas e Ing."
     }
   ],
-  "frame": "Contenido de la cátedra de Análisis Matemático A (código 66) del CBC: cálculo diferencial e integral de una variable, en seis unidades. Los temas están sourceados; la bibliografía específica de la cátedra aún no fue extraída del sitio oficial — es el paso que falta para cerrar L2.",
+  "frame": "Material real de Análisis Matemático A 66 publicado por el ÁREA DE MATEMÁTICA del Ciclo Básico Común (así se titula y encabeza el sitio; no dice «Coordinación» ni nombra cátedra o docentes). El índice general lo lista como «Análisis Matemático A 66 (para Exactas e Ingeniería)» y su Presentación lo describe como «asignatura del Ciclo Básico Común dirigida a estudiantes de casi todas las carreras de Ciencias Exactas y Naturales y de Ingeniería». LA UNIDAD ES LA PRÁCTICA: la guía de trabajos prácticos (70 páginas) imprime en su índice general DOCE prácticas, numeradas de 0 a 11, y así se dibujan acá — todas, una por una, con su título impreso, sin fusionar ni renumerar. DOS ESTRUCTURAS EN LA MISMA FUENTE: además de las doce prácticas, la guía imprime en la página 68 un «Programa» de CINCO unidades — I. Números reales. Funciones · II. Sucesiones · III. Límite y continuidad · IV. Derivadas · V. Integrales — que no es la misma partición. En ese programa el Teorema de Taylor cae dentro de la Unidad IV (Derivadas), junto con el estudio de funciones, la regla de L'Hospital y Newton-Raphson, y las series aparecen sólo como «Introducción a las series numéricas» dentro de la Unidad II (Sucesiones) — pese a que las prácticas les dan un lugar propio (P8 y P11). Se dibujan las prácticas; el programa de cinco unidades queda consignado acá como hecho de la fuente, no como estructura del nodo. CONTRADICCIÓN REGISTRADA entre dos páginas citables del mismo sitio: 66.html («Explicaciones teóricas con ejemplos resueltos de Análisis Matemático A 66») lista sólo ONCE prácticas, de la 1 a la 11 —no incluye la Práctica 0— y titula varias distinto que la guía: P1 «Funciones» / «Funciones Reales»; P5 «Derivadas» / «Derivada»; P6 «Teorema del valor medio» y «Regla de L'Hopital» / «Teoremas del Valor Medio»; P7 «Estudio de funciones» y «Optimización» / «Estudio de Funciones»; P9 «Integrales» y «Métodos de integración» / «Integrales»; P10 «Área entre curvas» y «Ecuaciones diferenciales» / «Aplicaciones de la Integral». Se dibujan los títulos de la guía de prácticas —es la fuente que contiene las doce y es la práctica misma— y se consigna al lado el rótulo de 66.html donde difiere. NOTA SOBRE LA BIBLIOGRAFÍA: las páginas HTML del sitio (índice general y 66.html) no publican bibliografía, pero la guía de prácticas SÍ la imprime, en su página 69, con seis títulos; se dibujan esos seis y sólo esos. NO se publica régimen, carga horaria, correlatividades ni cuatrimestre: no se afirman. ACCESO: http://www.mate.cbc.uba.ar/ y http://mate.cbc.uba.ar/ redirigen (301, nginx) a https://mate.cbc.uba.ar/; el host CON www sirve por HTTPS un certificado vencido —CN=*.rec.uba.ar, Let's Encrypt Authority X3, válido del 04/03/2020 al 02/06/2020—, así que https://www.mate.cbc.uba.ar/ no verifica y falla. La URL citable es la del host SIN www, que sí presenta certificado válido (CN=mate.cbc.uba.ar). El PDF de la guía no consigna fecha, autoría ni edición; lleva impresa al margen la marca de agua «Versión gratuita de cortesía».",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos · las 6 unidades",
-      "title": "El recorrido del cálculo",
-      "note": "Cada unidad en orden, del terreno a la integral.",
+      "eyebrow": "Contenidos · las 12 prácticas, como están impresas",
+      "title": "El recorrido, práctica por práctica",
+      "note": "Las doce prácticas del índice de la guía, en su numeración original (0 a 11). Sin fusiones. Donde 66.html rotula distinto, se consignan los dos.",
       "map": {
-        "mk": "El programa, en seis unidades",
-        "tree": "ANÁLISIS MATEMÁTICO A — cálculo de una variable\n│\n├─ U1 · Números Reales y Funciones\n├─ U2 · Sucesiones y Límite\n├─ U3 · Límite y Continuidad\n├─ U4 · Derivadas\n├─ U5 · Aplicaciones de la Derivada\n└─ U6 · Integrales y Aplicaciones",
-        "foot": "Temas de la cátedra de Análisis A. La bibliografía específica vive en mate.cbc.uba.ar — sin extraer todavía."
+        "mk": "Análisis Matemático A 66 — doce prácticas",
+        "tree": "ANÁLISIS MATEMÁTICO A 66 · Área de Matemática · CBC\n│\n├─ P0  · Preliminares              · puesta al día (no está en 66.html)\n├─ P1  · Funciones Reales          · puesta al día · 66.html: «Funciones»\n├─ P2  · Números Reales\n├─ P3  · Sucesiones\n├─ P4  · Límites y Continuidad\n├─ P5  · Derivada                  · 66.html: «Derivadas»\n├─ P6  · Teoremas del Valor Medio  · 66.html suma «Regla de L'Hopital»\n├─ P7  · Estudio de Funciones      · 66.html suma «Optimización»\n├─ P8  · Teorema de Taylor\n├─ P9  · Integrales                · 66.html suma «Métodos de integración»\n├─ P10 · Aplicaciones de la Integral · 66.html: «Área entre curvas» y «Ecuaciones diferenciales»\n└─ P11 · Series\n\nAPARTE — el «Programa» impreso en la misma guía (p. 68), otra partición:\n   I Números reales. Funciones · II Sucesiones · III Límite y continuidad\n   IV Derivadas (incluye Taylor) · V Integrales",
+        "foot": "Doce prácticas, no seis unidades. Desde la P2, cada parte ordena sus ejercicios en introductorios, de entrenamiento, de evaluación, y problemas y complementos."
       },
       "exits": [
         {
-          "address": "uba.cbc.exactas.analisis-matematico-a.numeros-reales-funciones",
-          "name": "Números Reales y Funciones",
-          "role": "U1",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.analisis-matematico-a.preliminares",
+          "name": "Preliminares",
+          "role": "Práctica 0 · puesta al día · ausente en 66.html",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.analisis-matematico-a.sucesiones-limite",
-          "name": "Sucesiones y Límite",
-          "role": "U2",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.analisis-matematico-a.funciones-reales",
+          "name": "Funciones Reales",
+          "role": "Práctica 1 · puesta al día · 66.html: «Funciones»",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.analisis-matematico-a.limite-continuidad",
-          "name": "Límite y Continuidad",
-          "role": "U3",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.analisis-matematico-a.numeros-reales",
+          "name": "Números Reales",
+          "role": "Práctica 2",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.analisis-matematico-a.derivadas",
-          "name": "Derivadas",
-          "role": "U4",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.analisis-matematico-a.sucesiones",
+          "name": "Sucesiones",
+          "role": "Práctica 3",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
-          "address": "uba.cbc.exactas.analisis-matematico-a.aplicaciones-derivada",
-          "name": "Aplicaciones de la Derivada",
-          "role": "U5",
-          "tag": "unidad",
+          "address": "uba.cbc.exactas.analisis-matematico-a.limites-continuidad",
+          "name": "Límites y Continuidad",
+          "role": "Práctica 4",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.derivada",
+          "name": "Derivada",
+          "role": "Práctica 5 · 66.html: «Derivadas»",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.teoremas-valor-medio",
+          "name": "Teoremas del Valor Medio",
+          "role": "Práctica 6 · 66.html suma «Regla de L'Hopital»",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.estudio-de-funciones",
+          "name": "Estudio de Funciones",
+          "role": "Práctica 7 · 66.html suma «Optimización»",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.teorema-de-taylor",
+          "name": "Teorema de Taylor",
+          "role": "Práctica 8",
+          "tag": "práctica",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.exactas.analisis-matematico-a.integrales",
-          "name": "Integrales y Aplicaciones",
-          "role": "U6",
-          "tag": "unidad",
+          "name": "Integrales",
+          "role": "Práctica 9 · 66.html suma «Métodos de integración»",
+          "tag": "práctica",
           "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.aplicaciones-de-la-integral",
+          "name": "Aplicaciones de la Integral",
+          "role": "Práctica 10 · 66.html: «Área entre curvas» y «Ecuaciones diferenciales»",
+          "tag": "práctica",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.series",
+          "name": "Series",
+          "role": "Práctica 11",
+          "tag": "práctica",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía · impresa en la guía de prácticas (p. 69)",
+      "title": "Las seis fuentes",
+      "note": "Los seis títulos que la guía imprime bajo «Bibliografía», transcriptos como figuran. Las páginas HTML del sitio no publican bibliografía; ésta sólo aparece dentro del PDF. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-fasciculos-ccc",
+          "name": "Análisis Matemático. Exactas - Ingeniería. Fascículos 1 a 4 — Varios (CCC - Educando, 2015)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-ayres-mendelson",
+          "name": "Cálculo Diferencial e Integral — F. Ayres y E. Mendelson (Schaum, 1991)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-piskunov",
+          "name": "Cálculo Diferencial e Integral — N. Piskunov (UTEHA, 1991)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-spiegel",
+          "name": "Cálculo Superior — M. Spiegel (Schaum, 1996)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-courant",
+          "name": "Introducción al Cálculo y al Análisis Matemático, Vol. I — Courant (Limusa, 1994)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.cbc.exactas.analisis-matematico-a.libro-guzman-colera",
+          "name": "Matemáticas I — Miguel de Guzmán y José Colera (ANAYA, 1989)",
+          "role": "bibliografía",
+          "tag": "libro",
+          "kind": "book"
         }
       ]
     }
   ],
   "source": {
-    "label": "mate.cbc.uba.ar · Análisis Matemático A (66)",
-    "url": "https://www.mate.cbc.uba.ar/66.html"
+    "label": "mate.cbc.uba.ar · Área de Matemática (CBC) — guía de trabajos prácticos de Análisis Matemático A 66, 70 pp., índice general con Presentación, Prácticas 0 a 11, Programa (p. 68, cinco unidades I–V) y Bibliografía (p. 69, seis títulos): https://mate.cbc.uba.ar/materias/66/66-practicas.pdf · página de explicaciones teóricas, que lista sólo las prácticas 1 a 11 y rotula varias distinto: https://mate.cbc.uba.ar/66.html · índice general del material («Análisis Matemático A 66 (para Exactas e Ingeniería)»): https://mate.cbc.uba.ar/. El host www.mate.cbc.uba.ar no sirve HTTPS válido (certificado *.rec.uba.ar vencido el 02/06/2020); http:// redirige 301 al host sin www.",
+    "url": "https://mate.cbc.uba.ar/materias/66/66-practicas.pdf"
   }
 }

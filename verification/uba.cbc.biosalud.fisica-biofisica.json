@@ -1,0 +1,21 @@
+{
+  "address": "uba.cbc.biosalud.fisica-biofisica",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "regimen 'cuatrimestral' — §23 gives no duración",
+    "catedra 'Física CBC (biofísica)' unnamed in source"
+  ],
+  "omitted": [
+    "topic bodies of the 6 items"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Cleanest of the five: all 6 exit names literal and in order; 'Perspectiva biofísica' paraphrases literal. 'Unidad' nomenclature not the source's ('PROGRAMA DE CONTENIDOS MÍNIMOS').",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

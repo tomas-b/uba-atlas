@@ -4,10 +4,11 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "cuatrimestral",
-    "catedra": "materia de área · requerida por Abogacía, Traductorado y Calígrafo Público",
-    "orientacion": "Ciencias Sociales y Humanas",
-    "unidades": 10
+    "seccion": "Cap. D · «PRINCIPIOS GENERALES DEL DERECHO PRIVADO» · C- Contenidos mínimos 1 a 10",
+    "contenidos": 10,
+    "numeradosEnLaFuente": true,
+    "carreras": "Abogacía, Traductorado y Calígrafo Público (nombradas en la A- Fundamentación de la sección)",
+    "area": "Ciencias Sociales y Humanas — agrupamiento de este atlas, según el listado de materias por carrera de cbc.uba.ar; el Cap. D no clasifica las materias por orientación."
   },
   "breadcrumb": [
     {
@@ -27,24 +28,24 @@
       "label": "Principios Generales del Derecho Privado"
     }
   ],
-  "eyebrow": "Principios Generales del Derecho Privado · CBC · orientación Sociales y Humanas",
+  "eyebrow": "Principios Generales del Derecho Privado · CBC · Código UBA, Cap. D",
   "title": "El Derecho Privado leído desde el nuevo Código Civil y Comercial.",
-  "lede": "Una introducción a los principios fundamentales del Derecho Privado que emergen del Código Civil y Comercial de la Nación, bajo la perspectiva de la constitucionalización del Derecho Privado. Materia del área requerida por las carreras de Derecho.",
+  "lede": "Una introducción a los principios fundamentales del Derecho Privado que emergen del Código Civil y Comercial de la Nación, bajo la perspectiva de la constitucionalización del Derecho Privado. La Fundamentación la dirige a las carreras de Abogacía, Traductorado y Calígrafo Público.",
   "meta": [
     {
-      "k": "Régimen",
-      "v": "cuatrim.",
-      "small": "de área"
+      "k": "Contenidos",
+      "v": "10",
+      "small": "numerados 1–10"
     },
     {
-      "k": "Unidades",
-      "v": "10",
-      "small": "cont. mín."
+      "k": "Carreras",
+      "v": "Abogacía",
+      "small": "+ Trad. y Calíg."
     },
     {
       "k": "Grounding",
       "v": "L2",
-      "small": "temas ✓ · biblio pend."
+      "small": "temas ✓ · sin biblio"
     },
     {
       "k": "Fuente",
@@ -52,29 +53,29 @@
       "small": "UBA · Cap. D"
     }
   ],
-  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): diez bloques, de las nociones básicas del sistema jurídico y las fuentes del derecho a la persona humana, las obligaciones, el consumidor y la familia. Es materia de la orientación requerida específicamente por Abogacía, Traductorado Público y Calígrafo Público. La bibliografía específica vive en la cátedra y no fue extraída.",
+  "frame": "Contenidos mínimos oficiales (Cap. D del Código UBA): diez bloques numerados, de las nociones de Derecho Romano y las fuentes del derecho a la persona humana, la obligación y la responsabilidad civil, el consumidor y la familia. Su Fundamentación nombra a las carreras de Abogacía, Traductorado y Calígrafo Público. La sección no trae bibliografía.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · las unidades",
       "title": "De qué se trata",
-      "note": "Cada unidad es un bloque de los contenidos mínimos oficiales de la materia, en orden.",
+      "note": "Cada unidad es un contenido mínimo numerado de la fuente; el nombre reúne los temas con los que la fuente lo encabeza, sin agregar ninguno.",
       "map": {
         "mk": "La materia, comprimida",
-        "tree": "PRINCIPIOS GENERALES DEL DERECHO PRIVADO — contenidos mínimos\n│\n├─ 1 · Nociones básicas y constitucionalización\n├─ 2 · Justicia, derecho y legitimidad\n├─ 3 · Las fuentes del derecho\n├─ 4 · La Ley\n├─ 5 · Buena fe, abuso y orden público\n├─ 6 · Derechos y bienes\n├─ 7 · La persona humana\n├─ 8 · Obligaciones y contratos\n├─ 9 · Protección de los consumidores\n└─ 10 · Aspectos jurídicos de la familia",
-        "foot": "Contenidos mínimos del Código UBA (Cap. D). La bibliografía específica vive en la cátedra y aún no fue extraída — es el paso que falta para cerrar L2."
+        "tree": "PRINCIPIOS GENERALES DEL DERECHO PRIVADO — contenidos mínimos\n│\n├─  1 · Nociones de Derecho Romano. Derecho Público y Derecho Privado\n├─  2 · Introducción histórica a la cuestión del concepto de justicia\n├─  3 · Las fuentes del derecho\n├─  4 · La Ley\n├─  5 · El principio de buena fe, el abuso del derecho y el orden público\n├─  6 · Derechos y bienes\n├─  7 · Persona humana: comienzo y fin de su existencia\n├─  8 · Obligación, responsabilidad civil y contratos\n├─  9 · Protección de los consumidores\n└─ 10 · Aspectos jurídicos de la familia",
+        "foot": "Cap. D del Código UBA, C- Contenidos mínimos 1 a 10. La sección no publica bibliografía."
       },
       "exits": [
         {
           "address": "uba.cbc.sociales.derecho-privado.nociones",
-          "name": "Nociones básicas y constitucionalización",
+          "name": "Nociones de Derecho Romano. Derecho Público y Derecho Privado",
           "role": "contenido 1",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.derecho-privado.justicia",
-          "name": "Justicia, derecho y legitimidad",
+          "name": "Introducción histórica a la cuestión del concepto de justicia",
           "role": "contenido 2",
           "tag": "unidad",
           "kind": "unit"
@@ -95,7 +96,7 @@
         },
         {
           "address": "uba.cbc.sociales.derecho-privado.buena-fe",
-          "name": "Buena fe, abuso y orden público",
+          "name": "El principio de buena fe, el abuso del derecho y el orden público",
           "role": "contenido 5",
           "tag": "unidad",
           "kind": "unit"
@@ -109,14 +110,14 @@
         },
         {
           "address": "uba.cbc.sociales.derecho-privado.persona",
-          "name": "La persona humana",
+          "name": "Persona humana: comienzo y fin de su existencia",
           "role": "contenido 7",
           "tag": "unidad",
           "kind": "unit"
         },
         {
           "address": "uba.cbc.sociales.derecho-privado.obligaciones",
-          "name": "Obligaciones y contratos",
+          "name": "Obligación, responsabilidad civil y contratos",
           "role": "contenido 8",
           "tag": "unidad",
           "kind": "unit"

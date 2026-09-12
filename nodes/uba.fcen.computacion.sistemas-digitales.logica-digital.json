@@ -15,7 +15,7 @@
   "title": "Construir y simplificar funciones con compuertas.",
   "lede": "Compuertas lógicas, diseño y optimización de funciones, y mapas de Karnaugh.",
   "meta": [
-    { "k": "Unidad", "v": "3", "small": "de 7" },
+    { "k": "Unidad", "v": "3", "small": "de 5" },
     { "k": "Rol", "v": "unidad", "small": "lógica combinacional" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }

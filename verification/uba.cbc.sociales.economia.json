@@ -1,0 +1,22 @@
+{
+  "address": "uba.cbc.sociales.economia",
+  "source_reachable": true,
+  "units_total": 10,
+  "units_found": 10,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "UNDECLARED SELECTION: Cap. D contains TWO distinct materias named ECONOMÍA (the drawn '05. ECONOMÍA' with 10 contenidos, and a Ciencias-Económicas-block one with 5 contenidos and 72 hs); the node picks one silently",
+    "synthesized number: frame's '(1880-1983)' stitches the source's two separate periods 1880-1976 and 1976-1983",
+    "same three ungrounded metadata fields"
+  ],
+  "omitted": [
+    "the second ECONOMÍA materia — not declared as excluded"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Cleanest exit text of the five: 10/10 literal modulo punctuation. The dual-Economía finding is the one that could make the node WRONG rather than loose.",
+  "wave": "normalizacion-cbc",
+  "date": "2026-08-29",
+  "verifier": "opus-adversarial-refresh"
+}

@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidades": 6 },
+  "metadata": { "regimen": "cuatrimestral", "cargaHoraria": "54 h", "ciclo": "CPC", "unidadesEditoriales": 6, "unidadesNota": "agregación editorial del atlas: el plan no numera unidades" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.der", "label": "Derecho" },
@@ -15,21 +15,21 @@
   "lede": "Materia cuatrimestral del Ciclo Profesional Común. Recorre la noción de derechos humanos desde su evolución y consagración jurídica hasta la práctica de defenderlos: fundamentación teórica, principios e interpretación, clasificación y estructura de los derechos, sistemas de protección internos e internacionales, análisis de jurisprudencia y resolución de casos. Los contenidos mínimos oficiales se organizan en seis unidades.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "54 h" },
-    { "k": "Unidades", "v": "6", "small": "cont. mínimos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Unidades", "v": "6", "small": "agregación editorial de los contenidos mínimos" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Ciclo", "v": "CPC", "small": "común" }
   ],
-  "frame": "Contenidos mínimos oficiales del Texto Ordenado 2023 (Res. CS 818/23), convertidos en unidades. La bibliografía se toma del programa de la cátedra de la Prof. Titular Mónica Pinto.",
+  "frame": "Contenidos mínimos oficiales del PDF citado —el Texto Ordenado 2018 del plan, Resolución (CS) N° 787/18—, agregados por el atlas en seis unidades: el plan no numera unidades, esa partición es editorial. Dato externo tomado de la propia página de derecho.uba.ar: el Consejo Superior aprobó después un Texto Ordenado 2023 (Res. CS N° 818/23), vigente para quienes ingresaron desde 2024; el diff propio de ambos PDF muestra que los contenidos mínimos de esta materia son textualmente idénticos.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · 6 unidades",
       "title": "De la noción a la práctica de los derechos humanos",
-      "note": "Cada unidad agrupa contenidos mínimos oficiales.",
+      "note": "Cada unidad agrupa contenidos mínimos oficiales. La agrupación en seis unidades es del atlas; el plan los publica como bloques de prosa sin numerar.",
       "map": {
         "mk": "El programa, en seis unidades",
         "tree": "DERECHOS HUMANOS Y GARANTÍAS\n│\n├─ Unidad 1 · Noción y fundamentación\n├─ Unidad 2 · Principios e interpretación\n├─ Unidad 3 · Clasificación y estructura\n├─ Unidad 4 · Sistemas de protección\n├─ Unidad 5 · Análisis de jurisprudencia\n└─ Unidad 6 · Práctica y defensa",
-        "foot": "Contenidos mínimos del plan oficial. Bibliografía: programa de la cátedra Pinto."
+        "foot": "Contenidos mínimos del plan oficial (T.O. 2018), agregados en seis unidades por el atlas. Sin bibliografía de cátedra dibujada."
       },
       "exits": [
         { "address": "uba.der.abogacia.ddhh-garantias.nocion-fundamentacion", "name": "Noción y fundamentación de los derechos humanos", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -41,17 +41,17 @@
       ]
     },
     {
-      "kind": "problems",
-      "eyebrow": "Bibliografía · las referencias",
-      "title": "Los textos que asigna",
-      "note": "Bibliografía obligatoria del programa de la cátedra de la Prof. Titular Mónica Pinto (adjunto Leonardo Filippini). El texto central es «Temas de derechos humanos». Fuente: programa de cátedra.",
-      "exits": [
-        { "address": "uba.der.abogacia.ddhh-garantias.pinto-temas", "name": "Mónica Pinto — Temas de derechos humanos", "role": "texto central · Del Puerto 1997", "tag": "libro", "kind": "book" },
-        { "address": "uba.der.abogacia.ddhh-garantias.nikken-concepto", "name": "Pedro Nikken — Sobre el concepto de derechos humanos", "role": "obligatoria", "tag": "texto", "kind": "book" },
-        { "address": "uba.der.abogacia.ddhh-garantias.pinto-discriminacion-violencia", "name": "Mónica Pinto — Discriminación y violencia. Los derechos de las mujeres", "role": "Pensar en Derecho nº 9 · 2017", "tag": "texto", "kind": "book" },
-        { "address": "uba.der.abogacia.ddhh-garantias.abramovich-campo-algodonero", "name": "Víctor Abramovich — Responsabilidad estatal por la violencia de género («Campo Algodonero»)", "role": "Anuario de DDHH · 2010", "tag": "texto", "kind": "book" }
-      ]
+      "kind": "plain",
+      "eyebrow": "Bibliografía · no dibujada",
+      "title": "Bibliografía de cátedra no dibujada",
+      "note": "No hay programa de cátedra citable para esta materia. Lo que circulaba bajo la atribución «cátedra Pinto» es una compilación sintética: un título sin ningún referente localizable y otros tres tomados de dos cursos electivos del CPO ajenos entre sí, reunidos bajo una atribución única que ninguna fuente sostiene. Los rangos docentes que la acompañaban («Prof. Titular», «adjunto») tampoco constan en fuente alguna: el listado de oferta es una grilla de horarios. La oferta CPC del primer cuatrimestre de 2024 lista comisiones de esta materia bajo cinco titulares nombrados —Pinto, Pizzolo, Saba, Travieso y Vinuesa— más comisiones «a designar»: cualquier bibliografía sería la de una cátedra, no la de la materia. Sin programa citable alcanzable, el atlas no dibuja libros: nada se renderiza que no sea verdadero. El nodo queda a nivel L2 sobre los contenidos mínimos del plan, sin capa bibliográfica.",
+      "exits": []
     }
   ],
-  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" }
+  "source": { "label": "derecho.uba.ar · Plan de Estudios Abogacía — Texto Ordenado 2018, Resolución (CS) N° 787/18 (EXP-UBA 45.501/2018) · Contenidos mínimos CPC", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" },
+  "sources": [
+    { "label": "derecho.uba.ar · página de la carrera de Abogacía — allí el PDF citado aparece rotulado «Texto Ordenado 2018 - Resolución (CS) N° 787/18», y la misma página publica por separado el «Texto Ordenado 2023 - Resolución (CS) N° 818/23».", "url": "https://www.derecho.uba.ar/academica/carreras_grado/abogacia.php" },
+    { "label": "derecho.uba.ar · Texto Ordenado 2023 (Res. CS N° 818/23). Dato externo, no es la fuente de este nodo: su propio texto dice que las modificaciones al plan aprobado por Res. (CS) N° 787/18 «comienzan a regir a partir del primer cuatrimestre de 2024». Diff propio de ambos PDF: los contenidos mínimos de esta materia son textualmente idénticos.", "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf" },
+    { "label": "derecho.uba.ar · «Oferta del CPC», primer período lectivo 2024 (tomo 1) — origen del recuento de cátedras que dictan la materia. EXTRAÍDO y verificado (extract/out/cpc_offer.txt, idéntico al PDF vivo).", "url": "https://www.derecho.uba.ar/estudiantes/ofertas/of_24_1S_1-Ab24s1T1/CPC_1S_1_24.pdf" }
+  ]
 }

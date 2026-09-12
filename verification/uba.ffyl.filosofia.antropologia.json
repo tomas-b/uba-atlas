@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.filosofia.antropologia",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 8,
+  "books_found": 8,
+  "not_found": [
+    "'96 hs' and code '-12023' come from the UNCITED Bertorello 2020 program, not the cited 2012 Bonilla doc",
+    "staleness undeclared: cited source is 2012 (interior says 2C 2011), node reads as current",
+    "three unit titles non-literal",
+    "group mislabeled 'obligatoria' where the doc says 'Bibliografía específica'"
+  ],
+  "omitted": [
+    "rest of the per-unit bibliography undeclared"
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "All 8 books traceable with correct roles. Newer program (Bertorello 2020) sits unused on disk."
+}
