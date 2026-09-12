@@ -1,0 +1,1279 @@
+{
+  "address": "uba.ffyl.historia.historia-america-3",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial, con 1 recuperatorio · dos opciones de aprobación: A (80% de asistencia y promedio ≥ 7 sin aplazos) o B (75% de asistencia a prácticos, mínimo 4 en cada instancia, promedio ≥ 4 y < 7, más EXAMEN FINAL)",
+    "cargaHoraria": "96 HORAS (la portada interna imprime «CARGA HORARIA: 96 HORAS»; el apartado E reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0442 / 14015 (así impreso, «CÓDIGO Nº: 0442 / 14015»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE AMERICA III (INDEPENDIENTE) “A”»",
+    "catedra": "«A» — la letra está impresa dos veces en el propio documento, dentro de la línea de materia (portada y encabezado interno), que además difieren entre sí en el acento: «HISTORIA DE AMERICA III (INDEPENDIENTE) “A”» en la portada y «HISTORIA DE AMÉRICA III (INDEPENDIENTE) “A”» en el encabezado interno. La palabra «cátedra» aparece dos veces en el PDF y ninguna designa a esta cátedra: una es la editorial de un asiento bibliográfico («Madrid, Cátedra, 2008») y la otra está dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». La portada consigna «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general del 30% y remite a la página web de la carrera",
+    "equipoDocente": [
+      "PAZ, GUSTAVO L. (portada: «PROFESOR: PAZ, GUSTAVO L.»; equipo: «Profesor Titular: Dr. Gustavo L. Paz»; firma al pie: «Dr. Gustavo L. Paz / Profesor Titular regular»)",
+      "PETRONE, MARIO (Jefe de Trabajos Prácticos · Prof.)",
+      "IMOLESI, MARÍA ELENA (Jefe de Trabajos Prácticos · Dra.)",
+      "HORTON, CARLA (Ayudante de 1ª · Mg.)",
+      "BRANSBOIM, HERNÁN (Ayudante de 1ª · Dr.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "obligatoria del Ciclo de Grado, entre las doce Materias Específicas Obligatorias del Plan 1985 — dato tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "apartados": "A. FUNDAMENTACIÓN Y DESCRIPCION · B. OBJETIVOS · C. CONTENIDOS · D. CRONOGRAMA Y BIBLIOGRAFÍA OBLIGATORIA · D. BIBLIOGRAFIA DE REFERENCIA · E. ORGANIZACIÓN DEL DICTADO DE LA MATERIA · F. ORGANIZACIÓN DE LA EVALUACIÓN — la letra D se usa dos veces y no hay ninguna otra letra entre ambas; «DESCRIPCION» y «BIBLIOGRAFIA» van sin tilde en el original",
+    "unidades": 7,
+    "bloquesSinNumerar": 11,
+    "fuentes": 7,
+    "bibliografia": {
+      "asientosObligatorios": 55,
+      "asientosDeReferencia": 127,
+      "librosDibujados": 146
+    }
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-america-3",
+      "label": "Historia de América III (Independiente)"
+    }
+  ],
+  "eyebrow": "Historia · Historia de América III (Independiente) «A» · Paz · 2º cuatrim. 2026",
+  "title": "Dos siglos buscando un orden.",
+  "lede": "Siete unidades y dos siglos: de la disolución del orden colonial a las transiciones democráticas de los años ochenta, leídos —dice la fundamentación— siguiendo «una secuencia cronológico-analítica» que primero arma el marco regional y después baja a casos nacionales elegidos, para ver cómo procesos análogos salen distintos en cada país. La Parte I es el siglo XIX: la reforma y la crisis de los imperios ibéricos y las independencias de Hispanoamérica y Brasil; después la búsqueda de un orden, con las dimensiones de la ciudadanía, la representación y la legitimidad, la militarización y el caudillismo, las guerras civiles entre liberalismo y conservadurismo y entre centralismo y federalismo, la cuestión indígena y la excepción monárquica brasileña; y por fin el enganche con la economía mundial, el modelo primario exportador, las migraciones, el crecimiento urbano y las repúblicas «oligárquicas». La Parte II es el siglo XX: el eclipse de esas oligarquías entre revolución mexicana y reformismo uruguayo y chileno; la Gran Depresión, la sustitución de importaciones, el nacionalismo, el intervencionismo militar y los populismos —México, Brasil, la Revolución Boliviana—; la Guerra Fría con la revolución cubana y su onda expansiva, el desarrollismo, el cepalismo y la dependencia, la Alianza para el Progreso, las doctrinas de seguridad, el estado burocrático autoritario, el terrorismo de estado y Nicaragua; y el cierre en las transiciones a la democracia, la crisis de la deuda, el ajuste neoliberal y sus resistencias. El apartado de bibliografía agrega, además, once bloques temáticos sin numerar que el apartado de contenidos no lista —México y Brasil por separado, los movimientos campesinos de Villa y Zapata, la revolución cubana, el desarrollismo, las izquierdas— con lecturas obligatorias propias y siete fuentes: la declaración de independencia de Brasil, las leyes de abolición de la esclavitud en Brasil y en Cuba, el Plan de San Luis de Potosí y el Plan de Ayala, un discurso de Vargas y «La historia me absolverá». El curso, avisa, no sigue un libro de texto.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "+ 11 bloques"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "cátedra «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE AMERICA III (INDEPENDIENTE) “A”, Departamento de Historia (FFyL-UBA), cód. 0442 / 14015, Prof. Dr. Gustavo L. Paz, 2º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (12 páginas, con capa de texto nativa, extraído entero), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): la cátedra “A”, PAZ, Gustavo L., 2º cuatrimestre 2026, 12 páginas. NO se dibuja 1 de 2 (50%): la cátedra “B”, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «MATERIA: HISTORIA AMERICA III (INDEPENDIENTE) “B”» —así, sin el «DE»—, «PROFESOR: VOMMARO, PABLO», «CÓDIGO Nº: 0442 / 14015», «RÉGIMEN DE PROMOCIÓN: PD», «CUATRIMESTRE: 1º», «AÑO: 2026», 17 páginas; su URL queda asentada en sources. ATENCIÓN AL NOMBRE DEL ARCHIVO de esa cátedra “B”: el archivo publicado se llama «0442_14015 - HISTORIA DE AMÉRICA III (INDEPENDIENTE) - VOMMARO - 1C 2026.pdf» y NO lleva la letra; la letra “B” consta en la portada del documento, que es de donde se la toma acá —el nombre del archivo, además, escribe «HISTORIA DE AMÉRICA» donde la portada escribe «HISTORIA AMERICA»—. De la cátedra “B” no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades, los bloques y la bibliografía de este nodo son los de la cátedra “A” y de ninguna otra. CÁTEDRA, cómo consta: la letra “A” está impresa dentro de la línea de materia, dos veces —portada, «MATERIA: HISTORIA DE AMERICA III (INDEPENDIENTE) “A”», y encabezado interno, «MATERIA: HISTORIA DE AMÉRICA III (INDEPENDIENTE) “A”»—; las dos líneas difieren entre sí en el acento de «AMÉRICA», que la portada no lleva. El programa no la llama «cátedra A» ni la nombra de otro modo. La palabra «cátedra» aparece exactamente dos veces en el PDF y ninguna designa a esta: una como editorial de un asiento bibliográfico («Madrid, Cátedra, 2008», en Historia de Iberoamérica) y otra dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». DATO CRUZADO: la ubicación de la materia —obligatoria del Ciclo de Grado, entre las doce Materias Específicas Obligatorias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, título propio del curso —la portada consigna solo la línea de materia— y a qué plan corresponde cada uno de los dos códigos: el PDF imprime «0442 / 14015» sin explicar el par. Tampoco declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite, «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción». Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie «Dr. Gustavo L. Paz / Profesor Titular regular». ESTRUCTURA, contada: el apartado C. CONTENIDOS trae SIETE unidades numeradas, repartidas en dos partes —PARTE I - SIGLO XIX. REVOLUCIONES, INDEPENDENCIAS, REORGANIZACIONES (unidades 1 a 3) y PARTE II – SIGLO XX. CRISIS, REORIENTACIONES, REVOLUCIONES (unidades 4 a 7)—. Las siete se dibujan. El apartado D. CRONOGRAMA Y BIBLIOGRAFÍA OBLIGATORIA repite esas siete y AGREGA ONCE BLOQUES MÁS, sin numerar, con bibliografía obligatoria propia, que el apartado C no lista entre sus ítems —aunque alguna de sus frases reaparezca dentro de los encabezados de C, como «las repúblicas oligárquicas» en las unidades 3 y 4—: «Revolución e independencia de América Latina I: México», «Revolución e independencia de América Latina II: Brasil», «La construcción de las repúblicas americanas», «Legitimidad y conflicto en los nuevos estados. Alternativas de los proyectos políticos liberales», «El crecimiento de las economías de exportación y las sociedades latinoamericanas», «Las repúblicas oligárquicas», «Los movimientos campesinos en la Revolución Mexicana», «La depresión de los años 30», «El crecimiento económico de la posguerra y las respuestas populares: la revolución cubana», «El desarrollismo y los regímenes autoritarios» y «Las izquierdas en Latinoamérica». Los once se dibujan como bloques, no como unidades, porque el programa no los numera ni los nombra de ningún modo: NO dice que sean trabajos prácticos ni les pone rótulo alguno —la cadena «práctic» aparece en el PDF solo en los cargos del equipo docente («Jefe de Trabajos Prácticos») y en la pauta reglamentaria del REDEC y del régimen de promoción, nunca encabezando estos bloques—. Nueve de los once arrancan con un punto suelto («. La construcción de las repúblicas americanas»), señal de una numeración que el original no imprime; los dos primeros no lo llevan. El apartado B. OBJETIVOS imprime un objetivo general y cinco específicos; no se dibujan como grupo. CONTRADICCIONES ENTRE EL APARTADO C Y EL APARTADO D, REGISTRADAS Y NO RESUELTAS: los encabezados de las siete unidades no coinciden entre los dos apartados. (1) La unidad 1 fecha «(1770-1825)» en C y «(fines s. XVIII-1825)» en D. (2) La unidad 2 fecha «(1825-1870)» en C y «(1825-1880)» en D. (3) La unidad 3 se titula en C «La integración de las repúblicas latinoamericanas a la economía mundial: el modelo primario exportador. Las repúblicas “oligárquicas” (1870-1910)» y en D «Las economías de exportación y la consolidación de los nuevos estados nacionales (1880-1914)»: cambian a la vez el título y las dos fechas. (4) La unidad 5 se titula en C «La Crisis del 30 y la búsqueda de un nuevo orden (1930-1960)» y en D «El impacto de la Crisis del 30 y la búsqueda de un nuevo equilibrio. Populismo, nacionalismo, militarismo (1930-1960)». (5) La unidad 6 fecha «(1960-1990)» en C y «(1960-1980s)» en D, y la comilla de «Guerra Fría» aparece solo en D. Las unidades 4 y 7 coinciden palabra por palabra. En los nodos de unidad se dibuja el encabezado del apartado C —el de CONTENIDOS— y la versión de D queda asentada acá. (6) Dentro de la propia unidad 6 del apartado C, la Revolución Cubana se enuncia dos veces: «La revolución cubana y su impacto en Latinoamérica» abre el párrafo y «La Revolución Cubana y su impacto en América Latina: la izquierda y la lucha armada» reaparece tres oraciones después. (7) La fundamentación cierra el arco «hasta la doble transición durante la década de 1980» y los objetivos «hasta las transiciones a la democracia de comienzos de los años 1980», mientras la unidad 7 llega a «(1980s-1990s)». ERRATA DE APARTADOS: la letra D se usa dos veces. El programa va A. FUNDAMENTACIÓN Y DESCRIPCION [sin tilde en el original], B. OBJETIVOS, C. CONTENIDOS, D. CRONOGRAMA Y BIBLIOGRAFÍA OBLIGATORIA, D. BIBLIOGRAFIA DE REFERENCIA [sin tilde], E. ORGANIZACIÓN DEL DICTADO DE LA MATERIA, F. ORGANIZACIÓN DE LA EVALUACIÓN. No hay ningún apartado rotulado con otra letra entre los dos D. Acá se los distingue por su nombre, no por su letra. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones — BIBLIOGRAFÍA OBLIGATORIA (primer apartado D): trae 55 asientos bibliográficos, repartidos así. En las siete unidades numeradas, 36: U1 6 · U2 5 · U3 5 · U4 5 · U5 5 · U6 6 · U7 4. En los once bloques sin numerar, 19: México 1 · Brasil 1 · repúblicas americanas 2 · legitimidad y conflicto 1 · economías de exportación 2 · repúblicas oligárquicas 2 · movimientos campesinos 2 · depresión del 30 2 · posguerra y revolución cubana 2 · desarrollismo 2 · izquierdas 2. Aparte de esos 55, el apartado imprime 7 entradas rotuladas «Fuente:» o «Fuentes:», que NO son asientos bibliográficos y no se dibujan como libros: la «Declaración de la Independencia de Brasil», 1821; el «Decreto Lei Aurea – 1888, Lei no 3.353, de 13 de Maio de 1888de abolición de la Esclavitud en Brasil» [«1888de» así impreso] y la «Ley de la abolición de la esclavitud en Cuba - 13 de febrero de 1880», ambas con URL; el «Plan de San Luis de Potosí (Madero, 1910)» y el «Plan de Ayala (Zapata, 1911)»; el discurso de Getulio Vargas en la Segunda Feria Nacional de Industrias, Sao Paulo, 22 de noviembre de 1941; y «La historia me absolverá», de Fidel Castro, 1953. Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades o bloques se unifica en un solo nodo—. NO se dibujan los 11 asientos cuyo contenedor es una revista, un boletín o un sitio web: Pimenta en Nuevo Topo 5 (U1); Collier en el Boletín del Instituto de Historia Argentina y Americana «Dr. E. Ravignani», Tercera Serie, No.1, y Fowler en Estudios de Historia Moderna y Contemporánea de México 38 (U2); Gantús y Salmerón en Historia y Memoria 14 (U3); Knight en Cuadernos Políticos 48 y Caetano en Varia Histórica 37 (73) (U4); Lowenthal en Foro Internacional Vol. L (3-4) (U6); Gazmuri, alojado en «http://www.hist.puc.cl» sin pie editorial (U7); Tutino en Historia Mexicana LIX (1) 233 (bloque México); Bresser Pereira en Nueva Sociedad 210 (bloque desarrollismo); y Sala en la Revista electrónica de estudios latinoamericanos 20 (80) (bloque izquierdas). Quedan 44 asientos con volumen, que al unificar los repetidos dan 37 libros, y 37 son los que se dibujan en el grupo de obligatoria. Los seis volúmenes que reaparecen son Halperin Donghi, Reforma y disolución (U1 y U2); Bethell vol. 7 (dos asientos dentro de la misma U3); Brading, Caudillo/s y campesinos (U4 y el bloque de movimientos campesinos); Fausto, Historia concisa de Brasil (U5, U7 y el bloque de repúblicas oligárquicas — tres veces); Mackinnon y Petrone, Populismo y Neopopulismo (U5 y el bloque de la depresión del 30); y Bethell vol. 9 (U6 y el bloque de repúblicas oligárquicas). Cada uno se dibuja una sola vez, con los capítulos de todas sus apariciones anotados en el nombre. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con volumen queda fuera. CONSECUENCIA REGISTRADA: el bloque «Revolución e independencia de América Latina I: México» no aporta ningún libro —su único asiento es el artículo de Tutino en Historia Mexicana— y el bloque «Las repúblicas oligárquicas» tampoco aporta ninguno nuevo, porque sus dos asientos son reapariciones de Bethell vol. 9 y de Fausto. Ningún asiento se descartó por ilegible. BIBLIOGRAFÍA DE REFERENCIA (segundo apartado D): trae 127 asientos, repartidos en siete encabezados —«Obras generales» 22 · «Unidad 1» 18 · «Unidad 2» 21 · «Unidades 3 y 4» 20 · «Unidad 5» 17 · «Unidades 6 y 7» 19 · «Textos generales de consulta» 10—. Obsérvese que los encabezados de esta sección agrupan las siete unidades en solo cinco rótulos, fusionando 3 con 4 y 6 con 7, y que ninguno de los once bloques sin numerar tiene aquí rótulo propio. De los 127 asientos, 1 es de revista y no se dibuja: Ludolfo Paramio, «Las dimensiones políticas de las reformas económicas en América Latina», en Zona Abierta, No. 88/89, 1999. Quedan 126 asientos con volumen. Dos volúmenes están asentados dos veces DENTRO de esta misma sección —Bulmer-Thomas, La historia económica de América Latina desde la Independencia, en «Obras generales» y otra vez en «Textos generales de consulta» con el nombre y el pie reordenados; y Carvalho, Desenvolvimiento de la ciudadanía en Brasil, en «Obras generales» y otra vez en «Unidad 5», idénticos—, de modo que los 126 asientos son 124 volúmenes distintos. De esos 124, QUINCE ya estaban dibujados desde la bibliografía obligatoria y se unifican con su nodo existente en lugar de duplicarse: Halperin (Reforma y disolución), Annino (Historia de las elecciones), González Bernaldo (Independencias iberoamericanas), Guerra (Modernidad e independencias), Sabato (Ciudadanía política) y Sabato (Repúblicas del Nuevo Mundo), Vázquez / AA.VV. (Historia General de América Latina), Drinot y Knight (La Gran Depresión), Mackinnon y Petrone (Populismo y Neopopulismo), Collier (El nuevo autoritarismo), Jaksic y Posada Carbó (Liberalismo y poder), Walker (De Túpac Amaru a Gamarra), Moreno Fraginals (La historia como arma), Womack (Zapata y la Revolución mexicana) y Carvalho (Desenvolvimiento de la ciudadanía). Quedan 109 volúmenes nuevos, y 109 son los que se dibujan en el grupo de referencia. TOTAL DIBUJADO: 37 + 109 = 146 libros, de 182 asientos bibliográficos impresos en las dos secciones (55 + 127). CONTRADICCIONES BIBLIOGRÁFICAS DEL PROPIO PDF, REGISTRADAS Y NO RESUELTAS: (a) Brading — la unidad 4 asigna las páginas 32-85 del volumen al capítulo de Alan Knight, «Caudillos y campesinos en el México revolucionario, 1910-1917», y el bloque «Los movimientos campesinos en la Revolución Mexicana» asigna EXACTAMENTE las mismas páginas 32-85 del mismo volumen al capítulo de Friederich Katz, «Pancho Villa, los movimientos campesinos y la reforma agraria en el norte de México»; además el volumen se titula «Caudillo y campesinos» en U4 y «Caudillos y campesinos» en el bloque, y el editor es «David Brading» en uno y «D.A. Brading» en el otro. (b) Fausto — el mismo libro aparece tres veces con tres pies distintos: «Historia concisa de Brasil Buenos Aires, F.C:E., 2003» (U5, con dos puntos en «F.C:E.»), «Historia concisa del Brasil, México, FCE, 2003» (U7) e «Historia concisa de Brasil, Buenos Aires, FCE, 2003» (bloque de repúblicas oligárquicas). (c) Mackinnon y Petrone — «Buenos Aires, Eudeba, 1999» en U5 y en la referencia, «Buenos Aires: Eudeba, 1998» en el bloque de la depresión del 30. (d) Walker, De Túpac Amaru a Gamarra — «Lima, IEP, 2021» en la obligatoria y «Cusco: Centro de Estudios Regionales Andinos Bartolomé de Las Casas, 2004» en la referencia. (e) Carvalho, Desenvolvimiento de la ciudadanía en Brasil — «José Murillo de Carvalho … México, FCE, 1992» en la obligatoria y «José Murilo de Carvalho … México, F.C.E., 1995» en la referencia, dos veces. (f) Sabato, Repúblicas del Nuevo Mundo — «El experimento político latinoamericano del siglo XIX» en la obligatoria, «El experimento republicano latinoamericano del siglo XIX» en la referencia. (g) Historia General de América Latina — «Josefina Zoraida Vázquez (dir.), Madrid, Unesco/Trotta, 1999» en la obligatoria, «AA. VV. … Ediciones UNESCO/ Editorial Trotta (9 volúmenes)», sin director y sin año, en la referencia. (h) Colección Bethell — la referencia asienta la obra completa, «Crítica, Barcelona, 1991-2002. (16 volúmenes)», mientras la obligatoria cita cuatro volúmenes sueltos con pies que no concuerdan: vol. 7 sin editorial ni año, vol. 9 sin editorial ni año en U6 pero «Barcelona, Crítica, 1997» en el bloque de repúblicas oligárquicas, «tomo 10, Barcelona, Crítica, 1992» —único que dice «tomo»— y vol. 12 sin editorial ni año; los cuatro volúmenes se dibujan por separado y la colección, por separado también. (i) Weffort — la obligatoria lo cita «Weffort, E.» y la referencia «Francisco Weffort». (j) Collier — «(comp.)» en la obligatoria, «(ed.)» en la referencia. (k) Annino — «(coord.)» en la obligatoria, «(comp.)» en la referencia. ASIENTOS INCOMPLETOS, declarados y no completados: Bethell vol. 7, vol. 9 (en U6) y vol. 12 no consignan editorial ni año; Sabato (coord.), Ciudadanía política y Collier (comp.), El nuevo autoritarismo no consignan pie editorial en la obligatoria —solo en la referencia—; Pérez-Stable, La revolución cubana, «Madrid, Colibrí» sin año; Womack, Zapata y la Revolución mexicana, «México, 1969» sin editorial; Reis, Rebeliao escrava no Brasil, «Sao Paulo, 1986)» sin editorial y con un paréntesis que nunca abrió; el asiento de O'Donnell imprime «(ed.)» sin nombrar a nadie y deja la comilla del título de capítulo sin cerrar; González Casanova en U6 da páginas (169-221) pero no título de capítulo; La Revolución de las mujeres en México no nombra editor/a; del Alcázar Garrido (en el bloque de las izquierdas) no da páginas de capítulo; y Viotti da Costa en el bloque de legitimidad no consigna páginas. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «F.C:E.» con dos puntos (Fausto, U5); «Capitulo» y «capitulo» sin tilde (Klein, Knight, Moniz Bandeira); «La primera Republica (1889-1930)» sin tilde y con paréntesis y comilla que nunca se cierran (bloque de repúblicas oligárquicas); «Kirstern Schultz» y «Friederich Katz» —la referencia escribe «Friedrich Katz»—; «Luigi Mascilli Miglorini»; «México bajo la dictadura porfirana» (referencia, Unidades 3 y 4); «Buenos Aires., Sudamericana» y «México, El Colegio de México., 1992», con punto sobrante antes de la coma; «Alain Rouquie» y «Emece» sin tilde; «Mexico» sin tilde en el asiento de Bulmer-Thomas y en el de Lowenthal; «Estados Unidos y America Latina» sin tilde en Lowenthal; «1888de» pegado en la fuente del Lei Aurea; «Mexico´s» con acento agudo en lugar de apóstrofo (Guardino); el apartado F abre paréntesis y no lo cierra, «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»; y la portada escribe «HISTORIA DE AMERICA III» sin tilde mientras el encabezado interno escribe «HISTORIA DE AMÉRICA III». Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala al final del apartado B, antes del encabezado del apartado C; el encabezado «PARTE II –» queda partido de su continuación «SIGLO XX. CRISIS, REORIENTACIONES, REVOLUCIONES» por el salto de línea; y varios títulos largos quedan cortados por el salto de línea («Fórmula para el caos: La caída de Salvador Allende (1970- 1973)», «Problemas de la mano de obra en América / Latina»). Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades (cátedra “A”, Paz, 2º cuatrim. 2026)",
+      "title": "Del derrumbe imperial a la transición democrática",
+      "note": "Las siete unidades numeradas del apartado C. CONTENIDOS, en el orden impreso y con su encabezado del apartado C. El apartado D las repite con encabezados que NO coinciden: cambian fechas en las unidades 1, 2, 3 y 6 y el título en las unidades 3 y 5. Las divergencias quedan asentadas una por una en el frame.",
+      "map": {
+        "mk": "El programa, en dos partes y siete unidades",
+        "tree": "HISTORIA DE AMÉRICA III (INDEPENDIENTE) “A” · cód. 0442 / 14015\nPaz · 2º cuatrim. 2026 · 96 hs · PD\n│\n├─ PARTE I · SIGLO XIX. REVOLUCIONES, INDEPENDENCIAS, REORGANIZACIONES\n│  ├─ 1 · Reorganización y crisis imperiales. Revoluciones e independencias\n│  │      reforma y crisis de los imperios ibéricos\n│  │      independencia en Hispanoamérica y Brasil · (1770-1825 / «fines s. XVIII-1825»)\n│  ├─ 2 · En busca de un orden. La construcción de las naciones\n│  │      ciudadanía, representación y legitimidad · militarización y caudillismo\n│  │      liberalismo y conservadurismo · la cuestión indígena · el Brasil monárquico\n│  └─ 3 · La integración a la economía mundial y las repúblicas «oligárquicas»\n│         modelo primario exportador · migraciones · crecimiento urbano\n│         (1870-1910 en Contenidos / 1880-1914 en Bibliografía)\n│\n├─ PARTE II · SIGLO XX. CRISIS, REORIENTACIONES, REVOLUCIONES\n│  ├─ 4 · Los desafíos a las repúblicas oligárquicas: reforma y revolución\n│  │      eclipse de las oligarquías · revolución mexicana\n│  │      reformismo social y político (Uruguay y Chile) · (1910-1930)\n│  ├─ 5 · La Crisis del 30 y la búsqueda de un nuevo orden\n│  │      Gran Depresión · sustitución de importaciones · nacionalismo\n│  │      populismos: los casos mexicano y brasileño · la Revolución Boliviana\n│  ├─ 6 · América Latina durante la Guerra Fría\n│  │      revolución cubana · desarrollismo, cepalismo, dependencia\n│  │      Alianza para el Progreso · estado burocrático autoritario · Nicaragua\n│  │      (1960-1990 en Contenidos / 1960-1980s en Bibliografía)\n│  └─ 7 · Transiciones políticas y reestructuración económica\n│         transiciones a la democracia · crisis de la deuda externa\n│         ajuste y neoliberalismo · resistencias · (1980s-1990s)\n│\n└─ 11 BLOQUES SIN NUMERAR, solo en el apartado D\n       México · Brasil · las repúblicas americanas · legitimidad y conflicto\n       economías de exportación · repúblicas oligárquicas · campesinos y Villa\n       la depresión del 30 · la revolución cubana · desarrollismo · las izquierdas\n       traen bibliografía obligatoria propia y 7 «Fuentes»; el apartado C no los lista",
+        "foot": "Esta materia publica dos programas para 2026: la cátedra “A” (Paz, 2º cuatrimestre) y la cátedra “B” (Vommaro, 1º cuatrimestre). Acá se dibuja solo la “A”; de la “B” únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u1-reorganizacion-y-crisis-imperiales",
+          "name": "Reorganización y crisis imperiales. Revoluciones e independencias (1770-1825)",
+          "role": "Unidad 1 · Parte I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u2-en-busca-de-un-orden",
+          "name": "En busca de un orden. La construcción de las naciones latinoamericanas (1825-1870)",
+          "role": "Unidad 2 · Parte I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u3-la-integracion-a-la-economia-mundial-y-las-republicas-oligarquicas",
+          "name": "La integración de las repúblicas latinoamericanas a la economía mundial: el modelo primario exportador. Las repúblicas “oligárquicas” (1870-1910)",
+          "role": "Unidad 3 · Parte I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u4-los-desafios-a-las-republicas-oligarquicas",
+          "name": "Los desafíos a las repúblicas oligárquicas: reforma y revolución (1910-1930)",
+          "role": "Unidad 4 · Parte II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u5-la-crisis-del-30-y-la-busqueda-de-un-nuevo-orden",
+          "name": "La Crisis del 30 y la búsqueda de un nuevo orden (1930-1960)",
+          "role": "Unidad 5 · Parte II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u6-america-latina-durante-la-guerra-fria",
+          "name": "América Latina durante la Guerra Fría (1960-1990)",
+          "role": "Unidad 6 · Parte II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.u7-transiciones-politicas-y-reestructuracion-economica",
+          "name": "Transiciones políticas y reestructuración económica (1980s-1990s)",
+          "role": "Unidad 7 · Parte II",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Los 11 bloques sin numerar · solo en el apartado D",
+      "title": "Lo que la bibliografía agrega y los contenidos no listan",
+      "note": "Once bloques temáticos que aparecen únicamente en el apartado D. CRONOGRAMA Y BIBLIOGRAFÍA OBLIGATORIA, con bibliografía obligatoria propia y siete «Fuentes». El apartado C. CONTENIDOS no los lista entre sus ítems. El programa NO los numera ni los rotula: no dice que sean trabajos prácticos ni les da nombre de categoría; nueve de los once arrancan con un punto suelto, señal de una numeración que el original no imprime. Se los dibuja como bloques, con su encabezado literal, salvo el punto final que tres de ellos sí imprimen —«Revolución e independencia de América Latina I: México.», «El crecimiento económico de la posguerra y las respuestas populares: la revolución cubana.» y «El desarrollismo y los regímenes autoritarios.»— y que acá no se reproduce.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-revolucion-e-independencia-i-mexico",
+          "name": "Revolución e independencia de América Latina I: México",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-revolucion-e-independencia-ii-brasil",
+          "name": "Revolución e independencia de América Latina II: Brasil",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-la-construccion-de-las-republicas-americanas",
+          "name": "La construcción de las repúblicas americanas",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-legitimidad-y-conflicto-en-los-nuevos-estados",
+          "name": "Legitimidad y conflicto en los nuevos estados. Alternativas de los proyectos políticos liberales",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-el-crecimiento-de-las-economias-de-exportacion",
+          "name": "El crecimiento de las economías de exportación y las sociedades latinoamericanas",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-las-republicas-oligarquicas",
+          "name": "Las repúblicas oligárquicas",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-los-movimientos-campesinos-en-la-revolucion-mexicana",
+          "name": "Los movimientos campesinos en la Revolución Mexicana",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-la-depresion-de-los-anos-30",
+          "name": "La depresión de los años 30",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-el-crecimiento-economico-de-la-posguerra-y-la-revolucion-cubana",
+          "name": "El crecimiento económico de la posguerra y las respuestas populares: la revolución cubana",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-el-desarrollismo-y-los-regimenes-autoritarios",
+          "name": "El desarrollismo y los regímenes autoritarios",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.bloque-las-izquierdas-en-latinoamerica",
+          "name": "Las izquierdas en Latinoamérica",
+          "role": "bloque sin numerar · solo en el apartado D",
+          "tag": "bloque",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 37 volúmenes con pie editorial de los 55 asientos del apartado D. CRONOGRAMA Y BIBLIOGRAFÍA OBLIGATORIA, por unidad y por bloque. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece se unifica en un solo nodo (Halperin, Bethell vol. 7, Brading, Fausto, Mackinnon y Petrone, Bethell vol. 9). No se dibujan los 11 asientos de revista, boletín o sitio web, ni las 7 «Fuentes»: quedan declarados uno por uno en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-halperin-reforma-y-disolucion",
+          "name": "Reforma y disolución de los imperios ibéricos — Tulio Halperin Donghi (Madrid, Alianza, 1985) · Presentación y Parte 1 (U1); Capítulos 6 y 7 (U2) · en la bibliografía de referencia el mismo volumen se imprime con fechas en el título, «Reforma y disolución de los imperios ibéricos, 1750-1850, Madrid, Alianza Editorial, 1985»",
+          "role": "obligatoria · U1 y U2 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-annino-historia-de-las-elecciones-en-iberoamerica",
+          "name": "Historia de las elecciones en Iberoamérica. Siglo XIX — Antonio Annino (coord.) (Buenos Aires, FCE, 1993) · Annino, «Cádiz y la revolución territorial de los pueblos mexicanos, 1812-1821», 177-226 · en la bibliografía de referencia el mismo volumen se imprime sin el subtítulo y con «(comp.)» en lugar de «(coord.)»",
+          "role": "obligatoria · U1 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gonzalez-bernaldo-independencias-iberoamericanas",
+          "name": "Independencias iberoamericanas. Nuevos problemas y aproximaciones — Pilar González Bernaldo de Quirós (dir.) (Buenos Aires, FCE, 2015) · Jeremy Adelman, «Una era de revoluciones imperiales», 53-86",
+          "role": "obligatoria · U1 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-di-francesco-entre-mediterraneo-y-atlantico",
+          "name": "Entre Mediterráneo y Atlántico. Circulaciones, conexiones y miradas — Antonino di Francesco, Luigi Mascilli Miglorini y Raffaele Nocera (coords.) (Santiago, FCE, 2014) · David Geggus, «La revolución de Santo Domingo», 225-239",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-guerra-modernidad-e-independencias",
+          "name": "Modernidad e independencias. Ensayos sobre las revoluciones hispánicas — François Xavier Guerra (Madrid, Mapfre, 1992) · Capítulo IV · en la bibliografía de referencia el mismo volumen se imprime sin subtítulo y con el nombre guionado, «François-Xavier Guerra»",
+          "role": "obligatoria · U1 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-sabato-ciudadania-politica-y-formacion-de-las-naciones",
+          "name": "Ciudadanía política y formación de las naciones. Perspectivas históricas de América Latina — Hilda Sabato (coord.) · François Xavier Guerra, «El soberano y su reino. Reflexiones sobre la génesis del ciudadano en América Latina», 33-61 · el asiento obligatorio NO consigna pie editorial; la bibliografía de referencia del mismo PDF sí lo imprime, «México, F.C.E., 1999»",
+          "role": "obligatoria · U2 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-sabato-republicas-del-nuevo-mundo",
+          "name": "Repúblicas del Nuevo Mundo. El experimento político latinoamericano del siglo XIX — Hilda Sabato (Buenos Aires, Taurus, 2021) · Capítulos 1 y 2 · la bibliografía de referencia del mismo PDF imprime el subtítulo distinto: «Republicas del nuevo mundo. El experimento republicano latinoamericano del siglo XIX»",
+          "role": "obligatoria · U2 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-garner-porfirio-diaz",
+          "name": "Porfirio Díaz: entre el mito y la historia — Paul Garner (México, Era, 2015) · Capítulo 4",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bethell-historia-de-america-latina-vol-7",
+          "name": "Historia de América Latina, vol. 7 — Leslie Bethell (ed.) (el asiento no consigna editorial ni año) · William Glade, «América Latina y la economía internacional, 1870-1914», pp. 1-49; y Michael M. Hall y Hobart Spalding, «Las clases trabajadoras urbanas y los primeros movimientos obreros de América Latina, 1880-1930», pp. 281-315",
+          "role": "obligatoria · U3 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-vazquez-historia-general-de-america-latina",
+          "name": "Historia General de América Latina — Josefina Zoraida Vázquez (dir.) (Madrid, Unesco/Trotta, 1999) · Florencia Mallon, «Las sociedades indígenas frente al nuevo orden», capítulo 9 · la bibliografía de referencia imprime la misma obra sin director y sin año, «AA. VV. Historia General de América Latina, Ediciones UNESCO/ Editorial Trotta (9 volúmenes)»",
+          "role": "obligatoria · U3 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-brading-caudillos-y-campesinos-en-la-revolucion-mexicana",
+          "name": "Caudillo y campesinos en la Revolución Mexicana [así impreso en U4; el bloque «Los movimientos campesinos…» lo imprime «Caudillos y campesinos»] — David Brading (ed.) (México, FCE, 1980) · Alan Knight, «Caudillos y campesinos en el México revolucionario, 1910-1917», 32-85 (U4); Friederich Katz, «Pancho Villa, los movimientos campesinos y la reforma agraria en el norte de México», pp. 32-85 (bloque, sin pie editorial y con «D.A. Brading (ed.)») — el programa asigna EL MISMO rango de páginas 32-85 a dos capítulos distintos",
+          "role": "obligatoria · U4 y bloque «Los movimientos campesinos…»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-aguilar-camin-meyer-a-la-sombra-de-la-revolucion-mexicana",
+          "name": "A la sombra de la Revolución Mexicana — Héctor Aguilar Camín y Lorenzo Meyer (México, Cal y Arena, 1990) · Capítulos 1 y 2",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-la-revolucion-de-las-mujeres-en-mexico",
+          "name": "La Revolución de las mujeres en México — (el asiento no nombra editor/a ni compilador/a) (México, IEHRM, 2014) · Gabriela Cano, «Sufragio femenino en el México posrevolucionario», 33-45",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-fausto-historia-concisa-de-brasil",
+          "name": "Historia concisa de Brasil — Boris Fausto (2003) · Capítulo 4, «El Estado getulista (1930-1945)» (U5, impreso «Buenos Aires, F.C:E., 2003»); Capítulo 6, «El régimen militar y la transición a la democracia 1964-1984» (U7, impreso «Historia concisa del Brasil, México, FCE, 2003»); Capítulo 3, «La primera Republica (1889-1930)» (bloque «Las repúblicas oligárquicas», impreso «Buenos Aires, FCE, 2003») — las tres apariciones se contradicen en título y lugar de edición y así quedan",
+          "role": "obligatoria · U5, U7 y bloque «Las repúblicas oligárquicas»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-klein-historia-de-bolivia",
+          "name": "Historia de Bolivia — Herbert Klein (La Paz: Juventud, 1986) · «Capitulo VII: “La revolución nacional, 1952-1964”» [«Capitulo» así impreso, sin tilde]",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-drinot-knight-la-gran-depresion-en-america-latina",
+          "name": "La Gran Depresión en América Latina — Paulo Drinot y Alan Knight (comps.) (México, FCE, 2015) · Alan Knight, «Panorama general de la Gran Depresión en América Latina», capitulo X [así impreso, sin tilde]",
+          "role": "obligatoria · U5 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-lucena-samoral-historia-de-iberoamerica",
+          "name": "Historia de Iberoamérica, Tomo III — Manuel Lucena Samoral (Coord.) (Madrid, Cátedra, 2008) · Hans Joachim König, «El intervencionismo norteamericano en Iberoamérica», 405-453",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-mackinnon-petrone-populismo-y-neopopulismo",
+          "name": "Populismo y Neopopulismo en América Latina: el problema de la cenicienta — Moira Mackinnon y Mario Alberto Petrone (comp.) (Buenos Aires, Eudeba, 1999) · Introducción y capítulos de Alan Knight, «El cardenismo: ¿coloso o catramina?» y Thomas E. Skidmore, «Una nueva era de Vargas, 1951-1954» (U5); E. Weffort, «El populismo en la política brasileña», pp. 135-152 (bloque «La depresión de los años 30», donde el mismo volumen se imprime «Populismo y neopopulismo en América Latina, el problema de la cenicienta, Buenos Aires: Eudeba, 1998» — AÑO CONTRADICTORIO 1999/1998)",
+          "role": "obligatoria · U5 y bloque «La depresión de los años 30» · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-collier-el-nuevo-autoritarismo-en-america-latina",
+          "name": "El nuevo autoritarismo en América Latina — David Collier (comp.) · David Collier, «Visión general del modelo burocrático autoritario», 25-38 · el asiento obligatorio NO consigna pie editorial; la bibliografía de referencia del mismo PDF lo imprime «David Collier (ed.) … México, FCE., 1985»",
+          "role": "obligatoria · U6 · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gonzalez-casanova-el-estado-y-los-partidos-politicos-en-mexico",
+          "name": "El Estado y los partidos políticos en México — Pablo González Casanova (México, ERA, 1986) · pp. 169-221 (el asiento no da título de capítulo)",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-moniz-bandeira-formula-para-el-caos",
+          "name": "Fórmula para el caos: La caída de Salvador Allende (1970- 1973) — Luis Alberto Moniz Bandeira (Santiago de Chile, Random House Mondadori, 2009) · Capítulos 7 y 8",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-perez-stable-la-revolucion-cubana",
+          "name": "La revolución cubana. Orígenes, desarrollo y legado — Marifeli Pérez-Stable (Madrid, Colibrí; el programa no consigna año) · Capítulos 2, 3 y 4",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bethell-historia-de-america-latina-vol-9",
+          "name": "Historia de América Latina, vol. 9 — Leslie Bethell (ed.) · Alain Rouquié, «Los militares y la política en América Latina desde 1930», 247-270 (U6, asiento sin editorial ni año y con «Leslie Bethell» sin «(ed.)»); Friederich Katz, «México: la restauración de la república y el porfiriato, 1867-1910», 13-77 (bloque «Las repúblicas oligárquicas», impreso «Barcelona, Crítica, 1997, vol. 9»)",
+          "role": "obligatoria · U6 y bloque «Las repúblicas oligárquicas»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-odonnell-estado-y-politica-en-america-latina",
+          "name": "Estado y política en América Latina — (el asiento imprime «(ed.)» sin nombrar editor/a) (México: Siglo XXI, 1981) · Guillermo O'Donnell, «Las fuerzas armadas y el Estado Autoritario del Cono Sur de América Latina, 199-235 [la comilla de apertura del título de capítulo nunca se cierra en el original]",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bethell-historia-de-america-latina-vol-12",
+          "name": "Historia de América Latina, vol. 12 — Leslie Bethell (ed.) (el asiento no consigna editorial ni año) · Alan Angell, «La izquierda en América Latina desde c. 1920», pp. 73-131",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rodriguez-revolucion-independencia-y-las-nuevas-naciones-de-america",
+          "name": "Revolución, independencia y las nuevas naciones de América — Jaime E. Rodríguez O. (Coord.) (Madrid, MAPFRE, 2005) · Kirstern Schultz, «La independencia de Brasil, la ciudadanía y el problema de la esclavitud: A Assembléia Constituinte de 1823», 425-450",
+          "role": "obligatoria · bloque «Revolución e independencia II: Brasil»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-jaksic-posada-carbo-liberalismo-y-poder",
+          "name": "Liberalismo y poder. Latinoamérica en el siglo XIX — Iván Jaksic y Eduardo Posada Carbó (eds.) (Santiago de Chile, FCE, 2011) · José Antonio Aguilar Rivera, «Tres momentos liberales en México (1820-1890)», 119-152",
+          "role": "obligatoria · bloque «La construcción de las repúblicas americanas» · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-walker-de-tupac-amaru-a-gamarra",
+          "name": "De Túpac Amaru a Gamarra — Charles Walker (Lima, IEP, 2021) · Capítulo 5: «El ángel negro del Cusco: Agustín Gamarra y la creación del estado republicano» · la bibliografía de referencia del mismo PDF imprime otro pie editorial para la misma obra: «Charles F. Walker, De Túpac Amaru a Gamarra. Cusco: Centro de Estudios Regionales Andinos Bartolomé de Las Casas, 2004»",
+          "role": "obligatoria · bloque «La construcción de las repúblicas americanas» · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bethell-historia-de-america-latina-tomo-10",
+          "name": "Historia de América Latina, tomo 10 — Leslie Bethell (ed.) (Barcelona, Crítica, 1992) · Emilia Viotti da Costa, «Brasil en la era de la Reforma, 1870-1889» · único asiento de la colección Bethell que dice «tomo» y no «vol.»",
+          "role": "obligatoria · bloque «Legitimidad y conflicto en los nuevos estados»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-sanchez-albornoz-problemas-de-la-mano-de-obra",
+          "name": "Problemas de la mano de obra en América Latina — Nicolás Sánchez Albornoz (Madrid, Alianza, 1985) · José de Souza Martins, «Del esclavo al asalariado en las haciendas de café en la génesis del trabajador volante», 229-257",
+          "role": "obligatoria · bloque «El crecimiento de las economías de exportación»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-moreno-fraginals-la-historia-como-arma",
+          "name": "La historia como arma — Manuel Moreno Fraginals (Barcelona, Crítica, 1983) · «Plantaciones en el Caribe: el caso de Cuba - Puerto Rico - Santo Domingo (1860-1940)», 56-117",
+          "role": "obligatoria · bloque «El crecimiento de las economías de exportación» · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-womack-zapata-y-la-revolucion-mexicana",
+          "name": "Zapata y la Revolución mexicana — John Womack (México, 1969; el asiento no consigna editorial) · Capítulo 8, «Los pueblos claman revolución»",
+          "role": "obligatoria · bloque «Los movimientos campesinos en la Revolución Mexicana» · + referencia",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-hamilton-mexico-los-limites-de-la-autonomia-del-estado",
+          "name": "México. Los límites de la autonomía del Estado — Nora Hamilton (México: ERA, 1982) · cap. 4",
+          "role": "obligatoria · bloque «La depresión de los años 30»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-moniz-bandeira-de-marti-a-fidel",
+          "name": "De Martí a Fidel. La revolución Cubana y América Latina — Luis Alberto Moniz Bandeira (Buenos Aires, Norma, 2008) · Capitulo 10 [así impreso, sin tilde]",
+          "role": "obligatoria · bloque «El crecimiento económico de la posguerra…»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rojas-historia-minima-de-la-revolucion-cubana",
+          "name": "Historia Mínima de la Revolución Cubana — Rafael Rojas (México, El Colegio de México, 2015) · Capítulos «El antiguo régimen» y «La dictadura»",
+          "role": "obligatoria · bloque «El crecimiento económico de la posguerra…»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-carvalho-desenvolvimiento-de-la-ciudadania-en-brasil",
+          "name": "Desenvolvimiento de la ciudadanía en Brasil — José Murillo de Carvalho (México, FCE, 1992) · Capítulo 8, «Retroceso y represión política, 1964-1974» · la bibliografía de referencia del mismo PDF lo imprime DOS veces, con otro año y otra grafía del nombre: «José Murilo de Carvalho … México, F.C.E., 1995»",
+          "role": "obligatoria · bloque «El desarrollismo y los regímenes autoritarios» · + referencia (×2)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-del-alcazar-historia-actual-de-america-latina",
+          "name": "Historia actual de América latina, 1959-2009 — Joan del Alcázar (ed.) (Valencia, Tirant lo Blanch, 2010) · Joan del Alcázar Garrido y Sergio López Rivero, «Fuego cruzado. Guerrillas, dictaduras militares y violaciones masivas de los derechos humanos en época de guerra fría»",
+          "role": "obligatoria · bloque «Las izquierdas en Latinoamérica»",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía de referencia del programa · volúmenes",
+      "title": "Lo que se puede leer",
+      "note": "Los 109 volúmenes nuevos de los 127 asientos del segundo apartado D. BIBLIOGRAFIA DE REFERENCIA, bajo los siete encabezados que el programa imprime («Obras generales», «Unidad 1», «Unidad 2», «Unidades 3 y 4», «Unidad 5», «Unidades 6 y 7», «Textos generales de consulta»). No se dibuja el único asiento de revista (Paramio, en Zona Abierta); dos volúmenes están asentados dos veces dentro de la propia sección y se unifican; y quince ya venían dibujados desde la bibliografía obligatoria, así que se unifican con su nodo de allá en lugar de duplicarse. La cuenta completa está en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bertola-ocampo-el-desarrollo-economico-de-america-latina",
+          "name": "El desarrollo económico de América Latina desde la Independencia — Luis Bértola y José Antonio Ocampo (México, FCE, 2013)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bulmer-thomas-la-historia-economica-de-america-latina",
+          "name": "La Historia económica de América Latina desde la Independencia — Victor Bulmer-Thomas (Mexico, FCE, 1998) · el PDF lo imprime dos veces, en «Obras generales» y otra vez en «Textos generales de consulta» como «Bulmer-Thomas, Víctor, La historia económica de América Latina desde la Independencia, F.C.E., México, 1998»",
+          "role": "referencia · Obras generales y Textos generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-carmagnani-federalismos-latinoamericanos",
+          "name": "Federalismos latinoamericanos: México/ Brasil/ Argentina — Marcello Carmagnani (coord.) (México, F.C.E., 1993)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cardoso-perez-brignoli-historia-economica-de-america-latina",
+          "name": "Historia económica de América Latina, 1. Sistemas agrarios e historia colonial. 2. Economías de exportación y desarrollo capitalista — Ciro Cardoso y Héctor Pérez Brignoli (Barcelona, Crítica, 1979)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cardoso-faletto-dependencia-y-desarrollo",
+          "name": "Dependencia y desarrollo en América Latina — Fernando Henrique Cardoso y Enzo Faletto (México, Siglo XXI, 1969)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-deves-valdes-el-pensamiento-latinoamericano",
+          "name": "El pensamiento latinoamericano en el siglo XX — Eduardo Devés Valdés (Buenos Aires, Biblos, 2003)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-di-tella-historia-de-los-partidos-politicos",
+          "name": "Historia de los partidos políticos en América Latina, siglo XX — Torcuato S. Di Tella (Buenos Aires, F.C.E., 1993)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-duncan-rutledge-la-tierra-y-la-mano-de-obra",
+          "name": "La tierra y la mano de obra en América Latina — Kenneth Duncan e Ian Rutledge (comps.) (México, FCE, 1977)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-florescano-etnia-estado-y-nacion",
+          "name": "Etnia, estado y nación: ensayo sobre las identidades colectivas en México — Enrique Florescano (México, Aguilar, 1997)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-funes-america-latina-planteos-problemas-preguntas",
+          "name": "América Latina: Planteos, Problemas, Preguntas — Patricia Funes (comp.) (Buenos Aires, Manuel Suárez Editor, 1992)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gonzalez-casanova-america-latina-historia-de-medio-siglo",
+          "name": "América Latina: historia de medio siglo. 1. América del Sur. 2. México, Centroamérica y el Caribe — Pablo González-Casanova (coord.) (México, Siglo XXI, 1977-1981)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gonzalez-casanova-historia-politica-de-los-campesinos",
+          "name": "Historia política de los campesinos latinoamericanos — Pablo González Casanova (comp.) (México, Siglo XXI, 1985)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gonzalez-casanova-historia-del-movimiento-obrero",
+          "name": "Historia del movimiento obrero en América Latina — Pablo González Casanova (coord.) (México, Siglo XXI, 1984-1985, 4 volúmenes)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rapoport-cervo-el-cono-sur",
+          "name": "El Cono Sur (Una historia común) — Mario Rapoport y Amado Luiz Cervo (Buenos Aires, Fondo de Cultura Económica, 2002)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-romero-latinoamerica-las-ciudades-y-las-ideas",
+          "name": "Latinoamérica: las ciudades y las ideas — José Luis Romero (Buenos Aires, Siglo XXI, 1976)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-romero-situaciones-e-ideologias-en-latinoamerica",
+          "name": "Situaciones e ideologías en Latinoamérica — José Luis Romero (Buenos Aires., Sudamericana, 1986) [«Aires.,» así impreso]",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-sanchez-albornoz-la-poblacion-de-america-latina",
+          "name": "La población de América Latina desde los tiempos pre-colombinos al año 2000 — Nicolás Sánchez Albornoz (Madrid, Alianza, 1973)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-sunkel-paz-el-subdesarrollo-latinoamericano",
+          "name": "El subdesarrollo latinoamericano y la teoría del desarrollo — Osvaldo Sunkel y Pedro Paz (Madrid, Siglo XXI, 1970)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-stein-stein-la-herencia-colonial",
+          "name": "La herencia colonial de América Latina — Stanley Stein y Barbara H. Stein (México, Siglo XXI, 1973)",
+          "role": "referencia · Obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-annino-guerra-inventando-la-nacion-iberoamericana",
+          "name": "Inventando la Nación Iberoamericana. Siglo XIX — Antonio Annino y François-Xavier Guerra (coord.) (México, FCE, 2003)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-brading-los-origenes-del-nacionalismo-mexicano",
+          "name": "Los orígenes del nacionalismo mexicano — David Brading (México, Era, 1993)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-calderon-thibaud-las-revoluciones-en-el-mundo-atlantico",
+          "name": "Las revoluciones en el mundo atlántico — María Teresa Calderón y Clément Thibaud (comp.) (Bogotá, Taurus, 2006)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-chiaramonte-nacion-y-estado-en-iberoamerica",
+          "name": "Nación y Estado en Iberoamérica. El lenguaje político en tiempos de las independencias — José Carlos Chiaramonte (Buenos Aires, Sudamericana, 2004)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-guerra-revoluciones-hispanicas",
+          "name": "Revoluciones hispánicas. Independencias americanas y liberalismo español — François-Xavier Guerra (dir.) (Madrid, Editorial Complutense, 1995)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-guerra-lamperiere-los-espacios-publicos-en-iberoamerica",
+          "name": "Los espacios públicos en Iberoamérica. Ambigüedades y problemas. Siglos XVIII-XIX — François-Xavier Guerra y Annick Lamperiere (comps.) (México, FCE, 1998)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-halperin-el-ocaso-del-orden-colonial",
+          "name": "El ocaso del orden colonial en Hispanoamérica — Tulio Halperin Donghi (comp.) (Buenos Aires, Sudamericana, 1980)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-hamnett-revolucion-y-contrarrevolucion",
+          "name": "Revolución y contrarrevolución en México y el Perú — Brian R. Hamnett (México, F.C.E., 1978)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-james-los-jacobinos-negros",
+          "name": "Los jacobinos negros — C. L. R. James (Buenos Aires: Ed. ryr, 2013)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-lynch-las-revoluciones-hispanoamericanas",
+          "name": "Las revoluciones hispanoamericanas, 1808-1826 — John Lynch (Barcelona, Ariel, 1976)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-mcfarlane-posada-carbo-independence-and-revolution",
+          "name": "Independence and Revolution in Spanish America: Perspectives and Problems — Anthony McFarlane y Eduardo Posada-Carbó, eds. (Londres, Institute of Latin American Studies, 1999)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-portillo-valdes-crisis-atlantica",
+          "name": "Crisis Atlántica. Autonomía e independencia en la crisis de la monarquía española — José María Portillo Valdés (Madrid, Marcial Pons, 2006)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rodriguez-la-independencia-de-la-america-espanola",
+          "name": "La independencia de la América española — Jaime Rodríguez (México, FCE, 1996)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-van-young-la-otra-rebelion",
+          "name": "La otra rebelión — Eric van Young (México, Era, 2002)",
+          "role": "referencia · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-abramson-las-utopias-sociales",
+          "name": "Las utopías sociales en América Latina en el siglo XIX — Pierre-Luc Abramson (México, FCE, 1999)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cardoso-mexico-en-el-siglo-xix",
+          "name": "México en el siglo XIX (1821-1910), Historia económica y social — Ciro Cardoso (coord.) (México, Nueva Imagen, 1980)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-coatsworth-los-origenes-del-atraso",
+          "name": "Los orígenes del atraso — John Coatsworth (México, Alianza, 1990)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-escalante-ciudadanos-imaginarios",
+          "name": "Ciudadanos imaginarios — Fernando Escalante (México, El Colegio de México., 1992) [«México.,» así impreso]",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-florescano-imagenes-de-la-patria",
+          "name": "Imágenes de la patria — Enrique Florescano (México, Taurus, 2003)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-gootenberg-between-silver-and-guano",
+          "name": "Between Silver and Guano. Commercial Policy and the State in Postindependence Peru — Paul Gootenberg (Princeton, Princeton University Press, 1989)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-guardino-peasants-politics-and-the-formation",
+          "name": "Peasants, Politics, and the Formation of Mexico´s National State: Guerrero 1800-1857 — Peter Guardino (Stanford, Stanford University Press, 1996)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-hale-el-liberalismo-mexicano",
+          "name": "El liberalismo mexicano en la época de Mora — Charles A. Hale (México, Siglo XXI, 1972)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-halperin-hispanoamerica-despues-de-la-independencia",
+          "name": "Hispanoamérica después de la independencia, consecuencias sociales y económicas de la emancipación — Tulio Halperin Donghi (Buenos Aires, Paidos, 1972)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-jocelyn-holt-el-peso-de-la-noche",
+          "name": "El peso de la noche. Nuestra frágil fortaleza histórica — Alfredo Jocelyn-Holt Letelier (Buenos Aires, Ariel, 1997)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-krauze-siglo-de-caudillos",
+          "name": "Siglo de caudillos — Enrique Krauze (México, Tusquets, 1994)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-jaksic-andres-bello",
+          "name": "Andrés Bello: la pasión por el orden — Iván Jaksic (Santiago, Editorial Universitaria, 2001)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-lynch-caudillos-en-hispanoamerica",
+          "name": "Caudillos en Hispanoamérica, 1800-1850 — John Lynch (Madrid, Mapfre, 1993)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-carvalho-la-formacion-de-las-almas",
+          "name": "La formación de las almas. El imaginario de la República en el Brasil — Jose Murilo de Carvalho (Bernal (BA), Universidad Nacional de Quilmes, 1997)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-palti-el-tiempo-de-la-politica",
+          "name": "El tiempo de la política — Elías Palti (Buenos Aires, Siglo XXI, 2007)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-reis-rebeliao-escrava-no-brasil",
+          "name": "Rebeliao escrava no Brasil. A Revolta dos Males, Bahia, 1835 — Joao José Reis (Sao Paulo, 1986) [el asiento cierra con un paréntesis que nunca abrió: «Sao Paulo, 1986)»; no consigna editorial]",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-romero-que-hacer-con-los-pobres",
+          "name": "¿Qué hacer con los pobres? Elite y sectores populares en Santiago de Chile 1840-1895 — Luis Alberto Romero (Buenos Aires, Sudamericana, 1997)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-serrano-universidad-y-nacion",
+          "name": "Universidad y Nación: Chile en el siglo XIX — Sol Serrano (Santiago, Editorial Universitaria, 1994)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-viotti-da-costa-brasil-de-la-monarquia-a-la-republica",
+          "name": "Brasil: de la Monarquía a la República — Emilia Viotti da Costa (México, Conaculta, 1991)",
+          "role": "referencia · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bonilla-un-siglo-a-la-deriva",
+          "name": "Un siglo a la deriva. Ensayos sobre el Perú, Bolivia y la guerra — Heraclio Bonilla (Lima, IEP, 1980)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-carmagnani-estado-y-sociedad-en-america-latina",
+          "name": "Estado y sociedad en América Latina, 1850-1930 — Marcello Carmagnani (Barcelona, Crítica, 1984)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-chalhoub-trabalho-lar-e-botequim",
+          "name": "Trabalho, lar e botequim: o cotidiano dos trabalhadores no Rio de Janeiro da belle époque — Sidney Chalhoub (São Paulo: Editora brasiliense, 1986)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cockcroft-precursores-intelectuales",
+          "name": "Precursores intelectuales de la revolución mexicana — James Cockcroft (México, Siglo XXI, 1986)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cortes-conde-hispanoamerica-la-apertura-al-comercio-mundial",
+          "name": "Hispanoamérica: la apertura al comercio mundial (1850-1930) — Roberto Cortés Conde (Buenos Aires, Paidós, 1974)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-de-orellana-la-mirada-circular",
+          "name": "La Mirada Circular. El cine norteamericano de la revolución mexicana 1911-1917 — Margarita de Orellana (México, Artes de México, 1999)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-funes-salvar-la-nacion",
+          "name": "Salvar la Nación. Intelectuales, cultura y política en los años veinte latinoamericanos — Patricia Funes (Buenos Aires, Prometeo, 2006)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-katz-pancho-villa-a-life",
+          "name": "Pancho Villa: A Life — Friedrich Katz (Stanford, Stanford University Press, 2000)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-knight-the-mexican-revolution",
+          "name": "The Mexican Revolution — Alan Knight (Lincoln, University of Nebraska Press, 1986) · «(2 vols, hay edición en castellano, México, Era)»",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-krauze-caudillos-culturales",
+          "name": "Caudillos culturales en la Revolución Mexicana — Enrique Krauze (México, Siglo XXI, 1976)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-johnson-la-transformacion-politica-de-america-latina",
+          "name": "La transformación política de América Latina. Surgimiento de los sectores medios — John J. Johnson (Buenos Aires, Hachette, 1961)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-larson-indigenas-elites-y-estado",
+          "name": "Indígenas, élites y estado en la formación de las repúblicas andinas. 1850-1910 — Brooke Larson (Lima, IEP, 2002)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-mallon-the-defense-of-community",
+          "name": "The Defense of Community in Peru's Central Highlands — Florencia Mallon (Princeton, Princeton University Press, 1983)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-mallon-peasant-and-nation",
+          "name": "Peasant and Nation. The Making of Postcolonial Mexico and Peru — Florencia Mallon (Berkeley, University of California Press, 1995) · «(Hay edición en castellano)»",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-palacios-el-cafe-en-colombia",
+          "name": "El café en Colombia, 1850-1970. Una historia económica, social y política — Marco Palacios (México, El Colegio de México, 1983)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-scott-la-emancipacion-de-los-esclavos-en-cuba",
+          "name": "La emancipación de los esclavos en Cuba: la transición al trabajo libre. 1860-1899 — Rebecca Scott (México, FCE, 1989)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-semo-mexico-bajo-la-dictadura-porfiriana",
+          "name": "México bajo la dictadura porfirana [así impreso] — Enrique Semo (ed.) (México, Siglo XXI, 1983)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-stein-vassouras",
+          "name": "Vassouras. A Brazilian Coffee County, 1850-1900 — Stanley Stein (Cambridge, Harvard University Press, 1957)",
+          "role": "referencia · Unidades 3 y 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bourricaud-poder-y-sociedad-en-el-peru",
+          "name": "Poder y sociedad en el Perú contemporáneo — Francois Bourricaud (Buenos Aires, Sur, 1967)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cordova-la-politica-de-masas-del-cardenismo",
+          "name": "La política de masas del cardenismo — Arnaldo Córdova (México, Era, 1986)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-daraujo-la-era-de-vargas",
+          "name": "La era de Vargas — María Celina D’Araujo (ed.) (México, FCE, 1998)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-del-campo-dictaduras-y-dictadores",
+          "name": "Dictaduras y dictadores — Julio Del Campo (coord.) (México, Siglo XXI, 1986)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-dunkerley-rebelion-en-las-venas",
+          "name": "Rebelión en las venas. La lucha política en Bolivia, 1952-1982 — James Dunkerley (La Paz, Plural, 2003)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-grindle-domingo-proclaiming-revolution",
+          "name": "Proclaiming Revolution. Bolivia in Comparative Perspective — Merilee Grindle & Pilar Domingo (eds.) (London, Institute for Latin American Studies, 2003)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-klaren-formacion-de-las-haciendas-azucareras",
+          "name": "Formación de las haciendas azucareras y orígenes del APRA — Peter Klarén (Lima, IEP, 1976)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-klein-origenes-de-la-revolucion-nacional-boliviana",
+          "name": "Orígenes de la revolución nacional boliviana — Herbert Klein (México, Grijalbo, 1993)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-meyer-mexico-y-los-estados-unidos-en-el-conflicto-petrolero",
+          "name": "México y los Estados Unidos en el conflicto petrolero, 1917-1942 — Lorenzo Meyer (México, El Colegio de México, 1981)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rivera-cusicanqui-oprimidos-pero-no-vencidos",
+          "name": "Oprimidos pero no vencidos. Luchas del campesinado aymara y quechua — Silvia Rivera Cusicanqui (La Paz, UNRISD, 1986)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-thorp-america-latina-en-los-anos-treinta",
+          "name": "América Latina en los años treinta. El papel de la periferia en la crisis mundial — Rosemary Thorp (Comp.) (México, Fondo de Cultura Económica, 1988)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-weffort-o-populismo-na-politica-brasileira",
+          "name": "O Populismo na Politica Brasileira — Francisco Weffort (Rio de Janeiro, Paz e Terra, 1978) · el mismo autor firma, en la bibliografía obligatoria, un capítulo como «Weffort, E.»",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-winn-tejedores-de-la-revolucion",
+          "name": "Tejedores de la revolución, los trabajadores de Yarur y la vía chilena al socialismo — Peter Winn (Santiago, Lom Editores, 2004)",
+          "role": "referencia · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-cavarozzi-abal-medina-el-asedio-a-la-politica",
+          "name": "El asedio a la política. Los partidos latinoamericanos en la era neoliberal — Marcelo Cavarozzi y Juan Abal Medina (h) (comps.) (Rosario, Homo Sapiens Ediciones, 2003)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-dutrenit-valdes-el-fin-de-siglo-y-los-partidos-politicos",
+          "name": "El fin de siglo y los partidos políticos en América Latina — Silvia Dutrénit y Leonardo Valdés (eds.) (México, Instituto Mora-UAM Iztapalapa, 1994)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-eckstein-poder-y-protesta-popular",
+          "name": "Poder y protesta popular. Movimientos sociales latinoamericanos — Susan Eckstein (México, Siglo XXI, 2002)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-lowenthal-treverton-america-latina-en-un-mundo-nuevo",
+          "name": "América Latina en un mundo nuevo — Abraham Lowenthal y Gregory Treverton (eds) (México, FCE., 1996)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-castaneda-la-utopia-desarmada",
+          "name": "La utopía desarmada. Intrigas, dilemas y promesa de la izquierda en America Latina — Jorge Castañeda (Buenos Aires, Ariel, 1993)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-odonnell-el-estado-burocratico-autoritario",
+          "name": "El Estado burocrático autoritario. Triunfos, derrotas y crisis — Guillermo O'Donnell (Buenos Aires, Editorial de Belgrano, 1982)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-odonnell-issues-in-democratic-consolidation",
+          "name": "Issues in Democratic Consolidation: The New South American Democracies in Comparative Perspective — Guillermo O’Donnell et al. (Notre Dame, University of Notre Dame Press, 1992)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-palermo-politica-brasilena-contemporanea",
+          "name": "Política Brasileña Contemporánea — Vicente Palermo (comp.) (Buenos Aires, Instituto Di Tella/SigloXXI editores, 2003) [el asiento no lleva punto final]",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-pettina-historia-minima-de-la-guerra-fria",
+          "name": "Historia mínima de la Guerra Fría en América Latina — Vanni Pettinà (México, El Colegio de México, 2018)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-reyna-america-latina-a-fines-de-siglo",
+          "name": "América Latina a fines de siglo — José Luis Reyna (ed.) (México, FCE., 1995)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rouquie-el-estado-militar-en-america-latina",
+          "name": "El Estado militar en América Latina — Alain Rouquié (Buenos Aires, Emecé, 1984)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rouquie-guerras-y-paz-en-america-central",
+          "name": "Guerras y paz en América Central — Alain Rouquie [así impreso, sin tilde] (México, FCE, 1994)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-rouquie-schvarzer-como-renacen-las-democracias",
+          "name": "¿Cómo renacen las democracias? — Alain Rouquié y Jorge Schvarzer (comp.) (Buenos Aires, Emece, 1985) [«Emece» así impreso, sin tilde]",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-tironi-el-regimen-autoritario",
+          "name": "El régimen autoritario. Para una sociología de Pinochet — Eugenio Tironi (Santiago, Dolmen, 1995)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-torre-las-dimensiones-politicas-e-institucionales",
+          "name": "Las dimensiones políticas e institucionales de las reformas estructurales en América Latina — Juan Carlos Torre (Buenos Aires, Paidós, 1998)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-vilas-perfiles-de-la-revolucion-sandinista",
+          "name": "Perfiles de la revolución sandinista — Carlos Vilas (La Habana, Casa de las Américas, 1984)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-walker-revolution-and-counterrevolution-in-nicaragua",
+          "name": "Revolution & Counterrevolution in Nicaragua — Thomas W. Walker (Boulder, Westview Press, 1991)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-zermeno-mexico-una-democracia-utopica",
+          "name": "México: una democracia utópica. El movimiento estudiantil del 68 — Sergio Zermeño (México, Siglo XXI, 1985)",
+          "role": "referencia · Unidades 6 y 7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-ansaldi-giordano-america-latina-la-construccion-del-orden",
+          "name": "América Latina. La construcción del orden. Tomo II. De las sociedades de masas a las sociedades en procesos de restructuración — Waldo Ansaldi y Verónica Giordano (Ariel, Buenos Aires, 2012)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-bethell-historia-de-america-latina-coleccion",
+          "name": "Historia de América Latina — Leslie Bethell (ed.) (Crítica, Barcelona, 1991-2002, 16 volúmenes) · asiento de la COLECCIÓN COMPLETA; la bibliografía obligatoria cita cuatro volúmenes sueltos de ella (vol. 7, vol. 9, tomo 10 y vol. 12), dibujados aparte y con pies editoriales que no coinciden entre sí",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-carmagnani-el-otro-occidente",
+          "name": "El otro occidente. América Latina desde la invasión europea hasta la globalización — Marcelo Carmagnani (México, FCE, 2004)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-chevalier-america-latina-de-la-independencia-a-nuestros-dias",
+          "name": "América latina, de la independencia a nuestros días — François Chevalier (Barcelona, Labor, 1979)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-halperin-historia-contemporanea-de-america-latina",
+          "name": "Historia Contemporánea de América Latina — Tulio Halperin Donghi (Madrid, Alianza, 1990)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-malamud-historia-contemporanea-de-america-latina",
+          "name": "Historia Contemporánea de América Latina — Carlos Malamud (ed.) (Madrid, Síntesis, 2000-2008, 6 volúmenes)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-skidmore-smith-historia-contemporanea-de-america-latina",
+          "name": "Historia contemporánea de América Latina — Thomas Skidmore y Peter Smith (Barcelona, Crítica, 1999)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-3.libro-zanatta-historia-de-america-latina",
+          "name": "Historia de América Latina. De la Colonia al siglo XXI — Loris Zanatta (Buenos Aires, Siglo XXI, 2012)",
+          "role": "referencia · Textos generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMERICA III (INDEPENDIENTE) “A”, cód. 0442 / 14015, Prof. Dr. Gustavo L. Paz, 2º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0442%20-%2014015]%20-%20HISTORIA%20DE%20AMERICA%20III%20%28INDEPENDIENTE%29%20-%20A%20-%20PAZ%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMERICA III (INDEPENDIENTE) “A”, cód. 0442 / 14015, Prof. Dr. Gustavo L. Paz, 2º cuatrimestre 2026 (12 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-america3-paz-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0442%20-%2014015]%20-%20HISTORIA%20DE%20AMERICA%20III%20%28INDEPENDIENTE%29%20-%20A%20-%20PAZ%20-%202C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de la cátedra “B”: portada «MATERIA: HISTORIA AMERICA III (INDEPENDIENTE) “B”», «PROFESOR: VOMMARO, PABLO», «CÓDIGO Nº: 0442 / 14015», «RÉGIMEN DE PROMOCIÓN: PD», «CUATRIMESTRE: 1º», «AÑO: 2026», 17 pp. — la cátedra alternativa, NO dibujada: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados. El nombre del archivo publicado OMITE la letra “B” y escribe «HISTORIA DE AMÉRICA» donde la portada escribe «HISTORIA AMERICA»: la letra y la grafía de arriba se toman de la portada leída, no del nombre del archivo",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0442_14015%20-%20HISTORIA%20DE%20AM%C3%89RICA%20III%20%28INDEPENDIENTE%29%20-%20VOMMARO%20-%201C%202026.pdf"
+    }
+  ]
+}

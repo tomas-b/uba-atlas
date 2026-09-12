@@ -1,0 +1,537 @@
+{
+  "address": "uba.ffyl.historia.teoria-historia-historiografia",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — «Régimen de promoción con EXAMEN FINAL (EF)», Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a las clases de trabajos prácticos o equivalentes y 2 instancias de evaluación parcial con un mínimo de 4 puntos, calificadas según los arts. 39º y 40º · 1 recuperatorio · la regularidad vale 4 años y habilita 3 mesas examinadoras",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; la portada NO lo consigna. El apartado de organización del dictado reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0433 / 14019 (así impreso, «CÓDIGO Nº: 0433 / 14019»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: portada y encabezado interno consignan solo «MATERIA: TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA»",
+    "catedra": "el programa NO designa cátedra por letra, número ni nombre: consigna «PROFESOR: CATTARUZZA, ALEJANDRO» (portada y encabezado interno) y va firmado al pie «Alejandro Cattaruzza / Profesor Titular Regular». La palabra «cátedra» aparece exactamente cinco veces en el PDF y ninguna designa a ésta: cuatro como nombre de la editorial madrileña Cátedra en los asientos de Noiriel («Madrid, Frónesis/Cátedra, 1997» dos veces y «Madrid, Cátedra, 1997» dos veces) y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción». Reparto propio del programa: la Primera Parte se dicta y se evalúa «a cargo de jefes de trabajos prácticos y ayudantes, en clases prácticas presenciales obligatorias»; la Segunda y la Tercera, «por el profesor titular en clases teóricas presenciales no obligatorias»",
+    "equipoDocente": [
+      "CATTARUZZA, ALEJANDRO (portada y encabezado: «PROFESOR: CATTARUZZA, ALEJANDRO»; firma al pie: «Alejandro Cattaruzza / Profesor Titular Regular»)",
+      "MARTÍNEZ ILANA (JEFA DE TRABAJOS PRÁCTICOS · así impreso, sin coma entre apellido y nombre)",
+      "ROMERO JUAN MANUEL (JEFE DE TRABAJOS PRÁCTICOS · así impreso, sin coma)",
+      "ZAPATA BELÉN (AYUDANTE DE PRIMERA · así impreso, sin coma)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "obligatoria del Ciclo de Grado, Materias Específicas Obligatorias (las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "partes": 3,
+    "unidades": "10 unidades numeradas (4 en la Primera Parte, 6 en la Tercera) + 5 puntos numerados en la Segunda Parte, que no llevan rótulo «UNIDAD»",
+    "bibliografia": 44
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.teoria-historia-historiografia",
+      "label": "Teoría e Historia de la Historiografía"
+    }
+  ],
+  "eyebrow": "Historia · Teoría e Historia de la Historiografía · Cattaruzza · 1º cuatrim. 2026",
+  "title": "Estudiar a los que estudiaron el pasado.",
+  "lede": "El programa «consta de tres partes», y cada una se dicta de otro modo. La Primera —la única que va en clases prácticas presenciales obligatorias, a cargo de jefes de trabajos prácticos y ayudantes— recorre la historiografía occidental del siglo XIX al XXI en cuatro unidades: el status científico de la historia; el historicismo, el romanticismo y el positivismo, la profesionalización europea y la «escuela metódica» francesa, leídos directamente sobre Ranke, Michelet, Taine, Langlois y Seignobos y Monod; los Annales, Braudel y los historiadores marxistas británicos; y después la fragmentación —la crisis de los paradigmas con White, la microhistoria italiana de Ginzburg y Levi, la historia de las mujeres y el género con Scott y Perrot, los estudios subalternos y poscoloniales con Guha, Spivak y Chakrabarty, la historia reciente y la memoria con Portelli, y la historia global de Osterhammel y Conrad. La Segunda Parte, ya en teóricos no obligatorios del profesor titular, es un área entera de investigación tratada como problema: usos de la historia, usos públicos del pasado, usos políticos del pasado, políticas de la historia —cuatro nombres para un mismo objeto—, del contexto alemán de la década de 1980 al siglo XXI, con la pregunta de si la historia «profesional» está entre el compromiso y la distancia, y con el pasado como problema político donde se cruzan acción estatal, intervención política y toma de posición académica. La Tercera baja todo eso a la Argentina, de fines del siglo XIX al XXI y en seis unidades: la organización de un saber historiográfico entre las letras y la política, el positivismo y las representaciones del pasado hasta los Centenarios; la «Nueva Escuela Histórica» y su historia «científica y patriótica»; los años treinta, la impugnación revisionista y las versiones marxistas del pasado nacional; el primer peronismo y el pasado propuesto por el Estado; la radicalización política de 1955 a 1976; la universidad y las políticas de la dictadura abierta en 1976; y los debates colectivos sobre el pasado de 1983 a 2020, hasta la historia reciente entre la consolidación académica y la escuela.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "+ 5 puntos · 3 partes"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Cattaruzza"
+    }
+  ],
+  "frame": "Contenido real del programa de TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA, Departamento de Historia (FFyL-UBA), cód. 0433 / 14019, Prof. Alejandro Cattaruzza, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (15 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-historiografia-cattaruzza-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado, y los datos de portada del programa alternativo, verificados aparte y declarados en sources. SELECCIÓN DE PROGRAMA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026. Se dibuja 1 de 2 (50%): el de CATTARUZZA, ALEJANDRO, 1º cuatrimestre 2026, 15 páginas. NO se dibuja 1 de 2 (50%): el de RODRIGUEZ, MARTHA, 2º cuatrimestre 2026, 12 páginas, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «DEPARTAMENTO: HISTORIA», «CÓDIGO Nº: 0433 / 14019», «MATERIA: TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA», «RÉGIMEN DE PROMOCIÓN: EF», «PROFESOR/A: RODRIGUEZ, MARTHA», «2º CUATRIMESTRE 2026», «AÑO: 2026»; su URL queda asentada en sources. De ese segundo programa no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las partes, las unidades y la bibliografía de este nodo son los del programa de Cattaruzza y de ningún otro. CÓMO NO CONSTA LA CÁTEDRA: ninguno de los dos programas se designa «cátedra A» ni «cátedra B» ni por letra alguna —difieren únicamente en el/la docente a cargo y en el cuatrimestre—, y acá no se les inventa una denominación. En el PDF dibujado la palabra «cátedra» aparece exactamente cinco veces y ninguna designa a ésta: cuatro como nombre de la editorial madrileña Cátedra en los asientos de Noiriel y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). DATO CRUZADO: la ubicación de la materia —obligatoria del Ciclo de Grado, entre las doce Materias Específicas Obligatorias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), tabla de equivalencias (la cadena «equivalenc» no aparece), plan de estudios, ciclo y orientación (la cadena «orientaci» no aparece; «Plan» con mayúscula no aparece, y «ciclo» solo aparece dos veces, ambas en «ciclo lectivo»), resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0433 / 14019» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen con examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). ESTRUCTURA, TAL COMO ESTÁ IMPRESA: el apartado c. Contenidos abre con el encabezado «LA HISTORIOGRAFÍA OCCIDENTAL (SIGLO XIX AL XXI)» y cuatro unidades numeradas (UNIDAD 1 a UNIDAD 4, con subpuntos 1.1 a 4.6); sigue «SEGUNDA PARTE (LOS USOS DEL PASADO: CUESTIÓN A INVESTIGAR, DESAFÍO POLÍTICO» con cinco puntos numerados que NO llevan rótulo «UNIDAD»; y cierra «TERCERA PARTE ARGENTINA, DE FINES DE SIGLO XIX AL SIGLO XXI: INSTITUCIONES HISTORIOGRÁFICAS, POLÍTICAS DE LA HISTORIA Y DEBATES PÚBLICOS SOBRE EL PASADO» con seis unidades numeradas. Las cuatro unidades de la primera parte, los cinco puntos de la segunda y las seis unidades de la tercera se dibujan: quince nodos, ninguno inferido. COLISIÓN DE NUMERACIÓN, REGISTRADA: hay dos «UNIDAD 1», dos «UNIDAD 2», dos «UNIDAD 3» y dos «UNIDAD 4» en el mismo apartado c. —las de la primera parte y las de la Tercera Parte—; el programa no las distingue con ningún prefijo, y acá se las distingue solo en la dirección del nodo (p1- / p3-), no en el nombre. CONTRADICCIONES Y DESAJUSTES REGISTRADOS, NO RESUELTOS. (1) La Unidad 5 de la Tercera Parte tiene dos títulos en el mismo PDF: en c. Contenidos, «La historiografía argentina bajo la dictadura abierta en 1976»; en d. Bibliografía, «La historiografía argentina bajo la dictadura cívico-militar abierta en 1976». Se dibuja la forma del apartado c., que es de donde sale el esqueleto, y la otra queda anotada. (2) El encabezado de la Tercera Parte también tiene dos versiones: en c. incluye «POLÍTICAS DE LA HISTORIA» y en d. no («…INSTITUCIONES HISTORIOGRÁFICAS Y DEBATES PÚBLICOS SOBRE EL PASADO»). (3) La primera parte no se llama «Primera Parte» en los Contenidos: allí se encabeza «LA HISTORIOGRAFÍA OCCIDENTAL (SIGLO XIX AL XXI)». La denominación aparece dos veces en el apartado b. («La Primera Parte estará dedicada al análisis de la historiografía internacional…») y una vez en mayúsculas, en el encabezado de la bibliografía complementaria («PRIMERA PARTE Y SEGUNDA PARTE»). (4) La bibliografía de la primera parte NO está en el apartado d.: el apartado d., rotulado por el formulario de la Facultad «Bibliografía, filmografía y/o discografía obligatoria, complementaria y fuentes, si correspondiera», abre «d)BIBLIOGRAFÍA OBLIGATORIA» y trae únicamente la Segunda y la Tercera Parte. Toda la bibliografía de la primera parte —Fuentes, Bibliografía obligatoria y Bibliografía de referencia— está impresa dentro del apartado c. Contenidos, subpunto por subpunto. La BIBLIOGRAFÍA COMPLEMENTARIA del apartado d., en cambio, sí cubre la primera parte. (5) El apartado b. está rotulado «Objetivos:» pero no enumera objetivos: su texto describe la estructura en tres partes y el reparto del dictado. Los objetivos propiamente dichos están enunciados en el apartado a. Fundamentación («Ellos son varios: el primero… Luego… En tercer lugar… Al mismo tiempo…»). No se dibujan como grupo. (6) Dos categorías de lectura no obligatoria con nombres distintos y sin declaración de equivalencia: la primera parte usa «Bibliografía de referencia» (13 asientos) y el apartado d. usa «BIBLIOGRAFÍA COMPLEMENTARIA» (35 asientos). (7) Noiriel, Sobre la crisis de la historia, 1997: el mismo libro lleva dos pies editoriales, «Madrid, Frónesis/Cátedra» (referencia de 2.1 y obligatoria de la Segunda Parte) y «Madrid, Cátedra» (obligatorias de 2.2 y 4.1); y el mismo capítulo 6 figura a la vez como referencia de 2.1 y como obligatoria de la Segunda Parte. (8) Pagano y Buchbinder, La historiografía francesa contemporánea: «Buenos Aires, Biblos, 1993» en la obligatoria de 3.1 y «Buenos Aires., Biblos, 1996» en la complementaria, con «(eds.)» solo en la segunda. (9) Pagano y Rodríguez (comps.), La Colmena, 2001: «La historiografía rioplatense en la posguerra» en la obligatoria de la Unidad 3 de la Tercera Parte y «La historiografía argentina en la posguerra» en la complementaria. (10) Bourdieu, «Algunas propiedades de los campos»: el mismo texto se asienta en dos volúmenes distintos, «Sociología y Cultura, México, Grijalbo, 1984» (obligatoria de 1.1) y «Campo de poder, campo intelectual, Buenos Aires, Quadrata, 2003» (complementaria). (11) Grafton: «Grafton, Anthony» en la referencia de 2.1 y «M. Grafton» en la complementaria, para el mismo libro y el mismo pie editorial. (12) Kaye: «Los historiadores marxistas británicos. Un análisis introductorio, Zaragoza, Prensas Universitarias, 1989» en la obligatoria de 3.3 y «Los historiadores marxistas británicos, Zaragoza, Prensas de la Universidad de Zaragoza, 1989» en la complementaria. (13) Appleby, Hunt y Jacob, La verdad sobre la historia figura como obligatoria de la Segunda Parte (la «Introducción») y como complementaria (el volumen entero). (14) El bloque de recuperatorios abre «Para ambos regímenes:» cuando el programa declara un solo régimen, EF. (15) El programa asienta en la obligatoria de la Unidad 6 de la Tercera Parte un artículo de «Daniel Lvovich y Belén Zapata»; «ZAPATA BELÉN» es también el nombre impreso de la ayudante de primera del equipo docente. El programa no declara que sean la misma persona y acá no se afirma. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones. El programa imprime 121 asientos bibliográficos en total, repartidos así: en la primera parte, dentro del apartado c., 15 Fuentes + 22 de Bibliografía obligatoria + 13 de Bibliografía de referencia; en el apartado d., 36 de BIBLIOGRAFÍA OBLIGATORIA (12 de la Segunda Parte, en bloque, y 24 de la Tercera Parte: U1 4 · U2 2 · U3 3 · U4 4 · U5 4 · U6 7) + 35 de BIBLIOGRAFÍA COMPLEMENTARIA (17 bajo «PRIMERA PARTE Y SEGUNDA PARTE» y 18 bajo «TERCERA PARTE»). Se dibujan como libros los volúmenes de las dos categorías de lectura exigida —las Fuentes y la Bibliografía obligatoria—, es decir de 73 de esos 121 asientos; un capítulo, prólogo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. NO se dibujan los 48 asientos de las dos categorías no exigidas: los 13 de «Bibliografía de referencia» de la primera parte y los 35 de «BIBLIOGRAFÍA COMPLEMENTARIA», ninguno. Y de los 73 exigidos NO se dibujan los 21 cuyo contenedor es una revista, un dossier en línea o una tesis, que van declarados uno por uno: Portelli, «Historia y memoria: La muerte de Luigi Trastulli», Historia y fuente oral, 1, 1989, 5-32 (fuente de 4.5); Cattaruzza en Rivista di Storia della Storiografia Moderna, año XVI, 1-3, 1995 (1.1); Hobsbawm en Historia Social, Nº 25, 1996 (3.3); Ginzburg y Poni en Historia Social, No. 10, 1991 (4.2); Spivak en OrbisTertius, VI, 1998 (4.4); Bédarida en Cuadernos de Historia Contemporánea, número 20, 1998 (4.5); Pasamar Azuria en Ayer, número 49, 2003, Habermas en Pasajes, número 24, 2007, Gallerano en Pasajes, número 24, 2007 y Silva en Historia Critica No. 48, 2012 (los cuatro, Segunda Parte); Buchbinder en el Boletín del Instituto Ravignani, 3ra. serie, número 13, 1996 y Bertoni en el mismo Boletín, número 5, 1992 (Tercera Parte, U1); Eujanian, presentación a dossier, Historia Política, 2013, «disponible en http://historiapolitica.com/dossiers/» (U2); Stortini en Prohistoria, 8, 2004 (U3); Halperin Donghi en Desarrollo Económico, vol. 25, núm. 100, 1986 y Cattaruzza en Badebec, vol. 5, número 9, 2015 (U4); Rojas, Tesis Doctoral Universidad Nacional de Córdoba, 2019 y L. G. Rodríguez en Antíteses, vol. 2, número 3, 2009 (U5); Lvovich y Zapata en PolHis, 22, 2023, Cattaruzza en el Boletín Ravignani, número 55, 2021 y Franco y Lvovich en el mismo Boletín, número 47, 2017 (U6). Quedan 52 asientos con volumen, que al unificar los repetidos dan 44 libros, y 44 son los que se dibujan. Los siete volúmenes que reaparecen son Bourdé y Martin, Las escuelas históricas (fuentes de 2.1 y 2.2), Iggers, La ciencia histórica en el siglo XX (obligatorias de 2.1 y 4.1), Noiriel, Sobre la crisis de la historia (obligatorias de 2.2, 4.1 y de la Segunda Parte), Scott, Género e historia (fuente y obligatoria de 4.3), Cattaruzza y Eujanian, Políticas de la historia (obligatorias de las Unidades 1 y 2 de la Tercera Parte), Goebel, La Argentina partida (Unidades 5 y 6) y Devoto (dir.), Historiadores, ensayistas y gran público (dos asientos de la Unidad 6): cada uno se dibuja una sola vez, con los capítulos y las ubicaciones anotados en el nombre. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen de las Fuentes o de la Bibliografía obligatoria queda fuera. Ningún asiento se descartó por ilegible. CONSECUENCIA REGISTRADA: las doce entradas obligatorias de la Segunda Parte van en bloque, sin asignación a ninguno de sus cinco puntos —el programa no imprime esa correspondencia y acá no se infiere—, de modo que los cinco puntos de la Segunda Parte no tienen bibliografía propia; y la Unidad 2 de la Tercera Parte aporta un solo libro de sus dos asientos. ASIENTOS INCOMPLETOS, declarados y no completados: Devoto (director), Historiadores, ensayistas y gran público. La historiografía argentina 1990-2010 se asienta dos veces y las dos como «citado», sin que el documento traiga en ninguna parte una cita previa con lugar, editorial ni año; Taine, Los orígenes de la Francia contemporánea, «Madrid, La España moderna», sin año; Usos públicos de la Historia, «Marcial Pons/Prensas Universitarias de Zaragoza, 2003», sin lugar y sin que el programa diga quién edita el volumen; Repensando la subalternidad: miradas críticas desde/sobre América Latina, «Lima, IEP, 2010», sin editor ni compilador; y el tomo VII de la Nueva Historia Argentina, Crisis económica, avance del estado e incertidumbre política (1930-1943), sin director ni compilador del tomo. NORMALIZACIONES DECLARADAS: los cuatro encabezados de unidad de la primera parte están impresos íntegramente en mayúsculas («UNIDAD 1. ALGUNAS CUESTIONES PRELIMINARES.», etc.) y acá se pasan a caja baja conservando palabra por palabra; y el encabezado de la Unidad 2 de la Tercera Parte se imprime «La” Nueva Escuela Histórica”: el método y la “función social” del historiador (ca. 1916-1930)», sin espacio después de «La» y con una comilla de cierre (”) donde correspondería la de apertura, y acá se restituye el espacio y se usan comillas angulares como en el resto del nodo. Fuera de eso no se corrige nada. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el encabezado «SEGUNDA PARTE (LOS USOS DEL PASADO: CUESTIÓN A INVESTIGAR, DESAFÍO POLÍTICO» abre paréntesis y no lo cierra; el apartado b. termina «algunos de los usos que se hicieron de tales imágnens» (por imágenes); el punto 3 de la Unidad 1 de la Tercera Parte imprime «entre 1890 y 1os Centenarios», con un uno en lugar de la ele; la Unidad 3 de la Tercera Parte es la única subdividida —«3.1. Los años treinta» y «3.2. El primer peronismo»— y renumera desde 1 dentro de cada subbloque; la fundamentación cierra con un punto suelto en línea aparte; «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.» abre paréntesis y no lo cierra; el asiento de Furet se imprime «Furet Francois-M- Ozouf»; el de Chakrabarty invierte nombre y apellido, «Dipesh, Chakrabarty»; el de Cattaruzza en la Unidad 4 de la Tercera Parte abre con guion y comilla sobrantes, «A. Cattaruzza: “-“Las lecturas comunistas…»; el de Devoto en 2.2 cierra con punto medio, «Buenos Aires, Biblos, 1992·»; el de Spivak imprime «OrbisTertius» sin espacio; el de Novick imprime «Méjico» donde el resto del programa escribe «México»; el mismo apellido se acentúa de dos maneras, «Burguière» en 3.1 y «Burguiére» en 4.5; White se cita como «Metahistoria. La imaginación histórica en la Europa del SXIX»; «Francois» aparece sin cedilla en Furet y en Dosse; «Historia Critica» va sin tilde en el asiento de Silva; y el espaciado es irregular de punta a punta —«Iggers,Georg», «Perrot, M.,Mi historia de las mujeres», «Ginzburg Carlo y Poni, Carlo», «Neiburg.:», «Halperin Donghi.:», «Stortini.:», «Bs, As.», «Buenos Aires.,», «E..Gallo», «enero-marzo1992», «Pág.545», «número 3,enero junio 2009», «vo. I» por vol. I, y una serie de iniciales pegadas al apellido («J.Habermas», «N.Gallerano», «E.Traverso», «J.Revel», «A.Rojas», «P.Bourdieu», «A.Cattaruzza», «M.Mastrogregori», «Ch.Charle», «M.Franco y D.Lvovich»)—. Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala entre el rótulo «b. Objetivos:» y su primer párrafo; en el encabezado de la Tercera Parte la conjunción «Y» queda desplazada al final de una línea por la caja de texto; el asiento de Olábarri y Caspistegui y el de «M. Grafton» salen con espaciado ancho por la justificación del párrafo; y la portada y el encabezado interno se leen seguidos, sin salto, en el arranque del extracto. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · primera parte: «La historiografía occidental (siglo XIX al XXI)» · 4 unidades",
+      "title": "De Ranke a la historia global",
+      "note": "Las cuatro unidades numeradas que abren el apartado c. Contenidos, en el orden impreso, bajo el encabezado «LA HISTORIOGRAFÍA OCCIDENTAL (SIGLO XIX AL XXI)». El apartado b. la llama «Primera Parte» y declara que se dicta y se evalúa en clases prácticas presenciales obligatorias, a cargo de jefes de trabajos prácticos y ayudantes. Su bibliografía —Fuentes, obligatoria y de referencia— está impresa dentro de estas mismas unidades, no en el apartado d. Encabezados normalizados de mayúsculas a caja baja, palabra por palabra.",
+      "map": {
+        "mk": "El programa, en tres partes",
+        "tree": "TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA · cód. 0433 / 14019\nCattaruzza · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ «LA HISTORIOGRAFÍA OCCIDENTAL (SIGLO XIX AL XXI)»\n│   el apartado b. la llama Primera Parte\n│   prácticos presenciales obligatorios · JTP y ayudantes\n│   │\n│   ├─ 1 · Algunas cuestiones preliminares\n│   │      status científico de la historia y sus particularidades\n│   ├─ 2 · La historia: trayectorias hacia la profesionalización (siglo XIX)\n│   │      historicismo, romanticismo y positivismo\n│   │      la «escuela metódica» francesa · Ranke, Michelet, Taine\n│   ├─ 3 · De la historia social a la fragmentación de la agenda (1919 - 1970)\n│   │      Annales · Braudel y la segunda generación\n│   │      los historiadores marxistas británicos\n│   └─ 4 · Nuevos rumbos y experiencias (1970-2020)\n│          crisis de los paradigmas · microhistoria italiana\n│          historia de las mujeres y género · estudios subalternos\n│          historia reciente y memoria · historia global\n│\n├─ SEGUNDA PARTE · «Los usos del pasado: cuestión a investigar, desafío político»\n│   teóricos presenciales no obligatorios · profesor titular\n│   cinco puntos numerados, sin rótulo «UNIDAD»\n│   │\n│   ├─ 1 · ¿Un objeto de investigación, varias denominaciones?\n│   ├─ 2 · Del contexto alemán de la década de 1980 al siglo XXI\n│   ├─ 3 · La historia «profesional», ¿entre el compromiso y la distancia?\n│   ├─ 4 · Acción estatal, intervención política y toma de posición académica\n│   └─ 5 · Algunos casos, algunos objetos de estudio, algunos modos de tratarlos\n│\n└─ TERCERA PARTE · Argentina, de fines de siglo XIX al siglo XXI\n    teóricos presenciales no obligatorios · profesor titular\n    │\n    ├─ 1 · Los estudios históricos en el cambio de siglo\n    ├─ 2 · La «Nueva Escuela Histórica» (ca. 1916-1930)\n    ├─ 3 · Del revisionismo a la «renovación» (ca. 1930-1955)\n    │      3.1 los años treinta · 3.2 el primer peronismo\n    ├─ 4 · Viejos y nuevos actores en la radicalización política (1955-1976)\n    ├─ 5 · La historiografía argentina bajo la dictadura abierta en 1976\n    └─ 6 · Los debates colectivos sobre el pasado (1983-2020)",
+        "foot": "Hay dos «UNIDAD 1» a «UNIDAD 4» en el mismo apartado c.: las de la primera parte y las de la Tercera. El programa no las prefija; acá se las distingue solo en la dirección del nodo. Esta materia publica dos programas para 2026 —Cattaruzza, 1º cuatrimestre, y Rodriguez, 2º cuatrimestre—: acá se dibuja solo el primero; del segundo únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p1-u1-algunas-cuestiones-preliminares",
+          "name": "Algunas cuestiones preliminares",
+          "role": "Unidad 1 · primera parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p1-u2-trayectorias-hacia-la-profesionalizacion",
+          "name": "La historia: trayectorias hacia la profesionalización (siglo XIX)",
+          "role": "Unidad 2 · primera parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p1-u3-de-la-historia-social-a-la-fragmentacion",
+          "name": "De la historia social a la fragmentación de la agenda historiográfica (1919 - 1970)",
+          "role": "Unidad 3 · primera parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p1-u4-nuevos-rumbos-y-experiencias",
+          "name": "Nuevos rumbos y experiencias (1970-2020)",
+          "role": "Unidad 4 · primera parte",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · Segunda Parte: «Los usos del pasado: cuestión a investigar, desafío político» · 5 puntos",
+      "title": "Cuatro nombres para un mismo objeto",
+      "note": "Los cinco puntos numerados que el apartado c. imprime bajo el encabezado «SEGUNDA PARTE (LOS USOS DEL PASADO: CUESTIÓN A INVESTIGAR, DESAFÍO POLÍTICO» —paréntesis abierto y no cerrado, tal como está—. No llevan rótulo «UNIDAD» y el programa no les asigna bibliografía punto por punto: los doce asientos obligatorios de esta parte van en bloque, en el apartado d. Según el apartado b., la dicta el profesor titular en clases teóricas presenciales no obligatorias.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p2-1-un-objeto-varias-denominaciones",
+          "name": "¿Un objeto de investigación, varias denominaciones? Usos de la historia, usos públicos del pasado, usos políticos del pasado, políticas de la historia",
+          "role": "Punto 1 · Segunda Parte",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p2-2-del-contexto-aleman-de-la-decada-de-1980",
+          "name": "Del contexto alemán de la década de 1980 al siglo XXI: perspectivas",
+          "role": "Punto 2 · Segunda Parte",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p2-3-la-historia-profesional-compromiso-o-distancia",
+          "name": "Una cuestión central en el pasado y en el presente: la historia «profesional», ¿entre el compromiso y la distancia?",
+          "role": "Punto 3 · Segunda Parte",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p2-4-el-pasado-problema-politico",
+          "name": "Acción estatal, intervención política y toma de posición académica: el pasado, problema político",
+          "role": "Punto 4 · Segunda Parte",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p2-5-algunos-casos-algunos-objetos-de-estudio",
+          "name": "Algunos casos, algunos objetos de estudio, algunos modos de tratarlos",
+          "role": "Punto 5 · Segunda Parte",
+          "tag": "punto",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · Tercera Parte: Argentina, de fines de siglo XIX al siglo XXI · 6 unidades",
+      "title": "Instituciones historiográficas y debates públicos sobre el pasado",
+      "note": "Las seis unidades numeradas de la Tercera Parte, en el orden del apartado c. Contenidos, que la encabeza «TERCERA PARTE ARGENTINA, DE FINES DE SIGLO XIX AL SIGLO XXI: INSTITUCIONES HISTORIOGRÁFICAS, POLÍTICAS DE LA HISTORIA Y DEBATES PÚBLICOS SOBRE EL PASADO»; el apartado d. repite el encabezado sin «POLÍTICAS DE LA HISTORIA». La Unidad 5 lleva dos títulos distintos en el mismo PDF: acá va el del apartado c. Según el apartado b., la dicta el profesor titular en teóricos presenciales no obligatorios.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u1-los-estudios-historicos-en-el-cambio-de-siglo",
+          "name": "Los estudios históricos en el cambio de siglo",
+          "role": "Unidad 1 · Tercera Parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u2-la-nueva-escuela-historica",
+          "name": "La «Nueva Escuela Histórica»: el método y la «función social» del historiador (ca. 1916-1930)",
+          "role": "Unidad 2 · Tercera Parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u3-del-revisionismo-a-la-renovacion",
+          "name": "Discusiones historiográficas y polémicas políticas, del revisionismo a la «renovación» (ca. 1930-1955)",
+          "role": "Unidad 3 · Tercera Parte · con 3.1 «Los años treinta» y 3.2 «El primer peronismo»",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u4-viejos-y-nuevos-actores-historiograficos",
+          "name": "Viejos y nuevos actores historiográficos en un contexto de radicalización política (1955-1976)",
+          "role": "Unidad 4 · Tercera Parte",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u5-la-historiografia-argentina-bajo-la-dictadura",
+          "name": "La historiografía argentina bajo la dictadura abierta en 1976",
+          "role": "Unidad 5 · Tercera Parte · el apartado d. la titula «…bajo la dictadura cívico-militar abierta en 1976»",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.p3-u6-los-debates-colectivos-sobre-el-pasado",
+          "name": "Los debates colectivos sobre el pasado y la historia profesional, de la dictadura a la democracia (1983-2020)",
+          "role": "Unidad 6 · Tercera Parte",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Fuentes y bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 44 volúmenes de los 73 asientos de las dos categorías de lectura exigida —«Fuentes» y «Bibliografía obligatoria»—, en el orden del programa. Un capítulo, prólogo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo (Bourdé y Martin, Iggers, Noiriel, Scott, Cattaruzza y Eujanian, Goebel y Devoto). No se dibujan los 21 asientos exigidos cuyo contenedor es una revista, un dossier en línea o una tesis, ni ninguno de los 48 asientos de «Bibliografía de referencia» (13) y «BIBLIOGRAFÍA COMPLEMENTARIA» (35): quedan declarados en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-bourdieu-sociologia-y-cultura",
+          "name": "Sociología y Cultura — Pierre Bourdieu (México, Grijalbo, 1984) · «Algunas propiedades de los campos»",
+          "role": "obligatoria · primera parte · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-ranke-pueblos-y-estados",
+          "name": "Pueblos y estados en la Europa moderna — L. Ranke (México, FCE, 1949) · (Selección)",
+          "role": "fuente · primera parte · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-bourde-martin-las-escuelas-historicas",
+          "name": "Las escuelas históricas — G. Bourdé y H. Martin (Madrid, Akal, 1992) · J. Michelet, Historia de Francia, Prefacio (2.1); G. Monod, «Los principios de La Revue historique» (2.2)",
+          "role": "fuente · primera parte · 2.1 y 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-taine-origenes-de-la-francia-contemporanea",
+          "name": "Los orígenes de la Francia contemporánea — H. Taine (Madrid, La España moderna; el programa no consigna año) · Prólogo y cap. 1 del libro III (selección)",
+          "role": "fuente · primera parte · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-iggers-la-ciencia-historica-en-el-siglo-xx",
+          "name": "La ciencia histórica en el siglo XX — Georg Iggers (Barcelona, Labor, 1995) · páginas 23 a 38 (2.1); «La ciencia histórica desde el historicismo clásico hasta la historia como ciencia social analítica» (4.1)",
+          "role": "obligatoria · primera parte · 2.1 y 4.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-furet-ozouf-diccionario-critico-revolucion-francesa",
+          "name": "Diccionario crítico de la Revolución Francesa — «Furet Francois-M- Ozouf» [así impreso] (Madrid, Alianza, 1989) · entrada: Michelet y Taine",
+          "role": "obligatoria · primera parte · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-langlois-seignobos-introduccion-a-los-estudios-historicos",
+          "name": "Introducción a los estudios históricos — Ch. Langlois y Ch. Seignobos, edición de Francisco Sevillano Calero y traducción de Jaime Lorenzo Miralles (Alicante, Publicaciones de la Universidad de Alicante, 2003) · (selección)",
+          "role": "fuente · primera parte · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-devoto-entre-taine-y-braudel",
+          "name": "Entre Taine y Braudel — Fernando Devoto (Buenos Aires, Biblos, 1992) · «Repensando una antigua polémica entre historiadores y sociólogos. El debate Simiand-Seignobos y algunos dilemas de la historiografía contemporánea»",
+          "role": "obligatoria · primera parte · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-noiriel-sobre-la-crisis-de-la-historia",
+          "name": "Sobre la crisis de la historia — Gerard Noiriel (Madrid, 1997; el programa imprime el pie editorial «Cátedra» en las obligatorias de 2.2 y 4.1 y «Frónesis/Cátedra» en la de la Segunda Parte) · capítulo 2, «La formación de una disciplina científica.» (2.2); cap. 4, «La crisis de los paradigmas» (4.1); Capítulo 6, «Nacimiento del oficio del historiador» (Segunda Parte)",
+          "role": "obligatoria · primera parte (2.2 y 4.1) y Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-bloch-los-reyes-taumaturgos",
+          "name": "Los reyes taumaturgos — M. Bloch (México, FCE, 1988) · (selección)",
+          "role": "fuente · primera parte · 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-bloch-introduccion-a-la-historia",
+          "name": "Introducción a la Historia — M. Bloch (México, FCE, 1995) · (selección)",
+          "role": "fuente · primera parte · 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-pagano-buchbinder-historiografia-francesa-contemporanea",
+          "name": "La historiografía francesa contemporánea — Nora Pagano y Pablo Buchbinder (Buenos Aires, Biblos, 1993) · André Burguière, «Historia de una historia. El nacimiento de Annales.» · el mismo título reaparece en la complementaria como «N. Pagano y P. Buchbinder (eds.) … Biblos, 1996»",
+          "role": "obligatoria · primera parte · 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-braudel-el-mediterraneo",
+          "name": "El Mediterráneo y el mundo mediterráneo en época de Felipe II — F. Braudel (México, FCE, 1953) · Prefacio a la primera edición española, prólogo a la primera y a la segunda edición francesa",
+          "role": "fuente · primera parte · 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-dosse-la-historia-en-migajas",
+          "name": "La historia en migajas. De Annales a la «nueva historia» — Francois Dosse [así impreso, sin cedilla] (Valencia, Edicions Alfons el Magnànim, 1988) · parte II (selección)",
+          "role": "obligatoria · primera parte · 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-thompson-la-formacion-historica-de-la-clase-obrera",
+          "name": "La formación histórica de la clase obrera — E. P. Thompson (Barcelona, Laia, 1977) · Prólogo y Cap. 6 «Explotación»",
+          "role": "fuente · primera parte · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-kaye-los-historiadores-marxistas-britanicos",
+          "name": "Los historiadores marxistas británicos. Un análisis introductorio — Harvey Kaye (Zaragoza, Prensas Universitarias, 1989) · «Introducción», Cap. 5 «E.P. Thompson: la formación de la clase trabajadora inglesa» y Cap. 7 «La contribución colectiva» · reaparece en la complementaria sin subtítulo y con el pie «Prensas de la Universidad de Zaragoza, 1989»",
+          "role": "obligatoria · primera parte · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-white-metahistoria",
+          "name": "Metahistoria. La imaginación histórica en la Europa del SXIX [así impreso] — H. White (Buenos Aires, FCE, 1998 (1973)) · Introducción",
+          "role": "fuente · primera parte · 4.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-ginzburg-el-queso-y-los-gusanos",
+          "name": "El queso y los gusanos. El cosmos según un molinero del siglo XVI — C. Ginzburg (Barcelona, Muchnik, 1981) · «Prefacio.»",
+          "role": "fuente · primera parte · 4.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-burke-formas-de-hacer-historia",
+          "name": "Formas de hacer historia — P. Burke (Madrid, Alianza, 1996) · Giovanni Levi, «Sobre microhistoria»",
+          "role": "obligatoria · primera parte · 4.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-ginzburg-mitos-emblemas-e-indicios",
+          "name": "Mitos, emblemas e indicios — Carlo Ginzburg (Barcelona, Gedisa, 1989) · «Indicios. Raíces de un paradigma de inferencias indiciales»",
+          "role": "obligatoria · primera parte · 4.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-scott-genero-e-historia",
+          "name": "Género e historia — J. W. Scott (México, FCE, 2008) · «Identidades masculinas y femeninas en el ámbito laboral. La política del trabajo y la familia en la industria parisina del vestido en 1848» (fuente) y «El género: una categoría útil para el análisis histórico» (obligatoria)",
+          "role": "fuente y obligatoria · primera parte · 4.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-perrot-mi-historia-de-las-mujeres",
+          "name": "Mi historia de las mujeres — M. Perrot (Buenos Aires, FCE, 2009) · Cap. I «Escribir la historia de las mujeres»",
+          "role": "obligatoria · primera parte · 4.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-guha-las-voces-de-la-historia",
+          "name": "Las voces de la historia y otros estudios subalternos — R. Guha (Barcelona, Crítica, 2002) · «Las voces de la historia»",
+          "role": "fuente · primera parte · 4.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-repensando-la-subalternidad",
+          "name": "Repensando la subalternidad: miradas críticas desde/sobre América Latina (Lima, IEP, 2010; el programa no consigna editor ni compilador del volumen) · «Dipesh, Chakrabarty» [así impreso, con nombre y apellido invertidos], «Una pequeña historia de los Estudios Subalternos»",
+          "role": "obligatoria · primera parte · 4.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-burguiere-diccionario-de-ciencias-historicas",
+          "name": "Diccionario de ciencias históricas — A. Burguiére [así impreso; en 3.1 el mismo apellido se imprime «Burguière»] (Madrid, Akal, 2005) · Philippe Joutard, «Memoria colectiva»",
+          "role": "obligatoria · primera parte · 4.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-osterhammel-la-transformacion-del-mundo",
+          "name": "La transformación del mundo: una historia global del siglo XIX — Jürgen Osterhammel (Barcelona, Crítica, 2015) · «Introducción» y Cap. 3: «Espacio»",
+          "role": "fuente · primera parte · 4.6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-conrad-historia-global",
+          "name": "Historia Global. Una nueva visión para el mundo actual — Sebastian Conrad (Barcelona, Crítica, 2017) · «Introducción» y Cap. 10: «Historia global para quién: la política de la historia global»",
+          "role": "obligatoria · primera parte · 4.6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-usos-publicos-de-la-historia",
+          "name": "Usos públicos de la Historia (Marcial Pons/Prensas Universitarias de Zaragoza, 2003; el programa no consigna lugar ni quién edita el volumen) · J. J. Carreras Ares y C. Forcadell Álvarez, «Introducción. Historia y política: los usos»",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-traverso-el-pasado-instrucciones-de-uso",
+          "name": "El Pasado, Instrucciones de uso — E. Traverso (Buenos Aires, Prometeo, 2011) · [Selección]",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-appleby-hunt-jacob-la-verdad-sobre-la-historia",
+          "name": "La verdad sobre la historia — J. Appleby, L. Hunt y M. Jacob (Barcelona, Andrés Bello, 1998) · «Introducción» · el mismo volumen reaparece entero en la bibliografía complementaria",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-novick-ese-noble-sueno",
+          "name": "Ese noble sueño — P. Novick (Méjico [así impreso], Instituto Mora, 1997, 2 vols.) · «5.Los historiadores en el frente nacional»",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-lowenthal-el-pasado-es-un-pais-extrano",
+          "name": "El pasado es un país extraño — D. Lowenthal (Madrid, Akal, 1998) · «Introducción»",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-hobsbawm-ranger-la-invencion-de-la-tradicion",
+          "name": "La invención de la tradición — E. Hobsbawm y Terence Ranger (eds.) (Barcelona, Crítica, 2002) · E. Hobsbawm, «Introducción»",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-chapoutot-el-nacionalsocialismo-y-la-antiguedad",
+          "name": "El nacionalsocialismo y la Antigüedad — J. Chapoutot (Madrid, Abada, 2013) · «Introducción»",
+          "role": "obligatoria · Segunda Parte",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-cattaruzza-eujanian-politicas-de-la-historia",
+          "name": "Políticas de la historia. Argentina 1860-1960 — A. Cattaruzza y A. Eujanian (Buenos Aires, Alianza, 2003) · A. Eujanian, «El surgimiento de la crítica» (Unidad 1); A. Cattaruzza, «La historia y la ambigua profesión de historiador en la Argentina de entreguerras» (Unidad 2, asentado «en Políticas de la historia, citado»)",
+          "role": "obligatoria · Tercera Parte · Unidades 1 y 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-devoto-pagano-historia-de-la-historiografia-argentina",
+          "name": "Historia de la historiografía argentina — F. Devoto y N. Pagano (Buenos Aires, Sudamericana, 2009) · «Los historiadores positivistas»",
+          "role": "obligatoria · Tercera Parte · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-nueva-historia-argentina-tomo-vii",
+          "name": "Crisis económica, avance del estado e incertidumbre política (1930-1943), tomo VII de la Nueva Historia Argentina (Buenos Aires, Sudamericana, 2001; el programa no consigna director ni compilador del tomo) · A. Cattaruzza, «Descifrando pasados: debates y representaciones de la historia nacional»",
+          "role": "obligatoria · Tercera Parte · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-pagano-rodriguez-historiografia-rioplatense-posguerra",
+          "name": "La historiografía rioplatense en la posguerra — N. Pagano y M. Rodríguez (comps.) (Buenos Aires, La Colmena, 2001) · M. Rodríguez, «Cultura y educación bajo el primer peronismo. El derrotero académico-institucional de R. Levene» · en la complementaria el mismo pie editorial lleva el título «La historiografía argentina en la posguerra»",
+          "role": "obligatoria · Tercera Parte · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-neiburg-los-intelectuales-y-la-invencion-del-peronismo",
+          "name": "Los intelectuales y la invención del peronismo — F. Neiburg (Buenos Aires, Alianza, 1998) · capítulo VI",
+          "role": "obligatoria · Tercera Parte · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-teran-nuestros-anos-sesentas",
+          "name": "Nuestros años sesentas — O. Terán (Buenos Aires, Punto sur, 1991) · capítulos 2 y 5",
+          "role": "obligatoria · Tercera Parte · Unidad 4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-buchbinder-historia-de-las-universidades-argentinas",
+          "name": "Historia de las universidades argentinas — P. Buchbinder (Buenos Aires, Sudamericana, 2005) · [Selección]",
+          "role": "obligatoria · Tercera Parte · Unidad 5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-goebel-la-argentina-partida",
+          "name": "La Argentina partida. Nacionalismos y políticas de la historia — M. Goebel (Buenos Aires, Prometeo, 2013) · [Selección] · asentado dos veces, en las Unidades 5 y 6",
+          "role": "obligatoria · Tercera Parte · Unidades 5 y 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-devoto-historiadores-ensayistas-y-gran-publico",
+          "name": "Historiadores, ensayistas y gran público. La historiografía argentina 1990-2010 — F. Devoto (director) (el programa no consigna lugar, editorial ni año: lo asienta dos veces como «citado», sin que el documento traiga en ninguna parte una cita previa completa) · N. Pagano, «La producción historiográfica reciente: continuidades, innovaciones, diagnósticos»; J. Stortini, «Rosas a reconsideración: historia y memoria durante el menemismo»",
+          "role": "obligatoria · Tercera Parte · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.teoria-historia-historiografia.libro-gonzalez-la-historia-reciente-en-la-escuela",
+          "name": "La historia reciente en la escuela. Saberes y prácticas docentes en torno a la última dictadura — M. P. González (Los Polvorines, Universidad Nacional de General Sarmiento, 2014) · [Selección]",
+          "role": "obligatoria · Tercera Parte · Unidad 6",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA, cód. 0433 / 14019, Prof. Alejandro Cattaruzza, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0433_14019%20-%20TEOR%C3%8DA%20E%20HISTORIA%20DE%20LA%20HISTORIOGRAF%C3%8DA%20-%20CATTARUZZA%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA, cód. 0433 / 14019, PROFESOR: CATTARUZZA, ALEJANDRO, 1º CUATRIMESTRE 2026, AÑO: 2026 (15 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-historiografia-cattaruzza-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0433_14019%20-%20TEOR%C3%8DA%20E%20HISTORIA%20DE%20LA%20HISTORIOGRAF%C3%8DA%20-%20CATTARUZZA%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de TEORÍA E HISTORIA DE LA HISTORIOGRAFÍA, CÓDIGO Nº: 0433 / 14019, RÉGIMEN DE PROMOCIÓN: EF, PROFESOR/A: RODRIGUEZ, MARTHA, 2º CUATRIMESTRE 2026, AÑO: 2026, 12 pp. — el programa alternativo, NO dibujado: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados. En la extracción de esa portada la sigla sale «REDEC-2024-2526UBA-DCT#FFYL», sin el guion, por el salto de línea; no se le atribuye al documento",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0433%20-%2014019]%20-%20TEORIA%20E%20HISTORIA%20DE%20LA%20HISTORIOGRAFIA%20-%20RODRIGUEZ%20-%202C%202026.pdf"
+    }
+  ]
+}

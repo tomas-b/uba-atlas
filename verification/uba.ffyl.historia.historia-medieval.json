@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.historia.historia-medieval",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 20,
+  "units_found": 20,
+  "books_total": 41,
+  "books_found": 41,
+  "not_found": [
+    "Contradicción (17) Ferro/Fierro CONFLATA DOS VOLÚMENES DISTINTOS: «Ferro M. y otros (eds.)» edita «711-1616: de árabes a moriscos» (L660, única aparición); «Fierro» aparece sólo para OTRO volumen, «El cuerpo derrotado» (L675 complementaria U X, L734 Bibliografía general, donde García Sanjuán ni figura). El claim de que la Bibliografía general imprime «FIERRO, M.» como editor del volumen de García Sanjuán NO está impreso, y la misma referencia cruzada sin sustento vive en el nombre del libro libro-ferro-711-1616 («[así impreso; la Bibliografía general imprime FIERRO, M.]»). Reparar: reformular (17) como dos volúmenes distintos con apellidos Ferro/Fierro y cortar el corchete del nombre del libro."
+  ],
+  "omitted": [
+    "Menores sin reparación obligatoria: la lista de artefactos de form-feed nombra 3 líneas pero hay 7 más (dos bibliográficas, L567/L677); la contradicción (20) omite una tercera grafía «MONSALVO ANTON» sin tilde (L789); «un solo bloque para las dos partes» de U VIII es una lectura (el bloque está impreso bajo Parte b; el conteo 8 es correcto); el cronograma de U VI agrega un punto final ausente del encabezado de Contenidos — quinta divergencia puramente de puntuación."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (23 pp, sha256 684e470e…). Recuento limpio: 10 romanos + 10 arábigos SIN correspondencia implicada en ningún lado (negada 3×, namespaces separados, roles que sólo co-citan); 306 asientos con cada conteo por bloque exacto (dos entradas sólo visibles tras quitar form-feeds — el verificador las encontró); 79→46→41 verificado; las 33 exclusiones una por una contra sus contenedores; 41 exits sin duplicados. Split de cátedra EXACTO (4 con tilde: materiales, email, colección, REDEC + la forma sin tilde dentro del email; catedralicias ×2 palabra distinta) — el caso auto-denominante verificado. 15 de las 21 contradicciones atacadas con refs en ambos lados: todas impresas. Ausencias verificadas (Thompson una vez, en el epígrafe; llamada de nota 2 sin texto; Cargo en blanco). Botalla re-bajado: cada campo verbatim, ninguna letra de cátedra en ninguno de los dos programas, y el 'así extraído' del REDEC es honesto (reproducible con el método declarado). Un error sustantivo: una contradicción del registro que fusiona dos volúmenes distintos, con eco en un nombre de libro."
+}

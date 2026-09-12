@@ -1,0 +1,21 @@
+{
+  "address": "uba.ffyl.historia.geografia-historica",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 22,
+  "books_found": 22,
+  "not_found": [
+    "Lede: «cita de Lefèbvre» la tesis del espacio — el documento NO la atribuye: la frase (L60-61) lleva la llamada 3, y la nota 3 lista CUATRO obras (Gómez Mendoza, Kollmann, Lefèbvre, Souto) sin indicar de cuál proviene. Nada inventado (Lefèbvre está impreso), pero el lede elige una de cuatro y la presenta como cita del programa — y contradice al propio map.foot, que dice «entrecomilla sin atribuirla». Reparar el lede a lo que el foot ya dice."
+  ],
+  "omitted": [
+    "Menores no bloqueantes: «en el mismo renglón» del punto 8 (el título se quiebra en dos líneas físicas); coma/espaciado del Tomo I de Barsky&Djenderedjian fuera de la normalización declarada; el 2019 de Besse&Escolar sin el caveat de año-de-capítulo que el nodo sí aplica a otro volumen; variante «en Argentina»/«en la Argentina» señalada por caja pero no por el artículo caído; la lista de marcas de selección omite «Selección de Cátedra» (L666)."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "history": "Primera versión de este nodo (misma ola): trazada sobre el programa 2017 del repositorio con el claim «el más reciente que existe en cualquier parte» — REFUTADO por el verificador adversarial, que encontró el programa vigente 1C 2026 en la carpeta Drive de la novedad de programas (el buscador Drupal de la carrera no indexa esas páginas). El nodo fue re-fundado sobre el programa 2026 dentro de la misma ola; el cuerpo 2017 había verificado limpio como documento (cadena de custodia criptográfica, 202 referencias exactas) — lo falso era la unicidad temporal, no el contenido.",
+  "notes": "Re-grounding VERIFIED: extract SHA-256-identical to the live Drive PDF (19 pp, native CID text layer — OCR correctly never fired); full three-leg provenance chain reproduced by curl (novedad → carpeta → file id, tamaño exacto); «A cargo del Depto.» atribuido sólo al filename (grep 'A CARGO' en el PDF = 0). Todos los conteos exactos entrada por entrada: 160 = 60+100 con los cinco vectores; 24 no-bibliográficos; 25 con pie → 22 libros vía las 3 unificaciones; los 35 no-dibujados itemizados por tipo y verificados uno a uno. Las 11 contradicciones con refs; 41/41 cadenas citadas presentes; greps todos confirmados incl. las 11 líneas de «cátedra» ninguna denominativa. PATTERN CHECKS PASS: cero narración de refutación/migración en el nodo; el 2017 sólo como fuente previa declarada, nada dibujado de él; los tres registros del repositorio re-fetcheados y verbatim. Un solo defecto: la sobre-atribución del lede."
+}

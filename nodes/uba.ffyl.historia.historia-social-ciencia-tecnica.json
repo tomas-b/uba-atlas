@@ -1,0 +1,512 @@
+{
+  "address": "uba.ffyl.historia.historia-social-ciencia-tecnica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF (EXAMEN FINAL), Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a trabajos prácticos y 2 instancias de evaluación parcial con mínimo de 4 puntos (arts. 39º y 40º) · UN (1) recuperatorio · vigencia de la regularidad: 4 años y 3 mesas examinadoras",
+    "cargaHoraria": "96 HORAS (materia cuatrimestral: mínimo 6 y máximo 10 horas semanales de dictado)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0403/14002 — así impreso, en la portada y en la segunda carátula; el programa no dice a qué plan corresponde cada uno de los dos números",
+    "catedra": "el programa NO se designa por letra, número ni nombre de cátedra: la portada consigna «PROFESOR/A: ESTEBAN GREIF» y el documento va firmado «Esteban Augusto Greif / Prof. Adjunto a cargo». La palabra «cátedra» aparece 3 veces en el PDF: dos en créditos de traducción de las cartas de Darwin («Hay traducción de la cátedra», U4; «Hay traducción de cátedra», U5) y una dentro de la boilerplate reglamentaria REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). Ninguna nombra una cátedra",
+    "equipoDocente": "CAMPO IMPRESO Y VACÍO: la segunda carátula imprime «EQUIPO DOCENTE:1» y debajo no hay ningún nombre; la llamada 1 remite a la nota al pie «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». El único docente nombrado en todo el documento es Esteban Augusto Greif",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias para el Ciclo Lectivo 2026) · el programa reproduce la norma —hasta un 30% de clases en modalidad virtual; teóricas íntegramente virtuales con más de 350 inscriptos/as sin estructura de cátedra que permita desdoblarlas— pero NO declara qué porcentaje adopta esta materia: la norma misma remite ese dato a «la página web de cada carrera»",
+    "organizacionDeClases": "clases teóricas (procesos y problemas históricos de la Antigüedad al siglo XX), teóricas-prácticas (análisis de fuentes primarias y ejes de la discusión historiográfica) y prácticas (bibliografía específica por comisión, con foco en medicina, ciencias naturales y ciencias sociales)",
+    "rolEnElPlan": "electiva · 2 de 4 dentro del Ciclo de Grado · Materias Generales — DATO CRUZADO del nodo padre uba.ffyl.historia (esquema del Plan 1985), NO del programa: este PDF no consigna ciclo, área, orientación ni correlatividades",
+    "unidades": 5,
+    "bibliografia": 53,
+    "firmaDelDocumento": "Esteban Augusto Greif, Prof. Adjunto a cargo"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-social-ciencia-tecnica",
+      "label": "Historia Social de la Ciencia y de la Técnica"
+    }
+  ],
+  "eyebrow": "Historia · Historia Social de la Ciencia y de la Técnica · Greif · 1º cuatrim. 2026",
+  "title": "Ninguna ciencia se explica sola.",
+  "lede": "El largo proceso del desarrollo institucional de la ciencia en el mundo occidental y los sujetos que lo hicieron posible, leído «desde una perspectiva social de la historia de la ciencia y de la técnica». Se entra por las herramientas: el concepto de revolución en la historia de la ciencia —¿cambios o continuidades?—, las polémicas entre «internalismo» y «externalismo», y las lecturas anacrónicas («whig»). Después el recorrido es diacrónico, de la Antigüedad al siglo XX: el pensamiento mítico y el especulativo, el universo de las dos esferas, la medicina galénica, la cultura monacal y la universitaria con el trivium y el quadrivium; el Renacimiento y la Revolución Científica, Copérnico, el juicio a Galileo, la nueva anatomía, la síntesis newtoniana y la revolución química de Paracelso a Lavoisier; la Revolución Industrial y la fábrica, la clínica hospitalaria y la teoría bacteriana, Darwin y el darwinismo, el origen del hombre de la cronología bíblica al tiempo geológico, y el nacimiento de las ciencias sociales bajo el imperialismo; y por fin la genética y la biotecnología, la crisis del programa mecanicista, la relatividad y la cuántica, la psiquiatría y las píldoras, la ciencia popular y la historia ambiental.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Greif"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA, Departamento de Historia (FFyL-UBA), cód. 0403/14002, Prof. Esteban Greif, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Salvo el rol de la materia dentro del plan, que se declara como dato cruzado, todo lo afirmado acá proviene de ese único PDF (9 páginas, capa de texto nativa, extraído entero; ningún asiento se descartó por ilegible). DOS PROGRAMAS PUBLICADOS, UNO SE TRAZA — SELECCIÓN DECLARADA EN LAS DOS DIRECCIONES: el Departamento de Historia publica DOS programas de esta materia para 2026 bajo el mismo código 0403/14002, y este nodo traza 1 de 2. TRAZADA: GREIF, ESTEBAN — 1º cuatrimestre 2026, 9 páginas, régimen EF, la fuente de todo lo que se dibuja acá. CITADA SIN TRAZAR (1 de 2): RIEZNIK, MARINA — 2º cuatrimestre 2026, 13 páginas, cuya portada se verificó en este mismo relevamiento y consigna «UNIVERSIDAD DE BUENOS AIRES / FACULTAD DE FILOSOFÍA Y LETRAS / DEPARTAMENTO: HISTORIA / CÓDIGO Nº: 0403/14002 / MATERIA: HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA. / RÉGIMEN DE PROMOCIÓN: EF / MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL / PROFESOR/A: RIEZNIK, MARINA / 2º CUATRIMESTRE 2026»; su contenido NO se extrajo y NADA de este nodo le corresponde. La portada de Rieznik imprime el nombre de la materia con punto final («…Y DE LA TÉCNICA.») y la de Greif sin punto; ambas citan la misma norma, REDEC-2024-2526-UBA-DCT#FFYL. El programa de Greif no menciona al otro ni se designa a sí mismo por letra o número de cátedra en ninguna de sus 9 páginas; del de Rieznik se leyó sólo la portada, y en ella tampoco hay letra, número ni nombre de cátedra. CÁTEDRA: no se le atribuye denominación alguna. El programa de Greif no se nombra por letra, número ni titular de cátedra: dice «PROFESOR/A: ESTEBAN GREIF» y firma «Esteban Augusto Greif / Prof. Adjunto a cargo». La palabra «cátedra» aparece tres veces —dos en los créditos de traducción de las cartas de Darwin y una dentro de la boilerplate reglamentaria de REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»— y ninguna de las tres nombra una cátedra. EQUIPO DOCENTE: el campo está impreso y queda VACÍO. La carátula imprime «EQUIPO DOCENTE:1» y debajo no hay ningún nombre; la llamada remite a la nota al pie «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». No se completa con nadie: el único docente nombrado en el documento es Greif. La sección «c. Recomendaciones» también está impresa y VACÍA: el encabezado existe y no lo sigue ningún texto. DATO CRUZADO: la ubicación de la materia en la carrera —electiva, 2 de 4, en el Ciclo de Grado · Materias Generales— viene del esquema del Plan 1985 tal como está asentado en el nodo padre uba.ffyl.historia, NO de este programa, que no consigna ciclo, área, orientación ni correlatividades. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en ninguna parte del texto, verificado por grep sobre el extracto completo), el equipo docente, el ciclo o área del plan, la resolución de aprobación del programa, el porcentaje de virtualidad efectivamente adoptado por la materia (reproduce la norma que lo permite y remite el dato a la web de la carrera) y a qué plan corresponde cada uno de los dos números del código 0403/14002. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen con examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). ESTRUCTURA: el apartado se titula «C. CONTENIDOS / D. BIBLIOGRAFÍA» —contenidos y bibliografía van fundidos en una sola sección— y trae cinco unidades numeradas, Unidad 1 a Unidad 5; las cinco se dibujan. Dentro de cada unidad el programa alterna bloques rotulados «Bibliografía:», «Fuentes:» (una vez «Fuentes de:» en la U1 y una vez «Fuentes» sin dos puntos en la U2) y un segundo bloque «Bibliografía:», y en la U5 un bloque «Bibliografía y fuentes»; ese reparto interno no está explicado en el documento y se registra tal cual en el rol de cada libro, sin inferir jerarquía entre un bloque y otro. Cierra un bloque único, no adscripto a ninguna unidad, rotulado «Bibliografía y fuentes complementarias de consulta:». SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: la sección C/D tiene 66 asientos bibliográficos en total —U1: 6 · U2: 10 · U3: 9 · U4: 10 · U5: 9 · complementarias de consulta: 22—. Se dibuja como libro el volumen titulado que contiene cada asiento: un capítulo, introducción, prólogo o pasaje se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. 59 de los 66 asientos nombran un volumen (U1: 5 · U2: 10 · U3: 9 · U4: 6 · U5: 7 · complementarias: 22) y, al unificar los repetidos, dan 53 libros distintos, que son los 53 que se dibujan. NO se dibujan los 7 asientos restantes, uno por uno: Flexner, «La utilidad de los conocimientos inútiles», Harper's Magazine, 1939 (revista, U1); Alcorta, «Edición de la Disertación sobre la Manía Aguda (1827) del médico Diego Alcorta», História, Ciências, Saúde – Manguinhos (revista, U4); Pasteur, «Conferencia de 1864 acerca de las generaciones espontáneas», Ciencia Hoy (revista, U4); las cartas de Darwin a Owen y a Muñiz —Letter 1061, Letter 1063 y Letter 938, «Hay traducción de la cátedra»— que no se citan dentro de ningún volumen (U4); la repetición de la Letter 1063 a Muñiz, «Hay traducción de cátedra» (U5); la «Selección de fragmentos de textos sobre las ciencias sociales» de diecisiete autores, sin título de volumen ni pie editorial (U4); y la «Imagen “The evolution Tree”, 1970» (U5). La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen titulado del programa queda fuera. UNIFICACIONES: Bowler y Morus, Panorama general de la ciencia moderna es el volumen más citado del programa —5 asientos, en las Unidades 1, 3, 4 y dos veces en la 5— y se dibuja una sola vez; Kuhn, La Tensión esencial se cita en los dos bloques «Bibliografía» de la U1 y se dibuja una sola vez; el volumen de Koyré se cita en la U3 y en las complementarias con datos divergentes y se dibuja una sola vez, con las dos impresiones registradas en el nombre. CONTRADICCIONES Y DESAJUSTES REGISTRADOS, NO RESUELTOS. (1) Koyré: la U3 imprime «Estudio de historia del pensamiento científico, México, 2013, pp. 150-179», en singular, con año 2013 y SIN editorial; las complementarias imprimen «Estudios de historia del pensamiento científico, México, Siglo XXI, 2003», en plural, con año 2003 y con editorial. Título, año y presencia del pie divergen; no se elige ninguna versión. (2) Rossi: el asiento anuncia «Capítulos 5, 6, 9» —tres capítulos— y a continuación imprime CUATRO tramos de páginas, «pp. 64-80; 81-106; 130; 130-147», el tercero de los cuales es una página suelta, «130», seguida de un tramo que vuelve a empezar en 130. (3) Miguel de Asúa aparece alfabetizado de dos formas distintas: «De Asúa, Miguel» en la U1 y «Asúa, Miguel de» en la U5. (4) La misma carta de Darwin a Muñiz, Letter 1063, 26 Feb [1847], se asienta en la U4 y otra vez en la U5, con la fórmula de crédito impresa distinta cada vez: «Hay traducción de la cátedra» en la U4 y «Hay traducción de cátedra» en la U5. (5) Bowler y Morus: el programa numera los capítulos del volumen sólo en la U5 —«(Capítulo 8)», «(Capítulo 11)», «(capítulo 12)» en minúscula, «(Capítulo 9)», «(Capítulo 14)», «(Capítulo 16)», «(Caítulo 21)»— y no numera ninguno en las Unidades 1, 3 y 4, donde los cita sólo por título. (6) El nombre de la editorial Fondo de Cultura Económica se imprime en masculino, «Fondo de Cultura Económico», en los asientos de Grant (U2) y de Arnold (U5), y en femenino en los de Kuhn (U1), Debus (U3), Yates (U3) y Scull (U5). (7) El asiento de Kuhn en la U1 imprime el pie editorial DOS VECES dentro de la misma entrada: «…en el ámbito de la ciencia Fondo de Cultura Económica, Madrid: Fondo de Cultura Económica, 1982»; el desajuste se repite idéntico en los dos asientos de ese volumen. (8) El asiento de Gallardo Luque (U2) imprime el pie «Buenos Aires: IMHICIHU, CONICET» dos veces, separado por el ISBN, y no consigna año. ERRATAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «Duhen, P.» por Duhem, en las Fuentes de la U1; «Copérnico, Nicolas» sin tilde y «Las Revoluciones de las esferas celeste» en singular (U3); «Newton, I. Principios matemáticos de la filosofía» sin la palabra «natural» (U3); «Caítulo 21» por Capítulo (U5); «Solís Carlos y Sellés Manuel, de Cap. 17» con un «de» suelto delante del capítulo (U4); «pp. 129-160 161-206; 207-237…» sin puntuación entre los dos primeros tramos (U4, Bowler); la comilla de Pasteur que abre dentro de otra comilla y no cierra, «Conferencia de 1864 “acerca de las generaciones espontáneas”» (U4); la comilla del tercer capítulo de El origen del hombre, que no se cierra antes del pie: «“Pruebas de que todas las naciones civilizadas han sido salvajes en otras épocas, Valencia, Sempere y Cª Editores, 2009» (U4); «Arnold, David.,» con punto y coma juntos (U5); «Yates, Francis … Fondo de cultura económica» en minúsculas, contra las mayúsculas del resto; «Goldstein T» sin punto abreviativo, y los asientos de Bernal y de Jacomy cerrados con coma en vez de punto, y el de Saldaña sin ningún signo final, en las complementarias; y, en el reglamento, «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.», que abre dos paréntesis y no cierra ninguno. Ninguna se corrige. LO QUE EL PROGRAMA ASIENTA SIN DATOS COMPLETOS, declarado y no completado: Platón, Timeo (Ed. Colihue, Buenos Aires) sin año; Feyerabend, Tratado contra el método (Madrid, Tecnos) sin año; Representaciones del mundo natural, de Consiglieri y Greif (Buenos Aires: IMHICIHU, CONICET) sin año; Koyré (México, 2013) sin editorial; y El Fisiólogo: bestiario medieval, que en lugar de pie editorial imprime «ediciones varias». En los cinco casos se dibuja el volumen y la falta queda anotada en el nombre, en vez de rellenarse.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades del programa (Greif, 1º cuatrim. 2026)",
+      "title": "De la Antigüedad al siglo XX, en cinco tramos",
+      "note": "Las cinco unidades numeradas de la sección «C. CONTENIDOS / D. BIBLIOGRAFÍA», en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA · cód. 0403/14002\nGreif · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ 1 · Introducción a las herramientas analíticas\n│      ¿revolución: cambios o continuidades? · la Revolución Científica\n│      «internalismo» y «externalismo» · lecturas anacrónicas («whig»)\n│\n├─ 2 · La antigüedad y la Edad Media\n│      pensamiento mítico y especulativo · cosmologías griegas\n│      Platón · el universo de las dos esferas de Aristóteles\n│      medicina antigua y medieval · fe, autoridad y razón\n│      cultura monacal y universitaria · trivium y quadrivium\n│\n├─ 3 · El Renacimiento y los orígenes de la modernidad\n│      expansión geográfica · América en la ciencia occidental\n│      Copérnico · Galileo y su juicio · la nueva anatomía\n│      síntesis newtoniana · Descartes, Boyle y la Providencia\n│      tradiciones organicista, mágica y mecanicista\n│      la revolución química: de Paracelso a Lavoisier\n│\n├─ 4 · Los siglos XVIII y XIX\n│      Revolución Industrial · la fábrica · la Ilustración y la enciclopedia\n│      de la clínica hospitalaria a la teoría bacteriana · el laboratorio\n│      Darwin y el darwinismo · de la cronología bíblica al tiempo geológico\n│      imperialismo y origen de las ciencias sociales · positivismo y marxismo\n│\n└─ 5 · el siglo XX\n       genética y biotecnología · evolucionismo y «diseño inteligente»\n       crisis del programa mecanicista · relatividad y física cuántica\n       psiquiatría, píldoras y medicina · la comunidad de expertos\n       ciencia popular · ecología, ecologismo, historia ambiental",
+        "foot": "Los contenidos mínimos del apartado B. Objetivos anuncian el mismo recorrido en un solo párrafo corrido, de la cosmología antigua a «La historia y la problemática ambiental.». El programa no declara correspondencia entre ese párrafo y las cinco unidades, y acá no se infiere ninguna."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.u1-herramientas-analiticas",
+          "name": "Introducción a las herramientas analíticas para una historia de la ciencia",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.u2-antiguedad-y-edad-media",
+          "name": "La antigüedad y la Edad Media",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.u3-renacimiento-y-origenes-de-la-modernidad",
+          "name": "El Renacimiento y los orígenes de la modernidad",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.u4-siglos-xviii-y-xix",
+          "name": "Los siglos XVIII y XIX",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.u5-el-siglo-xx",
+          "name": "el siglo XX",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía y fuentes del programa",
+      "title": "Lo que se lee",
+      "note": "Los 53 volúmenes titulados de la sección «C. CONTENIDOS / D. BIBLIOGRAFÍA», por unidad y después el bloque de complementarias de consulta. Un capítulo, introducción o pasaje se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 7 asientos sin volumen —tres de revista, dos de cartas, una selección de fragmentos y una imagen—: quedan declarados uno por uno en el frame. El rol cita el bloque tal como lo rotula el programa. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-bowler-morus-panorama",
+          "name": "Panorama general de la ciencia moderna — Peter Bowler e Ian Morus (Madrid, Crítica, 2007) · el volumen más citado del programa, en 5 asientos: «Introducción: Ciencia, sociedad e historia», pp. 1–27 (U1); «La Revolución científica» y «La Revolución química», pp. 31–69; 70-98 (U3); «La Edad de la tierra»; «La Revolución darwiniana», «La nueva biología», «Ciencia y medicina», «La aparición de las ciencias humanas», pp. 129-160 161-206; 207-237; 373-395; 551-579 [así impreso] (U4); «Genética (Capítulo 8)»; «La física del siglo XX (Capítulo 11)», «La revolución en la cosmología (capítulo 12)», pp. 238-267, 317-346, 347-372 (U5); «Ecología y ecologismo (Capítulo 9)»; «La organización de la ciencia (Capítulo 14)»; «Ciencia popular (Capítulo 16)»; «Ciencia y género (Caítulo 21)» [así impreso], pp. 268-295, 399-427; 463-492; 610-637 (U5)",
+          "role": "Bibliografía · U1, U3, U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-de-asua-ciencia-en-la-argentina",
+          "name": "La ciencia en la Argentina. Perspectivas históricas — Miguel De Asúa (Buenos Aires, Centro Editor de América Latina, 1993) · «Introducción»",
+          "role": "Bibliografía · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-kuhn-la-tension-esencial",
+          "name": "La Tensión esencial. Estudios sobre la tradición y el cambio en el ámbito de la ciencia — Thomas Kuhn (Madrid: Fondo de Cultura Económica, 1982; el programa imprime el pie dos veces en cada asiento, «…en el ámbito de la ciencia Fondo de Cultura Económica, Madrid: Fondo de Cultura Económica, 1982») · «La historia de la ciencia», pp. 129-150, y «Las relaciones entre la historia y la historia de la ciencia», pp. 151-184, en los dos bloques «Bibliografía» de la Unidad 1",
+          "role": "Bibliografía · U1 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-historia-de-la-ciencia-fundamentos",
+          "name": "La historia de la ciencia. Fundamentos y transformaciones (Buenos Aires, Centro Editor de América Latina, 1993) · contiene las cinco fuentes de la Unidad 1: Comte, A., «Filosofía positiva-exposición»; Duhen, P. [así impreso], «Salvar los fenómenos»; Sarton, G., «Introducción a la historia de las ciencias»; Bernal, J., «La historia social de la ciencia»; Shapin, S., «Hablar de historia: reflexiones sobre el análisis del discurso»",
+          "role": "Fuentes de · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-lindberg-inicios-ciencia-occidental",
+          "name": "Los inicios de la ciencia occidental. La tradición científica europea en el contexto filosófico, religioso e institucional (desde el 600 a.C. hasta 1450) — David Lindberg (Barcelona, Paidós, 2002)",
+          "role": "Bibliografía · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-platon-republica",
+          "name": "República, VII — Platón (Ed. Gredos, Madrid 1992) · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-platon-timeo",
+          "name": "Timeo, XV-XVIII — Platón (Ed. Colihue, Buenos Aires; el programa no consigna año)",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-aristoteles-metafisica",
+          "name": "Metafísica, IV y VI — Aristóteles (Debolsillo, Buenos Aires, 2004) · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-fisiologo-bestiario-medieval",
+          "name": "El Fisiólogo: bestiario medieval — Anónimo, Nilda Guglielmi (ed.) (el programa no consigna lugar, editorial ni año: imprime «ediciones varias») · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-isidoro-etimologias",
+          "name": "Etimologías, Libro IV — Isidoro de Sevilla (Madrid: Editorial Católica, 1982) · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-galeno-procedimientos-anatomicos",
+          "name": "Procedimientos anatómicos. Libros I-X — Galeno (Madrid: Gredos, 2002) · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-hipocrates-tratados",
+          "name": "Tratados — Hipócrates (Barcelona: Gredos, 2007) · pasajes",
+          "role": "Fuentes · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-grant-ciencia-fisica-edad-media",
+          "name": "La ciencia física en la Edad Media — Edward Grant (México D.F.: Fondo de Cultura Económico [así impreso, en masculino], 2018) · caps. 4 y 5: «La física del movimiento»; «La tierra, los cielos y más allá»",
+          "role": "Bibliografía · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-consiglieri-greif-representaciones",
+          "name": "Representaciones del mundo natural: de la Edad Media a la Modernidad — Nadia Consiglieri y Esteban Greif (eds.) (Buenos Aires: IMHICIHU, CONICET; ISBN 978-987-4934-26-0; el programa repite el pie dos veces y no consigna año) · Adriana Gallardo Luque, «El unicornio en el imaginario medieval: del bestiario a la enciclopedia de la Escolástica», pp. 113-136",
+          "role": "Bibliografía · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-debus-hombre-y-naturaleza",
+          "name": "El hombre y la naturaleza en el Renacimiento — A. Debus (México D.F. Fondo de Cultura Económica, 1978) · capítulos 2 y 6",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-yates-ideas-e-ideales",
+          "name": "Ideas e ideales del Renacimiento en el norte de Europa. Ensayos reunidos III — Francis Yates (Fondo de cultura económica [así impreso, en minúsculas], México D. F. 2002) · «Capítulo XXIX: La tradición hermética en la ciencia renacentista»",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-butterfield-origenes-ciencia-moderna",
+          "name": "Los orígenes de la ciencia moderna — Herbert Butterfield (Madrid: Taurus, 1958) · caps. 2 a 5: «El conservatismo de Copérnico»; «El estudio del corazón hasta William Harvey»; «El ocaso de Aristóteles y Tolomeo»; «El método experimental en el siglo XVII»",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-copernico-revoluciones",
+          "name": "Las Revoluciones de las esferas celeste [así impreso] — Nicolas Copérnico [así impreso, sin tilde en Nicolás] (Buenos Aires: Eudeba, 1967) · pasajes",
+          "role": "Fuentes · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-galilei-mensajero-de-los-astros",
+          "name": "El mensajero de los astros — G. Galilei (Buenos Aires, Eudeba, 1964)",
+          "role": "Fuentes · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-newton-principios-matematicos",
+          "name": "Principios matemáticos de la filosofía [así impreso, sin «natural»] — I. Newton (Madrid, Tecnos, 1987) · pasajes",
+          "role": "Fuentes · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-koyre-historia-pensamiento-cientifico",
+          "name": "Estudio(s) de historia del pensamiento científico — Alexander Koyré · el programa lo imprime dos veces con datos divergentes y no se elige ninguna versión: «Estudio de historia del pensamiento científico, México, 2013, pp. 150-179», sin editorial, con el artículo «Galileo y Platón» (U3), y «Estudios de historia del pensamiento científico, México, Siglo XXI, 2003» (complementarias)",
+          "role": "Bibliografía · U3 · + complementarias de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-rossi-nacimiento-ciencia-moderna",
+          "name": "El nacimiento de la ciencia moderna — Paolo Rossi (Crítica, Barcelona. 1998) · «Capítulos 5, 6, 9, pp. 64-80; 81-106; 130; 130-147» — así impreso: anuncia tres capítulos y da cuatro tramos de páginas, uno de ellos una página suelta",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-darwin-diario-de-viaje",
+          "name": "Diario de viaje de un naturalista alrededor del mundo — Charles Darwin (Editorial Akal, Madrid, 1997) · capítulos 7 y 8",
+          "role": "Fuentes · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-ciencia-del-hombre-siglo-xviii",
+          "name": "La ciencia del hombre en el siglo XVIII (Buenos Aires Centro Editor de América Latina, 1978) · G. Cuvier, «Instrucciones sobre las investigaciones a realizar en torno de las diferencias anatómicas entre las varias razas humanas»",
+          "role": "Fuentes · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-solis-selles-historia-de-la-ciencia",
+          "name": "Historia de la ciencia — Carlos Solís y Manuel Sellés (Madrid, Espasa–Calpe, 2005) · «de Cap. 17 “Ciencia, Ilustración y Revolución Industrial”» [así impreso], pp. 593–609",
+          "role": "Bibliografía · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-porter-breve-historia-locura",
+          "name": "Breve historia de la locura — Roy Porter (Ed. Turner, Madrid, 2008) · «Capítulo VIII ¿El siglo del Psicoanálisis?»",
+          "role": "Bibliografía · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-darwin-origen-del-hombre",
+          "name": "El origen del hombre, la selección natural y la sexual — Charles Darwin (Valencia, Sempere y Cª Editores, 2009), pp. 127-43 · del capítulo V: «Desarrollo de las facultades morales e intelectuales en los tiempos primitivos y en los civilizados»; «La selección natural en su acción sobre las naciones civilizadas»; «Pruebas de que todas las naciones civilizadas han sido salvajes en otras épocas» — la comilla de este último título no se cierra en el original",
+          "role": "Bibliografía · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-scull-locura-y-civilizacion",
+          "name": "Locura y civilización. Una historia cultural de la demencia, de la Biblia a Freud, de los manicomios a la medicina moderna — Andrew Scull (México: Fondo de Cultura Económica, 2019) · «Una revolución psiquiátrica» (Capítulo 12), pp. 370-423",
+          "role": "Bibliografía · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-asua-de-cara-a-darwin",
+          "name": "De cara a Darwin. La teoría de la evolución y el cristianismo — Miguel de Asúa [aquí alfabetizado «Asúa, Miguel de»; en la U1, «De Asúa, Miguel»] (Buenos Aires: Lumen, 2009) · «Evolución y religión (capítulo 6)», «La evolución y los católicos (capítulo 7)», pp. 213-242; 243-275",
+          "role": "Bibliografía · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-darwin-autobiografia-y-cartas",
+          "name": "Autobiografía y cartas escogidas (2) — Charles Darwin, selección de Francis Darwin (Madrid: Alianza Editorial, 1977) · «Carta a Asa Gray, 22 de mayo de 1860», pp. 349-351",
+          "role": "Fuentes · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-einstein-relatividad",
+          "name": "Sobre la Teoría de la relatividad especial y general — Albert Einstein (Madrid: Alianza Editorial, 2012) · pasajes",
+          "role": "Fuentes · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-arnold-naturaleza-problema-historico",
+          "name": "La naturaleza como problema histórico. El medio, la cultura y la expansión de Europa — David Arnold (México D.F., Fondo de Cultura Económico [así impreso, en masculino], 2000) · Introducción",
+          "role": "Bibliografía y fuentes · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-bernal-ciencia-en-la-historia",
+          "name": "La ciencia en la historia — J. D. Bernal (México, Ed. Nueva Imagen, 1986)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-boido-noticias-del-planeta-tierra",
+          "name": "Noticias del planeta Tierra. Galileo Galilei y la revolución científica — G. Boido (Buenos Aires, A–Z Editores, 1998)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-brockman-la-tercera-cultura",
+          "name": "La tercera cultura. Más allá de la revolución científica — J. Brockman (comp.) (Barcelona, Tusquets, 1996)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-cohen-revolucion-en-ciencia",
+          "name": "La Revolución en Ciencia — I. B. Cohen (Barcelona, Gedisa, 1989)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-di-trocchio-mentiras-en-la-ciencia",
+          "name": "Las mentiras en la ciencia — F. Di Trocchio (Madrid, Alianza, 1998)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-dupre-legado-de-darwin",
+          "name": "El legado de Darwin. Qué significa hoy la evolución — J. Dupré (Buenos Aires: Katz editores, 2006)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-eldredge-tattersall-mitos-evolucion-humana",
+          "name": "Los mitos de la evolución humana — N. Eldredge e I. Tattersall (FCE, México, 1986)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-eldredge-darwin-arbol-de-la-vida",
+          "name": "Darwin. El descubrimiento del árbol de la vida — N. Eldredge (Buenos Aires: Katz editores. 2009)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-feyerabend-adios-a-la-razon",
+          "name": "Adiós a la Razón — P. Feyerabend (Madrid, Ed. Tecnos S.A., 1984)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-feyerabend-tratado-contra-el-metodo",
+          "name": "Tratado contra el método — P. Feyerabend (Madrid, Tecnos; el programa no consigna año)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-geymonat-pensamiento-cientifico",
+          "name": "Pensamiento científico — L. Geymonat (Buenos Aires, EUDEBA, 1969)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-goldstein-albores-de-la-ciencia",
+          "name": "Los albores de la ciencia. de los árabes a Leonardo da Vinci [así impreso] — T. Goldstein [«Goldstein T», sin punto abreviativo] (México, Fondo Educativo Latinoamericano, 1984)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-jacomy-historia-de-las-tecnicas",
+          "name": "Historia de las técnicas — B. Jacomy (Buenos Aires, Losada, 1992)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-kuhn-estructura-revoluciones-cientificas",
+          "name": "La estructura de las revoluciones científicas — T. Kuhn (México, FCE, 1985)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-kuhn-revolucion-copernicana",
+          "name": "La revolución copernicana — T. Kuhn (Madrid, Hyspamérica, 1985)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-lakatos-historia-de-la-ciencia",
+          "name": "La Historia de la ciencia y de sus reconstrucciones racionales — I. Lakatos (Madrid, Tecnos, 1987)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-merton-ciencia-tecnologia-y-sociedad",
+          "name": "Ciencia, tecnología y sociedad en la Inglaterra del siglo XVII — R. Merton (Madrid, Alianza, 1984)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-nagel-estructura-de-la-ciencia",
+          "name": "La estructura de la ciencia — E. Nagel (Buenos Aires, Paidós, 1974)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-needham-la-gran-titulacion",
+          "name": "La gran titulación. Ciencia y Sociedad en Oriente y Occidente — J. Needham (Madrid, Alianza Editorial, 1977)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-saldana-introduccion-teoria-historia-ciencias",
+          "name": "Introducción a la teoría de la historia de las ciencias — J. Saldaña (Comp.) (México, UNAM, 1989)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-ciencia-tecnica.libro-shapin-revolucion-cientifica",
+          "name": "La revolución científica, una interpretación alternativa — S. Shapin (Barcelona, Paidós, 2000)",
+          "role": "complementaria de consulta",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA, cód. 0403/14002, Prof. Esteban Greif, 1º cuatrimestre 2026 (9 pp., PDF con capa de texto nativa; extracto local en extract/out/historia-ciencia-tecnica-greif-2026.txt)",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0403_14002%20-%20HISTORIA%20SOCIAL%20DE%20LA%20CIENCIA%20Y%20DE%20LA%20T%C3%89CNICA%20-%20GREIF%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA, cód. 0403/14002, Prof. Esteban Greif, 1º cuatrimestre 2026 — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo (9 pp.)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0403_14002%20-%20HISTORIA%20SOCIAL%20DE%20LA%20CIENCIA%20Y%20DE%20LA%20T%C3%89CNICA%20-%20GREIF%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA SOCIAL DE LA CIENCIA Y DE LA TÉCNICA., cód. 0403/14002, Prof. Marina Rieznik, 2º cuatrimestre 2026 — la segunda cátedra que publica esta materia (13 pp.). CITADA SIN TRAZAR: sólo se verificó su portada en este relevamiento; su contenido no se extrajo y nada de este nodo proviene de ella",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0403%20-%2014002]%20-%20HISTORIA%20SOCIAL%20DE%20LA%20CIENCIA%20Y%20DE%20LA%20T%C3%89CNICA%20-%20RIEZNIK%20-%202C%202026.pdf"
+    },
+    {
+      "label": "academica.filo.uba.ar/plan-de-estudios-historia · Esquema del Plan 1985 de Historia — consultado a través del nodo padre uba.ffyl.historia para el rol de la materia en el plan (electiva, 2 de 4, Ciclo de Grado · Materias Generales); el programa de cátedra no consigna ese dato",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}

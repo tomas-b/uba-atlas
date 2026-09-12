@@ -1,0 +1,410 @@
+{
+  "address": "uba.ffyl.historia.geografia-historica",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — «Régimen de promoción con EXAMEN FINAL (EF)», Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial, con 1 recuperatorio",
+    "cargaHoraria": "96 HORAS (la portada imprime «CARGA HORARIA: 96 HORAS»; el apartado E reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1° — la carátula imprime «CUATRIMESTRE: 1°» y «AÑO: 2026»; el encabezado interno imprime «1°CUATRIMESTRE 2026», sin espacio",
+    "año": 2026,
+    "codigo": "0432 (así impreso, «CÓDIGO Nº: 0432», en la carátula y en el encabezado interno; el programa no consigna un segundo código ni dice a qué plan corresponde)",
+    "departamento": "Historia — la carátula imprime «DEPARTAMENTO: HISTORIA» y el encabezado interno «DEPARTAMENTO DE HISTORIA»",
+    "tituloDelPrograma": "el programa no lleva título propio: la carátula consigna solo «MATERIA: GEOGRAFÍA HISTÓRICA»",
+    "catedra": "el programa NO identifica ninguna cátedra: no la nombra por letra, por número ni por titular, y la línea de materia imprime «MATERIA: GEOGRAFÍA HISTÓRICA» sin apelativo. La palabra «cátedra» aparece en once renglones del texto extraído y en ninguno como denominación de ésta: una es un sello editorial (Madrid: Cátedra, en Puyol, Estébanez y Méndez), una acredita una cátedra AJENA («Traducción cátedra Geografía Social-Departamento de Geog.-FFyL-UBA», en Massey), una es la pauta reglamentaria copiada del REDEC —«no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»: la fórmula «estructura de cátedra» SÍ está impresa, verificada por búsqueda literal— y las ocho restantes marcan selecciones y elaboraciones de material («Selección Cátedra», «selección cátedra», «Selección de la Cátedra», «Elaboración de la cátedra»)",
+    "modalidad": "PRESENCIAL · la carátula imprime «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL» y el apartado E precisa: «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "PASINO, ALEJANDRA (carátula y encabezado interno: «PROFESOR: PASINO, ALEJANDRA»; el programa no consigna su cargo ni lleva firma al pie)",
+      "GORLERO, Lorena Alejandra (JEFA DE TRABAJOS PRÁCTICOS)",
+      "AMARILLA, Federico (AYUDANTE DE 1º)",
+      "WROBEL, Iván (AYUDANTE DE 1º)",
+      "ARTOPOULOS, Thomas (ADSCRIPTO)",
+      "BOTTCHER, Constanza (ADSCRIPTA/O — el programa agrupa los tres bajo «ADSCRIPTOS:»)",
+      "HALEBLIAN, Alejo (ADSCRIPTO)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "evaluacion": "Regularidad: asistir al 75% de las clases de trabajos prácticos «o equivalentes» y aprobar 2 (dos) instancias de evaluación parcial —o sus recuperatorios— con un mínimo de 4 (cuatro) puntos en cada una, calificadas según los artículos 39º y 40º del Reglamento Académico. Se dispone de UN (1) RECUPERATORIO para quien haya estado ausente o haya desaprobado una instancia; desaprobar más de una es pérdida de la regularidad. Aprobación: EXAMEN FINAL con nota mínima de 4 (cuatro). La corrección debe estar a disposición del/la estudiante en un plazo máximo de 3 (tres) semanas. Vigencia de la regularidad: 4 (cuatro) años y 3 (tres) mesas examinadoras en turnos alternativos; en la tercera presentación se puede optar por prueba escrita u oral",
+    "ubicacionEnElPlan": "electiva del Ciclo de Grado, Materias Generales («2 de 4») — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "correlatividades": "el programa no imprime ninguna (la cadena «correlativ» no aparece en el texto extraído)",
+    "unidades": 5,
+    "puntosDelEstudioDeCaso": 11,
+    "bibliografia": 22,
+    "referenciasBibliograficasTotales": 160
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.geografia-historica",
+      "label": "Geografía Histórica"
+    }
+  ],
+  "eyebrow": "Historia · Geografía Histórica · Pasino · 1º cuatrim. 2026",
+  "title": "El espacio no es el escenario: es lo producido.",
+  "lede": "Una materia de geografía dentro de una carrera de historia, sostenida por una tesis que el programa entrecomilla sin atribuirla en el cuerpo —su nota 3 lista cuatro obras, Lefèbvre entre ellas— y hace suya: «…la sociedad existe, se desarrolla y se transforma en, sobre, con y por su espacio…». Se entra por la epistemología —qué es la geografía dentro de las ciencias sociales, qué es la geografía histórica («apropiación y transformación del espacio geográfico en el pasado»), qué relación guarda con la historia, con qué métodos y con qué SIGs trabaja— y se sigue por la cartografía: historia de la cartografía europea, el rol del estado en la elaboración de mapas, la construcción colaborativa de cartografía social, y una lista de repositorios abiertos para ir a buscarla, del Archivo General de la Nación al Atlas Histórico del Instituto Geográfico Nacional y a los Mapas de la memoria de la Comisión Provincial por la Memoria. La nueva agenda de la disciplina entra por dos puertas nombradas: geografía de la memoria y geografía de género. La segunda unidad es población y no la suelta: las fuentes históricas y actuales y sus problemas técnicos, el cambio demográfico y sus indicadores, la transición demográfica en el mundo, en América Latina y en la Argentina, la desigualdad medida y cartografiada —condiciones de vida, pobreza tradicional y nuevos pobres, NBI y LP-LI, exclusión y segregación en contextos urbanos, mercados de trabajo—, la movilidad territorial y las migraciones como teoría y como serie argentina de los siglos XIX, XX y XXI, con las cédulas censales, la EPH y los indicadores demográficos del INDEC puestos como material de lectura. La tercera cruza el espacio urbano y el rural: crecimiento urbano y urbanización, ciudades globales y megaciudades, estructuras agrarias, nueva ruralidad y globalización de los mercados. La cuarta es socioambiental: población y recursos, sustentabilidad y calidad de vida, efectos territoriales de la difusión de las tecnologías, neo-extractivismo en la Argentina, y estudios de caso de agronegocios pampeanos y extrapampeanos y de megaminería. Y el corazón es un estudio de caso del espacio pampeano en once puntos numerados, de la periodización y las problemáticas ambientales bonaerenses a la política de tierras entre 1810 y 1850, la ganadería del XIX, la colonización agrícola del litoral comparada con la provincia, la agricultura entre 1930 y 1960 y la primera revolución verde, la agriculturización y el extractivismo desde los noventa, el ferrocarril y la ruta, la industria y los servicios, y un último punto que cierra la materia donde la memoria se vuelve territorio: «SITIOS DE MEMORIA. PASADO RECIENTE Y DISPUTAS POR LOS USOS Y SENTIDOS DEL ESPACIO». Ese tramo se lee con fuentes además de bibliografía: la Ley de Enfiteusis de 1826, el Decreto sobre Vagos y Malentretenidos de 1822, la Ley de Inmigración y Colonización N° 817, un contrato de colonización de la Colonia Esperanza de 1856, la Ley Mitre, los censos históricos de 1869, 1895, 1914 y el provincial de 1881, y mapas históricos seleccionados por la cátedra.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Programa",
+      "v": "N° 0432",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "4 + estudio de caso"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    }
+  ],
+  "frame": "Contenido real del programa de GEOGRAFÍA HISTÓRICA, Departamento de Historia (FFyL-UBA), CÓDIGO Nº 0432, PROFESOR: PASINO, ALEJANDRA, 1º cuatrimestre de 2026. Todo lo afirmado acá proviene de ese único PDF —19 páginas, con capa de texto nativa, extraído entero— salvo la ubicación en el plan y la denominación del archivo, que se declaran como datos cruzados. CÓMO SE LLEGA A LA FUENTE: el PDF está alojado en Google Drive y se llega a él desde la noticia «1º CUATRIMESTRE 2026 - PROGRAMAS y HORARIOS DE MATERIAS y SEMINARIOS» del sitio de la carrera (historia.filo.uba.ar, publicada el 01/04/2026), cuyo renglón «PROGRAMAS DE MATERIAS 1C 2026» enlaza la carpeta de Drive que lo contiene. ATRIBUCIÓN DE FUENTE CRUZADA, declarada: en esa carpeta el archivo se llama «0432 - GEOGRAFÍA HISTÓRICA - A CARGO DEL DEPTO. DE HISTORIA - 1C 2026.pdf». La fórmula «A CARGO DEL DEPTO. DE HISTORIA» es dato del listado —el nombre del archivo en la carpeta de Drive— y NO está impresa en ninguna página del programa: acá se consigna como lo que es, un rótulo del listado, y no se le atribuye al documento. Lo que el documento sí imprime es «DEPARTAMENTO: HISTORIA» en la carátula y «DEPARTAMENTO DE HISTORIA» en el encabezado interno. DATO CRUZADO: la ubicación de la materia —electiva del Ciclo de Grado, Materias Generales, «2 de 4» del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. ESTRUCTURA, y una asimetría registrada y no resuelta: el documento tiene cinco apartados, A. Fundamentación, B. Objetivos, C. Contenidos, D. Bibliografía obligatoria y E. Organización del dictado de la materia. El apartado C imprime CUATRO unidades numeradas —UNIDAD 1 a UNIDAD 4— y ninguna más. La UNIDAD 5 existe solo dentro del apartado D: allí, después de los bloques bibliográficos de las unidades 1 a 4, el programa imprime el encabezado «UNIDAD 5. ESTUDIO DE CASO», su tema («Dinámicas regionales y locales en la transformación del espacio pampeano»), once puntos numerados y dos bloques de bibliografía. Es decir: los contenidos de la Unidad 5 están impresos en el apartado de bibliografía y no en el de contenidos. No se resuelve: se dibujan las cinco unidades y se declara de dónde sale cada una. FORMULARIO vs. CONTENIDO: el apartado D se titula «Bibliografía obligatoria», pero cada una de las unidades 1 a 4 trae dentro de él DOS bloques, «A) Bibliografía obligatoria» y «B) Bibliografía de consulta», y la Unidad 5 trae «Bibliografía Obligatoria» y «Bibliografía de consulta» sin las letras A) y B) que usan las otras cuatro. El encabezado del apartado no describe su contenido, y no se lo corrige. LOS ONCE PUNTOS, y qué NO se les atribuye: el programa los numera del 1 al 11 dentro de la Unidad 5 y no los llama clases, ni prácticos, ni teóricos. La expresión «trabajos prácticos» aparece exactamente tres veces en el documento y ninguna de ellas los nombra: en el cargo «JEFA DE TRABAJOS PRÁCTICOS: GORLERO, Lorena Alejandra», en el requisito de regularidad «asistir al 75% de las clases de trabajos prácticos o equivalentes» y en la pauta de corrección «La corrección de las evaluaciones y trabajos prácticos escritos…». Acá se los dibuja como lo que el programa dice que son: los puntos numerados de la Unidad 5, estudio de caso. BIBLIOGRAFÍA SIN ASIGNAR, declarado: la «Bibliografía Obligatoria» de la Unidad 5 corre en un orden que sigue de cerca la secuencia de los once puntos e intercala siete bloques de «Fuentes:» (uno de ellos impreso «Fuente:», en singular), pero el programa NO dice qué entrada corresponde a qué punto. Por lo tanto este nodo no asigna ninguna lectura a ningún punto: los once puntos van sin bibliografía atribuida y la bibliografía de la Unidad 5 se cuenta y se dibuja en bloque. EL TRABAJO MONOGRÁFICO, nombrado una sola vez: el punto 7 se titula «TRABAJO CON LA ESTRUCTURA DEL TRABAJO MONOGRÁFICO» y la palabra «monográfico» no vuelve a aparecer; el programa no describe ese trabajo, no fija su extensión ni su entrega, y acá no se le inventa ninguna. TAMPOCO HAY TRABAJO DE CAMPO: las cadenas «trabajo de campo», «salida», «viaje» y «excursión» no aparecen en el texto extraído —el único «Viaje» es el título del libro de Bailly, Salazar y Núñez—, de modo que no se le atribuye al programa ninguna salida ni visita. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa —no hay sello ni número de aprobación, y la cadena «Resol» no aparece en ninguna parte del texto extraído: las dos únicas resoluciones citadas son las del Consejo Directivo que se nombran más abajo, y van abreviadas «Res. (CD)»—, porcentaje de virtualidad adoptado, cronograma de fechas, horario de cursada y firma al pie: el documento termina en el régimen transitorio y no lleva firma. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias para el dictado de las asignaturas de grado durante el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). CÁTEDRA: no se le atribuye ninguna denominación —el programa no la nombra por letra, número ni titular—. La palabra «cátedra» aparece en once renglones: un sello editorial (Madrid: Cátedra, en Puyol, Estébanez y Méndez), una cátedra ajena acreditada por una traducción («Traducción cátedra Geografía Social-Departamento de Geog.-FFyL-UBA», en Massey), la pauta del REDEC —donde la fórmula «estructura de cátedra» SÍ está impresa, verificada por búsqueda literal— y ocho marcas de selección o elaboración de material. SELECCIÓN Y EXCLUSIONES DECLARADAS, contadas en las dos direcciones. El programa lista 160 referencias bibliográficas: 60 en los bloques declarados obligatorios —Unidad 1 (13, de las que 3 van bajo el subtítulo «Estudios de caso»), Unidad 2 (15), Unidad 3 (4), Unidad 4 (6, de las que 1 va bajo «Estudios de caso:») y Unidad 5 (22)— y 100 en los bloques declarados de consulta —Unidad 1 (19), Unidad 2 (26, de las que 5 van bajo «Manuales básicos con metodologías para el trabajo con indicadores demográficos y sociales y marcos interpretativos generales»), Unidad 3 (14), Unidad 4 (21) y Unidad 5 (20)—. Fuera de esa cuenta quedan otros 24 ítems que el programa lista y que no son referencias bibliográficas: 7 «Repositorios cartográficos» de la Unidad 1 (Acumar, Archivo General de la Nación, Educ.ar, Iconoclastas, el Atlas Histórico del Instituto Geográfico Nacional, una URL suelta de alamy.es y los Mapas de la memoria de la Comisión Provincial por la Memoria), las 4 apariciones del mismo «Material audiovisual recomendado: Un espacio geográfico» —un canal de YouTube, repetido idéntico al cierre de las unidades 1, 2, 3 y 4—, la «Selección de artículos periodísticos y documentales. Elaboración de la cátedra» de la Unidad 2, y los 12 renglones de fuentes de los siete bloques «Fuentes:» de la Unidad 5. Se dibuja como libro el VOLUMEN CON PIE EDITORIAL que contiene cada entrada de los bloques OBLIGATORIOS —un capítulo, prefacio o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias entradas o varias unidades se unifica en un solo nodo—: 25 de las 60 entradas obligatorias tienen volumen, y al unificar los repetidos dan 22 libros, que son los que se dibujan. Los tres que reaparecen son Besse y Escolar (Unidad 1, en la entrada de Messina, y Unidad 5, en la de Escolar y Fabri), Barsky y Djenderedjian (dos entradas de la Unidad 5) y Barsky y Gelman (dos entradas de la Unidad 5). LAS 35 ENTRADAS OBLIGATORIAS QUE NO DAN LIBRO, una por una y por qué: 23 son artículos de revista —Capel en Biblio3W, Segal, Piracón y Ladowski en Clio & Asociados, Trinca Fighera en Párrafos Geográficos y Giberti en Espacios de Crítica y Producción (Unidad 1); Baráibar Ribero en Fronteras, Dillon en Huellas, Freidenberg y Sassone en Temas de Antropología y Migración, Grimson en Nueva Sociedad, Kaztman en la Revista de la CEPAL, Perren en Nómadas y Velazquez en Punto Sur (Unidad 2); Arroyo en Revista Geográfica y Mikkelsen en Cuadernos de Geografía (Unidad 3); Cantú-Martínez en Ambiente y Desarrollo, Galafassi y Riffo en THEOMAI y Gordziejczuk y Mikkelsen en Estudios Socioterritoriales (Unidad 4); Hora en Historia Agraria, Djenderedjian en América Latina en la Historia Económica, Azcuy Ameghino y León en la Revista Interdisciplinaria de Estudios Agrarios, Gargano en Quinto Sol, Wadell en Todo es Historia, Bil en H Industria y Portos Gilabert en Punto Sur (Unidad 5)—; 1 es una ponencia en actas (Colombara, XXI Jornadas de Geografía de la UNLP, alojada en Memoria Académica); 4 son páginas o recursos web sin pie editorial (Contreras Servin en ResearchGate y Trímboli en cck.gob.ar, Unidad 1; la entrada de enciclopedia electrónica de Leclerc en Hypergéo, Unidad 2; Trupia en vocesenelfenix.com, Unidad 4); 2 son publicaciones en serie institucional (Torres, «Serie Difusión Nº 3», FADU-UBA, Unidad 1; Azcuy Ameghino, «Cuaderno PIEA» del IIHES, Unidad 5); y 5 son FUENTES estadísticas o censales, que no se dibujan aunque estén en bloque obligatorio: las cuatro entradas del INDEC de la Unidad 2 (cédulas censales y cuestionario EPH con las notas metodológicas de NBI y pobreza por ingresos; el Anuario Estadístico 2018, Volumen 33; Condiciones de vida, Vol. 5 N°4; y los Indicadores Demográficos de la Argentina) y «El territorio bonaerense en los “Censos históricos” (nacionales de 1869, 1895, 1914 y provincial de 1881)» de la Unidad 5. Por la misma regla no se dibuja ninguno de los 12 renglones de los bloques «Fuentes:» —la Ley de Enfiteusis de 1826, el Decreto sobre Vagos y Malentretenidos 4/1822, la Ley de Inmigración y Colonización N° 817, el Contrato de Colonización en Colonia Esperanza, las «Leyes y política de la carne 1960-1980», la «LEY MITRE», el material de la Cámara Argentina de Feedlot, el audiovisual de Siembra Directa del INTA, el artículo de Herlitzka, Montaldo y Martínez de Vedia en La ingeniería de 1945, el capítulo de Liatis, Fiadon y otros sobre la historia de la logística, y las dos selecciones de «Mapas históricos»—, ni los 7 repositorios cartográficos, ni el canal de YouTube, ni la selección de artículos periodísticos elaborada por la cátedra. EN LA OTRA DIRECCIÓN, y sin disimularlo: no se dibuja NINGUNA de las 100 entradas de los bloques de consulta, aunque muchas son volúmenes con pie editorial completo —entre otros Bloch, Braudel, Capel y Urteaga, Cortéz, Courville, Corcuff, Hiernaux y Lindón, Hollman y Lois, Kollmann, Heredia, Moraes y Santos en la Unidad 1; Higueras Arnal, Le Bras, Otero, Pantelides, Puyol, Estébanez y Méndez, Torrado, Trewartha y Wrigley en la Unidad 2, más los manuales de Haupt y Kane, Lasterra y el Atlas de Velázquez; Ferraro, Giarraca, Gutierrez de Manchon y Furlani de Civit, Hobsbawm, Márquez Fernández, Oszlak, Taylor y La Ciudad de VV.AA. en la Unidad 3; Biffani, Brailovsky, Cunill Grau, Dichdji, Harvey, Meadows, Morello, Oltmans y Gori en la Unidad 4; y Balsa, Bazanto, Cárcano, García Heras, Giberti, Schorr y Scobie en la Unidad 5—. El criterio se aplica igual aunque el resultado incomode: la Unidad 3, que tiene cuatro entradas obligatorias, aporta dos libros, y la Unidad 4, que tiene seis, aporta dos. CONTRADICCIONES REGISTRADAS, no resueltas: (1) La Forestal, de Gori, se cita dos veces con datos incompatibles: «Gori, G. (1999) La Forestal. Buenos Aires. Ameghino Editores» entre los estudios de caso obligatorios de la Unidad 1, y «Gori, Gastón (1988). La Forestal. Buenos Aires: Hyspamérica» en la bibliografía de consulta de la Unidad 4 —otro año, otra editorial—. Se dibuja una sola vez, por la entrada obligatoria, y la discrepancia queda anotada. (2) La trampa de Malthus, de Viglizzo, aparece dos veces en la misma Unidad 4: en la obligatoria con «Capítulo 4: Las pesadillas del monje» y en la de consulta sin capítulo. (3) Rapoport, Historia económica, política y social de la Argentina (1880-2003), aparece dos veces en la misma Unidad 5, con la misma edición y distintas páginas: «pp. 66-70 y 159-162» en la obligatoria y «pp. 70-73 y 163-167» en la de consulta. (4) El volumen coordinado por Giarracca y Teubal se cita en la obligatoria de la Unidad 5 como «Actividades extractivas en expansión ¿Reprimarización de la economía argentina?» y en la consulta, dentro de las entradas de Barri y de Toledo Lopez, con el título partido y remendado («Resistencia Comunitaria de los pueblos fumigados de la Argentina ; en expansión ¿Reprimarización de la economía argentina?», «en Actividades extractivas; en expansión ¿Reprimarización…?»). (5) El apellido se imprime «Giarracca» en la Unidad 5 y «Giarraca» en la Unidad 3 («Giarraca, N. (Coord.). (1999) Estudios Rurales», y otra vez en «Giarraca, N. (Comp.)» en la entrada de Pérez). (6) Taylor lleva año «(1994)» en cabeza y «1985» dentro del pie editorial inglés. (7) El volumen de Besse y Escolar se imprime «Políticas y lugares de la memoria» con «(Eds.)» en la Unidad 1 y «Políticas y Lugares de la Memoria» con «(eds.)» en la Unidad 5. (8) El apellido se imprime «Velazquez» sin tilde en la obligatoria de la Unidad 2 y «Velázquez» con tilde en los manuales de la consulta de la misma unidad. (9) El punto 6 de la Unidad 5 encabalga dos períodos en un mismo título: «LA AGRICULTURA BONAERENSE ENTRE 1930 Y 1960. LA PRIMERA REVOLUCIÓN VERDE EN EL ÁREA PAMPEANA (1960-1990)». (10) El punto 8 imprime «AGRICULTURIZACIÓN» dos veces en el mismo renglón de título. (11) La entrada de Campi va precedida de un guion y sangrada como si fuera un renglón del bloque «Fuentes:» que la antecede, aunque es un libro con pie editorial (Buenos Aires, Prometeo); se la cuenta y se la dibuja como entrada bibliográfica y la ambigüedad tipográfica queda declarada, no resuelta. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: la entrada de Braudel imprime un «1» suelto antes del paréntesis, «Madrid: Alianza Editorial, 1(novena reimpresión)»; la de Di Méo omite la conjunción entre autores, «Di Méo, G.P. Buléon (2005)», y lo mismo hacen «Galafassi, G. Riffo, L. (2018)», «Gordziejczuk, M- Mikkelsen, C. (2020)», «Barsky, O- Gelman, J. (2005)» y «Cacace, G.- Gómez, M.E.- Morina, J.-Suevo, G.»; Cunill Grau lleva la inicial corrida detrás del año, «Cunill Grau, (1995) P.»; Nef lleva punto en el apellido, «Nef. John. (1978)»; Etchichury imprime «Nª 178» con ordinal femenino; la fuente del contrato de colonización imprime «Santa Fé» con tilde; la entrada de Varela Marcos imprime «Disponible em:» y expone una ruta local de Windows, «file:///C:/Users/alego/Downloads/Dialnet-LaCartografiaHistorica-2768271.pdf»; la de Galafassi arrastra un «1/23» pegado a la URL; el «Manual de mapeo» se atribuye a «Iconoclastas» —dos veces, también en el repositorio cartográfico— mientras el enlace es iconoclasistas.net; las comillas quedan abiertas y sin cerrar en Gurevich («Nuevas geografías: territorios entre lo nacional, lo local y lo global.»), en Beccaria («La pobreza. Delimitación empírica. La historia reciente.») y en Campi («La revolución verde. El nuevo crecimiento. 1957-1989.»), y se cruzan en Azcuy Ameghino y León («“La Sojización”: contradicciones, intereses y debates”») y en Portos Gilabert («“Los límites” del Faro de Mar del Plata»); el orden alfabético se rompe en la consulta de la Unidad 1 (Cortéz, Courville, Carrera, Corcuff; Hiernaux, Hollman, Kollmann, Heredia, Moraes) y en la de la Unidad 2 (el Plan Estratégico Territorial cae antes de Otero); la entrada de Lasterra corre dos obras distintas en un mismo renglón asteriscado, la suya y la de PNUD/UNFPA, «Situación de la población en Argentina», Buenos Aires, 2009; el segundo asiento de Harvey se abre con una raya de repetición en lugar del nombre; y el apartado E abre un paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.». Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: las llamadas de las tres notas al pie salen pegadas al texto que las llama («EQUIPO DOCENTE:1», «las formas de los territorios2», «…por su espacio…”3»), y el texto de esas notas se intercala en medio del apartado A; varias URLs largas quedan partidas por el salto de línea y con espacios inyectados por el interlineado justificado («Educ.ar:https://…», «Disponible                                         en:»). Son efectos del orden de lectura del PDF y no se le atribuyen al programa. NORMALIZACIÓN DECLARADA, y solo ésta: los once puntos de la Unidad 5 y los títulos de las cinco unidades están impresos en VERSALES; en los mapas de este nodo van tal como el programa los imprime, y en los nombres de los nodos se pasan a caja mixta sin cambiar, agregar ni quitar una sola palabra. Ningún otro dato —nombre, título, lugar, editorial, año, capítulos y páginas de cada entrada dibujada— se toca.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades del apartado C + la Unidad 5 del apartado D",
+      "title": "De la epistemología al espacio pampeano",
+      "note": "Las cuatro unidades numeradas del apartado «C. Contenidos», en el orden impreso, más la «UNIDAD 5. ESTUDIO DE CASO», que el programa imprime dentro del apartado «D. Bibliografía obligatoria» —después de los bloques bibliográficos de las unidades 1 a 4— con su tema, once puntos numerados y dos bloques de bibliografía propios. La asimetría es del documento y acá no se resuelve: se dibujan cinco unidades y se declara en cuál apartado está impresa cada una.",
+      "map": {
+        "mk": "El programa, en cuatro unidades y un estudio de caso",
+        "tree": "GEOGRAFÍA HISTÓRICA · CÓDIGO Nº 0432\nPasino · 1º cuatrimestre 2026 · 96 hs · EF\n│\n├─ apartado C. Contenidos\n│  │\n│  ├─ 1 · PROBLEMAS EPISTEMOLÓGICOS.\n│  │      1.1 las ciencias sociales y la geografía · principales debates\n│  │          epistemológicos en el pensamiento geográfico\n│  │      1.2 el campo de estudio de la geografía histórica «apropiación y\n│  │          transformación del espacio geográfico en el pasado»\n│  │          tradiciones, tendencias y estudios actuales\n│  │          las relaciones entre historia y geografía\n│  │      1.3 métodos y técnicas de trabajo · los SIGs\n│  │      1.4 cartografía histórica y social · rol del estado en la\n│  │          elaboración de mapas · construcción colaborativa de\n│  │          cartografía social\n│  │      1.5 nueva agenda: a) geografía de la memoria b) geografía de género\n│  │\n│  ├─ 2 · EL ANÁLISIS DE LAS POBLACIONES\n│  │      2.1 fuentes históricas y actuales: características, disponibilidad,\n│  │          problemas técnicos y conceptuales\n│  │      2.2 el cambio demográfico · indicadores demográficos y sociales\n│  │      2.3 la transición demográfica -variables, etapas, tipología-\n│  │          la transición en mundo, América Latina y Argentina\n│  │      2.4 desigualdad social: condiciones de vida y pobreza\n│  │          pobreza tradicional y nuevos pobres · NBI, LP-LI\n│  │          exclusión y segregación urbanas · mercados de trabajo\n│  │      2.5 movilidad territorial y migraciones: definiciones,\n│  │          formas de medición, tipologías\n│  │      2.6 la migración desde la perspectiva teórica · globalización\n│  │          la migración en la Argentina, siglos XIX, XX y XXI\n│  │\n│  ├─ 3 · ORGANIZACIÓN DEL ESPACIO URBANO Y RURAL\n│  │      3.1 el espacio urbano · crecimiento urbano y urbanización\n│  │          ciudades globales y megaciudades\n│  │      3.2 el espacio rural · estructuras agrarias · nueva ruralidad\n│  │\n│  └─ 4 · PROBLEMÁTICAS SOCIOAMBIENTALES TERRITORIALES\n│         4.1 la relación población-recursos · ambiente y economía\n│         4.2 recursos, medio ambiente y desarrollo sustentable\n│             sustentabilidad, calidad de vida y espacio geográfico\n│         4.3 efectos territoriales de la difusión de las tecnologías\n│             modalidades de apropiación y uso de los recursos\n│         4.4 neo-extractivismo en la Argentina\n│         4.5 estudios de caso: agronegocios en el área pampeana y\n│             extra-pampeana · megaminería\n│\n└─ apartado D. Bibliografía obligatoria\n   │\n   └─ 5 · ESTUDIO DE CASO\n          «Dinámicas regionales y locales en la transformación del\n          espacio pampeano» · periodización y regionalización para el\n          estudio de los procesos socioespaciales de la región pampeana,\n          caracterización de las etapas\n          once puntos numerados, sin bibliografía asignada punto a punto",
+        "foot": "Objetivos declarados en el apartado B: conocer los problemas vinculados con la definición del campo de estudio de la Geografía dentro de las Ciencias Sociales; analizar las relaciones entre ciencia, sociedad, geografía e historia redefiniendo conceptos como población y sociedad, espacio, territorio, región y lugar, tiempo en sus diversas duraciones, naturaleza, ambiente y recursos, crecimiento, desarrollo, escalas y periodizaciones; desarrollar capacidad crítica y operacional mediante el manejo de bibliografía, de fuentes cuantitativas y cualitativas y de material cartográfico; y reflexionar críticamente sobre las desigualdades y la fragmentación social del cambio socioeconómico y sus escalas regionales y locales. La fundamentación cita a Brunet (2005), para quien la Geografía es «una de las ciencias de los fenómenos de la sociedad», y sostiene el eje con una frase que el programa entrecomilla sin atribuirla en el cuerpo: «…la sociedad existe, se desarrolla y se transforma en, sobre, con y por su espacio…»."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.geografia-historica.u1-problemas-epistemologicos",
+          "name": "Problemas epistemológicos · las ciencias sociales y la geografía, el campo de la geografía histórica, métodos y SIGs, cartografía histórica y social, geografía de la memoria y de género",
+          "role": "Unidad 1 · apartado C",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.u2-analisis-de-las-poblaciones",
+          "name": "El análisis de las poblaciones · fuentes, cambio demográfico, transición, desigualdad y pobreza, movilidad y migraciones, la migración en la Argentina",
+          "role": "Unidad 2 · apartado C",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.u3-organizacion-del-espacio-urbano-y-rural",
+          "name": "Organización del espacio urbano y rural · crecimiento urbano, ciudades globales y megaciudades, estructuras agrarias, nueva ruralidad",
+          "role": "Unidad 3 · apartado C",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.u4-problematicas-socioambientales-territoriales",
+          "name": "Problemáticas socioambientales territoriales · población-recursos, sustentabilidad y calidad de vida, tecnologías, neo-extractivismo, agronegocios y megaminería",
+          "role": "Unidad 4 · apartado C",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.u5-estudio-de-caso-espacio-pampeano",
+          "name": "Estudio de caso · dinámicas regionales y locales en la transformación del espacio pampeano — once puntos, impresos dentro del apartado D",
+          "role": "Unidad 5 · apartado D",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Estudio de caso · los 11 puntos numerados de la Unidad 5",
+      "title": "El espacio pampeano, y la memoria al final",
+      "note": "Los once puntos que el programa numera dentro de «UNIDAD 5. ESTUDIO DE CASO», en el orden y con los títulos impresos. El programa no los llama clases ni trabajos prácticos: los numera del 1 al 11 y nada más. Su bibliografía va en un solo bloque, «Bibliografía Obligatoria», intercalado con siete bloques de «Fuentes:», y el programa no dice qué lectura corresponde a qué punto: acá no se asigna ninguna. El punto 1 es el único que se abre en subpuntos, a) y b).",
+      "map": {
+        "mk": "El estudio de caso, en once puntos",
+        "tree": "UNIDAD 5 · ESTUDIO DE CASO\n«Dinámicas regionales y locales en la transformación del espacio pampeano»\nperiodización y regionalización · caracterización de las etapas\n│\n├─  1 PRESENTACIÓN DE LA MATERIA. ASPECTOS METODOLÓGICOS.\n│      PERIODIZACIÓN, REGIONALIZACIÓN Y PROBLEMÁTICAS\n│      AMBIENTALES EN BUENOS AIRES.\n│      a) una periodización general: cortes temporales y escalas\n│         territoriales (Argentina, área pampeana, sudoeste de la\n│         provincia de Buenos Aires)\n│      b) el espacio: características generales del espacio pampeano;\n│         problemas de la regionalización y de la distinción de\n│         situaciones específicas a escala local\n├─  2 REORGANIZACIÓN DEL ESPACIO REGIONAL ENTRE LA REVOLUCIÓN\n│      Y LA INSTITUCIONALIZACIÓN DEL ESTADO (1810-1850)\n│      POLÍTICA DE TIERRA BONAERENSE\n├─  3 EL DESARROLLO GANADERO PAMPEANO EN EL SIGLO XIX.\n├─  4 LA COLONIZACIÓN AGRÍCOLA EN EL LITORAL Y LA COMPARACIÓN\n│      CON LA PROVINCIA DE BUENOS AIRES.\n├─  5 LA GANADERÍA PAMPEANA DESDE FINES DEL SIGLO XIX HASTA 1970.\n├─  6 LA AGRICULTURA BONAERENSE ENTRE 1930 Y 1960. LA PRIMERA\n│      REVOLUCIÓN VERDE EN EL ÁREA PAMPEANA (1960-1990)\n├─  7 TRABAJO CON LA ESTRUCTURA DEL TRABAJO MONOGRÁFICO.\n├─  8 CAMBIOS EN LA ESTRUCTURA DE PROPIEDAD DE LA TIERRA DESDE\n│      LA DÉCADA DE 1990. AGRICULTURIZACIÓN. CAMBIOS EN LA\n│      GANADERÍA. AGRICULTURIZACIÓN Y EXTRACTIVISMO\n├─  9 EL DESARROLLO DE LA RED FERROVIARIA Y VIAL EN LA PROVINCIA\n│      DE BUENOS AIRES.\n├─ 10 LA INDUSTRIA Y LOS SERVICIOS EN EL ÁREA PAMPEANA.\n└─ 11 SITIOS DE MEMORIA. PASADO RECIENTE Y DISPUTAS POR LOS USOS\n       Y SENTIDOS DEL ESPACIO.",
+        "foot": "Los siete bloques de «Fuentes:» de la Unidad 5 —uno impreso «Fuente:», en singular— traen doce renglones: la Ley de Enfiteusis (Buenos Aires, 1826); «Mapas históricos (Selección de Cátedra)»; el Decreto sobre Vagos y Malentretenidos 4/1822 (Buenos Aires, 1822); la Ley de Inmigración y Colonización (N° 817, Buenos Aires, 1876); el Contrato de Colonización en Colonia Esperanza (Santa Fé, 1856, así impreso); «Leyes y política de la carne 1960-1980»; el material de buenas prácticas de la Cámara Argentina de Feedlot; el audiovisual «Siembra Directa (INTA) 2007»; Liatis, Fiadon y otros, Historia de la logística en la Argentina (Edutecne, 2015, pp. 115-118); «Mapas históricos (Selección de la Cátedra)»; «LEY MITRE»; y Herlitzka, Montaldo y Martínez de Vedia en La ingeniería, publicación del Centro Argentino de Ingenieros (1945), pp. 675-682. Ninguno se dibuja como libro: son fuentes."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-01-presentacion-periodizacion",
+          "name": "Presentación de la materia. Aspectos metodológicos. Periodización, regionalización y problemáticas ambientales en Buenos Aires",
+          "role": "Unidad 5 · punto 1",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-02-reorganizacion-espacio-regional-1810-1850",
+          "name": "Reorganización del espacio regional entre la Revolución y la institucionalización del Estado (1810-1850). Política de tierra bonaerense",
+          "role": "Unidad 5 · punto 2",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-03-desarrollo-ganadero-siglo-xix",
+          "name": "El desarrollo ganadero pampeano en el siglo XIX",
+          "role": "Unidad 5 · punto 3",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-04-colonizacion-agricola-litoral",
+          "name": "La colonización agrícola en el litoral y la comparación con la provincia de Buenos Aires",
+          "role": "Unidad 5 · punto 4",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-05-ganaderia-pampeana-hasta-1970",
+          "name": "La ganadería pampeana desde fines del siglo XIX hasta 1970",
+          "role": "Unidad 5 · punto 5",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-06-agricultura-bonaerense-1930-1960",
+          "name": "La agricultura bonaerense entre 1930 y 1960. La primera revolución verde en el área pampeana (1960-1990)",
+          "role": "Unidad 5 · punto 6",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-07-estructura-del-trabajo-monografico",
+          "name": "Trabajo con la estructura del trabajo monográfico",
+          "role": "Unidad 5 · punto 7",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-08-propiedad-de-la-tierra-desde-1990",
+          "name": "Cambios en la estructura de propiedad de la tierra desde la década de 1990. Agriculturización. Cambios en la ganadería. Agriculturización y extractivismo",
+          "role": "Unidad 5 · punto 8",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-09-red-ferroviaria-y-vial",
+          "name": "El desarrollo de la red ferroviaria y vial en la provincia de Buenos Aires",
+          "role": "Unidad 5 · punto 9",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-10-industria-y-servicios",
+          "name": "La industria y los servicios en el área pampeana",
+          "role": "Unidad 5 · punto 10",
+          "tag": "punto",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.ec-11-sitios-de-memoria",
+          "name": "Sitios de memoria. Pasado reciente y disputas por los usos y sentidos del espacio",
+          "role": "Unidad 5 · punto 11",
+          "tag": "punto",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria · los volúmenes, unidad por unidad",
+      "title": "El aparato de lectura",
+      "note": "Los 22 volúmenes con pie editorial que contienen las entradas de los bloques obligatorios —«A) Bibliografía obligatoria» de las Unidades 1 a 4 y «Bibliografía Obligatoria» de la Unidad 5—, de las 60 entradas obligatorias que el programa trae en total: 25 de ellas tienen volumen y, al unificar los repetidos, dan estos 22. Un capítulo, prefacio o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene; un volumen que reaparece se dibuja una sola vez (Besse y Escolar en las Unidades 1 y 5; Barsky y Djenderedjian y Barsky y Gelman, dos entradas cada uno en la Unidad 5). No se dibujan las 100 entradas de los bloques de consulta, ni las 23 entradas obligatorias que son artículos de revista, ni la ponencia en actas, ni las 4 páginas web sin pie editorial, ni las 2 publicaciones en serie institucional, ni las 5 fuentes estadísticas y censales aunque estén en bloque obligatorio, ni los 12 renglones de los bloques «Fuentes:», ni los 7 repositorios cartográficos, ni el canal de YouTube que el programa repite al cierre de las Unidades 1 a 4. Los datos van exactamente como el programa los imprime. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-bailly-salazar-nunez-viaje-por-la-geografia",
+          "name": "Viaje por la geografía. Una geografía para el mundo. Una geografía para todo el mundo — A. Bailly, A. Salazar y A. Núñez (Santiago, RIL editores, 2018) · Capítulos 1 al 4, pp 1 a 60",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-fernandez-caso-gurevich-geografia-nuevos-temas",
+          "name": "Geografía. Nuevos temas, nuevas preguntas. Un temario para su enseñanza — V. Fernández Caso y R. Gurevich (Coord.) (Buenos Aires, Editorial Biblos) · J. Blanco (2007), «Espacio y territorio: elementos teórico-conceptuales implicados en el análisis geográfico» · el programa no consigna año del volumen: el (2007) que imprime es el del capítulo",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-iconoclastas-manual-de-mapeo",
+          "name": "Manual de mapeo — Iconoclastas (Buenos Aires, 2015) · el programa no consigna editorial y da el enlace https://iconoclasistas.net/4322-2/ · imprime el nombre «Iconoclastas» —también en la lista de repositorios cartográficos— mientras el dominio enlazado es iconoclasistas.net",
+          "role": "Unidad 1 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-besse-escolar-politicas-y-lugares-de-la-memoria",
+          "name": "Políticas y lugares de la memoria. Figuras epistémicas, escrituras, inscripciones sobre el terrorismo de Estado en la Argentina — J. Besse y C. Escolar (Eds.) (Buenos Aires, Miño y Dávila, 2019) · L. Messina, «Sitios y lugares de la memoria: dimensiones, experiencias y controversias», pp. 55-74 (Unidad 1); C. Escolar y S. Fabri, «Pensar la institucionalización en el territorio desde el caso Predio Quinta Seré», pp. 97-113 (Unidad 5) · la Unidad 5 imprime el título del volumen con mayúsculas, «Políticas y Lugares de la Memoria», y «(eds.)» en minúscula",
+          "role": "Unidad 1 y Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-gori-la-forestal",
+          "name": "La Forestal — G. Gori (Buenos Aires, Ameghino Editores, 1999) · la bibliografía de consulta de la Unidad 4 cita el mismo título con otros datos, «Gori, Gastón (1988). La Forestal. Buenos Aires: Hyspamérica»: se dibuja por la entrada obligatoria y la discrepancia queda registrada",
+          "role": "Unidad 1 · obligatoria · estudios de caso",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-torrado-una-historia-social-del-siglo-xxi",
+          "name": "Una Historia Social del Siglo XXI — S. Torrado (compiladora) (Avellaneda, Bs. As., Edhasa, 2007) · Tomo I · R. Benencia, «La inmigración limítrofe», pp. 571-599 · el título va así, «Siglo XXI», como el programa lo imprime",
+          "role": "Unidad 2 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-palacio-historia-de-la-provincia-de-buenos-aires-t1",
+          "name": "Historia de la Provincia de Buenos Aires. Tomo 1: Población, Ambiente y Territorio (H. Otero) — J. M. Palacio (Dir.) (La Plata, Bs. As., UNIPE/EDHASA, 2012) · R. Bertoncello, «La Población Rural», Capítulo 10, pp. 337-363",
+          "role": "Unidad 2 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-dentremont-perez-adan-desarrollo-socioeconomico",
+          "name": "Desarrollo Socioeconómico y Evolución Demográfica. Perspectivas para América Latina — A. d´Entremont y J. Pérez Adán (Editores) (Barañáin, Navarra-España, Ediciones EUNSA, 1999) · Capítulo I: Población y Espacio, pp. 15-70; Tema 1: América Latina en el contexto demográfico mundial; Tema 2: Las evoluciones demográficas en las Américas · el programa imprime «(De. Universidad de Navarra S. A.)»",
+          "role": "Unidad 2 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-nancy-la-ciudad-a-lo-lejos",
+          "name": "La ciudad a lo lejos — J. L. Nancy (Buenos Aires, Manantial, 2013) · Prefacio. La ciudad incivil, pp. 9-15",
+          "role": "Unidad 3 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-romero-geografia-humana-globalizado",
+          "name": "Geografía Humana. Procesos, riesgos e incertidumbres en un mundo globalizado — J. Romero (Coord.) (Barcelona, Ariel, 2004) · Capítulo 7: El proceso de urbanización (Oriol Nel-Lo y Francesc Muñoz), pp. 255-332",
+          "role": "Unidad 3 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-viglizzo-trampa-de-malthus",
+          "name": "La trampa de Malthus. Agricultura, competitividad y medio ambiente en el siglo XXI — E. Viglizzo (Buenos Aires, EUDEBA, 2001) · Capítulo 4: Las pesadillas del monje · la bibliografía de consulta de la misma Unidad 4 lo repite sin capítulo",
+          "role": "Unidad 4 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-cacace-gomez-morina-suevo-geografias-regionales-extractivismo",
+          "name": "Geografías Regionales y Extractivismo en la Argentina de los Bicentenarios — G. Cacace, M. E. Gómez, J. Morina y G. Suevo (Comp) (Serie-Publicaciones del PROEG N°14, Instituto de Investigaciones Geográficas, Programa de Estudios Geográficos, Departamento de Ciencias Sociales, Universidad Nacional de Luján, 2013)",
+          "role": "Unidad 4 · obligatoria · estudios de caso",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-ferrer-capitalismo-argentino",
+          "name": "El Capitalismo Argentino — A. Ferrer (Buenos Aires, FCE, 2008) · el programa lo cita sin capítulos ni páginas",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-barsky-djenderedjian-capitalismo-agrario-pampeano-t1",
+          "name": "Historia del capitalismo agrario pampeano, Tomo I: la expansión ganadera hasta 1895 — O. Barsky y J. C. Djenderedjian (Universidad de Belgrano, Siglo XXI, 2012) · Cap 1, y Cap 2 a 5 «(selección cátedra)», en dos entradas distintas",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-valencia-tierras-publicas-tierras-privadas",
+          "name": "Tierras Públicas, tierras privadas. Buenos Aires 1852-1876 — M. Valencia (Buenos Aires, EDULP, 2005) · «(Selección Cátedra)» Introducción, Capítulo 2 y 3, pp. 15-25; 65-96 y 97-155",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-barsky-gelman-historia-del-agro-argentino",
+          "name": "Historia del agro argentino desde la Conquista hasta fines del siglo XX — O. Barsky y J. Gelman (Buenos Aires, Mondadori, 2005) · Capítulo VI (fragmento) pp. 139-146; 160-203, y «(selección cátedra)» pp. 146-160, 236-240, 337-339, en dos entradas distintas · el programa imprime los autores «Barsky, O- Gelman, J.»",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-campi-tierra-tecnologia-e-innovacion",
+          "name": "Tierra, tecnología e innovación: el desarrollo agrario pampeano en el largo plazo, 1860-2007 — M. Campi (Buenos Aires, Prometeo, 2011) · Capítulo 3: «Las crisis y el retraso tecnológico 1930-1957» y Capítulo 4: «La revolución verde. El nuevo crecimiento. 1957-1989. [comilla sin cerrar, así impresa]» · la entrada va precedida de un guion y sangrada como renglón del bloque «Fuentes:» que la antecede: la ambigüedad queda declarada",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-rapoport-historia-economica-politica-social",
+          "name": "Historia económica, política y social de la Argentina (1880-2003) — M. Rapoport (Buenos Aires, EMECE, 2007) · pp. 66-70 y 159-162 · la bibliografía de consulta de la misma Unidad 5 cita la misma edición con otras páginas, pp. 70-73 y 163-167",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-giarracca-teubal-actividades-extractivas",
+          "name": "Actividades extractivas en expansión ¿Reprimarización de la economía argentina? — N. Giarracca y M. Teubal (coordinadores) (GER-GEMSAL, Buenos Aires, Editorial Antropofagia, 2013) · Capítulo 1: Las Actividades extractivas en la Argentina, pp. 19-43",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-azpiazu-pesce-privatizacion-del-sistema-vial",
+          "name": "La privatización del sistema vial en la Argentina: ¿Errores de diseño o desmedidos privilegios para una fracción del poder económico local? — D. Azpiazu y J. Pesce (FLACSO Argentina, Buenos Aires, 2003) · Capítulo 1: Introducción, pp. 5-6; Capítulo 2: Los corredores viales nacionales, pp. 6-31",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-lopez-wadell-nueva-historia-del-ferrocarril",
+          "name": "Nueva historia del ferrocarril en la Argentina. 150 años de política ferroviaria — M. López y J. Wadell (Comp.) (Buenos Aires, Ediciones Lumiere, 2008) · Capítulo 1, pp. 15-53",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.geografia-historica.libro-belini-korol-historia-economica-argentina-siglo-xx",
+          "name": "Historia Económica Argentina en el siglo XX — C. Belini y J. C. Korol (Buenos Aires, Siglo XXI editores, 2012) · Capítulo 4, 5, 6, pp. 155-282",
+          "role": "Unidad 5 · obligatoria",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de GEOGRAFÍA HISTÓRICA, CÓDIGO Nº 0432, PROFESOR: PASINO, ALEJANDRA, 1º cuatrimestre 2026 (19 pp., capa de texto nativa) — alojado en Google Drive, en la carpeta «PROGRAMAS DE MATERIAS 1C 2026» que enlaza la noticia de la carrera; el archivo se llama allí «0432 - GEOGRAFÍA HISTÓRICA - A CARGO DEL DEPTO. DE HISTORIA - 1C 2026.pdf».",
+    "url": "https://drive.google.com/file/d/1qw1QN28YctCy4fBzOe9L8Qbm1ryIXb0E/view"
+  },
+  "sources": [
+    {
+      "label": "Google Drive · «0432 - GEOGRAFÍA HISTÓRICA - A CARGO DEL DEPTO. DE HISTORIA - 1C 2026.pdf» — Programa de GEOGRAFÍA HISTÓRICA, CÓDIGO Nº 0432, PROFESOR: PASINO, ALEJANDRA, RÉGIMEN DE PROMOCIÓN: EF, CARGA HORARIA: 96 HORAS, 1° CUATRIMESTRE 2026, 19 pp. con capa de texto nativa. Fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-geografia-historica-2026.txt.",
+      "url": "https://drive.google.com/file/d/1qw1QN28YctCy4fBzOe9L8Qbm1ryIXb0E/view"
+    },
+    {
+      "label": "historia.filo.uba.ar · noticia «1º CUATRIMESTRE 2026 - PROGRAMAS y HORARIOS DE MATERIAS y SEMINARIOS», publicada el 01/04/2026 — el listado que enlaza el programa: su renglón «PROGRAMAS DE MATERIAS 1C 2026» apunta a la carpeta de Drive 1En0muxhYOTg9kb4s7jko67T8jMl5DAG1, donde está el archivo de esta materia.",
+      "url": "https://historia.filo.uba.ar/novedades/1%C2%BA-cuatrimestre-2026-programas-y-horarios-de-materias-y-seminarios"
+    },
+    {
+      "label": "Google Drive · carpeta «PROGRAMAS DE MATERIAS 1C 2026» del Departamento de Historia — listado consultado para verificar que el PDF de esta materia está publicado ahí y bajo qué nombre de archivo; de ese nombre, y solo de ahí, proviene la fórmula «A CARGO DEL DEPTO. DE HISTORIA», que el programa no imprime.",
+      "url": "https://drive.google.com/drive/folders/1En0muxhYOTg9kb4s7jko67T8jMl5DAG1"
+    },
+    {
+      "label": "FILO:Digital · registro filodigital/10543 — EDICIÓN ANTERIOR DECLARADA, NO DIBUJADA: «Geografía Histórica», Programa N° 0432, 1º cuatrimestre de 2017, Profesora Adjunta Marcela Indiana Fernández; dc.date.issued 2017, dc.date.accessioned 2019-04-05, creador «Fernandez, Marcela Indiana», resumen «Aprobado Resolución N°1134». El PDF es un escaneo y está extraído en extract/out/historia-geografia-historica-fernandez-2017.txt. Nada de este nodo procede de él: sus contenidos, su bibliografía y su equipo docente son otros y no se les atribuye vigencia.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/10543"
+    },
+    {
+      "label": "FILO:Digital · registros filodigital/3608 (2016, «Aprobado Resolución N° 2347/16») y filodigital/15987 (2015, «Aprobado Resolución N° 1774/15») — ediciones anteriores del mismo Programa N° 0432, verificadas por metadatos y NO extraídas: acá no se afirma nada sobre su contenido.",
+      "url": "https://repositorio.filo.uba.ar/handle/filodigital/3608"
+    },
+    {
+      "label": "academica.filo.uba.ar · Esquema del Plan 1985 de Historia — origen de la ubicación de la materia en el Ciclo de Grado, entre las Materias Generales electivas; citado en el nodo padre uba.ffyl.historia, no en este programa.",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}

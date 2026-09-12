@@ -1,0 +1,21 @@
+{
+  "address": "uba.ffyl.historia.antropologia-sistematica-1",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 18,
+  "books_found": 18,
+  "not_found": [
+    "MAYOR — el vuelco está bien pero SUB-CONTADO: el Departamento de Cs. Antropológicas publica TRES programas 2026 de esta materia, no dos — la página del 1er C 2026 (Plan 1985) también enlaza la cátedra A (NOVARO/MANZANO), PDF propio de 17 pp que imprime 'CÓDIGO Nº: 0730 A / 17004 A', 'CUATRIMESTRE: 1°', 'AÑO: 2026'. El nodo la trata sólo como edición 2021 del repositorio. metadata.catedrasPublicadas2026 ('dos') y el frame 'el Departamento publica DOS programas… y acá se dibuja UNO' son falsos como están escritos (el hedge 'al menos dos cátedras' sobrevive). La selección de B sigue legítima; sólo el denominador está mal. Reparar: tres publicadas / una trazada, y sumar el programa A-2026 a sources como alternativa verificada no trazada.",
+    "MENOR — total bibliográfico corrido en uno: complementaria de Unidad III es 22, no 23; complementarias 80, no 81; total 283, no 284. Causa: L345 del extract es '\\x0c IEC.', continuación de la entrada VOMMARO 2008 con form-feed, contada como inicio de entrada — exactamente la trampa que el propio investigador advirtió. Ningún nodo dibujado depende del número. Reparar los tres valores."
+  ],
+  "omitted": [
+    "Nits: el exit de Unidad I recorta la cola impresa «en perspectiva antropológica»; 'Mexico'→'México' y 'Bs. As., Paidos'→'Buenos Aires, Paidós' son normalizaciones silenciosas más allá de la política declarada de espaciado; el programa 2021 tampoco tiene apartado c. (el nodo sólo menciona el doble d.)."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "El vuelco del scout VERIFICADO por curl: el PDF 2026 de Balbi existe, imprime AÑO: 2026, y ambos extracts son byte-idénticos a sus fuentes vivas (ojo: `file` malcuenta 8 pp; pdfinfo dice 18). Derivación de libros IMPECABLE: el criterio re-aplicado independientemente reproduce 24 entradas → 18 volúmenes (1·6·6·2·3) y las mismas 25 exclusiones ítem por ítem; los 18 exits mapean 1:1 con pies exactos. 49 obligatorias exactas (4·14·14·9·8); 154 generales exactas. El hallazgo de carrera EXACTO y filoso: un solo hit boilerplate de 'carrera', 9 'historia' bibliográficos, cero licenciatura/profesorado/correlativ — la membresía en Historia queda atribuida sólo al plan padre, y el 2021 imprime explícito 'carrera de Ciencias Antropológicas'. Las tres contradicciones reproducibles (rótulo 0730-A junto a cátedra B en la página del 2do C; Res. 732/20 como norma de virtualidad, no de aprobación; doble apartado d. sin e. — y además sin c.). Claim del repositorio exacto (40 registros 1999-2021; el corte 2021 es de esta materia, no del repo). 15/15 erratas verbatim. Cero fabricaciones en lo dibujado; las dos reparaciones son de marco/metadata."
+}

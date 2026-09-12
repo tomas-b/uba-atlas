@@ -57,7 +57,8 @@ const done = (o) => { recordManifest(o); console.log(JSON.stringify(o)); try { f
 try {
   const fetchUrl = driveDirect(url);
   // curl: follow redirects, allow http, sane timeouts, browsery UA
-  execFileSync("curl", ["-sL", "--max-time", "90", "--retry", "2", "-A", "Mozilla/5.0", "-o", pdf, fetchUrl], { stdio: "ignore" });
+  // -g: filo.uba.ar filenames routinely carry literal [brackets] — without it curl globs and silently fetches nothing
+  execFileSync("curl", ["-gsL", "--max-time", "90", "--retry", "2", "-A", "Mozilla/5.0", "-o", pdf, fetchUrl], { stdio: "ignore" });
   if (!fs.existsSync(pdf) || fs.statSync(pdf).size < 1000) return done({ ok: false, url, reason: "empty_or_unreachable" });
   const head = fs.readFileSync(pdf, { encoding: "latin1", flag: "r" }).slice(0, 5);
   if (!head.startsWith("%PDF")) return done({ ok: false, url, reason: "not_a_pdf_maybe_html_or_login" });

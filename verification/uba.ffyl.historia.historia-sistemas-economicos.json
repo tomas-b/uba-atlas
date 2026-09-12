@@ -1,0 +1,16 @@
+{
+  "address": "uba.ffyl.historia.historia-sistemas-economicos",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 13,
+  "units_found": 13,
+  "books_total": 29,
+  "books_found": 29,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Live re-fetch byte-identical to extract (29,495 B, 12 pp). Counts re-derived independently: 13 unit headings in c. and d. compared word-for-word — all identical incl. the two line-wrapped ones; asiento vector [3,4,4,3,2,5,6,2,3,2,2,2,3]=41 matches position for position; exactly the 7 named journal/blog exclusions; the 5 cross-unit unifications are the only two-role book exits → 29 drawn; U12 zero books and U9 1-of-3 confirmed. Every erratum and gap confirmed with line refs (mathusianos L167, Hunt/Lenki L287, Kriedte inverted imprint L344-5, unclosed paren L478, Vilar L85/Polanyi L97 cited-not-entered...). Greps: cátedra exactly 3 (2 translation credits + REDEC boilerplate L457); correlativ/equivalenc/plan de estudios/Ciclo de Grado all 0. B cover re-fetched and every field literal, incl. the PROFESOR:-vs-PROFESOR/A: and code-spacing differences the node reproduces; department index confirms exactly two 2026 programas — the 1-of-2 selection independently corroborated. DATO CRUZADO attribution sound both directions. Two precision notes, neither a fabrication: the frame bundles string-absences with semantic-absences ('ciclo' occurs 9× non-curricularly — wording invites a misread); map.tree abbreviates 8 of 13 unit labels while exits[].name stay verbatim. Zero fabrications; no repair needed."
+}

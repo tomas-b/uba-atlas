@@ -1,0 +1,24 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-3",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 74,
+  "books_found": 74,
+  "not_found": [
+    "Frame: «los saltos de página pegan dieciséis asientos» — la cifra real es 12 puntos de fusión (24 asientos involucrados); ninguna lectura da 16. Reparar.",
+    "Frame: «las trece apariciones de plan son planes económicos … o la editorial Planeta» — hay 13 hits de subcadena pero el 13º es «replantean» (L583, título de Turner); sólo 12 encajan. Reparar.",
+    "Frame: los nueve hits de «ciclo» incluyen «un título de libro» — son tres apariciones en títulos, de dos títulos distintos (Gerchunoff-Llach L340/L945; Gordillo L701). Reparar.",
+    "Etiqueta del libro de Águila: el asiento separa autor y título con coma «no con dos puntos como los demás» — Brennan y Gordillo (U5, L697) también usa coma. Reparar el superlativo.",
+    "Menor: la cita «literal» de la portada B imprime «REDEC-2024-2526UBA-» — el PDF lo imprime con guión cortado por salto de línea (cuarto caso del artefacto en la ola). Restaurar el guión."
+  ],
+  "omitted": [
+    "Menores: el filename citado omite su prefijo real «[0431 - 14018] - »; el inventario de contradicciones omite una décima variante Macor Darío/Dario (el label del libro sí la señala); el lede parafrasea «configuraciones intelectuales y culturales» como «configuraciones intelectuales»."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Cero fabricaciones. Extract byte-identical to live PDF (25 pp, md5 074c0733…). Todos los conteos de carga reproducidos independientemente: 7/7 unidades sin título con nombres = primera frase temática literal; 266 asientos con los tres vectores exactos (parseo programático de 254 bloques + 12 fusiones de salto); las 19 exclusiones nombre por nombre y unidad por unidad; 90 con volumen; 11 repetidores con 16 asientos excedentes → 74 exits en biyección 1:1 con el set independiente; Rapoport verificado en las seis líneas; «El siglo veinte argentino» confirmado en las siete FUENTES con el corte exacto de capítulos y correctamente no dibujado. Cátedra 9 hits con el desglose exacto 7+1+1 — el caso de auto-denominación más fuerte de la ola, verificado. Las nueve contradicciones y cada errata verbatim con refs; los cinco incompletos siguen incompletos; portada B con los siete campos verbatim y nada más reclamado. Los cinco defectos son deslices numéricos/superlativos en notas declarativas del frame, ninguno toca contenido dibujado."
+}

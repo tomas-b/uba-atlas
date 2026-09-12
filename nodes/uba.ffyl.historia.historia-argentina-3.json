@@ -1,0 +1,686 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-3",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial, con 1 recuperatorio",
+    "cargaHoraria": "96 horas (la página de encabezado imprime «CARGA HORARIA: 96 horas»; el apartado e. reproduce la pauta general: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»). La portada no imprime carga horaria",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0431/14018 (así impreso en la portada y en el encabezado interno, «CÓDIGO Nº: 0431/14018»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”»",
+    "catedra": "«A» — la letra está impresa una sola vez en el renglón de materia, en la portada: «MATERIA: HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”»; el encabezado interno de la página siguiente repite la materia SIN la letra. La palabra «cátedra» aparece nueve veces en el PDF y, a diferencia de otros programas del Departamento, siete de ellas sí designan a esta cátedra con su letra: el asiento de FUENTES PRIMARIAS de las siete unidades cita «El siglo veinte argentino en sus fuentes. Selección de documentos (Serie de publicaciones, Cátedra Historia Argentina III “A”)». Una octava la nombra sin letra («Fichas de Cátedra, Historia Argentina III», en el asiento de Galante y Jmelnizky, complementaria de la Unidad 3) y la novena es la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · el apartado e. dice «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». La portada, en cambio, no imprime «PRESENCIAL»: dice solo «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "CAMARERO, HERNÁN (portada: «PROFESOR: CAMARERO HERNÁN», sin coma; encabezado interno: «PROFESOR: DR. CAMARERO, HERNÁN»; firma al pie: «Dr. Hernán Camarero / Profesor Titular Regular»)",
+      "MAZZEI, DANIEL (PROFESOR ADJUNTO INTERINO (JTP REGULAR) · DR.)",
+      "GALANTE, MIGUEL (JEFE DE TRABAJOS PRÁCTICOS REGULAR · MAG.)",
+      "VOLKIND, PABLO (JEFE DE TRABAJOS PRÁCTICOS REGULAR · DR.)",
+      "LÓPEZ CANTERA, MERCEDES (AYUDANTE DE PRIMERA REGULAR · DRA.)",
+      "BELKIN, ALEJANDRO (AYUDANTE DE PRIMERA REGULAR · DR.)",
+      "ROJO, ALICIA (AYUDANTE DE PRIMERA REGULAR · PROF.)",
+      "EIDELMAN, ARIEL (AYUDANTE DE PRIMERA REGULAR · Dr.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "materia específica obligatoria del Ciclo de Grado, obligatoria para los dos títulos — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "catedrasDeLaMateria": "2 cátedras publican programa para esta materia en historia.filo.uba.ar, las dos bajo el código 0431 / 14018. Se traza una («A»). La otra («B») queda citada y no trazada, con su portada verificada abriendo el PDF",
+    "unidades": 7,
+    "bibliografia": 74
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-argentina-3",
+      "label": "Historia Argentina III"
+    }
+  ],
+  "eyebrow": "Historia · Historia Argentina III «A» · Camarero · 2º cuatrim. 2026",
+  "title": "Un siglo argentino, leído desde el conflicto.",
+  "lede": "Siete unidades que recorren la historia política, económica, social e intelectual de la Argentina desde 1916 hasta hoy, atadas por una serie de ejes que el programa declara comunes a toda la etapa: las transformaciones y crisis de la economía capitalista local, los impactos que eso supuso en la estructura social, las variaciones en la composición de las clases y fracciones de clase, la dinámica del conflicto social y sus articulaciones con las formas de hegemonía, dominación y resistencia, los reacomodamientos del Estado y del régimen político, las fuerzas partidarias y corporativas, y el mosaico de debates y configuraciones intelectuales que anidaron en la sociedad durante un siglo. Se entra por la Ley Sáenz Peña, la primera presidencia de Yrigoyen, la Semana Trágica y las huelgas de la Patagonia, las centrales obreras en disputa y el golpe de 1930; sigue la restauración conservadora, el «fraude patriótico», el Pacto Roca-Runciman y el Plan Pinedo; después el 17 de octubre y el debate sobre los orígenes del peronismo, la «democratización del bienestar», el IAPI y el conflicto con la Iglesia; la «Revolución Libertadora», el pacto Perón-Frondizi, la resistencia obrera peronista y el «empate hegemónico»; el Onganiato y el Cordobazo, las guerrillas y la primavera camporista, el Rodrigazo y la Triple A; el Proceso, el terrorismo de Estado, el plan de Martínez de Hoz y Malvinas; y por fin el regreso de la democracia, el juicio a las juntas, las hiperinflaciones, la convertibilidad, el estallido de 2001 y el ciclo que va del kirchnerismo a Macri, Fernández y Milei. Las siete unidades no llevan título: el programa las encabeza solo «UNIDAD N° 1» … «UNIDAD N° 7» y las llena de temas.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "2º cuatrim. 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "1 / 2",
+      "small": "trazada «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA ARGENTINA III, cátedra «A», Departamento de Historia (FFyL-UBA), cód. 0431/14018, Prof. Dr. Hernán Camarero, 2º cuatrimestre de 2026, publicado en historia.filo.uba.ar. El PDF trae capa de texto nativa y se extrajo entero (25 páginas, extracto historia-argentina3-camarero-2026). Todo lo afirmado acá sale de ese único PDF, salvo lo declarado expresamente como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): la cátedra «A», CAMARERO, 2º cuatrimestre 2026, 25 páginas. NO se dibuja 1 de 2 (50%): la cátedra «B», cuya portada fue verificada directamente para esta ficha abriendo el PDF —no leyendo el nombre del archivo— y dice, literalmente, «MATERIA: HISTORIA ARGENTINA III “B”», «PROFESOR/A: SARTELLI, EDUARDO», «CÓDIGO Nº: 0431 / 14018», «RÉGIMEN DE PROMOCIÓN: PD», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», «1º CUATRIMESTRE 2026», «AÑO: 2026», 14 páginas; su URL queda asentada en sources. De la cátedra «B» no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Las unidades, la bibliografía, las horas y el régimen dibujados son los de la cátedra «A» y de ninguna otra. CÁTEDRA, cómo consta: la letra «A» está impresa una sola vez en el renglón de materia, en la portada («MATERIA: HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”»); el encabezado interno de la página siguiente repite la materia sin la letra. A diferencia de otros programas del Departamento, acá la palabra «cátedra» sí designa a ésta: aparece nueve veces y siete de ellas la nombran con su letra, en el asiento de FUENTES PRIMARIAS de las siete unidades — «El siglo veinte argentino en sus fuentes. Selección de documentos (Serie de publicaciones, Cátedra Historia Argentina III “A”)». La octava la nombra sin letra («Fichas de Cátedra, Historia Argentina III», asiento de Galante y Jmelnizky en la complementaria de la Unidad 3) y la novena es machete normativo del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) El nombre de la materia se imprime de tres formas distintas: la portada dice «HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”»; el encabezado interno dice «HISTORIA ARGENTINA III (1916 – A LA FECHA)», sin la letra y con otra redacción de la fecha; y el archivo publicado por el Departamento se llama «HISTORIA ARGENTINA III (1916 HASTA LA ACTUALIDAD) - A - CAMARERO - 2C 2026.pdf», con una tercera. El esquema del Plan 1985, dato externo, la llama «Historia Argentina III (1916 hasta la fecha)». Ninguna se elige por sobre las otras. (2) Los objetivos cierran antes que los contenidos: el objetivo a) va «hasta el colapso económico de la convertibilidad de 2001 y el ciclo político abierto durante esa nueva década», mientras la Unidad 7 llega a «Los gobiernos de Macri, Fernández y Milei» y a la «Visión en perspectiva de las cuatro décadas de democracia». (3) Marcos Novaro, «Historia de la Argentina, 1955-2010»: Siglo XXI, 2010 en la obligatoria de la Unidad 4 y Siglo XXI, 2011 en la de la Unidad 7, mismo título y misma editorial, dos años. (4) Juan Carlos Torre, «Los sindicatos en el gobierno»: así en la Unidad 4 y «Los sindicatos en el gobierno, 1973-1976» en la Unidad 5, mismo pie (CEAL, 1983) y páginas contiguas (9-40 y 157-158 / 41-166). (5) Juan Carlos Torre, «La vieja guardia sindical y Perón»: así en la Unidad 2 y «La vieja guardia sindical y Perón. Sobre los orígenes del Peronismo» en la Unidad 3, mismo pie (Sudamericana, 1990). (6) Ansaldi y Moreno: la Unidad 2 imprime «Estado y Sociedad en el Pensamiento Nacional, Buenos Aires, Cántaro, 1989» con autores «Ansaldi, W. y Moreno J. L.»; la Unidad 4 imprime «Estado y sociedad en el pensamiento nacional, Buenos Aires, Cántaro, 1996 (2ª edición)» con «Waldo Ansaldi y José Luís Moreno (comps.)». (7) Hugo Vezetti / Vezzetti: «Vezetti» en la obligatoria de la Unidad 5, «Vezzetti» en la complementaria de la Unidad 6. (8) Pilar Calveiro: «Calveiro Pilar» sin coma en la complementaria de la Unidad 5, «Calveiro, Pilar» en la obligatoria de la Unidad 6. (9) Tulio Halperín Donghi: con tilde en las Unidades 1 y 4, «Halperin Donghi» sin tilde en la complementaria de la Unidad 2. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: la complementaria de la Unidad 2 fecha a Roy Hora en «Prismas, nº 23, Universidad Nacional de Quilmes, 2029» —un año futuro—; el asiento de Sidicaro en esa misma sección abre paréntesis y lo cierra con comilla («la crisis del régimen conservador (1930-1943”»); la obligatoria de la Unidad 5 imprime la ciudad dos veces («Buenos Aires, Buenos Aires, Editorial de Belgrano, 1980») y escribe «O´Donnell» con acento agudo; la obligatoria de la Unidad 7 repite el apellido dentro del nombre («Piva, Adrián Piva:») y escribe «Shorr, Martín»; la obligatoria de la Unidad 6 pone el nombre de pila primero en un solo asiento («Luciana Zorzoli:») y separa autor y título con coma en otro («Aguila, Gabriela, Historia de la última dictadura militar»); la complementaria de la Unidad 5 imprime ciudad y año antes de la editorial en Marín («Buenos Aires, 2003 [1984]. La Rosa Blindada/PICASO») y deja sin cerrar la comilla del título de Servetto («contra las “provincias montoneras,»); la complementaria de la Unidad 7 abre paréntesis y no lo cierra en Elbert («(Buenos Aires, 2003-2011, Colección Archivos»); el apartado f. abre dos paréntesis y cierra uno («Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»); la fuente de la Unidad 1 pega el corchete a la dirección («1928]https://www.youtube.com/watch?v=NimQvw8kjyk»); y la fuente «Eva Perón (1996)» de la Unidad 3 imprime dos enlaces de YouTube concatenados, el segundo truncado. Ninguna se corrige. ASIENTOS INCOMPLETOS, declarados y no completados: en la bibliografía obligatoria, Paula Canelo, «La política secreta de la última dictadura argentina (1976-1983)» no lleva pie editorial alguno —ni ciudad, ni editorial, ni año—; Marina Franco, «El final del silencio» (Buenos Aires, FCE) y Pablo Pozzi, «Por las sendas argentinas...» (Eudeba) van sin año y sin ciudad respectivamente; J. C. Torre (dir.), «Los años peronistas (1943-1955)», t. 8 de la Nueva Historia Argentina (Buenos Aires, Sudamericana) va sin año; Ricardo Sidicaro, «Los tres peronismos» (Siglo XXI Editores, Buenos Aires) va sin año. Se declara la falta en lugar de completarla. DATO CRUZADO: la ubicación de la materia —materia específica obligatoria del Ciclo de Grado del Plan 1985, obligatoria para la Licenciatura y para el Profesorado— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en ninguna de las 25 páginas), equivalencias (la cadena «equivalenc» tampoco aparece), plan de estudios (la cadena «plan de estudio» no aparece: de las trece coincidencias de la subcadena «plan», doce son planes económicos —Pinedo, Conintes, Krieger Vasena, Gelbard, Martínez de Hoz, quinquenales— o la editorial Planeta, y la decimotercera está dentro de «replantean», en el título de Turner), ciclo y orientación (las nueve apariciones de «ciclo» son ciclos económicos o políticos, el «ciclo lectivo» —dos veces— y tres apariciones dentro de dos títulos de libro (El ciclo de la ilusión y el desencanto, de Gerchunoff y Llach, citado dos veces, y Repensando el ciclo de protestas, de Gordillo); la única de «orientación» es el «Programa de Orientación de la SEUBE»), resolución de aprobación del programa, fechas de examen, horarios de consulta y porcentaje de virtualidad efectivamente adoptado. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). EVALUACIÓN, tal como está impresa: bajo el encabezado «Régimen de PROMOCIÓN DIRECTA (PD)» conviven dos opciones — Opción A: 80% de asistencia a cada instancia de la cursada y las 3 evaluaciones parciales aprobadas con promedio igual o superior a 7 puntos, sin ningún aplazo; Opción B: 75% de asistencia a trabajos prácticos, las 3 instancias (o sus recuperatorios) con mínimo de 4 puntos cada una y promedio entre 4 y menos de 7, MÁS un EXAMEN FINAL con nota mínima de 4. Que un régimen rotulado «promoción directa» contenga una opción que termina en examen final está impreso así y se registra sin resolver. Hay UN (1) recuperatorio; desaprobar más de una instancia es pérdida de la regularidad; la regularidad vale 4 años y 3 mesas examinadoras. ESTRUCTURA: el apartado c. Contenidos trae SIETE unidades y el apartado d. las repite con los mismos siete encabezados. Las siete se dibujan. LAS UNIDADES NO LLEVAN TÍTULO: el programa las encabeza únicamente «UNIDAD N° 1» … «UNIDAD N° 7» y las llena de temas corridos. Lo que este nodo muestra como nombre de cada unidad es la PRIMERA FRASE TEMÁTICA literalmente impresa en ella, no un título dado por el programa; ninguna se inventó ni se resumió. El apartado b. Objetivos imprime cuatro objetivos rotulados a), b), c) y d); no se dibujan como grupo. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: el apartado d. tiene 266 asientos, repartidos en tres secciones por unidad — BIBLIOGRAFÍA OBLIGATORIA 109 (U1: 13 · U2: 18 · U3: 16 · U4: 14 · U5: 18 · U6: 14 · U7: 16); FUENTES PRIMARIAS 23 (U1: 3 · U2: 2 · U3: 6 · U4: 1 · U5: 7 · U6: 3 · U7: 1); BIBLIOGRAFÍA COMPLEMENTARIA 134 (U1: 26 · U2: 18 · U3: 24 · U4: 14 · U5: 19 · U6: 15 · U7: 18). Se dibuja como libro el volumen con pie editorial que contiene cada asiento de la bibliografía OBLIGATORIA —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo—. NO se dibujan los 19 asientos obligatorios cuyo contenedor es una revista o un boletín, declarados uno por uno: Halperín Donghi en Prismas nº 2 y Fodor y O'Connell en Desarrollo Económico Vol. 13 Nº 49 (U1); Portantiero en La Ciudad Futura 4, Llach en Desarrollo Económico Vol. 23 Nº 92, Korzeniewicz en Desarrollo Económico Vol. 33 Nº 131, Lida en PolHis año IV n° 8 y López Cantera en Estudios Sociales del Estado año 6 n° 12 (U2); Doyon en Desarrollo Económico Vol. 24 Nº 94 y Torre en Desarrollo Económico Vol. 27 Nº 112 (U3); Smulovitz en Desarrollo Económico Vol. 33 Nº 131, Smulovitz en Desarrollo Económico Vol. 31 N° 121, James en Desarrollo Económico Vol. 21 Nº 83 y O'Donnell en Desarrollo Económico vol. 16 nº 64 (U4); Mazzei en Páginas año 9 n° 19 y Lanusse en Cuestiones de Sociología Nº 3 (U5); Galante en Testimonios (AHORA) año 1 nº 1, Rot en Archivos de historia del movimiento obrero y la izquierda año V N° 9 y Zorzoli en Desarrollo Económico vol. 57 n° 223 (U6); Mazzei en el Boletín Bibliográfico Electrónico del Programa Buenos Aires de Historia Política N° 7 (U7). Quedan 90 asientos obligatorios con volumen, que al unificar los repetidos dan 74 libros, y 74 son los que se dibujan. Los once volúmenes que reaparecen son Rapoport (seis asientos: U1, U2, U3, U4, U6 y U7), Murmis y Portantiero (tres: dos en U3), Rouquié (U1 y U2), Cattaruzza t. VII (dos asientos en U2), Torre «La vieja guardia sindical y Perón» (U2 y U3), Gerchunoff y Llach (U2 y U7), Ansaldi y Moreno (U2 y U4), James «Resistencia e integración» (U3 y U4), Torre «Los sindicatos en el gobierno» (U4 y U5), Schneider (U4 y U5) y Novaro «Historia de la Argentina, 1955-2010» (U4 y U7): cada uno se dibuja una sola vez, con los capítulos de cada unidad anotados en el nombre. TAMPOCO se dibujan los 23 asientos de FUENTES PRIMARIAS ni los 134 de la BIBLIOGRAFÍA COMPLEMENTARIA: 176 asientos quedan contados y fuera del dibujo, y nada de lo excluido aparece como libro. La regla se aplica en los dos sentidos: ningún asiento obligatorio con pie editorial del programa queda fuera. CONSECUENCIA REGISTRADA, la más visible de esa exclusión: «El siglo veinte argentino en sus fuentes. Selección de documentos (Serie de publicaciones, Cátedra Historia Argentina III “A”), Oficina de Publicaciones de la Facultad de Filosofía y Letras, UBA, 2017» —la antología de documentos de la propia cátedra, el único ítem de FUENTES que sí tiene pie editorial, citado en las siete unidades, capítulo por capítulo (cap. 1; caps. 2 y 3; cap. 4; caps. 5 y 6; cap. 7; caps. 8 y 9; cap. 10)— NO se dibuja como libro, porque está en FUENTES y no en la obligatoria. Queda declarado acá en lugar de dibujarse. Las otras 16 fuentes son películas y documentales, casi todos con enlace de YouTube, y no son volúmenes. Ningún asiento se descartó por ilegible. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala entre el encabezado «c. Contenidos:» y «UNIDAD N° 1»; los saltos de página del PDF borran la línea en blanco que separa un asiento de su vecino en doce puntos del documento —veinticuatro asientos pegados de a dos—, de modo que el conteo por párrafos se corrigió a mano contra los veinticinco avances de página. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades (cátedra «A», Camarero, 2º cuatrim. 2026)",
+      "title": "De la Ley Sáenz Peña a Milei",
+      "note": "Las siete unidades del apartado c. Contenidos, en el orden impreso. El apartado d. Bibliografía repite exactamente los mismos siete encabezados. El programa NO les pone título: las encabeza solo «UNIDAD N° 1» … «UNIDAD N° 7». Lo que figura como nombre de cada una es la primera frase temática literalmente impresa en ella, no un título del programa.",
+      "map": {
+        "mk": "El programa, en siete unidades sin título",
+        "tree": "HISTORIA ARGENTINA III «A» · cód. 0431/14018\nCamarero · 2º cuatrim. 2026 · 96 hs · PD\n│\n├─ 1 · Ley Sáenz Peña y gobiernos radicales\n│      Yrigoyen · Reforma Universitaria · Semana Trágica y Patagonia\n│      FORA IX y V · USA, COA, CUSC · Alvear · crisis de 1929 · golpe de 1930\n├─ 2 · La restauración conservadora\n│      «fraude patriótico» · Uriburu · Concordancia (1932-1943)\n│      CGT y sindicatos únicos · Roca-Runciman · Plan Pinedo · ISI\n├─ 3 · 1943, el peronismo en el poder\n│      17 de octubre y sus interpretaciones · ¿continuidad o ruptura?\n│      «democratización del bienestar» · IAPI · Eva Perón · Iglesia · 1955\n├─ 4 · La «Revolución Libertadora» y la semidemocracia\n│      Lonardi, Aramburu, Rojas · UCRI y UCRP · Perón-Frondizi · Conintes\n│      resistencia obrera · vandorismo · azules y colorados · Illia\n├─ 5 · Del Onganiato a Isabel\n│      Estado Burocrático-Autoritario · Krieger Vasena · Cordobazo\n│      FAL, FAR, FAP, Montoneros, ERP · GAN · FREJULI · Rodrigazo · Triple A\n├─ 6 · El «Proceso» (1976-1983)\n│      Videla · Terrorismo de Estado · organismos de DD. HH.\n│      Martínez de Hoz · desindustrialización y deuda · Malvinas · Bignone\n└─ 7 · Cuatro décadas de democracia\n       Alfonsín · juicio a las juntas · CONADEP · obediencia debida\n       hiperinflaciones · Menem y convertibilidad · 2001 · kirchnerismo\n       Macri, Fernández y Milei",
+        "foot": "Esta materia publica dos programas para 2026: la cátedra «A» (Camarero, 2º cuatrimestre) y la cátedra «B» (Sartelli, 1º cuatrimestre). Acá se dibuja solo la «A»; de la «B» únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u1-la-ley-saenz-pena-la-expansion-electoral",
+          "name": "La Ley Sáenz Peña, la expansión electoral y los nuevos rasgos del régimen político",
+          "role": "Unidad N° 1 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u2-la-restauracion-sociopolitica-conservadora",
+          "name": "La restauración sociopolítica conservadora",
+          "role": "Unidad N° 2 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u3-la-revolucion-del-4-de-junio-de-1943",
+          "name": "La Revolución del 4 de junio de 1943: etapas y características del régimen militar",
+          "role": "Unidad N° 3 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u4-la-revolucion-libertadora-1955-1958",
+          "name": "La «Revolución Libertadora» (1955-1958)",
+          "role": "Unidad N° 4 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u5-el-golpe-civico-militar-de-1966",
+          "name": "El golpe cívico-militar de 1966: la «Revolución Argentina»",
+          "role": "Unidad N° 5 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u6-el-golpe-militar-empresarial-de-1976",
+          "name": "El golpe militar-empresarial de 1976 y la instauración del «Proceso de Reorganización Nacional»",
+          "role": "Unidad N° 6 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.u7-el-regreso-de-la-democracia",
+          "name": "El regreso de la democracia",
+          "role": "Unidad N° 7 · el programa no le pone título",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 74 volúmenes distintos con pie editorial que contienen los 90 asientos con volumen de la bibliografía obligatoria (109 asientos en total, 19 de revista o boletín), por unidad. Un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo (Rapoport aparece en seis unidades). No se dibujan los 23 asientos de FUENTES PRIMARIAS ni los 134 de la BIBLIOGRAFÍA COMPLEMENTARIA: quedan contados y declarados en el frame, junto con los 19 de revista. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-botana-el-orden-conservador",
+          "name": "El orden conservador. La política argentina entre 1880 y 1916 — Natalio Botana (Buenos Aires, Hyspamérica, 1985) · cap. 9, pp. 292-345",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-rock-el-radicalismo-argentino",
+          "name": "El radicalismo argentino, 1890-1930 — David Rock (Buenos Aires, Amorrortu, 1977) · Capítulos 5, 11 y 12, «pp. 108-137, 243-273 y 312-316 y 341-344» [así impreso]",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-falcon-democracia-conflicto-social-y-renovacion-de-ideas",
+          "name": "Democracia, conflicto social y renovación de ideas (1916-1930) — Ricardo Falcón (dir.), Nueva Historia Argentina, t. VI (Buenos Aires, Sudamericana, 2000) · Waldo Ansaldi, «La trunca transición del régimen oligárquico al régimen democrático», pp. 15-57",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-rouquie-poder-militar-y-sociedad-politica",
+          "name": "Poder militar y sociedad política en la Argentina (I) — Alain Rouquié (Buenos Aires, Emecé, 1983) · Caps. 3 y 4, pp. 123-222 (U1); Caps. 5-7, pp. 223-338 (U2)",
+          "role": "obligatoria · U1 y U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-horowitz-el-radicalismo-y-el-movimiento-popular",
+          "name": "El radicalismo y el movimiento popular (1916-1930) — Joel Horowitz (Buenos Aires, Edhasa, 2015) · caps. 5, 6 y 7, pp. 149-253",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-rapoport-historia-economica-politica-y-social",
+          "name": "Historia económica, política y social de la Argentina (1880-2003) — Mario Rapoport (Buenos Aires, Emecé, 2013) · cap. 2, pp. 136-187 (U1); cap. 3, pp. 205-240 y 270-305 (U2); cap. 4, pp. 329-412 (U3); cap. 5, pp. 446-502 (U4); cap. 7, pp. 645-701 (U6); cap. 8, pp. 738-757 y 785-858 (U7)",
+          "role": "obligatoria · U1, U2, U3, U4, U6 y U7 · seis asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-gerchunoff-el-eslabon-perdido",
+          "name": "El eslabón perdido. La economía política de los gobiernos radicales — Pablo Gerchunoff (Buenos Aires, Edhasa, 2016) · Introducción y caps. 1 y 2, pp. 11-85",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-bilsky-la-semana-tragica",
+          "name": "La semana trágica — Edgardo Bilsky (Buenos Aires, CEAL, 1984) · Cap. 5 y Conclusión, pp. 119-153",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-camarero-a-la-conquista-de-la-clase-obrera",
+          "name": "A la conquista de la clase obrera. Los comunistas y el mundo del trabajo en la Argentina, 1920-1935 — Hernán Camarero (Buenos Aires, Siglo XXI Editora Iberoamericana, 2007) · Introducción y cap. 1, pp. XIII-LXII y 1-63",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-mcgee-deutsch-las-derechas",
+          "name": "Las Derechas. La extrema derecha en la Argentina, el Brasil y Chile, 1890-1939 — Sandra McGee Deutsch (Bernal, UNQ, 2005) · «La argentinización de la clase obrera», pp. 111-144",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-scarzanella-ni-gringos-ni-indios",
+          "name": "Ni gringos ni indios. Inmigración, criminalidad y racismo en la Argentina, 1890-1940 — Eugenia Scarzanella (Quilmes, Universidad Nacional de Quilmes, 2003) · pp. 11-46",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-devoto-nacionalismo-fascismo-y-tradicionalismo",
+          "name": "Nacionalismo, fascismo y tradicionalismo en la Argentina moderna — Fernando Devoto (Buenos Aires, Siglo XXI, 2002) · Capítulo 5, pp. 263-310",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-cattaruzza-crisis-economica-avance-del-estado",
+          "name": "Crisis económica, avance del Estado e incertidumbre política (1930-1943) — A. Cattaruzza (dir.), Nueva Historia Argentina, t. VII (Buenos Aires, Sudamericana, 2001) · Darío Macor, «Partidos, coaliciones y sistema de poder», pp. 49-95; Joel Horowitz, «El movimiento obrero», pp. 239-282 — dos asientos; el primero imprime «en A. Cattaruzza» y el segundo «en A. Cattaruzza (dir.)»",
+          "role": "obligatoria · U2 · dos asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-murmis-portantiero-estudios-sobre-los-origenes-del-peronismo",
+          "name": "Estudios sobre los orígenes del peronismo. [Edición definitiva] — Miguel Murmis y Juan Carlos Portantiero (Buenos Aires, Siglo XXI Editores Argentina, [1971] 2004) · primera parte, pp. 46-109 (U2); segunda parte, pp. 111-190, y Hernán Camarero, «Claves para la relectura de un clásico», pp. 9-44 (U3)",
+          "role": "obligatoria · U2 y U3 · tres asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-gerchunoff-llach-el-ciclo-de-la-ilusion-y-el-desencanto",
+          "name": "El ciclo de la ilusión y el desencanto. Un siglo de políticas económicas argentinas — Pablo Gerchunoff y Lucas Llach (Buenos Aires, Ariel, 1998) · cap. 3, pp. 107-153 (U2); cap. 9 y «Epilogo de los 90 ¿El fin de la historia?» [así impreso, sin tilde], pp. 381-471 (U7)",
+          "role": "obligatoria · U2 y U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-torre-la-vieja-guardia-sindical-y-peron",
+          "name": "La vieja guardia sindical y Perón — Juan Carlos Torre (Buenos Aires, Sudamericana, 1990) · cap. 1, pp. 21-54 (U2); Caps. 4-7, pp. 106-225 (U3, donde el título se imprime «La vieja guardia sindical y Perón. Sobre los orígenes del Peronismo»)",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-camarero-mangiantini-el-movimiento-obrero-y-las-izquierdas",
+          "name": "El movimiento obrero y las izquierdas en América Latina: experiencias de lucha, inserción y organización — H. Camarero y M. Mangiantini (eds.), vol. 2 (Raleigh, North Carolina, The University of North Carolina Press/A Contracorriente, 2018) · Hernán Camarero, «Comunismo, peronismo y movimiento obrero en la Argentina durante la primera mitad del siglo XX. Un abordaje histórico-sociológico», pp. 1-23",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-ansaldi-moreno-estado-y-sociedad-en-el-pensamiento-nacional",
+          "name": "Estado y Sociedad en el Pensamiento Nacional — W. Ansaldi y J. L. Moreno (Buenos Aires, Cántaro; el programa imprime 1989 en la U2 y «1996 (2ª edición)» en la U4, donde además el título va en minúsculas y los compiladores figuran como «Waldo Ansaldi y José Luís Moreno») · Hugo Del Campo, «Sindicatos, partidos ´obreros´ y Estado en la Argentina pre-peronista» (U2); Juan Carlos Portantiero, «Economía y política en la crisis argentina (1958-1973)», pp. 301-346 (U4)",
+          "role": "obligatoria · U2 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-zanatta-del-estado-liberal-a-la-nacion-catolica",
+          "name": "Del Estado liberal a la Nación Católica — Loris Zanatta (Bernal, UNQ, 1996) · cap. 5",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-teran-historia-de-las-ideas-argentinas",
+          "name": "Historia de las ideas argentinas. Diez lecciones iniciales, 1810-1980 — Oscar Terán (Buenos Aires, Siglo XXI, 2008) · caps. 7-8, pp. 191-255",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-gil-lozano-historia-de-las-mujeres-en-la-argentina",
+          "name": "Historia de las mujeres en la Argentina. Tomo II: siglo XX — F. Gil Lozano, V. S. Pita y M. G. Ini (Buenos Aires, Taurus, 2000) · Débora D'Antonio, «Representaciones de género en la huelga de la construcción. Buenos Aires, 1935-1936», pp. 245-265",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-torre-los-anos-peronistas",
+          "name": "Los años peronistas (1943-1955) — J. C. Torre (dir.), Nueva Historia Argentina, Tomo 8 (Buenos Aires, Sudamericana; el programa no consigna año) · Juan Carlos Torre, «Introducción a los años peronistas», pp. 11-77, y Juan Carlos Torre y Elisa Pastoriza, «La democratización del bienestar», pp. 257-312 — los dos textos van en un solo asiento",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-doyon-peron-y-los-trabajadores",
+          "name": "Perón y los trabajadores. Los orígenes del sindicalismo peronista, 1943-1955 — Louise Doyon (Buenos Aires, Siglo XXI, 2006) · cap. 9, pp. 325-350",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-james-resistencia-e-integracion",
+          "name": "Resistencia e integración. El peronismo y la clase trabajadora argentina, 1946-1976 — Daniel James (Buenos Aires, Sudamericana, 1990) · Cap. 1, pp. 19-65 (U3); Caps. 2-4 (U4)",
+          "role": "obligatoria · U3 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-altamirano-peronismo-y-cultura-de-izquierda",
+          "name": "Peronismo y cultura de izquierda — Carlos Altamirano (Buenos Aires, Siglo XXI, 2011) · Introducción y caps. 1-3, pp. 13-59",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-rougier-la-economia-del-peronismo",
+          "name": "La economía del peronismo. Una perspectiva histórica — Marcelo Rougier (Buenos Aires, Sudamericana, 2012)",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-sidicaro-los-tres-peronismos",
+          "name": "Los tres peronismos. Estado y poder económico 1946-1955/ 1973-1976/ 1989-1999 — Ricardo Sidicaro (Buenos Aires, Siglo XXI Editores; el programa no consigna año) · Cap. 2, pp. 55-101",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-macor-tcach-la-invencion-del-peronismo-en-el-interior",
+          "name": "La invención del peronismo en el interior del país — Dario Macor y César Tcach (eds.) [«Dario» así impreso, sin tilde] (Santa Fe, UNL, 2ª ed., 2014) · Macor y Tcach, «El enigma peronista», pp. 5-27",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-caimari-peron-y-la-iglesia-catolica",
+          "name": "Perón y la Iglesia católica — Lila Caimari (Buenos Aires, Ariel, 1995) · pp. 249-314",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-acha-quiroga-el-hecho-maldito",
+          "name": "El hecho maldito. Conversaciones para otra historia del peronismo — Omar Acha y Nicolás Quiroga (Rosario, Prohistoria, 2012) · pp. 19-59",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-amaral-el-movimiento-nacional-popular",
+          "name": "El movimiento nacional-popular. Gino Germani y el peronismo — Samuel Amaral (Sáenz Peña, Universidad Nacional de Tres de Febrero, 2018) · caps. 7-9, pp. 211-263",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-cavarozzi-autoritarismo-y-democracia",
+          "name": "Autoritarismo y democracia (1955-1996). La transición del Estado al Mercado en la Argentina — Marcelo Cavarozzi (Buenos Aires, Ariel, 1997) · Introducción y cap. 1",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-novaro-historia-de-la-argentina-1955-2010",
+          "name": "Historia de la Argentina, 1955-2010 — Marcos Novaro (Buenos Aires, Siglo XXI; el programa imprime 2010 en la U4 y 2011 en la U7) · caps. 1-3, pp. 13-87 (U4); caps. 8-11 y Epílogo, pp. 195-305 (U7)",
+          "role": "obligatoria · U4 y U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-mazzei-bajo-el-poder-de-la-caballeria",
+          "name": "Bajo el poder de la caballería: el ejército argentino (1962-1973) — Daniel Mazzei (Buenos Aires, Eudeba, 2012) · cap. 7, pp. 129-164",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-torre-los-sindicatos-en-el-gobierno",
+          "name": "Los sindicatos en el gobierno — Juan Carlos Torre (Buenos Aires, CEAL, 1983) · pp. 9-40 y 157-158 (U4); pp. 41-166 (U5, donde el título se imprime «Los sindicatos en el gobierno, 1973-1976»)",
+          "role": "obligatoria · U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-schneider-los-companeros",
+          "name": "Los compañeros. Trabajadores, izquierda y peronismo (1955-1973) — Alejandro Schneider (Buenos Aires, Imago Mundi, 2006) · caps. 2-4, pp. 139-255 (U4); Caps. 5, 6 y Conclusiones (U5)",
+          "role": "obligatoria · U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-basualdo-estudios-de-historia-economica-argentina",
+          "name": "Estudios de Historia Económica Argentina. Desde Mediados del siglo XX a la actualidad — Eduardo Basualdo (Buenos Aires, FLACSO-Siglo XXI, 2006) · pp. 25-107",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-teran-nuestros-anos-sesenta",
+          "name": "Nuestros años sesenta. La formación de la nueva izquierda intelectual argentina, 1956-1966 — Oscar Terán (Buenos Aires, Puntosur, 1991) · Advertencias y caps. 5, 6 y 8",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-odonnell-el-estado-burocratico-autoritario",
+          "name": "El Estado burocrático-autoritario. Triunfos, derrotas y crisis — Guillermo O´Donnell [así impreso, con acento agudo] (Buenos Aires, Buenos Aires [la ciudad se imprime dos veces], Editorial de Belgrano, 1980) · Caps. 2, 3, 5 y 6",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-rougier-la-frustracion-de-un-proyecto-economico",
+          "name": "La frustración de un proyecto económico. El gobierno peronista de 1973-1976 — Marcelo Rougier (Buenos Aires, Manantial, 2006) · caps. 2-3, pp. 60-115",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-brennan-gordillo-cordoba-rebelde",
+          "name": "Córdoba rebelde. El cordobazo, el clasismo y la movilización social — James Brennan y Mónica Gordillo (La Plata, De la Campana, 2008) · cap. 3",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-gordillo-1969-a-cincuenta-anos",
+          "name": "1969. A cincuenta años. Repensando el ciclo de protestas — M. Gordillo (comp.) (Córdoba, UNC/CLACSO, 2019) · Mónica Gordillo, «La excepcionalidad del Cordobazo», pp. 19-37",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-james-violencia-proscripcion-y-autoritarismo",
+          "name": "Violencia, proscripción y autoritarismo (1955-1976) — D. James, Nueva Historia Argentina (Buenos Aires, Sudamericana, 2003) · Maristella Svampa, «El populismo imposible y sus actores, 1973-1976», pp. 381-438",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-franco-un-enemigo-para-la-nacion",
+          "name": "Un enemigo para la nación. Orden interno, violencia y «subversión», 1973-1976 — Marina Franco (Buenos Aires, FCE, 2012) · caps. 5, 6 y 7, pp. 112-184",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-gillespie-soldados-de-peron",
+          "name": "Soldados de Perón. Los Montoneros — Richard Gillespie (Buenos Aires, Grijalbo, 1987) · cap. 2, pp. 73-118",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-vezetti-sobre-la-violencia-revolucionaria",
+          "name": "Sobre la violencia revolucionaria, memorias y olvidos — Hugo Vezetti [así impreso; la complementaria de la U6 imprime «Vezzetti»] (Buenos Aires, Siglo XXI, 2009) · Presentación y Cap. 2 (La desobediencia armada), pp. 9-12 y 61-129",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-pozzi-por-las-sendas-argentinas",
+          "name": "«Por las sendas argentinas...». El PRT-ERP. La guerrilla marxista — Pablo Pozzi (Eudeba, 2001; el programa no consigna ciudad) · Caps. 1 y 3, pp. 15-41 y 65-84",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-manzano-la-era-de-la-juventud",
+          "name": "La era de la juventud en Argentina. Cultura, política y sexualidad desde Perón hasta Videla — Valeria Manzano (Buenos Aires, FCE, 2017) · cap. 6, pp. 247-301",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-dantonio-la-prision-en-los-anos-70",
+          "name": "La prisión en los años 70. Historia, género y política — Débora D'Antonio (Buenos Aires, Biblos, 2016) · cap. 4, pp. 147-220",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-campos-cristianismo-y-revolucion",
+          "name": "Cristianismo y Revolución. El origen de montoneros: violencia, política y religión en los 60 — Esteban Campos (Buenos Aires, EDHASA, 2016) · caps. 4 y 5, pp. 121-162",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-ortiz-con-los-vientos-del-cordobazo",
+          "name": "Con los vientos del Cordobazo. Los trabajadores clasistas en tiempos de violencia y represión — María Laura Ortiz (Córdoba, Editorial UNC, 2019) · cap. 2, pp. 105-143",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-pontoriero-la-represion-militar-en-la-argentina",
+          "name": "La represión militar en la Argentina (1955-1976) — Esteban Pontoriero (Los Polvorines, Universidad Nacional de General Sarmiento; Posadas, Universidad Nacional de Misiones; La Plata, Universidad Nacional de La Plata, 2022) · caps. 7 y 8, pp. 165-218",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-aguila-historia-de-la-ultima-dictadura-militar",
+          "name": "Historia de la última dictadura militar. Argentina, 1976-1983 — Gabriela Aguila (Buenos Aires, Siglo XXI, 2023) · caps. 4 y 5, pp. 141-218 — el asiento separa autor y título con coma y no con los dos puntos habituales del programa, igual que el de Brennan y Gordillo en la U5",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-novaro-palermo-la-dictadura-militar",
+          "name": "La dictadura militar 1976/1983 — Marcos Novaro y Vicente Palermo (Buenos Aires, Paidós, 2003) · Cap. 7, pp. 461-549",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-canelo-la-politica-secreta-de-la-ultima-dictadura",
+          "name": "La política secreta de la última dictadura argentina (1976-1983) — Paula Canelo (el asiento no lleva pie editorial: ni ciudad, ni editorial, ni año) · Introducción y cap. 1, pp. 11-100",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-franco-el-final-del-silencio",
+          "name": "El final del silencio. Dictadura, sociedad y derechos humanos en la transición (Argentina, 1979-1983) — Marina Franco (Buenos Aires, FCE; el programa no consigna año) · cap. IV, pp. 265-368",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-duhalde-el-estado-terrorista-argentino",
+          "name": "El Estado Terrorista Argentino. Quince años después, una mirada crítica — Eduardo Luis Duhalde (Buenos Aires, EUDEBA, 1999) · Primera Parte, Caps. 1-5, pp. 207-305",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-calveiro-poder-y-desaparicion",
+          "name": "Poder y desaparición. Los campos de concentración en Argentina — Pilar Calveiro (Buenos Aires, Colihue, 1998) · Consideraciones preliminares",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-lida-crespo-yankelevich-argentina-1976",
+          "name": "Argentina, 1976. Estudios en torno al golpe de Estado — Clara Lida, Horacio Crespo y Pablo Yankelevich (comps.) (Buenos Aires, FCE/El Colegio de México, 2008) · Carlos Altamirano, «Pasado presente», pp. 17-33",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-quiroga-tcach-a-veinte-anos-del-golpe",
+          "name": "A veinte años del golpe — H. Quiroga y C. Tcach (comps.) (Rosario, Ediciones Homo Sapiens, 1996) · Ricardo Falcón, «La resistencia obrera a la dictadura militar (Una reescritura de un texto contemporáneo a los acontecimientos)», pp. 123-142",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-pucciarelli-empresarios-tecnocratas-y-militares",
+          "name": "Empresarios, tecnócratas y militares — A. Pucciarelli (ed.) (Buenos Aires, Siglo XXI, 2004) · Alfredo Pucciarelli, «La patria contratista. El nuevo discurso liberal de la dictadura militar encubre una vieja práctica», pp. 99-172",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-basualdo-responsabilidad-empresarial",
+          "name": "Responsabilidad empresarial en delitos de lesa humanidad: represión a trabajadores durante el terrorismo de Estado — Victoria Basualdo y otros, tomo 1 (Posadas, Editorial Universitaria de la Universidad Nacional de Misiones; Buenos Aires, CELS y FLACSO, 2016) · Introducción, pp. 1-25",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-svampa-la-sociedad-excluyente",
+          "name": "La sociedad excluyente. La Argentina bajo el signo del neoliberalismo — Maristella Svampa (Buenos Aires, Taurus, 2012) · caps. 1-3, pp. 19-97",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-feld-franco-democracia-hora-cero",
+          "name": "Democracia, hora cero. Actores, políticas y debates en los inicios de la posdictadura — Claudia Feld y M. Franco (Buenos Aires, FCE, 2015) · Marina Franco, «La ‘teoría de los dos demonios’ en la primera etapa de la posdictadura», pp. 23-80",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-piva-acumulacion-y-hegemonia",
+          "name": "Acumulación y hegemonía en la Argentina menemista — Adrián Piva [el asiento imprime «Piva, Adrián Piva»] (Buenos Aires, Biblos, 2012) · cap. 3, pp. 73-86",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-azcuy-ameghino-trincheras-en-la-historia",
+          "name": "Trincheras en la Historia — Eduardo Azcuy Ameghino (Buenos Aires, Imago Mundi, 2004) · cap. «De la convertibilidad a la devaluación: el agro pampeano y el modelo neoliberal, 1991-2001», pp. 229-272",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-bonnet-la-hegemonia-menemista",
+          "name": "La hegemonía menemista. El neoconservadurismo en Argentina, 1989-2001 — Alberto Bonnet (Buenos Aires, Prometeo Libros, 2008) · cap. 2, pp. 83-151",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-di-meglio-serulnikov-la-larga-historia-de-los-saqueos",
+          "name": "La larga historia de los saqueos en la Argentina. De la independencia a nuestros días — Gabriel Di Meglio y S. Serulnikov (comps.) (Buenos Aires, Siglo XXI, 2017) · Sergio Serulnikov, «Como si estuvieran comprando. Los saqueos de 1989 y la irrupción de la nueva cuestión social», pp. 137-176",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-shorr-industria-y-nacion",
+          "name": "Industria y nación. Poder económico, liberalismo y alternativas de reindustrialización en la Argentina contemporánea — Martín Shorr [así impreso] (Buenos Aires, Edhasa, 2004) · Prólogo y Primera Parte, cap. 1, pp. 13-56",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-bonnet-el-pais-invisible",
+          "name": "El país invisible: debates sobre la sociedad argentina contemporánea — A. Bonnet (comp.) (Buenos Aires, Continente, 2011) · Juan Grigera, «La desindustrialización en la Argentina: ¿agresión a la manufactura o reestructuración capitalista?», pp. 81-101",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-caetano-sujetos-sociales-y-nuevas-formas-de-protesta",
+          "name": "Sujetos sociales y nuevas formas de protesta en la historia reciente de América Latina — G. Caetano (Buenos Aires, CLACSO, 2006) · Nicolás Iñigo Carrera y María Celia Cotarelo, «Génesis y desarrollo de la insurrección espontánea de diciembre de 2001 en Argentina», pp. 49-92",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-pucciarelli-castellani-los-anos-de-la-alianza",
+          "name": "Los años de la alianza. La crisis del orden neoliberal — A. Pucciarelli y A. Castellani (comp.) (Buenos Aires, Siglo veintiuno editores, 2015) · «Introducción. Los años de la Alianza: transformación de la crisis de acumulación en crisis orgánica», pp. 13-34",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-adair-1983-un-proyecto-inconcluso",
+          "name": "1983, un proyecto inconcluso — Jennifer Adair (Buenos Aires, FCE, 2023) · Introducción y caps. 1-2, pp. 15-97",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-3.libro-bohoslavsky-morresi-historia-de-las-derechas",
+          "name": "Historia de las derechas en Argentina. De fines del siglo XIX a Milei — Ernesto Bohoslavsky y Sergio Morresi (Buenos Aires, FCE, 2025) · Introducción y caps. 4-5, pp. 11-28 y 143-232",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Cátedras · 1 trazada de 2 publicadas",
+      "title": "La otra queda citada, no trazada",
+      "note": "Historia Argentina III se dicta en dos cátedras con programa publicado en historia.filo.uba.ar, las dos bajo el mismo código 0431 / 14018. Acá se traza una —la «A», CAMARERO, Hernán, 2º cuatrimestre 2026, 25 páginas— y queda una sin trazar, con su portada verificada abriendo el PDF, no leyendo el nombre del archivo: «B», SARTELLI, EDUARDO, 1º cuatrimestre 2026, 14 páginas, con la misma REDEC-2024-2526-UBA-DCT#FFYL y el mismo régimen PD. Ningún contenido de la «B» entra en este nodo: las siete unidades, los 74 libros, las horas y el régimen dibujados son los de la cátedra «A» y sólo de ella. Cada cátedra arma su propio recorrido del mismo siglo, y mezclarlas sería inventar una materia que no existe.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”, cód. 0431/14018, Prof. Dr. Hernán Camarero, 2º cuatrimestre 2026 (25 pp., texto nativo; extracto historia-argentina3-camarero-2026)",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0431%20-%2014018%5D%20-%20HISTORIA%20ARGENTINA%20III%20%281916%20HASTA%20LA%20ACTUALIDAD%29%20-%20A%20-%20CAMARERO%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA III (1916-HASTA LA FECHA) “A”, cód. 0431/14018, Prof. Dr. Hernán Camarero, 2º cuatrimestre 2026 (25 pp., capa de texto nativa) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-argentina3-camarero-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0431%20-%2014018%5D%20-%20HISTORIA%20ARGENTINA%20III%20%281916%20HASTA%20LA%20ACTUALIDAD%29%20-%20A%20-%20CAMARERO%20-%202C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA III “B”, PROFESOR/A: SARTELLI, EDUARDO, CÓDIGO Nº: 0431 / 14018, RÉGIMEN DE PROMOCIÓN: PD, 1º CUATRIMESTRE 2026, AÑO: 2026, 14 pp. — la cátedra alternativa, NO dibujada: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0431_14018%20-%20HISTORIA%20ARGENTINA%20III%20%281916%20HASTA%20LA%20ACTUALIDAD%29%20-%20B%20-%20SARTELLI%20-%201C%202026.pdf"
+    }
+  ]
+}

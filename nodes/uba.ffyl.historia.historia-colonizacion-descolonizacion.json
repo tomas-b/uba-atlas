@@ -1,0 +1,808 @@
+{
+  "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF (EXAMEN FINAL), Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial + 1 recuperatorio · final con mínimo de 4 puntos",
+    "cargaHoraria": "96 horas · la sección e. imprime «96 horas (noventa y seis) y comprende 6 (seis) (diez) horas semanales de dictado de clases»: las dos cifras semanales quedan registradas sin resolver",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0406 / 14007",
+    "tituloDelPrograma": "el programa no titula el curso; la fundamentación abre con la línea «Expansión, colonización y descolonización en África y Asia: distintas experiencias»",
+    "catedra": "el programa no designa cátedra por letra, número ni nombre: imprime «PROFESOR/A: GALIANA SERGIO» y va firmado «Sergio Galiana / Profesor Adjunto Regular». La palabra «cátedra» aparece 31 veces en el PDF: 30 en créditos de traducción de la bibliografía y 1 en el boilerplate del REDEC («estructura de cátedra»)",
+    "modalidad": "PRESENCIAL, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL · el programa reproduce la pauta reglamentaria (hasta un 30% de clases en modalidad virtual; clases teóricas virtuales con más de 350 inscriptos/as) pero NO adopta ningún porcentaje: remite a que «se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "GALIANA, SERGIO (profesor · firma como Profesor Adjunto Regular)",
+      "CONTARINO SPARTA, LUCIANA LAURA (JTP)",
+      "BASSI, NATALIA (Ayte. 1°)",
+      "CHEVALIER, CLARA (Ayte. 1°)",
+      "CHINCHILLA, JULIETA (Ayte. 1°)",
+      "EFRON, LAURA (Ayte. 1°)",
+      "FLORES, MARIA CELINA (Ayte. 1°)",
+      "FREIXA, OMER (Ayte. 1°)"
+    ],
+    "ubicacionEnElPlan": "Ciclo de Grado · Materias Generales · electiva «2 de 4» — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna ciclo, área ni carácter electivo",
+    "correlatividades": "el programa no imprime ninguna (la cadena «correlativ» no aparece en el texto) y tampoco recomienda materias previas",
+    "regionesElegidas": "el continente africano y el Asia meridional — «se ha elegido profundizar en dos regiones diferentes, de distintos continentes… Por su relevancia e interés, las regiones escogidas son el continente africano y el Asia meridional»",
+    "unidades": 4,
+    "itemsDeContenido": 15,
+    "asientosBibliograficos": 141,
+    "bibliografia": 95,
+    "firmaDelDocumento": "Sergio Galiana, Profesor Adjunto Regular"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion",
+      "label": "Historia de la Colonización y Descolonización"
+    }
+  ],
+  "eyebrow": "Historia · Historia de la Colonización y Descolonización · Galiana · 1º cuatrim. 2026",
+  "title": "Dos regiones, no un mundo colonial en general.",
+  "lede": "El mundo colonial y poscolonial estudiado en dos recorridos propios —el continente africano y el Asia meridional—, elegidos para poder leer la colonización y la descolonización «no solo desde la comparación y la analogía, sino también desde la diferencia y la particularidad de cada caso». Se entra por la expansión oceánica europea de los siglos XV y XVI, las compañías comerciales y los bienes que crearon vínculos nuevos entre regiones del mundo —sujetos esclavizados, especias, azúcar, textiles, minerales— y por las élites locales que ese comercio hizo aparecer. Sigue el siglo XIX: el fin de la trata atlántica y su impacto en las sociedades africanas, el Raj británico, el imperialismo moderno como discusión teórica y como ocupación de territorio, las estructuras de gobierno colonial, la colaboración nativa, las sociedades de asentamiento y la segregación racial. Después los nacionalismos de entreguerras, la Segunda Guerra Mundial en metrópolis y colonias, y la descolonización como proyecto y como materialización. Cierra en el presente: los legados del colonialismo, los procesos de memorialización y los problemas de la historiografía colonial, imperial, nacionalista y poscolonial. La cátedra declara además que trabaja con material audiovisual —fotografías, pinturas, películas y documentales— para evitar el exotismo y promover el diálogo intercultural.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "África y Asia meridional"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE LA COLONIZACIÓN Y DESCOLONIZACIÓN, Departamento de Historia (FFyL-UBA), cód. Nº 0406 / 14007, Prof. Sergio Galiana, 1º cuatrimestre de 2026, publicado en historia.filo.uba.ar. Todo lo que este nodo afirma proviene de ese único PDF de 13 páginas, con capa de texto nativa, extraído entero; el encuadre de la materia dentro del plan (Ciclo de Grado, Materias Generales, electiva «2 de 4») viene del nodo padre uba.ffyl.historia y se declara acá como dato cruzado, porque el programa NO consigna ciclo, área ni carácter electivo. CÁTEDRA: el programa no designa cátedra por letra, número ni denominación. Imprime «PROFESOR/A: GALIANA SERGIO» en la portada y «PROFESOR: GALIANA SERGIO» en la segunda página, y va firmado al pie «Sergio Galiana / Profesor Adjunto Regular». La palabra «cátedra» aparece 31 veces en el PDF: 30 de ellas en créditos de traducción de la bibliografía («Traducción para uso interno de la cátedra», «Selección y traducción para uso interno de la cátedra», «Edición y subtitulado para uso interno de la cátedra») y UNA sola en el texto reglamentario del REDEC —«no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»—, que es boilerplate normativo y no un dato de esta materia. Ninguna de las 31 nombra una cátedra. Se agrega a esos créditos la fórmula «Traducción para uso interno publicada por OPFFYL», que aparece 5 veces (Thornton ×2, Amin, Phillips, Reynolds). EQUIPO DOCENTE, tal como lo imprime el programa bajo el rótulo «EQUIPO DOCENTE:1»: una JTP, CONTARINO SPARTA LUCIANA LAURA, y seis líneas «AYTE. 1°» — BASSI NATALIA, CHEVALIER CLARA, CHINCHILLA JULIETA, EFRON LAURA, FLORES MARIA CELINA y FREIXA OMER. Ocho personas en total con el profesor. La nota al pie 1 aclara: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: CORRELATIVIDADES — la cadena «correlativ» no aparece en ninguna parte del texto; tampoco hay ninguna recomendación de materias previas. No hay resolución de aprobación del programa ni número de expediente. No hay cronograma de clases ni distribución de las unidades por semana. No se declara cuántas clases son teóricas y cuántas prácticas. No se consigna el PORCENTAJE DE VIRTUALIDAD adoptado: a diferencia de otros programas de la Facultad, éste reproduce la tabla reglamentaria del REDEC (hasta un 30% en modalidad virtual) y remite la decisión al futuro — «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción» —, sin adoptar ninguno. La materia se declara de «modalidad presencial». CONTRADICCIÓN REGISTRADA, NO RESUELTA — CARGA HORARIA SEMANAL: la portada y la segunda página imprimen «CARGA HORARIA: 96 HORAS», y la sección e. dice literalmente «Carga Horaria: 96 horas (noventa y seis) y comprende 6 (seis) (diez) horas semanales de dictado de clases». El paréntesis doble «6 (seis) (diez)» da dos cifras semanales incompatibles en la misma oración. Se transcribe tal como está impreso y no se elige entre 6 y 10. VARIANTES DE UN MISMO ASIENTO, REGISTRADAS Y NO ENMENDADAS. (1) Bose y Jalal, Modern South Asia: la obligatoria de la Unidad 1 imprime «Modern South Asia: History, culture, Political Economy. Londres, 2017», sin editorial; la Bibliografía general imprime «Modern South Asia. History, Culture, Political Economy Londres/Nueva York, Routledge, 1999». Mismo título, dos pies distintos y dos años distintos; se dibuja un solo volumen y se registran los dos. (2) Mariana Pinho Candido: la Unidad 1 la asienta «Candido, Mariana Pinho» y con el rango sin coma («Benguela 1780-1850»); la Bibliografía general la asienta «Pinho Candido, Mariana» y con coma («Benguela, 1780-1850»). (3) Historia General de África, Tomo VII: el asiento de Kaniki (U2) imprime «Tomo VII África bajo el dominio colonial», sin punto y sin fechas; los de Rodney (U2) y Afigbo (U3) imprimen «Tomo VII. África bajo el dominio colonial (1880-1935)». (4) Bipan Chandra: «Chandra, B. (comp.)» en la Unidad 3, «Chandra, Bipan (comp.)» en la Bibliografía general. (5) El coordinador de los dos volúmenes de El Colegio de México se imprime «Dube, Sauradh» dos veces —en la complementaria de la Unidad 3 y en la Bibliografía general— y «Saurabh Dube» en la Unidad 4. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS: el título de Belmekki se imprime «la nueva política colonial británica en la India posterior a la n Rebelión», con una «n» suelta antes de «Rebelión»; «The Oxford Handbook of Portuguesa Politics» y «Fernándes, J.M.»; «Franz» por Frantz en las dos apariciones de Fanon, impresas en orden distinto —«Fanon, Franz» en la obligatoria de la Unidad 3 y «Franz Fanon» en la Selección de fuentes de la misma unidad—; «Tharoor, Sashi Nehru La invención de la India», sin puntuación entre nombre y título; «Una vida más allá de la fronteras» (Anderson); «Imperios. Una nueva vision de la historia universal», sin tilde; «Guha, Ranahit» —por Ranajit— en el único asiento donde el nombre se imprime, el de La historia en el término de la historia universal, ya que el segundo asiento del autor abrevia el nombre con una fila de guiones; «Coquery-Vidrovitch Catherine y Eric Mesnard», sin coma; «Civilizaçao brasileira» y «A Escravidão na Africa» sin tilde en «Africa»; «Buen os Aires» en el asiento de De Waal; «Ja-mes Currey» partido en el asiento de Berman y «Gentili … Clacso, 2012. Gott, Richard» corridos en una misma línea — estos dos últimos son artefactos de maquetación y orden de lectura del PDF, no del texto, y no se le atribuyen al programa. Ninguna se corrige. ESTRUCTURA DIBUJADA: la sección c. Contenidos trae CUATRO unidades numeradas (Unidad 1 a Unidad 4), con 4, 6, 3 y 2 ítems numerados respectivamente — 15 ítems en total. Las cuatro se dibujan: 4 de 4. EL PROGRAMA NO TITULA LAS UNIDADES: imprime solo «Unidad 1» … «Unidad 4» seguidas de sus ítems. NORMALIZACIÓN DECLARADA: el nombre de cada nodo de unidad se compone encadenando con «·» sintagmas de sus propios ítems impresos, con dos operaciones declaradas y ninguna otra. (a) Se abrevian sintagmas largos sin marca de elipsis: el ítem 2.1 imprime «Las transformaciones económicas a nivel global y los cambios en las relaciones entre europeos, asiáticos y africanos en el siglo XIX» y el nombre de la Unidad 2 lo acorta a «Las transformaciones económicas a nivel global en el siglo XIX»; el ítem 4.2 imprime además «Las historiografías nacionalistas y poscoloniales», que el nombre de la Unidad 4 no recoge. (b) Se unen con «y» dos oraciones que el ítem separa con punto: el ítem 4.1 imprime «Los legados del colonialismo en el presente. Los procesos de memorialización.» y el nombre de la Unidad 4 lo une como «Los legados del colonialismo en el presente y los procesos de memorialización». Fuera de esas dos operaciones no se agrega ninguna palabra que el programa no use, y no hay ningún título de unidad inventado. BIBLIOGRAFÍA — LA CUENTA COMPLETA, EN LAS DOS DIRECCIONES. La sección d. tiene 141 asientos, repartidos así: Unidad 1 obligatoria 20 · Unidad 2 obligatoria 20 y complementaria 3 · Unidad 3 obligatoria 21 y complementaria 7 · Unidad 4 obligatoria 5 · Bibliografía general 65. LAS UNIDADES 1 Y 4 NO TIENEN BIBLIOGRAFÍA COMPLEMENTARIA: el encabezado «Bibliografía complementaria» aparece exactamente dos veces en el PDF, dentro de la Unidad 2 y de la Unidad 3. Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o contribución se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—. 103 de los 141 asientos nombran un volumen así; al unificar los repetidos quedan 95 volúmenes distintos, y 95 son los que se dibujan. LOS 38 ASIENTOS QUE NO SE DIBUJAN, uno por uno. Artículos de revista o de publicación periódica (26): Belmekki en ATLANTIS, Heywood en The Journal of African History, Horton en Investigación y desarrollo, Law en Slavery & Abolition, Markovits en Revue d’histoire du XIXe siècle y Tagliacozzo en Itinerario (U1); Beckert en Huellas de Estados Unidos, Bowman en Journal of African History, Goswami en Comparative Studies in Society and History, Lynn en The Journal of Imperial and Commonwealth History y M’Bokolo en Manière de voir (U2 obligatoria); Bancel et al en Le Monde Diplomatique (U2 complementaria); Azikiwe en Journal of the Royal African Society, Byfield en African Economic History, Cooper en Past & Present, Kras en Itinerario, Pearson en The Journal of Imperial and Commonwealth History, Pineau en Pasado abierto y Santoru en Africa (U3 obligatoria); Alcoy en Nova Africa, Droz en Canadian Journal of African Studies, Keese en Cahiers d’Etudes africaines, Navarro Alvarado en Cuadernos Intercambio y Pereira en Revista de Antropología Social (U3 complementaria); Ajayi en Relaciones Internacionales y Pandey en Comparative Studies in Society and History (U4). Traducciones de cátedra o de OPFFYL sin volumen consignado (4): Amin «Subdesarrollo y dependencia del África negra», Amselle y M’Bokolo «En el corazón de la etnia», Phillips «El África occidental precolonial» y Reynolds «Surgimiento y decadencia de una clase comerciante africana en la Costa de Oro, 1830-1874» (todos U2 obligatoria). Documento en línea sin volumen (1): Mégret, «Con motivo del bicentenario de la abolición de 1807…», 2008, https://ssrn.com/abstract=1148814. Ponencia y conferencia sin volumen (2): Lopes, «Amílcar Cabral, promotor del panafricanismo», ponencia del Foro Amílcar Cabral, Praia, enero de 2013 (U3), y Osterhammel, «’Europa, “Occidente” y la misión civilizadora», German Historical Institute London, The 2005 Annual Lecture, Londres, 2006 (U2 complementaria). Selecciones de fuentes sin asiento propio (2): «Selección de fuentes sobre el imperialismo» (U2) y «Selección de fuentes: Franz Fanon, Harold Macmillan, Jawaharlal Nehru, Subhas Chandra Bose, Kwame Nkrumah, Amilcar Cabral, Julius Nyerere. Léopold Senghor, Hendrik Verwoerd, Albert Luthuli y Samora Machel» (U3). Material audiovisual (3): «¿Cómo era el África precolonial?», video de AlJazeera+ français, y el video de la exposición «A bordo de un navío esclavista, La Marie-Séraphique» (U1); «Cadbury’s Cocoa, 1930’s - Film 6673», video sobre la producción de cacao en Costa de Oro (U2). 26 + 4 + 1 + 2 + 2 + 3 = 38. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen con pie editorial del programa queda fuera. UNIFICACIONES, con la cuenta: 103 asientos con volumen − 8 repeticiones = 95 volúmenes. Las repeticiones son Marks, Los orígenes del mundo moderno (U1 + U2) −1; Historia General de África Tomo VII (Kaniki U2 + Rodney U2 + Afigbo U3) −2; Pasados poscoloniales (Kaviraj U3 obligatoria + Chaterjee U3 complementaria + Bibliografía general) −2; Chandra, Hacia una nueva historia de la India (U3 + general) −1; Pinho Candido, Fronteras de esclavización (U1 + general) −1; Bose y Jalal, Modern South Asia (U1 + general) −1. MATERIAL AUDIOVISUAL COMO HERRAMIENTA DECLARADA: la fundamentación dice que «desde hace varios años hemos incorporado como herramientas en la enseñanza el uso de material audiovisual (tanto fotografías como pinturas, películas y documentales)» y que se busca que lo visual «no sea abordado de manera ingenua sino reflexiva». Los tres asientos audiovisuales de la bibliografía se registran acá y no se dibujan como libros. RECOMENDACIONES (sección g.), literales: se recomienda para toda la cursada la lectura de Gentili, El león y el cazador, y se advierte que los textos señalados para teóricas, teórico-prácticas y prácticas se evalúan en parciales y final «además de otros que pueden indicarse expresamente durante la cursada» y del «libro completo de Eric Wolf, Europa y la gente sin historia». Los dos volúmenes ya están dibujados desde la bibliografía; el rol lo registra. NORMATIVA CITADA POR EL PROGRAMA: REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico; régimen con EXAMEN FINAL, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El programa imprime «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.», abriendo un paréntesis que no cierra. EVALUACIÓN, literal: régimen de promoción con EXAMEN FINAL (EF). Regularidad = 75% de asistencia a trabajos prácticos o equivalentes + 2 instancias de evaluación parcial aprobadas con mínimo de 4 puntos cada una. UN (1) recuperatorio para ausentes o desaprobados en una instancia; desaprobar más de una instancia hace perder la regularidad. Aprobación por examen final con mínimo de 4 puntos. Corrección en un plazo máximo de 3 semanas. Vigencia de la regularidad: 4 años y 3 mesas examinadoras en 3 turnos alternativos no necesariamente consecutivos; en la tercera presentación el estudiante puede optar por prueba escrita u oral.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades del programa (Galiana, 1º cuatrim. 2026)",
+      "title": "De la expansión oceánica a la memoria del colonialismo",
+      "note": "Las cuatro unidades numeradas de la sección c. Contenidos, en el orden impreso. El programa no les pone título: el nombre de cada nodo encadena los sintagmas literales de sus propios ítems.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "HISTORIA DE LA COLONIZACIÓN Y DESCOLONIZACIÓN · cód. 0406 / 14007\nGaliana · 1º cuatrim. 2026 · 96 hs · EF\nÁfrica y Asia meridional\n│\n├─ 1 · Expansión oceánica europea, siglos XV y XVI\n│      motivos, zonas, momentos y etapas · compañías comerciales\n│      sujetos esclavizados, especias, azúcar, textiles, minerales\n│      nuevas élites locales · fin de los imperios europeos en América\n│      abolición de la trata atlántica · Asia meridional desde la segunda mitad del siglo XVIII\n│\n├─ 2 · El siglo XIX y el imperialismo moderno\n│      transformaciones económicas globales · impacto de la abolición\n│      el Raj británico · discusiones teóricas del imperialismo\n│      estructuras de gobierno colonial · colaboración nativa\n│      sociedades de asentamiento · segregación racial\n│      resistencias y adaptaciones al nuevo orden\n│\n├─ 3 · Nacionalismos y descolonización\n│      primeros movimientos nacionalistas de entreguerras\n│      la Segunda Guerra Mundial en metrópolis y colonias\n│      la descolonización: proyectos y materialización\n│\n└─ 4 · Legados e historiografía\n       los legados del colonialismo en el presente\n       procesos de memorialización\n       historiografía colonial e imperial\n       historiografías nacionalistas y poscoloniales",
+        "foot": "Recorrido único: el programa no consigna cátedras alternativas. Quince ítems numerados en total (4 · 6 · 3 · 2). La bibliografía sigue las mismas cuatro unidades y agrega una Bibliografía general que no se adscribe a ninguna."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.u1-expansion-oceanica-europea",
+          "name": "Expansión oceánica europea en los siglos XV y XVI · la creación de nuevas vinculaciones entre las regiones del mundo · las consecuencias del fin de los imperios europeos en América · la presencia europea en Asia meridional",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.u2-imperialismo-moderno-y-gobierno-colonial",
+          "name": "Las transformaciones económicas a nivel global en el siglo XIX · la creación del Raj británico · el imperialismo moderno · las estructuras de gobierno colonial · las sociedades coloniales y sus cambios",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.u3-nacionalismos-y-descolonizacion",
+          "name": "Los primeros movimientos nacionalistas en el periodo de entreguerras · el impacto de la Segunda Guerra Mundial · la descolonización: proyectos y materialización",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.u4-legados-y-historiografia",
+          "name": "Los legados del colonialismo en el presente y los procesos de memorialización · problemas de la historiografía colonial e imperial",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria, complementaria y general del programa",
+      "title": "Lo que se lee",
+      "note": "95 volúmenes, de los 141 asientos de la sección d. (103 asientos nombran un volumen con pie editorial; al unificar los 8 repetidos quedan 95). Un capítulo, introducción o contribución se dibuja como el volumen que lo contiene. No se dibujan los 38 asientos sin volumen —artículos de revista, traducciones de cátedra y de OPFFYL sueltas, un documento en línea, una ponencia, una annual lecture, dos selecciones de fuentes y tres videos—: quedan declarados uno por uno en el frame. Las Unidades 1 y 4 no tienen bibliografía complementaria. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-bose-jalal-modern-south-asia",
+          "name": "Modern South Asia: History, culture, Political Economy — Sugata Bose y Ayesha Jalal (Eds.) (Londres, 2017; el asiento no consigna editorial) · selección y traducción para uso interno de la cátedra · la Bibliografía general asienta el mismo título como «Modern South Asia. History, Culture, Political Economy», Londres/Nueva York, Routledge, 1999",
+          "role": "obligatoria · U1 · + bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-candido-fronteras-de-esclavizacion",
+          "name": "Fronteras de esclavización. Esclavitud, comercio e identidad en Benguela 1780-1850 — Mariana Pinho Candido (México, El Colegio de México, 2011) · cap. «El panorama social y la trata de esclavos» · la Bibliografía general lo asienta «Pinho Candido, Mariana» y con coma: «Benguela, 1780-1850»",
+          "role": "obligatoria · U1 · + bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-coquery-vidrovitch-mesnard-ser-esclavo",
+          "name": "Ser esclavo. En África y América entre los siglos XV y XIX — Catherine Coquery-Vidrovitch y Eric Mesnard (Madrid, Los libros de la catarata, 2015) · caps. «Las tratas orientales y las tratas internas» y «El middle passage o travesía del Atlántico medio»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-davidson-madre-negra",
+          "name": "Madre negra — Basil Davidson (Barcelona, Caralt, 1968) · cap. «La forma del tráfico»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-fauvelle-africa-si-tiene-historia",
+          "name": "África sí tiene historia. Reivindicación del continente que Occidente decidió olvidar — François-Xavier Fauvelle (Buenos Aires, Siglo XXI, 2013)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-lovejoy-a-escravidao-na-africa",
+          "name": "A Escravidão na Africa. Uma história de suas transformações — Paul E. Lovejoy (Rio de Janeiro, Civilizaçao brasileira, 2002) · cap. «África y la esclavitud» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-marks-origenes-del-mundo-moderno",
+          "name": "Los orígenes del mundo moderno. Una nueva visión — Robert B. Marks (Barcelona, Crítica, 2007) · caps. «Los mundos de las materias y el comercio hacia 1400» y «Los comienzos en China» (U1); cap. «La brecha» (U2)",
+          "role": "obligatoria · U1 y U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-rodney-de-como-europa-subdesarrollo-a-africa",
+          "name": "De cómo Europa subdesarrolló a África — Walter Rodney (México, Siglo XXI, 1982) · cap. «La contribución de África al desarrollo del capitalismo en Europa. El periodo precolonial»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-said-cultura-e-imperialismo",
+          "name": "Cultura e imperialismo — Edward Said (Barcelona, Anagrama, 1996) · Introducción",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-thornton-africa-and-africans",
+          "name": "Africa and Africans in the making of the Atlantic World, 1400-1800 — John Thornton (Cambridge, CUP, 1992) · «El desarrollo del comercio entre europeos y africanos» · traducción para uso interno publicada por OPFFYL",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-peterson-abolitionism-and-imperialism",
+          "name": "Abolitionism and imperialism in Britain, Africa, and the Atlantic — Derek R. Peterson (Ed.) (Ohio University Press, 2010) · John Thornton, «La ética política africana y la trata de esclavos» · traducción para uso interno publicada por OPFFYL",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-wolf-europa-y-la-gente-sin-historia",
+          "name": "Europa y la gente sin historia — Eric Wolf (México, FCE, 1987) · Introducción, cap. II, cap. VII y cap. VIII · las Recomendaciones agregan que se evalúa «el libro completo»",
+          "role": "obligatoria · U1 · + recomendaciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-berman-londsdale-unhappy-valley",
+          "name": "Unhappy Valley. Conflict in Kenya and Africa. Book One: State and Class — Bruce Berman y John Londsdale (London, James Currey, 1992) · Bruce Berman, «Estructura y proceso en los estados burocráticos del África colonial» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-getz-clarke-abina",
+          "name": "Abina and the Important Men. A Graphic History — Trevor Getz y Liz Clarke (Nueva York, Oxford University Press, 2012) · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-historia-general-de-africa-vii",
+          "name": "Historia General de África. Tomo VII. África bajo el dominio colonial (1880-1935) — (Madrid, Tecnos/UNESCO, 1987; el asiento no consigna director ni editor) · M.H.Y. Kaniki, «La economía colonial: las antiguas zonas británicas» y Walter Rodney, «La economía colonial» (U2); A. Afigbo, «Las nuevas repercusiones sociales de la dominación colonial: las nuevas estructuras sociales» (U3) · el asiento de Kaniki imprime el título sin punto tras «Tomo VII» y sin «(1880-1935)»",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-lenin-el-imperialismo",
+          "name": "El imperialismo, fase superior del capitalismo — Vladimir Lenin (Moscú, Progreso, 1979) · capítulos V, VI y VII",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-collins-problems-colonial-africa",
+          "name": "Problems in the History of Colonial Africa, 1860-1960 — Robert O. Collins (Englewood Cliffs, 1970; el asiento no consigna editorial) · Lord Frederick Lugard, «Principios de la Administración Nativa», pp. 88-103 · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-owen-sutcliffe-estudios-teoria-imperialismo",
+          "name": "Estudios sobre la teoría del imperialismo — R. Owen y B. Sutcliffe (México, Era, 1978) · Ronald Robinson, «Bases no europeas del imperialismo europeo: esbozo para una teoría de la colaboración»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-headrick-el-poder-y-el-imperio",
+          "name": "El poder y el imperio. La tecnología y el imperialismo, de 1400 a la actualidad — Daniel R. Headrick (Barcelona, Crítica, 2011) · «Los límites del viejo imperialismo: Africa y Asia hasta 1859»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-oxford-handbook-portuguesa-politics",
+          "name": "The Oxford Handbook of Portuguesa Politics [así impreso] — J.M. Fernándes et al. (Eds.) (Oxford, OUP, 2023) · Miguel Bandeira Jerónimo y José Pedro Monteiro, «Imperio y Descolonización en África portuguesa» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-chandra-hacia-una-nueva-historia-de-la-india",
+          "name": "Hacia una nueva historia de la India — B. Chandra (comp.) (México, El Colegio de México, 1982) · S. Bhattacharya, «Fábricas de algodón y telares manuales. Swadeshi y la clase capitalista india, 1920-1922» · la Bibliografía general lo asienta «Chandra, Bipan (comp.)»",
+          "role": "obligatoria · U3 · + bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-brendon-decline-and-fall-british-empire",
+          "name": "The Decline and Fall of the British Empire (1781-1997) — Pier Brendon (Nueva York, Knopf Doubleday Publishing Group, 2008) · «Uhuru. Freedom Kenya and the Mau Mau» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-cesaire-discurso-sobre-el-colonialismo",
+          "name": "Discurso sobre el colonialismo — Aimé Césaire (Madrid, Akal, [1950/1955] 2006)",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-fanon-los-condenados-de-la-tierra",
+          "name": "Los condenados de la Tierra — Franz Fanon [así impreso] (México, FCE, 1989) · cap. «Las desventuras de la conciencia nacional»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-gueye-senegal-histoire-du-mouvement-syndical",
+          "name": "Sénégal: Histoire du Mouvement Syndical. La marche vers le Code du travail — Omar Guèye (París, L’Harmattan, 2011) · «La cuestión del trabajo luego de las primeras crisis después de la Segunda Guerra mundial» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-dube-pasados-poscoloniales",
+          "name": "Pasados poscoloniales. Colección de ensayos sobre la historia y la etnografía de la India — Sauradh Dube (coord.) (México, El Colegio de México, 1999) · Sudipta Kaviraj, «La institución imaginaria de la India» (obligatoria U3); Partha Chaterjee, «La nación y sus mujeres» (complementaria U3) · el asiento de Kaviraj imprime solo «En Pasados poscoloniales. México, El Colegio de México, 1999», sin coordinador ni subtítulo",
+          "role": "obligatoria · U3 · + complementaria U3 · + bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-metcalf-historia-de-la-india",
+          "name": "Historia de la India — Barbara Metcalf y Thomas Metcalf (Madrid, Cambridge UP, 2003) · caps. 6 y 7",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-prashad-las-naciones-oscuras",
+          "name": "Las naciones oscuras. Una historia del Tercer Mundo — Vijay Prashad (Barcelona, Península, 2012) · cap. «Bandung. La Conferencia Afro-Asiática de 1955»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-hobsbawm-ranger-la-invencion-de-la-tradicion",
+          "name": "La invención de la tradición — Eric Hobsbawm y Terence Ranger (eds.) (Barcelona, Crítica, 2002) · Terence Ranger, «La invención de la tradición en el África colonial»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-tharoor-nehru-la-invencion-de-la-india",
+          "name": "Nehru. La invención de la India — Sashi Tharoor (Barcelona, Tusquets, 2009) · caps. «Espero sobrevivir al imperio británico» y «En el cargo, pero no en el poder» · el asiento se imprime de corrido, «Tharoor, Sashi Nehru La invención de la India»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-birmingham-historia-de-portugal",
+          "name": "Historia de Portugal — David Birmingham (Madrid, Cambridge UP, 1995) · «La dictadura y el imperio africano»",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-bogaerts-raben-mas-alla-del-imperio-y-la-nacion",
+          "name": "Más allá del imperio y la nación. La descolonización de las sociedades africanas y asiáticas, 1930s-1970s — Els Bogaerts y Remco Raben (eds.) (Brill, 2012; el asiento no consigna lugar) · Raymond F. Betts, «Descolonización. Una breve historia de la palabra» · traducción para uso interno de la cátedra",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-dube-el-encantamiento-del-desencantamiento",
+          "name": "El encantamiento del desencantamiento. Historias de la modernidad — Saurabh Dube (Coord.) (México, El Colegio de México, 2011) · Dipesh Chakrabarty, «Los legados de Bandung: descolonización y política de la cultura» · el mismo coordinador se imprime «Saurabh Dube» acá y «Sauradh Dube» en la Unidad 3 y en la Bibliografía general",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-ngugi-descolonizar-la-mente",
+          "name": "Descolonizar la mente. La política lingüística de la literatura africana — Ngugi wa Thiong’o (Madrid, Debolsillo, 2015)",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-alencastro-o-trato-dos-viventes",
+          "name": "O trato dos viventes. Formaçao do Brasil no Atlântico Sul. Séculos XVI e XVII — Luiz Felipe de Alencastro (San Pablo, Companhia das Letras, 2000)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-anderson-una-vida-mas-alla-de-las-fronteras",
+          "name": "Una vida más allá de la fronteras [así impreso] — Benedict Anderson (Buenos Aires, FCE, 2020)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-amin-el-eurocentrismo",
+          "name": "El eurocentrismo. Crítica de una ideología — Samir Amin (México, Siglo XXI, 1989)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-balandier-teoria-de-la-descolonizacion",
+          "name": "Teoría de la descolonización. Las dinámicas sociales — Georges Balandier (Buenos Aires, Tiempo Contemporáneo, 1975)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-bancel-zoos-humains",
+          "name": "Zoos humains. XIXe et XXe siècles — Nicolas Bancel et al (París, La Découverte, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-bayly-el-nacimiento-del-mundo-moderno",
+          "name": "El nacimiento del mundo moderno. 1780-1914. Conexiones y comparaciones globales — C. A. Bayly (Madrid, Siglo XXI, 2010)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-bessis-occidente-y-los-otros",
+          "name": "Occidente y los otros. Historia de una supremacía — Sophie Bessis (Madrid, Alianza, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-birmingham-the-decolonization-of-africa",
+          "name": "The decolonization of Africa — David Birmingham (Londres, UCL Press, 1995)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-blaufarb-clarke-inhuman-traffic",
+          "name": "Inhuman traffic. The international struggle against the transatlantic slave trade — Rafe Blaufarb y Liz Clarke (Nueva York/Oxford, Oxford UP, 2015)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-boahen-african-perspectives-on-colonisation",
+          "name": "African Perspectives on Colonisation — A. Adu Boahen (Baltimore, The John Hopkins University Press, 1990)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-boxer-o-imperio-maritimo-portugues",
+          "name": "O império marítimo português. 1415-1825 — Charles R. Boxer (San Pablo, Companhia das Letras, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-burbank-cooper-imperios",
+          "name": "Imperios. Una nueva vision de la historia universal [así impreso, sin tilde en «vision»] — Jane Burbank y Frederick Cooper (Barcelona, Crítica, 2011)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-cain-hopkins-british-imperialism",
+          "name": "British Imperialism 1688-2000 — P.J. Cain y A.G. Hopkins (Londres, Longman, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-carmagnani-las-conexiones-del-mundo",
+          "name": "Las conexiones del mundo y el Atlántico, 1450-1850 — Marcello Carmagnani (México, El Colegio de México / FCE, 2022)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-chakrabarty-al-margen-de-europa",
+          "name": "Al margen de Europa. ¿Estamos ante el final del predominio cultural europeo? — Dipesh Chakrabarty (Barcelona, Tusquets, 2008)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-cipolla-las-maquinas-del-tiempo-y-de-la-guerra",
+          "name": "Las máquinas del tiempo y de la guerra. Estudios sobre la génesis del capitalismo — Carlo M. Cipolla (Barcelona, Crítica, 1999)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-cooper-africa-since-1940",
+          "name": "Africa since 1940. The Past of the Present — Frederick Cooper (Cambridge, Cambridge UP, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-cooper-colonialism-in-question",
+          "name": "Colonialism in question. Theory, knowledge, history — Frederick Cooper (Berkeley, University of California Press, 2005)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-crosby-imperialismo-ecologico",
+          "name": "Imperialismo ecológico. La expansión biológica de Europa — Alfred Crosby (Barcelona, Crítica, 1988)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-crosby-la-medida-de-la-realidad",
+          "name": "La medida de la realidad — Alfred Crosby (Barcelona, Crítica, 1988)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-curtin-the-world-and-the-west",
+          "name": "The World and the West. The European challenge and the Overseas response in the Age of Empire — Philip D. Curtin (Cambridge, CUP, 2000)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-chandra-indias-struggle-for-independence",
+          "name": "India’s Struggle for Independence. 1857-1947 — Bipan Chandra (Calcutta, Penguin Books, 1993)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-davis-los-holocaustos-de-la-era-victoriana",
+          "name": "Los holocaustos de la era victoriana tardía. El Niño, las hambrunas y la formación del Tercer Mundo — Mike Davis (Alicante, PUV, 2006)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-day-conquista",
+          "name": "Conquista. Una nueva historia del mundo moderno — David Day (Barcelona, Crítica, 2006)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-de-sousa-santos-tesis-sobre-la-descolonizacion",
+          "name": "Tesis sobre la descolonización de la historia — Boaventura De Sousa Santos (Buenos Aires, Clacso/CES, 2022)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-de-waal-el-oro-blanco",
+          "name": "El oro blanco. Historia de una obsesión — Edmund De Waal (Buenos Aires, Seix Barral, 2016)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-dozon-freres-et-sujets",
+          "name": "Frères et sujets. La France et l`Afrique en perspective — Jean-Pierre Dozon (Paris, Flammarion, 2003)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-elkins-legacy-of-violence",
+          "name": "Legacy of violence. A history of the British Empire — Caroline Elkins (Nueva York, Alfred A. Knopf, 2022)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-etemad-la-possession-du-monde",
+          "name": "La possession du monde. Poids et mesures de la colonisation — Bouda Etemad (Bruselas, Complexe, 2000)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-ferro-la-colonizacion",
+          "name": "La colonización. Una historia global — Marc Ferro (dir) (México, Siglo XXI, 2000)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-french-born-in-blackness",
+          "name": "Born in Blackness. Africa, Africans, and the making of the modern world, 1471 to the second world war — Howard W. French (Nueva York, Liveright, 2021)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-gentili-el-leon-y-el-cazador",
+          "name": "El león y el cazador. Historia del África subsahariana — Anna Maria Gentili (Buenos Aires, Clacso, 2012) · las Recomendaciones lo indican como lectura para toda la cursada",
+          "role": "bibliografía general · + recomendaciones",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-gott-el-imperio-britanico",
+          "name": "El imperio británico. Resistencia, represión y rebeliones. El otro lado de la historia — Richard Gott (Buenos Aires, Capital intelectual, 2013)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-gruzinski-las-cuatro-partes-del-mundo",
+          "name": "Las cuatro partes del mundo. Historia de una mundialización — Serge Gruzinski (México, FCE, 2010)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-guha-la-historia-en-el-termino",
+          "name": "La historia en el término de la historia universal — Ranahit Guha [así impreso] (Barcelona, Crítica, 2003)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-guha-las-voces-de-la-historia",
+          "name": "Las voces de la historia y otros estudios subalternos — Ranahit Guha [así impreso en el asiento anterior del mismo autor; este abrevia el nombre con guiones] (Barcelona, Crítica, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-holcombe-una-historia-de-asia-oriental",
+          "name": "Una historia de Asia oriental. De los orígenes de la civilización al siglo XXI — Charles Holcombe (México, FCE, 2016)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-iliffe-africa-historia-de-un-continente",
+          "name": "Africa. Historia de un continente — John Iliffe (S/D, CUP, 1998; el asiento imprime «S/D» en el lugar de edición)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-ki-zerbo-historia-del-africa-negra",
+          "name": "Historia del Africa negra — Joseph Ki Zerbo (Barcelona, Alianza, 1982), 2 tomos",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-isaacman-roberts-cotton-colonialism",
+          "name": "Cotton, Colonialism and social History in Sub-Saharan Africa — Allen Isaacman y Richard Roberts (ed.) (Portsmouth/London, Heinemann/James Currey, 1995)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-laudan-gastronomia-e-imperio",
+          "name": "Gastronomía e imperio. La cocina en la historia del mundo — Rachel Laudan (México, FCE, 2021)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-linebaugh-rediker-la-hidra-de-la-revolucion",
+          "name": "La hidra de la revolución. Marineros, esclavos y campesinos en la historia oculta del Atlántico — Peter Linebaugh y Marcus Rediker (Barcelona, Crítica, 2005)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-louis-el-imperialismo",
+          "name": "El imperialismo. (La controversia Robinson-Gallagher) — William Roger Louis (México, Era, 1980)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-mann-1493",
+          "name": "1493. Una nueva historia del mundo después de Colón — Charles C. Mann (Buenos Aires, Katz, 2013)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-meillassoux-antropologia-de-la-esclavitud",
+          "name": "Antropología de la esclavitud. El vientre de hierro y de dinero — Claude Meillassoux (México, Siglo XXI, 1990)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-meillassoux-mujeres-graneros-y-capitales",
+          "name": "Mujeres, graneros y capitales — Claude Meillassoux (México, Siglo XXI, 1993)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-nehru-el-descubrimiento-de-la-india",
+          "name": "El Descubrimiento de la India — Jawaharlal Nehru (Buenos Aires, Emecé, 1945)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-northrup-africas-discovery-of-europe",
+          "name": "Africa´s discovery of Europe. 1450-1850 — David Northrup (Nueva York/Oxford, Oxford UP, 2002)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-oliver-atmore-africa-desde-1800",
+          "name": "Africa desde 1800 — Roland Oliver y Anthony Atmore (Madrid, Alianza, 1997)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-oxford-history-of-the-british-empire",
+          "name": "Oxford History of the British Empire (Oxford/Nueva York, OUP, 1998/99), 5 volúmenes · el asiento no consigna director ni editor",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-oyewumi-la-invencion-de-las-mujeres",
+          "name": "La invención de las mujeres. Una perspectiva africana sobre los discursos occidentales del género — Oyeronke Oyewumi (Bogotá, Editorial en la frontera, 2017)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-parry-el-descubrimiento-del-mar",
+          "name": "El descubrimiento del mar — J.H. Parry (Barcelona, Crítica, 1989)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-pineau-huellas-y-legados-de-la-esclavitud",
+          "name": "Huellas y legados de la esclavitud en las Américas. Programa Unesco La Ruta del Esclavo — Marisa Pineau (comp.) (Buenos Aires, EdUNTreF, 2012)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-pineau-la-ruta-del-esclavo-rio-de-la-plata",
+          "name": "La Ruta del Esclavo en el Río de la Plata. Aportes para el diálogo intercultural — Marisa Pineau (Buenos Aires, EdUNTreF, 2011)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-pratt-ojos-imperiales",
+          "name": "Ojos imperiales. Literatura de viajes y transculturación — Mary Louise Pratt (Bernal, Universidad Nacional de Quilmes, 1997)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-rivera-cusicanqui-barragan-debates-post-coloniales",
+          "name": "Debates Post coloniales: una introducción a los estudios de la subalternidad — Silvia Rivera Cusicanqui y Rossana Barragán (La Paz, Historias/SEPHIS/Aruwiyiri, 1997)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-said-orientalismo",
+          "name": "Orientalismo — Edward Said (Barcelona, De bolsillo, 2004)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-schaub-para-una-historia-politica-de-la-raza",
+          "name": "Para una historia política de la raza — Jean-Frédéric Schaub (Buenos Aires, FCE, 2019)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-subrahmanyam-vasco-de-gama",
+          "name": "Vasco de Gama — Sanjay Subrahmanyam (Barcelona, Crítica, 1998)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-verges-la-memoria-encadenada",
+          "name": "La memoria encadenada. Cuestiones sobre la esclavitud — Françoise Vergès (Barcelona, Anthropos, 2010)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion.libro-wallerstein-el-moderno-sistema-mundial-iii",
+          "name": "El moderno sistema mundial III. La segunda era de gran expansión de la economía-mundo capitalista, 1730-1850 — Immanuel Wallerstein (México, Siglo XXI Editores, 1998)",
+          "role": "bibliografía general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE LA COLONIZACIÓN Y DESCOLONIZACIÓN, cód. Nº 0406 / 14007, Prof. Sergio Galiana, 1º cuatrimestre 2026 (13 pp., PDF con capa de texto nativa)",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0406_14007%20-%20HISTORIA%20DE%20LA%20COLONIZACI%C3%93N%20Y%20DESCOLONIZACI%C3%93N%20-%20GALIANA%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE LA COLONIZACIÓN Y DESCOLONIZACIÓN, cód. Nº 0406 / 14007, Prof. Sergio Galiana, 1º cuatrimestre 2026 — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-colonizacion-galiana-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0406_14007%20-%20HISTORIA%20DE%20LA%20COLONIZACI%C3%93N%20Y%20DESCOLONIZACI%C3%93N%20-%20GALIANA%20-%201C%202026.pdf"
+    },
+    {
+      "label": "academica.filo.uba.ar · Esquema del Plan 1985 de Historia (HI - Plan.pdf) — consultado solo para el encuadre de la materia en el plan (Ciclo de Grado, Materias Generales, electiva «2 de 4»), que el programa no consigna; asentado en el nodo padre uba.ffyl.historia",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}

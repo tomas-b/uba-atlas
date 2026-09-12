@@ -1,0 +1,23 @@
+{
+  "address": "uba.ffyl.historia.historia-moderna",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 23,
+  "units_found": 23,
+  "books_total": 46,
+  "books_found": 46,
+  "not_found": [
+    "Frame (a) subcontado: «Siete asientos … obligatoria y complementaria del mismo punto» son NUEVE — faltan 1.5 Davis «Fear, Myth and History» y 2.2 Neeson «Commoners» (Jeanette M./J. M.), ambos YA anotados en las salidas de libro del propio nodo. Reparar: «Nueve» + itemizarlos.",
+    "Frame (b) subcontado y con un caso sin registrar en ningún lado: «Dos asientos obligatoria en un punto y complementaria en otro» son al menos TRES — falta Rosa Congost, «Tierras, leyes, historia» (Crítica 2007), obligatoria en 2.2 con páginas / complementaria en 2.1 sin ellas; ni el frame ni el exit de Congost lo mencionan. (Cuarto caso Neeson ob 2.2/comp 2.6 está en su exit pero no en este recuento.) Reparar frame + anotar el exit de Congost.",
+    "Frame, autocontradictorio: «cuatro puntos no aportan ningún libro … 2.3 (4 de 5)» — 4 de 5 implica que el quinto asiento de 2.3 es un volumen: Yun «Marte contra Minerva», que el propio grupo de libros dibuja con rol 'obligatoria · 2.3'. Son TRES puntos (2.4, 3.1, 3.5). Reparar y quitar 2.3.",
+    "Map tree, residuo pre-corrección en superficie dibujada: «Campagne · 2º cuatrim. 2026 · 96 hs · EF · única cátedra» — contradice el frame y el pie del propio mapa y no es dato impreso. Reparar: borrar «· única cátedra»."
+  ],
+  "omitted": [
+    "Declarados y verificados exactos: 629 complementarias (bloque entero), 22 Fuentes, 5 Materiales, 45 obligatorias-en-revista, y el programa Justo/Soletic 1C 2026 (portada sola, contenidos no indexados)."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (42 pp, SHA256 79929efb…). RECUENTO COMPLETO, no muestreado: los 749 asientos contados uno a uno; los cuatro vectores por punto, el vector de 45 exclusiones, los 57 segmentos de Fuentes, la única unificación y los 46 libros (46 direcciones únicas, 48 roles) — todo exacto. Los 23 pares c./d. verificados verbatim. Greps exactos (cátedra 48 = 38+8+1+1; ceros todos cero). La corrección de medio vuelo verificada desde la propia carpeta Drive: todos los campos de portada/encabezado de Justo/Soletic verbatim (MARIA sin tilde, línea PROFESOR corrida, Losada Ayudante-vs-JTP), ningún PDF imprime letra, selección 1 de 2 simétrica — con UN residuo: el token «única cátedra» del árbol. Cuatro errores, ninguna fabricación: todos de aritmética del registro de contradicciones o rótulo residual; cada libro, cita y cifra dibujada resuelve al PDF real."
+}

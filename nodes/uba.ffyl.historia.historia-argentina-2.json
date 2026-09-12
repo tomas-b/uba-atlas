@@ -1,0 +1,751 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial, con 1 recuperatorio · dos opciones de aprobación (A: 80% de asistencia y promedio ≥ 7 sin aplazos; B: 75% de prácticos, ≥ 4 en cada instancia y examen final)",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; el apartado I) reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0430 / 14017 (así impreso en portada, «CÓDIGO Nº: 0430 / 14017»; el encabezado interno imprime «CÓDIGO Nº: 0430/ 14017». El programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA ARGENTINA II (1862-1916) “A”»",
+    "catedra": "«A» — la letra está impresa dos veces dentro de la línea de materia (portada y encabezado interno) y el programa además se nombra a sí mismo «Cátedra “A”» tres veces, en los tres asientos de «Materiales de trabajo». La palabra «cátedra» aparece siete veces en el PDF: tres designan a esta cátedra, una está en el título de un cuaderno de la bibliografía («Cuaderno de cátedra de Historia Argentina II», Bethell), dos en créditos de traducción (Pomer, Korzeniewicz) y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») sin decir cuál elige",
+    "equipoDocente": [
+      "BELINI, CLAUDIO (portada: «PROFESOR: BELINI, CLAUDIO»; encabezado interno: «PROFESOR TITULAR: BELINI, CLAUDIO»; firma al pie: «Dr. Claudio Belini / Profesor Titular Regular»)",
+      "DENKBERG, ARIEL (PROFESOR ADJUNTO)",
+      "ROJKIND, INÉS (JEFE DE TRABAJOS PRÁCTICOS)",
+      "COSOY, IRENE (AYUDANTE DE PRIMERA)",
+      "LEVINSON, ANDRÉS (AYUDANTE DE PRIMERA)",
+      "VICTORERO, NAHUEL (AYUDANTE DE PRIMERA · «(LICENCIA CUCCHI, LAURA)», así impreso)",
+      "LACQUANITI, LEANDRO (AYUDANTE DE PRIMERA)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "asignatura obligatoria del Ciclo de Grado, Materias Específicas — décima de las doce historias del Plan 1985 — dato del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "bloques": 2,
+    "unidades": 4,
+    "apartados": 16,
+    "bibliografia": 87,
+    "asientosBibliograficos": "143 (53 obligatorios + 90 complementarios), más 3 de filmografía y 3 de materiales de trabajo",
+    "catedraAlternativa": "esta materia publica dos programas para 2026. La cátedra «B» (1º cuatrimestre) NO está indexada: solo se verificó su portada, que imprime «PROFESOR: LETTIERI, ALBERTO». El listado de cátedras del sitio del departamento consigna, en cambio, a CUESTA, Eduardo Martín; ese dato no fue verificado por esta ficha y se atribuye al listado del departamento. Las dos versiones quedan registradas con su procedencia y ninguna se resuelve"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-argentina-2",
+      "label": "Historia Argentina II (1862 – 1916)"
+    }
+  ],
+  "eyebrow": "Historia · Historia Argentina II (1862-1916) «A» · Belini · 2º cuatrim. 2026",
+  "title": "El orden se construye y se impugna al mismo tiempo.",
+  "lede": "Cincuenta y cuatro años en los que la Argentina se vuelve un mercado, se da un estado y discute a los tiros quién tiene derecho a votar. El programa los organiza en dos bloques y cuatro unidades que corren en paralelo: una serie económica y una serie política, cada una partida por 1890. La primera mitad va de la integración al mercado mundial a la construcción de una economía nacional —el lanar bonaerense, la colonización agrícola de Santa Fe y Entre Ríos, el monocultivo azucarero tucumano, la Cuyo vitivinícola—, con los mercados de tierra, trabajo y capital armándose a la par del ferrocarril y de la inmigración, y con las crisis de 1866, 1873 y 1890 marcando el pulso: la Ley de Unificación Monetaria de 1881, el patrón oro y la inconvertibilidad, los Bancos Garantidos, la deuda externa. Su contracara política es la organización del estado nacional: las aduanas, la cuestión de la Capital, la Guerra del Paraguay y el ejército, las leyes laicas, la ocupación de la Patagonia y el Chaco, y después el régimen del ’80 —Mitre y la hegemonía porteña, la Liga de Gobernadores, la federalización de Buenos Aires, el PAN, la representación invertida y los gobiernos electores— leído junto a la sociedad movilizada que el propio régimen desmoviliza: el voto, la ciudadanía en armas, el asociacionismo y la prensa. La segunda mitad es el apogeo y la crisis: carne y cereales, criadores e invernadores, el arrendamiento agrícola, el debate historiográfico sobre si hubo impulso o retraso industrial, el Censo de 1895 y la estructura de 1914, el arreglo de la deuda y la Ley Mitre de 1907, el Grito de Alcorta de 1912 y la crisis de 1913-1917 con la Primera Guerra. Y en el plano político y cultural, el ciclo revolucionario del noventa que trae la UCR, el Partido Socialista y el anarquismo; el higienismo y la criminología frente a los «nuevos males sociales»; la Ley de Residencia de 1902 y la Ley de Defensa Social de 1910; el servicio militar obligatorio y la educación patriótica construyendo un panteón nacional; la prensa entre la política y el mercado; los debates sobre el voto femenino; y la Ley Sáenz Peña desembocando en 1916. Las mujeres en el mundo del trabajo y en el movimiento obrero atraviesan las dos mitades como eje propio.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "2 bloques"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "cátedra «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA ARGENTINA II (1862-1916) “A”, Departamento de Historia (FFyL-UBA), cód. 0430 / 14017, Prof. Titular Claudio Belini, 2º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (15 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-argentina2-belini-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): la cátedra “A”, BELINI, CLAUDIO, 2º cuatrimestre 2026, 15 páginas. NO se dibuja 1 de 2 (50%): la cátedra “B”, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «MATERIA: HISTORIA ARGENTINA II (1862-1916) “B”», «CÓDIGO Nº: 0430/14017», «RÉGIMEN DE PROMOCIÓN: PD», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL.», «PROFESOR: LETTIERI, ALBERTO», «CUATRIMESTRE: 1°», «AÑO: 2026», 15 páginas; su URL queda asentada en sources. De la cátedra “B” no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los de la cátedra “A” y de ninguna otra. DIVERGENCIA ENTRE FUENTES SOBRE EL PROFESOR DE LA CÁTEDRA “B”, REGISTRADA Y ATRIBUIDA, NO RESUELTA: la portada del PDF de la “B” —verificada directamente para esta ficha— imprime «PROFESOR: LETTIERI, ALBERTO», y los metadatos del archivo repiten «HISTORIA ARGENTINA II (1862-1916) “B” LETTIERI». Según el listado de cátedras del sitio del Departamento de Historia, el profesor de la “B” sería CUESTA, Eduardo Martín; ese segundo dato NO fue verificado por esta ficha y se atribuye enteramente al listado del departamento, no al PDF. Las dos versiones quedan asentadas con su procedencia y ninguna se elige sobre la otra; lo único que este nodo afirma por sí mismo es lo que dice la portada que leyó. CÁTEDRA, cómo consta: a diferencia de otros programas del departamento, este SÍ se nombra a sí mismo. La letra “A” está impresa dos veces dentro de la línea de materia («MATERIA: HISTORIA ARGENTINA II (1862-1916) “A”», portada y encabezado interno), y la palabra «cátedra» aparece SIETE veces en el PDF, de las cuales TRES designan a esta cátedra por su letra, en los tres asientos de «Materiales de trabajo»: «Historia Argentina II (1862-1916), Cátedra “A”, Selección de fuentes primarias…». Las otras cuatro no la designan: una en el título de un cuaderno de la bibliografía («Cuaderno de cátedra de Historia Argentina II», Bethell, compl. U2), dos en créditos de traducción («Traducción del portugués realizada por la cátedra, para uso interno», Pomer, compl. U2; «Versión traducida por la cátedra, bajo el título Agitación obrera en la Argentina, Edición OPFyL, 2005», Korzeniewicz, compl. U3), y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). DATO CRUZADO: la ubicación de la materia —asignatura obligatoria del Ciclo de Grado, Materias Específicas, décima de las doce historias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, título propio del programa —la portada consigna solo «MATERIA: HISTORIA ARGENTINA II (1862-1916) “A”»— y a qué plan corresponde cada uno de los dos números del código: el PDF imprime «0430 / 14017» en la portada y «0430/ 14017» en el encabezado interno, sin explicar el par. Tampoco imprime cronograma, distribución de clases teóricas y prácticas ni fechas de parciales. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie «Dr. Claudio Belini / Profesor Titular Regular». ESTRUCTURA: los objetivos declaran que los contenidos están «estructurados en torno de dos bloques temáticos, cada uno de ellos integrados por dos módulos». El apartado II. CONTENIDOS ORGANIZADOS EN UNIDADES TEMÁTICAS cumple exactamente eso: DOS bloques rotulados con letra (A y B) que contienen CUATRO unidades numeradas en arábigos, dos por bloque —bloque A: unidades 1 y 2; bloque B: unidades 3 y 4—, subdivididas a su vez en 16 apartados decimales (1.1-1.4, 2.1-2.3, 3.1-3.6, 4.1-4.3). El apartado de bibliografía trae CUATRO bloques con exactamente los mismos cuatro encabezados numerados, palabra por palabra, pero NO reproduce los dos bloques temáticos con letra. Las cuatro unidades se dibujan: 4 de 4. Los dos bloques A y B no se dibujan como nodos —no son unidades del programa sino su agrupamiento— y quedan asentados en el mapa y acá. El apartado I. OBJETIVOS imprime un único párrafo corrido, sin objetivos enumerados; no se dibuja como grupo. FORMULARIO vs. CONTENIDO: el encabezado del apartado bibliográfico es «BIBLIOGRAFÍA OBLIGATORIA Y COMPLEMENTARIA, MATERIALES DE TRABAJO:» y el programa lo llena de manera desigual. Las cuatro unidades traen «Bibliografía obligatoria:» y «Bibliografía complementaria:». Sólo la Unidad 3 trae «Filmografía:». Las Unidades 1, 2 y 3 traen «Materiales de trabajo para las clases teóricas y prácticas:»; la Unidad 4 NO trae ninguno —se declara la falta en lugar de completarla—. Ninguna unidad trae discografía ni un apartado de fuentes separado de los materiales de trabajo. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: la bibliografía suma 143 asientos —53 obligatorios (U1: 10 · U2: 11 · U3: 16 · U4: 16) y 90 complementarios (U1: 13 · U2: 24 · U3: 25 · U4: 28)—, más 3 asientos de filmografía (todos en la U3) y 3 de materiales de trabajo (U1, U2 y U3, uno cada una). Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades o en varios asientos se unifica en un solo nodo—. NO se dibujan los 39 asientos sin volumen: 38 cuyo contenedor es una revista, un anuario o una publicación en línea, y 1 ponencia. Son, uno por uno: Bravo en Población y sociedad n° 5 y Suriano en Entrepasados núm. 24-25 (oblig. U1); Campi en Anuario IEHS nº 8, Djenderedjian en América Latina en la Historia Económica No. 30 y Garavaglia en Investigaciones de Historia Económica Vol. 10 nº 1 (compl. U1); Cucchi en Ciencia Hoy Vol. 27 n° 161, Laera en Entrepasados No. 24-25 y Sabato «El ciudadano en armas» en Entrepasados N° 23 (oblig. U2); Alonso en Entrepasados núm. 24/25, Cucchi en Revista Bicentenario Vol. 13 núm. 2, De Jong en Goiania 16:2, Paz «El ´comunismo´ en Jujuy» en Nuevo Mundo. Mundos nuevos (con URL journals.openedition.org) y Quijada en Revista de Indias n° 217 (compl. U2); Bonaudo y Godoy en Anuario num. 11, Caruso en Historia Crítica, Samuel en Entrepasados Año IX Nº 18/19, Suriano «El Estado argentino frente a los trabajadores urbanos» en Anuario n° 14 y Suriano «La Primera Guerra Mundial» en Estudos Históricos n° 60 (oblig. U3); Balán en Desarrollo Económico vol. 18 núm. 69, Belini y Badoza en Ciencia Hoy vol. 24, Hora en Desarrollo Económico Vol. 59 n° 229, Korzeniewicz en Latin American Research Review vol. XXIV núm. 3, Palacio en el Boletín Ravignani nº 25, Poy en Estudios Sociales Contemporáneos n° 11, Rayes en Papeles de Trabajo n° 23, Rocchi «El imperio del pragmatismo» en Anuario IHES núm. 13 y Sánchez Román en Revista de Indias nº 233 (compl. U3); Buonuome en el Boletín Ravignani n° 46, Falcón en Anuario n° 12, Rojkind en Secuencia n° 84 y Samuel en Entrepasados IX nº 18/19 (oblig. U4); Castro en Entrepasados núm. 31, De Privitellio en Estudios Sociales núm. 43, Palermo en Polhis n° 7, Reyes «De la velada de club» en el Boletín Ravignani n° 44, Reyes «‘Conmemorar la revolución’» en Estudios Sociales N. 50, Rojkind «Movilizaciones, protestas y reforma electoral» en Nuevo mundo. Mundos nuevos (con URL nuevomundo.revues.org) y Suriano «La reforma electoral de 1912» en Estudios sociales núm. 43 (compl. U4); y la única ponencia, Román, «Don Quijote (1884-1902): la prensa satírica, entre el público y el pueblo», presentada en las XIII Jornadas Interescuelas - Departamentos de Historia, Catamarca, 2011 (compl. U4). Quedan 104 asientos con volumen, que al unificar los repetidos dan 87 libros, y 87 son los que se dibujan. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial del programa queda fuera. LOS DIEZ VOLÚMENES QUE REAPARECEN, y cuántos asientos absorbe cada uno: El progreso, la modernización y sus límites, de Lobato (dir.), 5 asientos (compl. U3; oblig. U4 ×2; compl. U4 ×2); El régimen oligárquico, de Giménez Zapiola, 3 (oblig. U1; compl. U3 ×2); La vida política en la Argentina del siglo XIX, de Sabato y Lettieri, 3 (oblig. U2; compl. U2 ×2); Un nuevo orden político, de Bragoni y Míguez, 3 (oblig. U2; compl. U2 ×2); La cuestión social en Argentina, de Suriano, 3 (oblig. U2; oblig. U3; compl. U4); Los terratenientes de la pampa argentina, de Hora, 2 (oblig. U1 y U3); Historia del agro argentino, de Barsky y Gelman, 2 (compl. U1 y U3); El orden conservador, de Botana, 2 (oblig. U2 y U4); Nueva Historia de la Nación Argentina tomo VI, de la Academia Nacional de la Historia, 2 (oblig. U3; compl. U3); Historia de las mujeres en la Argentina Tomo II, de Gil Lozano y otras, 2 (oblig. U3; compl. U4). Cada uno se dibuja una sola vez, con los capítulos de todas sus apariciones anotados en el nombre. LO CONTADO Y NO DIBUJADO POR NO SER LIBROS, asentado entero: la FILMOGRAFÍA de la Unidad 3, tres títulos, «En pos de la tierra. Película. Federación Agraria Argentina, 1927», «La Pampa. Película. Cinematografía Valle, 1922» y «Salida de la Fábrica de Cigarrillos La Sin Bombo ca. 1904-1911» —el tercero no lleva productora ni la palabra «Película»—; y los MATERIALES DE TRABAJO de las Unidades 1, 2 y 3, el mismo ítem repetido tres veces: «Historia Argentina II (1862-1916), Cátedra “A”, Selección de fuentes primarias, escritas e imágenes (fotografías y caricaturas); incluye también fuentes cuantitativas, mapas y guías de lectura. 2026», material propio de la cátedra. Las dos primeras copias llevan «; incluye también» y el año 2026; la tercera imprime «, además incluye también» y NO lleva año. Ninguno de estos seis asientos se dibuja como libro: ni una película ni una selección de fuentes de la cátedra es un volumen con pie editorial, y el nombre tiene que coincidir con lo que hay. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) La cuestión social en Argentina, de Suriano, lleva dos rangos de años distintos para el mismo volumen: «1870-1943» en los asientos de la U2 (Mases) y de la U3 (Rocchi), «1879-1943» en el de la U4. (2) El período: la materia se llama «HISTORIA ARGENTINA II (1862-1916)» pero la Unidad 1 abre en 1850 y la Unidad 3 cierra en 1917, de modo que los contenidos desbordan el título por los dos extremos; y la bibliografía obligatoria de la U3 incluye El eslabón perdido, de Gerchunoff, cuyo recorte declarado es 1916-1930. (3) El apellido del mismo autor se imprime «Gerchunoff, Pablo» en la compl. U1 y en la oblig. U3, y «Guerchunoff, Pablo» en la compl. U4. (4) «Halperin Donghi» sin acento en la oblig. U2 y en el primero de los dos asientos de la compl. U4, «Halperín Donghi» con acento en el segundo. (5) El artículo de Samuel, «El ojo de la historia», está asentado dos veces en la bibliografía obligatoria, bajo la U3 y bajo la U4, con la referencia impresa de dos maneras: «Entrepasados, Año IX, Nº 18/19, 2002» y «Entrepasados, IX, nº 18/19, 2002». (6) El volumen de Lobato aparece con tres títulos distintos —«El progreso, la modernización y sus límites (1880-1916)», «El progreso, la modernización y sus límites, Nueva Historia Argentina» y «…Nueva Historia Argentina, Tomo V»— y con la directora nombrada «Lobato, Mirta Zaida (dir.)» cuatro veces y «Mirta Lobato (Directora)» una. (7) Los terratenientes, de Hora, se asienta «Siglo XXI, 2002» sin lugar en la U1 y «Buenos Aires, Siglo XXI, 2002» en la U3. (8) El nombre del mismo anuario se imprime «Anuario IEHS» (Campi, compl. U1) y «Anuario IHES» (Rocchi, compl. U3). (9) La numeración de apartados del programa reinicia: hay dos secciones «I» y dos «II» —«I. OBJETIVOS» y «II. CONTENIDOS…» primero, «I) LA ORGANIZACIÓN DEL DICTADO DE LA MATERIA» y «II) EVALUACIÓN» después—. ASIENTOS INCOMPLETOS, declarados y no completados: Halperín Donghi, Vida y muerte de la República Verdadera (1910-1930), «Buenos Aires, Ariel,» sin año —el asiento se corta ahí—; Míguez, Historia económica de la Argentina. De la conquista a la crisis de 1930, «Buenos Aires, 2008» sin editorial; Hora, «Trabajadores, protesta obrera y régimen oligárquico», Desarrollo Económico Vol. 59 n° 229, sin año; Suriano, «El Estado argentino frente a los trabajadores urbanos», Anuario n° 14, sin año; Caruso en Historia Crítica, 2019, sin número; Alonso, Entre la revolución y las urnas, «Sudamericana, 2000» sin lugar; Belini y Korol, «Siglo XXI Editores, 2020» sin lugar; Cortes Conde y Della Paolera, «Edhasa, 2018» sin lugar; Bethell, «OPFyL, 2002» sin lugar. Y sin indicación de capítulos, pese a ser volúmenes enteros: Lobato, Historia de las trabajadoras; Sabato (Jorge F.), La clase dominante en la Argentina moderna; Tato, La trinchera austral; Persello, Historia del Radicalismo; y varios más de la complementaria. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: los rótulos de los dos bloques van sin acentos —«LA FORMACION DE UNA ECONOMÍA NACIONAL Y LA CONFLICTIVA CONSTRUCCION DE UN ORDEN», «CONSOLIDACION DEL ESTADO, CRISIS DEL REGIMEN POLITICO»—; el compilador de Población y mano de obra en América Latina se alfabetiza «Albornoz, Nicolás Sánchez (comp.)», invirtiendo el apellido compuesto Sánchez-Albornoz; el orden alfabético se rompe tres veces —«Rosa» antes de «Ratto» (compl. U2), «Buonuome» antes de «Botana» y «Guerchunoff» antes de «Gorelik» (compl. U4)—; el asiento de Buonuome imprime «Buenos Aires, Siglo XXI, Buenos Aires, 2025», con la ciudad dos veces; el de Falcón imprime «Rosario» tres veces; Djenderedjian abre con comilla recta y cierra con curva («\"El proceso económico”»); Alonso (compl. U2) abre comilla y no la cierra, y escribe «(1880- 1890)» con espacio dentro del guion; Alonso (oblig. U4) cierra comillas dos veces y abre una sola («“La Unión Cívica Radical: fundación, oposición y triunfo” (1890-1916)”»); Quijada anida comillas dobles idénticas («“La ciudadanización del “indio bárbaro”»); Paz usa acentos agudos como comillas («´comunismo´»); Korzeniewicz abre comilla y no la cierra; Gandolfo abre comilla y no la cierra; Rogers no lleva coma entre el nombre y el título («Rogers, Geraldine Caras y Caretas:»); Bjerg lleva coma en un asiento («Bjerg, María,») y no en el otro («Bjerg María,»); Terán imprime «pp- 327-364» con guion en lugar de punto; Lobato cierra con dos puntos seguidos («Edhasa, 2007. .»); Nari imprime «“Maternidad, política y feminismo.”,» con punto dentro de la comilla; Botana escribe «Primero Centenario» por Primer Centenario; Barrancos imprime «Genero» sin acento; Lois cita un capítulo sobre «la segunda mitad del Siglo XX» dentro de un libro sobre cartografía del siglo XIX y escribe «delos» sin separar; Carmagnani imprime «México, Brasil Argentina» sin coma; Prieto invierte editorial y lugar («Sudamericana, Buenos Aires, 1988») y Falcón hace lo mismo («Laborde, Rosario, 2005»), y en el nombre del libro de Falcón ese par se dibuja normalizado al orden lugar-editorial; Delrío imprime «Bernal UnQui» y Bjerg «Bernal, UNQ»; Moguillansky escribe «Modernización literatura y renovación técnica» sin coma; Laera imprime «Argentina, 1890-2001.,» con punto antes de la coma; la línea de modalidad de la portada dice «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC…» y el encabezado interno repite la frase amputada, «MODALIDAD DE DICTADO: a lo dispuesto por REDEC…»; el apartado de evaluación abre paréntesis y no lo cierra («Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»); y el ayudante Victorero se asienta «VICTORERO, NAHUEL (LICENCIA CUCCHI, LAURA)», con la licencia entre paréntesis y sin más explicación, mientras Lacquaniti cierra con punto («LACQUANITI, LEANDRO.»). Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota —«Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»— se intercala entre el encabezado del apartado 1.2 y sus viñetas, partiendo la unidad en dos; los saltos de página dejan un carácter de avance de página delante de la línea de continuación de seis asientos (Mases en la oblig. U2, Ratto en la compl. U2, Suriano en la oblig. U3, Palacio en la compl. U3, Saítta en la oblig. U4 y Nari en la compl. U4), aunque esas seis continuaciones conservan su sangría normal de cinco a ocho espacios; las únicas líneas de continuación que salen sin sangría son las segundas líneas de los tres asientos de «Materiales de trabajo», y aun así ninguna de ellas se contó como asiento: el total de la sección, 149, es el honesto —143 de bibliografía más 3 de filmografía y 3 de materiales—; la viñeta «▪» pierde su sangría desde el apartado 3.5 en adelante; y el último tramo de la complementaria de la U4, desde Palermo, sale corrido un espacio. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · dos bloques, cuatro unidades (cátedra “A”, Belini, 2º cuatrim. 2026)",
+      "title": "Una economía y un orden, los dos partidos por 1890",
+      "note": "Las cuatro unidades numeradas del apartado II. CONTENIDOS ORGANIZADOS EN UNIDADES TEMÁTICAS, en el orden impreso, repartidas en los dos bloques temáticos A y B que declara el apartado I. OBJETIVOS. El apartado de bibliografía repite exactamente los mismos cuatro encabezados numerados, pero no reproduce los bloques con letra.",
+      "map": {
+        "mk": "El programa, en dos bloques y cuatro unidades",
+        "tree": "HISTORIA ARGENTINA II (1862-1916) “A” · cód. 0430 / 14017\nBelini · 2º cuatrim. 2026 · 96 hs · PD\n│\n├─ A · LA FORMACION DE UNA ECONOMÍA NACIONAL Y LA\n│      CONFLICTIVA CONSTRUCCION DE UN ORDEN [así impreso, sin acentos]\n│  │\n│  ├─ 1 · Transformaciones de una economía agroexportadora (1850-1890)\n│  │      1.1 expansión capitalista y división internacional del trabajo\n│  │      1.2 de las economías regionales al mercado nacional · lanar\n│  │          bonaerense · colonización de Santa Fe y Entre Ríos · azúcar\n│  │          tucumano · Cuyo vitivinícola\n│  │      1.3 mercados de tierra, trabajo y capital · capital extranjero\n│  │          ferrocarriles · inmigración y migraciones internas\n│  │      1.4 crisis de 1866 y 1873 · Ley de Unificación Monetaria de 1881\n│  │          patrón oro · Bancos Garantidos · 1890\n│  └─ 2 · La construcción del estado y la vida política (1862-1890)\n│         2.1 burocracia estatal · cuestión de la Capital · Guerra del\n│             Paraguay · leyes laicas · Patagonia y Chaco · frontera indígena\n│         2.2 Mitre y la hegemonía porteña · Liga de Gobernadores · 1880\n│             federalización · el PAN y el régimen del ’80 · Juárez Celman\n│         2.3 nacionalistas y autonomistas · ciudadanía en armas\n│             asociacionismo, manifestaciones y prensa\n│\n└─ B · CONSOLIDACION DEL ESTADO, CRISIS DEL REGIMEN POLITICO Y\n       CONFLICTOS SOCIOCULTURALES ENTRE EL SIGLO XIX Y EL XX\n   │\n   ├─ 3 · Consolidación, apogeo y crisis de la economía\n   │      agroexportadora (1890-1917)\n   │      3.1 comercio y finanzas mundiales en la era del imperialismo\n   │      3.2 carne y cereales · criadores e invernadores · arrendamiento\n   │      3.3 ¿impulso o retraso industrial? · Censo de 1895 · 1914\n   │          proteccionismo y librecambio\n   │      3.4 arreglo de la deuda · Ley Mitre de 1907 · finanzas públicas\n   │      3.5 crisis de 1890 · Banco de la Nación · cuestión agraria\n   │          Grito de Alcorta de 1912 · crisis de 1913-1917\n   │      3.6 urbanización · inmigración · género y mercado laboral\n   │          Ley de Residencia 1902 · Ley de Defensa Social 1910\n   └─ 4 · Conflictos políticos y socio-culturales (1890-1916)\n          4.1 ciclo revolucionario del noventa · UCR, PS, anarquismo\n              divisiones del PAN · declive del roquismo\n          4.2 cultura letrada y cultura popular · prensa · arte y literatura\n          4.3 higienismo y criminología · nacionalización: servicio militar,\n              educación patriótica · reforma de Joaquín V. González (1902)\n              Ley Sáenz Peña · voto femenino · Yrigoyen 1916",
+        "foot": "Esta materia publica dos programas para 2026: la cátedra “A” (Belini, 2º cuatrimestre) y la cátedra “B” (1º cuatrimestre, cuya portada imprime LETTIERI, ALBERTO). Acá se dibuja solo la “A”; de la “B” únicamente se verificó la portada, y sus contenidos no están indexados. Los contenidos desbordan el período del título por los dos extremos: la Unidad 1 abre en 1850 y la Unidad 3 cierra en 1917."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.u1-transformaciones-de-una-economia-agroexportadora",
+          "name": "Transformaciones de una economía agroexportadora (1850-1890)",
+          "role": "Unidad 1 · bloque A",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.u2-la-construccion-del-estado-y-la-vida-politica",
+          "name": "La construcción del estado y la vida política (1862-1890)",
+          "role": "Unidad 2 · bloque A",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.u3-consolidacion-apogeo-y-crisis-de-la-economia-agroexportadora",
+          "name": "Consolidación, apogeo y crisis de la economía agroexportadora (1890-1917). Transformaciones, actores y conflictos.",
+          "role": "Unidad 3 · bloque B",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.u4-conflictos-politicos-y-socio-culturales",
+          "name": "Conflictos políticos y socio-culturales (1890-1916)",
+          "role": "Unidad 4 · bloque B",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y complementaria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 87 volúmenes con pie editorial de los 143 asientos (53 obligatorios y 90 complementarios), por unidad. Un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo (diez volúmenes reaparecen y absorben 27 asientos). No se dibujan los 39 asientos sin volumen —38 de revista, anuario o publicación en línea y 1 ponencia—, ni las 3 películas de la filmografía de la Unidad 3, ni los 3 asientos de «Materiales de trabajo» de la propia cátedra: quedan declarados uno por uno en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bonaudo-liberalismo-estado-y-orden-burgues",
+          "name": "Liberalismo, estado y orden burgués (1852-1880) — Marta Bonaudo (dir.), Nueva Historia Argentina, vol. IV (Buenos Aires, Sudamericana, 1999) · Daniel Campi y Rodolfo Richard-Jorba, «Las producciones regionales extrapampeanas»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-fradkin-garavaglia-la-construccion-nacional",
+          "name": "Argentina. La construcción nacional, 1830-1880 — Raúl Fradkin y Juan Carlos Garavaglia (coord.) (Madrid, Taurus, 2011) · Julio Djenderedjian, \"El proceso económico” [comillas así impresas: abre recta, cierra curva], pp. 128 a 149",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gimenez-zapiola-el-regimen-oligarquico",
+          "name": "El régimen oligárquico — Marcos Giménez Zapiola (comp.) (Buenos Aires, Amorrortu, 1975) · Alec Ford, «La Argentina y la crisis de Baring de 1890» (obligatoria U1); Lucio Geller, «El crecimiento industrial argentino hasta 1914 y la teoría del bien primario exportable», pp. 156-200, y Ernesto Laclau, «Modos de producción, sistemas económicos y población excedente. Aproximación histórica a los casos argentino y chileno» (complementaria U3)",
+          "role": "obligatoria · U1 · + complementaria U3 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gallo-la-pampa-gringa",
+          "name": "La Pampa gringa — Ezequiel Gallo (Buenos Aires, Sudamericana, 1983) · cap. 5 a 7 · el asiento agrega «[Hay edición de Edhasa, 2004]»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-hora-los-terratenientes-de-la-pampa-argentina",
+          "name": "Los terratenientes de la pampa argentina. Una historia social y política, 1860-1945 — Roy Hora (Siglo XXI, 2002; el asiento de la U1 no consigna lugar, el de la U3 imprime «Buenos Aires, Siglo XXI, 2002») · Parte I, a y b, y Parte II, a (U1); cap. 2 y 3 (U3)",
+          "role": "obligatoria · U1 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-marichal-nueva-historia-de-las-grandes-crisis-financieras",
+          "name": "Nueva Historia de las Grandes Crisis Financieras. Una perspectiva global, 1873-2008 — Carlos Marichal (Buenos Aires, Debate, 2008) · «La primera globalización: la crisis financiera en la época clásica del capitalismo liberal, 1873-1914»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-regalsky-las-inversiones-extranjeras",
+          "name": "Las inversiones extranjeras en la Argentina (1860-1914) — Andrés Regalsky (Buenos Aires, CEAL, 1986)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-capitalismo-y-ganaderia",
+          "name": "Capitalismo y ganadería en Buenos Aires: la fiebre del lanar. 1850-1890 — Hilda Sabato (Buenos Aires, Sudamericana, 1989) · (Selección)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-barsky-gelman-historia-del-agro-argentino",
+          "name": "Historia del agro argentino — Osvaldo Barsky y Jorge Gelman (Buenos Aires, Sudamericana, 2009) · cap. 5 (U1); cap. 6 (U3) · la U1 imprime «Barsky, Osvaldo y Jorge Gelman», la U3 «Barsky, Osvaldo y Gelman, Jorge»",
+          "role": "complementaria · U1 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-cortes-conde-dinero-deuda-y-crisis",
+          "name": "Dinero, deuda y crisis. Evolución fiscal y monetaria en la Argentina — Roberto Cortés Conde (Buenos Aires, Sudamericana, 1989) · Introducción",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-hora-historia-economica-siglo-xix",
+          "name": "Historia económica de la Argentina en el siglo XIX — Roy Hora (Buenos Aires, Siglo XXI, 2009) · cap. 4 y 5",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-ferns-gran-bretana-y-la-argentina",
+          "name": "Gran Bretaña y la Argentina en el siglo XIX — H. S. Ferns (Buenos Aires, Hachette, 1974) · Caps. 11 a 14",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gerchunoff-rocchi-rossi-desorden-y-progreso",
+          "name": "Desorden y progreso. Las crisis económicas argentinas, 1870-1905 — Pablo Gerchunoff, Fernando Rocchi y Gastón Rossi (Buenos Aires, Edhasa, 2008) · Parte I",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lanciotti-lluch-las-empresas-extranjeras",
+          "name": "Las empresas extranjeras en Argentina desde el siglo XIX al siglo XXI — Norma Lanciotti y Andrea Lluch (Buenos Aires, Imago Mundi, 2018) · cap. 2",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lopez-waddell-martinez-historia-del-ferrocarril",
+          "name": "Historia del ferrocarril en Argentina — Mario Justo López, Jorge Waddell y Juan Pablo Martínez (Buenos Aires, Lenguaje Claro, 2016) · Cap. 1-2",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-cortes-conde-della-paolera-nueva-historia-economica-argentina",
+          "name": "Nueva Historia Económica Argentina — R. Cortes Conde [así impreso, sin acento] y G. Della Paolera (Edhasa, 2018; el asiento no consigna lugar) · Andrés Regalsky, \"Moneda, bancos y finanzas públicas, 1860-1899\" [comillas rectas así impresas], pp. 103-118",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-richard-jorba-la-region-vitivinicola-argentina",
+          "name": "La región vitivinícola argentina. Transformaciones del territorio, la economía y la sociedad, 1870-1914 — Rodolfo Richard-Jorba, Eduardo Perez Romagnoli, Patricia Barrio e Inés Sanjurjo (Bernal, UNQ, 2006)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sanchez-albornoz-poblacion-y-mano-de-obra",
+          "name": "Población y mano de obra en América Latina — «Albornoz, Nicolás Sánchez (comp.)» [así impreso: el programa invierte el apellido compuesto Sánchez-Albornoz y lo alfabetiza por «Albornoz»] (Alianza editorial, 1985; el asiento no consigna lugar) · Hilda Sabato, «Trabajar para vivir o vivir para trabajar: empleo ocasional y escasez de mano de obra en Buenos Aires, ciudad y campaña, 1850-1880»",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-lettieri-la-vida-politica-en-la-argentina-del-siglo-xix",
+          "name": "La vida política en la Argentina del siglo XIX. Armas, votos y voces — Hilda Sabato y Alberto Lettieri (comp.) (Buenos Aires, FCE, 2003) · Paula Alonso, «La política y sus laberintos: el Partido Autonomista Nacional entre 1880 y 1886» (obligatoria U2); Gustavo Paz, «El gobierno de los ‘conspicuos’: familia y poder en Jujuy, 1853-1875», y el volumen asentado por sí solo (complementaria U2)",
+          "role": "obligatoria · U2 · + complementaria U2 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-alonso-entre-la-revolucion-y-las-urnas",
+          "name": "Entre la revolución y las urnas. Los orígenes de la Unión Cívica Radical y la política argentina en los 90 — Paula Alonso (Sudamericana, 2000; el asiento no consigna lugar) · Cap. 2",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-botana-el-orden-conservador",
+          "name": "El orden conservador. La política argentina entre 1880 y 1916 — Natalio Botana (Buenos Aires, Sudamericana, 1977) · Introducción, cap. III, segunda parte y «Estudio preliminar» de la segunda edición, 1997 (U2); Cap. 6 y Tercera parte (U4)",
+          "role": "obligatoria · U2 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-capdevila-una-guerra-total",
+          "name": "Una guerra total. Paraguay, 1864-1870. Ensayo de historia del tiempo presente — Luc Capdevila (Asunción-Buenos Aires, Centro de Estudios Antropológicos de la Universidad Católica, 2010) · (Selección)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bragoni-miguez-un-nuevo-orden-politico",
+          "name": "Un nuevo orden político. Provincias y Estado Nacional, 1852-1880 — Beatriz Bragoni y Eduardo Míguez (Buenos Aires, Biblos, 2010) · Ariel De la Fuente, «Resistencias a la formación del estado nacional e identidad partidaria en la provincia de La Rioja: los nuevos significados del federalismo» (obligatoria U2); Eduardo Zimmermann, «En tiempos de rebelión. La justicia federal frente a los levantamientos provinciales, 1860-1880», y el volumen asentado por sí solo (complementaria U2)",
+          "role": "obligatoria · U2 · + complementaria U2 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-halperin-donghi-una-nacion-para-el-desierto-argentino",
+          "name": "Una nación para el desierto argentino — Tulio Halperin Donghi (Buenos Aires, CEAL, 1982) · Selección de apartados: «Una Nación para el desierto argentino», «Un proyecto nacional en el período rosista», «Treinta años de discordia», «El consenso después de la discordia», «Balances de una época»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-suriano-la-cuestion-social-en-argentina",
+          "name": "La cuestión social en Argentina — Juan Suriano (comp.) (Buenos Aires, La Colmena, 2000) · CONTRADICCIÓN REGISTRADA en el subtítulo de fechas: «1870-1943» en los asientos de la U2 y la U3, «1879-1943» en el asiento de la U4 · Enrique Mases, «Estado y Cuestión Indígena. Argentina 1878-1885», pp. 301 a 329 (obligatoria U2); Fernando Rocchi, «Un largo camino a casa: Empresarios, trabajadores e identidad industrial en la Argentina, 1880-1930» (obligatoria U3); «Introducción: una aproximación a la definición de la cuestión social en Argentina» (complementaria U4)",
+          "role": "obligatoria · U2 y U3 · + complementaria U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-la-politica-en-las-calles",
+          "name": "La política en las calles. Entre el voto y la movilización, Buenos Aires, 1862-1880 — Hilda Sabato (Buenos Aires, Sudamericana, 1998) · Introducción, cap. 2, 3, 4, 6, 7, 10, y Epílogo",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-alonso-bragoni-el-sistema-federal-argentino",
+          "name": "El sistema federal argentino. Debates y coyunturas (1860-1910) — Paula Alonso y Beatriz Bragoni (ed.) (Buenos Aires, Edhasa, 2015)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bethell-la-guerra-del-paraguay",
+          "name": "La Guerra del Paraguay (1864-1870) — Leslie Bethell, Cuaderno de cátedra de Historia Argentina II (OPFyL, 2002; el asiento no consigna lugar)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-carmagnani-federalismos-latinoamericanos",
+          "name": "Federalismos latinoamericanos: México, Brasil Argentina [así impreso, sin coma antes de Argentina] — Marcello Carmagnani (coord.) (México, Fondo de Cultura Económica, 1993) · Natalio Botana, «El federalismo liberal en Argentina: 1852-1930»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-de-la-fuente-los-hijos-de-facundo",
+          "name": "Los hijos de Facundo. Caudillos y montoneras en la provincia de La Rioja durante el proceso de formación del Estado Nacional Argentino 1853-1870 — Ariel De la Fuente (Buenos Aires, Prometeo, 2006) · Introducción, cap. 4, 5 y 8",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-delrio-memorias-de-expropiacion",
+          "name": "Memorias de expropiación: sometimiento e incorporación indígena en la Patagonia (1872-1943) — Walter Delrío (Bernal, UnQui [así impreso], 2005) · Cap. 1 y 2",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-doratioto-maldita-guerra",
+          "name": "Maldita guerra: nueva historia de la guerra del Paraguay — Francisco Doratioto (Buenos Aires, Emecé, 2004)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-laera-ficciones-del-dinero",
+          "name": "Ficciones del dinero: Argentina, 1890-2001. [punto así impreso antes de la coma] — Alejandra Laera (Buenos Aires, FCE, 2014) · (selección)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lois-mapas-para-la-nacion",
+          "name": "Mapas para la nación. Episodios en la Historia de la cartografía argentina — Carla Lois (Buenos Aires, Biblos, 2014) · Cap. 5: «Paisajes toponímicos. La potencia visual delos topónimos y el imaginario geográfico sobre la Patagonia en la segunda mitad del Siglo XX.» [así impreso: «delos» sin separar, y «Siglo XX» en un libro de cartografía decimonónica]",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-oszlak-la-formacion-del-estado-argentino",
+          "name": "La formación del estado argentino. Orden, progreso y organización nacional — Oscar Oszlak (Buenos Aires, De Belgrano, 1982)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-pomer-cinco-anos-de-guerra-civil",
+          "name": "Cinco años de guerra civil en la Argentina (1865-1870) — León Pomer (Buenos Aires, Amorrortu, 1985)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-marques-a-guerra-do-paraguai-130-anos-depois",
+          "name": "A guerra do Paraguai: 130 anos depois — Maria Eduarda Castro Magalhães Marques (org.) (Rio de Janeiro, Relume-Dumará, 1995) · León Pomer, «A guerra do Paraguai e a formação do estado na Argentina» · el asiento agrega «[Traducción del portugués realizada por la cátedra, para uso interno]»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-rosa-la-guerra-del-paraguay-y-las-montoneras",
+          "name": "La Guerra del Paraguay y las montoneras argentinas — José María Rosa (Buenos Aires, Hyspamérica, 1985) · asentado fuera del orden alfabético, antes de Ratto",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-aavv-la-construccion-de-la-nacion-argentina",
+          "name": "La construcción de la nación argentina. El rol de las fuerzas armadas. Debates históricos en el marco del Bicentenario (1810-2010) — AA.VV. (Buenos Aires, Ministerio de Defensa, 2010) · Silvia Ratto, «La ocupación militar de la Pampa y la Patagonia de Rosas a Roca (1829-1878)»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-historia-de-la-argentina-1852-1890",
+          "name": "Historia de la Argentina, 1852-1890 — Hilda Sabato (Buenos Aires, Siglo XXI, 2012) · cap. 4 a 10",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-ternavasio-variaciones-de-la-republica",
+          "name": "Variaciones de la República. La política en la Argentina del Siglo XIX — Hilda Sabato y Marcela Ternavasio (coordinadoras) (Rosario, Prohistoria Ediciones, 2020)",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-belini-historia-de-la-industria-en-la-argentina",
+          "name": "Historia de la industria en la Argentina — Claudio Belini (Buenos Aires, Sudamericana, 2017) · Cap. 2 · el autor del asiento es el profesor titular que firma el programa",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bjerg-historias-de-la-inmigracion",
+          "name": "Historias de la inmigración en la Argentina — María Bjerg (Buenos Aires, Edhasa, 2009) · Cap. 1, 2 y 3",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bjerg-lazos-rotos",
+          "name": "Lazos rotos. La inmigración, el matrimonio y las emociones en la Argentina entre los siglos XIX y XX — «Bjerg María» [así impreso, sin coma] (Bernal, UNQ, 2019) · Introducción y capítulo 1",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gerchunoff-el-eslabon-perdido",
+          "name": "El eslabón perdido. La economía política de los gobiernos radicales, 1916-1930 — Pablo Gerchunoff (Buenos Aires, Edhasa, 2016) · Cap. 1 · el recorte del volumen (1916-1930) excede el período de la materia (1862-1916)",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lobato-historia-de-las-trabajadoras",
+          "name": "Historia de las trabajadoras en la Argentina, 1869-1960 — Mirta Lobato (Buenos Aires, Edhasa, 2007) · el asiento no indica capítulos y cierra con dos puntos seguidos («2007. .»)",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-academia-nacional-nueva-historia-de-la-nacion-argentina-vi",
+          "name": "Nueva Historia de la Nación Argentina, tomo VI — Academia Nacional de la Historia (Buenos Aires, Planeta, 2000) · Eduardo Míguez, «La gran expansión agraria (1880-1914)», cap. 37 (obligatoria U3); Juan Carlos Korol, «Industria (1850-1914)», cap. 39 (complementaria U3)",
+          "role": "obligatoria · U3 · + complementaria U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-dantonio-pita-nueva-historia-de-las-mujeres-vol-1",
+          "name": "Nueva Historia de las mujeres en la Argentina, Vol. 1 — Débora D’Antonio y Valeria Pita (Directoras) (Buenos Aires, Prometeo, 2023) · Silvana Palermo, «¿Mujeres fuera de lugar? La participación femenina en las huelgas ferroviarias de 1912 y 1917», pp. 246-260",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gil-lozano-historia-de-las-mujeres-tomo-ii",
+          "name": "Historia de las mujeres en la Argentina. Tomo II — Fernanda Gil Lozano «y otras» [así impreso] (Buenos Aires, Taurus, 2000) · Fernando Rocchi, «Concentración del capital, concentración de mujeres. Industria y trabajo femenino en Buenos Aires, 1890-1930.» (obligatoria U3); Marcela Nari, «Maternidad, política y feminismo.» (complementaria U4)",
+          "role": "obligatoria · U3 · + complementaria U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-sabato-jorge-la-clase-dominante-en-la-argentina-moderna",
+          "name": "La clase dominante en la Argentina moderna. Formación y características — Jorge F. Sabato (Buenos Aires, Imago Mundi, 1991) · el asiento no indica capítulos",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-belini-korol-historia-economica-siglos-xx-y-xxi",
+          "name": "Historia económica de la Argentina en los siglos XX y XXI — Claudio Belini y Juan Carlos Korol (Siglo XXI Editores, 2020; el asiento no consigna lugar) · Introducción y Capítulo 1",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-belini-las-crisis-economicas-y-la-industria-argentina",
+          "name": "Las crisis económicas y la industria argentina. De la crisis de 1890 al Rodrigazo — Claudio Belini (Compil.) (Buenos Aires, Teseo, 2024) · Claudio Belini, «Guerra, crisis y comportamiento industrial, 1913-1918», pp. 65-104",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bravo-campesinos-azucar-y-politica",
+          "name": "Campesinos, azúcar y política: cañeros, acción corporativa y vida política en Tucumán, 1895-1930 — María Celia Bravo (Rosario, Prohistoria, 2008) · Caps. 2, 4 y 5",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-diaz-alejandro-ensayos-sobre-la-historia-economica-argentina",
+          "name": "Ensayos sobre la historia económica argentina — Carlos Díaz Alejandro (Buenos Aires, Amorrortu, 1975) · Introducción, Cap. 1 y Cap. 4. Selección pp. 408-415",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-devoto-historia-de-la-inmigracion-en-la-argentina",
+          "name": "Historia de la inmigración en la Argentina — Fernando Devoto (Buenos Aires, Sudamericana, 2003) · cap. 6 y 7",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-falcon-la-barcelona-argentina",
+          "name": "La Barcelona Argentina, Rosario. Migrantes, obreros y militantes en Rosario — Ricardo Falcón (Rosario, Laborde, 2005) · Cap. 2 · «Rosario» aparece tres veces en el asiento tal como está impreso",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-devoto-miguez-asociacionismo-trabajo-e-identidad-etnica",
+          "name": "Asociacionismo, trabajo e identidad étnica — Fernando Devoto y Eduardo Míguez (comps.) (Buenos Aires, CEMLA/CSER/IEHS, 1992) · Romolo Gandolfo, «Las sociedades italianas de socorros mutuos de Buenos Aires: Cuestiones de clase y etnia dentro de una comunidad de inmigrantes (1880-1920) [comilla de cierre ausente en el original]»",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lobato-el-progreso-la-modernizacion-y-sus-limites",
+          "name": "El progreso, la modernización y sus límites — Mirta Zaida Lobato (dir.), Nueva Historia Argentina (Buenos Aires, Sudamericana, 2000) · el mismo volumen se imprime de cuatro maneras: «El progreso, la modernización y sus límites, Nueva Historia Argentina» (Lobato, U3 comp; Suriano, U4 comp), «El progreso, la modernización y sus límites (1880-1916)» (Alonso, U4 obl; Adelman, U4 comp) y «El progreso, la modernización y sus límites, Nueva Historia Argentina, Tomo V» (Terán, U4 obl), con la directora nombrada «Lobato, Mirta Zaida (dir.)» y una vez «Mirta Lobato (Directora)» · Mirta Zaida Lobato, «Los trabajadores en la era del ‘progreso’» (compl. U3); Paula Alonso, «La Unión Cívica Radical: fundación, oposición y triunfo» (1890-1916)» [así impreso, con dos comillas de cierre] y Oscar Terán, «El pensamiento finisecular, 1880-1916», pp- 327-364 [«pp-» así impreso] (oblig. U4); Jeremy Adelman, «El Partido Socialista Argentino» y Juan Suriano, «El anarquismo» (compl. U4)",
+          "role": "complementaria · U3 · + obligatoria U4 (dos asientos) · + complementaria U4 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-lobato-suriano-la-sociedad-del-trabajo",
+          "name": "La sociedad del trabajo. Las instituciones laborales en la Argentina, 1900-1955 — Mirta Lobato y Juan Suriano (Compil.) (Buenos Aires, Edhasa, 2014) · Lobato y Suriano, «Trabajo, cuestión social e intervención estatal», pp. 9-53",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-miguez-historia-economica-de-la-argentina",
+          "name": "Historia económica de la Argentina. De la conquista a la crisis de 1930 — Eduardo Míguez (Buenos Aires, 2008; el asiento no consigna editorial) · Cap. 4",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-schvarzer-regalsky-gomez-estudios-sobre-los-ferrocarriles-argentinos",
+          "name": "Estudios sobre la historia de los ferrocarriles argentinos, 1857-1940 — Jorge Schvarzer, Andrés Regalsky y Teresita Gómez (compil.) (Buenos Aires, CESPA, 2003) · Andrés Regalsky, «Antes de la Ley Mitre: competencia e intervención estatal en la región pampeana en los comienzos del siglo XX», pp. 123-151",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-zimmermann-los-liberales-reformistas",
+          "name": "Los liberales reformistas. La cuestión social en la Argentina, 1890-1916 — Eduardo Zimmermann (Buenos Aires, Sudamericana, 1995) · Cap. 8 y 9",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bertoni-patriotas-cosmopolitas-y-nacionalistas",
+          "name": "Patriotas, cosmopolitas y nacionalistas. La construcción de la nacionalidad argentina a fines del siglo XIX — Lilia Ana Bertoni (Buenos Aires, FCE, 2001) · cap. 6",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-malosetti-costa-los-primeros-modernos",
+          "name": "Los primeros modernos. Arte y sociedad en Buenos Aires a fines del siglo XIX — Laura Malosetti Costa (Buenos Aires, Fondo de Cultura Económica, 2003) · Cap. II «La hora de Blanes», Cap. VII «Buenos Aires - Chicago: La vuelta del malón»",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-zanetti-ruben-dario-en-la-nacion",
+          "name": "Rubén Darío en La Nación de Buenos Aires, 1892-1916 — Susana Zanetti (Coordinadora) (Buenos Aires, Eudeba, 2004) · Gabriela Moguillansky, «Modernización literatura y renovación técnica: La Nación, 1882-1909» [así impreso, sin coma entre «Modernización» y «literatura»]",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-prieto-el-discurso-criollista",
+          "name": "El discurso criollista en la formación de la Argentina Moderna — Adolfo Prieto (Sudamericana, Buenos Aires, 1988; el asiento invierte el orden de editorial y lugar) · cap. 1",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-rogers-caras-y-caretas",
+          "name": "Caras y Caretas: Cultura, política y espectáculo en los inicios del siglo XX argentino — «Rogers, Geraldine Caras y Caretas» [así impreso, sin coma entre el nombre y el título] (La Plata, EDULP, 2008) · Cap. 2 «El campo periodístico»",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-miguez-argentina-la-apertura-al-mundo",
+          "name": "Argentina. La apertura al mundo (1880-1930) — Eduardo Míguez (coord.) (Madrid, Taurus, 2011) · Sylvia Saítta, «La cultura»",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-suriano-anarquistas",
+          "name": "Anarquistas. Cultura y política libertaria en Buenos Aires, 1890-1910 — Juan Suriano (Buenos Aires, Manantial, 2001) · Cap. 4, 5 y 6",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-tato-la-trinchera-austral",
+          "name": "La trinchera austral. La sociedad argentina ante la Primera Guerra Mundial — María Inés Tato (Rosario, Prohistoria, 2017) · el asiento no indica capítulos",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-teran-historia-de-las-ideas-en-la-argentina",
+          "name": "Historia de las ideas en la Argentina. Diez lecciones iniciales, 1810-1980 — Oscar Terán (Buenos Aires, Siglo XXI, 2008) · Cap. 7",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-armus-la-ciudad-impura",
+          "name": "La ciudad impura. Salud, tuberculosis y cultura en Buenos Aires, 1870-1950 — Diego Armus (Buenos Aires, Edhasa, 2007) · cap. 3",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-barrancos-mujeres-en-la-sociedad-argentina",
+          "name": "Mujeres en la sociedad argentina. Una Historia de cinco siglos — Dora Barrancos (Buenos Aires, Sudamericana, 2007) · Cap. III «Transformaciones en la segunda mitad del siglo XIX» y cap. IV «Sociedad y Genero a principios del siglo XX. El despertar del feminismo.» [«Genero» sin acento, así impreso]",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-bertoni-de-privitellio-conflictos-en-democracia",
+          "name": "Conflictos en democracia. La vida política argentina entre dos siglos — Lilia Ana Bertoni y Luciano de Privitellio (comp.) (Buenos Aires, Siglo XXI, 2009) · Lilia Ana Bertoni, «¿Estado confesional o estado laico? La disputa entre librepensadores y católicos en el cambio del siglo XIX al XX»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-buonuome-un-diario-para-el-pueblo",
+          "name": "Un diario para el pueblo. Periodismo de izquierda en la historia argentina — Juan Buonuome (Buenos Aires, Siglo XXI, Buenos Aires, 2025; «Buenos Aires» impreso dos veces en el asiento) · Cap. 1, 2 y 3 · asentado fuera del orden alfabético, antes de Botana",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-nun-debates-de-mayo",
+          "name": "Debates de Mayo. Nación, cultura y política — José Nun (comp.) (Buenos Aires, Gedisa, 2005) · Natalio Botana, «El arco republicano del Primero Centenario: regeneracionistas y reformistas, 1910-1930» [«Primero» así impreso]",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-botana-gallo-de-la-republica-posible-a-la-republica-verdadera",
+          "name": "De la República Posible a la República Verdadera, 1880-1910 — Natalio Botana y Ezequiel Gallo (Buenos Aires, Ariel, 1997) · Selección de apartados. Parte III «El reformismo de comienzos del siglo XX», pp. 79-123",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-fiquepron-morir-en-las-grandes-pestes",
+          "name": "Morir en las grandes pestes. Las epidemias de cólera y fiebre amarilla en la Buenos Aires del siglo XIX — Maximiliano Ricardo Fiquepron (Buenos Aires, Siglo XXI Editores, 2020)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gallo-la-republica-en-ciernes",
+          "name": "La República en ciernes. Surgimiento de la vida política y social pampeana, 1850-1930 — Ezequiel Gallo (Buenos Aires, Siglo XXI, 2013) · «Un quinquenio difícil: las presidencias de Carlos Pellegrini y Luis Sáenz Peña (1890-1895)»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gerchunoff-la-imposible-republica-verdadera",
+          "name": "La imposible república verdadera. Argentina, 1903-1930 — «Guerchunoff, Pablo» [así impreso; en la U1 y la U3 el mismo apellido se imprime «Gerchunoff»] (Buenos Aires, Edhasa, 2025) · asentado fuera del orden alfabético, antes de Gorelik",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-gorelik-la-grilla-y-el-parque",
+          "name": "La grilla y el parque. Espacio público y cultura urbana en Buenos Aires, 1887-1936 — Adrián Gorelik (Buenos Aires, Universidad Nacional de Quilmes, 1998) · II Parte, cap. 2 «La ciudad y la historia: primer cumpleaños»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-halperin-donghi-el-espejo-de-la-historia",
+          "name": "El espejo de la historia — Tulio Halperin Donghi (Buenos Aires, Sudamericana, 1987) · «¿Para qué la inmigración? Ideología y política inmigratoria en la Argentina (1810-1914)»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-halperin-donghi-vida-y-muerte-de-la-republica-verdadera",
+          "name": "Vida y muerte de la República Verdadera (1910-1930) — «Halperín Donghi, Tulio» [acentuado aquí y sin acento en los otros dos asientos del mismo autor] (Buenos Aires, Ariel; el asiento se corta tras la editorial y NO consigna año)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-laera-el-tiempo-vacio-de-la-ficcion",
+          "name": "El tiempo vacío de la ficción. Las novelas argentinas de Eduardo Gutiérrez y Eugenio Cambaceres — Alejandra Laera (Buenos Aires, FCE, 2004) · «Novelistas del ochenta: el profesional y el amateur»",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-persello-historia-del-radicalismo",
+          "name": "Historia del Radicalismo — Ana Virginia Persello (Buenos Aires, Edhasa, 2007) · el asiento no indica capítulos",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-ramos-desencuentros-de-la-modernidad",
+          "name": "Desencuentros de la modernidad. Literatura y política en el siglo XIX — Julio Ramos (México, FCE, 1989) · Cap. 4",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-2.libro-roman-prensa-politica-y-cultura-visual",
+          "name": "Prensa, política y cultura visual: El Mosquito (1863-1893) — Claudia Román (Buenos Aires, Ampersand, 2017)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA II (1862-1916) “A”, cód. 0430 / 14017, Prof. Titular Claudio Belini, 2º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0430%20-%2014017%5D%20-%20HISTORIA%20ARGENTINA%20II%20%281862-1916%29%20-%20A%20-%20BELINI%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA II (1862-1916) “A”, cód. 0430 / 14017, PROFESOR TITULAR: BELINI, CLAUDIO, 2º cuatrimestre 2026 (15 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-argentina2-belini-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0430%20-%2014017%5D%20-%20HISTORIA%20ARGENTINA%20II%20%281862-1916%29%20-%20A%20-%20BELINI%20-%202C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA II (1862-1916) “B”, PROFESOR: LETTIERI, ALBERTO, CÓDIGO Nº: 0430/14017, RÉGIMEN DE PROMOCIÓN: PD, CUATRIMESTRE: 1°, AÑO: 2026, 15 pp. — la cátedra alternativa, NO dibujada: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados. El listado de cátedras del sitio del departamento consigna para la «B» a CUESTA, Eduardo Martín; esa divergencia queda registrada y atribuida a cada fuente, sin resolver",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0430_14017%20-%20HISTORIA%20ARGENTINA%20II%20%281862-1916%29%20-%20B%20-%20LETTIERI%20-%201C%202026.pdf"
+    }
+  ]
+}

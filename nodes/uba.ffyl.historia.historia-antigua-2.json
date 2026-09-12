@@ -1,0 +1,640 @@
+{
+  "address": "uba.ffyl.historia.historia-antigua-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial (o sus recuperatorios) con mínimo de 4 puntos cada una, 75% de asistencia a trabajos prácticos, 1 recuperatorio, examen final con mínimo de 4 puntos",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; el apartado d. reproduce la pauta: «Materia Cuatrimestral: La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1°",
+    "año": 2026,
+    "codigo": "0412/14009 (así impreso, «CÓDIGO Nº: 0412/14009», sin espacios alrededor de la barra; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA ANTIGUA II (CLÁSICA)»",
+    "catedra": "el programa NO se designa con letra ni con nombre de cátedra. La palabra «cátedra» aparece exactamente UNA vez en todo el PDF, y no designa a esta: está dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». La materia publica DOS programas para 2026 —éste, de 1º cuatrimestre, y otro de 2º cuatrimestre—, y los dos llevan a Julián Gallego: es una sola cátedra, sin letra",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "GALLEGO, JULIÁN (portada: «PROFESOR: JULIÁN GALLEGO»; firma al pie: «Dr. Julián Gallego / Profesor Titular Regular». NO figura en el bloque de encabezado interno ni bajo el rótulo EQUIPO DOCENTE)",
+      "NOCE, ESTEBAN (portada: «PROFESOR: ESTEBAN NOCE»; encabezado interno: «PROFESOR ADJUNTO: DR. ESTEBAN NOCE»)",
+      "PAIARO, DIEGO (JEFE DE TRABAJOS PRÁCTICOS · DR.)",
+      "PIANTANIDA, FERNANDO (AYUDANTE DE TRABAJOS PRÁCTICOS · DR.)",
+      "REQUENA, MARIANO (AYUDANTE DE TRABAJOS PRÁCTICOS · DR.)",
+      "PERELMAN, MARCELO (AYUDANTE DE TRABAJOS PRÁCTICOS · DR.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "materia específica obligatoria del Ciclo de Grado (una de las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "partes": 2,
+    "unidades": 10,
+    "bibliografia": 53,
+    "referenciasDocumentales": 23
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-antigua-2",
+      "label": "Historia Antigua II (Clásica)"
+    }
+  ],
+  "eyebrow": "Historia · Historia Antigua II (Clásica) · Gallego; Noce · 1º cuatrim. 2026",
+  "title": "La ciudad es el estado, y el ciudadano es campesino.",
+  "lede": "Diez unidades en dos partes simétricas —cinco para Grecia, cinco para Roma— montadas sobre los dos ejes que el programa declara: la política dentro de «un modelo peculiar de comunidad que es a la vez una ciudad y un estado», y las condiciones de la producción agraria en una articulación entre campo y ciudad donde quienes votan en la asamblea son a la vez habitantes rurales y propietarios de la tierra. Cada parte repite el mismo compás: primero los lineamientos generales y la periodización, después la política, después el mundo rural, después los problemas teóricos y metodológicos. Del lado griego se va del palacio micénico y la Edad Oscura al sinecismo y la colonización, al «nacimiento» de la política y la pólis de los agricultores-soldados, al hilotismo y la granja campesina, al estado segmentario frente al jerárquico, y a las póleis dependientes: el imperio ateniense, los periecos lacedemonios, los reyes helenísticos. Del lado romano, del Lacio arcaico y la urbs al patriciado y la plebe, el nexum y los comitia, las reformas gracanas y la «crisis» de la República, la sociedad esclavista y el campesinado dependiente, la villa de los agrónomos latinos, el colonato, las curias, y la pregunta de si Roma fue una democracia y si el Imperio tuvo burocracia. La décima unidad cambia de registro: de la religión cívica romana a Judea, el «Jesús histórico», los «cristianismos» de los siglos I y II, las persecuciones, Constantino y Nicea, y el obispo como constructor de poder. Al final, una lista de veintitrés ediciones de fuentes antiguas —Homero, Heródoto, Tucídides, Aristóteles, Polibio, Tito Livio, Eusebio— que la cátedra sugiere «a título orientativo» para el análisis de fuentes en clase.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "2 partes"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "única cátedra"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA ANTIGUA II (CLÁSICA), Departamento de Historia (FFyL-UBA), cód. 0412/14009, Profs. Julián Gallego y Esteban Noce, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (10 páginas, con capa de texto, extraído entero: extract/out/historia-antigua2-gallego-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SIN SELECCIÓN DE CÁTEDRA, PERO DOS PROGRAMAS: esta materia publica DOS programas para 2026, uno por cuatrimestre, y los dos son de la misma y única cátedra —la de Julián Gallego—, de modo que no hay cátedra alternativa que excluir y el documento no se designa a sí mismo con letra ni con nombre de cátedra. Se dibuja el de 1º cuatrimestre. Del otro se verificaron directamente y solo estos campos de portada: «PROFESOR: JULIÁN GALLEGO», «CUATRIMESTRE: 2°», «AÑO: 2026», 12 páginas, y un EQUIPO DOCENTE distinto del de este programa —los JTP Laham Cohen y Piantanida y los ayudantes Amor y Saade—; de su cuerpo no se extrae ni se le atribuye nada acá. La palabra «cátedra» aparece exactamente una vez en todo el PDF y no designa a esta: está dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». DATO CRUZADO: la ubicación de la materia —una de las doce Materias Específicas Obligatorias del Ciclo de Grado del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. CONTRADICCIÓN INTERNA, REGISTRADA Y NO RESUELTA: la portada consigna dos líneas con el mismo rótulo, «PROFESOR: JULIÁN GALLEGO» y «PROFESOR: ESTEBAN NOCE», sin distinguir jerarquías; el encabezado interno de la página siguiente nombra a uno solo, «PROFESOR ADJUNTO: DR. ESTEBAN NOCE», y a continuación abre el rótulo «EQUIPO DOCENTE» con el JTP y los tres ayudantes — Gallego no figura ni en ese encabezado ni en el equipo docente. Gallego reaparece únicamente en la firma al pie, «Dr. Julián Gallego / Profesor Titular Regular». Es decir: el documento lo llama «PROFESOR» en la portada, no lo lista en el cuerpo, y lo firma como Profesor Titular Regular. Las tres cosas se registran como están. SEGUNDA CONTRADICCIÓN, REGISTRADA: el apartado e. declara un único régimen de promoción, EF (EXAMEN FINAL), y sin embargo más abajo abre un bloque titulado «Para ambos regímenes:» — el formulario arrastra la fórmula de dos regímenes aunque este programa solo tiene uno. No se corrige. ESTRUCTURA: el apartado c. se titula «Contenidos y bibliografía» y trae DOS partes numeradas —«PARTE 1. Política y economía en el mundo griego» (Unidades 1 a 5) y «PARTE 2. Política y economía en el mundo romano» (Unidades 6 a 10)— con DIEZ unidades numeradas en arábigos. Las diez se dibujan, con su parte anotada. Cada unidad trae un bloque CONTENIDOS y un bloque BIBLIOGRAFÍA OBLIGATORIA; no hay un apartado de bibliografía separado. Se registra sin interpretar que la Unidad 10, «De la religión ciudadana al ecumenismo cristiano», está impresa bajo el encabezado «PARTE 2. Política y economía en el mundo romano» aunque sus contenidos son religiosos y eclesiásticos. El apartado b. Objetivos imprime cuatro objetivos en viñetas; no se dibujan como grupo. FORMULARIO vs. CONTENIDO: las diez unidades traen únicamente «BIBLIOGRAFÍA OBLIGATORIA.», diez veces. NO hay bibliografía complementaria en ninguna unidad — la cadena «complementaria» aparece una sola vez en todo el PDF y es otra cosa: «pautas complementarias para el dictado de las asignaturas de grado» del REDEC. No hay filmografía ni discografía (ninguna de las dos cadenas aparece). Se declara la falta en lugar de completarla. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: la bibliografía obligatoria tiene 53 asientos (U1: 1 · U2: 6 · U3: 4 · U4: 5 · U5: 5 · U6: 1 · U7: 8 · U8: 5 · U9: 11 · U10: 7). Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo—. NO se dibujan los 2 asientos cuyo contenedor es una revista: PAIARO, D., «La pólis, el estado y los ciudadanos de la democracia ateniense como una comunidad indivisa», Mare Nostrum: Estudos sobre o Mediterrâneo Antigo, Vol. 9, N° 2 (2018), pp. 1-39 (U4); y JORDÁN MONTES, J.F., «Las curias en el reinado de Honorio (395-423 d.C.). Tradición y mutación», Antigüedad y cristianismo, Vol. 14 (1997), pp. 97-133 (U9). Quedan 51 asientos con volumen, que al unificar los repetidos dan 42 libros, y 42 son los que se dibujan. Los seis volúmenes que reaparecen son: El mundo rural en la Grecia antigua, J. Gallego (ed.), que sostiene CINCO asientos distintos (Jameson y Osborne en U3, Hanson y Gallant en U4, Garnsey en U8) y se dibuja una sola vez; La pólis griega de Gallego (U2 y U4); El campesinado en la Grecia antigua de Gallego (U3 y U4); Los orígenes de Roma de Cornell (U7 y U9); El Imperio romano de Garnsey y Saller (U7 y U9); e Historia del cristianismo, I. El mundo antiguo de Sotomayor y Fernández Ubiña (eds.), que sostiene dos asientos dentro de la misma U10 (Estrada y Fernández Ubiña). Cada uno se dibuja una sola vez, con los capítulos de todas sus unidades anotados en el nombre. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial del programa queda fuera. CONSECUENCIA REGISTRADA: la Unidad 4 no aporta NINGÚN libro nuevo —sus cinco asientos son dos repeticiones de Gallego, dos capítulos de El mundo rural ya dibujado y el artículo de revista de Paiaro—; volúmenes nuevos por unidad: U1: 1 · U2: 6 · U3: 3 · U4: 0 · U5: 5 · U6: 1 · U7: 8 · U8: 4 · U9: 8 · U10: 6 = 42. Ningún asiento se descartó por ilegible. REFERENCIAS DOCUMENTALES, dibujadas aparte: el apartado c. cierra con un bloque rotulado «REFERENCIAS DOCUMENTALES» de 23 ediciones de fuentes antiguas, con esta salvedad impresa: «(Se sugieren determinadas ediciones a título orientativo, pero pueden usarse otras. Durante el dictado de la asignatura, tanto en las clases teóricas como en las clases teórico-prácticas y en las clases prácticas se implementarán análisis de fuentes previamente seleccionadas en función de los objetivos específicos de cada clase)». Las 23 se dibujan en su propio grupo, y se dibujan como lo que son: ediciones sugeridas, no obligatorias, y no asignadas a ninguna unidad — el bloque va suelto, sin adscripción a unidad alguna. Cuatro de esas entradas declaran número de volúmenes (Heródoto 2 vols., Libanio 3 vols., Plutarco 6 vols., Tito Livio 8 vols.) y una declara un rango de años de edición (Plutarco, «Madrid, Gredos, 1985-2007»). EL AUTOR EN SU PROPIO PROGRAMA, contado: J. Gallego —el firmante como Profesor Titular Regular— figura como autor o como editor en 13 de los 53 asientos: autor en 7 (La pólis griega en U2 y U4; El campesinado en la Grecia antigua en U3 y U4; La anarquía de la democracia, «Las estructuras de un imperio» y Campesinos en la ciudad en U5) y editor o coeditor en 6 (los cinco asientos de El mundo rural en la Grecia antigua y La ciudad en el Mediterráneo Antiguo en U8). D. Paiaro, JTP del equipo, firma el artículo de Mare Nostrum de U4 — el único asiento de un integrante del equipo que queda fuera del dibujo, por ser de revista. Se cuenta, no se comenta. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, título propio del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0412/14009» sin explicar el par—. El formulario llega solo hasta el apartado e.: hay a. Fundamentación y descripción, b. Objetivos, c. Contenidos y bibliografía, d. Organización del dictado de la materia y e. Organización de la evaluación, y no hay apartado f. ni posteriores. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). VÍNCULOS QUE EL PROGRAMA DECLARA Y NO SE DIBUJAN: la fundamentación nombra otras dos asignaturas de la carrera —«la Historia del Antiguo Oriente» y «Historia Medieval»— como campos de comparación; no se trazan aristas hacia ellas desde este nodo. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el año de Murray sale «Madrid, Taurus, 19832» —el 2 es un exponente de edición que la extracción aplana contra el año, y así queda—; el apartado e. abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»; el coautor de Garnsey se imprime «SALLER, P.» en las dos apariciones del volumen; el mismo asiento de Garnsey y Saller lleva coma antes del pie editorial en U7 («…sociedad y cultura, Barcelona, Crítica, 1991») y punto en U9 («…sociedad y cultura. Barcelona, Crítica, 1991»); el asiento de Zetzel atribuye el volumen a «C. Martindale (eds.)», en plural, para un solo editor; el de Fernández Ubiña imprime una coma suelta antes del paréntesis, «C. Estepa, D. Plácido y J. Trías, (eds.)»; dos asientos rompen la puntuación de autor del resto —«BERMEJO RUBIO, F., La invención de Jesús de Nazaret…» con coma en lugar de dos puntos, y «GALLEGO, J. La anarquía de la democracia…» sin signo alguno—; el rótulo de la Unidad 5 se imprime «CONTENIDOS» sin punto final, mientras las otras nueve imprimen «CONTENIDOS.»; y el programa alterna comillas tipográficas dobles para títulos de capítulo con comillas angulares dentro de citas anidadas («la teoría de la «revolución hoplita»» dentro de un título ya entrecomillado, en Echeverría Rey). Ninguna se corrige. RANGOS DE PÁGINA QUE NO CUADRAN CON LOS CAPÍTULOS NOMBRADOS, registrado sin resolver: diez asientos declaran más de un rango de página y un número de secciones nombradas distinto del de rangos, sin explicar la diferencia — Echeverría Rey (2 rangos, 3 secciones), Cornell U7 (4 rangos, 2 capítulos), Cornell U9 (2 rangos, 1 capítulo), Duplá (2 rangos, 3 capítulos), Finley U7 (2 rangos, 1 capítulo), Plácido La sociedad ateniense (2 rangos, 1 capítulo), Fraschetti (2 rangos, 5 secciones), Piñero (3 rangos, 5 secciones), Wickham (4 rangos, 2 capítulos) y Gallego, La pólis griega, en la U4 («pp. 11-114, 177-266», 2 rangos, 4 secciones: Introducción, Parte I, Parte III y Conclusiones). Se transcriben tal como están. ASIGNACIONES SIN SELECCIÓN: tres asientos se asignan enteros, declarando solo el total de páginas y ningún capítulo — Pomeroy et al. («554 págs.», U1), Bravo, Historia de la Roma Antigua («230 págs.», U6) y Bravo, El colonato bajoimperial («54 págs.», U9). TRADUCCIONES: los dos únicos asientos con título en inglés llevan la marca «(traducción)» —Garnsey, «Peasants in Ancient Roman Society» (U8) y Zetzel, «Rome and its traditions» (U9)— y en ninguno de los dos casos el programa nombra al traductor ni dice que la traducción sea de la cátedra. El asiento de Gallego en U5 está alojado en un volumen de título portugués (Impérios, imperadores e redes de sociabilidade na Antiguidade, Curitiba, Editora CRV, 2023) y el artículo excluido de Paiaro en una revista de título portugués (Mare Nostrum: Estudos sobre o Mediterrâneo Antigo). ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE1») y el texto de esa nota se intercala partiendo en dos una oración de la fundamentación («…formas de pensar problemáticas afines» + la nota + «desplegadas en otras asignaturas»); los saltos de página dejan encabezados pegados al asiento anterior («● BRAVO, G.: Historia de la Roma Antigua, Madrid, Alianza, 1998, 230 págs.» y «Unidad 7.» sin línea en blanco); y varios títulos largos quedan cortados por el salto de línea («…pp. 222-» + «268» en Hanson). Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 10 unidades en 2 partes (Gallego; Noce, 1º cuatrim. 2026)",
+      "title": "Grecia y Roma, con el mismo compás",
+      "note": "Las diez unidades numeradas del apartado c. Contenidos y bibliografía, en el orden impreso, con la parte a la que el programa las adscribe. Cada parte repite la misma secuencia: lineamientos generales, política, mundo rural, problemas teóricos y metodológicos. La Unidad 5 y la Unidad 10 rompen la simetría: la quinta agrega las póleis dependientes, la décima el paso de la religión cívica al cristianismo imperial.",
+      "map": {
+        "mk": "El programa, en dos partes y diez unidades",
+        "tree": "HISTORIA ANTIGUA II (CLÁSICA) · cód. 0412/14009\nGallego; Noce · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ PARTE 1 · Política y economía en el mundo griego\n│  ├─ 1 · Lineamientos generales para el mundo griego\n│  │      Edad del Bronce · la «Edad Oscura» · Era Arcaica\n│  │      la pólis clásica · el avance macedónico · el mundo helenístico\n│  ├─ 2 · La política en el mundo griego\n│  │      organizaciones palatinas · comunidades aldeanas y liderato\n│  │      sinecismo y colonización · el «nacimiento» de la política\n│  │      el ciudadano, campesino y soldado · Esparta y Atenas\n│  ├─ 3 · El mundo rural en la Grecia antigua\n│  │      hilotismo y mano de obra servil · la granja campesina\n│  │      esclavitud agrícola y haciendas terratenientes\n│  │      autarquía, esclavitud y comercio\n│  ├─ 4 · Problemas teóricos y metodológicos de la Historia de Grecia\n│  │      estado segmentario vs. jerárquico · pólis y ciudad-estado\n│  │      timocracias y posesión de tierras · la «pólis normal»\n│  │      ciclo de vida del hogar rural · patrones de asentamiento\n│  └─ 5 · Las póleis: entre estados autónomos y dependientes\n│         la democracia ateniense: soberanía y dominación\n│         la anarquía según Platón · la Liga de Delos\n│         los periecos lacedemonios · monarcas y póleis helenísticas\n│\n└─ PARTE 2 · Política y economía en el mundo romano\n   ├─ 6 · Lineamientos generales para el mundo romano\n   │      el Lacio arcaico · monarquía · República aristocrática\n   │      Principado · crisis del siglo III · Tetrarquía y Dominado\n   ├─ 7 · La política en el mundo romano\n   │      urbs y civitas · patriciado, plebe y control del estado\n   │      el nexum · los comitia · la clientela · reformas gracanas\n   │      ¿Roma una democracia? · ¿una burocracia? · Diocleciano\n   ├─ 8 · El mundo rural en la Roma antigua\n   │      sociedad con esclavos vs. sociedad esclavista\n   │      el concepto de clase para los esclavos antiguos\n   │      colonias romanas · ¿los terratenientes, una clase empresarial?\n   ├─ 9 · Problemas teóricos y metodológicos de la Historia de Roma\n   │      el período orientalizante · la aristocracia etrusca\n   │      patriciado, nobilitas, autocracia, dominado · curiales\n   │      la villa esclavista de los agrónomos latinos · el colonato\n   └─ 10 · De la religión ciudadana al ecumenismo cristiano\n          religión cívica romana · Judea · el «Jesús histórico»\n          «ortodoxia» y «herejía» · persecuciones · Constantino\n          Nicea · edicto de Tesalónica · los obispos y su poder",
+        "foot": "Un solo programa publicado para 2026: el documento no se designa con letra de cátedra. La décima unidad va impresa bajo «PARTE 2. Política y economía en el mundo romano» aunque sus contenidos son religiosos; se registra tal como está."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u1-lineamientos-generales-para-el-mundo-griego",
+          "name": "Lineamientos generales para el mundo griego: marco espacio-temporal, núcleos temáticos y periodizaciones",
+          "role": "Unidad 1 · Parte 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u2-la-politica-en-el-mundo-griego",
+          "name": "La política en el mundo griego",
+          "role": "Unidad 2 · Parte 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u3-el-mundo-rural-en-la-grecia-antigua",
+          "name": "El mundo rural en la Grecia antigua",
+          "role": "Unidad 3 · Parte 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u4-problemas-teoricos-y-metodologicos-de-la-historia-de-grecia",
+          "name": "Algunos problemas teóricos y metodológicos de la Historia de Grecia",
+          "role": "Unidad 4 · Parte 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u5-las-poleis-griegas-entre-estados-autonomos-y-estados-dependientes",
+          "name": "Las póleis griegas: entre estados autónomos y estados dependientes",
+          "role": "Unidad 5 · Parte 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u6-lineamientos-generales-para-el-mundo-romano",
+          "name": "Lineamientos generales para el mundo romano: marco espacio-temporal, núcleos temáticos y periodizaciones",
+          "role": "Unidad 6 · Parte 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u7-la-politica-en-el-mundo-romano",
+          "name": "La política en el mundo romano",
+          "role": "Unidad 7 · Parte 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u8-el-mundo-rural-en-la-roma-antigua",
+          "name": "El mundo rural en la Roma antigua",
+          "role": "Unidad 8 · Parte 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u9-problemas-teoricos-y-metodologicos-de-la-historia-de-roma",
+          "name": "Algunos problemas teóricos y metodológicos de la Historia de Roma",
+          "role": "Unidad 9 · Parte 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.u10-de-la-religion-ciudadana-al-ecumenismo-cristiano",
+          "name": "De la religión ciudadana al ecumenismo cristiano",
+          "role": "Unidad 10 · Parte 2",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 42 volúmenes con pie editorial de los 53 asientos de bibliografía obligatoria, en el orden de la unidad donde aparecen por primera vez. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece se unifica en un solo nodo (El mundo rural en la Grecia antigua, con cinco asientos; La pólis griega; El campesinado en la Grecia antigua; Los orígenes de Roma; El Imperio romano; Historia del cristianismo, I). No se dibujan los 2 asientos de revista —Paiaro en Mare Nostrum (U4) y Jordán Montes en Antigüedad y cristianismo (U9)—: quedan declarados en el frame. El programa no trae bibliografía complementaria en ninguna unidad. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-pomeroy-burstein-donlan-roberts-la-antigua-grecia",
+          "name": "La antigua Grecia. Historia política, social y cultural — S.B. Pomeroy, S.M. Burstein, W. Donlan y J.T. Roberts (Barcelona, Crítica, 2001) · asignado entero: «554 págs.», sin selección de capítulos",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-murray-grecia-arcaica",
+          "name": "Grecia Arcaica — O. Murray (Madrid, Taurus, «19832» [así impreso: exponente de edición aplanado contra el año]) · pp. 37-67 (Cap. 3: «El fin de la Edad Oscura: la aristocracia»; Cap. 4: «El fin de la Edad Oscura: la comunidad»)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-dominguez-monedero-la-polis-y-la-expansion-colonial-griega",
+          "name": "La pólis y la expansión colonial griega. Siglos VIII-VI — A. Domínguez Monedero (Madrid, Síntesis, 1995) · pp. 61-185 (Cap. 3: «La configuración de la pólis»; Cap. 4: «La colonización griega»; Cap. 5: «El siglo VII en Grecia»)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-la-polis-griega",
+          "name": "La pólis griega. Orígenes, estructuras, enfoques — J. Gallego (Buenos Aires, Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2017) · pp. 115-175, Parte II: «La aldea en el surgimiento de la pólis» (U2); pp. 11-114, 177-266, Introducción, Parte I: «La ciudad antigua y la pólis griega», Parte III: «La invención de la política y la democracia» y Conclusiones (U4)",
+          "role": "obligatoria · U2 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-echeverria-rey-ciudadanos-campesinos-y-soldados",
+          "name": "Ciudadanos, campesinos y soldados. El nacimiento de la pólis griega y la teoría de la «revolución hoplita» — F. Echeverría Rey (Madrid, Polifemo, 2008) · pp. 25-28, 249-287 (Introducción: «La teoría de la «revolución hoplita» como objeto de investigación»; Cap. 6: «Soldados y ciudadanos. La guerra griega y la política de la ciudad-estado»; Conclusión: «Guerra, sociedad y política en la Grecia arcaica. De la «revolución hoplita» a la «evolución de la ciudadanía»»)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-osborne-ed-la-grecia-clasica",
+          "name": "La Grecia clásica, 500-323 a.C. — R. Osborne (ed.) (Barcelona, Crítica, 2002) · R. Thomas, «La ciudad clásica», pp. 62-94",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-placido-la-crisis-de-la-ciudad-clasica",
+          "name": "La crisis de la ciudad clásica y el nacimiento del mundo helenístico — D. Plácido (Buenos Aires, Miño y Dávila, 2017) · pp. 15-101 (Cap. 1: «Características generales de la ciudad estado en época clásica»)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-ed-el-mundo-rural-en-la-grecia-antigua",
+          "name": "El mundo rural en la Grecia antigua — J. Gallego (ed.) (Madrid, Akal, 2003) · sostiene cinco asientos del programa: M.H. Jameson, «El trabajo agrícola en la Grecia antigua», pp. 43-70, y R. Osborne, «Orgullo y prejuicio, sensatez y subsistencia. Intercambio y sociedad en la ciudad griega», pp. 185-209 (U3); V.D. Hanson, «Antes de la democracia. El igualitarismo agrícola y la ideología subyacente tras el gobierno constitucional griego», pp. 222-268, y T.W. Gallant, «Los hogares antiguos y su ciclo de vida», pp. 103-133 (U4); P. Garnsey, «El campesinado: subsistencia y supervivencia», pp. 71-102 (U8)",
+          "role": "obligatoria · U3, U4 y U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-el-campesinado-en-la-grecia-antigua",
+          "name": "El campesinado en la Grecia antigua. Una historia de la igualdad — J. Gallego (Buenos Aires, Editorial Universitaria de Buenos Aires, 2009) · pp. 180-230, «4: La economía agrícola familiar» (U3); pp. 141-179, Cap. 3: «Las prácticas agrarias» (U4)",
+          "role": "obligatoria · U3 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-placido-la-sociedad-ateniense",
+          "name": "La sociedad ateniense. La evolución social en Atenas durante la guerra del Peloponeso — D. Plácido (Barcelona, Crítica, 1997) · pp. 144-157, 314-316 (Cap. 8: «El campesinado, la propiedad y el trabajo agrícola»)",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-la-anarquia-de-la-democracia",
+          "name": "La anarquía de la democracia. Asamblea ateniense y subjetivación del pueblo — J. Gallego [así impreso, «GALLEGO, J.» sin dos puntos] (Buenos Aires, Miño y Dávila, 2018) · pp. 11-70 (Introducción: «Democracia y anarquía»; Parte I: «El problema: dêmos, krátos y arkhé»)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-will-el-mundo-griego-y-el-oriente-i",
+          "name": "El mundo griego y el Oriente, I. El siglo V (510-403) — E. Will (Madrid, Akal, 1997) · pp. 157-198 (Cap. 2: «El imperio ateniense»)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-de-carvalho-moreno-leoni-frazao-jose-imperios-imperadores",
+          "name": "Impérios, imperadores e redes de sociabilidade na Antiguidade — M.M. de Carvalho, Á. Moreno Leoni y N. Frazão José (eds.) (Curitiba, Editora CRV, 2023) · J. Gallego, «Las estructuras de un imperio. Atenas y sus ciudades dependientes», pp. 63-90",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-campesinos-en-la-ciudad",
+          "name": "Campesinos en la ciudad. Bases agrarias de la pólis griega y la infantería hoplita — J. Gallego (Buenos Aires, Del Signo/Universidad de Buenos Aires, 2005) · pp. 31-88 (Cap. 2: «Períoikoi lacedemonios: ¿ciudadanos pasivos?»)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-shipley-el-mundo-griego-despues-de-alejandro",
+          "name": "El mundo griego después de Alejandro, 323-30 a.C. — G. Shipley (Barcelona, Crítica, 2001) · pp. 85-132 (Cap. 3: «Los reyes y las ciudades»)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-bravo-historia-de-la-roma-antigua",
+          "name": "Historia de la Roma Antigua — G. Bravo (Madrid, Alianza, 1998) · asignado entero: «230 págs.», sin selección de capítulos",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-cornell-los-origenes-de-roma",
+          "name": "Los orígenes de Roma, c. 1000-264 a.C. Italia y Roma de la Edad del Bronce a las guerras púnicas — T.J. Cornell (Barcelona, Crítica, 1999) · pp. 108-148, 209-236, 471-477, 486-490, Cap. 4: «El nacimiento de la ciudad-estado» y Cap. 7: «Las reformas de Servio Tulio» (U7); pp. 149-183, 477-482, Cap. 5: «La historia tradicional: reyes, reinas, acontecimientos y fechas» (U9)",
+          "role": "obligatoria · U7 y U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-dupla-la-republica-romana-arcaica",
+          "name": "La República romana arcaica (509-264 a.C.) — A. Duplá (Madrid, Síntesis, 2003) · pp. 61-98, 117-137 (Cap. 4: «Patricios y plebeyos en el siglo V»; Cap. 5: «Las leyes de las XII Tablas»; Cap. 7: «El triunfo de la plebe»)",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-finley-la-grecia-antigua-economia-y-sociedad",
+          "name": "La Grecia antigua. Economía y sociedad — M.I. Finley (Barcelona, Crítica, 1984) · «La esclavitud por deudas y el problema de la esclavitud», pp. 169-188, 293-299",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-brunt-conflictos-sociales-en-la-republica-romana",
+          "name": "Conflictos sociales en la República romana — P. Brunt (Buenos Aires, Editorial Universitaria de Buenos Aires, 1973) · pp. 93-111 (Cap. 4: «La era de la quietud, 287-134»)",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-crawford-la-republica-romana",
+          "name": "La República romana — M. Crawford (Madrid, Taurus, 1982) · pp. 109-152 (Cap. 10: «Reforma y revolución»; Cap. 11: «Roma e Italia»; Cap. 12: «El final del consenso»; Cap. 13: «El mundo al revés»)",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-garnsey-saller-el-imperio-romano",
+          "name": "El Imperio romano. Economía, sociedad y cultura — P. Garnsey y P. Saller [así impreso, «SALLER, P.»] (Barcelona, Crítica, 1991) · pp. 32-54, Cap. 2: «Gobierno sin burocracia» (U7); pp. 57-126, Cap. 3: «Una economía subdesarrollada», Cap. 4: «La tierra» y Cap. 5: «El abastecimiento del Imperio Romano» (U9)",
+          "role": "obligatoria · U7 y U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-lopez-barja-lomas-salmonte-historia-de-roma",
+          "name": "Historia de Roma — P. López Barja de Quiroga y F.J. Lomas Salmonte (Madrid, Akal, 2004) · P. López Barja de Quiroga, «Vendedores de humo: la monarquía imperial», pp. 275-306",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-remondon-la-crisis-del-imperio-romano",
+          "name": "La crisis del Imperio romano. De Marco Aurelio a Anastasio — R. Remondon (Barcelona, Labor, 1967) · pp. 43-57 (Cap. 4: «Restablecimiento y transformación del Imperio (284-305)»)",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-finley-esclavitud-antigua-e-ideologia-moderna",
+          "name": "Esclavitud antigua e ideología moderna — M.I. Finley (Barcelona, Crítica, 1982) · pp. 84-118, 160-194 (Cap. 2: «Aparición de una sociedad esclavista»; Cap. 4: «La decadencia de la esclavitud»)",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-bradley-esclavitud-y-sociedad-en-roma",
+          "name": "Esclavitud y sociedad en Roma — K. Bradley (Barcelona, Península, 1994) · pp. 23-46, 77-104 (Cap. 2: «La sociedad esclavista romana»; Cap. 4: «El trabajo de los esclavos»)",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gallego-garcia-mac-gaw-la-ciudad-en-el-mediterraneo-antiguo",
+          "name": "La ciudad en el Mediterráneo Antiguo — J. Gallego y C.G. García Mac Gaw (eds.) (Buenos Aires, Del Signo/Universidad de Buenos Aires, 2007) · C.G. García Mac Gaw, «La ciudad-estado y las relaciones de producción esclavistas en el Imperio romano», pp. 87-124",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-garnsey-cities-peasants-and-food",
+          "name": "Cities, Peasants and Food in Classical Antiquity. Essays in Social and Economic History — P. Garnsey (Cambridge, Cambridge University Press, 1998) · «Peasants in Ancient Roman Society», pp. 91-106, con la marca «(traducción)»; el programa no nombra al traductor",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-torelli-historia-de-los-etruscos",
+          "name": "Historia de los etruscos — M. Torelli (Barcelona, Crítica, 1996) · pp. 71-104 (Cap. 4: «Apogeo»)",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-fraschetti-augusto",
+          "name": "Augusto — A. Fraschetti (Madrid, Alianza, 1999) · pp. 9-10, 83-134 (Introducción; Cap. 5: «La ciudad de Roma: administración y control»; Cap. 6: «La Italia triunviral y augústea»; Cap. 7: «Las provincias»; Cap. 8: «El mundo»)",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-martindale-the-cambridge-companion-to-virgil",
+          "name": "The Cambridge Companion to Virgil — C. Martindale (eds.) [así impreso, en plural para un solo editor] (Cambridge, Cambridge University Press, 1997) · J.E.G. Zetzel, «Rome and its traditions», pp. 188-203, con la marca «(traducción)»; el programa no nombra al traductor",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-brown-el-mundo-de-la-antiguedad-tardia",
+          "name": "El mundo de la Antigüedad tardía. De Marco Aurelio a Mahoma — P. Brown (Madrid, Gredos, 2012) · pp. 9-60 (Prólogo; Parte I: «La revolución romana tardía», Cap. 1: «Sociedad»)",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-estepa-placido-trias-transiciones-en-la-antiguedad-y-feudalismo",
+          "name": "Transiciones en la Antigüedad y feudalismo — C. Estepa, D. Plácido y J. Trías, (eds.) [coma suelta así impresa] (Madrid, FIM-Historia, 1998) · J. Fernández Ubiña, «La crisis del siglo III. Realidad histórica y distorsiones historiográficas», pp. 25-51",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-campagno-parentesco-patronazgo-y-estado",
+          "name": "Parentesco, patronazgo y Estado en las sociedades antiguas — M. Campagno (ed.) (Buenos Aires, Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2009) · C.G. García Mac Gaw, «Patrones y clientes en la República romana y el Principado», pp. 177-200",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-bravo-el-colonato-bajoimperial",
+          "name": "El colonato bajoimperial — G. Bravo (Madrid, Akal, 1991) · asignado entero: «54 págs.», sin selección de capítulos",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-wickham-una-historia-nueva-de-la-alta-edad-media",
+          "name": "Una historia nueva de la Alta Edad Media. Europa y el mundo mediterráneo 400-800 — C. Wickham (Barcelona, Crítica, 2009) · pp. 113-162, 735-757, 1190-1201, 1329-1333 (Cap. 3: «La forma del Estado»; Cap. 9: «La sociedad campesina y sus problemas. 1. La situación de los campesinos al término del Imperio Romano»)",
+          "role": "obligatoria · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-scheid-la-religion-en-roma",
+          "name": "La religión en Roma — J. Scheid (Madrid, Clásicas, 1991) · pp. 1-52 (Cap. 1: «Piedad e impiedad»)",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-bermejo-rubio-la-invencion-de-jesus-de-nazaret",
+          "name": "La invención de Jesús de Nazaret. Historia, ficción, historiografía — F. Bermejo Rubio [así impreso, «BERMEJO RUBIO, F.,» con coma en lugar de dos puntos] (Madrid, Siglo XXI, 2018) · pp. 17-116 (Primera parte: «La constitución de Jesús como objeto de estudio histórico»)",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-sotomayor-fernandez-ubina-historia-del-cristianismo-i",
+          "name": "Historia del cristianismo, I. El mundo antiguo — M. Sotomayor y J. Fernández Ubiña (eds.) (Madrid, Trotta, 2003) · sostiene dos asientos de la misma unidad: J.A. Estrada, «Las primeras comunidades cristianas», pp. 123-187; y J. Fernández Ubiña, «Constantino y el triunfo del cristianismo en el Imperio romano», pp. 329-398",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-gonzalez-salinero-las-persecuciones-contra-los-cristianos",
+          "name": "Las persecuciones contra los cristianos en el Imperio romano — R. González Salinero (Madrid, Signifer, 2005) · pp. 7-32 (Prólogo; Cap. 1: «Razones e imputaciones»)",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-pinero-los-cristianismos-derrotados",
+          "name": "Los cristianismos derrotados. ¿Cuál fue el pensamiento de los primeros cristianos heréticos y heterodoxos? — A. Piñero (Madrid, EDAF, 2007) · pp. 15-66, 219-230, 273-280 (Introducción; Cap. 1: «El nacimiento del cristianismo: variedad de concepciones desde los mismos comienzos»; Cap. 2: «El judeocristianismo hasta el final de la composición de los escritos del Nuevo Testamento: 50-120 d.C.»; Cap. 10: «Arrio y el arrianismo: el Concilio de Nicea»; Cap. 16: «La crisis donatista y sus antecedentes»)",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.libro-teja-emperadores-obispos-monjes-y-mujeres",
+          "name": "Emperadores, obispos, monjes y mujeres. Protagonistas del cristianismo antiguo — R. Teja (Madrid, Trotta, 1999) · pp. 75-96 (Cap. 3: «La cristianización de los ideales del mundo clásico: el obispo»)",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Referencias documentales · las fuentes antiguas",
+      "title": "Los textos que se analizan en clase",
+      "note": "Las 23 ediciones del bloque REFERENCIAS DOCUMENTALES, en el orden alfabético impreso. El programa las declara sugeridas, no obligatorias, y no las asigna a ninguna unidad: «(Se sugieren determinadas ediciones a título orientativo, pero pueden usarse otras. Durante el dictado de la asignatura, tanto en las clases teóricas como en las clases teórico-prácticas y en las clases prácticas se implementarán análisis de fuentes previamente seleccionadas en función de los objetivos específicos de cada clase)». No indexadas aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-amiano-marcelino-historia",
+          "name": "Historia — Amiano Marcelino (Madrid, Akal, 2002)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-aristoteles-politica",
+          "name": "Política — Aristóteles (Madrid, Istmo, 2005)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-aristoteles-constitucion-de-los-atenienses",
+          "name": "Constitución de los atenienses — Aristóteles (Madrid, Gredos, 1984)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-caton-tratado-de-agricultura",
+          "name": "Tratado de agricultura — Catón (Madrid, Gredos, 2012)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-ciceron-catilinarias",
+          "name": "Catilinarias — Cicerón (Madrid, Gredos, 1987)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-eusebio-de-cesarea-historia-eclesiastica",
+          "name": "Historia Eclesiástica — Eusebio de Cesarea (Madrid, BAC, 2010)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-herodoto-historias",
+          "name": "Historias — Heródoto (Madrid, Akal, 1994, 2 vols.)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-hesiodo-teogonia-trabajos-y-dias",
+          "name": "Teogonía. Trabajos y días — Hesíodo (Madrid, Alianza, 1986)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-homero-iliada",
+          "name": "Ilíada — Homero (Madrid, Gredos, 1996)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-homero-odisea",
+          "name": "Odisea — Homero (Madrid, Gredos, 1991)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-jenofonte-economico",
+          "name": "Económico — Jenofonte (Madrid, SEP, 1967)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-jenofonte-republica-de-los-lacedemonios",
+          "name": "República de los lacedemonios — Jenofonte (Madrid, IEP, 1973)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-lactancio-sobre-la-muerte-de-los-perseguidores",
+          "name": "Sobre la muerte de los perseguidores — Lactancio (Madrid, Gredos, 1982)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-libanio-discursos",
+          "name": "Discursos — Libanio (Madrid, Gredos, 2001, 3 vols.)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-paladio-tratado-de-agricultura",
+          "name": "Tratado de Agricultura — Paladio (Madrid, Gredos, 1990)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-platon-republica",
+          "name": "República — Platón (Buenos Aires, EUDEBA, 1963)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-platon-leyes",
+          "name": "Leyes — Platón (Madrid, Akal, 1988)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-plinio-el-joven-cartas",
+          "name": "Cartas — Plinio el Joven (Madrid, Gredos, 2005)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-plutarco-vidas-paralelas",
+          "name": "Vidas Paralelas — Plutarco (Madrid, Gredos, 1985-2007, 6 vols.)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-polibio-historia-universal",
+          "name": "Historia Universal — Polibio (Madrid, Alianza, 1988)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-salustio-la-conjuracion-de-catalina-la-guerra-de-yugurta",
+          "name": "La Conjuración de Catalina. La Guerra de Yugurta — Salustio (Madrid, Alianza, 1988) · «Catalina» así impreso",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-tucidides-historia-de-la-guerra-del-peloponeso",
+          "name": "Historia de la Guerra del Peloponeso — Tucídides (Madrid, Alianza, 1989)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-2.fuente-tito-livio-historia-de-roma",
+          "name": "Historia de Roma — Tito Livio (Madrid, Gredos, 2000-2001, 8 vols.)",
+          "role": "referencia documental · edición sugerida",
+          "tag": "fuente",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA ANTIGUA II (CLÁSICA), cód. 0412/14009, Profs. Julián Gallego y Esteban Noce, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0412_14009%20-%20HISTORIA%20ANTIGUA%20II%20%28CL%C3%81SICA%29%20-%20GALLEGO%3B%20NOCE%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ANTIGUA II (CLÁSICA), cód. 0412/14009, Profs. Julián Gallego y Esteban Noce, 1º cuatrimestre 2026 (10 pp.) — fuente única de los contenidos, la bibliografía, las referencias documentales y los datos de cursada de este nodo; extracto local en extract/out/historia-antigua2-gallego-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0412_14009%20-%20HISTORIA%20ANTIGUA%20II%20%28CL%C3%81SICA%29%20-%20GALLEGO%3B%20NOCE%20-%201C%202026.pdf"
+    }
+  ]
+}

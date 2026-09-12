@@ -1,0 +1,20 @@
+{
+  "address": "uba.ffyl.historia.historia-sistemas-politicos",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 68,
+  "books_found": 68,
+  "not_found": [
+    "Contradicción (9), mitad Abellán: el frame dice «Abellán» con tilde 'en la unidad 8 y en las obras generales' — FALSO: L362 (U8 complementaria) imprime 'Abellan' SIN tilde; la tilde aparece una sola vez en todo el PDF, L375 (obras generales). Reparar: restringir el claim a las obras generales.",
+    "Consecuencia: el exit libro-abellan-democracia imprime 'Joaquín Abellán' con tilde SIN el marcador [así impreso] que el nodo aplica a la misma falta en otros exits — normalización silenciosa contra su propia convención. Reparar: agregar el marcador.",
+    "Contradicción (9), mitad Vallespin: 'sin tilde en la mayoría de los asientos' — FALSO: el reparto real es 4 sin tilde (158,178,208,231) vs 4 con tilde (133-134,266,283,287), parejo. Reparar: decir el 4-4."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (SHA256 match, 11 pp). All load-bearing claims survived attack exactly: 8/8 units with line refs; 105 asientos re-derived block by block (38+14+44+9); the 15 exclusions each located; all 22 dedupes real with the ×7/×4/×3 multiplicities verified line by line → 68 volumes, all 68 imprints machine-checked, zero fabrications. Contradiction (2) independently re-verified: page-2 'DEPARTAMENTO DE' truncation is an ORIGINAL erratum. Objective-f phrase confirmed used by no unit. Cátedra B cover re-fetched: prints 'B' on both plan lines and PROFESOR: DEPARTAMENTO DE HISTORIA — the node's refusal to name a profesor for B is correct and no name leaked. Cátedra grep exactly 8 (1+6+1 breakdown correct, L407 REDEC boilerplate). Cross-datum plan placement attributed correctly both directions. The three defects are all inside the accent-errata sentence of the contradictions register and its one consequent exit rendering — self-description, not grounding."
+}

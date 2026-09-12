@@ -1,0 +1,720 @@
+{
+  "address": "uba.ffyl.historia.historia-america-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a trabajos prácticos y 2 (dos) instancias de evaluación parcial aprobadas con mínimo de 4 puntos; 1 (un) recuperatorio; aprobación por EXAMEN FINAL con mínimo de 4 puntos; vigencia de la regularidad 4 años y 3 mesas examinadoras",
+    "cargaHoraria": "96 HORAS (impreso dos veces: «CARGA HORARIA: 96 HORAS» en el encabezado interno y «- Carga Horaria: 96 horas» al cierre del apartado a.)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0426 /14013 (así impreso, «CÓDIGO Nº: 0426 /14013»; el programa no dice a qué plan corresponde cada uno de los dos números). CONTRADICCIÓN INTERNA REGISTRADA: la nota al pie 2 del mismo PDF imprime «Historia de América I se identifica como B.6- 0420 en el plan de estudios vigente», es decir 0420, no 0426. No se resuelve.",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE AMÉRICA I (De los orígenes a la conquista)»",
+    "catedra": "el PDF NO imprime ninguna letra de cátedra en ninguna de sus 18 páginas: la «A» aparece únicamente en el nombre del archivo publicado («… - A - QUIROGA - 1C 2026.pdf»), no en el documento. La palabra «cátedra» aparece UNA sola vez en todo el texto, dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»), y no designa a ésta. El programa firma «PROFESORA: QUIROGA LAURA» (portada), «PROFESORA: Dra. QUIROGA LAURA» (encabezado interno) y, al pie, «Dra. Laura Quiroga / Profesora Asociada». Contraste verificado: el PDF de la otra cátedra sí imprime la letra en su portada, en línea propia bajo la materia: «“B”».",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "QUIROGA, LAURA (portada: «PROFESORA: QUIROGA LAURA»; encabezado interno: «PROFESORA: Dra. QUIROGA LAURA»; firma al pie: «Dra. Laura Quiroga / Profesora Asociada»)",
+      "JURADO, MARÍA CAROLINA (JEFA DE TRABAJOS PRÁCTICOS · DRA.)",
+      "ALEMANO, MA. EUGENIA (JEFA DE TRABAJOS PRÁCTICOS · DRA. — así impreso, sin dos puntos tras el rótulo)",
+      "CASARETO, SAMANTA (AYUDANTE DE PRIMERA · MAG.)",
+      "SÁNCHEZ, LAURA (AYUDANTE DE PRIMERA · LIC.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "DATO DEL PROPIO PROGRAMA: su fundamentación abre diciendo que la materia «corresponde al bloque de materias específicas obligatorias (2B) del ciclo de grado de la carrera de Historia de la Facultad de Filosofía y Letras de la UBA», y la nota al pie 2 agrega que «se identifica como B.6- 0420 en el plan de estudios vigente», citando «PLAN DE ESTUDIO Y MODIFICACIONES (Res. C. S. N° 468/85, Res. C. D. N° 4030/92, Res. C. S. N° 433/94, Res. C. S. N° 3779/93, Res. C. S. N° 2553/95, Res CS n° 4019/04)». DATO CRUZADO, del nodo padre uba.ffyl.historia y NO del programa: que ese bloque de obligatorias del Ciclo de Grado son doce materias y que ésta es una de ellas.",
+    "objetivos": "cuatro objetivos generales numerados (apartado «B. Objetivos:»); no se dibujan como grupo. El programa no imprime objetivos específicos.",
+    "correlatividades": "el programa no imprime ninguna: la cadena «correlativ» no aparece en el texto",
+    "equivalencias": "el programa no imprime tabla de equivalencias: la cadena «equivalenc» no aparece en el texto",
+    "unidades": 9,
+    "bibliografia": 160
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-america-1",
+      "label": "Historia de América I"
+    }
+  ],
+  "eyebrow": "Historia · Historia de América I · Quiroga · 1º cuatrim. 2026",
+  "title": "Lo prehispánico no es lo antiguo.",
+  "lede": "Nueve bloques que van del problema de cómo se sabe algo del pasado americano a los dos grandes sistemas tributarios que encontró el siglo XVI. Se entra por el giro decolonial y la colonialidad del saber, por la discusión entre escritura alfabética y disciplina histórica, y por los sistemas de registro y representación prehispánicos: calendario, escritura y numeración en Mesoamérica, soportes, genealogías, el estado actual de la epigrafía. Y por las categorías con que se nombra a estas sociedades: jefatura, estado e imperio puestos en crítica, heterarquía, poder corporativo, movilización del trabajo colectivo, reciprocidad y redistribución, bienes de prestigio, excedente y tributo. Después Mesoamérica —definida primero como categoría historiográfica: área cultural, modo de producción tributario, red de circulación de bienes de prestigio—, el urbanismo de Teotihuacán y la sacralización del paisaje por la arquitectura, la organización política maya entre jerarquía y heterarquía, la crisis de la autoridad local y el abandono urbano; Toltecayotl, Quetzalcóatl y Tollan, Aztlán y las migraciones; y Tenochtitlan y Cemanáhuac: el Templo Mayor, el altepetl y el tlatoani, pillis y macehuales, mayeques y callpuleques, el tributo como sistema de trabajo, transporte, almacenamiento y distribución, y la expansión imperial mexica. Después los Andes: el paisaje andino tal como lo construyeron Von Humboldt, Troll, Dollfus y Pulgar Vidal; la arquitectura monumental como forma ritualizada del poder en Caral y Chavín de Huántar; el estado temprano del Titicaca y el desarrollo de Tiwanaku; la fragmentación surandina tras su crisis —chullpas y pukaras, el control vertical y el ayllu, los kuraqkuna, el culto a los ancestros, el caravaneo, los señoríos aymaras—; y el Tawantinsuyu: crónicas coloniales, khipus, qeros y tocapus, las panacas y los linajes reales del Cuzco, mitmakquna, yana y acqlla, apus y wakas, la caminería, la Capacocha y la expansión cuzqueña sobre el Surandino.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "9",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Quiroga"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE AMÉRICA I (De los orígenes a la conquista), Departamento de Historia (FFyL-UBA), cód. 0426 /14013, Profa. Dra. Laura Quiroga, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (18 páginas, con capa de texto nativa, extraído entero a extract/out/historia-america1-quiroga-2026.txt), salvo un dato cruzado que se declara más abajo. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): el de QUIROGA, LAURA, 1º cuatrimestre 2026, 18 páginas. NO se dibuja 1 de 2 (50%): el de la cátedra “B”, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «CÓDIGO Nº: 0426 / 14013», «MATERIA: HISTORIA DE AMÉRICA I (de los orígenes hasta la Conquista)», «“B”», «RÉGIMEN DE PROMOCIÓN: EF», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», «PROFESOR/A: MOLINA, FERNANDA», «2º CUATRIMESTRE 2026», «AÑO: 2026», 15 páginas; su URL queda asentada en sources. De la cátedra “B” no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los del programa de Quiroga y de ningún otro. LA LETRA DE CÁTEDRA, CÓMO CONSTA Y CÓMO NO: el PDF de Quiroga NO imprime ninguna letra en ninguna de sus 18 páginas —la «A» aparece solo en el nombre del archivo publicado, «0426_14013 - HISTORIA DE AMÉRICA I (DE LOS ORÍGENES HASTA LA CONQUISTA) - A - QUIROGA - 1C 2026.pdf»—, mientras que el PDF de Molina sí la imprime en la portada, en línea propia bajo la materia: «“B”». Por eso este nodo no llama «cátedra A» a lo que dibuja: lo identifica por la profesora y el cuatrimestre, que es lo que el documento sí dice. La palabra «cátedra» aparece exactamente una vez en el PDF de Quiroga, dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»), y no designa a ésta. UBICACIÓN EN EL PLAN: a diferencia de otros programas del Departamento, éste SÍ la imprime —la fundamentación dice que la materia «corresponde al bloque de materias específicas obligatorias (2B) del ciclo de grado de la carrera de Historia», y la nota al pie 2 que «se identifica como B.6- 0420 en el plan de estudios vigente»—. DATO CRUZADO, FLAGEADO: que ese bloque de obligatorias del Ciclo de Grado son doce materias y que ésta es una de ellas viene del nodo padre uba.ffyl.historia, NO de este programa. CONTRADICCIONES REGISTRADAS, NO RESUELTAS: (1) CÓDIGO — la portada y el encabezado interno imprimen «CÓDIGO Nº: 0426 /14013» y la nota al pie 2 del mismo documento imprime «B.6- 0420»: 0426 contra 0420. (2) TÍTULO DE LA MATERIA — este programa imprime el título tres veces y las tres sin la palabra «hasta» —«MATERIA: HISTORIA DE AMÉRICA I (De los orígenes a la conquista)» en la portada y en el encabezado interno, y «La materia Historia de América I (de los orígenes a la conquista)», con «de» minúscula, en la fundamentación—; el nombre del archivo que lo publica dice «(DE LOS ORÍGENES HASTA LA CONQUISTA)», la portada de la cátedra “B” dice «(de los orígenes hasta la Conquista)» y el nodo padre, tomado del esquema del Plan 1985, dice «(de los orígenes hasta la conquista)». Tres formas distintas para la misma materia. (3) RÉGIMEN — el apartado b. describe un solo régimen, el de EXAMEN FINAL (EF), y sin embargo abre un bloque con el rótulo «Para ambos regímenes:», en plural, sin que exista un segundo régimen descrito: resto de formulario, registrado y no enmendado. (4) ENCABEZADOS — la Unidad 1 se encabeza «UNIDAD 1-INTRODUCCIÓN» en los Contenidos y «UNIDAD 1-INTRODUCCION», sin tilde, en la Bibliografía; el apartado se titula «D. BIBLIOGRAFIA», sin tilde; y el bloque 3.4 se encabeza «3.4. Tawantinsuyu: sistema político y tributario» en los Contenidos y «3.4. Tawantinsuyu: : sistema político y tributario», con dos veces el signo de dos puntos, en la Bibliografía. (5) LETRAS DE APARTADO — el formulario corre «A. Fundamentación y descripción», «B. Objetivos:», «C. Contenidos:», «D. BIBLIOGRAFIA» y después reinicia en minúscula con «a. Organización del dictado de la materia:» y «b. Organización de la evaluación:». (6) SUBÍNDICES — la subsección 2.2 de los Contenidos rotula sus cuatro párrafos «A-», «B-», «B-», «C-»: la letra B está usada dos veces. ESTRUCTURA, Y POR QUÉ SE DIBUJAN NUEVE UNIDADES: el apartado C. Contenidos trae TRES unidades numeradas —UNIDAD 1-INTRODUCCIÓN (sin subdivisión), UNIDAD 2- MESOAMERICA (2.1 a 2.4) y UNIDAD 3- LOS ANDES (3.1 a 3.4)—, es decir nueve encabezados de contenido en total. El apartado D. BIBLIOGRAFIA trae exactamente nueve bloques, con esos mismos nueve encabezados y en el mismo orden, cada uno con su propia «Bibliografía obligatoria» y su propia «Bibliografía complementaria». La correspondencia no es inferida: está impresa. Por eso la unidad dibujable es el encabezado, y se dibujan las nueve: 9 de 9. SELECCIÓN DE BIBLIOGRAFÍA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: el apartado D. lista 160 asientos en total — 90 en las nueve «Bibliografía obligatoria» (U1: 12 · 2.1: 2 · 2.2: 6 · 2.3: 3 · 2.4: 20 · 3.1: 4 · 3.2: 6 · 3.3: 13 · 3.4: 24), 59 en las nueve «Bibliografía complementaria» (U1: 14 · 2.1: 2 · 2.2: 5 · 2.3: 3 · 2.4: 8 · 3.1: 5 · 3.2: 6 · 3.3: 6 · 3.4: 10) y 11 en los cuatro bloques de fuentes primarias, que el programa rotula «Fuentes para la narración de las migraciones.» (2.3, 1 asiento), «Fuentes escritas para el estudio de la dinámica imperial mexica.» (2.4, 4), «Fuentes escritas sobre las sociedades aymaras» (3.3, 2) y «Fuentes escritas sobre el Tawantinsuyu» (3.4, 4). Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—, esté el asiento en la obligatoria, en la complementaria o en las fuentes. NO se dibujan los 74 asientos cuyo contenedor es una revista, un anuario, una serie periódica o una página web sin pie editorial: 41 de la obligatoria, 30 de la complementaria y 3 de las fuentes. Quedan 86 asientos con volumen, que al unificar los repetidos dan 78 libros, y 78 son los que se dibujan: 47 salen de la obligatoria, 23 asientos más aportan volúmenes nuevos desde la complementaria y 8 desde las fuentes. UNIFICACIONES, una por una: Tantaleán, Los antiguos estados andinos (obligatoria U1 y obligatoria 3.1, distintas partes); Kolata, El poder de los Incas (obligatoria 3.4 B, cap. 3, y obligatoria 3.4 C, cap. 4); Monson & Scheidel, Fiscal Regimes and the Political Economy of Premodern States (contiene a Smith en la obligatoria de 2.4, y reaparece entero en la complementaria de U1, impreso allí en minúsculas, «Fiscal regimes and the political economy of premodern states»); Lockhart, Los Nahuas Después de la Conquista, y Matos Moctezuma, Vida y muerte en el templo mayor (cada uno impreso a la vez en la obligatoria y en la complementaria del MISMO bloque 2.4, con el pie «FCE» en una y «Fondo de Cultura Económica» en la otra en el caso de Lockhart); D'Altroy, Los Incas (obligatoria 3.4 B, cap. 5, y complementaria 3.4, caps. 3 a 6); y Arqueología de la Cuenca del Titicaca, Perú, que contiene a Arkush en la obligatoria de 3.3 —allí «Lima: IFEA», editores «Luis Flores Blanco y Henry Tantaleán»— y a Stanish en la complementaria de 3.4 —allí «Instituto Francés de Estudios Andinos-Cotsen Institute of Archaeology at UCLA», editor impreso «Tantalean», sin tilde—. Mamani Condori, Los aymaras frente a la historia, está impreso DOS VECES dentro del mismo bloque de complementaria de la U1, palabra por palabra: se dibuja una sola vez. CONSECUENCIAS REGISTRADAS: la subsección 3.2 aporta un solo libro —sus otros cinco asientos obligatorios son artículos de Complutum, del Boletín de Arqueología PUCP y del Boletín del Museo Chileno de Arte Precolombino—; la subsección 2.3 aporta uno solo de sus tres asientos obligatorios; y la subsección 2.1 uno solo de sus dos. Ningún asiento se descartó por ilegible. ASIENTOS REPETIDOS QUE NO GENERAN LIBRO: Crumley, «Heterarchy and the Analysis of Complex Societies» está impreso dos veces (obligatoria U1 B y obligatoria 3.3 A) y Blanton, Feinman, Kowalewski y Peregrine, «A dual-processual theory…» también dos veces (obligatoria U1 B y obligatoria 2.2); ambos son artículos de revista y por eso no se dibujan en ninguno de los dos lugares. ASIENTOS INCOMPLETOS, declarados y no completados: Gose (1998) da lugar —«La Paz»— pero no editorial; La Integración Surandina Cinco Siglos Después (Cuzco, 1996) e Historia de América Latina. I (Barcelona, Crítica, 1990) no consignan editor ni compilador; El Debate permanente (Santiago de Chile, 2020) nombra a los editores pero no la editorial; Alva Ixtlilxochitl, Historia de la nación chichimeca, y Durán, Historia de las Indias de Nueva España, no llevan año; García Chávez (2007) se cita sin nombre de pila; Blanton, Kowalewski, Feinman y Finsten (1981) sin iniciales; Rick (2007) se cita sin volumen ni páginas; Pulgar Vidal y Guamán Poma se citan sin año, solo con URL. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el mismo apellido se escribe de dos maneras dentro del programa —«Grube, Nicolai» en la obligatoria de la U1 y «Grube, Nikolai» en la de 2.2; «Rostworoski» en los Contenidos de 3.3 B y «Rostworowski» en la bibliografía—; en los Contenidos, «Condiciones ecológicas de Mesoaméricael área maya y el altiplano Central» va sin espacio ni conector, «Heterarquía Unidades corporativas y estados segmentarios» sin puntuación, «pos clásico» separado en el rótulo de 2.4 frente a «posclásica» en el cuerpo, y «los limites altitudinales» sin tilde; en la bibliografía, «Estudios de cultura nathuatl» por náhuatl, «Costa peruana prehispanica» sin tilde, «Universidad Católica de Eichstat» por Eichstätt, «Martii Pärssinen» por Martti, «Browmann, David» por Browman, «Elizaheth Jiménez García» por Elizabeth, «The inca lost Civilization» en minúscula y mayúscula alternadas, «Editorial Commentarios» con doble eme, «Viau-Cour Ville, Mathieu» partido, «Vincent Nicolás» con el orden de nombre y apellido invertido respecto del resto de la lista, «El poder de los Incas La organización social…» sin puntuación entre título y subtítulo, «The Inka Empire A Multidisciplinary Approach» igual, «SEP.INAH» como un solo pie, «Lukas Hakelberg Otto Suhr Laura Seelkopf (editores)» sin comas, «Juan Marchena Manuel Chust Mariano Schlez Editores» sin comas, el asiento de Izquierdo y de la Cueva que abre comillas —«Heterarquía y unidades corporativas. Instituciones del gobierno interno maya (2018)»— y nunca las cierra, colocando además el año dentro del título, y el apartado b. que abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.». Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de las notas 1 y 2 se intercala partiendo en dos una oración de la fundamentación («…reconstruir redes de interacción» + notas + «regional, relaciones sociales, poder…»); la cadena «REDEC-2024-2526-UBA-DCT#FFYL» queda partida por el salto de línea en la portada; y varios títulos largos quedan cortados por el salto de línea. Son efectos del orden de lectura del PDF y no se le atribuyen al programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, título propio del programa, cronograma de clases, porcentaje de virtualidad efectivamente adoptado, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0426 /14013» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º), Res. (CD) Nº 1117/10 (RTARMEM) y, en la nota al pie 2, las resoluciones del plan de estudios y sus modificatorias.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · los 9 bloques (Quiroga, 1º cuatrim. 2026)",
+      "title": "Del giro decolonial al Tawantinsuyu",
+      "note": "Tres unidades numeradas: la 1 sin subdivisión, la 2 y la 3 con cuatro subsecciones cada una. Los nueve encabezados del apartado C. Contenidos se repiten, con las mismas palabras y en el mismo orden —salvo dos divergencias de tilde y de puntuación, registradas en la ficha—, como los nueve bloques del apartado D. BIBLIOGRAFIA: por eso la unidad dibujable es el encabezado, y se dibujan los nueve.",
+      "map": {
+        "mk": "El programa, en nueve bloques",
+        "tree": "HISTORIA DE AMÉRICA I (De los orígenes a la conquista) · cód. 0426 /14013\nQuiroga · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ 1 · INTRODUCCIÓN\n│      giro decolonial y colonialidad del saber · escritura alfabética\n│      calendario, escritura y numeración en Mesoamérica · epigrafía\n│      jefatura, estado, imperio · heterarquía · poder corporativo\n│      reciprocidad y redistribución · excedente y tributo\n│\n├─ 2 · MESOAMERICA\n│  ├─ 2.1 · Mesoamérica como categoría historiográfica\n│  │       área cultural · modo de producción tributario\n│  │       red de bienes de prestigio · cronología regional\n│  │       el área maya y el altiplano Central\n│  ├─ 2.2 · Sociedades tributarias del clásico\n│  │       Teotihuacán · gobierno corporativo · iconografía del poder\n│  │       organización política maya · estados segmentarios\n│  │       bienes especializados · crisis y abandono urbano\n│  ├─ 2.3 · Toltecayotl, la migración y el mito de origen\n│  │       Quetzalcóatl · Tollan · Tula y los toltecas\n│  │       Aztlán y la cuenca de México\n│  └─ 2.4 · Tenochtitlan y Cemanáhuac\n│          Templo Mayor · altepetl y tlatoani\n│          pillis, macehuales, mayeques, callpuleques\n│          tributo, transporte y almacenamiento · expansión mexica\n│\n└─ 3 · LOS ANDES\n   ├─ 3.1 · Los Andes como categoría historiográfica\n   │       Von Humboldt, Troll, Dollfus, Pulgar Vidal\n   │       fajas verticales · costa y sierra · área circumpuneña\n   ├─ 3.2 · Jerarquías sociales y arquitectura monumental\n   │       Caral y Supe · Chavín de Huántar · Tiwanaku\n   │       trabajo colectivo y excedente · modelo altiplánico\n   ├─ 3.3 · Chullpas y Pukaras\n   │       control vertical y ayllu · kuraqkuna · Murra y Rostworowski\n   │       culto a los ancestros · chakras · caravaneo\n   │       señoríos aymaras · Período Intermedio Tardío\n   └─ 3.4 · Tawantinsuyu: sistema político y tributario\n           crónicas coloniales · textiles, qeros, tocapus, khipus\n           Pachacuti · panacas y linajes reales del Cuzco\n           mitmakquna, yana, acqlla · apus y wakas · caminería\n           Capacocha · los aymara, Atacama y el Tucumán",
+        "foot": "Esta materia publica dos programas para 2026: el de Quiroga (1º cuatrimestre, 18 pp.) y el de la cátedra “B”, MOLINA, Fernanda (2º cuatrimestre, 15 pp.). Acá se dibuja solo el primero; del segundo únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u1-introduccion",
+          "name": "Introducción · giro decolonial, sistemas de registro y categorías de análisis",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u2-1-mesoamerica-como-categoria-historiografica",
+          "name": "Mesoamérica como categoría historiográfica",
+          "role": "Unidad 2 · 2.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u2-2-sociedades-tributarias-del-clasico-mesoamericano",
+          "name": "Sociedades tributarias del clásico mesoamericano",
+          "role": "Unidad 2 · 2.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u2-3-toltecayotl-la-migracion-y-el-mito-de-origen",
+          "name": "Toltecayotl, la migración y el mito de origen",
+          "role": "Unidad 2 · 2.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u2-4-sociedades-tributarias-del-posclasico",
+          "name": "Sociedades tributarias del pos clásico: Tenochtitlan y Cemanáhuac [«pos clásico», así impreso]",
+          "role": "Unidad 2 · 2.4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u3-1-los-andes-como-categoria-historiografica",
+          "name": "Los Andes como categoría historiográfica",
+          "role": "Unidad 3 · 3.1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u3-2-jerarquias-sociales-y-arquitectura-monumental",
+          "name": "La formación de jerarquías sociales en los Andes prehispánicos analizadas a través de la arquitectura monumental",
+          "role": "Unidad 3 · 3.2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u3-3-chullpas-y-pukaras",
+          "name": "Chullpas y Pukaras: la fragmentación del poder político en la región surandina",
+          "role": "Unidad 3 · 3.3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.u3-4-tawantinsuyu",
+          "name": "Tawantinsuyu: sistema político y tributario",
+          "role": "Unidad 3 · 3.4",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 78 volúmenes con pie editorial de los 160 asientos del apartado D., por bloque. Un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 74 asientos de revista, anuario, serie periódica o página web sin pie editorial: quedan declarados en el frame. El rol cita el bloque y la letra tal como los encabeza el programa. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-arellano-hoffmann-libros-y-escritura-de-tradicion-indigena",
+          "name": "Libros y escritura de tradición indígena. Ensayos sobre los códices prehispánicos y coloniales de México — Carmen Arellano Hoffmann et al. (coords) (México, El Colegio Mexiquense / Universidad Católica de Eichstat [así impreso], 2002) · N. Grube y C. Arellano Hoffmann, «Escritura y literalidad en Mesoamérica y la región andina, una comparación», pp. 27-72",
+          "role": "obligatoria · U1 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-vega-villalobos-el-gobernante-maya",
+          "name": "El gobernante maya. Historia documental de cuatro señores del Período Clásico — María Elena Vega Villalobos (México, Universidad Nacional Autónoma de México – Instituto de Investigaciones Históricas, 2017) · «Introducción», pp. 9-34",
+          "role": "obligatoria · U1 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-daltroy-el-poder-provincial-en-el-imperio-inca",
+          "name": "El poder provincial en el imperio Inca — Terence D'Altroy (Lima, IEP, 2022) · Capítulo 1 «Del estudio de los imperios antiguos», 39-74",
+          "role": "obligatoria · U1 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-earle-a-primer-on-chiefs-and-chiefdoms",
+          "name": "A primer on chiefs and chiefdoms — Timothy Earle (New York, Eliot Werner Publications INC, 2021) · Capítulo 1 y 8",
+          "role": "obligatoria · U1 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-godelier-cuerpo-parentesco-y-poder",
+          "name": "Cuerpo, parentesco y poder. Perspectivas antropológicas y críticas — Maurice Godelier (Quito, Abya Yala, 2000) · «Poder. Funciones, formas y figuras del poder político», 151-172",
+          "role": "obligatoria · U1 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-llobera-antropologia-politica",
+          "name": "Antropología Política — J. R. Llobera (comp.) (Barcelona, Anagrama, 1979) · M. Sahlins, «Hombre pobre, hombre rico, gran hombre, jefe: tipos políticos de Melanesia y Polinesia», 267-288",
+          "role": "obligatoria · U1 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-tantalean-los-antiguos-estados-andinos",
+          "name": "Los antiguos estados andinos. Una arqueología de las formaciones políticas del Perú prehispánico — Henry Tantaleán (Lima, IEP, 2021) · Introducción «Por qué y cómo estudiar los antiguos estados andinos», 5-14 (U1); Parte I «Aproximaciones teóricas y metodológicas para el estudio de los antiguos estados andinos» (3.1)",
+          "role": "obligatoria · U1 (B) y 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-wolf-europa-y-los-pueblos-sin-historia",
+          "name": "Europa y los pueblos sin historia — Eric Wolf (México, FCE, 1982) · «El modo de producción tributario», 105-130",
+          "role": "obligatoria · U1 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-lopez-austin-lopez-lujan-el-pasado-indigena",
+          "name": "El Pasado Indígena — A. López Austin y L. López Lujan [así impreso] (México, El Colegio de México / Fondo de Cultura Económica, 1996) · Caps. II y III, 76-155",
+          "role": "obligatoria · 2.1 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-manzanilla-teotihuacan-ciudad-excepcional",
+          "name": "Teotihuacan, ciudad excepcional de Mesoamérica — Linda Manzanilla (México, El Colegio Nacional, 2017) · 13-25 y 67-98",
+          "role": "obligatoria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-martin-grube-cronica-de-los-reyes-y-reinas-mayas",
+          "name": "Crónica de los reyes y reinas mayas. La primera historia de las dinastías mayas — Simon Martin y Nikolai Grube [el mismo apellido se imprime «Nicolai» en la U1] (Barcelona, Crítica, 2002) · «Prefacio. Descubriendo el pasado maya» e «Introducción», pp. 6-23",
+          "role": "obligatoria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-stuart-spearthrower-owl",
+          "name": "Spearthrower Owl: A Teotihuacan Ruler in Maya History — David Stuart (Washington, DC, Dumbarton Oaks, Trustees for Harvard University, «Studies in Pre-Columbian Art and Archaeology», 2024)",
+          "role": "obligatoria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-florescano-los-origenes-del-poder-en-mesoamerica",
+          "name": "Los orígenes del poder en Mesoamérica — Enrique Florescano (México, FCE, 2009) · «El reino de Tula y la saga de Topiltzin Quetzalcoatl», 353-392",
+          "role": "obligatoria · 2.3 (A y B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-gonzalbo-historia-de-la-vida-cotidiana-en-mexico-i",
+          "name": "Historia de la vida cotidiana en México I: Mesoamérica y los ámbitos indígenas de la Nueva España — Pilar Gonzalbo Aizpuru (coord.) (México, El Colegio de México / FCE, 2011) · A. Alcántara Gallegos, «Los barrios de Tenochtitlan. Topografía, organización interna y tipología de sus predios», 167-198",
+          "role": "obligatoria · 2.4 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-lockhart-los-nahuas-despues-de-la-conquista",
+          "name": "Los Nahuas Después de la Conquista. Historia Social y Cultural de los Indios del México Central, del siglo XVI al XVIII — James M. Lockhart (México, FCE, 1999) · el mismo volumen está impreso a la vez en la obligatoria y en la complementaria del bloque 2.4, allí con el pie desplegado «Fondo de Cultura Económica»",
+          "role": "obligatoria · 2.4 (A) · + complementaria 2.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-matos-moctezuma-vida-y-muerte-en-el-templo-mayor",
+          "name": "Vida y muerte en el templo mayor — Eduardo Matos Moctezuma (México, FCE, 1994) · el mismo volumen está impreso a la vez en la obligatoria y en la complementaria del bloque 2.4",
+          "role": "obligatoria · 2.4 (A) · + complementaria 2.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-castillo-farreras-estructura-economica-de-la-sociedad-mexica",
+          "name": "Estructura económica de la sociedad mexica según las fuentes documentales — Víctor M. Castillo Farreras, prólogo de Miguel León-Portilla (México, Universidad Nacional Autónoma de México – Instituto de Investigaciones Históricas, 1996) · el programa remite a la edición digital en historicas.unam.mx",
+          "role": "obligatoria · 2.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-de-rojas-a-cada-uno-lo-suyo",
+          "name": "A cada uno lo suyo. El tributo indígena en la Nueva España del Siglo XVI — José Luis De Rojas (Zamora, El Colegio de Michoacán, 1993) · Caps. IV, V y VI",
+          "role": "obligatoria · 2.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-monson-scheidel-fiscal-regimes",
+          "name": "Fiscal Regimes and the Political Economy of Premodern States — Andrew Monson y Walter Scheidel (eds.) (Cambridge, Cambridge University Press, 2015) · M. Smith, «The Aztec Empire», 71-114 (Traducción), en la obligatoria de 2.4; el mismo volumen reaparece entero en la complementaria de la U1, impreso allí en minúsculas, «Fiscal regimes and the political economy of premodern states»",
+          "role": "obligatoria · 2.4 (B) · + complementaria U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-hassig-comercio-tributo-y-transportes",
+          "name": "Comercio tributo y transportes. La economía política del Valle de México en el siglo XVI — Ross Hassig [impreso «Hassig Ross», sin coma] (México, Alianza Editorial Mexicana, 1990) · Cap. «La época precortesiana», 19-49, 76-139",
+          "role": "obligatoria · 2.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-rojas-mexico-tenochtitlan-economia-y-sociedad",
+          "name": "México Tenochtitlan. Economía y sociedad en el siglo XVI — José Luis de Rojas (México, FCE, 1988) · Caps. IV, V y VI",
+          "role": "obligatoria · 2.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-rodriguez-shadow-las-mujeres-en-mesoamerica-prehispanica",
+          "name": "Las mujeres en Mesoamérica prehispánica — María J. Rodríguez-Shadow (coord.) (Toluca, UAEM, 2007) · W. Wiesheu, «Jerarquía de género y organización de la producción en los estados prehispánicos», 25-47",
+          "role": "obligatoria · 2.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-dollfus-el-reto-del-espacio-andino",
+          "name": "El reto del espacio andino — Olivier Dollfus (Lima, IEP, 1981) · Capítulo 1 «Geosistemas y medios naturales en los Andes tropicales del sur», 37-54",
+          "role": "obligatoria · 3.1 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-demarest-conrad-ideology-and-pre-columbian-civilizations",
+          "name": "Ideology and Pre-Columbian Civilizations — A. Demarest y G. Conrad (Ed.) (Santa Fe, NM, School of American Research, 1992) · A. Kolata, «Economy, Ideology and Imperialism in the South Central Andes», 65-85 (Traducción)",
+          "role": "obligatoria · 3.2 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-murra-formaciones-economicas-y-politicas",
+          "name": "Formaciones Económicas y Políticas del Mundo Andino — J. V. Murra (Lima, Instituto de Estudios Peruanos, 1975) · Caps. 2, 3, 4, 10",
+          "role": "obligatoria · 3.3 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-rostworowski-costa-peruana-prehispanica",
+          "name": "Costa peruana prehispanica. Obras completas III [así impreso, sin tilde] — María Rostworowski (Lima, IEP, 2022) · Introducción y Capítulo 8 «Pescadores, artesanos y mercaderes costeños en el Perú prehispánico»",
+          "role": "obligatoria · 3.3 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-stern-los-pueblos-indigenas-del-peru",
+          "name": "Los Pueblos Indígenas del Perú y el Desafío de la Conquista Española. Huamanga hasta 1640 — Steve J. Stern (Madrid, Alianza, 1982) · Cap. 1 «Paisajes Precolombinos»",
+          "role": "obligatoria · 3.3 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-flores-blanco-tantalean-arqueologia-de-la-cuenca-del-titicaca",
+          "name": "Arqueología de la Cuenca del Titicaca, Perú — Luis Flores Blanco y Henry Tantaleán (eds.) (Lima, IFEA, 2012) · E. Arkush, «Los Pukaras y el Poder: Los Collas en la Cuenca Septentrional del Titicaca», 295-320, en la obligatoria de 3.3; el mismo volumen reaparece en la complementaria de 3.4 con C. Stanish, «La Ocupación Inca en la cuenca del Titicaca», 339-383, allí con el pie «Instituto Francés de Estudios Andinos-Cotsen Institute of Archaeology at UCLA» y el editor impreso «Tantalean», sin tilde",
+          "role": "obligatoria · 3.3 (C) · + complementaria 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-nielsen-produccion-y-circulacion-prehispanicas",
+          "name": "Producción y circulación prehispánicas de bienes en el sur andino — Axel Nielsen et al. (eds.) (Córdoba, Editorial Brujas, 2007) · A. Nielsen, «Bajo el hechizo de los emblemas: Políticas corporativas y tráfico interregional en los Andes Circumpuneños», 393-411",
+          "role": "obligatoria · 3.3 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-munoz-collazos-interpretando-huellas",
+          "name": "Interpretando huellas. Arqueología, Etnohistoria y Etnografía de los Andes y sus Tierras Bajas — Muñoz Collazos (editora) [así impreso, sin nombre de pila] (Cochabamba, Grupo editorial Kipus, 2018) · A. Nielsen, «Chullpas y sociedad en la historia prehispánica tardía del altiplano sur», 570-588",
+          "role": "obligatoria · 3.3 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-la-integracion-surandina-cinco-siglos-despues",
+          "name": "La Integración Surandina Cinco Siglos Después — (Cuzco, Centro de Estudios Regionales Andinos «Bartolomé de las Casas», 1996; el programa no consigna editor ni compilador) · L. Núñez A., «Movilidad Caravánica en el Área Centro Sur Andina. Reflexiones y Expectativas», 43-61",
+          "role": "obligatoria · 3.3 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-bouysse-cassagne-tres-reflexiones-sobre-el-pensamiento-andino",
+          "name": "Tres Reflexiones sobre el Pensamiento Andino — Thérèse Bouysse Cassagne (et al. ed.) (La Paz, Hisbol, 1987) · T. Platt, «Entre ch'awxa y muxsa. Para una historia del pensamiento político aymara», 61-132",
+          "role": "obligatoria · 3.3 (D)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-vincent-nicolas-betanzos",
+          "name": "Betanzos. Cerros caminos tambos haciendas y rebeliones — Vincent Nicolás [así impreso, con el orden de nombre y apellido invertido respecto del resto de la lista] (Betanzos, Gobierno Autónomo Municipal de Betanzos, 2018) · Introducción y Capítulo 1 «El cerro Thumilki, entre yamparas, qaraqaras e incas», 15-56",
+          "role": "obligatoria · 3.3 (D)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-fossa-narrativas-problematicas",
+          "name": "Narrativas Problemáticas. Los inkas bajo la pluma española — Lydia Fossa (Lima, PUCP-IEP, 2006) · Introducción y Cap. 1 «Los documentos manuscritos coloniales»",
+          "role": "obligatoria · 3.4 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-martinez-los-discursos-sobre-los-otros",
+          "name": "Los discursos sobre los otros. Una aproximación metodológica interdisciplinaria — José Luis Martínez (Santiago de Chile, Ediciones Facultad de Filosofía y Humanidades, 2000) · «Documentos y discursos. Una reflexión desde la etnohistoria», 9-24",
+          "role": "obligatoria · 3.4 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-pease-las-cronicas-y-los-andes",
+          "name": "Las Crónicas y los Andes — G. Franklin Pease [así impreso, «Pease, G. Franklin»] (México, FCE, 1995) · Cap. 2, 3 y 4",
+          "role": "obligatoria · 3.4 (A)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-kolata-el-poder-de-los-incas",
+          "name": "El poder de los Incas La organización social, económica, religiosa y política de un imperio [así impreso, sin puntuación entre título y subtítulo] — Alan L. Kolata (Lima, PUCP, 2023) · Cap. 3, 91-163 (3.4 B) y Cap. 4, 163-240 (3.4 C)",
+          "role": "obligatoria · 3.4 (B y C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-daltroy-los-incas",
+          "name": "Los Incas — Terence N. D'Altroy (Barcelona, Ariel Pueblos, 2003) · Cap. 5 «Los linajes políticos en Cuzco», 116-142, en la obligatoria de 3.4; el mismo volumen reaparece en la complementaria de 3.4 con «Caps. 3, 4, 5 y 6»",
+          "role": "obligatoria · 3.4 (B) · + complementaria 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-julien-reading-inca-history",
+          "name": "Reading Inca History — Catherine J. Julien (Iowa City, University of Iowa Press, 2000) · Introducción y Cap. 2 (Traducción)",
+          "role": "obligatoria · 3.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-lane-the-inca-lost-civilization",
+          "name": "The inca lost Civilization [así impreso] — Kevin Lane (London, Reaktion books, 2022) · Capítulo IV «Tecnología y Arquitectura» (Traducción)",
+          "role": "obligatoria · 3.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-mas-alla-del-silencio",
+          "name": "Más Allá del Silencio. Las Fronteras de Género en los Andes — (La Paz, 1998; el programa no consigna editorial ni editor/a) · P. Gose, «El Estado Incaico como una mujer escogida (Aqlla): Consumo, Tributo y la Regulación del Matrimonio en el Incanato», 457-473",
+          "role": "obligatoria · 3.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-parssinen-tawantinsuyu",
+          "name": "Tawantinsuyu. El estado inca y su organización política — Martii Pärssinen [así impreso] (Lima, IFEA-Pontificia Universidad Católica del Perú, 2003) · Caps. V y VI",
+          "role": "obligatoria · 3.4 (B)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-murra-la-organizacion-economica-del-estado-inca",
+          "name": "La Organización Económica del Estado Inca — John V. Murra (México, Siglo XXI, 1978)",
+          "role": "obligatoria · 3.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-el-debate-permanente",
+          "name": "El Debate permanente. Modos de producción y revolución en América Latina — Juan Marchena, Manuel Chust y Mariano Schlez (editores) [impreso sin comas] (Santiago de Chile, 2020; el programa no consigna editorial) · T. Platt, «El aporte de la antropología al debate de los modos de producción andinos», 152-159",
+          "role": "obligatoria · 3.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-sternfeld-la-organizacion-laboral-del-imperio-inca",
+          "name": "La organización laboral del Imperio Inca — Gabriela Sternfeld (Madrid, Iberoamericana Vervuert, 2007) · Capítulo 1, 2 y 3",
+          "role": "obligatoria · 3.4 (C)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-pease-del-tawantinsuyu-a-la-historia-del-peru",
+          "name": "Del Tawantinsuyu a la Historia del Perú — Franklin Pease (Lima, Instituto de Estudios Peruanos, 1989) · Capítulo 1",
+          "role": "obligatoria · 3.4 (E)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-rivera-casanovas-ocupacion-inka-y-dinamicas-regionales",
+          "name": "Ocupación Inka y dinámicas regionales en los Andes (siglos XV-XVII) — Claudia Rivera Casanovas (ed.) (IFEA-Plural Editoras, 2014; el programa no consigna ciudad) · C. Rivera Casanovas, «Estrategias de control imperial, movimientos poblacionales y dinámicas regionales durante el período Tardío en la región de San Lucas, Chuquisaca», 67-98",
+          "role": "obligatoria · 3.4 (E)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-dussel-1492-el-encubrimiento-del-otro",
+          "name": "1492. El encubrimiento del Otro. Hacia el origen del «mito de la Modernidad» — Enrique Dussel (La Paz, Plural, 1994)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-handbook-on-the-politics-of-taxation",
+          "name": "Handbook on the Politics of Taxation — Lukas Hakelberg, Otto Suhr y Laura Seelkopf (editores) [impreso sin comas] (Cheltenham, Edward Elgar Publishing Limited, 2021) · E. Kiser, «Premodern taxation», 17-30",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-lewellen-introduccion-a-la-antropologia-politica",
+          "name": "Introducción a la antropología política — Ted C. Lewellen (Barcelona, Ed. Bellaterra, 1994)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-mamani-condori-los-aymaras-frente-a-la-historia",
+          "name": "Los aymaras frente a la historia: Dos ensayos metodológicos — Carlos Mamani Condori (La Paz, Aruwiyiri Chukiyawu, 1992) · el asiento está impreso dos veces, palabra por palabra, dentro del mismo bloque de complementaria de la U1",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-critica-y-descolonizacion",
+          "name": "Crítica y descolonización: el sujeto en la cultura latinoamericana — Beatriz González Stephan y Lucia Helena Costigan [Ed.] (Caracas, Universidad Simón Bolívar y The Ohio State University, 1992) · W. Mignolo, «La semiosis colonial: la dialéctica entre representaciones fracturadas y hermenéuticas pluritópicas», 27-47",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-espacio-y-organizacion-social",
+          "name": "Espacio y Organización social — (Madrid, Universidad Complutense de Madrid, 1990; el programa no consigna editor/a) · F. Nocete, «Territorio de coerción: el paradigma de las jefaturas», 57-89",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-service-los-origenes-del-estado-y-de-la-civilizacion",
+          "name": "Los orígenes del Estado y de la civilización: el proceso de evolución cultural — Elman R. Service (Madrid, Alianza, 1984)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-blanton-ancient-mesoamerica",
+          "name": "Ancient Mesoamerica. A comparison of change in three regions — Blanton, Kowalewski, Feinman y Finsten [así impreso, sin iniciales] (Cambridge University Press, 1981) · «What is Mesoamerica?», 219-225",
+          "role": "complementaria · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-reconstruyendo-la-ciudad-maya",
+          "name": "Reconstruyendo la ciudad maya: el urbanismo en las sociedades antiguas — Andrés Ciudad Ruiz, María Josefa Iglesias Ponce de León y María del Carmen Martínez (Coord.) (Valladolid, Sociedad Española de Estudios Mayas, 2001) · L. Manzanilla, «Agrupamientos sociales y gobierno en Teotihuacan», 461-482",
+          "role": "complementaria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-cobean-tula",
+          "name": "Tula — Robert Cobean, Elizaheth Jiménez García [así impreso] y Guadalupe Mastache (México, FCE, 2012)",
+          "role": "complementaria · 2.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-navarrete-los-origenes-de-los-pueblos-indigenas",
+          "name": "Los orígenes de los pueblos indígenas del valle de México. Los altépetl y sus historias — Federico Navarrete Linares (México, Universidad Nacional Autónoma de México – Instituto de Investigaciones Históricas, 2011)",
+          "role": "complementaria · 2.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-los-pueblos-amerindios-mas-alla-del-estado",
+          "name": "Los pueblos amerindios más allá del estado — Berenice Alcántara Rojas y Federico Navarrete Linares (coordinadores) (México, Universidad Nacional Autónoma de México – Instituto de Investigaciones Históricas, «UNAM digital», 2011) · Salomón Vergara, «Chichimecas y toltecas más allá de una visión evolucionista»",
+          "role": "complementaria · 2.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-reyes-valencia-la-formacion-social-tributaria-de-los-aztecas",
+          "name": "La formación social tributaria de los aztecas — Marco Antonio Reyes Valencia (Morelia, Michoacán, Universidad Michoacana de San Nicolás de Hidalgo, Instituto de Investigaciones Históricas, Coordinación de la Investigación Científica, 2021)",
+          "role": "complementaria · 2.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-palerm-obras-hidraulicas-prehispanicas",
+          "name": "Obras hidráulicas prehispánicas en el sistema lacustre del Valle de México — Angel Palerm [así impreso, sin tilde] (Mexico [así impreso], SEP.INAH, 1973)",
+          "role": "complementaria · 2.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-haas-pozorski-the-origins-and-development-of-the-andean-state",
+          "name": "The Origins and Development of the Andean State — J. Haas, S. Pozorski y T. Pozorski (eds.) (Cambridge, Cambridge University Press, 1987)",
+          "role": "complementaria · 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-troll-las-culturas-superiores-andinas",
+          "name": "Las culturas superiores andinas y el medio geográfico — Carl Troll (Lima, Publicaciones del Instituto de Geografía, Universidad Nacional Mayor de San Marcos, 1959)",
+          "role": "complementaria · 3.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-tantalean-arqueologia-de-la-formacion-del-estado",
+          "name": "Arqueología de la formación del estado. El caso de la Cuenca norte del Titicaca — Henry Tantaleán (Lima, Fondo editorial del pedagógico San Marcos, 2008)",
+          "role": "complementaria · 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-bouysse-cassagne-la-identidad-aymara",
+          "name": "La identidad aymara. Aproximación histórica (Siglo XV- Siglo XVI) — Thérèse Bouysse-Cassagne (La Paz, Hisbol, 1987) · «Del espacio del grupo al espacio individual», 207-256",
+          "role": "complementaria · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-bauer-el-desarrollo-del-estado-inca",
+          "name": "El desarrollo del estado inca — Brian S. Bauer (Cusco, Centro de Estudios Regionales Andinos Bartolomé de las Casas, 1996)",
+          "role": "complementaria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-espinoza-soriano-los-incas",
+          "name": "Los Incas. Economía, Sociedad y Estado en la era del Tawantinsuyu — Waldemar Espinoza Soriano (Lima, Amaru Ediciones, 1997)",
+          "role": "complementaria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-historia-de-america-latina-i",
+          "name": "Historia de América Latina. I América Latina Colonial: La América Precolombina y la Conquista — (Barcelona, Crítica, 1990; el programa no consigna editor/a) · J. V. Murra, «Las sociedades andinas antes de 1532», 48-75",
+          "role": "complementaria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-rostworowski-estructuras-andinas-del-poder",
+          "name": "Estructuras andinas del poder. Ideología religiosa y política — María Rostworowski (Lima, Instituto de Estudios Peruanos, 1983)",
+          "role": "complementaria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-shimada-the-inka-empire",
+          "name": "The Inka Empire A Multidisciplinary Approach [así impreso, sin puntuación entre título y subtítulo] — Izumi Shimada (Austin, University of Texas Press, 2015)",
+          "role": "complementaria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-alva-ixtlilxochitl-historia-de-la-nacion-chichimeca",
+          "name": "Historia de la nación chichimeca — Fernando de Alva Ixtlilxochitl (México, FCE; el programa no consigna año) · Cap. 1 al 6",
+          "role": "fuentes · 2.3 «Fuentes para la narración de las migraciones»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-brito-guadarrama-el-codice-boturini",
+          "name": "El códice Boturini o tira de la peregrinación — Baltasar Brito Guadarrama (Ed.) (México, FCE / INAH, 2023)",
+          "role": "fuentes · 2.4 «Fuentes escritas para el estudio de la dinámica imperial mexica»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-duran-historia-de-las-indias-de-nueva-espana",
+          "name": "Historia de las Indias de Nueva España e Islas de Tierra Firme, 2 vols. — Diego Durán, edición de Ángel María Garibay (México DF, Porrúa; el programa no consigna año) · Cap. IX, 79-80",
+          "role": "fuentes · 2.4 «Fuentes escritas para el estudio de la dinámica imperial mexica»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-cieza-de-leon-cronica-del-peru",
+          "name": "Crónica del Perú: primera parte — Pedro Cieza de León (Lima, Pontificia Universidad Católica del Perú, 1984) · Selección",
+          "role": "fuentes · 3.3 «Fuentes escritas sobre las sociedades aymaras»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-tres-relaciones-de-antiguedades-peruanas",
+          "name": "Tres relaciones de antigüedades peruanas — Marcos Jiménez de la Espada (Madrid, Imprenta y Fundición de M. Tello, 1879) · Juan de Santa Cruz Pachacuti Yamqui Salcamayhua, «Relación de las antigüedades deste reyno del Pirú» · Selección",
+          "role": "fuentes · 3.3 «Fuentes escritas sobre las sociedades aymaras»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-urbano-wiracocha-y-ayar",
+          "name": "Wiracocha y Ayar. Héroes y funciones en las sociedades andinas — Henrique Urbano (Cuzco, Centro de estudios rurales andinos «Bartolomé de las casas», 1981) · Selección",
+          "role": "fuentes · 3.4 «Fuentes escritas sobre el Tawantinsuyu»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-betanzos-suma-y-narracion-de-los-incas",
+          "name": "Suma y narración de los Incas — Juan de Betanzos, Ma. Del Carmen Martín Rubio (ed.) (Madrid, Polifemo, 2004) · Selección",
+          "role": "fuentes · 3.4 «Fuentes escritas sobre el Tawantinsuyu»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-1.libro-ondegardo-el-orden-del-inca",
+          "name": "El orden del Inca — Polo de Ondegardo, edición de Andrés Chirinos y Martha Zegarra (Lima, Editorial Commentarios [así impreso], 2013) · Selección",
+          "role": "fuentes · 3.4 «Fuentes escritas sobre el Tawantinsuyu»",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA I (De los orígenes a la conquista), cód. 0426 /14013, Profa. Dra. Laura Quiroga, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0426_14013%20-%20HISTORIA%20DE%20AM%C3%89RICA%20I%20%28DE%20LOS%20OR%C3%8DGENES%20HASTA%20LA%20CONQUISTA%29%20-%20A%20-%20QUIROGA%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA I (De los orígenes a la conquista), cód. 0426 /14013, Profa. Dra. Laura Quiroga, 1º cuatrimestre 2026 (18 pp., PDF con capa de texto nativa) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-america1-quiroga-2026.txt. El nombre del archivo publicado incluye la letra «- A -», que NO aparece dentro del documento",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0426_14013%20-%20HISTORIA%20DE%20AM%C3%89RICA%20I%20%28DE%20LOS%20OR%C3%8DGENES%20HASTA%20LA%20CONQUISTA%29%20-%20A%20-%20QUIROGA%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA I (de los orígenes hasta la Conquista) “B”, PROFESOR/A: MOLINA, FERNANDA, CÓDIGO Nº: 0426 / 14013, RÉGIMEN DE PROMOCIÓN: EF, 2º CUATRIMESTRE 2026, 15 pp. — la cátedra alternativa, NO dibujada: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0426%20-%2014013]%20-%20HISTORIA%20DE%20AMERICA%20I%20%28DE%20LOS%20OR%C3%8DGENES%20HASTA%20LA%20CONQUISTA%29%20-%20B%20-%20MOLINA%20-%202%C2%BA%202026.pdf"
+    }
+  ]
+}

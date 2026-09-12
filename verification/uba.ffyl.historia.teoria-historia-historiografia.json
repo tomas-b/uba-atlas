@@ -1,0 +1,21 @@
+{
+  "address": "uba.ffyl.historia.teoria-historia-historiografia",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 15,
+  "units_found": 15,
+  "books_total": 44,
+  "books_found": 44,
+  "not_found": [
+    "Normalización declarada: el encabezado de Tercera U2 se describe «con comillas rectas» — hexdump de L325/L418 da U+201D (comillas CURVAS); el defecto real es una comilla de cierre donde correspondería la de apertura, más el espacio faltante. Reparar la caracterización: «con una comilla de cierre (”) donde correspondería la de apertura»."
+  ],
+  "omitted": [
+    "Nit no accionable: sources[1] declara que su extracción de la portada Rodríguez pierde el guión del REDEC; una extracción -layout fresca lo reproduce — declarado como artefacto propio, no atribuido al documento, pero irreproducible.",
+    "Nits menores: «solo en la dirección del nodo» impreciso (role también desambigua; name no, como se afirma); el árbol abrevia p1-u3 omitiendo «historiográfica» (el name completo); pie de White «Buenos Aires FCE» sin coma, el paréntesis de casa inserta una."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (15 pp, sha256 20d5f317…). 15 nodos y 121 asientos recontados programáticamente — todo exacto: 73 exigidos, las 21 exclusiones una a una, 52 con volumen, 8 repetidos de 7 volúmenes → 44 libros = 44 exits, biyección completa. Las 15 contradicciones verdaderas (U5 dos títulos L349/454; la Tercera pierde «POLÍTICAS DE LA HISTORIA» en d.; b. Objetivos sin objetivos; Noiriel dos pies; Zapata sin identidad afirmada y su asiento entre los 21 excluidos). Colisión de numeración manejada sólo en direcciones — verificado que ningún name filtra la parte. Las 35 erratas verbatim 1 vez cada una. Portada Rodríguez re-bajada: todos los campos literales; ningún programa imprime letra. Greps exactos (cátedra exactamente 5 = 4 editorial + 1 REDEC). Un solo error: la caracterización del carácter de comillas en una normalización declarada."
+}

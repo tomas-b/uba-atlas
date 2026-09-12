@@ -1,0 +1,21 @@
+{
+  "address": "uba.ffyl.historia.historia-america-3",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 18,
+  "units_found": 18,
+  "books_total": 146,
+  "books_found": 146,
+  "not_found": [
+    "Frame, ASIENTOS INCOMPLETOS: «del Alcázar Garrido y Rouquié (en U6) no dan páginas de capítulo en algunos asientos» — REFUTADO para Rouquié: su único asiento obligatorio (L190-191, U6) SÍ imprime páginas «247-270», y el propio nodo las registra en el libro #23 — el frame se contradice con su propio grupo de libros. del Alcázar (L269-271) sí carece de páginas. Reparar: quitar «y Rouquié (en U6)»."
+  ],
+  "omitted": [
+    "Formulación laxa, no falsedad: «que el apartado C no lista en ninguna parte» — ninguno de los once bloques figura como ítem de C, pero la cadena «Las repúblicas oligárquicas» sí se imprime dentro de C (encabezados de U3 y U4). Acotar la frase. Menor.",
+    "Tres de los once bloques se dibujan sin el punto final que el original imprime, mientras la nota promete «su encabezado literal» — normalización trivial, declarable. Menor."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (12 pp, md5 5e0aeba6…). Every number re-derived by hand and exact: 7 units + 11 D-only blocks (nine with the orphan «.», zero tagged unidad, `práctic` never heading a block); 55 obligatorios with both per-block vectors exact; 127 referencia across the seven headings; exclusions closing both directions; 44→37 via exactly 7 unifications; 126→124−15=109 with the per-section drawn counts re-derived; 146 book exits, zero duplicate addresses, zero fabricated books. All 11 bibliographic contradictions verified verbatim both sides incl. the Brading same-pages gem; the 5 C-vs-D divergences and the U4/U7 word-for-word agreements confirmed; double D in the apartado sequence; «A» printed twice with the accent split; B cover re-fetched live (letter present, «DE» dropped). Absences confirmed; plan cross-datum properly attributed. One prose defect the node's own books group disproves."
+}

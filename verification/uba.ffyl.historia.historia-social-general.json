@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.historia-social-general",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 45,
+  "books_found": 45,
+  "not_found": [
+    "Frame, FORMA DE LA BIBLIOGRAFÍA GENERAL: «salvo una docena que agrega el nombre» — son exactamente TRES (BOIS L409, BONNASSIE L412, IOGNA-PRAT L446), enumeración completa de los 87 asientos. Reparar: «salvo tres».",
+    "Lede: «un relato provisional» entre guillemets — la cadena NO aparece en el PDF: L52 «un relato instrumental, a ser deconstruido…», L54 «un organizador provisional», L56 «todo relato provisorio». Conflación dentro de guillemets, contra la convención del propio nodo (cuyo título usa la forma impresa correcta «provisorio»). Reparar con una forma impresa real."
+  ],
+  "omitted": [
+    "Sección «b. Objetivos» (L67, 72-80) nunca nombrada ni representada (fines propedéuticos; sólo un eco oblicuo en el lede). Menor: prosa, no estructura.",
+    "Recomendaciones 3 y 4 (L605-610) silenciadas; 1, 2, 5, 6 y 8 sí están citadas. Menor."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (13 pp, md5 fe8848ef…). Todos los números re-derivados exactos: 4 unidades; 204 asientos (50/54/13/87 con los splits por unidad correctos, incl. dos entradas con form-feed que un grep ingenuo pierde); los 50 obligatorios mapean biyectivamente a los 45 volúmenes vía las 5 unificaciones declaradas — cero fugas, cero caídas. Las 8 contradicciones reales con ambos lados impresos donde se afirma (ítem 7 ausente; Kershaw Titivillus/Crítica; Elliot DE/EN 1989/1981; Mosse XIX/XX...). Las 4 carátulas alternas re-leídas: todos los hechos afirmados correctos, incl. los 4 page counts, la E sin letra, 0402-E y su REDEC-2023-2382. Cátedra = 15 apariciones con el desglose exacto del nodo (10 créditos de traducción, 2 editorial Cátedra, 1 REDEC, 2 recomendaciones). MORIN/MORÍN exacto (filename acentuado vs 3+firma sin tilde). Ausencias confirmadas (correlativ/equivalenc/resoluci = 0; sin % de virtualidad propio). Dos defectos, ambos de prosa: un cuantificador inflado y una cita en guillemets no verbatim."
+}

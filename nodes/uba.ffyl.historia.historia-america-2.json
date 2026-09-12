@@ -1,0 +1,888 @@
+{
+  "address": "uba.ffyl.historia.historia-america-2",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial, con 1 recuperatorio · dos opciones de aprobación: Opción A (80% de asistencia a cada instancia de la cursada y promedio ≥ 7 sin ningún aplazo) y Opción B (75% de asistencia a trabajos prácticos, ≥ 4 en cada parcial, promedio ≥ 4 y < 7, más EXAMEN FINAL con nota mínima de 4)",
+    "cargaHoraria": "96 HORAS (la portada imprime «CARGA HORARIA: 96 HORAS»; el apartado e. reproduce la pauta del formulario, «Materia Cuatrimestral: La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases», precedida de la instrucción del formulario que quedó sin borrar: «Carga Horaria: [Deje solo la opción que corresponda]»)",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0428/14014 (así impreso, «CÓDIGO Nº: 0428/14014»; este programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE AMÉRICA II (COLONIAL)»",
+    "catedra": "el programa NO designa cátedra por letra, número ni nombre. La palabra «cátedra» aparece exactamente tres veces en el PDF y ninguna la denomina: una en un crédito de traducción de la bibliografía («Hay traducción de la cátedra», en el asiento de Burns, Unidad 10), una en la nota d) sobre las fuentes documentales («los cuadernillos de Selección de Fuentes Documentales ofrecidos por la Cátedra en versión digital a través del Campus Virtual») y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). El Departamento de Historia publica una sola composición de cátedra para esta materia —«Historia de América II (Colonial) - SCHMIT, Roberto Daniel»—: dato de la ficha del Departamento, no del programa",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "SCHMIT ROBERTO (portada: «PROFESOR/A: SCHMIT ROBERTO»; encabezado interno: «PROFESOR ASOCIADO: DR. SCHMIT ROBERTO»; firma al pie: «Dr. Roberto Schmit / Profesor Asociado»)",
+      "WASSERMAN MARTÍN (PROFESOR ADJUNTO · DR.; firma al pie: «Dr. Martín Wasserman / Profesor Adjunto»)",
+      "FERNÁNDEZ MARÍA ALEJANDRA (JEFA DE TRABAJOS PRÁCTICOS · DRA.)",
+      "CONDOLEO SANDRA (JEFA DE TRABAJOS PRÁCTICOS · PROF.)",
+      "ALEMANO MARÍA EUGENIA (AYUDANTE DE 1ª · DRA.)",
+      "ALVAREZ MATIAS (AYUDANTE DE 1ª · LIC.)",
+      "CALETTI GARCÍADIEGO BÁRBARA (AYUDANTE DE 1ª · LIC.)",
+      "COMICCIOLLI AGUSTÍN (AYUDANTE DE 1ª · PROF.)",
+      "GASTELLÚ SOFÍA (AYUDANTE DE 1ª · LIC.)",
+      "MARTÍNEZ CECILIA (AYUDANTE DE 1ª · DRA. · «En uso de licencia»)",
+      "QUIROGA DANIEL (AYUDANTE DE 1ª · LIC.)",
+      "ZAGALSKY PAULA (AYUDANTE DE 1ª · DRA.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "recomendaciones": "«Se recomienda haber cursado previamente la materia Historia de América I» (apartado g. Recomendaciones). El programa NO imprime correlatividades: la cadena «correlativ» no aparece en el texto",
+    "ubicacionEnElPlan": "materia específica obligatoria del Ciclo de Grado (las doce «de Oriente antiguo a la Argentina de hoy») — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 10,
+    "bibliografia": 99,
+    "firmaDelDocumento": "«Dr. Roberto Schmit / Profesor Asociado» y «Dr. Martín Wasserman / Profesor Adjunto»"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-america-2",
+      "label": "Historia de América II (Colonial)"
+    }
+  ],
+  "eyebrow": "Historia · Historia de América II (Colonial) · Schmit · 2º cuatrim. 2026",
+  "title": "Dos regiones para explicar un imperio.",
+  "lede": "Diez unidades sobre el proceso que configuró el orden colonial en Iberoamérica y, según declara el propio programa, «fundamentalmente, en la América Hispana», estudiado a través de dos regiones neurálgicas —Nueva España y los Andes— a lo largo de los siglos XVI a XVIII. Se entra por la expansión europea y la invasión de América: las etapas de la conquista, las visiones de los conquistadores, la construcción de la categoría de «indio» y el «gran debate» del siglo XVI sobre el estatus de los indios. Sigue el orden colonial inicial —el impacto de la conquista, el tributo indígena, la encomienda, la crisis demográfica— y su reforma en el siglo XVI: las reformas del virrey Toledo, reducciones, mitas, evangelización, el reparto forzoso de mercancías, los curas, corregidores y curacas, la producción minera y la formación del «mercado interno colonial». La «crisis del siglo XVII» abre el problema de las dinámicas de la economía colonial, la oposición de las elites locales y las estrategias indígenas de los cacicazgos. Después, la Iglesia y el gobierno: el régimen de cristiandad, clero regular y secular, la extirpación de las «idolatrías», las dos Repúblicas, y la justicia colonial como dispositivo de dominación y a la vez espacio de resistencia —el pacto colonial—. Los sistemas agrarios traen haciendas, plantaciones, trabajo esclavo y la experiencia brasileña; el siglo XVIII, el reformismo borbónico —la guerra de los Siete Años, fiscalidad, «defensa total», el nuevo regalismo, las milicias, las elites americanas— y el relanzamiento de la minería y del comercio, con Potosí y los costos del colonialismo en Nueva España. Cierra con las rebeliones andinas —la Gran Rebelión, mesianismo, milenarismo y «utopía andina», los focos insurreccionales— y una unidad especial para el Ensayo y Coloquio sobre archivos y fuentes: la escritura en el proyecto imperial español, sus agentes y la construcción de una narrativa sobre la verdad. La cursada agrega dos Talleres de Fuentes Documentales sobre cuadernillos de la propia cátedra.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "10",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Schmit"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE AMÉRICA II (COLONIAL), Departamento de Historia (FFyL-UBA), cód. 0428/14014, Prof. Roberto Schmit, 2º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (12 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-america2-schmit-2026.txt), salvo tres datos que se declaran como cruzados y se marcan como tales. CÁTEDRA, cómo consta: el programa no designa cátedra por letra, número ni nombre; la palabra «cátedra» aparece exactamente tres veces en el PDF y ninguna la denomina —una en un crédito de traducción de la bibliografía («Hay traducción de la cátedra», Burns, Unidad 10), una en la nota d) sobre los cuadernillos de fuentes («ofrecidos por la Cátedra en versión digital a través del Campus Virtual») y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)—. DATO CRUZADO 1 (ficha del Departamento, no el programa): la página de la materia en historia.filo.uba.ar publica una sola composición de cátedra, «Historia de América II (Colonial) - SCHMIT, Roberto Daniel», y consigna como «Ultimo Programa aprobado» exactamente este PDF, «[0428 - 14014] - HISTORIA DE AMÉRICA II (COLONIAL) - SCHMIT - 2C 2026.pdf», con «2º Cuatrimestre», «Se dicta en el año en curso» y «Promoción Directa». Esa ficha lista a ALEMANO, María Eugenia como «Jefe de Trabajos Prácticos - Interino», mientras el programa la imprime como «AYUDANTE DE 1ª: DRA. ALEMANO MARÍA EUGENIA»: la divergencia entre las dos fuentes queda registrada y no se resuelve; el equipo docente de este nodo es el que imprime el programa. DATO CRUZADO 2 (nodo padre): la ubicación de la materia —materia específica obligatoria del Ciclo de Grado del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa, que no consigna plan, ciclo, orientación, correlatividades ni equivalencias. DATO CRUZADO 3 (otro programa del mismo profesor, no dibujado): el Departamento publica además un programa de BIMESTRE DE VERANO 2026 de la misma materia y el mismo profesor, cuya portada fue extraída y verificada directamente para esta ficha y dice «CÓDIGO Nº: 0428/14014», «MATERIA: HISTORIA DE AMÉRICA II (COLONIAL) (PLAN 1985/PLAN 2024)», «RÉGIMEN DE PROMOCIÓN: PD», «CARGA HORARIA: 96 HORAS», «BIMESTRE DE VERANO 2026», «AÑO: 2026», «PROFESOR ASOCIADO: DR. SCHMIT ROBERTO», con un equipo reducido (CONDOLEO como Jefa de Trabajos Prácticos y COMICCIOLLI como Ayudante de 1ª), 10 páginas; su URL queda asentada en sources. De ese programa de verano no se extrae ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Dos hechos de ese cotejo se registran sin resolverse: (a) el archivo se publica en el sitio con el nombre «0422_14014 - HISTORIA DE AMÉRICA II (COLONIAL) - SCHMIT - BV 2026.pdf», con 0422 en el nombre y 0428 en la portada; y (b) esa portada de verano SÍ imprime «(PLAN 1985/PLAN 2024)» mientras el programa del 2º cuatrimestre que acá se dibuja NO imprime ningún plan: por eso este nodo no le atribuye plan alguno al par de códigos 0428/14014. ESTRUCTURA DEL DOCUMENTO: siete apartados completos, a. a g. —a. Fundamentación y descripción, b. Objetivos, c. Contenidos, d. Bibliografía obligatoria y fuentes, e. Organización del dictado de la materia, f. Organización de la evaluación, g. Recomendaciones—. El apartado c. trae DIEZ unidades temáticas numeradas en arábigos, y el apartado d. trae DIEZ bloques bibliográficos con los mismos diez encabezados, más dos bloques intercalados —«Primer Taller de Fuentes Documentales», entre las unidades 4 y 5, y «Segundo Taller de Fuentes Documentales», después de la unidad 10— y una lista final, sin letra de apartado, titulada «Bibliografía de referencia general». Las diez unidades se dibujan; los dos Talleres no son unidades de contenido —no aparecen en el apartado c.— y no se dibujan como unidades. El apartado b. imprime seis objetivos, los seis presentados como «objetivos generales» («Como objetivos generales, el presente programa postula que los y las estudiantes: 1) … 6) …»): el programa no distingue objetivos específicos, y los seis no se dibujan como grupo. FORMULARIO vs. CONTENIDO: el encabezado del apartado d. es «Bibliografía obligatoria y fuentes», y dentro de cada unidad los subencabezados son solo dos, «Bibliografía para clases teóricas:» y «Bibliografía para la discusión en comisiones de Trabajos Prácticos:». NO hay bibliografía complementaria en ninguna unidad —la cadena «complementaria» aparece una sola vez en todo el PDF y es ajena a la bibliografía: «pautas complementarias para el dictado de las asignaturas de grado», dentro de la cita del REDEC—, ni filmografía ni discografía —las cadenas «filmograf» y «discograf» no aparecen—. Se declara la falta en lugar de completarla. Además, la instrucción del formulario quedó sin borrar en el apartado e.: «Carga Horaria: [Deje solo la opción que corresponda]». CUENTA DE LA BIBLIOGRAFÍA, EN LAS DOS DIRECCIONES. El apartado d. tiene 37 asientos repartidos por unidad (U1: 3 · U2: 5 · U3: 3 · U4: 5 · U5: 5 · U6: 1 · U7: 4 · U8: 5 · U9: 5 · U10: 1), que por destino son 28 «para clases teóricas» (3, 3, 2, 4, 4, 1, 3, 4, 3, 1) y 9 «para la discusión en comisiones de Trabajos Prácticos» (0, 2, 1, 1, 1, 0, 1, 1, 2, 0). Las Unidades 1, 6 y 10 no traen ningún asiento de prácticos, y la Unidad 6 trae un solo asiento en total. A esos 37 se suman los 2 asientos de los Talleres —«Cuadernillo Selección de Fuentes Documentales, Historia de América II (Colonial), Primera Parte» y «… Segunda Parte»— y las 73 entradas de la «Bibliografía de referencia general»: 112 asientos en total. Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—. DE LA BIBLIOGRAFÍA OBLIGATORIA: no se dibujan los 4 asientos cuyo contenedor es una revista —Gil Montero en European Review of Latin American and Caribbean Studies, n. 99 (U2); Owensby en Historia Mexicana, Vol. LXI, Nº 1, y Estenssoro Fuchs en el Boletín del Instituto Francés de Estudios Andinos 30-3 (U5); Burns en The American Historical Review, Vol. 110, No. 2 (U10)—, ni los 2 Cuadernillos de los Talleres, que no llevan pie editorial y el programa declara disponibles «en versión digital a través del Campus Virtual». Quedan 33 asientos con volumen, que al unificar los repetidos dan 28 libros, y 28 son los que se dibujan. Los volúmenes que reaparecen son cuatro: Brading, Orbe Indiano (U1 y U2); Stern, Los pueblos indígenas del Perú (U2 y U3 en prácticos, U5 en teóricas); Harris, Larson y Tandeter, La participación indígena en los mercados surandinos (dos asientos dentro de la U4, uno de teóricas y otro de prácticos); e Historia General de América Latina, vol. IV en su pie de 2000 (Acosta Rodríguez en teóricas y Gelman en prácticos, U7). CONSECUENCIA REGISTRADA: la Unidad 10 no aporta ningún libro —su único asiento es un artículo de revista—. DE LA BIBLIOGRAFÍA DE REFERENCIA GENERAL: sus 73 entradas corresponden a 74 volúmenes, porque una sola entrada nombra dos obras («BERNAND, Carmen y Serge GRUZINSKI, Historia del Nuevo Mundo. Del Descubrimiento a la Conquista. La experiencia europea, 1492-1550, México, F.C.E., 1996; Los mestizajes, 1550-1640, México, F.C.E., 1999»), y porque la entrada de Fradera, La nación imperial, «2 vols.», es una sola obra y se dibuja una sola vez. Tres de esos 74 volúmenes ya están dibujados desde la obligatoria y no se duplican —Bonilla, El sistema colonial en la América española; Harris, Larson y Tandeter, La participación indígena en los mercados surandinos; y Connaughton, Historia de América Latina, vol. I, La Época colonial—: quedan 71 volúmenes nuevos, y 71 son los que se dibujan. TOTAL DIBUJADO: 28 + 71 = 99 libros. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial del programa queda fuera. Ningún asiento se descartó por ilegible. CONTRADICCIONES Y DESAJUSTES DEL PROPIO PDF, REGISTRADOS Y NO RESUELTOS: (1) Historia General de América Latina, vol. IV se cita dos veces en la Unidad 7 con datos editoriales incompatibles —«vol. IV: Procesos americanos hacia la redefinición colonial, París-Madrid, Ediciones UNESCO/Editorial TROTTA, 2000», sin director, en Acosta Rodríguez y en Gelman, y «Tandeter, Enrique (dir.), Historia General de América Latina, Vol. IV, Madrid, UNESCO, 2007» en Kuethe—: se dibujan como dos nodos, uno por cada pie editorial impreso, porque unificarlos o separarlos definitivamente sería resolver lo que el programa deja abierto. (2) El sistema colonial en la América española se imprime «Bonilla, H. (ed.), … México, Crítica, 1991» en la Unidad 4 y «BONILLA, Heraclio (comp.), … Barcelona, Crítica, 1991» en la referencia general: mismo título, editorial y año, distinta ciudad y distinta indicación de responsabilidad. (3) En la Unidad 4, Zulawski («Foresteros y yanaconas…») y Saignes («Ayllus, mercado y coacción colonial…») se citan como dos capítulos DISTINTOS del mismo volumen con EXACTAMENTE la misma paginación, «pp. 111-158», uno en teóricas y otro en prácticos. (4) El asiento de Zulawski termina con un «pp.» suelto y sin número: «… pp. 111-158. pp.». (5) Historia de América Latina de Bethell aparece con dos pies distintos: «Barcelona, Cambridge University Press-Editorial Crítica, 1990, Tomo 1» (Elliott, U1) y «Barcelona, Crítica, 1990, Tomo 3» (Florescano, U6); son tomos distintos y se dibujan por separado, pero la divergencia del pie queda anotada. (6) El volumen de Connaughton se imprime «Historia de América Latina, vol. I, La Época colonial» en la Unidad 8 y «Historia de América Latina, vol. 1: La época colonial),» en la referencia general, con un paréntesis de cierre que nunca abre. (7) El apellido de John Elliott se imprime «ELLIOTT» en la Unidad 1 y «ELLIOT» en la referencia general. (8) Ruggiero Romano se imprime «Ruggiero» en el asiento de Moutoukias (U4) y en el de Carmagnani de la referencia general, y «Ruggero» en su propia entrada de la referencia general. (9) David Brading se imprime «BRADING, David A.» en las Unidades 1 y 2, «BRADING, D.» en la Unidad 8 y «BRADING, David» en la referencia general. (10) El volumen de Harris, Larson y Tandeter lleva «siglos XVI-XX» y «CERES» en la Unidad 4, y «Siglos XVI a XX» y «Ceres» en la referencia general. (11) El asiento de Stern en la Unidad 5 encabeza dos capítulos con un solo título y deja un hueco de paginación sin explicar: «Cap. 5: “Los indios y la justicia española”, pp. 185-218. Cap. 6 y Cap. 7: “La tragedia del éxito”, pp. 255-292». (12) La Unidad 10 se titula «Tema especial para el Ensayo y Coloquio», pero el apartado f. Organización de la evaluación describe únicamente «3 (tres) instancias de evaluación parcial» y no menciona en ningún lugar un ensayo ni un coloquio: las palabras «Ensayo» y «Coloquio» no vuelven a aparecer en el PDF fuera de ese encabezado, que se imprime dos veces (con punto final en el apartado c. y sin él en el apartado d.). (13) Las notas metodológicas que siguen a la referencia general están numeradas «a)», «b)» y «d)»: no hay «c)». (14) El apartado f. abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.». ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: en la Unidad 4 se lee «Las formas oposición de las elites locales» (falta «de»); en la Unidad 9, «¿De la “adaptación en resistencia a era de la insurrección”?», con la comilla de apertura desplazada; el título del volumen de Ganci y Romano sale «Governareil Mondo. L'ImperioSpagnolodal XV al XIX secolo», sin los espacios; Thomson imprime «pp. 217-.278» y su título, «Cuándo sólo reinasen los indios»; Assadourian imprime «piedad cristiana y desconstrucción»; Andrien se asienta «IEP, 2011», sin ciudad; Barragan, Villanueva y Machicado se asienta «Bolivia, 2019», sin editorial; O'Phelan Godoy imprime la editorial con comillas simples, «'Bartolomé de Las Casas'», en la Unidad 9, y con comillas dobles en la referencia general; en la referencia general se leen «BURHOKLDER» y «las Audiencia en América», «PADGEN», «Quetzalcoátl», «Manuel(ed.)» sin espacio (dos veces, en Chust), «Castellón, Universitat Jaume I, Castellón» con la ciudad repetida, «La cultura políticas popular en Oaxaca» y su asiento sin editorial («Oaxaca, 2009»), «RUIZ IBAÑEZ» sin tilde, «San salvador de Jujuy», «Travaux de l' IFEA» con espacio tras el apóstrofo, «(siglos XVI- XX)» con espacio dentro del rango, el pie invertido de Menegus y de Taylor («… México, 1999» / «… Zamora, Michoacán, 1999»), la coma sobrante de «HOBERMAN, Louisa. (comps.)», el punto sobrante de «Perú 1790-1814.,» en Sala i Vila, y la coma final suelta de la entrada de Gelman, Llopis y Marichal («… El Colegio de México, 2015,»). Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos la lista de objetivos, entre el objetivo 3) y su continuación; el encabezado de la Unidad temática 10 queda cortado por el salto de línea en los dos lugares donde aparece; y varios títulos largos quedan partidos por el salto de línea. Son efectos del orden de lectura del PDF y no se le atribuyen al programa. NORMATIVA CITADA POR EL PROGRAMA, completa: REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto; solo hay la recomendación «Se recomienda haber cursado previamente la materia Historia de América I»), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos del par «0428/14014».",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 10 unidades temáticas (Schmit, 2º cuatrim. 2026)",
+      "title": "De la invasión de América al archivo colonial",
+      "note": "Las diez unidades temáticas numeradas del apartado c. Contenidos, en el orden impreso. El apartado d. Bibliografía repite exactamente los mismos diez encabezados, e intercala además dos bloques de Taller de Fuentes Documentales que no son unidades de contenido.",
+      "map": {
+        "mk": "El programa, en diez unidades",
+        "tree": "HISTORIA DE AMÉRICA II (COLONIAL) · cód. 0428/14014\nSchmit · 2º cuatrim. 2026 · 96 hs · PD\nNueva España y los Andes, siglos XVI a XVIII\n│\n├─ 1 · La expansión europea y la invasión de América\n│      etapas de la invasión · visiones de los conquistadores\n│      la categoría de «indio» · el «gran debate» del siglo XVI\n├─ 2 · El orden colonial inicial en el imperio hispanoamericano\n│      impacto de la conquista · tributo indígena · encomienda\n│      crisis demográfica indígena · primeras políticas coloniales\n├─ 3 · La reforma del orden colonial en el siglo XVI\n│      reformas del Virrey Toledo · reducciones · mitas\n│      curas, corregidores y curacas · reparto forzoso\n│      minería y «mercado interno colonial»\n├─ 4 · La «crisis del siglo XVII»\n│      crisis europea y economías americanas\n│      oposición de las elites locales · contrabando\n│      estrategias indígenas y cacicazgos\n├─ 5 · Iglesia y gobierno: evangelización y justicia\n│      monarquía católica · clero regular y secular\n│      extirpación de las «idolatrías» · las dos Repúblicas\n│      la justicia como dominación y como resistencia · pacto colonial\n├─ 6 · Sistemas agrarios, campesinado y trabajo esclavo\n│      haciendas y plantaciones · producciones y mercados\n│      el sistema de plantación esclavista · el caso brasileño\n├─ 7 · El reformismo borbónico en los dominios coloniales\n│      guerra de los Siete Años · fiscalidad y «defensa total»\n│      nuevo regalismo · reforma de las milicias · elites americanas\n├─ 8 · Minería, comercio y mercados en el siglo XVIII\n│      relanzamiento minero · Nueva España y los Andes\n│      los costos del colonialismo\n│      trabajo libre y forzado en Potosí\n├─ 9 · Las rebeliones andinas\n│      la Gran Rebelión · mesianismo, milenarismo, «utopía andina»\n│      «adaptación en resistencia» y «era de la insurrección»\n│      focos insurreccionales e ideologías insurgentes\n└─ 10 · Archivos y fuentes para un estudio de la historia colonial\n       tema especial para el Ensayo y Coloquio\n       la escritura en el proyecto imperial español\n       sus agentes y la narrativa sobre la verdad",
+        "foot": "El Departamento publica una sola composición de cátedra para esta materia (Schmit). La cursada agrega dos Talleres de Fuentes Documentales —uno entre las unidades 4 y 5, otro después de la 10— sobre cuadernillos de la propia cátedra; no figuran en el apartado de Contenidos y no se dibujan como unidades."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u1-la-expansion-europea-y-la-invasion-de-america",
+          "name": "La expansión europea y la invasión de América",
+          "role": "Unidad temática 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u2-el-orden-colonial-inicial-en-el-imperio-hispanoamericano",
+          "name": "El orden colonial inicial en el imperio hispanoamericano",
+          "role": "Unidad temática 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u3-la-reforma-del-orden-colonial-hispanoamericano-en-el-siglo-xvi",
+          "name": "La reforma del orden colonial hispanoamericano en el siglo XVI",
+          "role": "Unidad temática 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u4-la-crisis-del-siglo-xvii-y-las-transformaciones-del-orden-colonial",
+          "name": "La «crisis del siglo XVII» y las transformaciones del orden colonial",
+          "role": "Unidad temática 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u5-iglesia-y-gobierno-la-evangelizacion-y-la-justicia",
+          "name": "Iglesia y gobierno: la evangelización y la justicia en la sociedad colonial",
+          "role": "Unidad temática 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u6-los-sistemas-agrarios-coloniales-y-el-trabajo-esclavo",
+          "name": "Los sistemas agrarios coloniales, la génesis del campesinado y el trabajo esclavo",
+          "role": "Unidad temática 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u7-el-reformismo-borbonico-en-los-dominios-coloniales",
+          "name": "El reformismo borbónico en los dominios coloniales",
+          "role": "Unidad temática 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u8-mineria-comercio-y-mercados-en-el-siglo-xviii",
+          "name": "Minería, comercio y mercados en el siglo XVIII",
+          "role": "Unidad temática 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u9-las-rebeliones-andinas",
+          "name": "Las rebeliones andinas",
+          "role": "Unidad temática 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.u10-archivos-y-fuentes-para-un-estudio-de-la-historia-colonial",
+          "name": "Tema especial para el Ensayo y Coloquio: Archivos y fuentes para un estudio de la historia colonial",
+          "role": "Unidad temática 10",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "99 volúmenes con pie editorial: 28 de los 37 asientos de la bibliografía obligatoria del apartado d. (por unidad, distinguiendo teóricas de prácticos) y 71 nuevos de las 73 entradas de la «Bibliografía de referencia general» —tres de sus volúmenes ya vienen dibujados desde la obligatoria y no se duplican—. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo (Brading, Stern, Harris-Larson-Tandeter y el vol. IV de la Historia General de América Latina en su pie de 2000). No se dibujan los 4 asientos de revista ni los 2 Cuadernillos de los Talleres de Fuentes Documentales: quedan declarados uno por uno en el frame. El programa no trae bibliografía complementaria en ninguna unidad. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bethell-historia-de-america-latina-t1",
+          "name": "Historia de América Latina, Tomo 1 — Leslie Bethell (ed.) (Barcelona, Cambridge University Press-Editorial Crítica, 1990) · John H. Elliott, «La conquista española y las colonias de América», pp. 125-169",
+          "role": "obligatoria · teóricas · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-resendez-la-otra-esclavitud",
+          "name": "La otra esclavitud. Historia oculta del esclavismo indígena — Andrés Reséndez (México, Libros Grano de Sal-UNAM, 2019) · Cap. 1: «La debacle caribeña», pp. 23-54, y Cap. 2: «Buenas intenciones», pp. 55-82",
+          "role": "obligatoria · teóricas · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-brading-orbe-indiano",
+          "name": "Orbe Indiano. De la monarquía católica a la república criolla — David A. Brading (México, F.C.E., 1991) · Cap. 1: «Un mundo nuevo», pp. 23-39 (U1); Cap. 3: «El profeta desarmado», pp. 75-97, y Cap. 4: «El gran debate», pp. 98-121 (U2)",
+          "role": "obligatoria · teóricas · U1 y U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-assadourian-transiciones-sistema-colonial-andino",
+          "name": "Transiciones hacia el Sistema Colonial Andino — Carlos S. Assadourian (Lima, El Colegio de México-IEP, 1994) · «La renta de la encomienda en la década de 1550: piedad cristiana y desconstrucción» [así impreso]",
+          "role": "obligatoria · teóricas · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-stern-los-pueblos-indigenas-del-peru",
+          "name": "Los pueblos indígenas del Perú y el desafío de la conquista española — Steve Stern (Madrid, Alianza, 1986) · Cap. 2: «Ascensión y caída de las alianzas post incaicas», pp. 59-92 (U2, prácticos); Cap. 4: «La economía política del colonialismo», pp. 133-184 (U3, prácticos); «Cap. 5: “Los indios y la justicia española”, pp. 185-218. Cap. 6 y Cap. 7: “La tragedia del éxito”, pp. 255-292» [así impreso] (U5, teóricas)",
+          "role": "obligatoria · U2, U3 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-wachtel-los-vencidos",
+          "name": "Los vencidos. Los indios del Perú frente a la conquista española (1530-1570) — Nathan Wachtel (Madrid, Alianza, 1976) · 2da. parte, cap. 2: «La desestructuración», pp. 135-211",
+          "role": "obligatoria · prácticos · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-florescano-ensayos-desarrollo-economico",
+          "name": "Ensayos sobre el desarrollo económico de México y América Latina, 1500-1975 — Enrique Florescano (comp.) (México, FCE, 1987) · Carlos S. Assadourian, «La producción de la mercancía dinero y la formación del mercado interno colonial», pp. 223-292",
+          "role": "obligatoria · teóricas · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-merluzzi-gobernando-los-andes",
+          "name": "Gobernando los Andes. Francisco de Toledo virrey del Perú (1569-1581) — Manfredi Merluzzi (Lima, PUCP, 2014) · Cap. 1 «un equilibrio inestable», pp. 37-110, y Cap. 4 «Economía política y mundo indígena: el control sobre la explotación de los recursos», pp. 237-265",
+          "role": "obligatoria · teóricas · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bonilla-el-sistema-colonial-en-la-america-espanola",
+          "name": "El sistema colonial en la América española — Heraclio Bonilla (Crítica, 1991; el programa lo imprime «Bonilla, H. (ed.), … México, Crítica» en la Unidad 4 y «BONILLA, Heraclio (comp.), … Barcelona, Crítica» en la referencia general) · Peter Bakewell, «Las determinaciones de la producción minera en Charcas y en Nueva España durante el siglo XVII», pp. 58-72",
+          "role": "obligatoria · teóricas · U4 · + referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-andrien-crisis-y-decadencia",
+          "name": "Crisis y decadencia. El virreinato del Perú en el siglo XVII — Kenneth Andrien (IEP, 2011; el programa no consigna ciudad) · Cap. 5 «El fracaso del arbitrismo, 1607-1664», pp. 169-205",
+          "role": "obligatoria · teóricas · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ganci-romano-governare-il-mondo",
+          "name": "Governareil Mondo. L'ImperioSpagnolodal XV al XIX secolo [así impreso, sin espacios] — Massimo Ganci y Ruggiero Romano (comps.) (Palermo, Società Siciliana per la Storia Patria. Instituto di Storia Moderna. Facoltà di Lettere, 1991) · Zacarías Moutoukias, «Una forma de oposición: el contrabando», pp. 333-368",
+          "role": "obligatoria · teóricas · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-harris-larson-tandeter-participacion-indigena",
+          "name": "La participación indígena en los mercados surandinos. Estrategias y reproducción social, siglos XVI-XX — O. Harris, B. Larson y E. Tandeter (comps.) (La Paz, CERES, 1987) · Ann Zulawski, «Foresteros y yanaconas: la mano de obra de un centro minero en el siglo XVII», pp. 111-158 (teóricas), y Thierry Saignes, «Ayllus, mercado y coacción colonial: el reto de las migraciones internas en Charcas (siglo XVII)», pp. 111-158 (prácticos) — el programa imprime la MISMA paginación para los dos capítulos",
+          "role": "obligatoria · U4 · + referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bernand-gruzinski-de-la-idolatria",
+          "name": "De la idolatría. Una arqueología de las ciencias religiosas — Carmen Bernand y Serge Gruzinski (México, FCE, 1992) · Cap. VI «Extirpaciones», pp. 129-172",
+          "role": "obligatoria · teóricas · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gruzinski-la-colonizacion-de-lo-imaginario",
+          "name": "La colonización de lo imaginario. Sociedades indígenas y occidentalización en el México español. Siglos XVI-XVIII — Serge Gruzinski (México, F.C.E., 1995) · Cap. IV: «La idolatría colonial», pp. 149-185",
+          "role": "obligatoria · teóricas · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bethell-historia-de-america-latina-t3",
+          "name": "Historia de América Latina, Tomo 3 — L. Bethell (ed.) (Barcelona, Crítica, 1990) · Enrique Florescano, «Formación y estructura económica de la hacienda en Nueva España», pp. 92-121",
+          "role": "obligatoria · teóricas · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-annino-de-los-imperios-a-las-naciones",
+          "name": "De los imperios a las naciones: Iberoamérica — A. Annino, L. Castro Leiva y F-X. Guerra (dir.) (Zaragoza, IberCaja, 1994) · José Carlos Chiaramonte, «Modificaciones del pacto imperial», pp. 107-128",
+          "role": "obligatoria · teóricas · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-historia-general-de-america-latina-iv-unesco-trotta",
+          "name": "Historia General de América Latina, vol. IV: Procesos americanos hacia la redefinición colonial (París-Madrid, Ediciones UNESCO/Editorial TROTTA, 2000; el programa no nombra director para este pie) · Antonio Acosta Rodríguez, «La reforma eclesiástica y misional (siglo XVIII)», pp. 349-374 (teóricas), y Jorge Gelman, «La lucha por el control del Estado: administración y elites coloniales en Hispanoamérica», pp. 251-264 (prácticos)",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-tandeter-historia-general-de-america-latina-iv",
+          "name": "Historia General de América Latina, Vol. IV — Enrique Tandeter (dir.) (Madrid, UNESCO, 2007) · Allan J. Kuethe, «Conflicto internacional, orden colonial y militarización», pp. 325-348 — el programa cita el mismo volumen IV con dos pies editoriales incompatibles (2000, París-Madrid, UNESCO/TROTTA, sin director; 2007, Madrid, UNESCO, dir. Tandeter): la divergencia queda registrada y no se resuelve",
+          "role": "obligatoria · teóricas · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-brading-mineros-y-comerciantes",
+          "name": "Mineros y comerciantes en el México Borbónico (1763-1810) — D. Brading (México, F.C.E., 1975) · cap. II: «La estructura de la producción de plata», pp. 179-217",
+          "role": "obligatoria · teóricas · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-connaughton-historia-de-america-latina-i",
+          "name": "Historia de América Latina, vol. I, La Época colonial — Brian Connaughton (coord.) (México, UNAM, 2000) · Carlos Marichal, «La Nueva España y el Imperio español en el siglo XVIII. Los costos y beneficios del colonialismo», pp. 397-439 — en la referencia general el mismo volumen se imprime «vol. 1: La época colonial),», con un paréntesis de cierre que nunca abre",
+          "role": "obligatoria · teóricas · U8 · + referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-tandeter-coaccion-y-mercado",
+          "name": "Coacción y Mercado. La minería de la plata en el Potosí colonial, 1692-1826 — Enrique Tandeter (Editorial Sudamericana, Buenos Aires, 1992) · Capítulo 1 «El relanzamiento de la producción de plata», pp. 13-29, y «Epílogo y conclusiones», pp. 279-301",
+          "role": "obligatoria · teóricas · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-tandeter-trabajo-libre-y-trabajo-forzado",
+          "name": "Trabajo libre y trabajo forzado en el Potosí colonial tardío — Enrique Tandeter (Buenos Aires, CEDES, 1980)",
+          "role": "obligatoria · teóricas · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-barragan-trabajo-y-trabajadores-en-america-latina",
+          "name": "Trabajo y trabajadores en América Latina, S. XVI-XXI — R. Barragan, A. Villanueva y C. Machicado (Bolivia, 2019; el programa no consigna editorial) · P. Zagalsky e I. Povea Moreno, «Un mundo diverso: una panorámica sobre los trabajadores mineros coloniales a partir del análisis de casos en los Virreinatos de Nueva España y del Perú»",
+          "role": "obligatoria · prácticos · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-flores-galindo-buscando-un-inca",
+          "name": "Buscando un inca. Identidad y utopía en los Andes — Alberto Flores Galindo (México, Grijalbo, 1993) · Cap IV: «La revolución tupamarista y los pueblos andinos», pp. 127-160",
+          "role": "obligatoria · teóricas · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-thomson-cuando-solo-reinasen-los-indios",
+          "name": "Cuándo sólo reinasen los indios. La política aymara en la era de la insurgencia [así impreso] — Sinclair Thomson (La Paz/El Alto, Muela del Diablo editores/Aruwiry. Editorial del THOA, 2006) · Cap. 5: «Proyectos de emancipación y dinámica de la insurgencia (I). El esperado día del autogobierno indígena», pp. 169-216, y Cap. 6: «Proyectos de emancipación y dinámica de la insurgencia (II). La tormenta de la guerra bajo Tupaj Katari», «pp. 217-.278» [así impreso]",
+          "role": "obligatoria · teóricas · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-serulnikov-revolucion-en-los-andes",
+          "name": "Revolución en los Andes: la era de Tupac Amaru — Sergio Serulnikov (Buenos Aires, Sudamericana, 2010)",
+          "role": "obligatoria · teóricas · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ophelan-un-siglo-de-rebeliones-anticoloniales",
+          "name": "Un siglo de rebeliones anticoloniales. Perú y Bolivia 1700-1783 — Scarlett O'Phelan Godoy (Cusco, Centro de Estudios regionales Andinos 'Bartolomé de Las Casas', 1988) · Introducción, pp. 21-25; Cap. V: «La culminación del descontento social: la Rebelión de Tupac Amaru», pp. 223-287; «Conclusiones», pp. 289-294",
+          "role": "obligatoria · prácticos · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-stern-resistencia-rebelion-conciencia-campesina",
+          "name": "Resistencia, rebelión y conciencia campesina en los Andes. Siglos XVIII al XX — S. Stern (comp.) (Lima, IEP, 1990) · Steve Stern, «La era de la insurrección andina, 1742-1782: una reinterpretación», pp. 50-96",
+          "role": "obligatoria · prácticos · U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ares-queija-gruzinski-entre-dos-mundos",
+          "name": "Entre dos mundos. Fronteras culturales y agentes mediadores — Berta Ares Queija y Serge Gruzinski (coord.) (Sevilla, CSIC, 1997)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-assadourian-el-sistema-de-la-economia-colonial",
+          "name": "El sistema de la economía colonial. El mercado interior. Regiones y espacio económico — Carlos Sempat Assadourian (México, Nueva Imagen, 1983)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bernand-descubrimiento-conquista-colonizacion",
+          "name": "Descubrimiento, conquista y colonización de América a quinientos años — Carmen Bernand (comp.) (México, F.C.E., 1994)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bernand-gruzinski-historia-del-nuevo-mundo",
+          "name": "Historia del Nuevo Mundo. Del Descubrimiento a la Conquista. La experiencia europea, 1492-1550 — Carmen Bernand y Serge Gruzinski (México, F.C.E., 1996)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bernand-gruzinski-los-mestizajes",
+          "name": "Los mestizajes, 1550-1640 — Carmen Bernand y Serge Gruzinski (México, F.C.E., 1999) · asentado dentro de la misma entrada que Historia del Nuevo Mundo",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bakewell-mineria-y-sociedad-en-mexico-colonial",
+          "name": "Minería y sociedad en México Colonial. Zacatecas, 1546-1700 — Peter Bakewell (Madrid, FCE, 1971)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bakewell-mineros-de-la-montana-roja",
+          "name": "Mineros de la Montaña Roja — Peter Bakewell (Madrid, Alianza, 1989)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-bayly-el-nacimiento-del-mundo-moderno",
+          "name": "El nacimiento del mundo moderno, 1780-1914 — C. A. Bayly (Madrid, Siglo XXI, 2010)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-boccara-colonizacion-resistencia-y-mestizaje",
+          "name": "Colonización, resistencia y mestizaje en las Américas (siglos XVI- XX) [así impreso] — Guillaume Boccara (ed.) (Lima y Quito, IFEA/Abya-Yala, 2002)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-brading-haciendas-y-ranchos-del-bajio",
+          "name": "Haciendas y Ranchos del Bajío. León, 1700-1860 — David Brading (México, Grijalbo, 1988)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-brading-una-iglesia-asediada",
+          "name": "Una Iglesia asediada: el obispado de Michoacán, 1749-1810 — David Brading (México, FCE, 1994)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-burholder-chandler-de-la-impotencia-a-la-autoridad",
+          "name": "De la impotencia a la autoridad. La corona española y las Audiencia en América, 1687-1808 [así impreso] — M. A. Burhoklder [así impreso] y D. S. Chandler (FCE, México, 1984)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-carmagnani-el-regreso-de-los-dioses",
+          "name": "El regreso de los dioses. El proceso de reconstitución de la identidad étnica en Oaxaca. Siglos XVII y XVIII — Marcello Carmagnani (México, FCE, 1988)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-carmagnani-para-una-historia-de-america",
+          "name": "Para una historia de América, Tomo I: Las estructuras — Marcello Carmagnani, Alicia Hernández Chávez y Ruggiero Romano (México, FCE, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-chiaramonte-pensamiento-de-la-ilustracion",
+          "name": "Pensamiento de la ilustración: economía y sociedad iberoamericanas en el siglo XVIII — José C. Chiaramonte (Caracas, Biblioteca Ayacucho, 1979)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-chiaramonte-nacion-y-estado-en-iberoamerica",
+          "name": "Nación y estado en Iberoamérica: el lenguaje político en tiempos de las independencias — José C. Chiaramonte (Buenos Aires, Sudamericana, 2004)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-chust-revoluciones-y-revolucionarios",
+          "name": "Revoluciones y revolucionarios en el mundo hispano — Manuel Chust (ed.) (Castellón, Universitat Jaume I, Castellón, 2000) [la ciudad se imprime dos veces]",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-chust-doceanismos-constituciones-independencias",
+          "name": "Doceañismos, constituciones e independencias — Manuel Chust (ed.) (Madrid, Instituto de Cultura Mapfre, 2006)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-de-la-cadena-formaciones-de-indianidad",
+          "name": "Formaciones de indianidad. Articulaciones raciales, mestizaje y nación en América Latina — Marisol de la Cadena (ed.) (Popayán, Envión, 2007)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-demelas-nacimiento-de-la-guerra-de-guerrilla",
+          "name": "Nacimiento de la guerra de guerrilla: el diario de José Santos Vargas (1814-1825) — Marie-Danielle Demélas (Travaux de l' IFEA Tomo 196, IFEA- Plural Editores, 2007)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ducey-una-nacion-de-pueblos",
+          "name": "Una nación de pueblos. Revueltas y rebeliones en la Huasteca mexicana, 1750-1850 — Michael Ducey (Xalapa, Universidad Veracruzana, 2015)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-elliot-imperios-del-mundo-atlantico",
+          "name": "Imperios del mundo atlántico. España y Gran Bretaña en América (1492-1830) — John Elliot [así impreso, con una sola T; en la Unidad 1 el mismo apellido se imprime «ELLIOTT»] (Madrid, Taurus, 2006)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-flores-galindo-aristocracia-y-plebe",
+          "name": "Aristocracia y plebe. Lima, 1760-1830 — Alberto Flores Galindo (Lima, Mosca Azul Editores, 1984)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-fradera-gobernar-colonias",
+          "name": "Gobernar colonias — Josep M. Fradera (Barcelona, Península, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-fradera-la-nacion-imperial",
+          "name": "La nación imperial. Derechos, representación y ciudadanía en los imperios de Gran Bretaña, Francia, España y Estados Unidos (1750-1918), 2 vols. — Josep M. Fradera (Barcelona, EDHASA, 2015)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-garavaglia-mercado-interno-y-economia-colonial",
+          "name": "Mercado interno y economía colonial — Juan C. Garavaglia (México, Grijalbo, 1983)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gelman-llopis-marichal-iberoamerica-y-espana",
+          "name": "Iberoamérica y España antes de las independencias, 1700-1820. Crecimiento, reformas y crisis — Jorge Gelman, Enrique Llopis y Carlos Marichal (coord.) (México, Instituto Mora/El Colegio de México, 2015)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gerbi-la-naturaleza-de-las-indias-nuevas",
+          "name": "La Naturaleza de las Indias Nuevas. De Cristóbal Colón a Gonzalo Fernández de Oviedo — Antonello Gerbi (México, FCE, 2002)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gibson-los-aztecas-bajo-el-dominio-espanol",
+          "name": "Los aztecas bajo el dominio español, 1519-1810 — Charles Gibson (México, Siglo XXI, 1986)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gonzalez-bernaldo-independencias-iberoamericanas",
+          "name": "Independencias iberoamericanas. Nuevos problemas y aproximaciones — Pilar González Bernaldo de Quirós (comp.) (Buenos Aires, FCE, 2015)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-gruner-la-oscuridad-y-las-luces",
+          "name": "La oscuridad y las luces. Capitalismo, cultura y revolución — Eduardo Gruner (Buenos Aires, EDHASA, 2010)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-guarisco-etnicidad-y-ciudadania",
+          "name": "Etnicidad y ciudadanía en México y Perú (1770-1850) — Claudia Guarisco (Zinacantepec, El Colegio Mexiquense, 2004)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-guardino-el-tiempo-de-la-libertad",
+          "name": "El tiempo de la libertad. La cultura políticas popular en Oaxaca, 1750-1850 [así impreso] — Peter Guardino (Oaxaca, 2009; el programa no consigna editorial)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-halperin-donghi-el-ocaso-del-orden-colonial",
+          "name": "El ocaso del orden colonial en Hispanoamérica — Tulio Halperín Donghi (comp.) (Buenos Aires, Sudamericana, 1978)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-johnson-tandeter-economias-coloniales",
+          "name": "Economías coloniales. Precios y salarios en América Latina, siglo XVIII — Lymann Johnson [así impreso] y Enrique Tandeter (comps.) (Buenos Aires, FCE, 1992)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-konrad-una-hacienda-de-los-jesuitas",
+          "name": "Una hacienda de los jesuitas en el México colonial: Santa Lucía, 1576-1767 — Herman Konrad (México, FCE, 1989)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-lafaye-quetzalcoatl-y-guadalupe",
+          "name": "Quetzalcoátl y Guadalupe. La formación de la conciencia nacional en México [así impreso] — Jacques Lafaye (México, FCE, 1985)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-linebaugh-rediker-la-hidra-de-la-revolucion",
+          "name": "La hidra de la Revolución. Marineros, esclavos y campesinos en la historia oculta del Atlántico — Peter Linebaugh y Marcus Rediker (Barcelona, Crítica, 2005)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-lorandi-ni-ley-ni-rey-ni-hombre-virtuoso",
+          "name": "Ni ley, ni rey, ni hombre virtuoso. Guerra y sociedad en el virreinato del Perú. Siglos XVI y XVII — Ana María Lorandi (Buenos Aires, Gedisa/UBA, 2002)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-mandrini-paz-las-fronteras-hispanocriollas",
+          "name": "Las fronteras hispanocriollas del mundo indígena latinoamericano en los siglos XVIII-XIX. Un estudio comparativo — R. Mandrini y C. Paz (comp.) (Neuquén-Bahía Blanca-Tandil, Centro de Estudios de Historia Regional-UNCo/ Departamento de Humanidades-UNS/ Instituto de Estudios Histórico-Sociales-UNCPBA, 2003)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-marchena-ejercito-y-milicias",
+          "name": "Ejército y milicias en el mundo colonial americano — Juan Marchena Fernández (Madrid, MAPFRE, 1992)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-marchena-kuethe-soldados-del-rey",
+          "name": "Soldados del Rey. El Ejército Borbónico en América Colonial en vísperas de la Independencia — Juan Marchena Fernández y Allan Kuethe (eds.) (Castellón, Ed. Universitat Jaume I, 2005)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-marchena-chust-por-la-fuerza-de-las-armas",
+          "name": "Por la fuerza de las armas. Ejército e independencias en Iberoamérica — Juan Marchena y Manuel Chust (eds.) (Castelló de la Plana, Publicaciones de la Universitat Jaume I, 2008)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-marichal-la-bancarrota-del-virreinato",
+          "name": "La bancarrota del virreinato. Nueva España y las finanzas del imperio español, 1780-1810 — Carlos Marichal (México, FCE, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-menegus-dos-decadas-de-investigacion",
+          "name": "Dos décadas de investigación en América Latina. Homenaje a Carlos Sempat Assadourian — Margarita Menegus (coord.) (El Colegio de México/Ciesas/Inst.Mora/UNAM, México, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ophelan-la-gran-rebelion-en-los-andes",
+          "name": "La gran rebelión en los Andes. De Túpac Amaru a Túpac Catari — Scarlett O'Phelan Godoy (Lima, Centro de Estudios Regionales Andinos “Bartolomé de Las Casas”, 1995)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ortiz-escamilla-guerra-y-gobierno",
+          "name": "Guerra y gobierno. Los pueblos y la independencia de México — Juan Ortíz Escamilla (Sevilla, Universidad de Sevilla, 1997)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ortiz-escamilla-fuerzas-militares-en-iberoamerica",
+          "name": "Fuerzas militares en Iberoamérica, siglos XVIII y XIX — Juan Ortíz Escamilla (coord.) (México, El Colegio de México/El Colegio de Michoacán/Universidad Veracruzana, 2005)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-padgen-la-caida-del-hombre-natural",
+          "name": "La caída del hombre natural. El indio americano y los orígenes de la etnología comparativa — Anthony Padgen [así impreso] (Madrid, Alianza Editorial, 1988)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-pietschmann-el-estado-y-su-evolucion",
+          "name": "El Estado y su evolución al principio de la colonización española de América — Horst Pietschmann (México, F. C. E., 1986)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-pimenta-brasil-y-las-independencias",
+          "name": "Brasil y las independencias de Hispanoamérica — João Paulo G. Pimenta (Castelló de la Plana, Publicacions Universitat Jaume I, 2007)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-piqueras-bicentenarios-de-libertad",
+          "name": "Bicentenarios de libertad. La fragua de la política en España y las Américas — José A. Piqueras (Barcelona, Península, 2010)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-quarleri-rebelion-y-guerra-en-las-fronteras-del-plata",
+          "name": "Rebelión y guerra en las fronteras del Plata. Guaraníes, jesuitas e imperios coloniales — Lía Quarleri (Buenos Aires, FCE, 2009)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-romano-coyunturas-opuestas",
+          "name": "Coyunturas opuestas. La crisis del siglo XVII en Europa e Hispanoamérica — Ruggero Romano [así impreso acá; «Ruggiero» en los asientos de Moutoukias y de Carmagnani] (Buenos Aires, FCE, 1993)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-rosemblit-las-revoluciones-americanas",
+          "name": "Las revoluciones americanas y la formación de los estados nacionales — Jaime Rosemblit (editor) (Santiago de Chile, DIBAM, 2013)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-ruiz-ibanez-las-milicias-del-rey-de-espana",
+          "name": "Las milicias del rey de España. Sociedad, política e identidad en las Monarquías Ibéricas — José J. Ruiz Ibañez [así impreso, sin tilde] (coord.) (Madrid, FCE, 2009)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-sala-i-vila-y-se-armo-el-tole-tole",
+          "name": "Y se armó el tole tole. Tributo indígena y movimientos sociales en el Virreinato del Perú 1790-1814. — Nuria Sala i Vila (Huamanga, IER- José María Arguedas, 1996)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-santamaria-del-tabaco-al-incienso",
+          "name": "Del tabaco al incienso. Reducción y conversión en las Misiones Jesuitas de las selvas sudamericanas, siglos XVII y XVIII — Daniel Santamaría (San salvador de Jujuy [así impreso], CEIC, 1994)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-serulnikov-conflictos-sociales-e-insurreccion",
+          "name": "Conflictos sociales e insurrección en el mundo colonial tardío. El norte de Potosí en el siglo XVIII — Sergio Serulnikov (Buenos Aires, FCE, 2006)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-socolow-hoberman-ciudades-y-sociedad",
+          "name": "Ciudades y sociedad en Latinoamérica colonial — Susan Socolow y Louisa Hoberman (comps.) (Buenos Aires, F.C.E., 1992)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-stern-la-historia-secreta-del-genero",
+          "name": "La historia secreta del género. Mujeres, hombres y poder en México en las postrimerías del período colonial — Steve Stern (México, FCE, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-szeminski-la-utopia-tupamarista",
+          "name": "La utopía tupamarista — Jan Szeminski (Lima, PUCP, 1983)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-taylor-terratenientes-y-campesinos",
+          "name": "Terratenientes y campesinos en Oaxaca colonial — William Taylor (Oaxaca, Instituto Oaxaqueño de las Culturas, 1998)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-taylor-ministros-de-lo-sagrado",
+          "name": "Ministros de lo sagrado: sacerdotes y feligreses en el México del siglo XVIII — William Taylor (Colegio de Michoacán-Secretaría de Gobernación-El Colegio de México, Zamora, Michoacán, 1999)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-tutino-creando-un-nuevo-mundo",
+          "name": "Creando un nuevo mundo. Los orígenes del capitalismo en el Bajío y la Norteamérica española — John Tutino (México, FCE, 2016)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-van-young-la-otra-rebelion",
+          "name": "La otra rebelión. La lucha por la independencia de México, 1810-1821 — Eric Van Young (México, FCE, 2006)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-wachtel-el-regreso-de-los-antepasados",
+          "name": "El regreso de los antepasados. Los indios Urus de Bolivia, del siglo XX al XVI. Ensayo de historia regresiva — Nathan Wachtel (México, FCE, 2001)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-wachtel-la-fe-del-recuerdo",
+          "name": "La fe del recuerdo. Laberintos marranos — Nathan Wachtel (Buenos Aires, FCE, 2007)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-walker-entre-la-retorica-y-la-insurgencia",
+          "name": "Entre la retórica y la insurgencia. Las ideas y los movimientos sociales en los Andes, siglo XVIII — Charles Walker (comp.) (Centro de Estudios Regionales Andinos Bartolomé de las Casas, Cusco, 1996)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-walker-la-rebelion-de-tupac-amaru",
+          "name": "La rebelión de Tupac Amaru — Charles Walker (Lima, IEP, 2015)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-america-2.libro-wilde-religion-y-poder-en-las-misiones-guaranies",
+          "name": "Religión y poder en las misiones guaraníes — Guillermo Wilde (Buenos Aires, SB, 2009)",
+          "role": "referencia general",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA II (COLONIAL), cód. 0428/14014, Prof. Roberto Schmit, 2º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0428%20-%2014014%5D%20-%20HISTORIA%20DE%20AM%C3%89RICA%20II%20%28COLONIAL%29%20-%20SCHMIT%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA II (COLONIAL), cód. 0428/14014, Prof. Roberto Schmit, 2º cuatrimestre 2026 (12 pp., con capa de texto) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-america2-schmit-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0428%20-%2014014%5D%20-%20HISTORIA%20DE%20AM%C3%89RICA%20II%20%28COLONIAL%29%20-%20SCHMIT%20-%202C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Ficha de la materia en el Departamento de Historia, «Historia de América II (Colonial) - SCHMIT, Roberto Daniel» — única composición de cátedra publicada para esta materia; consigna como «Ultimo Programa aprobado» el PDF de 2C 2026 que se dibuja acá, más «2º Cuatrimestre», «Se dicta en el año en curso» y «Promoción Directa». Consultada para el dato cruzado de cátedra; su listado de composición difiere del programa en el cargo de ALEMANO",
+      "url": "https://historia.filo.uba.ar/historia-de-am%C3%A9rica-ii-colonial-schmit-roberto-daniel"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE AMÉRICA II (COLONIAL), SCHMIT, BIMESTRE DE VERANO 2026 (10 pp.) — programa alternativo del mismo profesor, NO dibujado: solo se verificó su portada para declarar la selección y para registrar que el archivo se publica como «0422_14014» mientras su portada imprime «CÓDIGO Nº: 0428/14014» y «(PLAN 1985/PLAN 2024)»; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0422_14014%20-%20HISTORIA%20DE%20AM%C3%89RICA%20II%20%28COLONIAL%29%20-%20SCHMIT%20-%20BV%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Novedad «BIMESTRE DE VERANO 2026 - PROGRAMAS DE MATERIAS Y SEMINARIOS - HORARIOS» — de donde se tomó, verbatim, el enlace al programa de verano citado arriba",
+      "url": "https://historia.filo.uba.ar/novedades/bimestre-de-verano-2026-programas-de-materias-y-seminarios-horarios"
+    }
+  ]
+}

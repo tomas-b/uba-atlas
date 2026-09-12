@@ -3,8 +3,8 @@
 **A multi-agent pipeline that researches the real Universidad de Buenos Aires,
 writes a knowledge graph, and — the hard part — proves it didn't make anything up.**
 
-**Live artifact: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 633 nodes ·
-6,997 addresses · every one traced to a real document**
+**Live artifact: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 654 nodes ·
+8,560 addresses · every one traced to a real document**
 
 The interesting problem is not scraping a university. It is that **LLMs
 fabricate**, and at 5,000+ addresses no human can check them. So every wave of
@@ -58,6 +58,8 @@ flowchart TB
 | Full re-verify | the loop ran retroactively over every node built before it existed: **13 fabrications caught** — invented units with date ranges, a student repo passed off as a cátedra programa, an apunte authored from instructor names, bibliographies harvested from unrelated courses, a chronologically impossible correlativa — every one re-grounded from real sources or removed |
 | Letras w5 | a **contradictions register that itself fabricated**: the node's ledger of in-PDF contradictions invented one mention and inverted another — the verifier re-split it from the four real line hits. Plus an off-by-one cascade traced to a single entry skipped after a form-feed |
 | Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) and by diffing all eight orientation blocks across two texto-ordenado editions to prove the one claimed rewrite is the only one |
+| Historia w1 | **the loop refuted its own scout — twice.** A node grounded on a 2017 programa claimed "the newest that exists anywhere"; the verifier found the current 2026 programa in a Drive folder the career site's search never indexes, and the node was re-grounded the same wave. Another researcher overturned its own brief the same way (a "stale" materia had three current programas) — and its verifier then corrected the overturn's denominator |
+| Historia w1 | a whole **class of false divergences unmasked**: five nodes quoted "literal" cover text containing a pdftotext de-hyphenation artifact (`REDEC-2024-2526UBA…`) — each verifier re-extracted under `-layout` and proved the covers print identical siglas, only line breaks differ |
 
 **60 researchers + 63 verifiers over Letras alone. Verdicts: zero fabricated
 units, zero fabricated books, ~130 precision fixes.** Every verdict is committed
@@ -67,7 +69,7 @@ in `verification/` — line-referenced refutation reports, one per node — and
 **And the audit trail ships with the artifact**: every verified node on the
 live site carries a *Verificación adversarial* panel (verdict badge, refuted
 claims, the verifier's full report), and
-[**/audit.html**](https://uba-atlas.vercel.app/audit.html) lists all 250
+[**/audit.html**](https://uba-atlas.vercel.app/audit.html) lists all 271
 verdicts — filterable down to the fabrications the loop caught. The output
 isn't just data — it's data with an audit trail you can browse.
 
@@ -78,6 +80,7 @@ isn't just data — it's data with an audit trail you can browse.
 | faculties at L1 | **13 / 13** — every career, ~2,640 courses verified against official sources |
 | Medicina at L2 | **43 / 44** — incl. the 6 rotations of the Internado Anual Rotatorio, from the real per-rotation programa (the 44th is honestly L1: its source publishes no program) |
 | Letras at L2 | **62 / 62 — complete** — five full research+verify waves (incl. all of Letras Clásicas) |
+| Historia at L2 | **21 / 38** — the whole Ciclo de Grado (9 materias generales + 12 específicas obligatorias); ~3,700 bibliography entries counted both ways across 21 programas |
 | Abogacía indexed | CPC + all **8 CPO orientation nodes** drawn literal from the texto ordenado, cross-checked against a live course-offer snapshot |
 | honest sealed nodes | **2** (no published source exists — so no node pretends) |
 | L2 courses verified | **100%** — every course node in the graph carries an adversarial verdict in `verification/` |

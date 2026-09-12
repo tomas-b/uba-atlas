@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-1",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 61,
+  "books_found": 61,
+  "not_found": [
+    "Cita de la portada «B»: «REDEC-2021-2174-UBADCT#FFYL» es artefacto de des-guionado — bajo -layout la portada imprime «REDEC-2021-2174-UBA-» / «DCT#FFYL» (guión antes de DCT, cortado por el salto). El artefacto aparece DOS veces (frame «dice, literalmente» y sources[1].label) y fabrica implícitamente una divergencia estructural con la sigla de A que no existe; la diferencia sustantiva (2021-2174 ≠ 2024-2526) es real. Reparar ambas cadenas. Menor asociado: el frame lo llama «dato de aprobación» pero la portada atribuye el REDEC a MODALIDAD DE DICTADO.",
+    "metadata.catedra + frame: «la palabra cátedra aparece exactamente tres veces» — son CUATRO en tres líneas: la L98 la imprime dos veces («Cuaderno de la Cátedra de Historia Argentina I (Cátedra A)») y el propio nodo cita ese asiento completo, refutando su propio conteo. La lectura del asiento como pie de imprenta 2004 es correcta. Reparar el conteo.",
+    "Frame: «Ravignani’’» con doble apóstrofe «en tres asientos» — son DOS (L215, L247); y la frase garbled atribuye la variación al nombre de Rabinovich cuando lo que varía es el nombre del Boletín. Reparar ambas."
+  ],
+  "omitted": [
+    "No exhaustivo por diseño, anotado: más divergencias cross-apparatus sin registrar (Fradkin dir./coord., Chiaramonte Ariel Historia/Ariel, selecciones distintas de Míguez/Hora/Sabato); el lede infiere «creación del Virreinato» de la fecha 1776 que el programa nunca enuncia como evento."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (17 pp, md5 c0ecfb57…). Estructura y todos los conteos verificados independientemente: 6 unidades; 4 aparatos = 180 (111 obligatoria enumerada a mano, 18+8+43 con exactamente 12 BOC); 40 exclusiones matcheadas una a una; 71 con volumen (12·20·10·7·10·12); las 8 unificaciones ahorran exactamente 10 → 61 exits, cero duplicados, cero fabricaciones, cero volúmenes caídos. Gelman «Rosas, estanciero» sólo en LECTURAS y correctamente no dibujado. Las 8 contradicciones con refs; 18 erratas muestreadas verbatim; ausencias limpias; la recomendación del apartado F sin link dibujado (correcto). Tercer caso del artefacto REDEC en la ola. Reparaciones: dos cadenas de cita B, el conteo «tres veces», el «tres asientos»."
+}

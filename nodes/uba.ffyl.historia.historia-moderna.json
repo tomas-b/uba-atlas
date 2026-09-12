@@ -1,0 +1,635 @@
+{
+  "address": "uba.ffyl.historia.historia-moderna",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a trabajos prácticos y 2 instancias de evaluación parcial aprobadas con mínimo de 4 puntos, con 1 recuperatorio; aprobación por EXAMEN FINAL con mínimo de 4 puntos",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; la portada de la primera página NO consigna carga horaria; el apartado e. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0414/14011 (así impreso, «CÓDIGO Nº: 0414/14011»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA MODERNA»",
+    "catedra": "el programa NO imprime letra de cátedra («A», «B») ni ninguna otra designación junto al nombre de la materia — dice solo «MATERIA: HISTORIA MODERNA» — pero NO es el único programa de 2026: el Departamento publica también uno de JUSTO y SOLETIC para el 1º cuatrimestre, que tampoco lleva letra. Los dos se distinguen por cuatrimestre y profesor/a, no por letra de cátedra. La palabra «cátedra» aparece en este PDF y ninguna de sus apariciones designa a esta cátedra: 38 veces como crédito de traducción, «(traducción de la cátedra)» (35 en bibliografía obligatoria y 3 en complementaria); 8 veces como pie editorial de la editorial Cátedra de Madrid; una vez en «Cátedra Simón Ruiz» (Universidad de Valladolid); y una vez dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "CAMPAGNE, FABIÁN ALEJANDRO (portada de la primera página: «PROFESOR: CAMPAGNE, FABIÁN ALEJANDRO»; encabezado interno: «PROFESOR: FABIÁN ALEJANDRO CAMPAGNE» y «PROFESOR ASOCIADO: FABIÁN ALEJANDRO CAMPAGNE»; firma al pie: «Prof. Dr. Fabián Alejandro Campagne»)",
+      "JUSTO, MARÍA DE LA SOLEDAD (PROFESORA ADJUNTA)",
+      "SOLETIC, MARÍA ÁNGELES (PROFESORA ADJUNTA)",
+      "LOSADA, CAROLINA (JEFA DE TRABAJOS PRÁCTICOS)",
+      "CAVALLERO, CONSTANZA (JEFA DE TRABAJOS PRÁCTICOS)",
+      "MONEZUELAS, GABRIELA (JEFA DE TRABAJOS PRÁCTICOS)",
+      "DIAKOW, GUSTAVO (JEFE DE TRABAJOS PRÁCTICOS)",
+      "DEL OLMO, ISMAEL (AYUDANTE DE PRIMERA)"
+    ],
+    "adscriptos": [
+      "RAMIRO AJZENBERG",
+      "LEANDRO ÁLVAREZ DE LORENZO",
+      "MARÍA SOLEDAD BARRIONUEVO",
+      "DAIANA CIURZYNSKI",
+      "YESICA GÓMEZ",
+      "MATIAS LAZZARO",
+      "JUAN MANUEL LONTOYA",
+      "HORACIO MOREL",
+      "FEDERICO PEREZ ARANDA",
+      "JUAN IGNACIO TORRES AIMÚ",
+      "JUAN TRIBURZZIO"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "dedicatoriasDePortada": [
+      "A 500 años de la batalla de Mohács (29 de agosto de 1526)",
+      "A 450 años de la publicación de Les Six Livres de la République de Jean Bodin (mediados de 1576)",
+      "A 250 años de la declaración de Independencia de los EE.UU. (4 de julio de 1776)"
+    ],
+    "recomendaciones": "el apartado g. Recomendaciones dice: «se sugiere inscribirse en Historia Moderna sólo después de haber cursado las asignaturas Historia Social General, Historia Antigua I, Historia Antigua II e Historia Medieval». Es una SUGERENCIA, no una correlatividad: la cadena «correlativ» no aparece en el PDF",
+    "ubicacionEnElPlan": "materia específica obligatoria del Ciclo de Grado (una de las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 3,
+    "puntos": 23,
+    "bibliografiaObligatoria": 93,
+    "librosDibujados": 46
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-moderna",
+      "label": "Historia Moderna"
+    }
+  ],
+  "eyebrow": "Historia · Historia Moderna · Campagne · 2º cuatrim. 2026",
+  "title": "Aquí se gesta el mundo en que vivimos.",
+  "lede": "Tres unidades y veintitrés puntos que cortan la Europa del Antiguo Régimen por tres problemas, no por una cronología. El problema POLÍTICO (siete puntos, dictados en prácticos): los humanistas pensando el poder entre Maquiavelo y Moro, las teorías de la formación del estado moderno, el espejo de reyes del absolutismo francés y el Bodin de los Six Livres, el imperio español como «enfermo de Europa», las revoluciones inglesas del XVII entre batallas y debates parlamentarios, el desafío iluminista y, al final, Versalles y la Bastilla. El problema ECONÓMICO (ocho puntos, en teóricos): la lenta agonía del señorío, el campesinado de subsistencia y la comunidad rural, la revolución de los precios y los límites al crecimiento preindustrial, la globalización arcaica y el mercado mundial mirados más allá del eurocentrismo, la crisis del siglo XVII, las dos vías —inglesa y francesa— hacia el capitalismo agrario, y la revolución industrial. El problema CULTURAL (ocho puntos, en teóricos): la Iglesia entre reforma gregoriana y conciliarismo, la revolución de Lutero, las reformas de segunda generación, la Contrarreforma y la Iglesia barroca, la confesionalización forzosa como revolución disciplinaria, la Inquisición moderna, las Guerras de Religión francesas y las hogueras de la caza de brujas. La fundamentación justifica el conjunto con una imagen: la fase europea entre los siglos XVI y XVIII es «el verdadero uterus, la matriz en cuyo seno se gesta el universo social» del presente. Es el programa más grande de esta ola: 42 páginas, 93 asientos de bibliografía obligatoria, 629 de complementaria, 22 asientos de fuentes primarias y 5 materiales de apoyo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "3",
+      "small": "23 puntos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "1 de 2 programas"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA MODERNA, Departamento de Historia (FFyL-UBA), cód. 0414/14011, Prof. Fabián Alejandro Campagne, 2º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (42 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-moderna-campagne-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026. Se dibuja 1 de 2 (50%): el de CAMPAGNE, Fabián Alejandro, 2º cuatrimestre 2026, 42 páginas, publicado en historia.filo.uba.ar. NO se dibuja 1 de 2 (50%): el de JUSTO y SOLETIC, 1º cuatrimestre 2026, 34 páginas, publicado en la carpeta de Drive del Departamento enlazada desde historia.filo.uba.ar («1º cuatrimestre 2026 - programas y horarios»); su portada fue descargada y leída directamente para esta ficha y dice, literalmente: «DEPARTAMENTO: HISTORIA», «CÓDIGO Nº: 0414/14011», «MATERIA: HISTORIA MODERNA», «RÉGIMEN DE PROMOCIÓN: EF», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», «PROFESOR/A: MARÍA DE LA SOLEDAD JUSTO - MARIA ÁNGELES SOLETIC» [«MARIA» sin tilde, así impreso], «1º CUATRIMESTRE 2026», «AÑO: 2026»; su encabezado interno agrega «CARGA HORARIA: 96 HORAS» y corre los dos nombres sin separador ni segundo nombre de pila, «PROFESOR: MARÍA DE LA SOLEDAD JUSTO ÁNGELES SOLETIC», y lista como «EQUIPO DOCENTE» a «PROFESORA ADJUNTA: ÁNGELES SOLETIC», «PROFESORA ADJUNTA: MARÍA DE LA SOLEDAD JUSTO», «JEFA DE TRABAJOS PRÁCTICOS: GABRIELA MONEZUELAS» y «AYUDANTE DE PRIMERA: CAROLINA LOSADA». De ese programa no se extrajo ni se afirma NADA más allá de esos campos de portada y encabezado: sus contenidos, sus unidades y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, los 23 puntos y los 46 libros de este nodo son los del programa de Campagne y de ningún otro. DATO REGISTRADO, NO INTERPRETADO: cuatro nombres aparecen en los equipos docentes de los dos programas —Justo y Soletic figuran como PROFESORAS ADJUNTAS en el de Campagne y como las profesoras a cargo en el suyo; Monezuelas figura como JEFA DE TRABAJOS PRÁCTICOS en ambos; Losada figura como JEFA DE TRABAJOS PRÁCTICOS en el de Campagne y como AYUDANTE DE PRIMERA en el de Justo y Soletic—. Los dos documentos dicen lo que dicen; la divergencia queda asentada sin resolver. CÁTEDRA, cómo consta: NINGUNO de los dos programas imprime letra de cátedra ni designación junto al nombre de la materia —ambos dicen solo «MATERIA: HISTORIA MODERNA»—, de modo que no se les puede llamar «cátedra A» ni «cátedra B»: se distinguen por cuatrimestre y profesor/a. La palabra «cátedra» aparece muchas veces en el PDF y NINGUNA designa a esta cátedra: 38 veces como crédito de traducción, «(traducción de la cátedra)» —35 en bibliografía obligatoria, 3 en complementaria—; 8 veces como pie editorial de la editorial Cátedra de Madrid; una vez en «Cátedra Simón Ruiz» (Universidad de Valladolid, en la complementaria de 2.3); y una vez dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». ESTRUCTURA: el apartado c. se titula «Contenidos y unidades temáticas» y trae TRES unidades numeradas, cada una con sus puntos: Unidad 1 con 7 (1.1 a 1.7), Unidad 2 con 8 (2.1 a 2.8), Unidad 3 con 8 (3.1 a 3.8) — 23 puntos en total. Los 23 se dibujan, agrupados por unidad. El apartado d. repite los mismos 23 números y los reparte bajo tres encabezados que agregan un dato ausente del apartado c.: «UNIDAD 1 (prácticos)», «UNIDAD 2 (teóricos)» y «UNIDAD 3 (teóricos)». El apartado b. Objetivos imprime siete objetivos numerados; no se dibujan como grupo. CONTRADICCIÓN INTERNA REGISTRADA, NO RESUELTA — los títulos de los 23 puntos NO coinciden entre el apartado c. y el apartado d.: el apartado c. imprime títulos largos con dos puntos y el apartado d. imprime títulos cortos, y en varios casos no son la abreviatura del mismo enunciado sino otra formulación. Los 23 pares, tal como están impresos (c. / d.): 1.1 «Cuando los humanistas piensan el poder: la teoría política en la Europa del Renacimiento» / «La teoría política en el Renacimiento» · 1.2 «El proceso de formación del estado moderno: perspectivas teóricas e historiográficas» / «La formación del estado moderno» · 1.3 «Espejo de reyes: la monarquía absoluta en Francia y los alcances del proceso de centralización política en Occidente» / «El absolutismo francés» · 1.4 «El imperio español: ¿el enfermo de Europa en la Edad Moderna?» / «El imperio español» · 1.5 «Las revoluciones inglesas en el siglo XVII o cómo inventar un nuevo régimen político entre batallas y debates parlamentarios» / «Las revoluciones inglesas» · 1.6 «El pensamiento ilustrado: el desafío iluminista en la antesala de las revoluciones modernas» / «La Ilustración» · 1.7 «Entre Versalles y la Bastilla: la Revolución Francesa y el derrumbe catastrófico del Antiguo Régimen» / «La Revolución Francesa» · 2.1 «El señorío y la emergencia del capitalismo agrario: la lenta agonía del feudalismo» / «El señorío feudal en la Edad Moderna» · 2.2 «El campesinado de subsistencia y la comunidad rural preindustrial: un universo societal en permanente transformación» / «El campesinado de subsistencia y la comunidad rural» · 2.3 «La revolución de los precios y la expansión económica durante el largo siglo XVI: los límites al crecimiento en la sociedad pre-industrial» / «La Revolución de los Precios» · 2.4 «La globalización arcaica y la génesis del moderno mercado mundial: una mirada histórica más allá del eurocentrismo» / «Mercado mundial y globalización arcaica» · 2.5 «La crisis del siglo XVII: ¿estancamiento general o desarrollo diferenciado?» / «La crisis del siglo XVII» · 2.6 «La vía inglesa hacia el capitalismo agrario: una revolución silenciosa en la campiña británica» / «La vía inglesa al capitalismo agrario» · 2.7 «La vía francesa hacia el capitalismo agrario: la integración del campesinado en el proceso de cambio histórico» / «La vía francesa al capitalismo agrario» · 2.8 «La revolución industrial en el siglo XVIII: génesis y consolidación del sistema fabril en Occidente» / «La Revolución Industrial» · 3.1 «Ecclesia semper reformanda: la Iglesia medieval entre la reforma gregoriana y el desafío conciliarista» / «La Iglesia en la Baja Edad Media» · 3.2 «La revolución de Martín Lutero: el protestantismo y la nueva matriz religiosa en Occidente» / «Lutero y el luteranismo» · 3.3 «Las reformas de segunda generación: calvinistas, zwinglianos, anglicanos y anabaptistas» / «Calvinistas, zwinglianos, anglicanos y anabaptistas» · 3.4 «La Contrarreforma y la Iglesia barroca: la renovación del catolicismo ante el desafío protestante» / «La Contrarreforma católica» · 3.5 «La confesionalización forzosa: la revolución disciplinaria en Occidente» / «La confesionalización forzosa» · 3.6 «La Inquisición moderna: un tribunal de las consciencias para un mundo en transición» / «La Inquisición moderna» · 3.7 «Las Guerras de Religión en Francia: violencia confesional y formación del estado moderno» / «Las Guerras de Religión en Francia» · 3.8 «Las hogueras de la modernidad: la represión judicial de la brujería en la Europa de los siglos XV a XVII» / «La demonología radical y la caza de brujas». Se dibuja el título del apartado c. como nombre del nodo y el del apartado d. queda anotado en cada salida; ninguno de los dos se corrige ni se fusiona. FORMULARIO vs. CONTENIDO: el apartado se titula «d. Bibliografía obligatoria» —no lleva el encabezado largo del formulario de la Facultad— pero dentro de él los 23 bloques imprimen hasta cuatro rótulos: «Bibliografía obligatoria» (23 de 23 bloques), «Fuentes» (22 de 23; el único bloque sin fuentes es 2.2), «Materiales de apoyo» (4 bloques, todos de la Unidad 1: 1.3, 1.4, 1.5 y 1.7) y «Bibliografía complementaria» (23 de 23). No hay filmografía ni discografía en ninguna unidad: las cadenas «filmograf» y «discograf» no aparecen en el PDF. CUENTA COMPLETA, bloque por bloque. Bibliografía obligatoria, 93 asientos: 1.1: 3 · 1.2: 3 · 1.3: 4 · 1.4: 4 · 1.5: 6 · 1.6: 2 · 1.7: 6 · 2.1: 4 · 2.2: 3 · 2.3: 5 · 2.4: 6 · 2.5: 4 · 2.6: 5 · 2.7: 3 · 2.8: 4 · 3.1: 4 · 3.2: 3 · 3.3: 6 · 3.4: 4 · 3.5: 3 · 3.6: 3 · 3.7: 3 · 3.8: 5. Bibliografía complementaria, 629 asientos: 1.1: 29 · 1.2: 22 · 1.3: 28 · 1.4: 30 · 1.5: 27 · 1.6: 27 · 1.7: 34 · 2.1: 34 · 2.2: 28 · 2.3: 24 · 2.4: 38 · 2.5: 28 · 2.6: 21 · 2.7: 21 · 2.8: 25 · 3.1: 17 · 3.2: 28 · 3.3: 20 · 3.4: 40 · 3.5: 19 · 3.6: 23 · 3.7: 25 · 3.8: 41. Fuentes: 22 asientos, que reúnen 57 segmentos separados por punto y coma (1.1: 2 · 1.2: 1 · 1.3: 2 · 1.4: 4 · 1.5: 6 · 1.6: 4 · 1.7: 7 · 2.1: 1 · 2.3: 1 · 2.4: 1 · 2.5: 2 · 2.6: 2 · 2.7: 1 · 2.8: 5 · 3.1: 2 · 3.2: 5 · 3.3: 4 · 3.4: 1 · 3.5: 1 · 3.6: 2 · 3.7: 1 · 3.8: 2); el asiento de Vastey en 1.7 une además dos obras con «y» en vez de punto y coma, de modo que las obras individuales son al menos 58 — no se afirma un número exacto porque el programa no las numera. Materiales de apoyo: 5 asientos (1.3: 1 cronología · 1.4: 1 cronología y 1 selección cartográfica · 1.5: 1 cronología · 1.7: 1 cronología). Total de asientos con viñeta en el apartado d.: 749. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones. Se dibujan libros ÚNICAMENTE desde la bibliografía obligatoria. NO se dibuja ninguno de los 629 asientos de bibliografía complementaria (0 de 629 dibujados, 629 de 629 excluidos: el programa los declara complementarios y la lista, de 21 a 41 títulos por punto, excede varias veces a la obligatoria; la exclusión es del bloque entero, no por selección caso por caso). NO se dibuja ninguno de los 22 asientos de Fuentes —fuentes primarias de los siglos XV a XIX, no volúmenes de la bibliografía de cátedra— ni ninguno de los 5 Materiales de apoyo (cronologías y una selección cartográfica producidas por la cátedra, sin pie editorial). Dentro de los 93 asientos obligatorios, se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, artículo o estudio preliminar dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios puntos se unifica en un solo nodo—. NO se dibujan los 45 asientos obligatorios cuyo contenedor es una revista (1.1: 1 · 1.2: 2 · 1.3: 1 · 1.4: 2 · 1.5: 1 · 2.1: 2 · 2.3: 4 · 2.4: 6 · 2.5: 1 · 2.6: 4 · 2.7: 2 · 2.8: 2 · 3.1: 4 · 3.2: 1 · 3.3: 3 · 3.4: 1 · 3.5: 3 · 3.6: 2 · 3.7: 2 · 3.8: 1). Quedan 48 asientos con volumen; al unificar los repetidos dan 46 libros, y 46 son los que se dibujan. UNIFICACIONES, itemizadas: hay exactamente UNA. Fabián Alejandro Campagne, «Feudalismo tardío y Revolución. Campesinado y transformaciones agrarias en Francia e Inglaterra», Buenos Aires, Prometeo, 2005, aparece como obligatoria en TRES puntos —2.2 (pp. 93-159), 2.6 (pp. 163-203) y 2.7 (pp. 205-262)— y se dibuja una sola vez, con las tres selecciones de páginas anotadas en el nombre: 3 asientos → 1 nodo. Ningún otro volumen se repite entre los 48. NO se unifican, porque son obras distintas del mismo autor, los dos volúmenes de Dan Edelstein («The Enlightenment: A Genealogy», 1.6, y «The Terror of Natural Right», 1.7) ni los dos de Geoffrey Parker («La crisis de la monarquía de Felipe IV», 1.4, y «El Siglo Maldito», 2.5) ni los dos de Fabián Alejandro Campagne en la Unidad 3 («Bodin y Maldonado», 3.7, y «El aquelarre caníbal», 3.8). CONSECUENCIA REGISTRADA: tres puntos no aportan ningún libro porque todos sus asientos obligatorios son artículos de revista — 2.4 (6 de 6 en revista), 3.1 (4 de 4) y 3.5 (3 de 3); el punto 2.3 aporta uno solo, el Yun de sus cinco asientos, porque los otros cuatro son de revista; y dos puntos más, 2.6 y 2.7, no aportan libro NUEVO porque su único asiento con volumen es el Campagne ya unificado desde 2.2. Ningún asiento se descartó por ilegible. CONTRADICCIONES INTERNAS DE LA BIBLIOGRAFÍA, REGISTRADAS Y NO RESUELTAS. (a) Nueve asientos están impresos a la vez como obligatoria Y como complementaria DEL MISMO punto: 1.1 Eric Nelson, «Utopia through Italian Eyes» (obligatoria con «traducción de la cátedra», complementaria sin ella); 1.5 J. C. Davis, «Fear, Myth and History: The Ranters and the Historians» (obligatoria con «pp. 94-125 (traducción de la cátedra)», complementaria sin páginas ni crédito); 2.2 Neeson, «Commoners: Common Right, Enclosure and Social Change in England, 1700-1820» (obligatoria como «Jeanette M. Neeson», con «pp. 297-330 (traducción de la cátedra)»; complementaria como «J. M. Neeson», sin páginas ni crédito); 2.3 Pezzolo y Tattara, «Una fiera senza luogo»; 2.6 Carl J. Griffin, «Enclosure as Internal Colonisation», Thomas E. Lambert, «Game of Thrones, Game of Class Struggle, or Other Games?» y McDonagh y Daniels, «Enclosure stories» (los tres, obligatoria con crédito de traducción y complementaria sin él); 3.4 Simone Laqua-O'Donnell, «Women and the Counter-Reformation in Early Modern Münster»; 3.5 Ruiz-Rodríguez y Sosa Mayor, «El concepto de ‘confesionalización’ en el marco de la historiografía germana». (b) Tres asientos son obligatoria en un punto y complementaria en OTRO: Raúl Susín Betrán, «Los discursos sobre la pobreza: siglos XVI-XVIII» (obligatoria en 1.4, con «pp. 105-13»; complementaria en 1.2, sin páginas); Giancarlo Casale, «The Ottoman Administration of the Spice Trade» (obligatoria en 2.3, con crédito de traducción; complementaria en 2.4, sin él); y Rosa Congost, «Tierras, leyes, historia» (obligatoria en 2.2, con «pp. 11-93, 191-216 y 279-301»; complementaria en 2.1, sin páginas). El Neeson de 2.2 vuelve además como complementaria de 2.6, de modo que ese asiento cae a la vez bajo (a) y bajo (b). (c) Cinco asientos están duplicados dentro del mismo bloque de complementaria: 1.6 María José Villaverde Rico, «Rousseau visto por sus contemporáneos», dos veces con puntuación distinta («. Odio e idolatría» y «: odio e idolatría»); 2.8 Fernando Díez, «Utilidad, deseo y virtud», dos veces idéntico; y 3.4 tres duplicados —Ronald Po-Chia Hsia, «El mundo de la renovación católica» (idéntico), Paolo Prodi, «El soberano pontífice» (una vez con capítulos y páginas, otra sin ellas y con año distinto: «2010 (2006)» frente a «2010») y Julián J. Lozano Navarro, «La Compañía de Jesús y el poder en la España de los Austrias» (idéntico)—. Además 1.1 lista dos veces a Ada Palmer con el mismo libro y datos discordantes: «Inventing the Renaissance: Myths of a Golden Age, London, Head of Zeus, 2026» e «Inventing the Renaissance: The Myth of a Golden Age, London, Bloomsbury, 2025». Ninguna de estas duplicaciones se resuelve ni se descarta: quedan contadas dentro de los 629. (d) El mismo autor se imprime con y sin tilde en el mismo PDF: «Alberto Marcos Martin» en la obligatoria de 2.5 y «Alberto Marcos Martín» en las complementarias de 1.4 y 2.3; «Franck Mercier» en la obligatoria de 3.8 y «Frank Mercier» en la complementaria del mismo punto. (e) La portada de la primera página y el encabezado interno de la segunda difieren: la portada imprime «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL» sin la palabra PRESENCIAL, y el encabezado interno imprime «MODALIDAD DE DICTADO: PRESENCIAL. Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL.»; la portada no consigna carga horaria y el encabezado interno agrega «CARGA HORARIA: 96 HORAS»; la portada nombra al profesor «CAMPAGNE, FABIÁN ALEJANDRO» y el encabezado interno «FABIÁN ALEJANDRO CAMPAGNE». (f) El apartado f. imprime un solo régimen —EF, examen final— pero conserva del formulario la frase «Para ambos regímenes:» antes de la cláusula del recuperatorio: el segundo régimen nunca se enuncia. DATO CRUZADO: la ubicación de la materia —una de las doce materias específicas obligatorias del Ciclo de Grado del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios (no aparecen «plan de estudios» ni «Plan 1985»), ciclo, orientación (la única aparición de «Orientación» es el «Programa de Orientación de la SEUBE», dentro de la cláusula del RTARMEM), tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0414/14011» sin explicar el par—. Lo más cercano a una correlatividad es el apartado g. Recomendaciones, que SUGIERE («se sugiere inscribirse en Historia Moderna sólo después de haber cursado las asignaturas Historia Social General, Historia Antigua I, Historia Antigua II e Historia Medieval») sin establecer requisito: se registra como recomendación y no se convierte en correlativa. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie «Prof. Dr. Fabián Alejandro Campagne». LO QUE EL PROGRAMA CITA Y NO ASIENTA: nada. A diferencia de otros programas del Departamento, la fundamentación de éste no nombra a ningún autor: su única expresión citada es el latín «uterus» («constituye el verdadero uterus, la matriz en cuyo seno se gesta el universo social»), que no remite a obra ni a autor alguno. No queda, por lo tanto, ninguna invocación sin asiento bibliográfico que declarar. PORTADA CON DEDICATORIAS: la primera página lleva tres efemérides alineadas a la derecha, que ningún otro apartado retoma: «A 500 años de la batalla de Mohács (29 de agosto de 1526)», «A 450 años de la publicación de Les Six Livres de la République de Jean Bodin (mediados de 1576)» y «A 250 años de la declaración de Independencia de los EE.UU. (4 de julio de 1776)». Se registran como parte del documento; ninguna de las tres es un contenido del apartado c. ASIENTOS INCOMPLETOS O ANÓMALOS, declarados y no completados: el primer asiento obligatorio de 3.8 NO tiene autor —abre directamente con el título entrecomillado, «Pensando con brujas y caníbales: el aquelarre antropófago en Europa y en América durante el apogeo de la represión judicial de la brujería (circa 1550-1600)», y su referencia de revista está malformada, «Revista de historia social y de las mentalidades, 30:1 Universidad de Santiago de Chile, 2026, pp. 1-46», sin coma ni paréntesis entre el número y la institución—; Federico Tavelli (3.1) cierra sin punto final; Stuart Clark (3.8) cierra sin punto final; Bartolomé Yun (2.3) se asienta sin el «Casalilla» que lleva en las complementarias de 1.2, 2.4 y 2.5. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el encabezado del punto 1.3 del apartado d. se imprime sin espacio tras el número, «1.3.El absolutismo francés», único de los 23 que lo hace; el asiento de Tenenti imprime una cedilla en lugar de la coma, «La edad moderna. XVI-XVIII¸ Barcelona, Crítica, 2011»; Heller abrevia el segundo número de páginas, «pp. 104-34», y Susín Betrán también, «pp. 105-13»; el volumen de Nesbitt se atribuye a «Edimburgh, Edimburgh University Press» (por Edinburgh) y el artículo se titula «Which Radical Enlightment?» (por Enlightenment, error que se repite en varios títulos de la complementaria); el asiento de fuentes de 1.7 imprime el año de la Declaración de Olimpia de Gouges como «171»; el asiento de fuentes de 1.5 imprime «The Putney Debates, octubre-noviembre de 1647.;» con punto antes del punto y coma; el asiento de Pezzolo y Tattara entrecomilla solo la frase italiana y deja después una comilla de cierre suelta, sin apertura que le corresponda: ‘“Una fiera senza luogo”: Was Bisenzone an International Capital Market in Sixteenth-Century Italy?”’; Marcos Martin imprime «¿Por que negarlo?» sin tilde en «qué»; Mercier imprime un artículo español dentro de un título francés, «La Vauderie d'Arras. Una chasse aux sorcières à l'Automne du Moyen Âge»; el volumen de Barreto Xavier imprime «circulaçao» sin tilde y «(eds)» sin punto; el título de Campagne se imprime «Feudalismo tardío y Revolución» en 2.2 y «Feudalismo tardío y revolución» en 2.6 y 2.7; el apartado f. escribe «Reglamento Acadéico» (por Académico) y abre un paréntesis que no cierra, «Establecido en el Reglamento Acadéico (Res. (CD) Nº 4428/17.»; MacCulloch lleva un punto antes del crédito de traducción, «pp. 11-51. (traducción de la cátedra)». Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1»); los saltos de página del PDF cortan títulos y rangos de páginas por la mitad («…England’s Wastes», «pp. 95-» + «120» en Griffin; «Anti-» + «Tyranny Violence» en Liu; «1700-» + «1820» en Neeson; «pp. 55-» + «169» en Parker); y los números de página del documento quedan intercalados entre los asientos. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · Unidad 1 (prácticos) · 7 puntos",
+      "title": "El problema político: la formación del estado moderno entre absolutismos y revoluciones",
+      "note": "Los siete puntos del apartado c. Contenidos, en el orden impreso, con el título largo del apartado c. como nombre. El apartado d. los dicta como prácticos y les pone títulos cortos distintos, anotados en cada salida.",
+      "map": {
+        "mk": "El programa, en tres problemas y veintitrés puntos",
+        "tree": "HISTORIA MODERNA · cód. 0414/14011\nCampagne · 2º cuatrim. 2026 · 96 hs · EF\n│\n├─ UNIDAD 1 · el problema POLÍTICO (prácticos)\n│   ├─ 1.1 · los humanistas piensan el poder · Maquiavelo, Moro\n│   ├─ 1.2 · la formación del estado moderno · estado fiscal-militar\n│   ├─ 1.3 · espejo de reyes · absolutismo francés · Bodin, Luis XIV\n│   ├─ 1.4 · el imperio español · ¿el enfermo de Europa?\n│   ├─ 1.5 · las revoluciones inglesas del XVII · Putney, 1688\n│   ├─ 1.6 · el pensamiento ilustrado · Spinoza, Rousseau, Kant\n│   └─ 1.7 · entre Versalles y la Bastilla · la Revolución Francesa\n│\n├─ UNIDAD 2 · el problema ECONÓMICO (teóricos)\n│   ├─ 2.1 · el señorío y la lenta agonía del feudalismo\n│   ├─ 2.2 · campesinado de subsistencia y comunidad rural\n│   ├─ 2.3 · la revolución de los precios · el largo siglo XVI\n│   ├─ 2.4 · globalización arcaica · más allá del eurocentrismo\n│   ├─ 2.5 · la crisis del siglo XVII · clima, guerra, catástrofe\n│   ├─ 2.6 · la vía inglesa al capitalismo agrario · enclosures\n│   ├─ 2.7 · la vía francesa · abolición feudal y bienes nacionales\n│   └─ 2.8 · la revolución industrial · la Gran Divergencia\n│\n└─ UNIDAD 3 · el problema CULTURAL (teóricos)\n    ├─ 3.1 · Ecclesia semper reformanda · conciliarismo\n    ├─ 3.2 · la revolución de Martín Lutero\n    ├─ 3.3 · calvinistas, zwinglianos, anglicanos, anabaptistas\n    ├─ 3.4 · la Contrarreforma y la Iglesia barroca\n    ├─ 3.5 · la confesionalización forzosa · disciplinamiento\n    ├─ 3.6 · la Inquisición moderna · limpieza de sangre\n    ├─ 3.7 · las Guerras de Religión en Francia\n    └─ 3.8 · las hogueras de la modernidad · caza de brujas",
+        "foot": "Esta materia publica dos programas para 2026: el de Campagne (2º cuatrimestre) y el de Justo y Soletic (1º cuatrimestre). Acá se dibuja solo el de Campagne; del otro únicamente se verificó la portada, y sus contenidos no están indexados. Ninguno de los dos imprime letra de cátedra. Los títulos del apartado c. y los del apartado d. no coinciden; los 23 pares quedan itemizados en el frame."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p1-cuando-los-humanistas-piensan-el-poder",
+          "name": "Cuando los humanistas piensan el poder: la teoría política en la Europa del Renacimiento",
+          "role": "Punto 1.1 · en d. «La teoría política en el Renacimiento»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p2-el-proceso-de-formacion-del-estado-moderno",
+          "name": "El proceso de formación del estado moderno: perspectivas teóricas e historiográficas",
+          "role": "Punto 1.2 · en d. «La formación del estado moderno»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p3-espejo-de-reyes-la-monarquia-absoluta-en-francia",
+          "name": "Espejo de reyes: la monarquía absoluta en Francia y los alcances del proceso de centralización política en Occidente",
+          "role": "Punto 1.3 · en d. «El absolutismo francés»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p4-el-imperio-espanol",
+          "name": "El imperio español: ¿el enfermo de Europa en la Edad Moderna?",
+          "role": "Punto 1.4 · en d. «El imperio español»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p5-las-revoluciones-inglesas-en-el-siglo-xvii",
+          "name": "Las revoluciones inglesas en el siglo XVII o cómo inventar un nuevo régimen político entre batallas y debates parlamentarios",
+          "role": "Punto 1.5 · en d. «Las revoluciones inglesas»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p6-el-pensamiento-ilustrado",
+          "name": "El pensamiento ilustrado: el desafío iluminista en la antesala de las revoluciones modernas",
+          "role": "Punto 1.6 · en d. «La Ilustración»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u1p7-entre-versalles-y-la-bastilla",
+          "name": "Entre Versalles y la Bastilla: la Revolución Francesa y el derrumbe catastrófico del Antiguo Régimen",
+          "role": "Punto 1.7 · en d. «La Revolución Francesa»",
+          "tag": "unidad 1 · prácticos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · Unidad 2 (teóricos) · 8 puntos",
+      "title": "El problema económico: crisis del feudalismo, transformación del sistema productivo y avances hacia el capitalismo moderno",
+      "note": "Los ocho puntos del apartado c. Contenidos, en el orden impreso. El apartado d. los dicta como teóricos y les pone títulos cortos distintos, anotados en cada salida.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p1-el-senorio-y-la-emergencia-del-capitalismo-agrario",
+          "name": "El señorío y la emergencia del capitalismo agrario: la lenta agonía del feudalismo",
+          "role": "Punto 2.1 · en d. «El señorío feudal en la Edad Moderna»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p2-el-campesinado-de-subsistencia-y-la-comunidad-rural",
+          "name": "El campesinado de subsistencia y la comunidad rural preindustrial: un universo societal en permanente transformación",
+          "role": "Punto 2.2 · en d. «El campesinado de subsistencia y la comunidad rural»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p3-la-revolucion-de-los-precios",
+          "name": "La revolución de los precios y la expansión económica durante el largo siglo XVI: los límites al crecimiento en la sociedad pre-industrial",
+          "role": "Punto 2.3 · en d. «La Revolución de los Precios»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p4-la-globalizacion-arcaica-y-el-mercado-mundial",
+          "name": "La globalización arcaica y la génesis del moderno mercado mundial: una mirada histórica más allá del eurocentrismo",
+          "role": "Punto 2.4 · en d. «Mercado mundial y globalización arcaica»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p5-la-crisis-del-siglo-xvii",
+          "name": "La crisis del siglo XVII: ¿estancamiento general o desarrollo diferenciado?",
+          "role": "Punto 2.5 · en d. «La crisis del siglo XVII»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p6-la-via-inglesa-hacia-el-capitalismo-agrario",
+          "name": "La vía inglesa hacia el capitalismo agrario: una revolución silenciosa en la campiña británica",
+          "role": "Punto 2.6 · en d. «La vía inglesa al capitalismo agrario»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p7-la-via-francesa-hacia-el-capitalismo-agrario",
+          "name": "La vía francesa hacia el capitalismo agrario: la integración del campesinado en el proceso de cambio histórico",
+          "role": "Punto 2.7 · en d. «La vía francesa al capitalismo agrario»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u2p8-la-revolucion-industrial-en-el-siglo-xviii",
+          "name": "La revolución industrial en el siglo XVIII: génesis y consolidación del sistema fabril en Occidente",
+          "role": "Punto 2.8 · en d. «La Revolución Industrial»",
+          "tag": "unidad 2 · teóricos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · Unidad 3 (teóricos) · 8 puntos",
+      "title": "El problema cultural: ruptura religiosa y violencia interconfesional en la Europa de la primera Edad Moderna",
+      "note": "Los ocho puntos del apartado c. Contenidos, en el orden impreso. El apartado d. los dicta como teóricos y les pone títulos cortos distintos, anotados en cada salida.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p1-ecclesia-semper-reformanda",
+          "name": "Ecclesia semper reformanda: la Iglesia medieval entre la reforma gregoriana y el desafío conciliarista",
+          "role": "Punto 3.1 · en d. «La Iglesia en la Baja Edad Media»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p2-la-revolucion-de-martin-lutero",
+          "name": "La revolución de Martín Lutero: el protestantismo y la nueva matriz religiosa en Occidente",
+          "role": "Punto 3.2 · en d. «Lutero y el luteranismo»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p3-las-reformas-de-segunda-generacion",
+          "name": "Las reformas de segunda generación: calvinistas, zwinglianos, anglicanos y anabaptistas",
+          "role": "Punto 3.3 · en d. «Calvinistas, zwinglianos, anglicanos y anabaptistas»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p4-la-contrarreforma-y-la-iglesia-barroca",
+          "name": "La Contrarreforma y la Iglesia barroca: la renovación del catolicismo ante el desafío protestante",
+          "role": "Punto 3.4 · en d. «La Contrarreforma católica»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p5-la-confesionalizacion-forzosa",
+          "name": "La confesionalización forzosa: la revolución disciplinaria en Occidente",
+          "role": "Punto 3.5 · en d. «La confesionalización forzosa»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p6-la-inquisicion-moderna",
+          "name": "La Inquisición moderna: un tribunal de las consciencias para un mundo en transición",
+          "role": "Punto 3.6 · en d. «La Inquisición moderna»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p7-las-guerras-de-religion-en-francia",
+          "name": "Las Guerras de Religión en Francia: violencia confesional y formación del estado moderno",
+          "role": "Punto 3.7 · en d. «Las Guerras de Religión en Francia»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.u3p8-las-hogueras-de-la-modernidad",
+          "name": "Las hogueras de la modernidad: la represión judicial de la brujería en la Europa de los siglos XV a XVII",
+          "role": "Punto 3.8 · en d. «La demonología radical y la caza de brujas»",
+          "tag": "unidad 3 · teóricos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 46 volúmenes con pie editorial de los 93 asientos de bibliografía obligatoria del apartado d., por punto. Un capítulo, artículo o estudio preliminar dentro de una obra colectiva se dibuja como el volumen que lo contiene; Campagne, «Feudalismo tardío y Revolución», reaparece en 2.2, 2.6 y 2.7 y se unifica en un solo nodo. No se dibujan los 45 asientos obligatorios de revista, ni los 629 asientos de bibliografía complementaria, ni los 22 de Fuentes, ni los 5 Materiales de apoyo: quedan declarados y contados en el frame. Treinta y cinco de los 93 asientos obligatorios llevan el crédito «(traducción de la cátedra)». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-celenza-italian-renaissance-origins-modern-humanities",
+          "name": "The Italian Renaissance and the Origins of the Modern Humanities — Christopher Celenza (Cambridge, Cambridge University Press, 2021) · pp. 1-19, traducción de la cátedra",
+          "role": "obligatoria · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-unger-maquiavelo-una-biografia",
+          "name": "Maquiavelo: Una biografía — Miles Unger (Buenos Aires, Edhasa, 2013) · pp. 231-263",
+          "role": "obligatoria · 1.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-lachmann-states-and-power",
+          "name": "States and Power — Richard Lachmann (Cambridge, Polity Press, 2011 [2010]) · pp. 25-41, traducción de la cátedra",
+          "role": "obligatoria · 1.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-tenenti-la-edad-moderna",
+          "name": "La edad moderna. XVI-XVIII — Alberto Tenenti (Barcelona, Crítica, 2011) · pp. 280-307 · el original imprime una cedilla en lugar de la coma: «La edad moderna. XVI-XVIII¸ Barcelona»",
+          "role": "obligatoria · 1.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-albareda-janue-nacimiento-construccion-estado-moderno",
+          "name": "El nacimiento y la construcción del estado moderno. Homenaje a Jaume Vicens Vives — J. Albareda Salvadó y M. Janué i Mired (eds.) (Valencia, PUV, 2011) · Joël Cornette, «Monarquía absoluta y absolutismo en Francia. El reinado de Luis XIV revisitado», pp. 91-110",
+          "role": "obligatoria · 1.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-bely-dictionnaire-ancien-regime",
+          "name": "Dictionnaire de l’Ancien Régime — Lucien Bély (dir.) (Paris, Quadrige-PUF, 2006 [1996]) · artículos «Absolutisme» (Monique Cottret), «Droit divin» (Jean Barbey), «Lois fondamentales» (Francis Garrison), «Majesté» (Monique Cottret), «Monarchie» (Jean Barbey) y «Raison d’État» (Monique Cottret), pp. 8-9, 436-437, 753-757, 787-788, 846-849, 1047-1048; traducción de la cátedra",
+          "role": "obligatoria · 1.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-garcia-carcel-el-demonio-del-sur",
+          "name": "El Demonio del Sur: La Leyenda Negra de Felipe II — Ricardo García Cárcel (Madrid, Cátedra, 2017) · pp. 145-250",
+          "role": "obligatoria · 1.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-parker-la-crisis-de-la-monarquia-de-felipe-iv",
+          "name": "La crisis de la monarquía de Felipe IV — Geoffrey Parker (coord.) (Barcelona, Crítica, 2006) · pp. 55-169",
+          "role": "obligatoria · 1.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-recio-morales-las-revoluciones-inglesas",
+          "name": "Las revoluciones inglesas del siglo XVII y la transformación de las Islas Británicas — Óscar Recio Morales (Madrid, Síntesis, 2015) · pp. 21-191",
+          "role": "obligatoria · 1.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-linebaugh-rediker-la-hidra-de-la-revolucion",
+          "name": "La hidra de la revolución — Peter Linebaugh y Marcus Rediker (Barcelona, Crítica, 2005 [2000]) · pp. 125-168",
+          "role": "obligatoria · 1.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-davis-fear-myth-and-history",
+          "name": "Fear, Myth and History: The Ranters and the Historians — J. C. Davis (Cambridge, Cambridge University Press, 2002 [1986]) · pp. 94-125, traducción de la cátedra · el mismo volumen reaparece, sin el crédito de traducción, en la complementaria del mismo punto",
+          "role": "obligatoria · 1.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-heller-the-birth-of-capitalism",
+          "name": "The Birth of Capitalism: A 21st Century Perspective — Henry Heller (London, Pluto Press, 2011) · «pp. 104-34» [así impreso], traducción de la cátedra",
+          "role": "obligatoria · 1.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-pincus-1688-la-primera-revolucion-moderna",
+          "name": "1688. La primera revolución moderna — Steve Pincus (Barcelona, Acantilado, 2013 [2009]) · pp. 9-22, 207-312",
+          "role": "obligatoria · 1.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-edelstein-the-enlightenment-a-genealogy",
+          "name": "The Enlightenment: A Genealogy — Dan Edelstein (Chicago, University of Chicago Press, 2010) · selección de capítulos, traducción de la cátedra",
+          "role": "obligatoria · 1.6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-lilti-la-herencia-de-la-ilustracion",
+          "name": "La herencia de la Ilustración. Ambivalencia de la modernidad — Antoine Lilti (Barcelona, Gedisa, 2023) · pp. 273-315",
+          "role": "obligatoria · 1.6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-mcphee-la-revolucion-francesa",
+          "name": "La Revolución Francesa, 1789-1799 — Peter McPhee (Barcelona, Crítica, 2003 [2002]) · 276 pp. (el programa asigna el volumen entero)",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-darnton-el-temperamento-revolucionario",
+          "name": "El temperamento revolucionario. Cómo se forjó la Revolución francesa. París, 1748-1789 — Robert Darnton (Barcelona, Taurus, 2025) · selección de capítulos",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-burstin-linvention-du-sans-culotte",
+          "name": "L’invention du sans-culotte. Regard sur le Paris révolutionnaire — Haim Burstin (Paris, Odile Jacob, 2005) · pp. 73-137, traducción de la cátedra",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-edelstein-the-terror-of-natural-right",
+          "name": "The Terror of Natural Right: Republicanism, the Cult of Nature, and the French Revolution — Dan Edelstein (Chicago, The University of Chicago Press, 2009) · pp. 1-25, traducción de la cátedra",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-lord-spinoza-beyond-philosophy",
+          "name": "Spinoza Beyond Philosophy — Beth Lord (ed.) (Edimburgh, Edimburgh University Press, 2012) [«Edimburgh» así impreso] · Nick Nesbitt, «Which Radical Enlightment? Spinoza, Jacobinism and Black Jacobinism» [así impreso], pp. 149-167; traducción de la cátedra",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-vastey-el-sistema-colonial-develado",
+          "name": "El sistema colonial develado — J. L. Vastey (Buenos Aires, Ciccus, 2024) · Juan Francisco Martínez Peria, «Edición y estudio preliminar», pp. 11-80",
+          "role": "obligatoria · 1.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-gibbs-lordship-state-formation",
+          "name": "Lordship, State Formation and Local Authority in Late Medieval and Early Modern England — Spike Gibbs (Cambridge, Cambridge University Press, 2023) · pp. 1-32, traducción de la cátedra",
+          "role": "obligatoria · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-dandolo-sabatini-el-estado-feudal-de-los-carafa",
+          "name": "El estado feudal de los Carafa de Maddaloni. Origen y administración de un ducado en el reino de Nápoles (Siglos XV-XVIII) — Francesco Dandolo y Gaetano Sabatini (Rosario, Prohistoria, 2012 [2009]) · pp. 47-61, 195-203",
+          "role": "obligatoria · 2.1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-campagne-feudalismo-tardio-y-revolucion",
+          "name": "Feudalismo tardío y Revolución. Campesinado y transformaciones agrarias en Francia e Inglaterra — Fabián Alejandro Campagne (Buenos Aires, Prometeo, 2005) · pp. 93-159 (2.2); pp. 163-203 (2.6); pp. 205-262 (2.7) · el título se imprime «y Revolución» en 2.2 y «y revolución» en 2.6 y 2.7",
+          "role": "obligatoria · 2.2, 2.6 y 2.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-congost-tierras-leyes-historia",
+          "name": "Tierras, leyes, historia. Estudios sobre ‘la gran obra de la propiedad’ — Rosa Congost (Barcelona, Crítica, 2007) · pp. 11-93, 191-216 y 279-301 · el mismo volumen vuelve, sin páginas, en la bibliografía complementaria del punto 2.1",
+          "role": "obligatoria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-neeson-commoners",
+          "name": "Commoners: Common Right, Enclosure and Social Change in England, 1700-1820 — Jeanette M. Neeson (Cambridge, Cambridge University Press, 1996) · pp. 297-330, traducción de la cátedra · el mismo volumen reaparece en las complementarias de 2.2 y 2.6, allí como «J. M. Neeson»",
+          "role": "obligatoria · 2.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-yun-marte-contra-minerva",
+          "name": "Marte contra Minerva. El precio del imperio español, c. 1450-1600 — Bartolomé Yun (Barcelona, Crítica, 2004) · pp. 147-173 · así asentado, sin el «Casalilla» que el mismo PDF le da en otras entradas",
+          "role": "obligatoria · 2.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-prak-van-zanden-pioneros-del-capitalismo",
+          "name": "Pioneros del capitalismo. Los Países Bajos, 1000-1800 — Maarten Prak y Jan Luiten van Zanden (Barcelona, Pasado y Presente, 2024) · pp. 185-223",
+          "role": "obligatoria · 2.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-martinez-millan-decadencia-o-reconfiguracion",
+          "name": "¿Decadencia o reconfiguración? Las monarquías de España y Portugal en el cambio de siglo (1640-1724) — José Martínez Millan et alii (eds.) (Madrid, Polifemo, 2017) · Alberto Marcos Martin, «¿Por que negarlo? Crisis y decadencia de Castilla en el siglo XVII» [así impreso, sin tildes], pp. 481-524",
+          "role": "obligatoria · 2.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-parker-el-siglo-maldito",
+          "name": "El Siglo Maldito. Clima, guerra y catástrofe en el siglo XVII — Geoffrey Parker (Barcelona, Planeta, 2013) · pp. 37-157",
+          "role": "obligatoria · 2.5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-pomeranz-la-gran-divergencia",
+          "name": "La gran divergencia — Kenneth Pomeranz (Barcelona, Arpa, 2024 [2000/2021]) · pp. 21-59",
+          "role": "obligatoria · 2.8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-beckert-el-imperio-del-algodon",
+          "name": "El imperio del algodón. Una historia global — Sven Beckert (Barcelona, Crítica, 2016) · pp. 9-23, 53-112",
+          "role": "obligatoria · 2.8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-roper-martin-lutero-renegado-y-profeta",
+          "name": "Martín Lutero. Renegado y profeta — Lyndal Roper (Madrid, Taurus, 2017) · pp. 137-157, 187-286, 321-355",
+          "role": "obligatoria · 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-gregory-la-reforma-involuntaria",
+          "name": "La Reforma involuntaria. Cómo una revolución religiosa secularizó la sociedad — Brad S. Gregory (Buenos Aires, FCE, 2021 [2012]) · pp. 194-264",
+          "role": "obligatoria · 3.2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-macculloch-the-later-reformation-in-england",
+          "name": "The Later Reformation in England, 1547-1603 — Diarmaid MacCulloch (Houndmills, Palgrave, 2001, 2ª ed.) · capítulos 2-4, pp. 11-51; traducción de la cátedra",
+          "role": "obligatoria · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-joireman-church-state-and-citizen",
+          "name": "Church, State and Citizen: Christian Approaches to Political Engagement — Sandra F. Joireman (ed.) (Oxford, Oxford University Press, 2009) · Joireman, «Anabaptism and the State: An Uneasy Coexistence», pp. 73-91; traducción de la cátedra",
+          "role": "obligatoria · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-stayer-the-german-peasants-war",
+          "name": "The German Peasant’s War and Anabaptist Community of Goods — James M. Stayer (Montreal, McGill-Queen’s University Press, 1991) · «Anabaptist Moravia, 1526-1622: Communitarian Christianity in One Country», pp. 139-159; traducción de la cátedra",
+          "role": "obligatoria · 3.3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-serrano-gascon-poder-sociedad-religion-y-tolerancia",
+          "name": "Poder, sociedad, religión y tolerancia en el mundo hispánico de Fernando el católico al siglo XVIII — Eliseo Serrano Martín y Jesús Gascón Pérez (eds.) (Zaragoza, Institución Fernando el Católico, 2018) · Federico Palomo, «Un catolicismo en plural: identidades, disciplinamiento y cultura religiosa en los mundos ibéricos de la Edad Moderna», pp. 193-217",
+          "role": "obligatoria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-laqua-odonnell-women-and-the-counter-reformation",
+          "name": "Women and the Counter-Reformation in Early Modern Münster — Simone Laqua-O’Donnell (Oxford, Oxford University Press, 2014) · pp. 134-169, traducción de la cátedra · el mismo volumen reaparece, sin el crédito de traducción, en la complementaria del mismo punto",
+          "role": "obligatoria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-barreto-xavier-monarquias-ibericas-em-perspectiva-comparada",
+          "name": "Monarquias ibéricas em perspectiva comparada (séculos XVI-XVIII): dinâmicas imperiais e circulaçao de modelos político-administrativos — Angela Barreto Xavier, Federico Palomo y Roberta Stumpf (eds) (Lisboa, ICS, 2018) [«circulaçao» y «(eds)» así impresos] · Federico Palomo y Aliocha Maldavsky, «La misión en los espacios del mundo ibérico: conversiones, formas de control y negociación», pp. 543-590",
+          "role": "obligatoria · 3.4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-hernandez-franco-sangre-limpia-sangre-espanola",
+          "name": "Sangre limpia, sangre española. El debate de los estatutos de limpieza (siglos XV-XVII) — Juan Hernández Franco (Madrid, Cátedra, 2011) · capítulos II-V, pp. 79-268",
+          "role": "obligatoria · 3.6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-campagne-bodin-y-maldonado",
+          "name": "Bodin y Maldonado. La demonología como fenómeno de masas en la Francia de las Guerras de Religión — Fabián Alejandro Campagne (Buenos Aires, Biblos, 2018) · pp. 11-91, 291-390",
+          "role": "obligatoria · 3.7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-campagne-el-aquelarre-canibal",
+          "name": "El aquelarre caníbal. Antropofagia, demonología y caza de brujas en la Europa moderna — Fabián Alejandro Campagne (Buenos Aires, Miño y Dávila, 2025) · pp. 11-121",
+          "role": "obligatoria · 3.8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-mercier-la-vauderie-darras",
+          "name": "La Vauderie d’Arras. Una chasse aux sorcières à l’Automne du Moyen Âge — Franck Mercier (Rennes, Presses Universitaires de Rennes, 2006) [«Una chasse» así impreso; el mismo autor figura como «Frank Mercier» en la complementaria del mismo punto] · selección, traducción de la cátedra",
+          "role": "obligatoria · 3.8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-cavallero-las-letras-y-las-horcas",
+          "name": "Las letras y las horcas. Demonología y caza de brujas en los reinos hispánicos — Constanza Cavallero (Buenos Aires, SAEMED, 2025) · pp. 27-234",
+          "role": "obligatoria · 3.8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-moderna.libro-clark-thinking-with-demons",
+          "name": "Thinking with Demons: The Idea of Witchcraft in Early Modern Europe — Stuart Clark (Oxford, Clarendon Press, 1997) · capítulos 21-22, pp. 321-345; traducción de la cátedra",
+          "role": "obligatoria · 3.8",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA MODERNA, cód. 0414/14011, Prof. Fabián Alejandro Campagne, 2º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0414%20-%2014011%5D%20-%20HISTORIA%20MODERNA%20-%20CAMPAGNE%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA MODERNA, cód. 0414/14011, Prof. Fabián Alejandro Campagne, 2º cuatrimestre 2026 (42 pp., con capa de texto) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-moderna-campagne-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0414%20-%2014011%5D%20-%20HISTORIA%20MODERNA%20-%20CAMPAGNE%20-%202C%202026.pdf"
+    },
+    {
+      "label": "Drive del Departamento de Historia (carpeta «1º cuatrimestre 2026 - programas y horarios», enlazada desde historia.filo.uba.ar) · Programa de HISTORIA MODERNA, «0414_14011 - HISTORIA MODERNA - JUSTO; SOLETIC - 1C 2026.pdf», CÓDIGO Nº 0414/14011, PROFESOR/A: MARÍA DE LA SOLEDAD JUSTO - MARIA ÁNGELES SOLETIC, RÉGIMEN DE PROMOCIÓN: EF, CARGA HORARIA: 96 HORAS, 1º CUATRIMESTRE 2026, AÑO: 2026, 34 pp. — el programa alternativo, NO dibujado: solo se descargó y leyó su portada y su encabezado interno para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://drive.google.com/drive/folders/1En0muxhYOTg9kb4s7jko67T8jMl5DAG1"
+    },
+    {
+      "label": "Descarga directa del PDF de JUSTO; SOLETIC - 1C 2026 (Drive file id 1QHTWuXbWi9-mZKq-_wupgftJGhj-bCQP, 982.097 bytes, 34 pp.) — la URL efectivamente usada para verificar su portada",
+      "url": "https://drive.google.com/uc?export=download&id=1QHTWuXbWi9-mZKq-_wupgftJGhj-bCQP"
+    }
+  ]
+}

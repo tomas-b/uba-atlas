@@ -1,0 +1,554 @@
+{
+  "address": "uba.ffyl.historia.historia-medieval",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · regularidad con 75% de asistencia a prácticos y 2 instancias de evaluación parcial, con 1 recuperatorio; la aprobación se hace por examen final con nota mínima de 4",
+    "cargaHoraria": "96 HORAS (la portada imprime «CARGA HORARIA: 96 HORAS»; el apartado e. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»; el apartado g. desagrega «clases teóricas de cuatro (4) horas semanales» y «clases de trabajos prácticos, de dos (2) horas semanales»)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0413/14010 (así impreso, «CÓDIGO Nº: 0413/14010»; el programa no dice a qué plan corresponde cada uno de los dos números. El programa de la otra cátedra imprime el mismo par espaciado, «0413 / 14010»)",
+    "tituloDelPrograma": "«PODER, TERRITORIO Y COMUNIDAD EN LA HISTORIA MEDIEVAL: EUROPA ENTRE LOS SIGLOS V Y XVI”» — impreso sin comilla de apertura y con comilla de cierre",
+    "catedra": "el programa NO designa cátedra por letra ni por número: la portada consigna «PROFESOR/A: LUCHÍA, CORINA» y el pie va firmado «Aclaración: Corina Luchía». La palabra «cátedra» aparece cuatro veces con acento: dos designan a este equipo docente («La cátedra pondrá a disposición de los estudiantes los materiales y clases en el Campus Virtual de la FFyL» y «el mail de la cátedra: catedrahistoriamedieval2020@gmail.com»), una es el nombre de una colección de la bibliografía («Colección Libros de Cátedra») y una está dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). La forma sin acento aparece además dentro del correo. «Catedralicias» aparece dos veces y no es la palabra",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "LUCHÍA, CORINA (portada: «PROFESOR/A: LUCHÍA, CORINA»; firma al pie: «Aclaración: Corina Luchía», con el campo «Cargo» en blanco)",
+      "da GRACA, LAURA (Profesora ADJUNTA)",
+      "ESTÉVEZ, PAZ (JEFA DE TRABAJOS PRÁCTICOS)",
+      "BELLO GAY, ROCÍO (AYUDANTE DE PRIMERA)",
+      "GODOY, ANALÍA (AYUDANTE DE PRIMERA)",
+      "MILIDDI, FEDERICO (AYUDANTE DE PRIMERA)",
+      "PÉREZ, MARIEL (AYUDANTE DE PRIMERA)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "obligatoria del Ciclo de Grado, Materias Específicas Obligatorias (una de las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 20,
+    "unidadesDetalle": "DOS secuencias paralelas en el mismo PDF: el apartado c. Contenidos trae DIEZ unidades en números romanos (UNIDAD I a UNIDAD X) y el PROGRAMA DE PRÁCTICOS trae otras DIEZ en arábigos (Unidad 1 a Unidad 10), con títulos distintos. El programa no declara correspondencia entre unas y otras",
+    "clases": "el cronograma de teóricos asigna clases por unidad: U I 1, U II 2, U III 1, U IV 2, U V 1, U VI 2, U VII 1, U VIII 2, U IX 1, U X 1 = 14 clases, más «INTEGRACIÓN DE CONTENIDOS DE TODAS LAS UNIDADES · 1 clase» = 15",
+    "anexos": "8 anexos declarados en 6 unidades de teóricos: Anexo Documental (U III), Anexo documental y Anexo Iconográfico (U IV), Anexo documental (U V), Anexo iconográfico (U VI), Anexo iconográfico y Anexo documental (U VII), Anexo documental (U VIII). El PROGRAMA DE PRÁCTICOS no trae anexos",
+    "bibliografia": 41,
+    "bibliografiaDetalle": "306 asientos bibliográficos en total: 2 obras generales sugeridas + 57 obligatorias y 67 complementarias del cronograma de teóricos + 104 de la «Bibliografía general» + 20 obligatorias y 56 complementarias del cronograma de prácticos. Se dibujan 41 volúmenes"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-medieval",
+      "label": "Historia Medieval"
+    }
+  ],
+  "eyebrow": "Historia · Historia Medieval · Luchía · 1º cuatrim. 2026",
+  "title": "¿De qué modo el territorio es producto del poder?",
+  "lede": "Once siglos de Europa —del V al XVI— leídos con tres categorías que el programa declara como núcleo: poder, territorio y comunidad. Se entra por la desestructuración del mundo antiguo: la desarticulación de la estructura imperial, las migraciones germánicas, los procesos de etnogénesis, las sociedades de base campesina de Chris Wickham y la formación de la aldea vista desde la arqueología. Sigue la génesis de la clase de poder feudal entre los siglos VIII y X —comunidades monásticas y poder episcopal, el culto al santo y el milagro como don, el dominio carolingio, los condes— y la consolidación aristocrática del XI-XII, con el marco señorial, la sujeción campesina, la expansión feudal y el fenómeno urbano: capital mercantil, artesanado gremial, la territorialidad del burgo. Después el parentesco, el género y las sexualidades: la norma y la práctica del matrimonio cristiano, la reforma de la Iglesia, el cuerpo, las prácticas contraceptivas y el aborto. Luego el movimiento intelectual del siglo XII y la corporación universitaria, la Querella de los Universales y la territorialidad del claustro; el problema socio-religioso —Cruzadas, herejías sociales, la construcción del «enemigo interno» y la evolución del antisemitismo medieval, de la aversión teológica a la violencia popular—; la crisis del siglo XIV entre modelos depresionistas y optimistas, con las crisis de subsistencia, los eventos climáticos extremos y la peste como pregunta («¿un fenómeno natural?»); los procesos de transición de los siglos XIV-XVI, con la ofensiva sobre la propiedad comunal, la revisión de la tesis de Silvia Federici, el endeudamiento campesino, el trabajo asalariado entre el contrato y la coerción y la industria rural a domicilio; la centralización política bajomedieval y el contenido de clase del «absolutismo»; y, al final, la formación tributaria islámica —ğihād, dīwān, šarī´a, califato, kuttāb, zakāt, ğizya, harāğ, iqtā, day´a, fay’— puesta a comparar con la realidad feudal. Los trabajos prácticos corren en paralelo con otras diez unidades propias, de la primera transición a las conceptualizaciones finales sobre el feudalismo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "20",
+      "small": "10 teóricos + 10 prácticos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Luchía · 1º cuatrim."
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA MEDIEVAL, Departamento de Historia (FFyL-UBA), cód. 0413/14010, Prof. Corina Luchía, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (23 páginas, con capa de texto nativa, extraído entero a extract/out/historia-medieval-luchia-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por equipo docente. Se dibuja 1 de 2 (50%): el de LUCHÍA, CORINA, 1º cuatrimestre 2026, 23 páginas. NO se dibuja 1 de 2 (50%): el de BOTALLA, HORACIO, 2º cuatrimestre 2026, 13 páginas, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «DEPARTAMENTO: HISTORIA», «CÓDIGO Nº: 0413 / 14010», «MATERIA: HISTORIA MEDIEVAL», «RÉGIMEN DE PROMOCIÓN: EF», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526UBA-DCT#FFYL» [así extraído, sin guion antes de UBA], «PROFESOR/A: BOTALLA, HORACIO», «CUATRIMESTRE: 2º», «AÑO: 2026»; su URL queda asentada en sources. Del programa de Botalla no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los del programa de Luchía y de ningún otro. NINGUNO DE LOS DOS PROGRAMAS LLEVA LETRA DE CÁTEDRA: se los distingue por profesor/a y cuatrimestre, tal como los imprime la Facultad. CÁTEDRA, cómo consta: este programa no la designa por letra ni por número; la portada consigna «PROFESOR/A: LUCHÍA, CORINA» y el pie va firmado «Aclaración: Corina Luchía», con el campo «Cargo» en blanco. La palabra «cátedra» aparece cuatro veces con acento —«La cátedra pondrá a disposición de los estudiantes los materiales y clases en el Campus Virtual de la FFyL»; «el mail de la cátedra: catedrahistoriamedieval2020@gmail.com»; «Colección Libros de Cátedra», que es el nombre de una colección editorial en la bibliografía; y «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas», que es la pauta reglamentaria copiada del REDEC— más una vez sin acento dentro de ese mismo correo. Se buscó la cadena y se registra lo que aparece; «catedralicias», que sale dos veces en los contenidos y en la bibliografía de la Unidad V, es otra palabra. DATO CRUZADO: la ubicación de la materia —obligatoria del Ciclo de Grado, una de las doce Materias Específicas Obligatorias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0413/14010» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). ESTRUCTURA — DOS SECUENCIAS DE UNIDADES EN UN MISMO PDF: el apartado c. Contenidos trae DIEZ unidades en números romanos (UNIDAD I a UNIDAD X), cada una con un párrafo descriptivo y una lista de «Contenidos mínimos desagregados»; las Unidades VI y VIII se subdividen en «Parte a)» y «Parte b)». Más adelante, el PROGRAMA DE PRÁCTICOS trae otras DIEZ unidades en arábigos (Unidad 1 a Unidad 10), con títulos distintos y contenidos mínimos propios. El programa NO declara ninguna correspondencia entre una secuencia y la otra, y acá no se infiere ninguna: se dibujan las dos, en grupos separados, con las veinte unidades tal como están impresas. El apartado b. Objetivos imprime un objetivo general, cuatro específicos derivados y dos más introducidos por «Finalmente, se procura que las/os estudiantes»; no se dibujan como grupo. CLASES: el cronograma de teóricos asigna 1 clase a las Unidades I, III, V, VII, IX y X y 2 clases a las Unidades II, IV, VI y VIII —14 en total—, más «INTEGRACIÓN DE CONTENIDOS DE TODAS LAS UNIDADES · 1 clase»: 15. ANEXOS: el cronograma de teóricos declara 8 anexos repartidos en 6 unidades —Anexo Documental (U III: Juramento de paz de Beauvais siglo XI; contrato de aprendizaje de herrería siglo XVI); Anexo documental y Anexo Iconográfico (U IV); Anexo documental (U V: Pedro Abelardo, Historia de mis desventuras); Anexo iconográfico (U VI); Anexo iconográfico y Anexo documental (U VII); Anexo documental (U VIII)—. El PROGRAMA DE PRÁCTICOS no trae ninguno. No se dibujan como nodos. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: el PDF trae 306 asientos bibliográficos, repartidos en cinco zonas: 2 obras generales sugeridas al frente del cronograma de teóricos; 57 obligatorias y 67 complementarias en el cronograma de teóricos (obligatorias: U I 5 · U II 5 · U III 5 · U IV 6 · U V 4 · U VI a 4 · U VI b 5 · U VII 5 · U VIII a 4 · U VIII b 4 · U IX 5 · U X 5; complementarias: U I 5 · U II 6 · U III 8 · U IV 9 · U V 5 · U VI a 5 · U VI b 4 · U VII 8 · U VIII 8 —un solo bloque para las dos partes— · U IX 5 · U X 4); 104 en la «Bibliografía general» que sigue a la clase de integración; y 20 obligatorias y 56 complementarias en el cronograma de prácticos (2 obligatorias por unidad en las diez; complementarias: U1 9 · U2 4 · U3 6 · U4 7 · U5 6 · U6 3 · U7 4 · U8 5 · U9 5 · U10 7). LA REGLA, aplicada en los dos sentidos: se dibujan como libro los volúmenes con pie editorial de las zonas OBLIGATORIAS —las 2 obras generales sugeridas, las 57 obligatorias de teóricos y las 20 obligatorias de prácticos, 79 asientos—; un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. De esos 79 asientos, 46 traen volumen con pie editorial y 33 NO se dibujan por tener como contenedor una revista o unas actas de congreso. Los 46 con volumen, al unificar los repetidos, dan 41 libros, y 41 son los que se dibujan: ningún asiento con pie editorial de esas tres zonas queda fuera, y nada de lo excluido aparece como libro. NO SE DIBUJA NINGUNA de las 227 entradas de las zonas restantes: las 67 complementarias del cronograma de teóricos, las 104 de la «Bibliografía general» y las 56 complementarias del cronograma de prácticos. LOS 33 ASIENTOS OBLIGATORIOS EXCLUIDOS, uno por uno. De teóricos (28): Martín Viso en Arqueología y Territorio medieval 25, Ripoll y Arce en Arqueología y territorio medieval 8, y Tejerizo García en Nuestra Historia 9 (U I); Astarita en Anales de la Universidad de Alicante. Historia Medieval nº 14 y Boesch Gajano en el Anuario de Historia de la Iglesia 29 (U II); Hernández García y González Arce en AREAS 34 y Menjot en Catharum 11 (U III); Bazán Díaz en Cuadernos del CEMyR 16, Ortega Baún en ActaLauris nº 2, Pacheco Catalán en Cuadernos del CEMyR 31, Pastor en Arenal vol. 12 n°2 y Solórzano Telechea en Clio & Crimen 9 (U IV); Carrasco Pérez en la Revista del CEHGR 27, D´Amico en Páginas de filosofía 19/22 y Guijarro González en «Albor» CLXXXIV/731 (U V); De Ayala Martínez en la Revista Comillas 76/148 (U VI a); Martín Romera en Vídetur Quod 0 y Nirenberg en Edad Media 3 (U VI b); Castán Lanaspa en «Nueva Historia» 9, Colombo en Espacio, Tiempo y Forma III 25 y Sabaté en la Revista Europa n° 8 (U VII); Dyer en Brocar 22 y García Oliva en Espacio, Tiempo y Forma III 30 (U VIII a); Colombo en Sociedades precapitalistas vol. 4 nº 1, Llibrer Escrig en Temas medievales 29 y Torró Gil, ponencia del Congreso Internacional Pensar con Marx hoy (Universidad Complutense), único excluido que no es de revista (U VIII b); Jara Fuente en Hispania LXXXI n.º 268 (U IX); Haldon en Hispania nº 200 (U X). De prácticos (5): Tejerizo-García en Sociedades Precapitalistas 11 (U1), Astarita en Anales de la Universidad de Alicante. Historia Medieval 14 (U2), Llibrer Escrig en Temas medievales 29 (U5), Bois en el Boletín de Historia Social Europea 2 de la UNLP (U6) y Dyer en Brocar 22 (U7). VOLÚMENES UNIFICADOS, 5 asientos plegados en 4 nodos: Baschet, La civilización feudal (teóricos U II y U III, y prácticos U4 — 3 asientos); Wickham, Una historia nueva de la Alta Edad Media (teóricos U I y prácticos U1); Astarita, Del feudalismo al capitalismo (teóricos U VIII b y prácticos U8); Anderson, El Estado Absolutista (prácticos U8 y U10). CONSECUENCIA REGISTRADA: la Unidad IV de teóricos aporta un solo libro de sus seis asientos obligatorios y la Unidad V, uno de cuatro; la Unidad VI de prácticos aporta uno de dos. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) Unidad III: el apartado c. Contenidos la titula «Consolidación aristocrática y expansión feudal (siglos XI-XII)» y el cronograma de teóricos, «(siglos XI-XIII)». (2) Unidad IV: «Parentesco, género y sexualidad/es en la Edad Media» en los Contenidos, «Parentesco, género y sexualidad en la Edad Media» en el cronograma. (3) Unidad VII: «La crisis feudal (siglo XIV-XV)» en los Contenidos, «(siglos XIV-XV)» en el cronograma. (4) Unidad VIII, Parte a): «Comunidad y acumulación originaria» en los Contenidos, «Comunidad campesina y acumulación originaria» en el cronograma. (5) Wickham, «La lógica de las economías campesinas»: el mismo capítulo del mismo volumen se fecha 2008 en la obligatoria de la U I de teóricos y 2009 en la obligatoria de la U1 de prácticos. (6) Benedictow: la complementaria de la U VII de teóricos lo asienta «La peste negra 1346-1353. La historia completa, Akal, Cap. XXXIV» y la obligatoria de la U6 de prácticos, «La Peste Negra (1346-1353), Madrid, 2004. Capítulo XXVII: Problemas de crítica de fuentes, metodología y demografía» —distinto capítulo, distinto título y, en el segundo, sin editorial—. (7) Hilton, Conflicto de clases y crisis del feudalismo: 1988 en la Bibliografía general, 1981 en la obligatoria de la U9 de prácticos. (8) Hilton, Siervos liberados: 1978 en la Bibliografía general, 1985 en la complementaria de la U9 de prácticos. (9) Monsalvo Antón, «Poder político y aparatos de estado en la Castilla bajomedieval»: 1998 en Studia Historica. Medieval IV, 2 según la Bibliografía general; 1986 en Studia Historica, Historia Medieval Vol. IV, Salamanca, según la complementaria de la U8 de prácticos —y «bajomedieval» en una, «bajo medieval» en la otra—. (10) Anderson, El Estado Absolutista: 1996 en las obligatorias de las Unidades 8 y 10 de prácticos, 1998 en la complementaria de la U IX de teóricos. (11) Nombre de una misma revista: el número 9 de 2020 alojado en revistanuestrahistoria.com (URLs nh9_17-36 y nh9_73-94) se cita «Nuestra Historia» en la obligatoria de la U I (Tejerizo García) y «Nueva Historia» en la obligatoria de la U VII (Castán Lanaspa); y el artículo de Wickham de 2018 figura en «Nueva Historia, 6» en la Bibliografía general y en «Nuestra Historia, nº 6» en la complementaria de la U10 de prácticos. (12) Gurievich: «Las categorías en la cultura medieval» en la Bibliografía general, «Las categorías de la cultura medieval» en la complementaria de la U1 de prácticos, ambos Madrid 1990. (13) Bonnassie, «Del Ródano a Galicia: génesis y modalidades del régimen feudal»: contenido en «Del esclavismo al feudalismo en Europa Occidental, Barcelona, Crítica» (1993) según la Bibliografía general, y en «Estructuras feudales y feudalismo en el mundo mediterráneo, Crítica, Barcelona, 1984» según la complementaria de la U3 de prácticos. (14) Colombo (2015): el asiento imprime «Sociedades precapitalistas, Vol. 4, nº 1» y la URL que lo acompaña termina en «SPv05n01a03». (15) Guijarro González (2008): la revista se imprime «Albor. Ciencia, pensamiento y cultura» y la URL apunta a arbor.revistas.csic.es. (16) Mitre Fernández (2002): el asiento dice «Hispania Sacra, 54, pp. 515-552» y la URL apunta a revistas.ucm.es/index.php/ELEM (En la España Medieval). (17) Dos volúmenes distintos de la Unidad X llevan editor con el apellido impreso de dos maneras que difieren en una letra: la obligatoria imprime «Ferro M. y otros (eds.)» para 711-1616: de árabes a moriscos, y la complementaria de esa misma unidad imprime «Fierro M. y García Fitz, F. (eds.)» para El cuerpo derrotado —«FIERRO, M. y GARCÍA FITZ, F.» en la Bibliografía general, donde García Sanjuán no figura—. El programa no dice si Ferro y Fierro son la misma persona, y acá no se decide. (18) Kriedte, Medick y Schlumbohm: «SCHLUMBOHM» en la complementaria de la U VIII de teóricos, «SHLUMBOHM» en la Bibliografía general. (19) Llibrer Escrig aparece como «A.» (2021, Temas medievales) y como «J. A.» (2014, En la España Medieval); el programa no dice si son la misma persona. (20) Acentuación alternante del mismo apellido: «MONSALVO ANTÓN» y «MONSALVO ANTÒN»; «BARTHÉLEMY» y «BARTHELEMY»; «GURIEVICH» y «GURIÉVICH». (21) En el PROGRAMA DE PRÁCTICOS, la Unidad 6 («Crisis del siglo XIV») es la única de las diez que no lleva ninguna línea de contenidos mínimos debajo del título, y la Unidad 7 vuelve a listar «Crisis del siglo XIV» entre los suyos. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el título del programa cierra comillas sin abrirlas («…EUROPA ENTRE LOS SIGLOS V Y XVI”»); la fundamentación escribe «el domino de la clase señorial» (por dominio); el último objetivo cambia de modo a mitad de frase («Reconozcan las diferentes posiciones historiográficas y desarrollar la capacidad de lectura crítica de la bibliografía»); el asiento de Astarita en la U II se fecha «(2003-3006)»; Tejerizo García (2013) imprime «(ss. VVIII)»; Menjot (2010) imprime «(silos XII-XV)» y «p. 5-18» en singular; el asiento de Toubert en la U II abre comillas y no las cierra («¿“civilización agraria” o “modo de producción”?»); la obligatoria de la U VIII a imprime «Señores el paisaje» (sin preposición); la obligatoria de la U X imprime «al- Andalus» y «árabe- islámica» con espacio tras el guion, igual que numerosos rangos de páginas («pp. 53- 140», «187- 219»); el apartado f. abre un paréntesis y no lo cierra («Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»); en la complementaria de la U X, dos asientos quedan pegados en una sola línea sin salto («…pp. 69- 105.-GARCÍA SANJUÁN, A. (2008)…»); la obligatoria de la U4 de prácticos abre «DUBY, G.:» con dos puntos y remata «Págs. 101-139» con mayúscula; el epígrafe atribuido a E. P. Thompson va maquetado en columna al margen derecho. Ninguna se corrige. LO QUE EL PROGRAMA CITA O ANUNCIA Y NO ASIENTA: el epígrafe de la portada interior se atribuye a E. P. Thompson y Thompson no tiene asiento bibliográfico en ninguna de las cinco zonas —la cadena «Thompson» aparece una sola vez en todo el PDF, dentro del propio epígrafe—; y el apartado g. lleva una llamada de nota al pie («podrán acceder a los programas y materiales bibliográficos,2») cuyo texto no aparece en ninguna parte del texto extraído, a diferencia de la nota 1, la de los docentes interinos, que sí está. Se declara la falta en lugar de completarla. ASIENTOS INCOMPLETOS, declarados y no completados: la obligatoria de la U V imprime «D´AMICO, C.» sin año delante del título (el año, 2018, va al final, tras la revista); las obras generales imprimen «ECHEVARRÍA ARSUAGA.» con punto y sin iniciales; la obligatoria de la U6 de prácticos da «Madrid, 2004» sin editorial para Benedictow; y las obligatorias de las Unidades VII y IX no consignan editor para los dos volúmenes colectivos de Estella, Gobierno de Navarra. ARTEFACTOS DE EXTRACCIÓN, no del original: los encabezados «UNIDAD II» y «UNIDAD V» del apartado c., y la entrada «CARRASCO MANCHADO» de la Bibliografía general, salen precedidos por un carácter de avance de página; la llamada de la nota 1 sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos una oración de la fundamentación; y varias URLs largas quedan cortadas por el salto de línea. Son efectos del orden de lectura del PDF y no se le atribuyen al programa. DETALLE REGISTRADO: Laura da Graca figura a la vez en el EQUIPO DOCENTE, como Profesora Adjunta, y en la bibliografía, como autora asentada en la Bibliografía general y en las obligatorias y complementarias del cronograma de prácticos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 10 unidades de teóricos (Luchía, 1º cuatrim. 2026)",
+      "title": "Del derrumbe de Roma a la formación tributaria islámica",
+      "note": "Las diez unidades numeradas en romanos del apartado c. Contenidos, en el orden impreso. El cronograma de lecturas de teóricos repite los mismos diez encabezados, con cuatro diferencias de redacción que quedan registradas en el frame.",
+      "map": {
+        "mk": "El programa de teóricos, en diez unidades",
+        "tree": "HISTORIA MEDIEVAL · cód. 0413/14010\nLuchía · 1º cuatrim. 2026 · 96 hs · EF · 15 clases\n«Poder, territorio y comunidad», Europa entre los siglos V y XVI\n│\n├─ I · Transiciones del mundo antiguo al feudal · 1 clase\n│      desarticulación imperial y migraciones · etnogénesis\n│      sociedad de base campesina (Wickham) · la aldea y la arqueología\n├─ II · Formación de la clase de poder feudal (VIII-X) · 2 clases\n│      monasterios y poder episcopal · el milagro como don\n│      dominio carolingio · los condes · don y contradon\n├─ III · Consolidación aristocrática y expansión feudal (XI-XII) · 1 clase\n│      el marco señorial y la sujeción campesina\n│      expansión feudal · capital mercantil y artesanado gremial\n│      la territorialidad del burgo: señorío colectivo y corporaciones\n├─ IV · Parentesco, género y sexualidad/es · 2 clases\n│      norma y práctica del matrimonio cristiano · reforma eclesiástica\n│      género, clase y reproducción social\n│      cuerpo, prácticas contraceptivas y aborto\n├─ V · Movimiento intelectual y universidades · 1 clase\n│      escuelas monásticas, catedralicias y urbanas\n│      la Querella de los Universales · la Escolástica\n│      la corporación universitaria: la territorialidad del claustro\n├─ VI · El problema socio-religioso: integrados y perseguidos · 2 clases\n│      a) Cruzadas, herejías sociales, contestación social\n│      b) los judíos: del antijudaísmo teológico a la violencia popular\n├─ VII · La crisis feudal (XIV-XV) · 1 clase\n│      modelos depresionistas y optimistas · demografía y fiscalidad\n│      crisis de subsistencia y eventos climáticos extremos\n│      la peste: ¿un fenómeno natural?\n├─ VIII · Los procesos de transición (XIV-XVI) · 2 clases\n│      a) ofensiva sobre la propiedad comunal · la tesis de Federici\n│      b) endeudamiento campesino · trabajo asalariado\n│         industria rural a domicilio · capital mercantil\n├─ IX · Centralización política bajomedieval · 1 clase\n│      el contenido de clase de la centralización\n│      «señores y oficiales» · oficio público e interés patrimonial\n└─ X · La formación tributaria Islámica · 1 clase\n       ğihād, dīwān, šarī´a · califato y kuttāb\n       zakāt, ğizya, harāğ · iqtā, day´a, fay’\n       la «vía bloqueada» al capitalismo\n\n+ INTEGRACIÓN DE CONTENIDOS DE TODAS LAS UNIDADES · 1 clase",
+        "foot": "Esta materia publica dos programas para 2026: el de Luchía (1º cuatrimestre) y el de Botalla (2º cuatrimestre). Acá se dibuja solo el de Luchía; del otro únicamente se verificó la portada, y sus contenidos no están indexados. Ninguno de los dos lleva letra de cátedra."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u1-transiciones-del-mundo-antiguo-al-feudal",
+          "name": "Transiciones del mundo antiguo al feudal",
+          "role": "Unidad I · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u2-formacion-de-la-clase-de-poder-feudal",
+          "name": "Formación de la clase de poder feudal (siglos VIII-X)",
+          "role": "Unidad II · 2 clases",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u3-consolidacion-aristocratica-y-expansion-feudal",
+          "name": "Consolidación aristocrática y expansión feudal (siglos XI-XII) [el cronograma imprime «XI-XIII»]",
+          "role": "Unidad III · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u4-parentesco-genero-y-sexualidades",
+          "name": "Parentesco, género y sexualidad/es en la Edad Media [el cronograma imprime «sexualidad»]",
+          "role": "Unidad IV · 2 clases",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u5-movimiento-intelectual-y-universidades",
+          "name": "Movimiento intelectual y universidades",
+          "role": "Unidad V · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u6-el-problema-socio-religioso-integrados-y-perseguidos",
+          "name": "El problema socio-religioso en la Edad Media: integrados y perseguidos · Parte a) Cruzadas, herejías y contestación social · Parte b) Los judíos en la Edad Media",
+          "role": "Unidad VI · 2 clases",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u7-la-crisis-feudal",
+          "name": "La crisis feudal (siglo XIV-XV) [el cronograma imprime «siglos XIV-XV»]",
+          "role": "Unidad VII · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u8-los-procesos-de-transicion",
+          "name": "Los procesos de transición (siglos XIV-XVI) · Parte a) Comunidad y acumulación originaria [el cronograma imprime «Comunidad campesina y acumulación originaria»] · Parte b) Dinámica productiva y subordinación social",
+          "role": "Unidad VIII · 2 clases",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u9-centralizacion-politica-bajomedieval",
+          "name": "Centralización política bajomedieval: las nuevas territorialidades",
+          "role": "Unidad IX · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.u10-la-formacion-tributaria-islamica",
+          "name": "La formación tributaria Islámica",
+          "role": "Unidad X · 1 clase",
+          "tag": "unidad · teóricos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "PROGRAMA DE PRÁCTICOS · las 10 unidades de trabajos prácticos",
+      "title": "El otro recorrido, en el mismo PDF",
+      "note": "El mismo programa incluye un PROGRAMA DE PRÁCTICOS con su propia secuencia de diez unidades numeradas en arábigos, con títulos distintos de los de teóricos. El documento no declara ninguna correspondencia entre las dos secuencias y acá no se infiere ninguna. Las clases de prácticos son de 2 horas semanales y se evalúan con dos exámenes parciales presenciales, en los que —dice el apartado g.— «se evaluará exclusivamente la bibliografía de prácticos».",
+      "map": {
+        "mk": "El programa de prácticos, en diez unidades",
+        "tree": "PROGRAMA DE PRÁCTICOS · 2 hs semanales · 2 parciales presenciales\n│\n├─ 1 · La primera transición\n│      del esclavismo al feudalismo · disolución del estado\n├─ 2 · Estructura domanial y situación del campesinado\n│      naturaleza y dinámica del Gran Dominio\n├─ 3 · La expansión del año 1000 y la formación del señorío\n│      transformación del Gran Dominio · alcances y límites\n├─ 4 · Parentesco y vasallaje\n│      matrimonio y parentesco · control eclesiástico\n├─ 5 · Dinámica entre campo y ciudad\n│      naturaleza y alcance de las actividades urbanas\n├─ 6 · Crisis del siglo XIV\n│      (única unidad sin contenidos mínimos impresos)\n├─ 7 · Dinámicas de transición en la Baja Edad Media\n│      transición al capitalismo · evolución del trabajo rural\n├─ 8 · Centralización política en la Baja Edad Media\n│      inicios del Estado absolutista · pervivencias feudales\n├─ 9 · La conflictividad social bajomedieval\n│      levantamientos campesinos · los debates historiográficos\n└─ 10 · Conceptualizaciones finales sobre feudalismo\n       marxistas e institucionalistas · el modo de producción tributario",
+        "foot": "«El siguiente programa contiene los contenidos mínimos a ser trabajados durante la cursada cuatrimestral presencial de la materia.» La Unidad 6 es la única que no imprime contenidos mínimos, y la Unidad 7 vuelve a listar «Crisis del siglo XIV» entre los suyos: las dos cosas quedan registradas, no resueltas."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p1-la-primera-transicion",
+          "name": "La primera transición",
+          "role": "Prácticos · Unidad 1",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p2-estructura-domanial-y-situacion-del-campesinado",
+          "name": "Estructura domanial y situación del campesinado",
+          "role": "Prácticos · Unidad 2",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p3-la-expansion-del-ano-1000-y-la-formacion-del-senorio",
+          "name": "La expansión del año 1000 y la formación del señorío",
+          "role": "Prácticos · Unidad 3",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p4-parentesco-y-vasallaje",
+          "name": "Parentesco y vasallaje",
+          "role": "Prácticos · Unidad 4",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p5-dinamica-entre-campo-y-ciudad",
+          "name": "Dinámica entre campo y ciudad",
+          "role": "Prácticos · Unidad 5",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p6-crisis-del-siglo-xiv",
+          "name": "Crisis del siglo XIV — única unidad de prácticos sin contenidos mínimos impresos",
+          "role": "Prácticos · Unidad 6",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p7-dinamicas-de-transicion-en-la-baja-edad-media",
+          "name": "Dinámicas de transición en la Baja Edad Media",
+          "role": "Prácticos · Unidad 7",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p8-centralizacion-politica-en-la-baja-edad-media",
+          "name": "Centralización política en la Baja Edad Media",
+          "role": "Prácticos · Unidad 8",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p9-la-conflictividad-social-bajomedieval",
+          "name": "La conflictividad social bajomedieval",
+          "role": "Prácticos · Unidad 9",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.p10-conceptualizaciones-finales-sobre-feudalismo",
+          "name": "Conceptualizaciones finales sobre feudalismo",
+          "role": "Prácticos · Unidad 10",
+          "tag": "unidad · prácticos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y obras generales · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 41 volúmenes con pie editorial de los 79 asientos de las tres zonas obligatorias del programa: las 2 obras generales sugeridas, las 57 obligatorias del cronograma de teóricos y las 20 obligatorias del cronograma de prácticos. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo (Baschet, Wickham, Astarita y Anderson). No se dibujan los 33 asientos obligatorios cuyo contenedor es una revista o unas actas de congreso: quedan declarados uno por uno en el frame. Tampoco se dibuja ninguna de las 227 entradas de las zonas complementarias ni de la «Bibliografía general». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-echevarria-arsuaga-atlas-historico-edad-media",
+          "name": "Atlas histórico de la Edad Media — Echevarría Arsuaga [así impreso, «ECHEVARRÍA ARSUAGA.», con punto y sin iniciales] y J. M. Rodríguez (Madrid, UNED, 2010)",
+          "role": "obra general sugerida",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-garcia-de-cortazar-sesma-manual-de-historia-medieval",
+          "name": "Manual de Historia Medieval — J. A. García de Cortázar y J. A. Sesma Muñoz (Alianza, 2014; la «Bibliografía general» lo reimprime «Madrid, Alianza»)",
+          "role": "obra general sugerida",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-halsall-las-migraciones-barbaras",
+          "name": "Las migraciones bárbaras y el Occidente romano. 376-568 — G. Halsall (Valencia, PUV, 2012) · «¿Nuevos pueblos, nuevas identidades, nuevos reinos?», pp. 467-509",
+          "role": "obligatoria · teóricos U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-wickham-una-historia-nueva-de-la-alta-edad-media",
+          "name": "Una Historia nueva de la Alta Edad Media. Europa y el mundo mediterráneo (400-800) — Ch. Wickham (Barcelona, Crítica) · «La lógica de las economías campesinas en la Alta Edad Media», pp. 758-781 · el cronograma de teóricos lo fecha en 2008 y el de prácticos, con el mismo capítulo, en 2009",
+          "role": "obligatoria · teóricos U I y prácticos U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-baschet-la-civilizacion-feudal",
+          "name": "La civilización feudal. Europa del año mil a la colonización de América — J. Baschet (México, FCE, 2009) · «Génesis de la sociedad cristiana», pp. 47-100 (U II); «Orden señorial y crecimiento feudal», pp. 101-175 (U III); «El Parentesco. Reproducción física y simbólica de la Cristiandad» y «La Iglesia, institución dominante del feudalismo» (prácticos U4)",
+          "role": "obligatoria · teóricos U II y U III · prácticos U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-feller-campesinos-y-senores",
+          "name": "Campesinos y señores en la Edad Media. Siglos VIII-XV — L. Feller (Valencia, PUV, 2015) · «El mundo rural: hábitat, notables y colectividades en la Alta Edad Media», pp. 91-122",
+          "role": "obligatoria · teóricos U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-toubert-en-la-edad-media-fuentes-estructuras-crisis",
+          "name": "En la Edad Media. Fuentes, estructuras, crisis — P. Toubert (Ed. Univ. de Granada, 2016) · «Las estructuras agrarias mediterráneas en la Edad Media: ¿“civilización agraria” o “modo de producción”?» [comillas así impresas, sin cierre], pp. 101-122",
+          "role": "obligatoria · teóricos U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-cursente-la-ciudad-de-los-campesinos",
+          "name": "La ciudad de los campesinos: villas nuevas, pequeñas villas, villas mercado — B. Cursente (Estella, Gobierno de Navarra, 2020) · «Las ciudades de los campesinos en la Edad Media», pp. 11-35",
+          "role": "obligatoria · teóricos U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-alvarez-borge-comunidades-locales-y-poderes-feudales",
+          "name": "Comunidades locales y poderes feudales en la Edad Media — I. Álvarez Borge (coord.) (Logroño, Universidad de La Rioja, 2013) · Ch. Wickham, «Comunidades rurales y señorío débil: el caso del norte de Italia, 1050-1250», pp. 397-415",
+          "role": "obligatoria · teóricos U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-brundage-la-ley-el-sexo-y-la-sociedad-cristiana",
+          "name": "La ley, el sexo y la sociedad cristiana en la Europa medieval — J. A. Brundage (México, FCE, 2000) · «La época de la reforma eclesiástica, el resurgimiento intelectual y la urbanización (1000-1140)», pp. 192-242",
+          "role": "obligatoria · teóricos U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-de-la-iglesia-duarte-la-ensenanza-en-la-edad-media",
+          "name": "La enseñanza en la Edad Media — J. I. de la Iglesia Duarte (coord.) (Logroño, IER, 2000) · M. I. del Val Valdivieso, «El contexto social de las universidades medievales», pp. 243-268",
+          "role": "obligatoria · teóricos U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-del-val-valdivieso-castilla-y-el-mundo-feudal",
+          "name": "Castilla y el mundo feudal, vol. 1 — M. I. del Val Valdivieso y P. Martínez Sopena (coords.) (Madrid, Junta de Castilla y León, 2009) · M. Esteban Recio, «Conflictos sociales y herejías en la Edad Media», pp. 49-67",
+          "role": "obligatoria · teóricos U VI a",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-iogna-prat-la-invencion-social-de-la-iglesia",
+          "name": "La invención social de la Iglesia en la Edad Media — D. Iogna-Prat (Bs. As., Miño y Dávila, 2016) · «La iglesia y la tierra santa cristiana», pp. 121-160",
+          "role": "obligatoria · teóricos U VI a",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-moore-la-guerra-contra-la-herejia",
+          "name": "La Guerra contra la herejía. Fe y poder en la Europa medieval — R. I. Moore (Barcelona, Crítica, 2014) · Cap. 3 «La vida apostólica»",
+          "role": "obligatoria · teóricos U VI a",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-rodriguez-de-la-pena-fake-news-y-edad-media",
+          "name": "Fake news y Edad Media — A. Rodríguez de la Peña y G. Collamati (eds.) (Madrid, Ediciones CEU, 2021) · E. Cantera Montenegro, «Los libelos de sangre: antisemitismo y difusión de bulos en la Edad Media», pp. 117-148",
+          "role": "obligatoria · teóricos U VI b",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-tov-assis-encuentros-culturales",
+          "name": "Encuentros culturales de judíos, paganos, cristianos y musulmanes, vol. II — Y. Tov Assis, C. Aslanov y L. Senkman (eds.) (Univ. Hebrea de Jerusalén, 2010) · I. Marcus, «Una simbiosis judeo-cristiana: la cultura temprana de Ashquenaz», pp. 311-388",
+          "role": "obligatoria · teóricos U VI b",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-rodinson-pueblo-judio-o-problema-judio",
+          "name": "¿Pueblo judío o problema judío? — M. Rodinson (Bs. As., Canaán, 2015) · «De la nación judía al problema judío», pp. 105-157",
+          "role": "obligatoria · teóricos U VI b",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-transformaciones-del-medioambiente-en-la-edad-media",
+          "name": "Transformaciones del medioambiente en la Edad Media. Paisajes, recursos y acción humana (Estella, Gobierno de Navarra, 2023; el programa no consigna editor) · P. Benito i Monclús, «El clima como protagonista histórico de las crisis alimentarias medievales», pp. 199-220",
+          "role": "obligatoria · teóricos U VII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-bois-la-gran-depresion-medieval",
+          "name": "La gran depresión medieval: siglos XIV-XV. El precedente de una crisis sistémica — G. Bois (Univ. de Valencia, 2001) · «La depresión económica», pp. 63 a 103",
+          "role": "obligatoria · teóricos U VII",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-federici-caliban-y-la-bruja",
+          "name": "Calibán y la bruja. Mujeres, cuerpo y acumulación originaria — S. Federici (Bs. As., Tinta Limón, 2015) · «La acumulación de trabajo y la degradación de las mujeres», pp. 99-173",
+          "role": "obligatoria · teóricos U VIII a",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-pascua-echegaray-senores-el-paisaje",
+          "name": "Señores el paisaje. Ganadería y recursos naturales en Aragón, siglos XIII-XVII [así impreso] — E. Pascua Echegaray (Valencia, PUV, 2012) · «Las categorías socioculturales de representación del paisaje en el mundo rural medieval», pp. 41-70",
+          "role": "obligatoria · teóricos U VIII a",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-astarita-del-feudalismo-al-capitalismo",
+          "name": "Del feudalismo al capitalismo. Cambio social y político en Castilla y Europa occidental. 1250-1520 — C. Astarita (Universidad de Granada, 2005) · «La industria rural a domicilio», pp. 145-172 (teóricos U VIII b); «El estado feudal» (prácticos U8, donde el pie se imprime «Valencia, Publicacions de la Universitat de Valencia y Editorial Universidad de Granada»)",
+          "role": "obligatoria · teóricos U VIII b · prácticos U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-furio-estados-y-mercados-financieros",
+          "name": "Estados y mercados financieros en el Occidente cristiano (siglos XIII-XVI) (Estella, Gobierno de Navarra, 2015; el programa no consigna editor) · A. Furió, «Estado, mercados y crecimiento económico», pp. 55-81",
+          "role": "obligatoria · teóricos U IX",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-estepa-placido-transiciones-en-la-antiguedad-y-feudalismo",
+          "name": "Transiciones en la Antigüedad y feudalismo — C. Estepa y D. Placido (coords.), J. Trias (ed.) (Madrid, FIM, 1998) · J. M. Monsalvo Antón, «Crisis del feudalismo y centralización monárquica castellana (observaciones acerca del origen del «Estado Moderno» y su causalidad)», pp. 139-167",
+          "role": "obligatoria · teóricos U IX",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-monsalvo-los-conflictos-sociales-en-la-edad-media",
+          "name": "Los conflictos sociales en la Edad Media — J. M. Monsalvo Antón (Madrid, Síntesis, 2016) · Cap. 10 «Lo que muestran los conflictos sociales: estructuras, discursos y mentalidades medievales», pp. 291-327",
+          "role": "obligatoria · teóricos U IX",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-wickham-europa-en-la-edad-media",
+          "name": "Europa en la Edad Media. Una nueva interpretación — Ch. Wickham (Barcelona, Crítica, 2017) · «Cap. 12: La reconsideración de la política», pp. 379-406",
+          "role": "obligatoria · teóricos U IX",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-ferro-711-1616-de-arabes-a-moriscos",
+          "name": "711-1616: de árabes a moriscos. Una parte de la historia de España — M. Ferro y otros (eds.) (Córdoba, al-Babtain Foundation, 2012) · A. García Sanjuán, «El hecho tribal y el concepto tributario. Tres propuestas de caracterización de la sociedad andalusí», pp. 187-219",
+          "role": "obligatoria · teóricos U X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-guichard-al-andalus-estructura-antropologica",
+          "name": "al-Andalus. Estructura antropológica de una sociedad islámica en occidente — P. Guichard (Barcelona, Barral, 1973) · «Estructuras sociales elementales: la organización del parentesco y la situación de la mujer en la España musulmana», pp. 53-140",
+          "role": "obligatoria · teóricos U X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-peters-la-yihad-en-el-islam",
+          "name": "La Yihad en el Islam medieval y moderno — R. Peters (Sevilla, Universidad de Sevilla, 1998)",
+          "role": "obligatoria · teóricos U X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-rodinson-mahoma",
+          "name": "Mahoma. El nacimiento del mundo islámico — M. Rodinson (Barcelona, Península, 2002) · «Nacimiento de un estado»",
+          "role": "obligatoria · teóricos U X",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-toubert-castillos-senores-y-campesinos",
+          "name": "Castillos, señores y campesinos en la Italia Medieval — P. Toubert (Barcelona, Crítica, 1990) · «El régimen domanial y las estructuras productivas en la Alta Edad Media»",
+          "role": "obligatoria · prácticos U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-little-rosenwein-la-edad-media-a-debate",
+          "name": "La Edad Media a debate — L. Little y B. Rosenwein (eds.) (Madrid, Akal, 1998) · P. Bonnassie, «El señorío banal y los cambios en la condición del campesinado»",
+          "role": "obligatoria · prácticos U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-morsel-la-aristocracia-medieval",
+          "name": "La aristocracia medieval. El dominio social en occidente (siglos V-XV) — J. Morsel (Valencia, Univ. de Valencia, 2008) · «Señores y Villanos»",
+          "role": "obligatoria · prácticos U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-rojas-obras-selectas-de-georges-duby",
+          "name": "Obras selectas de Georges Duby — B. Rojas (comp.) (México, Fondo de Cultura Económica, 1999) · G. Duby, «Los feudales», Págs. 101-139",
+          "role": "obligatoria · prácticos U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-monsalvo-las-ciudades-europeas-del-medievo",
+          "name": "Las ciudades europeas del Medievo — J. M. Monsalvo Antón (Madrid, Editorial Síntesis, 1997) · «Introducción» y «Los perfiles del crecimiento urbano»",
+          "role": "obligatoria · prácticos U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-benedictow-la-peste-negra",
+          "name": "La Peste Negra (1346-1353) — O. Benedictow (Madrid, 2004; el asiento no consigna editorial) · Capítulo XXVII: «Problemas de crítica de fuentes, metodología y demografía» · la complementaria de la U VII de teóricos asienta el mismo libro como «La peste negra 1346-1353. La historia completa, Akal» y remite al Cap. XXXIV",
+          "role": "obligatoria · prácticos U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-aston-philpin-el-debate-brenner",
+          "name": "El debate Brenner — T. H. Aston y C. H. Philpin (eds.) (Barcelona, Crítica, 1988) · R. Brenner, «Estructura de clases agraria y desarrollo económico en la Europa preindustrial»",
+          "role": "obligatoria · prácticos U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-anderson-el-estado-absolutista",
+          "name": "El Estado Absolutista — P. Anderson (México, Siglo XXI, 1996) · «El estado absolutista en occidente» (prácticos U8); «Conclusiones» (prácticos U10) · la complementaria de la U IX de teóricos lo fecha en 1998 y remite a los dos apartados, pp. 9-37 y 405-443",
+          "role": "obligatoria · prácticos U8 y U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-astarita-garcia-mac-gaw-conflictos-sociales",
+          "name": "Conflictos sociales en la Antigüedad y el feudalismo — C. Astarita, C. García Mac Gaw y A. Zingarelli (comp.) (La Plata, EDULP, 2017) · L. da Graca, «El levantamiento inglés de 1381»",
+          "role": "obligatoria · prácticos U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-hilton-conflicto-de-clases-y-crisis-del-feudalismo",
+          "name": "Conflicto de clases y crisis del feudalismo — R. Hilton (Barcelona, Editorial Crítica, 1981) · «Campesinos medievales ¿Alguna enseñanza?», «Los movimientos campesinos en Inglaterra antes de 1381» y «Conceptos sociales en el levantamiento inglés de 1381» · la «Bibliografía general» lo fecha en 1988",
+          "role": "obligatoria · prácticos U9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-medieval.libro-aavv-el-feudalismo-sarpe",
+          "name": "El feudalismo — AAVV (Madrid, Sarpe, 1985) · P. Parain [así impreso], «Caracteres generales del feudalismo»",
+          "role": "obligatoria · prácticos U10",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA MEDIEVAL, cód. 0413/14010, «Poder, territorio y comunidad en la historia medieval: Europa entre los siglos V y XVI», Prof. Corina Luchía, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0413_14010%20-%20HISTORIA%20MEDIEVAL%20-%20LUCH%C3%8DA%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA MEDIEVAL, cód. 0413/14010, Prof. Corina Luchía, 1º cuatrimestre 2026 (23 pp., PDF con capa de texto nativa) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-medieval-luchia-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0413_14010%20-%20HISTORIA%20MEDIEVAL%20-%20LUCH%C3%8DA%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA MEDIEVAL, «PROFESOR/A: BOTALLA, HORACIO», «CÓDIGO Nº: 0413 / 14010», «RÉGIMEN DE PROMOCIÓN: EF», «CUATRIMESTRE: 2º», «AÑO: 2026», 13 pp. — el programa alternativo, NO dibujado: solo se verificó su portada (curl + pdftotext -l 1) para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0413%20-14010]-%20HISTORIA%20MEDIEVAL%20-%20BOTALLA%20-%202C%202026.pdf"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a las clases de trabajos prácticos y 2 instancias de evaluación parcial con un mínimo de 4 puntos en cada una, con 1 recuperatorio · aprobación por EXAMEN FINAL que «abarcará la totalidad del programa» · vigencia de la regularidad: 4 años y 3 mesas examinadoras",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; el apartado D reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0429 / 14016 (así impreso, «CÓDIGO Nº: 0429 / 14016»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA ARGENTINA I (1776-1862) “A”»",
+    "catedra": "«A» — la letra está impresa dos veces dentro de la línea de materia: «MATERIA: HISTORIA ARGENTINA I (1776-1862) “A”» (portada) y «MATERIA: HISTORIA ARGENTINA 1 “A” (1776-1862)» (encabezado interno). La palabra «cátedra» aparece exactamente cuatro veces en el PDF, en tres renglones: una en el apartado A, donde el programa sí se refiere a sí mismo («Los objetivos planteados por la cátedra para el cursado de la materia son los siguientes»); dos dentro de un mismo asiento bibliográfico de la Unidad I, que cita un «Cuaderno de la Cátedra de Historia Argentina I (Cátedra A), Facultad de Filosofía y Letras, UBA, 2004» —único lugar del documento donde se lee literalmente la cadena «Cátedra A», y es el pie de una publicación de 2004, no una autodesignación de este programa—; y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL»; la portada y el encabezado interno imprimen «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través del espacio de la carrera en el campus virtual de la Facultad (https://campus.filo.uba.ar/)»",
+    "equipoDocente": [
+      "DJENDEREDJIAN, JULIO (portada: «PROFESOR/A: DJENDEREDJIAN, JULIO»; encabezado interno: «PROFESOR ASOCIADO A CARGO: DJENDEREDJIAN, JULIO»; firma al pie: «Julio Djenderedjian Profesor Asociado»)",
+      "WASSERMAN, FABIO (PROFESOR ADJUNTO)",
+      "ARAMBURO, MARIANO (JEFE DE TRABAJOS PRÁCTICOS)",
+      "GALIMBERTI, AGUSTIN (AYUDANTE DE PRIMERA)",
+      "PAUTASSO, ALEJANDRO (AYUDANTE DE PRIMERA)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "recomendaciones": "el apartado F imprime una sola línea: «Se recomienda tener cursada la materia Historia de América II (colonial)». Es una recomendación, no una correlatividad: la cadena «correlativ» no aparece en el PDF",
+    "ubicacionEnElPlan": "obligatoria del Ciclo de Grado, Materias Específicas Obligatorias (una de las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 6,
+    "bibliografia": 61
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-argentina-1",
+      "label": "Historia Argentina I (1776 – 1862)"
+    }
+  ],
+  "eyebrow": "Historia · Historia Argentina I (1776-1862) «A» · Djenderedjian · 1º cuatrim. 2026",
+  "title": "Ochenta y seis años entre un virreinato y una nación.",
+  "lede": "Seis unidades que van de la creación del Virreinato del Río de la Plata a la víspera de la unificación, leyendo el período como la larga descomposición de un orden y el ensayo trabajoso de otro. Se entra por el orden colonial: el eje Potosí-Buenos Aires, la organización política y administrativa virreinal, el impacto de las reformas borbónicas, la Ilustración católica, y un mundo rural mirado de cerca —poblamiento, apropiación y distribución de la tierra, pequeños, medianos y grandes productores, ganadería y agricultura, relaciones sociales, prácticas y normas—. Sigue la crisis imperial y la guerra: las invasiones inglesas y la militarización de Buenos Aires, la Revolución de Mayo como cuestión de soberanía, la provisionalidad de los gobiernos centrales, la movilización popular y la dislocación del espacio virreinal, Artigas y el levantamiento oriental, el comercio libre. Después, 1820: la caída del poder central, la formación de los Estados provinciales, la pregunta abierta —¿federación o confederación?—, el comercio y las finanzas provinciales, y el caudillo entre legalidad y legitimidad. En paralelo, Buenos Aires: las reformas rivadavianas, el nuevo régimen representativo, el Congreso General Constituyente, la guerra con el Brasil y la caída del gobierno unitario. La unidad más larga es la Confederación, en dos partes: el ascenso de Rosas, la lucha facciosa, el Pacto Federal de 1831, la expansión ganadera y las fronteras interétnicas; y luego el régimen de «unanimidad» —poderes excepcionales, propaganda y terror—, la hegemonía porteña, la libre navegación de los ríos, la generación del 37 en el exilio y la gran alianza que termina con Rosas. Cierra la década 1852-1862: el legado rosista en discusión, la constitución de 1853, la Confederación urquicista y la segregación de Buenos Aires.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "6",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "cátedra «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA ARGENTINA I (1776-1862) “A”, Departamento de Historia (FFyL-UBA), cód. 0429 / 14016, Prof. Julio Djenderedjian, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (17 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-argentina1-djenderedjian-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): la cátedra “A”, DJENDEREDJIAN, Julio, 1º cuatrimestre 2026, 17 páginas. NO se dibuja 1 de 2 (50%): la cátedra “B”, cuya portada fue verificada directamente para esta ficha —descarga por curl y extracción de la primera página— y dice, literalmente, «MATERIA: HISTORIA ARGENTINA I (1776-1862) “B”», «PROFESOR: DI MEGLIO, GABRIEL», «CÓDIGO Nº: 0429/14016», «RÉGIMEN DE PROMOCIÓN: PD», «2º CUATRIMESTRE 2026», «AÑO: 2026», y «MODALIDAD DE DICTADO: PRESENCIAL ajustado a lo dispuesto por REDEC-2021-2174-UBA-DCT#FFYL.»; el archivo tiene 20 páginas. Esa sigla está transcripta de la portada que se leyó y se registra como lo que es: la resolución que la portada de la cátedra “B” cita bajo el rótulo MODALIDAD DE DICTADO, REDEC-2021-2174, distinta de la que cita la cátedra “A” (REDEC-2024-2526-UBA-DCT#FFYL). No se afirma nada sobre la vigencia ni sobre la actualidad del programa “B”: no se extrajo ni se indexó su contenido. De la cátedra “B” no se afirma nada más allá de esos campos de portada; su URL queda asentada en sources. Los contenidos, las unidades y la bibliografía de este nodo son los de la cátedra “A” y de ninguna otra. CÁTEDRA, cómo consta: la letra “A” está impresa dentro de la línea de materia, dos veces. La palabra «cátedra» aparece exactamente cuatro veces en el PDF, en tres renglones: una en el apartado A, donde el programa sí habla de sí mismo («Los objetivos planteados por la cátedra para el cursado de la materia son los siguientes»); dos en un mismo asiento bibliográfico de la Unidad I —el «Cuaderno de la Cátedra de Historia Argentina I (Cátedra A), Facultad de Filosofía y Letras, UBA, 2004» de M. L. Cutrera, que la imprime dos veces seguidas, único lugar del documento donde se lee literalmente «Cátedra A», y es el pie de una publicación de 2004, no una autodesignación de este programa—; y una dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». DATO CRUZADO: la ubicación de la materia —obligatoria del Ciclo de Grado, una de las doce Materias Específicas Obligatorias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa (la cadena «resoluci» no aparece), y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0429 / 14016» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). Tampoco hay apartado de FUNDAMENTACIÓN: la cadena «fundamentaci» no aparece en el PDF. Los apartados son seis, rotulados con mayúsculas de la A a la F —A. OBJETIVOS, B. CONTENIDOS (organizados en unidades temáticas), C. BIBLIOGRAFÍA OBLIGATORIA, D. ORGANIZACIÓN DEL DICTADO DE LA MATERIA, E. ORGANIZACIÓN DE LA EVALUACIÓN, F. RECOMENDACIONES—, y no la a–g minúscula del formulario habitual de la Facultad. El documento va firmado al pie «Julio Djenderedjian Profesor Asociado». ESTRUCTURA: el apartado B trae SEIS unidades numeradas en romanos, cada una con su título y su período entre paréntesis, y el apartado C trae SEIS bloques de bibliografía encabezados solo «Unidad I:», «Unidad II:», «Unidad III» (sin dos puntos), «Unidad IV:», «Unidad V:» y «Unidad VI:» — los bloques bibliográficos NO repiten los títulos ni los períodos de las unidades de contenido. Las seis se dibujan. La Unidad V se subdivide en «Primera parte: El advenimiento al poder de Rosas» y «Segunda parte: Consolidación del régimen rosista», con un solo número de unidad y un solo bloque bibliográfico: se dibuja como una unidad, con las dos partes anotadas. El apartado A imprime tres objetivos numerados; no se dibujan como grupo. CUATRO APARATOS BIBLIOGRÁFICOS, contados todos, y solo uno dibujado: el programa lista 180 asientos repartidos en cuatro listas distintas. (1) «C. BIBLIOGRAFÍA OBLIGATORIA», organizada por unidad: 111 asientos (U1: 12 · U2: 31 · U3: 18 · U4: 9 · U5: 24 · U6: 17). (2) «OBRAS GENERALES DE CONSULTA»: 18 asientos. (3) «BIBLIOGRAFÍA DE REFERENCIA, DE LECTURA MUY RECOMENDADA»: 8 asientos. (4) «LECTURAS OBLIGATORIAS»: 43 asientos, intercalados con 12 rótulos «BOC:» («Bibliografía obligatoria complementaria (en adelante BOC)», definido en el propio apartado). Se dibujan SOLO los volúmenes del aparato (1), la bibliografía obligatoria por unidad, porque es el único de los cuatro que asigna cada asiento a una unidad del programa. Los aparatos (2), (3) y (4) quedan contados y declarados y NO se dibujan: el (4) en particular no lleva ningún encabezado de unidad, de modo que dibujarlo exigiría atribuirle unidades que el programa no le atribuye. La consecuencia se registra: hay al menos un volumen que solo aparece en (4) y por lo tanto no se dibuja —Gelman, J., «Rosas, estanciero. Gobierno y expansión ganadera», Buenos Aires, Capital Intelectual, 2005, «Conclusiones. El régimen de Rosas», pp. 70-87—, además del asiento literal «*Selección de fuentes.», que no nombra ninguna obra. SELECCIÓN Y EXCLUSIONES DENTRO DEL APARATO (1), con la cuenta en las dos direcciones: de los 111 asientos, se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción, presentación o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo—. NO se dibujan los 40 asientos cuyo contenedor es una revista, un boletín, un anuario, un foro o un sitio web: 0 en la U1; 11 en la U2 (Chiaramonte en Historia Mexicana; Di Meglio y Rabinovich en el Boletín Ravignani; Fradkin en Nuevo Topo; Frega en Andes y en Prismas; Gil Montero en Memoria Americana; Goldman en Historia y Política; Mata de López en Andes; Ossa y Rabinovich en Revista de Indias; Peire en el Anuario de Historia Argentina); 8 en la U3 (Chiaramonte en Desarrollo económico; Di Meglio en Claves; Goldman en el Boletín Ravignani y en Araucaria; Guzmán y Schmit en América Latina en la Historia Económica; Herrero en el Anuario IEHS; Morea en Páginas; Sica en el Boletín Ravignani); 2 en la U4 (Cansanello en el Boletín Ravignani; Verdo en Nuevo Mundo Mundos Nuevos); 14 en la U5 (Agüero en Nuevo Mundo Mundos Nuevos; Banzato y Lanteri en Historia Agraria; Miralles Bianconi en Palimpsesto; Candioti en Estudios sociales; Di Meglio en Prohistoria; Etchechury Barrera en historiapolítica.com; Gelman en Entrepasados; González en el Anuario IEHS; Halperín Donghi en Desarrollo Económico; Lanteri y Santilli en Revista de Indias; Macías en el Boletín Ravignani; Nanni y Wilde en Trabajos y Comunicaciones; Ratto en Revista de Indias; y Tío Vallejo, «Papel y grillos, los jueces y el gobierno en Tucumán, 1820-1840», cuyo único pie impreso es «Nuevo Mundo Mundos Nuevos, 2010» —un título con forma de libro cuyo contenedor impreso es la misma revista citada en otros dos asientos: se excluye por el contenedor que el programa imprime, y la ambigüedad queda registrada acá—); y 5 en la U6 (Aramburo en Prólogos; Buchbinder en Jahrbuch; Eujanian en Prohistoria; Garavaglia en Desarrollo económico; Wasserman en Almanack Braziliense). Quedan 71 asientos con volumen, que al unificar los repetidos dan 61 libros, y 61 son los que se dibujan (U1: 12 · U2: 20 · U3: 10 · U4: 7 · U5: 10 · U6: 12 asientos con volumen). Los ocho volúmenes que reaparecen son Chiaramonte, Ciudades, provincias, Estados (U1 y U3); Goldman (ed.), Lenguaje y Revolución (U2 y U3); Gelman (dir.), Argentina. Crisis imperial e independencia (U2 y U4); Bandieri, La historia económica y los procesos de independencia en América Hispana (dos asientos en la U3); Goldman y Salvatore, Caudillismos Rioplatenses (dos asientos en la U3 y uno en la U5); Goldman (dir.), Revolución, República, Confederación (uno en la U4 y dos en la U5); Canedo, Un país para los porteños (dos asientos en la U6); y Rabinovich, Zubizarreta y Canciani, Caseros (dos asientos en la U6): cada uno se dibuja una sola vez, con los capítulos de todas sus apariciones anotados en el nombre. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial del aparato (1) queda fuera. Ningún asiento se descartó por ilegible. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) El nombre de la materia difiere entre la portada y el encabezado interno: «HISTORIA ARGENTINA I (1776-1862) “A”» (uno romano, la letra después del paréntesis) frente a «HISTORIA ARGENTINA 1 “A” (1776-1862)» (uno arábigo, la letra antes del paréntesis). (2) Gelman, «La gran divergencia»: la Unidad III y las LECTURAS OBLIGATORIAS le dan pp. 105-129, y la BIBLIOGRAFÍA DE REFERENCIA le da pp. 71-104 —exactamente el rango que los otros dos aparatos asignan al artículo de Schmit en el mismo volumen—; y el volumen que los contiene se imprime «La historia económica y los procesos de independencia en América Hispana» con «S. Bandieri» sin rol (U3), «Bandieri, S.,» (LECTURAS OBLIGATORIAS), «Bandieri, S. (ed.)» (ídem, asiento de Schmit) y «Susana Bandieri (comp.) La historia económica y los procesos de independencia en la América hispana» (BIBLIOGRAFÍA DE REFERENCIA). (3) El volumen que contiene a Ratto: la Unidad II lo imprime «Bragoni, B. (coord.) Entre la colonia y la república: insurgencias, rebeliones y cultura política en América del Sur, 2009», sin lugar ni editorial; las LECTURAS OBLIGATORIAS lo imprimen «Bragoni, B. y Mata, S. (comps) Entre la colonia y la república: insurgencias, rebeliones y cultura política en América del Sur, Buenos Aires, Prometeo, 2009». (4) Halperín Donghi, De la Revolución de la Independencia a la Confederación rosista: la Unidad V lo fecha «Buenos Aires, Paidós, 1971»; la BIBLIOGRAFÍA DE REFERENCIA, «Paidós, 1971 (hay reedición 2001)»; las LECTURAS OBLIGATORIAS lo imprimen una vez «De la Revolución de independencia a la confederación rosista. Buenos Aires, Paidós, 2007» y otra «Paidós, 1971 (Reedición 2001)». Tres años distintos para el mismo libro. (5) El volumen dirigido por Goldman se imprime «Revolución, República, Confederación (1806-1852), t. 3 de la Nueva Historia Argentina» (U5), «Revolución, República, Confederación...» sin pie editorial y con puntos suspensivos (U4) y «Revolución, República y Confederación, Tomo 3» con «y» (OBRAS GENERALES DE CONSULTA). (6) En el volumen Caseros, los asientos de Galimberti y de Schmit llevan el mismo rango de páginas, pp. 63-98, en las LECTURAS OBLIGATORIAS, siendo capítulos distintos; en la Unidad VI, Galimberti lleva pp. 63-98 y Schmit no lleva páginas. (7) El título de la Unidad IV fecha el Congreso Constituyente en «(1820- 1829)» mientras el asiento de Ternavasio que le corresponde lo titula «Las reformas rivadavianas en Buenos Aires y el Congreso General Constituyente (1820-1827)»; y los períodos de las Unidades III «(1820-1831)» y IV «(1820- 1829)» se superponen por entero. (8) El apartado E se encabeza «OPCIÓN 1 / Régimen de promoción con EXAMEN FINAL (EF)» aunque el programa imprime una sola opción; y la condición de regularidad se enuncia dos veces, con las mismas exigencias y distinta redacción. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «J. vonGrafenstein», sin espacio; «Primera Parte: “La cultura política a fines de período colonial”», sin «del»; «Frega A., “Caudillos y montoneras…”, en Andes, Nª. 13» con «Nª» por «Nº»; «enPadoin», «enBoletín», «enDesarrollo económico», «enAnuario IEHS», «enLos Trece Ranchos», «Míguez, E.,Los Trece Ranchos», «Hora, R.Historia económica», «Canedo, M. (Coord)Un país para los porteños», «Guzmán, F. y Ghidoli, M. L. (eds.)El asedio a la libertad», «Sudamericana, 1998,pp. 381-445», «Entrepasadosnº 22», «Revistaelectrónica de ANPHLAC», «Nanni, F. yWilde, A. C.», «Fradkin, R. y Garavaglia, J.C,» sin punto tras la C — todos ellos espacios comidos por la maquetación; el capítulo de Salvatore se cita «Capítulo “Resistencia sostenida...”», con puntos suspensivos dentro del propio título; el apartado E abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»; el nombre del Boletín del Instituto de Historia Argentina y Americana alterna entre «Dr. Emilio Ravignani», «Dr. E. Ravignani» —a veces sin comillas— y el escueto «Boletín del Instituto Ravignani», y en dos asientos las comillas salen desparejas, «Ravignani’’», con dos apóstrofos de cierre en lugar de la comilla tipográfica. Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos el ítem 7 de la Unidad II, cuyo enunciado —«Consecuencias socio-económicas de la revolución. El comercio libre.»— reaparece después de la nota; en la Unidad II los asientos de Ratto y Serulnikov salen con sangría irregular y concatenados en una misma línea; en la Unidad VI los asientos de De la Fuente y Eujanian salen concatenados («Cap. I. Eujanian, A.»), igual que los de Garavaglia y González («pp. 223-248.González P.,») y los de Sabato y Schmit («Caps. 1; 2 y 3. Schmit, R.»); en las LECTURAS OBLIGATORIAS el asiento de Di Meglio queda truncado por el salto de página («3era serie, 20 BOC:»); y varios períodos quedan partidos por el salto de línea («(1820- 1829)», «REDEC-2024- 2526-UBA-DCT#FFYL», «(1800- 1846)», «1780- 1850»). Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 6 unidades (cátedra “A”, Djenderedjian, 1º cuatrim. 2026)",
+      "title": "Del eje Potosí-Buenos Aires a la segregación porteña",
+      "note": "Las seis unidades numeradas del apartado B. Contenidos, en el orden impreso, con sus períodos tal como el programa los imprime. El apartado C. Bibliografía Obligatoria repite los seis números de unidad pero no los títulos ni los períodos.",
+      "map": {
+        "mk": "El programa, en seis unidades",
+        "tree": "HISTORIA ARGENTINA I (1776-1862) “A” · cód. 0429 / 14016\nDjenderedjian · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ I · El orden colonial (1776-1806)\n│      sociedad y economía del Virreinato · el eje Potosí-Buenos Aires\n│      reformas borbónicas · la Ilustración católica\n│      el mundo rural: tierra, ganadería, prácticas y normas\n│\n├─ II · Crisis imperial, Revolución y guerra (1806-1820)\n│      invasiones inglesas · militarización de Buenos Aires\n│      Mayo de 1810 y la cuestión de la soberanía\n│      guerra, movilización popular, dislocación del espacio virreinal\n│      Artigas y el levantamiento oriental · el comercio libre\n│\n├─ III · Los orígenes del federalismo rioplatense (1820-1831)\n│      ciudad, provincia y nación · la caída del poder central en 1820\n│      ¿federación o confederación? · comercio y finanzas provinciales\n│      el caudillo: legalidad y legitimidad\n│\n├─ IV · Las reformas rivadavianas y el Congreso Constituyente (1820-1829)\n│      reformas financieras, institucionales, políticas y culturales\n│      un nuevo régimen representativo · el Congreso General\n│      la guerra con el Brasil · la Liga militar del Interior\n│\n├─ V · La Confederación (1829-1852)\n│   ├─ 1ª parte · el advenimiento al poder de Rosas\n│   │     diciembre de 1828 · unitarios y federales\n│   │     el Pacto Federal de 1831 · expansión ganadera\n│   │     fronteras y relaciones interétnicas\n│   └─ 2ª parte · consolidación del régimen rosista\n│         la “unanimidad”: poderes excepcionales, propaganda y terror\n│         hegemonía porteña · la libre navegación de los ríos\n│         la generación del 37 y el exilio · la caída de Rosas\n│\n└─ VI · Hacia la Organización Nacional (1852-1862)\n       el legado del período rosista en discusión\n       la constitución de 1853 y la Confederación urquicista\n       la segregación de Buenos Aires",
+        "foot": "Esta materia publica dos programas para 2026: la cátedra “A” (Djenderedjian, 1º cuatrimestre) y la cátedra “B” (Di Meglio, 2º cuatrimestre). Acá se dibuja solo la “A”; de la “B” únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u1-el-orden-colonial",
+          "name": "El orden colonial (1776-1806)",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u2-crisis-imperial-revolucion-y-guerra",
+          "name": "Crisis imperial, Revolución y guerra (1806-1820)",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u3-los-origenes-del-federalismo-rioplatense",
+          "name": "Los orígenes del federalismo rioplatense (1820-1831)",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u4-las-reformas-rivadavianas-y-el-congreso-constituyente",
+          "name": "Las reformas rivadavianas en Buenos Aires y el Congreso Constituyente (1820-1829)",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u5-la-confederacion",
+          "name": "La Confederación (1829-1852) · Primera parte: El advenimiento al poder de Rosas · Segunda parte: Consolidación del régimen rosista",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.u6-hacia-la-organizacion-nacional",
+          "name": "Hacia la Organización Nacional (1852-1862)",
+          "role": "Unidad VI",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria por unidad · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 61 volúmenes con pie editorial de los 111 asientos del apartado C, por unidad. Un capítulo, introducción, presentación o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo (Chiaramonte, Goldman ed., Gelman dir., Bandieri, Caudillismos Rioplatenses, Goldman dir., Canedo y Caseros). No se dibujan los 40 asientos de revista, boletín, anuario, foro o sitio web: quedan declarados uno por uno en el frame. Las otras tres listas del programa —OBRAS GENERALES DE CONSULTA (18), BIBLIOGRAFÍA DE REFERENCIA, DE LECTURA MUY RECOMENDADA (8) y LECTURAS OBLIGATORIAS (43, con 12 rótulos BOC)— quedan contadas y no se dibujan, porque ninguna asigna sus asientos a una unidad del programa. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-barsky-gelman-historia-del-agro-argentino",
+          "name": "Historia del agro argentino. Desde la Conquista hasta fines del siglo XX — O. Barsky y J. Gelman (Buenos Aires, Grijalbo-Mondadori, 2001) · capítulos III y IV, pp. 73-113",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-cutrera-relaciones-sociedades-hispanocriollas",
+          "name": "Las relaciones entre las sociedades hispanocriollas y las comunidades aborígenes pampeano-patagónicas durante los siglos XVII y XIX — M. L. Cutrera (Cuaderno de la Cátedra de Historia Argentina I (Cátedra A), Facultad de Filosofía y Letras, UBA, 2004)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-chiaramonte-ciudades-provincias-estados",
+          "name": "Ciudades, provincias, Estados: Orígenes de la Nación Argentina (1800-1846) — J. C. Chiaramonte (Buenos Aires, Ariel Historia, 1997) · Primera Parte: «La cultura política a fines de período colonial» [así impreso] (U1); Segunda Parte: «Las primeras soberanías» (U3)",
+          "role": "obligatoria · U1 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-di-stefano-el-pulpito-y-la-plaza",
+          "name": "El púlpito y la plaza. Clero, sociedad y política de la monarquía católica a la república rosista — R. Di Stefano (Buenos Aires, Siglo XXI, 2004) · Primera Parte",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-piqueras-vongrafenstein-pensamiento-economico-reformismo-criollo",
+          "name": "El pensamiento económico del reformismo criollo — J. Piqueras y J. vonGrafenstein [así impreso] (coords.) (Santa Marta, Universidad del Magdalena, 2020) · J. Djenderedjian, «Entre praxis política y realidad: el reformismo ilustrado en el mundo rural rioplatense», pp. 311-349",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-garavaglia-la-argentina-colonial",
+          "name": "La Argentina colonial. El Río de la Plata entre los siglos XVI y XIX — R. Fradkin y J. C. Garavaglia (Buenos Aires, Siglo XXI, 2009) · capítulos 3, 4, 6 y 8",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-garavaglia-economia-sociedad-y-regiones",
+          "name": "Economía, sociedad y regiones — J. C. Garavaglia (Buenos Aires, Ed. De la Flor, 1987) · «Crecimiento económico y diferenciaciones regionales: el Río de la Plata a fines del siglo XVIII»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gelman-campesinos-y-estancieros",
+          "name": "Campesinos y estancieros. Una región del Río de la Plata a fines de la época colonial — J. Gelman (Buenos Aires, Editorial Los libros del Riel, 1998) · Conclusiones, pp. 310-322",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-historia-provincia-buenos-aires-conquista-1820",
+          "name": "Historia de la Provincia de Buenos Aires. De la Conquista a la crisis de 1820 — R. Fradkin (dir.) (UNIPE/Edhasa, 2012; el programa no consigna lugar) · N. Goldman, «La ciudad letrada»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-halperin-donghi-reforma-y-disolucion-imperios-ibericos",
+          "name": "Reforma y disolución de los Imperios Ibéricos 1750-1850 — T. Halperín Donghi (Madrid, Alianza Editorial, 1985) · Primera parte",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-mayo-estancia-y-sociedad-en-la-pampa",
+          "name": "Estancia y Sociedad en La Pampa, 1740-1820 — C. Mayo (Buenos Aires, Ed. Biblos, 1995) · Caps. 1, 2 y 3",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-academia-nacional-nueva-historia-argentina-ii",
+          "name": "Nueva Historia Argentina, II — Academia Nacional de la Historia (Buenos Aires, Planeta, 1999) · V. Tau Anzoátegui, «Órdenes normativos y prácticas socio-jurídicas. La Justicia», cap. 6",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-chiaramonte-mercaderes-del-litoral",
+          "name": "Mercaderes del Litoral — J. C. Chiaramonte (Buenos Aires, Fondo de Cultura Económica, 1991) · «La cuestión regional en el proceso de gestación del estado nacional argentino. Algunos problemas de interpretación», pp. 21-54",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-di-meglio-historia-de-las-clases-populares",
+          "name": "Historia de las clases populares en la Argentina. Desde 1516 hasta 1880 — G. Di Meglio (Buenos Aires, Sudamericana, 2012) · «Introducción»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-y-el-pueblo-donde-esta",
+          "name": "¿Y el pueblo dónde está? — Raúl Fradkin (editor) (Buenos Aires, Prometeo Libros, 2008) · A. Frega, «Los infelices y el carácter popular de la revolución artiguista», pp. 151-175",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gallo-de-la-invasion-al-reconocimiento",
+          "name": "De la invasión al reconocimiento. Gran Bretaña y el Río de la Plata, 1806-1826 — K. Gallo (Buenos Aires, A-Z Editora, 1994)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-goldman-lenguaje-y-revolucion",
+          "name": "Lenguaje y Revolución. Conceptos políticos clave en el Río de la Plata, 1780-1850 — N. Goldman (ed.) (Buenos Aires, Prometeo, 2008) · conceptos «patria», «pueblo / pueblos» y «revolución» (U2); N. Souto, «Unidad/Federación», pp. 175-193 (U3)",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gelman-argentina-crisis-imperial-e-independencia",
+          "name": "Argentina. Crisis imperial e independencia, América Latina en la Historia Contemporánea, T. 1-1808/1830 — J. Gelman (dir.) (Madrid, Fundación Mapfre y Santillana, 2010) · N. Goldman y M. Ternavasio, «La vida política», pp. 51-99 (U2); K. Gallo, «Argentina en el mundo», pp. 101-142 (U4)",
+          "role": "obligatoria · U2 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-guerra-modernidad-e-independencias",
+          "name": "Modernidad e independencias — F. X. Guerra (Madrid, Mapfre, 1992) · Introducción y Cap. IV, pp. 11-18 y 115-148",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-guzman-ghidoli-el-asedio-a-la-libertad",
+          "name": "El asedio a la libertad: abolición y posabolición de la esclavitud en el Cono Sur — F. Guzmán y M. L. Ghidoli (eds.) (Buenos Aires, Biblos, 2020) · Presentación, pp. 23-40",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-halperin-donghi-revolucion-y-guerra",
+          "name": "Revolución y Guerra — T. Halperín Donghi (Buenos Aires, Siglo XXI, 1972)",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-halperin-donghi-el-ocaso-del-orden-colonial",
+          "name": "El ocaso del orden colonial en Hispanoamérica — T. Halperín Donghi (comp.) (Buenos Aires, Sudamericana, 1978) · T. Halperín Donghi, «Militarización revolucionaria en Buenos Aires, 1806-1815»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-chust-1808-la-eclosion-juntera",
+          "name": "1808. La eclosión juntera en el mundo hispano — M. Chust (coord.) (México, FCE, 2007) · M. Irurozqui, «Del Acta de los Doctores al Plan de Gobierno. Las juntas en la Audiencia de Charcas», pp. 190-224",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gonzalez-bernaldo-independencias-iberoamericanas",
+          "name": "Independencias iberoamericanas. Nuevos problemas y aproximaciones — Pilar González Bernaldo de Quirós (dir.) (Buenos Aires, FCE, 2015) · A. McFarlane, «El contexto internacional de las independencias hispanoamericanas», pp. 107-124",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-mallo-telesca-los-negros-de-la-patria",
+          "name": "Los negros de la patria. Los afrodescendientes en las luchas por la independencia en el antiguo virreinato del Río de la Plata — S. Mallo e I. Telesca (eds.) (Buenos Aires, Editorial SB, 2010) · S. Mallo, «Libertad y esclavitud en el Río de la Plata entre el discurso y la realidad»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-gelman-desafios-al-orden",
+          "name": "Desafíos al Orden. Política y sociedades rurales durante la Revolución de Independencia — R. Fradkin y J. Gelman (comps.) (Rosario, Prohistoria, 2008) · G. Paz, «'El orden es el desorden'. Guerra y movilización campesina en la campaña de Jujuy, 1815-1821», pp. 83-101",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-rabinovich-mena-morea-200-anos-independencia",
+          "name": "200 años de la Independencia Argentina — A. Rabinovich, M. Mena y A. Morea (Buenos Aires, Congreso de la Nación, 2017) · A. Rabinovich, «Una Independencia, dos caminos. La disputa por la estrategia militar de la Revolución», pp. 13-48",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-bragoni-entre-la-colonia-y-la-republica",
+          "name": "Entre la colonia y la república: insurgencias, rebeliones y cultura política en América del Sur — B. Bragoni (coord.) (2009; el asiento de esta unidad no consigna lugar ni editorial) · S. Ratto, «Los indios y la revolución en el Río de la Plata. El proceso independentista entre los indígenas soberanos de Pampa y Chaco», pp. 143-168",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-entin-crear-la-independencia",
+          "name": "Crear la independencia. Historia de un problema argentino — G. Entin (ed.) (Buenos Aires, Capital Intelectual, 2016) · S. Serulnikov, «El Alto Perú en la independencia del Río de la Plata», pp. 95-126",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-padoin-frega-historia-poder-cultura-e-fronteiras",
+          "name": "História: poder, cultura e fronteiras — M. M. Padoin y A. Frega Novales (org.) (Santa Maria, RS: Facos-UFSM, 2017) · M. L. Soux, «Las fronteras construidas y el proceso de independencia en Charcas-Bolivia», pp. 23-41",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-ternavasio-candidata-a-la-corona",
+          "name": "Candidata a la Corona. La infanta Carlota Joaquina en el laberinto de las revoluciones hispanoamericanas — M. Ternavasio (Buenos Aires, Siglo XXI, 2015) · pp. 11-103",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-ophelan-lomne-abascal-contra-independencia",
+          "name": "Abascal y la contra-independencia de América del Sur en el Perú — S. OʼPhelan y G. Lomné (Lima, IFEA/Pontificia Universidad Católica del Perú, 2013) · G. Verdo, «Guerra y soberanía: el noroeste del Río de la Plata durante la revolución de independencia (1810-1820)», pp. 303-333",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-carmagnani-federalismos-latinoamericanos",
+          "name": "Federalismos latinoamericanos: México, Brasil, Argentina — Marcelo Carmagnani (comp.) (México, F.C.E., 1993) · J. C. Chiaramonte, «El Federalismo argentino en la primera mitad del siglo XIX»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-la-historia-de-una-montonera",
+          "name": "La Historia de una Montonera. Bandolerismo y Caudillismo en Buenos Aires, 1826 — R. Fradkin (Buenos Aires, Siglo XXI, 2006) · Capítulo 3: «Anatomía de la montonera», pp. 89-121",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-bandieri-historia-economica-procesos-independencia",
+          "name": "La historia económica y los procesos de independencia en América Hispana — S. Bandieri (Buenos Aires, Prometeo, 2010) · J. Gelman, «La gran divergencia. Las economías regionales en Argentina después de la Independencia», pp. 105-129, y R. Schmit, «Las consecuencias económicas de la Revolución en el Río de la Plata», pp. 71-104",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-goldman-salvatore-caudillismos-rioplatenses",
+          "name": "Caudillismos Rioplatenses. Nuevas miradas a un viejo problema — N. Goldman y R. Salvatore (coords.) (Buenos Aires, Eudeba/Facultad de Filosofía y Letras, 1998) · Introducción y M. Ternavasio, «Entre la deliberación y la autorización. El régimen rosista frente al dilema de la inestabilidad política», pp. 159-188 (U3); R. Salvatore, «Expresiones federales: formas políticas del federalismo rosista», pp. 189-222 (U5)",
+          "role": "obligatoria · U3 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-ares-en-torno-a-la-imprenta-de-buenos-aires",
+          "name": "En Torno a la Imprenta de Buenos Aires — F. Ares (comp.) (Buenos Aires, Gobierno de la Ciudad, 2018) · S. Szir, «El fabricante de imágenes. César Hipólito Bacle y el establecimiento de la litografía en Buenos Aires (1828-1838)», pp. 105-134",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-verdo-la-union-improbable",
+          "name": "La unión improbable. Historia política de las repúblicas provinciales del Río de la Plata (1776-1841) — G. Verdo (Rosario, Prohistoria, 2025) · «Introducción. Pensar la construcción política por fuera del marco nacional», pp. 9-25",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-santilli-la-argentina-entre-tres-siglos",
+          "name": "La Argentina entre tres siglos. Precios, salarios y desigualdad en la larga duración (1750-1945) — D. Santilli (Buenos Aires, Prometeo, 2024) · J. Djenderedjian, T. Guzmán, J. L. Martirén y R. Schmit, «Precios, salarios y poder de compra desde el Virreinato al orden republicano: Buenos Aires entre 1776 y 1850», pp. 53-78",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-fusilaron-a-dorrego",
+          "name": "¡Fusilaron a Dorrego! — R. Fradkin (Buenos Aires, Sudamericana, 2008) · «Anatomía del alzamiento rural», pp. 73-139",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-garavaglia-poder-conflicto-y-relaciones-sociales",
+          "name": "Poder, conflicto y relaciones sociales. El Río de la Plata XVIII-XIX — J. C. Garavaglia (Buenos Aires, Homo Sapiens, 1999) · «La justicia rural en Buenos Aires durante la primera mitad del siglo XIX», pp. 89-121",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-tcach-cordoba-bicentenaria",
+          "name": "Córdoba bicentenaria. Claves de su historia contemporánea — C. Tcach (coord.) (Córdoba, Editorial de la UNC-CEA, 2010) · S. Romano, «Las nuevas fuentes de legitimación del poder y sus protagonistas. Configuración del sistema republicano y representativo en la provincia de Córdoba, 1821-1855», pp. 15-35",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-goldman-revolucion-republica-confederacion",
+          "name": "Revolución, República, Confederación (1806-1852), t. 3 de la Nueva Historia Argentina — N. Goldman (dir.) (Buenos Aires, Sudamericana, 1998) · M. Ternavasio, «Las reformas rivadavianas en Buenos Aires y el Congreso General Constituyente (1820-1827)», capítulo V, pp. 159-197 (U4); J. Myers, «La Revolución en las ideas: La generación romántica de 1837 en la cultura y en la política argentinas», pp. 381-445, y R. Pagani, N. Souto y F. Wasserman, «El ascenso de Rosas al poder y el surgimiento de la Confederación», pp. 283-321 (U5)",
+          "role": "obligatoria · U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-tio-vallejo-la-republica-extraordinaria",
+          "name": "La república extraordinaria. Tucumán en la primera mitad del siglo XIX — G. Tio Vallejo (coord.) (Rosario, Prohistoria ediciones, 2011) · Capítulo I",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-fradkin-gelman-rosas-liderazgo-politico",
+          "name": "Rosas. La construcción de un liderazgo político — R. Fradkin y J. Gelman (Buenos Aires, Edhasa, 2015) · pp. 172-202",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gelman-rosas-bajo-fuego",
+          "name": "Rosas bajo fuego — J. Gelman (Buenos Aires, Sudamericana, 2009) · Introducción",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-halperin-donghi-de-la-revolucion-a-la-confederacion-rosista",
+          "name": "De la Revolución de la Independencia a la Confederación rosista, Historia Argentina, Tomo III — T. Halperín Donghi (Buenos Aires, Paidós, 1971) · «El surgimiento de la Confederación», «Crisis y triunfo de la confederación rosista (1835-1843)» y «Apogeo y caída del rosismo», pp. 301-409",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-miguez-historia-economica-argentina-conquista-1930",
+          "name": "Historia económica de la Argentina. De la conquista a la crisis de 1930 — E. Míguez (Buenos Aires, Sudamericana, 2008) · Capítulo 2, «Apertura comercial y fragmentación política: la economía de una nación en ciernes. 1800-1860», pp. 81-143",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-salvatore-la-confederacion-argentina-y-subalternos",
+          "name": "La Confederación Argentina y subalternos: Integración estatal, política y derechos en el Buenos Aires independiente (1820-1860) — R. Salvatore (Santiago de Chile, Biblioteca Nacional, 2020) · Capítulo «Resistencia sostenida...» [así impreso, con puntos suspensivos dentro del título], pp. 45-72",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-schmit-wasserman-el-gobierno-de-la-incertidumbre",
+          "name": "El gobierno de la incertidumbre. La política financiera en Buenos Aires desde el Virreinato a la Confederación — R. Schmit y M. Wasserman (Buenos Aires, Prometeo, 2022) · Conclusiones, pp. 123-127",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-annino-historia-de-las-elecciones-en-iberoamerica",
+          "name": "Historia de las elecciones en Iberoamérica, Siglo XIX — A. Annino (coord.) (Buenos Aires, FCE, 1995) · M. Ternavasio, «Nuevo régimen representativo y expansión de la frontera política. Las elecciones en el Estado de Buenos Aires: 1820-1840», pp. 66-105",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-bragoni-miguez-un-nuevo-orden-politico",
+          "name": "Un nuevo orden político. Provincias y Estado Nacional, 1852-1880 — B. Bragoni y E. Míguez (coords.) (Buenos Aires, Ed. Biblos, 2010) · «Introducción. De la periferia al centro: la formación de un sistema político nacional, 1852-1880», pp. 9-28",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-canedo-un-pais-para-los-portenos",
+          "name": "Un país para los porteños. La experiencia del Estado de Buenos Aires (1852-1861) — M. Canedo (La Plata, Universidad Nacional de La Plata, 2023) · R. Bressan, «Las provincias y la Confederación Argentina», pp. 27-60, y F. Wasserman, «ʻLa lengua del públicoʼ. La prensa en Buenos Aires durante la década de 1850», pp. 443-474",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-de-la-fuente-los-hijos-de-facundo",
+          "name": "Los hijos de Facundo: caudillos y montoneras en la Provincia de La Rioja durante la formación del Estado nacional argentino — A. De la Fuente (Buenos Aires, Prometeo, 2007) · Cap. I",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-rabinovich-zubizarreta-canciani-caseros",
+          "name": "Caseros. La batalla por la organización nacional — A. Rabinovich, I. Zubizarreta y L. Canciani (Buenos Aires, Sudamericana, 2022) · A. Galimberti, «Juan Manuel de Rosas y el ejército de Buenos Aires», pp. 63-98, y R. Schmit, «Justo José de Urquiza y el Ejército Grande de la América del Sud» (el asiento de la Unidad VI no le consigna páginas)",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-gonzalez-civilidad-y-politica",
+          "name": "Civilidad y política en los orígenes de la nación argentina: la sociabilidad en Buenos Aires, 1829-1862 — P. González (Buenos Aires, F.C.E., 2001) · Segunda parte",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-halperin-donghi-una-nacion-para-el-desierto-argentino",
+          "name": "Una nación para el desierto argentino — T. Halperín Donghi (Buenos Aires, Centro Editor de América Latina, 1982) · pp. 7-55",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-hora-historia-economica-argentina-siglo-xix",
+          "name": "Historia económica de la Argentina en el siglo XIX — R. Hora (Buenos Aires, Siglo XXI, 2010) · Cap. 4, «La era de la lana», pp. 95-126",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-lanteri-actores-e-identidades",
+          "name": "Actores e identidades en la construcción del Estado Nacional (Argentina, siglo XIX) — A. L. Lanteri (coord.) (Buenos Aires, Teseo, 2013) · A. L. Lanteri, «La “Confederación” desde sus actores. La conformación de una dirigencia nacional en un nuevo orden político (1852-1862)», pp. 129-169",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-miguez-los-trece-ranchos",
+          "name": "Los Trece Ranchos. Las provincias, Buenos Aires, y la formación de la Nación Argentina (1840-1880) — E. Míguez (Rosario, Prohistoria, 2021) · Cap. III, pp. 97-128",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-argentina-1.libro-sabato-historia-de-la-argentina-1852-1890",
+          "name": "Historia de la Argentina: 1852-1890 — H. Sabato (Buenos Aires, Siglo XXI, 2012) · Caps. 1, 2 y 3",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA I (1776-1862) “A”, cód. 0429 / 14016, Prof. Julio Djenderedjian, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0429-14016%20-%20HISTORIA%20ARGENTINA%20I%20%281776-1862%29%20-%20A%20-%20DJENDEREDJIAN%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA I (1776-1862) “A”, cód. 0429 / 14016, Prof. Julio Djenderedjian, 1º cuatrimestre 2026 (17 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-argentina1-djenderedjian-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0429-14016%20-%20HISTORIA%20ARGENTINA%20I%20%281776-1862%29%20-%20A%20-%20DJENDEREDJIAN%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ARGENTINA I (1776-1862) “B”, PROFESOR: DI MEGLIO, GABRIEL, CÓDIGO Nº: 0429/14016, RÉGIMEN DE PROMOCIÓN: PD, 2º CUATRIMESTRE 2026, AÑO: 2026, MODALIDAD DE DICTADO: PRESENCIAL ajustado a lo dispuesto por REDEC-2021-2174-UBA-DCT#FFYL, 20 pp. — la cátedra alternativa, NO dibujada: solo se descargó y se leyó su portada para declarar la selección y transcribir esos campos; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0429%20-%2014016]%20-%20HISTORIA%20ARGENTINA%20I%20%281776-1862%29%20-%20B%20-%20DI%20MEGLIO%20-%202C%202026.pdf"
+    }
+  ]
+}

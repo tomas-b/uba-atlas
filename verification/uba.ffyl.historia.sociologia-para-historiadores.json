@@ -1,0 +1,24 @@
+{
+  "address": "uba.ffyl.historia.sociologia-para-historiadores",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 49,
+  "books_found": 49,
+  "not_found": [
+    "F1 frame: forma de autor «en las tres entradas suyas» (Wright) — sólo hay DOS entradas de Wright (L159, L244); la tercera aparición (L160) es el título del volumen de Carabaña que la misma frase usa como contraste. Reparar: «las dos entradas suyas».",
+    "F2 frame, errata: «las entradas de Rosdolsky y de Wright (Análisis de clase) cierran sin punto» — Rosdolsky sí (L156), pero la de Wright/Carabaña cierra CON punto ('…Visor, 1995.', verificado byte a byte); L156 es la única línea terminal sin punto en 138-268. Reparar: quitar la mitad Wright.",
+    "F3 metadata.tituloDual + frame: «impresos en la misma línea de portada» — el campo MATERIA se quiebra en dos líneas visuales en portada (L8-9) y encabezado interno (L25-26). La sustancia (un solo campo, dos nombres) es cierta. Reparar: «en un solo campo MATERIA». (El claim paralelo sobre el código sí es de una línea, L6.)",
+    "Menor: la frase del 2º bloque afirma como hecho que Corcuff y Elias «son los autores de la Unidad IV de contenidos» — Elias sí figura (L121), Corcuff no aparece en contenidos, y el bloque también reúne a Dunning, Heinich, Joas y Knöbl. La conclusión (rechazar la correspondencia) es correcta; ablandar la premisa."
+  ],
+  "omitted": [
+    "Normalizaciones inofensivas sin declarar: espaciado 'Argentaria / Visor', guillemets agregados a títulos de capítulo sin comillas (Aricó, Rosdolsky), apóstrofo recto en «l'action»; subtítulo de Carabaña citado en minúscula en el frame (artefacto de quiebre) — el exit del libro lo trae bien.",
+    "Dato cruzado no consignado: Pablo Nocera es a la vez Ayudante de 1ª (L38) y autor de los dos prólogos de la complementaria de U2 (L208, L210)."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (sha256 match, 8 pp). Everything structural held: 4/4 untitled units with zero invented words in the labels (one preposition drift in the tree map, 'de' vs 'a', no new word); 60→58→49 arithmetic exact and re-derived; all 49 book exits grounded line by line — no fabricated edition, year, publisher or page range; the forward op. cit. confirmed literally; the «2º bloque 'Unidad 3'» never promoted to Unidad IV anywhere (jq-verified); código 0408/14006 never mapped to a plan; cátedra grep exactly 3 as claimed; dual-plan cover confirmed on both surfaces; cross-datum plan placement honest and true. The three repairs are frame/metadata prose (a miscount of Wright entries, a false errata attribution, a typographic descriptor), none touching counts, roles, structure or book data."
+}

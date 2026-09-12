@@ -1,0 +1,23 @@
+{
+  "address": "uba.ffyl.historia.historia-argentina-2",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 87,
+  "books_found": 87,
+  "not_found": [
+    "Frame, ARTEFACTOS DE EXTRACCIÓN: la trampa de conteo es real pero AL REVÉS — afirma que el reflujo de columnas desindenta seis continuaciones (Mases, Ratto, Suriano, Palacio, Saítta, Nari) y que contarlas daría 149; esas seis están indentadas 5-8 espacios (normales), sólo TRES continuaciones quedan a indent ≤1 y son las segundas líneas de los Materiales de trabajo. El 149 real es 143 + 3 filmografía + 3 materiales — el total honesto de la sección, no un artefacto. El mecanismo es racionalización post-hoc; el 143 que defiende es correcto. Reparar el párrafo.",
+    "Menor: «el anuario rosarino» glosando Anuario IEHS — el PDF nunca dice rosarino, IEHS es de Tandil; el anuario rosarino real del programa es otra publicación (Falcón, L496). Quitar la glosa.",
+    "Menor: la cita de modalidad de la portada B imprime «REDEC-2024-2526UBA-DCT#FFYL.» — el guión existe, cortado por salto de línea (tercer caso del artefacto en la ola). Restaurar.",
+    "Menor: Falcón (L432) imprime «Laborde, Rosario, 2005» — la misma inversión editorial/lugar que el frame señala en Prieto — normalizada silenciosamente en el nombre del libro. Declarar o revertir."
+  ],
+  "omitted": [
+    "Dos asientos más sin lugar (Suriano/La Colmena, Terán/Sudamericana) fuera de la lista de incompletos — la lista no se declara exhaustiva; ambos lugares apoyados por asientos hermanos. Nota, no defecto."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (15 pp, md5 a58a0c77…). Estructura y aritmética limpias y re-derivadas: 2 bloques / 4 unidades / 16 apartados; «bloque» exactamente una vez en el PDF — dibujarlos sólo en mapa/frame es correcto; 143 asientos con los cuatro vectores exactos; las 39 exclusiones una por una; 10 volúmenes recurrentes absorbiendo 27 → 87 exits, 87 títulos verbatim, cero fugas, roles reconstruyendo 104 exacto; Lobato ×5 confirmado. Las 9 contradicciones con refs en ambos lados. Cátedra grep exactamente 7 con el desglose 3+1+2+1. El manejo de la «B» limpio: cada campo citado verbatim del cover re-bajado; CUESTA aparece 3 veces, siempre cubierto y atribuido al listado, nunca afirmado. Los 9 incompletos siguen incompletos; erratas as-printed. Sin fabricaciones: el único defecto sustantivo es una afirmación factual falsa sobre el artefacto de extracción (que defendía un total correcto), más tres nits."
+}

@@ -1,0 +1,401 @@
+{
+  "address": "uba.ffyl.historia.historia-sistemas-economicos",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial, con 1 recuperatorio",
+    "cargaHoraria": "96 HORAS (la portada imprime «CARGA HORARIA: 96 HORAS»; el apartado e. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "2º",
+    "año": 2026,
+    "codigo": "0404 / 14003 (así impreso, «CÓDIGO Nº: 0404 / 14003»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE LOS SISTEMAS ECONÓMICOS “A”»",
+    "catedra": "«A» — la letra está impresa dos veces en el propio documento, dentro de la línea de materia: «MATERIA: HISTORIA DE LOS SISTEMAS ECONÓMICOS “A”» (portada y encabezado interno). La palabra «cátedra» aparece tres veces en el PDF y ninguna de ellas designa a esta cátedra: dos en créditos de traducción de la bibliografía («traducción de la cátedra», en Hunt y en Scheidel) y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "PRESENCIAL · «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "COLOMBO, OCTAVIO (portada: «PROFESOR/A: COLOMBO, OCTAVIO»; firma al pie: «Octavio Colombo / Profesor Adjunto»)",
+      "CANAVESE, MARIANA (JEFE DE TRABAJOS PRÁCTICOS · DRA.)",
+      "KORNBLIHTT, JUAN (JEFE DE TRABAJOS PRÁCTICOS · DR.)",
+      "PERELMAN, MARCELO (AYUDANTE DE PRIMERA · DR.)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "electiva del Ciclo de Grado, Materias Generales («2 de 4» en el grupo de las historias temáticas) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 13,
+    "bibliografia": 29
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-sistemas-economicos",
+      "label": "Historia de los Sistemas Económicos"
+    }
+  ],
+  "eyebrow": "Historia · Historia de los Sistemas Económicos «A» · Colombo · 2º cuatrim. 2026",
+  "title": "Ninguna economía se queda quieta.",
+  "lede": "Trece unidades que recorren las estructuras económicas fundamentales de la historia leyéndolas como sistemas que se reproducen y, al reproducirse, se transforman: sistema, reproducción, contradicción y transformación son los cuatro conceptos que el programa declara como eje. Se entra por las economías domésticas y campesinas —Chayanov, el comportamiento «inverso» frente a los precios, el ciclo familiar, la reciprocidad—, se sigue por las sociedades esclavistas antiguas y por la servidumbre y sus modos de producción en disputa (asiático, feudal, «tributario»), y se llega al feudalismo europeo y los debates sobre la transición al capitalismo. La segunda mitad es la dinámica de la acumulación —valor-trabajo contra utilidad marginal, mercancía, dinero y capital, ejército industrial de reserva, cambio tecnológico schumpeteriano y marxista—, la formación del mercado mundial y la acumulación originaria, el esclavismo moderno y el Sur de Estados Unidos, el ciclo del siglo XIX y la Gran Depresión, el fordismo y el Estado de Bienestar, el desarrollo desigual de la periferia y los regímenes de acumulación argentinos, la planificación centralizada soviética por balances materiales, y las tres crisis contemporáneas: la del Estado de Bienestar, la de las economías planificadas hasta la perestroika y la reconversión china, y la del capitalismo periférico. El programa declara incorporar, y discutir, orientaciones conceptuales alternativas: marxista, smithiana, neoclásica, neoinstitucionalista, cliométrica, schumpeteriana y regulacionista.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "13",
+      "small": "2º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "cátedra «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE LOS SISTEMAS ECONÓMICOS “A”, Departamento de Historia (FFyL-UBA), cód. 0404 / 14003, Prof. Octavio Colombo, 2º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (12 páginas, con capa de texto, extraído entero), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): la cátedra “A”, COLOMBO, Octavio, 2º cuatrimestre 2026, 12 páginas. NO se dibuja 1 de 2 (50%): la cátedra “B”, cuya portada fue verificada directamente para esta ficha y dice, literalmente, «MATERIA: HISTORIA DE LOS SISTEMAS ECONÓMICOS “B”», «PROFESOR: DUARTE, OSCAR DANIEL», «CÓDIGO N°: 0404 /14003», «RÉGIMEN DE PROMOCIÓN: PD», «1º CUATRIMESTRE 2026», «AÑO: 2026», 15 páginas; su URL queda asentada en sources. De la cátedra “B” no se extrajo ni se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los de la cátedra “A” y de ninguna otra. CÁTEDRA, cómo consta: la letra “A” está impresa dentro de la línea de materia, dos veces (portada y encabezado interno); el programa no la llama «cátedra A» ni la nombra de otro modo. La palabra «cátedra» aparece exactamente tres veces en el PDF y ninguna designa a esta: dos veces en créditos de traducción de la bibliografía —«(traducción de la cátedra)», en los asientos de Hunt y de Scheidel— y una dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». DATO CRUZADO: la ubicación de la materia —electiva del Ciclo de Grado, Materias Generales, «2 de 4» entre las historias temáticas del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), plan de estudios, ciclo, orientación, tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0404 / 14003» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie «Octavio Colombo / Profesor Adjunto»; la portada lo consigna como «PROFESOR/A: COLOMBO, OCTAVIO». ESTRUCTURA: el apartado c. Contenidos trae TRECE unidades numeradas en arábigos, y el apartado d. trae TRECE bloques de bibliografía con exactamente los mismos trece encabezados, palabra por palabra. Las trece se dibujan. El apartado b. Objetivos imprime un objetivo general y seis específicos; no se dibujan como grupo. FORMULARIO vs. CONTENIDO: el encabezado del apartado d. es el del formulario de la Facultad —«Bibliografía, filmografía y/o discografía obligatoria, complementaria y fuentes, si correspondiera»— pero los trece bloques traen únicamente «Bibliografía obligatoria:», trece veces. No hay bibliografía complementaria, ni filmografía, ni discografía, ni fuentes en ninguna unidad: se declara la falta en lugar de completarla. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: la bibliografía obligatoria tiene 41 asientos (U1: 3 · U2: 4 · U3: 4 · U4: 3 · U5: 2 · U6: 5 · U7: 6 · U8: 2 · U9: 3 · U10: 2 · U11: 2 · U12: 2 · U13: 3). Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo—. NO se dibujan los 7 asientos cuyo contenedor es una revista o un blog: Haldon en Hispania n° 200 (U3); Nochteff en Ciclos, año IV, vol. IV, nº 6 y Gerefi en Foro Internacional, Vol. XXX, 1 (117) (U9); Brenner en Apuntes del CENES, vol. XXVIII, n° 47 (U11); Astarita en Realidad Económica nº 101 y Graziano en Realidad Económica nº 96 (U12); Astarita, «La crisis argentina, una visión de largo plazo», 3 partes, «disponible en www.rolandoastarita.blog» (U13). Quedan 34 asientos con volumen, que al unificar los repetidos dan 29 libros, y 29 son los que se dibujan. Los cinco volúmenes que reaparecen son Dobb (U4 y U7), Nieto Ferrández (U5 y U7), Beckert (U6 y U7), Coriat (U7 y U8) y Bértola & Ocampo (U9 y U13): cada uno se dibuja una sola vez, con los capítulos de las dos unidades anotados en el nombre. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial del programa queda fuera. CONSECUENCIA REGISTRADA: la Unidad 12 no aporta ningún libro —sus dos únicos asientos son artículos de Realidad Económica— y la Unidad 9 aporta uno solo de sus tres asientos. Ningún asiento se descartó por ilegible. LO QUE EL PROGRAMA CITA Y NO ASIENTA: la fundamentación invoca a Pierre Vilar («educar en una forma de “pensar históricamente”, como diría Pierre Vilar») y a Karl Polanyi («para citar la clásica formulación de Karl Polanyi, la economía se encuentra “incrustada” en relaciones sociales más amplias»), y ninguno de los dos tiene asiento bibliográfico en ninguna unidad. ASIENTOS INCOMPLETOS, declarados y no completados: Epstein, Libertad y crecimiento, «Valencia, PUV» sin año; Nove, Historia económica de la Unión Soviética, «Madrid, Alianza» sin año; Marx, El Capital, Tomo I, «México, Siglo XXI (varias ediciones)» sin año; Voorhies y Martin sin iniciales de nombre. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: en la Unidad 4 se lee «Modelos mathusianos, marxistas y neoinstitucionalistas» (por malthusianos); el asiento de Hunt imprime «Ancient Greece as a ‘Slave Society?”», que abre comilla simple y cierra con comilla doble, y el signo de pregunta queda dentro; el volumen que lo contiene se atribuye a «Lenki, N., y Cameron, C. (eds.)»; la Unidad 9 imprime «Gerefi, G.»; el compilador de Sistemas económicos comparados se imprime «Morris Borstein»; el asiento de Voorhies abre «Voorhies y Martin:» con dos puntos y remite «en idem» en minúscula; la fundamentación escribe «crisis bajomedieval» en una palabra mientras el título de capítulo citado en Epstein se imprime «La crisis bajo medieval como ‘crisis de integración’», separado; el pie editorial de Kriedte invierte el orden de los demás («Crítica, Barcelona, 1986»); el apartado f. abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»; el asiento de Duménil no lleva coma tras el apellido («Duménil G., y Lévy, D.»); y las remisiones abreviadas alternan puntos suspensivos tipográficos y tres puntos sueltos («Coriat, B., El taller y el cronómetro…» y «Nieto Ferrández, M., Cómo funciona la economía capitalista…» frente a «Dobb, M., Estudios... Cap. 7.»). Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos una oración de la fundamentación; los saltos de página del PDF dejan un carácter de avance de página pegado delante del encabezado «Unidad 12:» del apartado d.; y varios títulos largos quedan cortados por el salto de línea («…en Europa, 1300-» + «1750» en Epstein; «…teoría del valor-» + «trabajo de Marx» en Nieto Ferrández). Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 13 unidades (cátedra “A”, Colombo, 2º cuatrim. 2026)",
+      "title": "De la unidad doméstica al derrumbe soviético",
+      "note": "Las trece unidades numeradas del apartado c. Contenidos, en el orden impreso. El apartado d. Bibliografía repite exactamente los mismos trece encabezados.",
+      "map": {
+        "mk": "El programa, en trece unidades",
+        "tree": "HISTORIA DE LOS SISTEMAS ECONÓMICOS “A” · cód. 0404 / 14003\nColombo · 2º cuatrim. 2026 · 96 hs · PD\n│\n├─ 1 · Economías domésticas y economías campesinas\n│      modo de producción doméstico y campesino · Chayanov\n│      ciclo familiar y diferenciación demográfica · reciprocidad\n├─ 2 · Sociedades esclavistas\n│      comunidad, propiedad y ciudadanía · Grecia y Roma\n│      decadencia de la esclavitud antigua\n├─ 3 · Sociedades basadas en la servidumbre\n│      coacción extraeconómica · modo asiático, feudal, «tributario»\n│      despotismo oriental · obras hidráulicas\n├─ 4 · El feudalismo europeo y la transición al capitalismo\n│      renta · modelos mathusianos, marxistas, neoinstitucionalistas\n│      crisis feudal · lucha de clases · desarrollo «smithiano»\n├─ 5 · La dinámica de la acumulación\n│      valor-trabajo y utilidad marginal · mercancía, dinero, capital\n│      ejército industrial de reserva · Schumpeter y Marx\n├─ 6 · La formación del sistema capitalista y del mercado mundial\n│      acumulación originaria · protoindustria · subsunción formal\n│      esclavismo moderno · el Sur de EE.UU. · cliometría\n├─ 7 · El ciclo del siglo XIX y la Gran Depresión\n│      subconsumo, desproporción, sobreproducción · tasa de ganancia\n│      hegemonía británica · ferrocarril · taylorismo\n├─ 8 · El siglo XX (1): el Estado de Bienestar\n│      1929 · fordismo · Keynes y el «Estado-plan»\n│      gasto social y acumulación\n├─ 9 · El siglo XX (2): el desarrollo capitalista de la periferia\n│      desarrollo desigual · dependencia · agroexportador\n│      sustitución de importaciones · estrangulamiento de divisas\n├─ 10 · El siglo XX (3): Rusia y la planificación centralizada\n│      comunismo de guerra · NEP · colectivización forzosa\n│      balances materiales · control burocrático\n├─ 11 · La crisis contemporánea (1): Estado de Bienestar y fordismo\n│      sobreacumulación y resistencia obrera · crisis fiscal\n│      flexibilización de los procesos de trabajo\n├─ 12 · La crisis contemporánea (2): las economías planificadas\n│      ciclo económico en la URSS · burocracia · perestroika\n│      la reconversión capitalista de China desde 1978\n└─ 13 · La crisis contemporánea (3): el capitalismo periférico\n       nueva división internacional del trabajo · el «desfase» de 1970\n       deuda externa · agotamiento de la sustitución de importaciones",
+        "foot": "Esta materia publica dos programas para 2026: la cátedra “A” (Colombo, 2º cuatrimestre) y la cátedra “B” (Duarte, 1º cuatrimestre). Acá se dibuja solo la “A”; de la “B” únicamente se verificó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u1-economias-domesticas-y-economias-campesinas",
+          "name": "Economías domésticas y economías campesinas",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u2-sociedades-esclavistas",
+          "name": "Sociedades esclavistas",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u3-sociedades-basadas-en-la-servidumbre",
+          "name": "Sociedades basadas en la servidumbre",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u4-el-feudalismo-europeo-y-la-transicion-al-capitalismo",
+          "name": "El feudalismo europeo y la transición al capitalismo",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u5-la-dinamica-de-la-acumulacion",
+          "name": "La dinámica de la acumulación",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u6-la-formacion-del-sistema-capitalista-y-del-mercado-mundial",
+          "name": "La formación del sistema capitalista y del mercado mundial en el período moderno",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u7-el-ciclo-de-acumulacion-capitalista-del-siglo-xix-y-la-gran-depresion",
+          "name": "El ciclo de acumulación capitalista del siglo XIX y la Gran Depresión",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u8-el-capitalismo-en-la-fase-del-estado-de-bienestar",
+          "name": "El siglo XX (1): El capitalismo en la fase del Estado de Bienestar",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u9-el-desarrollo-capitalista-de-la-periferia",
+          "name": "El siglo XX (2): El desarrollo capitalista de la periferia",
+          "role": "Unidad 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u10-el-surgimiento-de-la-alternativa-socialista-en-rusia",
+          "name": "El siglo XX (3): El surgimiento de la alternativa socialista en Rusia y el modelo de planificación centralizada",
+          "role": "Unidad 10",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u11-la-crisis-del-estado-de-bienestar-y-las-transformaciones-del-fordismo",
+          "name": "La crisis contemporánea (1): La crisis del Estado de Bienestar y las transformaciones del fordismo",
+          "role": "Unidad 11",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u12-la-crisis-de-las-economias-planificadas",
+          "name": "La crisis contemporánea (2): La crisis de las economías planificadas",
+          "role": "Unidad 12",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.u13-la-crisis-del-capitalismo-periferico",
+          "name": "La crisis contemporánea (3): La crisis del capitalismo periférico",
+          "role": "Unidad 13",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 29 volúmenes con pie editorial de los 41 asientos del apartado d., por unidad. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias unidades se unifica en un solo nodo (Dobb, Nieto Ferrández, Beckert, Coriat y Bértola & Ocampo). No se dibujan los 7 asientos de revista o de blog: quedan declarados uno por uno en el frame. El programa no trae bibliografía complementaria en ninguna unidad. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-chayanov-unidad-economica-campesina",
+          "name": "La organización de la unidad económica campesina — A. Chayanov (Buenos Aires, Nueva Visión, 1974) · Capítulo 1 (pp. 47-68)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-mauss-ensayo-sobre-el-don",
+          "name": "Ensayo sobre el don. Forma y función del intercambio en las sociedades arcaicas — M. Mauss (Buenos Aires, Katz Editores, 2009) · Introducción y Capítulo 1 (pp. 67-105)",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-sahlins-economia-de-la-edad-de-piedra",
+          "name": "Economía de la Edad de Piedra — M. Sahlins (Madrid, Akal, 1983) · Capítulo 2",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-bonnassie-del-esclavismo-al-feudalismo",
+          "name": "Del esclavismo al feudalismo en Europa occidental — P. Bonnassie (Barcelona, Crítica, 1993) · Cap. 1: «Supervivencia y extinción del régimen esclavista en el Occidente de la Alta Edad Media (siglos IV-XI)», pp. 13-75",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-finley-esclavitud-antigua-e-ideologia-moderna",
+          "name": "Esclavitud antigua e ideología moderna — M. Finley (Barcelona, Crítica, 1982) · «Aparición de una sociedad esclavista»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-lenki-cameron-what-is-a-slave-society",
+          "name": "What Is a Slave Society? The Practice of Slavery in Global Perspective — N. Lenki [así impreso] y C. Cameron (eds.) (Cambridge, Cambridge University Press, 2018) · P. Hunt, «Ancient Greece as a ‘Slave Society?”» [comillas así impresas], traducción de la cátedra",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-scheidel-cambridge-companion-roman-economy",
+          "name": "The Cambridge Companion to the Roman Economy — W. Scheidel (ed.) (Cambridge, Cambridge University Press, 2012) · Scheidel, «Slavery», traducción de la cátedra",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-banaji-theory-as-history",
+          "name": "Theory as History. Essays on Modes of Production and Exploitation — J. Banaji (Leiden, Brill, 2010) · «Introduction: Themes in Historical Materialism», pp. 1-44; traducción de Marcelo Perelman, revisión técnica de Octavio Colombo",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-bloch-la-historia-rural-francesa",
+          "name": "La historia rural francesa: caracteres originales — M. Bloch (Barcelona, Crítica, 1978) · Cap. 3, pp. 213-251",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-north-thomas-el-nacimiento-del-mundo-occidental",
+          "name": "El nacimiento del mundo occidental. Una nueva historia económica (900-1700) — D. North y R. Thomas (Madrid, Siglo XXI, 1998) · Capítulos 1, 2 y 3",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-aston-philpin-el-debate-brenner",
+          "name": "El debate Brenner — T. H. Aston y C. H. E. Philpin (eds.) (Barcelona, Crítica, 1988) · R. Brenner, «Estructura de clases agraria y desarrollo económico en la Europa preindustrial»",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-dobb-estudios-sobre-el-desarrollo-del-capitalismo",
+          "name": "Estudios sobre el desarrollo del capitalismo — M. Dobb (Buenos Aires, Siglo XXI, 1971) · Capítulo 2 (U4); Cap. 7 (U7, asentado en forma abreviada «Dobb, M., Estudios... Cap. 7.»)",
+          "role": "obligatoria · U4 y U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-epstein-libertad-y-crecimiento",
+          "name": "Libertad y crecimiento. El desarrollo de los estados y de los mercados en Europa, 1300-1750 — S. R. Epstein (Valencia, PUV; el programa no consigna año) · Cap. 1: «Introducción: estados y mercados», pp. 17-30, y Cap. 3: «La crisis bajo medieval como ‘crisis de integración’» [así impreso], pp. 61-102",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-borstein-sistemas-economicos-comparados",
+          "name": "Sistemas económicos comparados — Morris Borstein [así impreso] (comp.) (Buenos Aires, Amorrortu, 1973) · F. Hayek, «El sistema de precios como mecanismo para la utilización del conocimiento», pp. 37-50",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-nieto-ferrandez-como-funciona-la-economia-capitalista",
+          "name": "Cómo funciona la economía capitalista. Una introducción a la teoría del valor-trabajo de Marx — M. Nieto Ferrández (Madrid, Escolar y Mayo Editores, 2015) · Capítulo 1, apartados 1 y 2 (pp. 35-56) y Capítulo 2, apartados 1 a 4 (pp. 91-138) (U5); Cap. 4 (pp. 243-321) (U7)",
+          "role": "obligatoria · U5 y U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-beckert-el-imperio-del-algodon",
+          "name": "El imperio del algodón. Una historia global — S. Beckert (Barcelona, Crítica, 2015) · Capítulos 5, 6 y 7 (U6); Cap 7, pp. 219-246 (U7)",
+          "role": "obligatoria · U6 y U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-kriedte-medick-schlumbohm-industrializacion",
+          "name": "Industrialización antes de la industrialización — P. Kriedte, H. Medick y J. Schlumbohm (Crítica, Barcelona, 1986) · Cap. 4",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-fogel-engerman-tiempo-en-la-cruz",
+          "name": "Tiempo en la cruz. La economía esclavista en los Estados Unidos — R. Fogel y S. Engerman (Madrid, Siglo XXI, 1981) · pp. 1-9; 124-134; y 163-179",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-genovese-economia-politica-de-la-esclavitud",
+          "name": "Economía política de la esclavitud — E. Genovese (Barcelona, Península, 1970) · «El Sur esclavista: una interpretación», pp. 19-45",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-marx-el-capital-tomo-i",
+          "name": "El Capital, Tomo I — K. Marx (México, Siglo XXI, «varias ediciones»; el programa no consigna año) · Capítulo XII: «División del trabajo y manufactura», pp. 409-449",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-coriat-el-taller-y-el-cronometro",
+          "name": "El taller y el cronómetro. Ensayo sobre el taylorismo, el fordismo y la producción en masa — B. Coriat (Madrid, Siglo XXI, 1982) · Introducción, capítulos 1 y 2 (U7); Caps. 3, 4, 5 y 6 (U8)",
+          "role": "obligatoria · U7 y U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-hobsbawm-industria-e-imperio",
+          "name": "Industria e Imperio. Una historia económica de Gran Bretaña desde 1750 — E. Hobsbawm (Barcelona, Ariel, 1998) · Capítulos 3 y 6",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-voorhies-martin-la-mujer-un-enfoque-antropologico",
+          "name": "La mujer: un enfoque antropológico — Voorhies y Martin [así impreso, sin iniciales de nombre] (Barcelona, Anagrama, 1978) · «Las mujeres en la sociedad industrial», pp. 328-368",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-gough-economia-politica-del-estado-del-bienestar",
+          "name": "Economía política del Estado del Bienestar — I. Gough (Madrid, H. Blume, 1982) · Caps. 3, 4, 5 y 6",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-bertola-ocampo-el-desarrollo-economico-de-america-latina",
+          "name": "El desarrollo económico de América Latina desde la Independencia — L. Bértola y J. A. Ocampo (México, FCE, 2013) · Cap. IV: «La industrialización dirigida por el Estado», pp. 170-241 (U9); Cap. V: «La reorientación hacia el mercado», pp. 242-312 (U13)",
+          "role": "obligatoria · U9 y U13",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-azqueta-teoria-economica-de-la-acumulacion-socialista",
+          "name": "Teoría económica de la acumulación socialista — D. Azqueta Oyarzun (Madrid, H. Blume, 1983) · Cap. 2",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-nove-historia-economica-de-la-union-sovietica",
+          "name": "Historia económica de la Unión Soviética — A. Nove (Madrid, Alianza; el programa no consigna año) · Capítulo 7, pp. 166-194",
+          "role": "obligatoria · U10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-dumenil-levy-crisis-y-salida-de-la-crisis",
+          "name": "Crisis y salida de la crisis. Orden y desorden neoliberales — G. Duménil y D. Lévy (México, FCE, 2007) · selección",
+          "role": "obligatoria · U11",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-economicos.libro-ominami-el-tercer-mundo-en-la-crisis",
+          "name": "El Tercer Mundo en la crisis. Las transformaciones recientes de las relaciones Norte-Sur — C. Ominami (Buenos Aires, GEL, 1986) · Caps. 1, 3 y 4",
+          "role": "obligatoria · U13",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS SISTEMAS ECONÓMICOS “A”, cód. 0404 / 14003, Prof. Octavio Colombo, 2º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0404%20-%2014003%5D%20-%20HISTORIA%20DE%20LOS%20SISTEMAS%20ECON%C3%93MICOS%20-%20A%20-%20COLOMBO%20-%202C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS SISTEMAS ECONÓMICOS “A”, cód. 0404 / 14003, Prof. Octavio Colombo, 2º cuatrimestre 2026 (12 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-sistemas-economicos-colombo-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0404%20-%2014003%5D%20-%20HISTORIA%20DE%20LOS%20SISTEMAS%20ECON%C3%93MICOS%20-%20A%20-%20COLOMBO%20-%202C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS SISTEMAS ECONÓMICOS “B”, PROFESOR: DUARTE, OSCAR DANIEL, CÓDIGO N°: 0404 /14003, 1º CUATRIMESTRE 2026, 15 pp. — la cátedra alternativa, NO dibujada: solo se verificó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0404_14003%20-%20HISTORIA%20DE%20LOS%20SISTEMAS%20ECON%C3%93MICOS%20-%20B%20-%20DUARTE%20-%201C%202026.pdf"
+    }
+  ]
+}

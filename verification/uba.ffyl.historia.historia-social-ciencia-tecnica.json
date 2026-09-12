@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.historia-social-ciencia-tecnica",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 53,
+  "books_found": 53,
+  "not_found": [
+    "REFUTADO — frame: la divergencia de sigla REDEC entre las dos carátulas NO existe: Rieznik imprime «REDEC-2024-2526-» / «UBA-DCT#FFYL» (el guión está; el corte cae un segmento después que en Greif), y ambas imprimen la sigla idéntica sin corte en otras páginas. El «REDEC-2024-2526UBA-» del nodo es un artefacto de des-guionado de pdftotext en modo default — se comparó cada programa bajo un modo de extracción distinto. Reparar: retirar esa mitad del claim (el punto final divergente SÍ es real) y restaurar el guión en la cita.",
+    "NIT — exit/árbol «El siglo XX» capitaliza la inicial que la fuente imprime minúscula (L242 «Unidad 5: el siglo XX»); U1-4 verbatim.",
+    "NIT — map.foot cita «la historia y la problemática ambiental» en minúscula; L91 imprime mayúscula inicial y punto final.",
+    "NIT — titular del frame «DOS CÁTEDRAS PUBLICAN» afirma cátedras como unidades cuando el propio frame establece que ningún programa porta denominación de cátedra; la frase de apoyo dice bien «publica dos programas». Ajustar el titular.",
+    "NIT — el claim negativo de documento completo sobre Rieznik («ninguno menciona al otro ni se designa por letra») se afirma más allá de la evidencia declarada (portada sola). El verificador extrajo las 13 páginas y el claim SE SOSTIENE — declarar la base o acotar el claim a la portada."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (9 pp, md5 22f17a29…). Exhaustive line-partition of L113-297: 66 asientos (6·10·9·10·9·22), 59 con volumen (5·10·9·6·7·22), 7 exclusiones uno a uno, unificaciones 4+1+1 → 53 exits exactos, histograma de roles reconciliado por unidad, cero fugas. Las 8 contradicciones literales con refs; erratas todas presentes; campos vacíos confirmados vacíos; correlativ 0; cátedra exactamente 3 (L220/263/313). Rieznik re-extraída completa: 8 de 9 campos de portada verbatim; selección 1-de-2 corroborada externamente (carpetas Drive del departamento). Cero libros fabricados, cero conteos errados — la única reparación sustantiva es retirar la divergencia de sigla, que es artefacto y no terreno."
+}

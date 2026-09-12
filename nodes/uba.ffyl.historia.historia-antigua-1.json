@@ -1,0 +1,670 @@
+{
+  "address": "uba.ffyl.historia.historia-antigua-1",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — EXAMEN FINAL, Reglamento Académico Res. (CD) Nº 4428/17 · regularidad con 75% de asistencia a trabajos prácticos y 2 instancias de evaluación parcial (arts. 39º y 40º), con 1 recuperatorio; aprobación por EXAMEN FINAL con nota mínima de 4",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; el apartado e. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0410 / 14008 (así impreso, «CÓDIGO Nº: 0410 / 14008»; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: encabeza «PROGRAMA HISTORIA ANTIGUA I (ORIENTE)» y la portada consigna solo «MATERIA: HISTORIA ANTIGUA I (ORIENTE)»",
+    "catedra": "el documento NO imprime ninguna letra de cátedra: la línea de materia dice «MATERIA: HISTORIA ANTIGUA I (ORIENTE)», sin «A», tanto en la portada como en el encabezado interno. La atribución a la cátedra «A» proviene del nombre del archivo publicado por historia.filo.uba.ar («0410_14008 - HISTORIA ANTIGUA I - A - CAMPAGNO - 1C 2026.pdf») y del contraste con el otro programa de la materia, que sí imprime «B» dentro de su línea de materia; no del texto de este programa. La palabra «cátedra» aparece exactamente tres veces en el PDF y ninguna de ellas designa a ésta: dos como nombre de la editorial madrileña Cátedra (el volumen de Bottéro y el de Bryce) y una dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "modalidad": "la portada imprime «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL» y NO imprime la palabra «PRESENCIAL»; el apartado e. sí dice «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "CAMPAGNO, MARCELO (portada: «PROFESOR: CAMPAGNO, MARCELO»; encabezado interno: «PROFESOR/A: CAMPAGNO, MARCELO»; firma al pie: «Dr. Marcelo Campagno / Profesor Titular»)",
+      "CABOBIANCO, MARCOS (JTP)",
+      "JARUF, PABLO (JTP)",
+      "GAYUBAS, AUGUSTO (AYUDANTE DE PRIMERA)",
+      "MIZZONI, ALEJANDRO (AYUDANTE DE PRIMERA)",
+      "CABRERA PERTUSATTI, RODRIGO (AYUDANTE DE PRIMERA)",
+      "CIENFUEGOS, CELESTE (AYUDANTE DE PRIMERA)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "obligatoria del Ciclo de Grado, Materias Específicas Obligatorias (una de las doce) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 5,
+    "bibliografia": 75
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-antigua-1",
+      "label": "Historia Antigua I (Oriente)"
+    }
+  ],
+  "eyebrow": "Historia · Historia Antigua I (Oriente) · Campagno · 1º cuatrim. 2026",
+  "title": "El Estado no estuvo siempre ahí.",
+  "lede": "Cinco unidades que van del problema de llamar «Oriente» a un objeto de estudio hasta los relatos con que esas sociedades se explicaron el mundo. Se entra por la disciplina misma —el Antiguo Oriente como problema, el origen occidental de las disciplinas orientalistas, el recorte entre Cercano y Lejano Oriente, universalismo y relativismo, el pensamiento comparativo— y se sigue por la pregunta que ordena el programa: cómo aparece el Estado donde antes había comunidades aldeanas articuladas por el parentesco, con qué mezcla de consenso y violencia, y por qué en los valles del Nilo, el Tigris-Éufrates, el Indo y el Amarillo las trayectorias se parecen y se separan. Después, las dinámicas internas: el Estado «temprano», el modo de producción asiático y tributario, lógica de parentesco contra lógica de Estado, el patronazgo como modo alterno del lazo social, la dominación y sus resistencias posibles, las castas de la India frente a las clases, el concepto de crisis; con Sargón de Akkad, la Babilonia de Hammurabi, el Primer Período Intermedio y las autobiografías del Nilo como situaciones en foco. Luego las dinámicas entre Estados: el comercio paleoasirio, nomadismo y etnicidad, las cartas de El Amarna, los tratados hititas, lo imperial en Egipto, las prácticas de asirios y persas, los reinos combatientes en China y la discusión historiográfica sobre el «colapso» del siglo XII. Y al final los modos de simbolización: mito y ritual, las concepciones sobre la realeza en Egipto, Mesopotamia y China, el origen de la escritura, los antiguos textos religiosos hindúes y la ideología indoeuropea, la Crítica Bíblica clásica y la controversia entre minimalistas y maximalistas. El programa abre deliberadamente el temario hacia India y China para pensar comparativamente, y se lee con un aparato de fuentes propio —estelas, edictos, papiros, cartas, anales, inscripciones y textos sagrados—, además de ocho manuales de consulta.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Campagno"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA ANTIGUA I (ORIENTE), Departamento de Historia (FFyL-UBA), cód. 0410 / 14008, Prof. Marcelo Campagno, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (20 páginas, con capa de texto, extraído entero; extracto local en extract/out/historia-antigua1-campagno-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado, y la portada del programa de la otra cátedra, verificada aparte. CÁTEDRA, CÓMO CONSTA Y CÓMO NO: este programa NO imprime ninguna letra de cátedra. Su línea de materia dice, literalmente, «MATERIA: HISTORIA ANTIGUA I (ORIENTE)» —sin «A»— en la portada y otra vez en el encabezado interno. La etiqueta «A» viene de dos lugares externos al texto: el nombre del archivo con que la Facultad lo publica («0410_14008 - HISTORIA ANTIGUA I - A - CAMPAGNO - 1C 2026.pdf») y el contraste con el otro programa de la materia, que sí imprime «B» dentro de su propia línea de materia. Acá se registra esa asimetría y no se le atribuye al documento una designación que el documento no lleva. La palabra «cátedra» aparece exactamente tres veces en el PDF y ninguna designa a ésta: dos como nombre de la editorial madrileña Cátedra (en el pie del volumen de Bottéro, «Cátedra, Madrid, 2004 [1987]», y en el de Bryce, «Madrid, Cátedra, 2001») y una dentro de la pauta reglamentaria copiada del REDEC, «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas». SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra. Se dibuja 1 de 2 (50%): el de CAMPAGNO, MARCELO, 1º cuatrimestre 2026, 20 páginas. NO se dibuja 1 de 2 (50%): el de la cátedra «B», cuya portada y encabezado interno fueron verificados directamente para esta ficha y dicen, literalmente, «CÓDIGO Nº: 0410/14008» (sin espacios, a diferencia del «0410 / 14008» de este programa), «MATERIA: HISTORIA ANTIGUA I (ORIENTE) “B”», «RÉGIMEN DE PROMOCIÓN: PD», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL» en la portada y otra vez en el encabezado interno, «PROFESORA: RODRÍGUEZ IRENE», «AÑO: 2026», «CARGA HORARIA: 96 HORAS» y «2º CUATRIMESTRE 2026», 17 páginas; su URL queda asentada en sources. De la cátedra «B» no se extrajo ni se afirma nada más allá de esos campos de portada y encabezado: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los del programa de Campagno y de ningún otro. DATO CRUZADO: la ubicación de la materia —obligatoria del Ciclo de Grado, entre las doce Materias Específicas Obligatorias del Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), tabla de equivalencias (la cadena «equivalenc» no aparece), plan de estudios, ciclo, orientación, resolución de aprobación del programa, y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0410 / 14008» sin explicar el par—. La única mención del plan de la carrera es indirecta y no ubica a la materia: «Tradicionalmente –así lo refleja el programa de estudios de nuestra carrera de Historia−, la disciplina histórica ha determinado una serie de Edades para la comprensión del pasado». Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). El documento va firmado al pie «Dr. Marcelo Campagno / Profesor Titular». NOTA INTRODUCTORIA DEL PROPIO PROGRAMA, registrada porque está impresa: la fundamentación abre con una «Nota introductoria al Programa 2026» que denuncia «un tremendo embate gubernamental contra las Universidades nacionales, el más dramático al menos desde la restitución democrática de 1983», señala que «ese elenco gubernamental ha asumido posiciones rayanas en lo grotesco al afirmar, por ejemplo, que la “civilización” llega a América de la mano de Cristóbal Colón, o que el origen del Estado ha de asociarse a la obra del Diablo», y cierra: «Contra el oscurantismo gubernamental, hay un solo remedio: más Universidad pública, gratuita y de alta calidad académica». ESTRUCTURA: el apartado c. Contenidos trae CINCO unidades numeradas en romanos (I a V). Cada una abre con «Temas generales»; las unidades II, III, IV y V agregan además «Situaciones en foco», y la unidad I no lo trae. Las cinco se dibujan. El apartado d. Bibliografía se divide en «d.1. Bibliografía obligatoria» y «d.2. Bibliografía general». La d.1 abre con un bloque previo, «Historia de los acontecimientos (manuales de consulta)», y sigue con cinco bloques por unidad cuyos encabezados repiten palabra por palabra los cinco títulos de los contenidos. La d.1 se cierra con «Elementos de trabajo y fuentes (por unidades)». El apartado b. Objetivos imprime tres objetivos numerados; no se dibujan como grupo. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: el programa lista 384 asientos bibliográficos en total — 113 en la d.1 Bibliografía obligatoria (manuales de consulta: 8 · U I: 8 · U II: 21 · U III: 25 · U IV: 24 · U V: 27) y 271 renglones-asiento en la d.2 Bibliografía general. Se dibuja como libro el volumen con pie editorial que contiene cada asiento de la d.1 —un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios bloques se unifica en un solo nodo—. De los 113 asientos de la d.1 se dibujan 97 (86%), que al unificar los repetidos dan 75 libros, y 75 son los que se dibujan. NO se dibujan los 16 asientos (14%) cuyo contenedor es una revista, una tesis o un cuadernillo de cátedra sin pie editorial, declarados uno por uno: Cervera Jiménez en Estudios de Asia y África, Vol. 44, N° 3 (140) (U I); Bard en Journal of Anthropological Archaeology, vol. 11 (U II); Claessen en Current Anthropology, 25, Haldon en Hispania, LVIII / 3, n.º 200, Richardson en Journal of Ancient Near Eastern History, Vol. 1, Nº 1, y Yoffee y Seri en Antiguo Oriente, 16 (U III); Gandulla en RIHAO, Nº 17, Liverani en Anuario Nº 27, Escuela de Historia, Revista Digital Nº 6, Nissen en «Antología de Textos 2, parte 2, p. 13 y ss. (Of. Publicaciones-FFyL)» y Smith en Göttinger Miszellen 122 (U IV); Cabobianco, «Tesis de Licenciatura, Universidad de Buenos Aires, 2010», Fund Patrón de Smith y Gandulla en «Antología de Textos 1, parte 1, p. 5 y ss. (Of. Publicaciones-FFyL)», Gandulla en Revista de Estudios de Asia y África, 24, 1, López Saco en Transoxiana 14, Pfoh en Anuario de la Escuela de Historia Virtual 12 y Thompson en Holy Land Studies, 1, 1 (U V). NO se dibuja NINGUNO de los 271 asientos de la d.2 Bibliografía general (0 de 271 = 0%): es una lista de referencia general que el programa no asigna a ninguna unidad ni declara obligatoria, y sus volúmenes no se atribuyen a la cursada. Contada sobre el total del programa: se dibujan 97 de 384 asientos (25%) y quedan sin dibujar 287 (75%). La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún asiento con pie editorial de la d.1 queda fuera. Ningún asiento se descartó por ilegible. VOLÚMENES REPETIDOS, unificados en un solo nodo cada uno (16 volúmenes, 22 asientos de más): Liverani, El antiguo Oriente, aparece cinco veces (manuales, U I, U II, U III y U IV); El Estado en el Mediterráneo antiguo, Civilizations of the Ancient Near East (Sasson) y La construcción del poder en la China Antigua (Relinque Eleta), tres veces cada uno; y dos veces cada uno Kuhrt, Parra Ortiz, Sanmartín y Serrano, Shaw, Chang, Kemp, Scott, Si un hombre desde el sur… Tomo II, Flood, Mann, Postgate y Estudios sobre parentesco y Estado en el Antiguo Egipto. Los capítulos de cada bloque quedan anotados en el nombre del libro. FUENTES PRIMARIAS, CONTADAS Y NO DIBUJADAS: el bloque «Elementos de trabajo y fuentes (por unidades)» lista 41 elementos (U I: 1, el «Cuadernillo de cronología y mapas»; U II: 1, «selección de fuentes arqueológicas (Egipto, Mesopotamia, valle del Indo, China)»; U III: 15, de la Estela de los Buitres al Rig-Veda 10.90 (Purusha); U IV: 19, del Cuento de Sinuhé a El Arte de la Guerra; U V: 5, de «La contienda entre Horus y Seth» al Mahabharata (Bhagavad Gita)). No son libros con pie editorial —el programa no les da autor, editorial ni año— y no se dibujan como tales: se declaran acá. TRADUCCIONES: 19 de los asientos de la d.1 llevan la anotación «(hay traducción)» —en dos de ellos, los de Claessen y Smith, S. T., la anotación queda partida por el salto de línea—, y 7 más en la d.2; el programa no dice quién tradujo ni dónde se consigue la traducción, y acá no se completa. CONTRADICCIONES Y DESAJUSTES REGISTRADOS, NO RESUELTOS. (1) El mismo volumen homenaje se cita con dos subtítulos distintos: «Si un hombre desde el sur... Homenaje a Bernardo Gandulla. Escritos sobre Historia y Arqueología de alumnos, colegas y amigos, Tomo II» en la U II y «…de alumnos, colegas y alumnos, Tomo II» en la U III. (2) El mismo artículo de Nissen aparece en la obligatoria de la U IV como «Nissen, H.G. La movilidad entre asentados y no asentados en Babilonia Antigua. Teoría y evidencia, en: Antología de Textos 2, parte 2» y en la d.2 como «Nissen, R. La movilidad entre sedentarios y nómades en Babilonia Antigua: teoría y evidencia. En: Colloques Internationaux du CNRS 580, 1980»: cambian la inicial, el título y el contenedor. (3) El apellido del mismo editor se imprime «García Mac Gaw» tres veces (U II dos veces, U III una) y «García MacGaw» dos (U III y U IV). (4) El manual de Sanmartín y Serrano se imprime «Historia Antigua del Próximo Oriente: Mesopotamia y Egipto, Madrid, Akal» en el bloque de manuales y «Historia Antigua del Próximo Oriente. Mesopotamia y Egipto, Akal, Madrid» en la U I, con el pie editorial invertido. (5) Postgate se imprime «Postgate, J. N.» en la U III y «Postgate, J.» en la U IV, para el mismo volumen. (6) Cervera Jiménez se imprime «Estudios de Asia y África» en la U I y «Estudios de Ásia y África» en la d.2. (7) El apartado f. imprime «Para ambos regímenes:» aunque el programa establece un solo régimen, el de EXAMEN FINAL (EF): es texto de formulario que queda en pie y se registra tal cual. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: el apartado f. abre paréntesis y no lo cierra, «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»; el asiento de Leick cierra con punto antes de la coma, «Buenos Aires, Paidós, 2002 [2001]., caps. 1 y 2»; Graeber y Wengrow imprime «2022[2021]» sin espacio, y Scott alterna «2022 [2017]» en la U II con «2022[2017]» en la U III; el asiento de Bottéro imprime «pp 187-219», sin punto tras «pp»; el de Garfinkle imprime la editorial «Einsenbrauns» y deja un «9» suelto dentro de la fecha del congreso, «22-24 July, 9 2010»; el volumen de Yoffee y Cowgill lleva «(ed.)» en singular para dos editores, y el título del capítulo se separa del subtítulo con coma, «Orienting Collapse, The Collapse of Ancient Mesopotamian States and Civilization»; el volumen alemán se imprime «Fluchtpunkt Uruk: Archäologische Einheit aus metodischer Viefalt»; el homenaje de la U III se imprime «Homenaje a Ángel Palermo»; «Dumezil» va sin acento en sus dos asientos y «Haarman» con una sola ene; Van De Mieroop y Frankfort no consignan editorial («Stuttgart, 2004» y «México, 1976 [1948]»); el asiento de Vernus imprime «J.Gallego» sin espacio. Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos una oración de la fundamentación; los saltos de página del PDF dejan un carácter de avance de página pegado delante del encabezado «Unidad V:» de los contenidos, del «Unidad II:» del bloque de fuentes y de varios asientos de la bibliografía; y varios títulos y paginaciones quedan cortados por el salto de línea («533- 538» en Assmann, «pp. 11- 40» en Sanmartín, «Siria- Palestina» en Pfoh). En la d.2 dos renglones traen dos asientos pegados sin corte de línea —«…Turner, 2014 [1993].Keightley, D. (ed.)…» y «…Ático de los Libros, 2017 [2014]. McGuire, R. Breaking Down Cultural Complexity…»—, de modo que la d.2 son 271 renglones-asiento y 273 asientos si se desdoblan esos dos; ninguno de ellos se dibuja en todo caso. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 5 unidades (Campagno, 1º cuatrim. 2026)",
+      "title": "De la invención del «Oriente» a los textos sagrados",
+      "note": "Las cinco unidades numeradas en romanos del apartado c. Contenidos, en el orden impreso. Cada una abre con «Temas generales»; las unidades II a V agregan además «Situaciones en foco». El apartado d.1 Bibliografía obligatoria repite exactamente los mismos cinco encabezados.",
+      "map": {
+        "mk": "El programa, en cinco unidades",
+        "tree": "HISTORIA ANTIGUA I (ORIENTE) · cód. 0410 / 14008\nCampagno · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ I · Disciplina, espacio, tiempo\n│      el Antiguo Oriente como problema · orientalismo\n│      Cercano y Lejano Oriente · pensamiento comparativo\n├─ II · Comunidades aldeanas y surgimiento del Estado\n│      la capacidad articulatoria del parentesco · consenso y violencia\n│      Nilo, Tigris-Éufrates, Indo y Amarillo · la polémica del Indo\n├─ III · Dinámicas intraestatales: sociedad, política, economía\n│      Estado «temprano» · modo de producción asiático y tributario\n│      patronazgo · castas · Sargón · Hammurabi · Primer Período Intermedio\n├─ IV · Dinámicas interestatales: comercio, guerra\n│      comercio paleoasirio · El Amarna · tratados hititas\n│      asirios y persas · reinos combatientes · la «crisis del siglo XII»\n└─ V · Modos de simbolización: realeza y religión; escritura y textos sagrados\n       mito y ritual · realeza en Egipto, Mesopotamia y China\n       origen de la escritura · Rig-Veda · minimalistas vs. maximalistas",
+        "foot": "Esta materia publica dos programas para 2026: éste, de Campagno (1º cuatrimestre), y el de Rodríguez (2º cuatrimestre), que sí imprime «B» dentro de su línea de materia. Acá se dibuja solo el de Campagno; del otro únicamente se verificaron la portada y el encabezado interno, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.u1-disciplina-espacio-tiempo",
+          "name": "Disciplina, espacio, tiempo",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.u2-comunidades-aldeanas-y-surgimiento-del-estado",
+          "name": "Comunidades aldeanas y surgimiento del Estado",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.u3-dinamicas-intraestatales",
+          "name": "Dinámicas intraestatales: sociedad, política, economía",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.u4-dinamicas-interestatales",
+          "name": "Dinámicas interestatales: comercio, guerra",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.u5-modos-de-simbolizacion",
+          "name": "Modos de simbolización: realeza y religión; escritura y textos sagrados",
+          "role": "Unidad V",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 75 volúmenes con pie editorial de los 113 asientos del apartado d.1, por bloque. Un capítulo, introducción o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios bloques se unifica en un solo nodo (16 volúmenes reaparecen; Liverani, El antiguo Oriente, cinco veces). No se dibujan los 16 asientos de revista, tesis o cuadernillo de cátedra, ni ninguno de los 271 asientos de la d.2 Bibliografía general, ni los 41 elementos del bloque de fuentes: quedan declarados y contados en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-embree-wilhelm-india",
+          "name": "India. Historia del subcontinente desde las culturas del Indo hasta los comienzos del dominio inglés — E. T. Embree y F. Wilhelm (Madrid, Siglo XXI, 1984 [1967])",
+          "role": "manual de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-gernet-el-mundo-chino",
+          "name": "El mundo chino — J. Gernet (Barcelona, Crítica, 2008 [2003])",
+          "role": "manual de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-kuhrt-el-oriente-proximo-en-la-antiguedad",
+          "name": "El Oriente Próximo en la antigüedad — A. Kuhrt (Barcelona, Crítica, 2000 [1995]) · cap. 13 (U IV)",
+          "role": "manual de consulta · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-liverani-el-antiguo-oriente",
+          "name": "El antiguo Oriente. Historia, sociedad y economía — M. Liverani (Barcelona, Crítica, 1995 [1991]) · caps. 1, 2 y Epílogo (U I); caps. 3-5 (U II); caps. 6, 8, 9 y 10 (U III); caps. 12, 22, 26, 28, 29, 30, 31 y 32 (U IV)",
+          "role": "manual de consulta · U I, II, III y IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-parra-ortiz-el-antiguo-egipto",
+          "name": "El antiguo Egipto — J. M. Parra Ortiz (Madrid, Marcial Pons, 2009) · J. Cervelló Autuori, «La aparición del Estado y la época Tinita», pp. 67-99, con Parra Ortiz como (coord.) (U II)",
+          "role": "manual de consulta · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-roux-mesopotamia",
+          "name": "Mesopotamia: historia política, económica y cultural — G. Roux (Madrid, Akal, 1990 [1985])",
+          "role": "manual de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-sanmartin-serrano-historia-antigua-proximo-oriente",
+          "name": "Historia Antigua del Próximo Oriente: Mesopotamia y Egipto — J. Sanmartín y J. M. Serrano (Madrid, Akal, 2006 [1998]) · J. Sanmartín, «Introducción: Marco, cronología, fuentes y constantes culturales», pp. 11-40 (U I, donde el título se imprime con punto —«Próximo Oriente. Mesopotamia y Egipto»— y el pie invertido, «Akal, Madrid»)",
+          "role": "manual de consulta · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-shaw-historia-del-antiguo-egipto",
+          "name": "Historia del antiguo Egipto — I. Shaw (Madrid, La esfera de los libros, 2007 [2000]) · I. Shaw, «Cronologías y cambio cultural en el Antiguo Egipto», pp. 17-35 (U I)",
+          "role": "manual de consulta · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-assmann-egipto-historia-de-un-sentido",
+          "name": "Egipto. Historia de un sentido — J. Assmann (Madrid, Abada Editores, 2005 [1996]) · pp. 5-29, 470-485 y 533-538",
+          "role": "obligatoria · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-cervello-autuori-egipto-y-africa",
+          "name": "Egipto y África. Origen de la civilización y la monarquía faraónicas en su contexto africano — J. Cervelló Autuori (Sabadell, Ausa, 1996) · cap. 1",
+          "role": "obligatoria · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-chang-arte-mito-y-ritual",
+          "name": "Arte, mito y ritual. El camino a la autoridad política en la China antigua — K. C. Chang (Buenos Aires, Katz, 2009 [1983]) · pp. 9-18 (U I); caps. 1 y 7 (U II)",
+          "role": "obligatoria · U I y U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-trigger-understanding-early-civilizations",
+          "name": "Understanding Early Civilizations — B. Trigger (Cambridge, Cambridge University Press, 2003) · pp. 264-275, «(hay traducción)»",
+          "role": "obligatoria · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-algaze-la-antigua-mesopotamia",
+          "name": "La antigua Mesopotamia en los albores de la civilización — G. Algaze (Barcelona, Bellaterra, 2008) · cap. 5",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-campagno-el-origen-de-los-primeros-estados",
+          "name": "El origen de los primeros Estados. La “revolución urbana” en América Precolombina — M. Campagno (Buenos Aires, Eudeba, 2007) · caps. 2, 3 y 6",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-el-estado-en-el-mediterraneo-antiguo",
+          "name": "El Estado en el Mediterráneo antiguo. Egipto, Grecia, Roma — M. Campagno, J. Gallego y C. G. García Mac Gaw (eds.) (Buenos Aires, Miño y Dávila, 2011) · M. Campagno, «En los umbrales: Intersticios del parentesco y condiciones para el surgimiento del Estado en el valle del Nilo», pp. 45-79 (U II); E. Pfoh, «De la relevancia de los conceptos de “sociedad estatal”, “ciudad-Estado” y “Estado tribal” en Siria-Palestina», pp. 81-104 (U III); P. Vernus, «Los barbechos del demiurgo y la soberanía del faraón. El concepto de “imperio” y las latencias de la creación», pp. 13-43 (U IV) · en la U III y la U IV el apellido se imprime «García MacGaw»",
+          "role": "obligatoria · U II, U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-clastres-investigaciones-en-antropologia-politica",
+          "name": "Investigaciones en Antropología política — P. Clastres (Barcelona, Gedisa, 1981) · caps. 11 y 12",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-diversidad-de-formaciones-politicas",
+          "name": "Diversidad de formaciones políticas en Mesopotamia y el Cercano Oriente — C. Di Bennardis, E. Ravenna y I. Milevski (eds.) (Barcelona, Universidad de Barcelona, 2013) · C. Di Bennardis, «La centralización del poder político y el estado en las sociedades antiguo-orientales: reflexiones sobre teorías e interpretaciones», pp. 15-40",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-regimenes-politicos-en-el-mediterraneo-antiguo",
+          "name": "Regímenes políticos en el Mediterráneo antiguo — M. Campagno, J. Gallego y C. G. García Mac Gaw (comps.) (Buenos Aires, Miño y Dávila, 2016) · A. Gayubas, «Guerra, territorio y cambio social en el valle del Nilo preestatal», pp. 31-43",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-graeber-wengrow-el-amanecer-de-todo",
+          "name": "El amanecer de todo. Una nueva historia de la humanidad — D. Graeber y D. Wengrow (Barcelona, Ariel, «2022[2021]», así impreso) · cap. 10",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-guilaine-zammit-el-camino-de-la-guerra",
+          "name": "El camino de la guerra. La violencia en la prehistoria — J. Guilaine y J. Zammit (Barcelona, Ariel, 2002 [2001]) · Prefacio y cap. 1",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-kemp-el-antiguo-egipto",
+          "name": "El antiguo Egipto. Anatomía de una civilización — B. Kemp (Barcelona, Crítica, 1992 [1989]) · cap. 1 (U II); caps. 3 y 6 (U III)",
+          "role": "obligatoria · U II y U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-leick-mesopotamia-la-invencion-de-la-ciudad",
+          "name": "Mesopotamia. La invención de la ciudad — G. Leick (Buenos Aires, Paidós, «2002 [2001].», con punto antes de la coma, así impreso) · caps. 1 y 2",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-ratnagar-understanding-harappa",
+          "name": "Understanding Harappa — Sh. Ratnagar (New Delhi, Tulika, 2001) · pp. 116-138, «(hay traducción)»",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-redman-los-origenes-de-la-civilizacion",
+          "name": "Los orígenes de la civilización — Ch. Redman (Barcelona, Crítica, 1990) · cap. 7",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-sahlins-economia-de-la-edad-de-piedra",
+          "name": "Economía de la Edad de Piedra — M. Sahlins (Madrid, Akal, 1983) · cap. 2",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-scott-contra-el-estado",
+          "name": "Contra el Estado. Una historia de las civilizaciones del Próximo Oriente antiguo — J. C. Scott (Barcelona, Trotta, 2022 [2017]) · cap. 2 (U II); caps. 4 y 5 (U III, ahí impreso «2022[2017]»)",
+          "role": "obligatoria · U II y U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-wengrow-la-arqueologia-del-egipto-arcaico",
+          "name": "La arqueología del Egipto arcaico — D. Wengrow (Barcelona, Bellaterra, 2007) · caps. 2, 3 y 4",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-wiesheu-religion-y-politica-en-la-transformacion-urbana",
+          "name": "Religión y política en la transformación urbana. Análisis de un proceso sociodemográfico — W. Wiesheu (México, Instituto Nacional de Antropología e Historia, 2002) · cap. 6",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-si-un-hombre-desde-el-sur-tomo-ii",
+          "name": "Si un hombre desde el sur... Homenaje a Bernardo Gandulla. Escritos sobre Historia y Arqueología de alumnos, colegas y amigos, Tomo II — I. Milevski, L. Monti y P. Jaruf (eds.) (Buenos Aires, Facultad de Filosofía y Letras de la Universidad de Buenos Aires, 2017) · N. Yoffee, «Una historia del estudio de las ciudades antiguas», pp. 41-73 (U II); M. Campagno, «Notas sobre el modo de producción asiático/tributario y las sociedades antiguas», pp. 17-40 (U III, donde el subtítulo se imprime «…de alumnos, colegas y alumnos»)",
+          "role": "obligatoria · U II y U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-bottero-mesopotamia-la-escritura-la-razon-y-los-dioses",
+          "name": "Mesopotamia. La escritura, la razón y los dioses — J. Bottéro (Cátedra, Madrid, 2004 [1987]) · «El código de Hammurabi», «pp 187-219», sin punto tras «pp», así impreso",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-bryce-el-reino-de-los-hititas",
+          "name": "El reino de los hititas — T. Bryce (Madrid, Cátedra, 2001) · caps. 4 y 5",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-estudios-sobre-parentesco-y-estado-en-el-antiguo-egipto",
+          "name": "Estudios sobre parentesco y Estado en el Antiguo Egipto — M. Campagno (ed.) (Buenos Aires, Universidad de Buenos Aires / Ediciones del Signo, 2006) · M. Campagno, «De los modos de organización social en el Antiguo Egipto: lógica de parentesco, lógica de Estado», pp. 15-50 (U III); E. Pfoh, «Reyes y “parientes” en la época de El Amarna en Palestina», pp. 167-187 (U IV)",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-rapports-de-subordination-personnelle",
+          "name": "Rapports de subordination personnelle et pouvoir politique dans le Méditerranée Antique et au-delà — M. Campagno, J. Gallego y C. G. García Mac Gaw (comps.) (Besançon, Presses Universitaires de Franche-Comté, 2013) · M. Campagno, «Del patronazgo y otras lógicas de organización social en el valle del Nilo durante el III milenio a.C.», pp. 53-70",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-silverman-for-his-ka",
+          "name": "For his ka. Essays offered in Memory of Klaus Baer — D. Silverman (ed.) (Chicago, The Oriental Institute of the University of Chicago, 1994) · E. Cruz-Uribe, «A Model for the Political Structure of Ancient Egypt», pp. 45-53, «(hay traducción)»",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-dumont-homo-hierarchicus",
+          "name": "Homo Hierarchicus. Ensayo sobre el sistema de castas — L. Dumont (Madrid, Aguilar, 1970 [1967]) · cap. 2",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-flood-el-hinduismo",
+          "name": "El hinduismo — G. Flood (Madrid, Akal, 2008 [1996]) · caps. 2 y 3 (U III); caps. 1, 5 y 6 (U V)",
+          "role": "obligatoria · U III y U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-llobera-antropologia-politica",
+          "name": "Antropología política — J. Llobera (comp.) (Barcelona, Anagrama, 1979 [1960]) · M. Fried, «Sobre la evolución de la estratificación social y el Estado», pp. 133-151",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-from-the-21st-century-bc-to-the-21st-century-ad",
+          "name": "From the 21st Century B.C. to the 21st Century A.D., Proceedings of the International Conference on Neo-Sumerian Studies Held in Madrid, «22-24 July, 9 2010» [así impreso] — S. Garfinkle y M. Molina (eds.) (Winona Lake, «Einsenbrauns» [así impreso], 2013) · S. Garfinkle, «The Third Dynasty of Ur and the Limits of State Power in Early Mesopotamia», pp. 153-167, «(hay traducción)»",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-homenaje-a-angel-palermo",
+          "name": "Historia, Antropología y Política. Homenaje a Ángel Palermo [así impreso] — M. Suárez (comp.) (México, Alianza, 1990) · L. Krader, «Historia y significado del modo de producción asiático», pp. 162-171",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-liverani-mito-y-politica",
+          "name": "Mito y política en la historiografía del Próximo Oriente antiguo — M. Liverani (Barcelona, Bellaterra, 2006) · «Telepinu, o de la solidaridad», pp. 47-74",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-abensour-el-espiritu-de-las-leyes-salvajes",
+          "name": "El espíritu de las leyes salvajes — M. Abensour (ed.) (Buenos Aires, Ediciones del Sol, 2007 [1987]) · Ch. Malamoud, «La fatalidad de La Boetie y las teorías de la India antigua sobre la naturaleza de la sociedad», pp. 265-278",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-mann-las-fuentes-del-poder-social",
+          "name": "Las fuentes del poder social — M. Mann (Madrid, Alianza, 1991 [1986]) · cap. 5 (U III); cap. 8 (U IV)",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-moreno-garcia-egipto-en-el-imperio-antiguo",
+          "name": "Egipto en el Imperio Antiguo — J. C. Moreno García (Barcelona, Bellaterra, 2004) · caps. 3, 4 y 8",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-postgate-la-mesopotamia-arcaica",
+          "name": "La Mesopotamia arcaica. Sociedad y economía en el amanecer de la historia — J. N. Postgate (Madrid, Akal, 1999 [1992]) · caps. 4, 5 y 9 (U III); cap. 11 (U IV, ahí impreso «Postgate, J.»)",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-sasson-civilizations-of-the-ancient-near-east",
+          "name": "Civilizations of the Ancient Near East — J. Sasson (ed.) (New York, Hendrickson Publisher, 2006 [1995]) · N. Yoffee, «The Economy of Ancient Western Asia» (U III); P. Briant, «Instituciones legales y sociales en el Irán aqueménida» y G. Schwartz, «Pastoral Nomadism in Ancient Western Asia» (U IV) · los tres asientos llevan «(hay traducción)» y ninguno consigna páginas",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-aubet-comercio-y-colonialismo",
+          "name": "Comercio y colonialismo en el Próximo Oriente Antiguo — M. E. Aubet (Barcelona, Bellaterra, 2007) · caps. 4 y 5",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-fluchtpunkt-uruk",
+          "name": "Fluchtpunkt Uruk: Archäologische Einheit aus metodischer Viefalt [así impreso] — H. Nissen y H. Kühne (Arden Westf., Leidorf, 1999) · G. Emberling y N. Yoffee, «Thinking about Ethnicity in Mesopotamian Archaeology and History», «(hay traducción)», sin páginas",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-las-culturas-del-proximo-oriente-antiguo",
+          "name": "Las culturas del Próximo Oriente antiguo y su expansión mediterránea — J. J. Justel, J. P. Vita y J. A. Zamora (eds.) (Zaragoza, Instituto de Estudios Islámicos y del Oriente Próximo / CSIC / Universidad de Zaragoza, 2008) · B. Faist, «La organización política asiria», pp. 21-34",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-levi-los-funcionarios-divinos",
+          "name": "Los funcionarios divinos. Política, despotismo y mística en la China antigua — J. Levi (Madrid, Alianza, 1991) · pp. 17-50 y 83-133",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-liverani-relaciones-internacionales",
+          "name": "Relaciones internacionales en el Próximo Oriente Antiguo, 1600-1100 B.C. — M. Liverani (Barcelona, Bellaterra, 2003) · caps. 21, 22, 23, 24 y 25",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-extraction-and-control",
+          "name": "Extraction and Control. Studies in Honor of Matthew W. Stolper (Studies in Ancient Oriental Civilization 68) — M. Kozuh, W. F. M. Henkelman, C. E. Jones y C. Woods (eds.) (Chicago, The University of Chicago Press, 2014) · P. Michalowski, «Biography of a Sentence: Assurbanipal, Nabonidus, and Cyrus», pp. 203-210, «(hay traducción)»",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-la-construccion-del-poder-en-la-china-antigua",
+          "name": "La construcción del poder en la China Antigua — A. Relinque Eleta (ed.) (Granada, Universidad de Granada, 2009) · Y. Pines, «¿Un sello omnipotente? Planteamientos sobre el gobierno del monarca en la China Preimperial», pp. 55-84 (U IV); A. Cheng, «Virtud y política: el concepto de soberanía en la China Antigua», pp. 37-54, y J. J. Ciruela Alférez, «Huesos y bronces: mito y ritual en el período formativo del imperio chino», pp. 21-36 (U V)",
+          "role": "obligatoria · U IV y U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-poo-enemies-of-civilization",
+          "name": "Enemies of Civilization. Attitudes toward Foreigners in Ancient Mesopotamia, Egypt and China — M.-Ch. Poo (Albany, State University of New York Press, 2005) · cap. 3, «(hay traducción)»",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-commerce-and-monetary-systems",
+          "name": "Commerce and Monetary Systems in the Ancient World — R. Rollinger y C. Ulf (eds.) (Stuttgart, 2004; el programa no consigna editorial) · M. Van De Mieroop, «Economic Theories and the Ancient Near East», «(hay traducción)», sin páginas",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-assyria-1995",
+          "name": "Assyria 1995. Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project, Helsinki, September 7-11, 1995 — S. Parpola y R. M. Whiting (eds.) (Helsinki, Neo-Assyrian Text Corpus Project, 1997) · I. Winter, «Art in Empire: The Visual Dimension of Assyrian Royal Ideology», pp. 359-381, «(hay traducción)»",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-early-stages-mesopotamian-civilization",
+          "name": "Early Stages in the Evolution of Mesopotamian Civilization. Soviet Excavations in Northern Iraq — N. Yoffee y J. J. Clark (eds.) (Tucson / London, The University of Arizona Press, 1993) · N. Yoffee, «Mesopotamian Interaction Spheres», pp. 257-269, «(hay traducción)»",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-the-collapse-of-ancient-states-and-civilizations",
+          "name": "The Collapse of Ancient States and Civilizations — N. Yoffee y G. L. Cowgill («(ed.)» en singular, así impreso) (Arizona, The University of Arizona Press, 1995) · N. Yoffee, «Orienting Collapse, The Collapse of Ancient Mesopotamian States and Civilization», pp. 1-19, 44-68, «(hay traducción)»",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-bahrani-rituals-of-war",
+          "name": "Rituals of War. The Body and Violence in Mesopotamia — Z. Bahrani (New York, Zone Books, 2008) · pp. 23-74, «(hay traducción)»",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-introduccion-al-antiguo-oriente",
+          "name": "Introducción al antiguo Oriente. De Sumer a la Biblia — J. Bottéro et al. (Barcelona, Grijalbo, 1996 [1992]) · J. Bottéro, «El relato más antiguo del diluvio», pp. 209-221",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-burkert-la-creacion-de-lo-sagrado",
+          "name": "La creación de lo sagrado. La huella de la biología en las religiones antiguas — W. Burkert (Barcelona, Acantilado, 2009 [1996]) · cap. 3",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-campagno-una-lectura-de-la-contienda-entre-horus-y-seth",
+          "name": "Una lectura de «La contienda entre Horus y Seth» — M. Campagno (Buenos Aires, Universidad de Buenos Aires / Ediciones del Signo, 2004) · pp. 13-20, 37-63 y 109-137",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-escrituras-y-lenguas-del-mediterraneo",
+          "name": "Escrituras y lenguas del Mediterráneo en la Antigüedad — G. Carrasco Serrano y J. C. Oliva Mompeán (eds.) (Cuenca, Ediciones de la Universidad de Castilla-La Mancha, 2005) · J. Cervelló Autuori, «Los orígenes de la escritura en Egipto: entre el registro arqueológico y los planteamientos historiográficos», pp. 191-239",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-cheng-historia-del-pensamiento-chino",
+          "name": "Historia del pensamiento chino — A. Cheng (Barcelona, Bellaterra, 2003) · caps. 1, 2 y 3",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-dumezil-mito-y-epopeya-i",
+          "name": "Mito y epopeya I. La ideología de las tres funciones en las epopeyas de los pueblos indoeuropeos — G. Dumezil [así impreso, sin acento] (Barcelona, Seix Barral, 1977 [1968]) · caps. 1 y 2",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-dumezil-los-dioses-soberanos-de-los-indoeuropeos",
+          "name": "Los dioses soberanos de los indoeuropeos — G. Dumezil [así impreso, sin acento] (Barcelona, Herder, 1999 [1986]) · pp. 23-54",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-finkelstein-silberman-la-biblia-desenterrada",
+          "name": "La Biblia desenterrada. Una nueva visión arqueológica del Antiguo Israel y de los orígenes de sus textos sagrados — I. Finkelstein y N. A. Silberman (Madrid, Siglo XXI, 2003 [2001]) · Prólogo, Introducción y caps. 5 y 6",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-fontenrose-python",
+          "name": "Python. Estudio del mito délfico y sus orígenes — J. Fontenrose (Madrid, Sextopiso, 2011 [1959]) · Introducción y caps. 9 y 10",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-frankfort-reyes-y-dioses",
+          "name": "Reyes y dioses — H. Frankfort (México, 1976 [1948]; el programa no consigna editorial) · Introducción y caps. 6 y 22",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-girard-literatura-mimesis-y-antropologia",
+          "name": "Literatura, mímesis y antropología — R. Girard (Barcelona, Gedisa, 2006 [1978]) · cap. 9",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-haarman-historia-universal-de-la-escritura",
+          "name": "Historia universal de la escritura — H. Haarman [así impreso] (Madrid, Gredos, 2001 [1991]) · caps. 2 y 4",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-herrmann-historia-de-israel",
+          "name": "Historia de Israel — S. Herrmann (Salamanca, Sígueme, 1979) · caps. 6, 7 y 8",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-hornung-el-uno-y-los-multiples",
+          "name": "El uno y los múltiples. Concepciones egipcias de la divinidad — E. Hornung (Madrid, Trotta, 1999 [1971]) · cap. 5",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-kirk-el-mito",
+          "name": "El mito. Su significado y funciones en la Antigüedad y otras culturas — G. S. Kirk (Barcelona, Paidós, 2006 [1970]) · cap. 1",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-liverani-mas-alla-de-la-biblia",
+          "name": "Más allá de la Biblia. Historia Antigua de Israel — M. Liverani (Barcelona, Crítica, 2004) · cap. 13",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-antigua-1.libro-morris-religion-y-antropologia",
+          "name": "Religión y antropología — I. Morris (Madrid, Akal, 2009 [2006]) · Introducción",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA ANTIGUA I (ORIENTE), cód. 0410 / 14008, Prof. Marcelo Campagno, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0410_14008%20-%20HISTORIA%20ANTIGUA%20I%20-%20A%20-%20CAMPAGNO%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ANTIGUA I (ORIENTE), cód. 0410 / 14008, Prof. Marcelo Campagno, 1º cuatrimestre 2026 (20 pp.) — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; el documento no imprime letra de cátedra, la «A» está solo en el nombre del archivo publicado; extracto local en extract/out/historia-antigua1-campagno-2026.txt",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0410_14008%20-%20HISTORIA%20ANTIGUA%20I%20-%20A%20-%20CAMPAGNO%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA ANTIGUA I (ORIENTE) “B”, PROFESORA: RODRÍGUEZ IRENE, CÓDIGO Nº: 0410/14008, RÉGIMEN DE PROMOCIÓN: PD, 2º CUATRIMESTRE 2026, 96 HORAS, 17 pp. — la cátedra alternativa, NO dibujada: solo se verificaron su portada y su encabezado interno para declarar la selección; sus contenidos y su bibliografía no están indexados",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0410%20-%2014008]%20-%20HISTORIA%20ANTIGUA%20I%20%28ORIENTE%29%20-%20B%20-%20RODR%C3%8DGUEZ%20-%202C%202026.pdf"
+    }
+  ]
+}

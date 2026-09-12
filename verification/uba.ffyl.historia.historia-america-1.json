@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.historia-america-1",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 9,
+  "units_found": 9,
+  "books_total": 78,
+  "books_found": 78,
+  "not_found": [
+    "Frame, portada de la cátedra «B»: introducida con «dice, literalmente» pero cita «REDEC-20242526-UBA-DCT#FFYL» — FALSO como cita literal: bajo pdftotext -layout la portada de Molina imprime «REDEC-2024-» / «2526-UBA-DCT#FFYL» (salto de línea tras «2024-»); la forma sin guion existe sólo en modo default, que une el salto y se come el guion. Segunda ocurrencia del artefacto en la ola (tras Ciencia y Técnica), agravada porque el propio nodo declara ese corte en su párrafo de ARTEFACTOS e imprime la forma correcta otras 3 veces. Reparar a «REDEC-2024-2526-UBA-DCT#FFYL»."
+  ],
+  "omitted": [
+    "Menor: «imprime, las dos veces» el título con paréntesis — son TRES (L8, L24, y L43 en la fundamentación con «de» minúscula); el claim de fondo (nunca «hasta» en el PDF de Quiroga) se sostiene.",
+    "Menor: la contradicción (4) cita «3.4 Tawantinsuyu: :» — L642 imprime «3.4. Tawantinsuyu: :» con punto tras el 3.4; el doble dos-puntos es real; un carácter no verbatim dentro de guillemets.",
+    "Menor, prosa: «palabra por palabra» sobre los nueve encabezados de D., reconciliado dos párrafos después con las dos divergencias registradas — laxo leído aislado."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (18 pp, md5 3f59e99d…). Los 160 asientos recontados entrada por entrada — todos los desgloses exactos (obligatoria 90, complementaria 59, fuentes 11; 86 con volumen; 8 unificaciones → 78 exits en biyección completa, cero fugas). Cuellos de botella confirmados (3.2 un libro, 2.3 uno de tres, 2.1 uno de dos). La letra «A» NO impresa en 18 pp (cátedra exactamente 1, boilerplate REDEC); B sí imprime «B» en línea propia — verificado directo. Código 0426-vs-0420 real con ambos lados verificados. Ubicación en el plan medio-nativa confirmada en la fundamentación. Todas las demás contradicciones verdaderas con ambos lados impresos (tres grafías del nombre, INTRODUCCIÓN/INTRODUCCION, A-B-B-C, Grube, Rostworoski, Lockhart/Matos en obligatoria y complementaria del mismo bloque, Mamani ×2, Crumley/Blanton no dibujados). Ausencias confirmadas. Un solo defecto de cita: artefacto de des-guionado presentado como texto literal."
+}

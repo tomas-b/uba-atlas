@@ -1,0 +1,21 @@
+{
+  "address": "uba.ffyl.historia.historia-contemporanea",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 22,
+  "units_found": 22,
+  "books_total": 106,
+  "books_found": 106,
+  "not_found": [
+    "Frame, CONSECUENCIAS: «la Unidad 5 de la 3ª parte no aporta ningún libro nuevo» — FALSO: su asiento Winock/Soucy vive en Reggiani (comp.), «Los años sombríos» (Miño y Dávila, 2010), volumen único en el PDF que EL PROPIO NODO dibuja como libro #62 con rol 'obligatoria · 3ª parte U5'. U5 aporta exactamente 1 libro nuevo; los totales 72/106 no cambian. Reparar la frase.",
+    "Map foot de la 2ª parte: superlativo falso — «la cifra más alta por unidad del programa en las U1 y U6 (7 cada una)»: el máximo por unidad del programa es 8 (3ª U1 y 3ª U4), y 31 no es el total de parte más alto (3ª = 46). Acotar el superlativo a esta parte.",
+    "Menor: el frame transcribe la modalidad de la alterna como «REDEC-2024-2526UBA-DCT#FFYL» — el PDF imprime «REDEC-2024-2526-» + corte de línea + «UBA-DCT#FFYL»; restaurar el guión (mismo artefacto de des-guionado ya visto en Ciencia y Técnica).",
+    "Menor: el lede glosa la 3ª U3 con «el Sonderweg», palabra que el programa nunca imprime (imprime «el camino especial alemán», que el árbol sí usa). Reemplazar por la forma impresa."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract byte-identical to live PDF (18 pp, sha256 861577…; the NFD URL resolves verbatim). All structural arithmetic re-derived and exact: 22 units in 3 self-renumbering partes with d. repeating all 22 headers; 150 asientos with the full per-block vectors; the 18 exclusions one by one; 132→106 via 26 merges reconciled 72+14+20; automated sweep found all 106 titles and 22 headers verbatim in source — zero fabrications. The letter asymmetry confirmed on both sides (A printed twice; the alternate letterless in body, B only in filename/PDF-Title). All headline contradictions verified incl. Mason's character-for-character double and the era-del-capital/capitalismo pair correctly kept as two nodes. Greps exact (cátedra 4 none-designating; correlativ/equivalenc 0). Half-native plan placement honest. The four defects are prose consequences, a mis-scoped superlative, and two transcription nits."
+}

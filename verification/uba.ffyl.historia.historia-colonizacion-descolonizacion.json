@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.historia-colonizacion-descolonizacion",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 4,
+  "books_total": 95,
+  "books_found": 95,
+  "not_found": [
+    "Frame, exclusiones: la categoría de artículos de revista dice '(28)' pero enumera 26 (6+5+1+7+5+2), y la línea '28 + 4 + 1 + 2 + 2 + 3 = 38' suma 40. La enumeración es correcta (26+...=38, 141−38=103). Reparar: '(26)' y '26 + 4 + 1 + 2 + 2 + 3 = 38'.",
+    "Mapa del spine: 'Asia meridional desde 1750' — la cadena '1750' tiene CERO apariciones en el PDF; el ítem 1.4 imprime «a partir de la segunda mitad del siglo XVIII». Fecha interpolada en superficie visible. Reparar con las palabras del programa.",
+    "Claim de nombres-de-unidad 'sin agregar palabras': U2 empalma una elisión de 10 palabras del ítem 2.1 sin marca de elipsis; U4 inserta una «y» donde la L108 imprime punto. Reparar: declarar las elipsis/uniones o restaurar la literalidad.",
+    "Sobre-claims de orden de cita: «Ranahit Guha» impreso una vez (L417; L418 es continuación con guiones), y «Franz Fanon» en ese orden sólo en L318 — L281 imprime 'Fanon, Franz'. El erratum Franz/Frantz es real en ambos; sólo el orden citado falla.",
+    "Frame incompleto en variante (5) Dube: omite que la complementaria de U3 (L329) también imprime 'Sauradh'; el nodo del libro sí lo registra. Completar."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract diffs to zero lines against the live PDF (13 pp, sha256 0ffeb4c0…3dff). 141 asientos re-derived block by block; 103 with pie; the 8 collapses real; independent 95-volume set matches the node's 95 exits in perfect bijection — zero missing, zero extra, zero leakage. The carga-horaria contradiction «96 horas … 6 (seis) (diez) horas semanales» verbatim at L476, unresolved as required. Cátedra grep 31 = 30 translation credits + REDEC boilerplate L468. Absence greps all zero (correlativ, Resoluci, cronograma, virtuality %). All errata conserved verbatim; Ja-mes Currey and the Gentili→Gott run-on correctly not attributed to the programa (label 'orden de lectura' loose — they are soft-hyphen/two-entries-one-line layout facts — handling right). Cross-datum plan placement attributed correctly. No fabricated book, unit, or pie editorial; the defects are frame arithmetic, one interpolated date, and citation-order prose."
+}

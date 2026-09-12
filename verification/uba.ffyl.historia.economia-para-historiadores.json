@@ -1,0 +1,22 @@
+{
+  "address": "uba.ffyl.historia.economia-para-historiadores",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 15,
+  "units_found": 15,
+  "books_total": 39,
+  "books_found": 39,
+  "not_found": [
+    "Normalización (a): «por identidad de título» contradice la contradicción (1) del propio frame — los títulos difieren («en el siglo XX» vs «del siglo XX»); debe decir identidad de OBRA, no de título. Las tres impresiones están reproducidas verbatim en el nombre del libro, así que no hay falla de grounding.",
+    "«El código es igualmente doble» es una inferencia no impresa: el PDF imprime UNA cadena de código idéntica en ambas páginas y nunca dice que sea un código por plan. metadata.codigo es verbatim-correcto; sólo la glosa se excede. Reparar: retirar o acotar la glosa."
+  ],
+  "omitted": [
+    "El marcador impreso «Primer parcial» de Sartelli (L492, entre Clase 4 y Clase 5) no está registrado en ningún lado, mientras las notas de parcial de Bonnet y Míguez sí. Registrarlo.",
+    "Trivial: el frame escribe «complementaria» singular donde el PDF imprime «complementarias»; conteo y frase citada correctos."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Extract SHA-256-identical to live PDF (13 pp). 15/15 units re-derived (tema split 2/1/1/2/3/3/3/5/2/1 exact); 154 entries recounted per comisión; 96/58 split reconciled per comisión; 39 volumes re-derived by union from scratch matching the frame's tallies; all 39 titles attested verbatim — zero fabrications. Exclusion rule verified both directions (all 26 Sartelli exclusions genuinely lack pie; Smith's 'Alianza' only inside a URL). 49/49 verbatim quote checks passed incl. the three siglo-XX printings, the David/Ricardo inversion (Sartelli's prose does print 'Ricardo'), Glavich's three ranks, tema misalignments, blank DEPARTAMENTO DE, Rubin ×3. Bonnet-vs-Míguez: raw diff shows 4 whitespace-only hunks; whitespace-normalized, 29 identical lines — the node's claim ('idénticos asiento por asiento', with declared layout normalization) HOLDS; the 'byte-for-byte' phrasing lived only in the researcher's report, not the node. Greps confirmed (correlativ 0; complementari* exactly 1 REDEC hit; cátedra 4). Cross-datum verified against the plan PDF L63 and the parent group. Repairs: two frame glosses + record Sartelli's Primer parcial."
+}

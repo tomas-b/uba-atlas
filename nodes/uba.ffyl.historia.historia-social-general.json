@@ -1,0 +1,460 @@
+{
+  "address": "uba.ffyl.historia.historia-social-general",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD (promoción directa), Reglamento Académico Res. (CD) Nº 4428/17, arts. 39º y 40º · 3 (tres) instancias de evaluación parcial y 1 (un) recuperatorio",
+    "cargaHoraria": "96 HORAS (la portada imprime «CARGA HORARIA: 96 HORAS»; la recomendación 1 aclara «96 horas (6 horas semanales) distribuidas en tres tipos de clases articuladas entre sí: teóricas, teórico-prácticas y prácticas»; el texto reglamentario reproducido agrega que la carga horaria mínima de una materia cuatrimestral es de 96 horas, con un mínimo de 6 y un máximo de 10 horas semanales)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0402 / 14001",
+    "catedra": "«A» — la portada imprime dos veces «MATERIA: HISTORIA SOCIAL GENERAL “A”». La letra está en el documento, no inferida. La palabra «cátedra» aparece 15 veces en el PDF: 10 en créditos de traducción de la bibliografía («traducción de la cátedra»), 2 como nombre de la editorial madrileña Cátedra (de Vries y Zagorín), 1 dentro del texto reglamentario REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas» — machete normativo, no designación) y 2 refiriéndose a esta cátedra, en las recomendaciones («un compromiso de la cátedra con los alumnos» y «La cátedra dispone de una página Web»).",
+    "tituloDelPrograma": "SOCIEDAD Y CULTURA EN EL MUNDO OCCIDENTAL",
+    "modalidad": "Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL · «La materia se dicta en modalidad presencial»; el texto reglamentario reproducido permite hasta un 30% de clases en modalidad virtual y obliga a dictar las teóricas en forma virtual a las materias con más de 350 estudiantes inscriptos que no cuenten con estructura de cátedra para desdoblarlas. El programa NO declara qué porcentaje de virtualidad adopta esta cátedra: remite a «la página web de cada carrera antes del inicio de la inscripción».",
+    "equipoDocente": [
+      "MORIN, ALEJANDRO (profesor adjunto a cargo · firma «Alejandro MORIN / Profesor Adjunto»)",
+      "SEIGUER, PAULA (profesora adjunta a cargo · firma «Paula SEIGUER», sin cargo al pie)",
+      "BUBELLO, JUAN PABLO (jefe de trabajos prácticos)",
+      "CAVAZZINI, ELEONORA (jefa de trabajos prácticos)",
+      "FRANCISCO, HÉCTOR (jefe de trabajos prácticos)",
+      "RAITER, BÁRBARA (jefa de trabajos prácticos)",
+      "REUIL, IRENE (jefa de trabajos prácticos)",
+      "VALDEZ, MARÍA JOSÉ (jefa de trabajos prácticos)",
+      "ANGELOMÉ, FEDERICO (ayudante de 1ra)",
+      "GARIBOTTI, HELENA (ayudante de 1ra)",
+      "SOMOZA, TAMARA (ayudante de 1ra)",
+      "URCULLÚ, JULIETA (ayudante de 1ra)",
+      "BERTOIA, AYELÉN (adscripta)",
+      "FERNÁNDEZ LONG, ESTANISLAO (adscripto)",
+      "PUERTA, FRANCISCO (adscripto)"
+    ],
+    "notaAlEquipo": "nota al pie 1 del programa: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente».",
+    "unidades": 4,
+    "bibliografia": 45,
+    "correlatividades": "el programa no imprime ninguna: la cadena «correlativ» no aparece en el PDF. Tampoco imprime equivalencias, resolución de aprobación del programa, fechas de examen ni horarios de consulta. Nada de eso se le atribuye.",
+    "catedrasDeLaMateria": "5 cátedras publican programa para esta materia en historia.filo.uba.ar. Se traza una (A). Las otras cuatro quedan citadas y no trazadas, con la portada de cada una verificada.",
+    "campus": "clave de inscripción al espacio de la materia en campus.filo.uba.ar impresa en la recomendación 8: hsgms2026"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-social-general",
+      "label": "Historia Social General"
+    }
+  ],
+  "eyebrow": "Historia · Historia Social General · cátedra «A» · Morin – Seiguer · 1º cuatrim. 2026",
+  "title": "Un relato provisorio, hecho para que lo desarmes después.",
+  "lede": "La materia con la que se entra a la carrera de Historia, y que se declara a sí misma instrumental: mil quinientos años de mundo occidental —de la caída del Imperio Romano a nuestros días— contados como «un relato instrumental, a ser deconstruido por los alumnos a lo largo de la carrera». El recorrido son cuatro unidades: la sociedad medieval, de los estados post-romanos a las ciudades comunales, con señores, campesinos, vasallaje, la Iglesia como orden ecuménico y la crisis del siglo XIV; la época del absolutismo, con la sociedad aristocrática, la revolución agrícola, la expansión transoceánica, las revoluciones inglesas, la ruptura de la cristiandad, el Humanismo, la Revolución Científica y la Ilustración; la sociedad burguesa, con la Revolución Industrial, el mercado mundial y el imperialismo, la Revolución Francesa, los parlamentos, los Estados y los nacionalismos; y el siglo XX, del mundo industrial al postindustrial, la política de masas, el comunismo soviético y el nazismo, los Estados de Bienestar, las democracias de posguerra, los grandes conflictos internacionales y la descolonización. La forma de mirar está declarada: distinguir lo económico, lo social, lo político y lo cultural, cada uno con lógicas propias, y buscar los modos en que se determinan recíprocamente, siempre desde los sujetos sociales «que coexisten en relaciones conflictivas». Se lee en tres tipos de clase —teóricas, teórico-prácticas y prácticas— y se leen también fuentes: documentos de época para «tener una experiencia directa de la historia viva».",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedras",
+      "v": "1 / 5",
+      "small": "trazada «A»"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA SOCIAL GENERAL, cátedra «A», Departamento de Historia (FFyL-UBA), cód. 0402 / 14001, profesores adjuntos a cargo MORIN, ALEJANDRO – SEIGUER, PAULA, 1º cuatrimestre de 2026, publicado en historia.filo.uba.ar. El PDF trae capa de texto nativa y se extrajo entero (13 páginas, extracto historia-social-general-morin-2026). Todo lo afirmado acá sale de ese único PDF, salvo lo declarado expresamente como dato externo. CÁTEDRA: la letra «A» es literal —la portada imprime dos veces «MATERIA: HISTORIA SOCIAL GENERAL “A”»— y el programa lleva además su propio título, «SOCIEDAD Y CULTURA EN EL MUNDO OCCIDENTAL». La única aparición de la expresión «estructura de cátedra» está dentro del texto reglamentario REDEC reproducido en la sección e. (materias con más de 350 inscriptos): es machete normativo, no una designación, y no se usa como dato de esta cátedra. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LOS DOS SENTIDOS: la materia tiene CINCO cátedras con programa publicado por el Departamento de Historia; se traza UNA (1 de 5) y quedan CUATRO citadas y no trazadas (4 de 5). Cada una de las cuatro fue verificada abriendo su PDF y leyendo su portada, no su nombre de archivo: (B) «MATERIA: HISTORIA SOCIAL GENERAL “B”», PROFESOR: PITTALUGA, ROBERTO, CÓDIGO Nº 0402 /14001, CUATRIMESTRE 2°, AÑO 2026, 17 páginas; (C) «MATERIA: HISTORIA SOCIAL GENERAL “C”», PROFESOR/A: RODRÍGUEZ, IRENE, CÓDIGO Nº 0402 / 14001, 2º CUATRIMESTRE, AÑO 2026, 13 páginas; (D) «MATERIA: HISTORIA SOCIAL GENERAL “D”», PROFESOR: VOLKIND PABLO, CÓDIGO DE LA MATERIA 0402/14001, CUATRIMESTRE: 1° CUATRIMESTRE 2026, AÑO 2026, 21 páginas; (E) «MATERIA: HISTORIA SOCIAL GENERAL» —sin letra en el renglón de materia—, CÓDIGO Nº: 0402-E, PROFESOR/A: NIGRA FABIO, 1° CUATRIMESTRE 2024, AÑO 2024, 12 páginas, y con REDEC-2023-2382-UBA-DCT#FFYL (ciclo lectivo 2024) en lugar de la REDEC de 2026: es un programa VIEJO, y el año se declara en vez de disimularse. Nada del contenido de esas cuatro entra en este nodo: ni unidades, ni bibliografía, ni horas. Lo que se dibuja acá es, entero, la cátedra A. NORMALIZACIÓN DECLARADA: el archivo publicado por el Departamento nombra al profesor «MORÍN» con tilde; el programa mismo lo imprime sin tilde tres veces («PROFESOR/A: MORIN, ALEJANDRO – SEIGUER, PAULA», «PROFESORES ADJUNTOS A CARGO: MORIN, ALEJANDRO – SEIGUER, PAULA») y firma «Alejandro MORIN». Se conserva la grafía del programa —MORIN— y se declara la del archivo. NORMATIVA CITADA POR EL PROGRAMA: REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, ciclo lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades —la cadena «correlativ» no aparece en ninguna de las 13 páginas—, equivalencias, resolución de aprobación del programa, fechas de examen, horarios de consulta y porcentaje de virtualidad efectivamente adoptado (remite a la web de la carrera). EVALUACIÓN, tal como está impresa: bajo el encabezado «Régimen de PROMOCIÓN DIRECTA (PD)» conviven dos opciones — Opción A: 80% de asistencia a cada instancia de la cursada y las 3 evaluaciones parciales aprobadas con promedio igual o superior a 7 puntos sin ningún aplazo; Opción B: 75% de asistencia a trabajos prácticos, las 3 instancias (o sus recuperatorios) con mínimo de 4 puntos cada una y promedio entre 4 y menos de 7, MÁS un EXAMEN FINAL con nota mínima de 4. Que un régimen rotulado «promoción directa» contenga una opción que termina en examen final está impreso así y se registra sin resolver. Hay UN (1) recuperatorio; desaprobar más de una instancia es pérdida de la regularidad; la regularidad vale 4 años y 3 mesas examinadoras. CONTRADICCIONES Y DESAJUSTES REGISTRADOS, no resueltos: (1) las Recomendaciones están numeradas 1, 2, 3, 4, 5, 6 y 8 — no hay ítem 7. (2) Ian KERSHAW, «Descenso a los infiernos. Europa 1914-1949» se asienta en la obligatoria de la Unidad IV como «Edición digital Titivillus, 2018» y en la complementaria de la misma unidad como «Barcelona, Crítica, 2016»: mismo título, dos pies editoriales y dos años. (3) Jürgen OSTERHAMMEL, «La transformación del mundo. Una historia global del siglo XIX» (Barcelona, Crítica, 2015) figura a la vez en la obligatoria de la Unidad III (selección «Energía e industria», pp. 1370-1383) y en la complementaria de la misma unidad, como volumen completo. (4) El volumen de Stefan Berger se imprime de dos maneras en la misma unidad: «S. Berger (ed.), A companion to nineteenth-century Europe, 1789–1914» en el asiento de Canning y «Berger, Stefan (ed.), A Companion to Nineteenth-Century Europe, 1789–1914» en el de Leonhard. (5) ELLIOT (así impreso, con una sola t) aparece con el mismo libro en dos años y dos preposiciones: «J.H. Elliot y otros, Revoluciones y rebeliones de la Europa moderna, Madrid, Alianza, 1989» en la complementaria de la Unidad II y «ELLIOT (ed.), Revoluciones y rebeliones en la Europa moderna, Madrid, Alianza, 1981» en la Bibliografía general. (6) George MOSSE se asienta como «La cultura europea del siglo XIX, Barcelona, Ariel, 1997» en la complementaria de la Unidad III y como «La cultura europea del siglo XX, Barcelona, Ariel, 1997» en la Bibliografía general: distinto siglo en el título, idéntico pie editorial. (7) El encabezado «AUXILIARES DOCENTES:» se imprime sin ningún nombre debajo, y los nombres aparecen repartidos en las tres categorías siguientes (jefes de trabajos prácticos, ayudantes de 1ra, adscriptos). (8) Al pie firman los dos profesores, pero sólo bajo «Alejandro MORIN» se imprime el cargo «Profesor Adjunto»; «Paula SEIGUER» queda sin cargo, aunque el equipo docente los consigna a ambos como adjuntos a cargo. ERRATAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «El Nueva Mundo: encuentro de tres continentes, 1492-1763» (Pani); «ZAGORÍN, Perez» sin tilde en el nombre de pila, y su asiento fuera del orden alfabético, entre MOUSNIER y ROSSI; «Pascuale VILLANI»; «La edad moderna. XVI-XVIII¸ Barcelona» con coma cedilla (Tenenti); «BONNASSIE, Del esclavismo al feudalismo en Europa occidental, Barcelona, 1993» y «FOSSIER, La Edad Media, Barcelona, 1988», ambos sin editorial; «AGULHON, 1848. El aprendizaje de la República. (Ficha OPFYL)» sin lugar, editorial ni año; y los encabezados de unidad puntuados de dos maneras, «UNIDAD I.» y «UNIDAD II.» con punto, «UNIDAD III:» y «UNIDAD IV:» con dos puntos. Ninguna se corrige y ninguna se completa. FORMA DE LA BIBLIOGRAFÍA GENERAL: sus 87 asientos se imprimen sólo con apellido (salvo tres que agregan el nombre: BOIS, Guy; BONNASSIE, Pierre; IOGNA-PRAT, Dominique), a diferencia de las bibliografías por unidad. SELECCIÓN DE BIBLIOGRAFÍA, DECLARADA Y CONTADA EN LOS DOS SENTIDOS: la sección d. del programa tiene 204 asientos en total, repartidos así — bibliografía OBLIGATORIA 50 (U1: 12 · U2: 12 · U3: 15 · U4: 11); bibliografía COMPLEMENTARIA 54 (U1: 13 · U2: 16 · U3: 10 · U4: 15); FUENTES 13 (U1: 3 · U2: 3 · U3: 3 · U4: 4); BIBLIOGRAFÍA GENERAL 87, en una lista única al final, sin unidad asignada. Se dibuja como libro el volumen con pie editorial que contiene cada asiento de la bibliografía OBLIGATORIA —un capítulo, selección o introducción se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—: los 50 asientos obligatorios corresponden a 45 volúmenes distintos, porque cinco volúmenes llevan dos asientos cada uno (McKitterick (ed.), La alta Edad Media: Devroey y Wickham; Cameron (ed.), El siglo XVI: Cameron y Nauert; Berger (ed.), A Companion to Nineteenth-Century Europe: Canning y Leonhard; Morgan, La invención del pueblo: U2 y U3; Artola y Pérez Ledesma, Contemporánea: U3 y U4). Esos 45 son los que se dibujan, ninguno más. NO se dibujan los 54 asientos de la bibliografía complementaria, las 13 fuentes ni los 87 de la bibliografía general: 154 asientos quedan contados y fuera del dibujo, y nada de lo excluido aparece como libro. Las FUENTES quedan declaradas una por una acá, porque son lectura obligatoria según la recomendación 2 («Las lecturas obligatorias incluyen bibliografía y fuentes») y no son volúmenes: U1 — Documentos sobre Gran Dominio; Documentos sobre Iglesia medieval (edición 2019); Documentos sobre Sociedad feudal (edición 2025). U2 — Escritos de Lutero (selección); Documentos sobre transformaciones económicas en el siglo XVII; Documentos sobre las colonias norteamericanas. U3 — Charles Booth, Vida y trabajo de la gente de Londres (selección); Documentos sobre Estados Unidos del s. XIX (edición 2023); Documentos sobre la Revolución Francesa (edición 2020). U4 — Documentos sobre Estado de Bienestar; Documentos sobre transformaciones sociales y económicas soviéticas (edición 2023); Meet King Joe (1949, productor John Sutherland) —una película, el único ítem no impreso de todo el programa—; Selección de afiches de propaganda de la Primera Guerra Mundial (edición 2019). TRADUCCIONES Y FICHAS DE LA CÁTEDRA: ocho asientos se leen en traducción propia de la cátedra, seis de ellos publicados como Ficha OPFYL (Verger, Malia, Mettam, Horne, Nolan y Leonhard) y dos sólo como traducción de cátedra (Milani, Canning); en la complementaria hay dos más (Marino, Rothermund), no dibujados. El volumen es lo que se dibuja y el estado de la lectura queda anotado en el nombre. ESTRUCTURA: la sección c. Contenidos tiene cuatro unidades numeradas en romanos (I a IV), y son las cuatro que se dibujan; la sección d. organiza la bibliografía con esos mismos cuatro encabezados más el bloque general, sin desajuste entre unos y otros. Las subdivisiones internas de cada unidad (los puntos 1, 2, 3 y sus incisos a, b, c…) están en el texto de cada nodo de unidad, no como nodos propios.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · programa «Sociedad y cultura en el mundo occidental» (cátedra A, Morin – Seiguer, 1º cuatrim. 2026)",
+      "title": "De la caída de Roma a la descolonización",
+      "note": "Las cuatro unidades numeradas de la sección c. Contenidos, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "HISTORIA SOCIAL GENERAL «A» · cód. 0402 / 14001\nMorin – Seiguer · 1º cuatrim. 2026 · 96 hs · PD\n│\n├─ I · La sociedad medieval\n│      del mundo antiguo al feudalismo · estados post-romanos\n│      señores y campesinos · vasallaje y monarquía · la Iglesia\n│      la crisis del siglo XIV · ciudades comunales y burguesías\n│\n├─ II · La época del absolutismo\n│      sociedad temprano-moderna y aristocrática\n│      revolución agrícola y transición al capitalismo\n│      expansión transoceánica · revoluciones inglesas\n│      Reforma · Humanismo · Revolución Científica · Ilustración\n│\n├─ III · La sociedad burguesa\n│      Revolución Industrial · mercado mundial e imperialismo\n│      Revolución Francesa · parlamentos y democracia\n│      Estados y nacionalismos · la «revolución burguesa»\n│\n└─ IV · El siglo XX\n       del mundo industrial al postindustrial · intervención estatal\n       comunismo soviético · nazismo · Estados de Bienestar\n       democracias de posguerra · conflictos y descolonización",
+        "foot": "Cuatro unidades y cinco cátedras: ésta es la «A». Las otras cuatro (B Pittaluga, C Rodríguez, D Volkind, E Nigra) publican su propio programa y no se trazan; sus recortes del mismo período son distintos y no se mezclan acá."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-social-general.u1-la-sociedad-medieval",
+          "name": "La sociedad medieval",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.u2-la-epoca-del-absolutismo",
+          "name": "La época del absolutismo",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.u3-la-sociedad-burguesa",
+          "name": "La sociedad burguesa",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.u4-el-siglo-xx",
+          "name": "El siglo XX",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria del programa",
+      "title": "Lo que hay que leer",
+      "note": "Los 45 volúmenes distintos que contienen los 50 asientos de la bibliografía obligatoria, por unidad. Un capítulo o una selección se dibuja como el volumen que lo contiene, y un volumen con dos asientos se unifica en un solo nodo. No se dibujan los 54 asientos de la complementaria, las 13 fuentes ni los 87 de la bibliografía general: quedan contados y declarados en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-baschet-la-civilizacion-feudal",
+          "name": "La civilización feudal. Europa del año mil a la colonización de América — Jérôme BASCHET (México, Fondo de Cultura Económica, 2009) · «La feudalidad y la organización de la aristocracia», «La Iglesia, institución dominante del feudalismo» y «¿Génesis del Estado o afirmación de la monarquía?», pp. 114-134, 176-208, 231-263 y 282-288",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-mckitterick-la-alta-edad-media",
+          "name": "La alta Edad Media. Europa 400–1000 — Rosamond McKitterick (ed.) (Barcelona, Crítica, 2002) · Jean-Pierre DEVROEY, «La economía» (selección), pp. 123-130; Chris WICKHAM, «La sociedad» (selección), pp. 69-105",
+          "role": "obligatoria · U1 · dos asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-duby-guerreros-y-campesinos",
+          "name": "Guerreros y campesinos. El desarrollo inicial de la economía europea — Georges DUBY (Madrid, Siglo XXI, 1992) · «La época feudal», «Los señores» y «Los campesinos», pp. 199-227, 252-270, 280-304",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-duby-economia-rural-y-vida-campesina",
+          "name": "Economía rural y vida campesina en el Occidente medieval — Georges DUBY (Barcelona, Península, 1968) · «La mutación del siglo XIV», pp. 375-460",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-le-goff-la-baja-edad-media",
+          "name": "La Baja Edad Media — Jacques LE GOFF (México, Siglo XXI, 1985) · pp. 137-140, 145-152, 246-253 y 269-272",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-carocci-storia-deuropa-e-del-mediterraneo",
+          "name": "Storia d'Europa e del Mediterraneo IV. Il Medioevo (secoli V-XV), vol. VIII — S. Carocci (ed.) (2006; el asiento no consigna lugar ni editorial) · Giuliano MILANI, «El poder de las ciudades», traducción de la cátedra, pp. 629-664",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-monsalvo-anton-las-ciudades-europeas-del-medievo",
+          "name": "Las ciudades europeas del Medievo — José María MONSALVO ANTÓN (Madrid, Síntesis, 1997) · «Funciones urbanas. Las corporaciones artesanales», pp. 199-239",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-romero-la-revolucion-burguesa-en-el-mundo-feudal",
+          "name": "La revolución burguesa en el mundo feudal — José Luis ROMERO (México, Siglo XXI, 1989) · «La ecumenicidad del orden cristiano feudal», pp. 184-196",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-rosener-los-campesinos-en-la-historia-europea",
+          "name": "Los campesinos en la historia europea — Werner RÖSENER (Barcelona, Crítica, 1995) · «Comunidad aldeana y vecindad», pp. 186-194",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-le-goff-el-hombre-medieval",
+          "name": "El hombre medieval — Jacques Le Goff (ed.) (Madrid, Alianza, 1990) · Jacques ROSSIAUD, «El ciudadano y la vida en la ciudad», pp. 149-189",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-genet-vincent-etat-et-eglise",
+          "name": "État et Église dans la genèse de l'État moderne — J.-Ph. Genet & B. Vincent (eds.) (Madrid: Casa de Velázquez, 1986) · Jacques VERGER, «La transferencia de los modelos de organización de la Iglesia al Estado a fines de la Edad Media», Ficha OPFYL, traducción de la cátedra de «Le transfert de modèles d'organisation de l'Église à l'État à la fin du Moyen Âge»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-blanning-el-siglo-xviii",
+          "name": "El siglo XVIII: Europa 1688-1815 — T. Blanning (ed.) (Barcelona, Crítica, 2002) · Derek BEALES, «Religión y cultura», pp. 140-149 y 159-179",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-cameron-el-siglo-xvi",
+          "name": "El siglo XVI — E. Cameron (ed.) (Barcelona, Crítica, 2006) · Euan CAMERON, «Las turbulencias de la fe», pp. 166-196; Charles NAUERT, «Mentalidad», pp. 136-165",
+          "role": "obligatoria · U2 · dos asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-de-vries-la-economia-de-europa-en-un-periodo-de-crisis",
+          "name": "La economía de Europa en un período de crisis, 1600-1750 — Jan de VRIES (Madrid, Cátedra, 1979) · pp. 13-60, 85-93, 95-97, 104-108, 114-120, 181-186, 192-196, 213-228, 234-236, 244-253",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-duchhardt-la-epoca-del-absolutismo",
+          "name": "La época del absolutismo — Heinz DUCHHARDT (Barcelona, Altaya, 1997) · «El absolutismo europeo», pp. 65-90",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-greengrass-la-destruccion-de-la-cristiandad",
+          "name": "La Destrucción de la Cristiandad. Europa 1517-1648 — Mark GREENGRASS (Barcelona, Pasado & Presente, 2013) · «Europa en el mundo» y «Los negocios de los Estados», pp. 185-219 y 601-628",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hale-la-europa-del-renacimiento",
+          "name": "La Europa del Renacimiento 1480-1520 — John HALE (Madrid, Siglo XXI, 2016) · «Las clases», pp. 185-216 y 225-234",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-malia-historys-locomotives",
+          "name": "History's Locomotives: Revolutions and the Making of the Modern World — Martin MALIA (New Haven/Londres, Yale University Press, 2006) · «Inglaterra, 1640-1660-1688», Ficha OPFYL, traducción de la cátedra de «England, 1640-1660-1688»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-corfield-language-history-and-class",
+          "name": "Language, History and Class — Penelope Corfield (ed.) (Oxford, Blackwell, 1991) · Roger METTAM, «Definiciones de la nobleza en la Francia del siglo XVII», Ficha OPFYL, traducción de la cátedra de «Definitions of nobility in seventeenth-century France»",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-morgan-la-invencion-del-pueblo",
+          "name": "La invención del pueblo. El surgimiento de la soberanía popular en Inglaterra y Estados Unidos — Edmund S. MORGAN (Buenos Aires, Siglo XXI, 2006) · «Orígenes» y «La revolución cautelosa», pp. 13-16, 97-126 (U2); «Ambigüedades útiles», «El pueblo en armas: el invencible yeoman» y «La decisión del pueblo: elecciones y campañas electorales», pp. 159-222 (U3)",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-pani-historia-minima-de-estados-unidos",
+          "name": "Historia mínima de Estados Unidos de América — Erika PANI (México, El Colegio de México-Turner, 2016) · «El Nueva Mundo: encuentro de tres continentes, 1492-1763» [así impreso], pp. 19-52",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-shapin-la-revolucion-cientifica",
+          "name": "La Revolución Científica. Una interpretación alternativa — Steven SHAPIN (Buenos Aires-Barcelona, Paidós, 2000) · «¿Qué se sabía?», pp. 35-60, 82-89",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-artola-perez-ledesma-contemporanea",
+          "name": "Contemporánea. La historia desde 1776 — Miguel ARTOLA y Manuel PÉREZ LEDESMA (Madrid, Alianza Editorial SA, 2005) · «El mundo rural y la sociedad urbana», pp. 128-135 (U3); «Las transformaciones de la sociedad», pp. 475-503 (U4)",
+          "role": "obligatoria · U3 y U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-berger-a-companion-to-nineteenth-century-europe",
+          "name": "A companion to nineteenth-century Europe, 1789–1914 — S. Berger (ed.) (Oxford, Blackwell, 2006) · Kathleen CANNING, «La cuestión de la mujer», traducción de la cátedra, pp. 193-208; Jörn LEONHARD, «El ascenso del Leviatán moderno: Funciones y características estatales», Ficha OPFYL, traducción de la cátedra de «The Rise of the Modern Leviathan: State Functions and State Features», pp. 137-148 — el segundo asiento imprime «Berger, Stefan (ed.), A Companion to Nineteenth-Century Europe»",
+          "role": "obligatoria · U3 · dos asientos",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-geary-movimientos-obreros-y-socialistas",
+          "name": "Movimientos obreros y socialistas en Europa antes de 1914 — Dick Geary (comp.) (Madrid, Ministerio de Trabajo y Seguridad social, 1992) · Dick GEARY, «El socialismo y el movimiento obrero alemán antes de 1914», pp. 149-197",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hobsbawm-gente-poco-corriente",
+          "name": "Gente poco corriente. Resistencia, rebelión y jazz — Eric J. HOBSBAWM (Barcelona, Crítica, 1999) · «La formación de la clase obrera, 1870-1914», pp. 71-90",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hobsbawm-industria-e-imperio",
+          "name": "Industria e Imperio — Eric J. HOBSBAWM (Barcelona, Ariel, 1977) · «El origen de la Revolución Industrial» y «La Revolución Industrial, 1780-1840», pp. 34-76",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hobsbawm-la-era-de-la-revolucion",
+          "name": "La era de la revolución — Eric J. HOBSBAWM (Barcelona, Labor Universitaria, 1991) · «La carrera abierta al talento», pp. 169-184",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hobsbawm-la-era-del-capitalismo",
+          "name": "La era del capitalismo (1848-1875) — Eric J. HOBSBAWM (Barcelona, Labor, 1989) · «El gran «boom»» [comillas anidadas así impresas], pp. 31-49",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-hobsbawm-la-era-del-imperio",
+          "name": "La era del imperio (1875-1914) — Eric J. HOBSBAWM (Buenos Aires, Crítica, 2009) · «La economía cambia de ritmo», «La política de la democracia», «La transformación de las artes» y «Certidumbres socavadas: la ciencia», pp. 42-64, 94-121, 229-270",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-adams-los-estados-unidos-de-america",
+          "name": "Los Estados Unidos de América — W. P. Adams (Madrid, Historia Universal Siglo XXI, 1998) · John KILLICK, «La revolución industrial en los Estados Unidos», pp. 109-165",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-osterhammel-la-transformacion-del-mundo",
+          "name": "La transformación del mundo. Una historia global del siglo XIX — Jürgen OSTERHAMMEL (Barcelona, Crítica, 2015) · «Energía e industria» (selección), pp. 1370-1383 · el mismo volumen vuelve a asentarse, completo, en la complementaria de la U3",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-reichardt-la-revolucion-francesa-y-la-cultura-democratica",
+          "name": "La Revolución Francesa y la cultura democrática. La sangre de la libertad — Rolf REICHARDT (Madrid, Siglo Veintiuno, 2002) · «La Revolución Francesa como proceso político», pp. 109-174",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-schulze-estado-y-nacion-en-europa",
+          "name": "Estado y nación en Europa — Hagen SCHULZE (Barcelona, Crítica, 1997) · «Estados Nacionales», pp. 166-221",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-thompson-la-formacion-historica-de-la-clase-obrera-inglesa",
+          "name": "La formación histórica de la clase obrera inglesa — Edward P. THOMPSON (Barcelona, Crítica, 1989) · «Prefacio» y «Explotación», pp. 10-14, 188-212",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-bourke-la-segunda-guerra-mundial",
+          "name": "La Segunda Guerra Mundial. Una historia de las víctimas — Joanna BOURKE (Titivillus Editorial Digital, 2001) · «Repercusiones (posguerra)», pp. 3-24",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-fritzsche-vida-y-muerte-en-el-tercer-reich",
+          "name": "Vida y muerte en el Tercer Reich — Peter FRITZSCHE (Barcelona, Crítica, 2009) · «Acicalado racial», pp. 79-140",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-horne-state-society-and-mobilization",
+          "name": "State, society and mobilization in Europe during the First World War — John HORNE (Cambridge/Nueva York, Cambridge University Press, 2002) · «Introducción: movilizar para la 'guerra total', 1914-1918», Ficha OPFYL, traducción de la cátedra",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-judt-postguerra",
+          "name": "Postguerra. Una historia de Europa desde 1945 — Tony JUDT (Madrid, Taurus, 2010) · «El momento de la socialdemocracia» y «El nuevo realismo», pp. 545-568 y 773-790",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-kershaw-descenso-a-los-infiernos",
+          "name": "Descenso a los infiernos. Europa 1914-1949 — Ian KERSHAW (Edición digital Titivillus, 2018) · «Una paz turbulenta», «Bailando sobre el volcán», «Las sombras se adensan» (selección), pp. 167-216, 232-282, 303-311, 324-362, 370-388, 408-409 · el mismo título se asienta en la complementaria de la U4 como (Barcelona, Crítica, 2016)",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-nolan-the-transatlantic-century",
+          "name": "The Transatlantic Century. Europe and America, 1890–2010 — Mary NOLAN (Cambridge, Cambridge University Press, 2013) · asentado como «El siglo transatlántico. Europa y América 1890-2010», Ficha OPFYL, traducción de la cátedra",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-sotelo-el-estado-social",
+          "name": "El Estado social. Antecedentes, origen, desarrollo y declive — Ignacio SOTELO (Madrid, Editorial Trotta, 2012) · «El Estado de Bienestar propiamente dicho», pp. 230-250",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-taibo-la-union-sovietica",
+          "name": "La Unión Soviética. El espacio ruso-soviético en el siglo XX — Carlos TAIBO (Madrid, Síntesis, 1999) · «Las revoluciones rusas» y «El estalinismo: colectivización, industrialización y represión», pp. 17-30, 83-112",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-villani-la-edad-contemporanea",
+          "name": "La edad contemporánea, 1914-1945 — Pascuale VILLANI [así impreso] (Barcelona, Ariel, 1997) · «De la prosperidad a la crisis económica» y «Entre Europa, América y Asia» (selección), pp. 81-93 y 146-153",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-social-general.libro-villares-bahamonde-el-mundo-contemporaneo",
+          "name": "El mundo contemporáneo. Del siglo XIX al XXI — Ramón VILLARES y Ángel BAHAMONDE (Madrid, Taurus, 2012) · «La Guerra fría», pp. 311-333",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Cátedras · 1 trazada de 5 publicadas",
+      "title": "Las otras cuatro quedan citadas, no trazadas",
+      "note": "Historia Social General se dicta en cinco cátedras con programa publicado en historia.filo.uba.ar, todas bajo el mismo código 0402 / 14001 (la «E» imprime 0402-E). Acá se traza una —la «A», Morin – Seiguer, 1º cuatrimestre 2026— y quedan cuatro sin trazar, con su portada verificada abriendo el PDF, no leyendo el nombre del archivo: «B», PITTALUGA, ROBERTO, 2º cuatrimestre 2026, 17 páginas; «C», RODRÍGUEZ, IRENE, 2º cuatrimestre 2026, 13 páginas; «D», VOLKIND PABLO, 1º cuatrimestre 2026, 21 páginas; y «E», NIGRA FABIO, 1º cuatrimestre 2024 —programa viejo, con la REDEC-2023-2382-UBA-DCT#FFYL del ciclo lectivo 2024 y sin letra en el renglón de materia—, 12 páginas. Ningún contenido de esas cuatro entra en este nodo: las unidades, la bibliografía, las horas y el régimen dibujados son los de la cátedra A y sólo de ella. Cada cátedra arma su propio recorrido del mismo período, y mezclarlos sería inventar una materia que no existe.",
+      "exits": []
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA SOCIAL GENERAL «A», cód. 0402 / 14001, «Sociedad y cultura en el mundo occidental», profesores adjuntos a cargo MORIN, ALEJANDRO – SEIGUER, PAULA, 1º cuatrimestre 2026 (13 pp., texto nativo; extracto historia-social-general-morin-2026)",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0402_14001%20-%20HISTORIA%20SOCIAL%20GENERAL%20-%20A%20-%20MOR%C3%8DN%3B%20SEIGUER%20-%201C%202026.pdf"
+  }
+}

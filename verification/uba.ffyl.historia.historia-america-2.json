@@ -1,0 +1,18 @@
+{
+  "address": "uba.ffyl.historia.historia-america-2",
+  "wave": "historia-1",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 10,
+  "units_found": 10,
+  "books_total": 99,
+  "books_found": 99,
+  "not_found": [],
+  "omitted": [
+    "Nits, ninguno estructural: «Ensayo» sí reaparece en dos títulos de libros (el claim sustantivo sobre el apartado f. es exacto); «vol. IV se cita dos veces en U7» es laxo (tres asientos bajo dos pies — la enumeración siguiente y el exit son exactos); el bullet «contrabando» del árbol viene del título de Moutoukias, no del apartado c. que la nota cita; la carátula del BV imprime «(PLAN 1985/2024)» en p1 y «(PLAN 1985/PLAN 2024)» en p2 (el nodo cita la segunda, literal); apóstrofo tipográfico de «Travaux de l' IFEA» vertido recto."
+  ],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Extract byte-identical to live PDF (12 pp, md5 9f6eb8de…). 10/10 unidades; the two Talleres verified absent from apartado c. — the non-drawing declaration literally true. Obligatoria recount exact (37; 28 teóricas / 9 prácticos with the zero-práctico units confirmed); exclusions exact; 4 unifications removing 5 asientos → 28; referencia 73→74→71 new; 99 book exits = 28+71, reverse sweep complete, no refgen entry without its book. HEADLINE VERIFIED: the HGAL vol. IV imprints occur exactly 2× (2000, directorless) and 1× (Tandeter dir. 2007), and the node draws exactly two exits, one per printed imprint — neither unified nor arbitrated. All other contradictions verbatim both sides incl. Zulawski/Saignes same pages, the a) b) d) notes, the surviving template line «[Deje solo la opción que corresponda]». Cross-source Alemano JTP-vs-Ayudante attributed each to its own source; única composición properly grounded on the ficha (and the site does list two cátedras for América III, so the single listing is evidence). Bimestre de Verano triple-fact confirmed with nothing drawn from it. Zero fabrications, zero omissions, zero unsupported attributions."
+}

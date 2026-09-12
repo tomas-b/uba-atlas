@@ -1,0 +1,648 @@
+{
+  "address": "uba.ffyl.historia.historia-sistemas-politicos",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF (examen final), Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial + 1 recuperatorio · 75% de asistencia a trabajos prácticos",
+    "cargaHoraria": "96 HORAS (mínimo 6 y máximo 10 horas semanales de dictado de clases)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0405 /14004 — así impreso, con el espacio antes de la barra (0405 = Plan 1985 · 14004 = Plan 2024)",
+    "tituloDeLaMateria": "doble, impreso en dos líneas en la portada: «HISTORIA DE LOS SISTEMAS POLÍTICOS “A” (PLAN 1985)» / «HISTORIA DEL PENSAMIENTO POLÍTICO “A” (PLAN 2024)». Este nodo vive bajo el nombre del Plan 1985, que es el del plan trazado en el nodo padre; el nombre del Plan 2024 es igual de real y queda registrado.",
+    "catedra": "«A» — la letra está impresa en la portada, en las dos líneas del título («HISTORIA DE LOS SISTEMAS POLÍTICOS “A”», «HISTORIA DEL PENSAMIENTO POLÍTICO “A”»). El programa NO usa en ninguna otra parte la fórmula «cátedra A»: la palabra «cátedra» aparece 8 veces en el PDF —una en la fundamentación referida a esta materia («La cátedra prestará atención fundamental al desarrollo de estrategias didácticas»), seis en asientos de bibliografía («material de cátedra», «Ficha de cátedra» ×3, «Traducción de cátedra», y la editorial madrileña Cátedra en el asiento de Dante) y una dentro del texto reglamentario de la REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)—.",
+    "equipoDocente": [
+      "PASINO, ALEJANDRA GABRIELA (PROFESOR/A · firma «Alejandra Pasino / Cargo: Adjunta a cargo»)",
+      "LAVIE, CLAUDIA (Jefa de Trabajos Prácticos Regular)",
+      "ROMERO, ANA LEONOR (Jefa de Trabajos Prácticos Interina)",
+      "GALLIANO, ALEJANDRO (Ayudante de Primera Regular)",
+      "GONZÁLEZ, MARTÍN (Ayudante de Primera Interino)",
+      "REY, MARIA PAULA (Ayudante de Primera Interina, en uso de licencia)",
+      "VICTORERO, NAHUEL (Ayudante de Primera Interino)"
+    ],
+    "notaAlEquipoDocente": "el programa remite con nota al pie: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "modalidad": "PRESENCIAL, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias para el Ciclo Lectivo 2026). El programa reproduce el texto reglamentario: las materias de grado pueden optar por dictar hasta un 30% de sus clases en modalidad virtual, y las que tengan más de 350 estudiantes inscriptos/as y no cuenten con estructura de cátedra para desdoblar las teóricas deben dictarlas en forma virtual. El programa NO declara qué porcentaje adopta esta materia: remite a la página web de la carrera.",
+    "correlatividades": "el programa no imprime ninguna — la cadena «correlativ» no aparece en ninguna parte del PDF",
+    "ubicacionEnElPlan": "Ciclo de Grado · Materias Generales, electiva «2 de 4» — dato del esquema del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna ciclo, área, orientación ni carácter obligatorio/electivo. La fundamentación dice solo «tomando en cuenta la ubicación de la asignatura en el plan de estudios vigente», sin decir cuál es.",
+    "unidades": 8,
+    "bibliografia": 68,
+    "asientosBibliograficos": 105
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-sistemas-politicos",
+      "label": "Historia de los Sistemas Políticos"
+    }
+  ],
+  "eyebrow": "Historia · Plan 1985 · cátedra «A» · Pasino · 1º cuatrim. 2026",
+  "title": "Una sola palabra —democracia— atravesando veinticinco siglos.",
+  "lede": "El pensamiento político leído en el contexto histórico donde se formuló, y no como una galería de doctrinas. Se entra por el método —de la vieja historia de las ideas a las historias de conceptos, discursos y lenguajes políticos, con sus problemáticas de contexto lingüístico, económico-social, cultural y de recepción— y recién después por los textos: la democracia ateniense y la crítica de Platón y Aristóteles, la Roma de la monarquía, la república y el imperio, el gobierno mixto y los ciclos de Polibio, el republicanismo ciceroniano. Sigue el medioevo de los dos poderes, el impacto de Aristóteles en el siglo XIII, los conflictos entre Papado e Imperio y las ciudades-repúblicas italianas donde nacen el autogobierno y la libertad, con Maquiavelo en el centro: virtù y fortuna en El Príncipe, libertad, República y corrupción en los Discursos. Después las tres tradiciones que fabrican lo moderno: la británica del iusnaturalismo —Hobbes y la preeminencia estatal, Locke contra Filmer, la Ilustración escocesa de Hume y Smith, el utilitarismo de Mill y Bentham—; la norteamericana de la ruptura del pacto colonial, el debate entre república y democracia, la invención del federalismo y la representación, con Tocqueville al final; y la francesa de 1789 a 1848, con Siéyès, Robespierre y la democracia como destino de la revolución. Cierra donde el eje se vuelve presente: el momento revolucionario hispanoamericano y la discusión sobre las ideas fuera de lugar, y la tensión entre libertad e igualdad en el liberalismo, la democracia y el socialismo, hasta las nuevas derechas y el neoliberalismo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "8",
+      "small": "1º cuatrim. 2026"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Cátedra",
+      "v": "«A»",
+      "small": "Pasino"
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE LOS SISTEMAS POLÍTICOS “A” (PLAN 1985) / HISTORIA DEL PENSAMIENTO POLÍTICO “A” (PLAN 2024), Departamento de Historia (FFyL-UBA), cód. 0405 /14004, Prof. Alejandra Gabriela Pasino, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (11 páginas, capa de texto nativa, extraído entero), salvo la ubicación en el plan, que se declara como dato cruzado, y la existencia de la cátedra «B», que se verificó por lectura directa de su propia portada. TÍTULO DOBLE, DOS PLANES — HECHO DE FUENTE: la portada imprime el nombre de la materia en dos líneas, una por plan: «MATERIA: HISTORIA DE LOS SISTEMAS POLÍTICOS “A” (PLAN 1985)» y «HISTORIA DEL PENSAMIENTO POLÍTICO “A” (PLAN 2024)», con el código doble «0405 /14004». Los dos nombres están en la primera página del propio PDF y los dos son ground truth: no hay un nombre verdadero y otro aproximado. Este nodo vive bajo el nombre del Plan 1985 porque el nodo padre uba.ffyl.historia traza el Plan 1985; el nombre del Plan 2024 queda registrado, no descartado, y no se traza acá ninguna estructura del Plan 2024. SEGUNDA PORTADA, DIFERENTE DE LA PRIMERA: la página 2 repite la carátula y ahí las dos líneas del título se imprimen SIN la letra «A» («HISTORIA DE LOS SISTEMAS POLÍTICOS (PLAN 1985)» / «HISTORIA DEL PENSAMIENTO POLÍTICO (PLAN 2024)»); además la línea del departamento sale truncada, «DEPARTAMENTO DE» sin nada después, mientras la página 1 imprime «DEPARTAMENTO: HISTORIA». El truncamiento se verificó como erratum del original y no como artefacto de extracción: pdftotext -layout sobre la página 2 devuelve la misma línea incompleta. La página 2 agrega dos datos que la página 1 no trae: «CARGA HORARIA: 96 HORAS» y el equipo docente. DOS CÁTEDRAS PUBLICAN, SELECCIÓN CONTADA EN LAS DOS DIRECCIONES: para el código 0405/14004 hay DOS programas 2026 publicados en historia.filo.uba.ar. Se dibuja 1 de 2 —la cátedra «A», Pasino, 1º cuatrimestre 2026, régimen EF, la fuente de todo este nodo— y NO se dibuja 1 de 2: el programa de la cátedra «B», 2º cuatrimestre 2026, régimen PD. La portada del programa «B» se verificó de primera mano acá (curl + pdftotext -l 1) y dice, literalmente: «MATERIA: HISTORIA DE LOS SISTEMAS POLÍTICOS “B” (PLAN 1985) / HISTORIA DEL PENSAMIENTO POLÍTICO “B” (PLAN 2024)», «RÉGIMEN DE PROMOCIÓN: PD», «PROFESOR: DEPARTAMENTO DE HISTORIA», «2º CUATRIMESTRE 2026». Es decir: esa portada SÍ nombra la cátedra por letra —«B»—, pero NO nombra profesor/a: en el campo PROFESOR imprime el nombre del departamento. Acá no se le atribuye ningún/a docente: el listado del Departamento publica una atribución que este relevamiento no logró verificar (la página de programas y horarios del sitio no sirve la tabla en su HTML estático, comprobado por curl), y una atribución no verificada no se imprime como hecho. Queda dicho lo que la portada «B» dice y lo que le falta. DATO CRUZADO, DECLARADO: el encuadre de la materia dentro de la carrera —Ciclo de Grado, Materias Generales, electiva «2 de 4»— viene del esquema del Plan 1985 tal como está asentado en el nodo padre uba.ffyl.historia, NO de este programa, que no consigna ciclo, área, orientación ni carácter obligatorio/electivo. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en ninguna parte del texto); resolución de aprobación del programa; el porcentaje concreto de virtualidad que adopta la materia (el PDF reproduce el marco de la REDEC y remite a la web de la carrera); y la cantidad de horas semanales efectivas (solo el mínimo y el máximo reglamentarios). No hay firma de director de departamento al pie: el documento cierra con «Firma / Aclaración / Alejandra Pasino / Cargo: Adjunta a cargo». NORMATIVA CITADA POR EL PROGRAMA: REDEC-2024-2526-UBA-DCT#FFYL (modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen con examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). CONTRADICCIONES Y DESAJUSTES REGISTRADOS, NO RESUELTOS. (1) La letra de cátedra «A» figura en la portada de la página 1 y desaparece en la de la página 2. (2) La línea «DEPARTAMENTO DE» de la página 2 queda sin completar. (3) El apartado se titula «b. Objetivos:» y adentro los objetivos se enumeran de nuevo desde «a.» hasta «f.», de modo que hay un «a.» dentro del «b.». (4) Los objetivos anuncian materia que las unidades de contenido no nombran literalmente: el objetivo f. promete abordar «las Monarquías Absolutas y Constitucionales», y ninguna unidad usa esas palabras. (5) La estructura de la bibliografía no es uniforme: cinco unidades traen bloque «Fuentes» (2, 3, 4, 5 y 6) y tres no lo traen (1, 7 y 8). (6) El volumen colectivo de Dunn se cita con cuatro títulos distintos a lo largo del programa: «Democracia. El viaje inacabado (508 a.C –1993 d.C)» (U2), «Democracia…, op. Cit.» (U3), «Democracia, un viaje inacabado, op. Cit.» (U5) y «Democracia… op. Cit.» (U8); se dibuja una sola vez, con el título completo tal como se imprime la primera vez. (7) El mismo libro de Botana se asienta dos veces con el pie editorial en orden distinto: «Buenos Aires, Sudamericana, 1984» (Cap. 1) y «Sudamericana, Buenos Aires, 1984» (Cap. 2). (8) El apellido de Elías Palti se imprime «Palti, Elías» en las unidades 1 y 7 y «Palti, José Elías» en la obligatoria de la unidad 7, en asientos contiguos. (9) Joaquín Abellán aparece «Abellan» sin tilde en las unidades 4, 5 y 8, y «Abellán» con tilde una sola vez en todo el programa, en las obras generales; Fernando Vallespín aparece «Vallespin» sin tilde en cuatro asientos y «Vallespín» con tilde en otros cuatro, repartido parejo. (10) Dos ediciones distintas del mismo texto de Locke conviven sin que el programa lo señale: «Segundo Tratado sobre el Gobierno Civil, Barcelona, Planeta, 1996» (fuente de la U4) y «Segundo Tratado sobre el Gobierno Civil. Madrid, Tecnos, 1990» (estudio preliminar de Laslett, complementaria de la U4); se dibujan las dos, por separado. (11) Y con el mismo pie editorial —Barcelona, Planeta, 1996— el programa asienta dos títulos distintos, «Dos ensayos sobre el gobierno civil» (introducción de Abellán, obligatoria U4) y «Segundo Tratado sobre el Gobierno Civil» (fuente U4): el programa no declara si son el mismo volumen, y acá no se decide: se dibujan los dos tal como están impresos. ERRATAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «la historia el pensamiento político» sin el «de» (fundamentación); «Movimientos antiseñorailes» (U3); «J.Mill» sin espacio (U4); el encabezado «Bibliografía Completmentaria» (U5); «en la antiguo Grecia» en el título de Hornblower (U2); «El republicanismo de Ciceron» sin tilde (U2); el asiento de Skinner, Maquiavelo cierra sin paréntesis, «(tercera edición / primera edición 1984»; «Madrid, Técnos, 2002» en Pocock (U3); «Capitan Swing» sin tilde (U4); «Randon House» por Random House en Wood (U5); «Máréchal, Sylvain» por Maréchal (U6); «The Cambridge History of eigtheenth century political thougth» (U6); «Quintín Skinner» por Quentin en Bocardo Crespo (obras generales); «Bignotto Newton y Adverse Helton (editores)» y «Santos, Francisco J. Andrés» con el orden nombre/apellido invertido; «Hornblower, Simón» y «Furet, Francois» castellanizado y sin cedilla; el asiento de Rosanvallon en la U6 abre comillas en «democracia» y no las cierra antes de «en Estudios Políticos»; «Gallego, Julián… Prólogo, Introducción, Cap. 2» y «Pani, Erika… 2016 Capítulos 1 y 2» sin punto entre el año y los capítulos. Ninguna se corrige. SELECCIÓN DE BIBLIOGRAFÍA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: el apartado d. lista 105 asientos, repartidos en 38 de bibliografía obligatoria (U1: 5 · U2: 6 · U3: 5 · U4: 4 · U5: 8 · U6: 3 · U7: 4 · U8: 3), 14 de Fuentes (U2: 4 · U3: 4 · U4: 2 · U5: 2 · U6: 2; las unidades 1, 7 y 8 no traen bloque de Fuentes), 44 de bibliografía complementaria (U1: 8 · U2: 3 · U3: 8 · U4: 5 · U5: 9 · U6: 3 · U7: 3 · U8: 5) y 9 de «Obras generales de consulta». Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, prólogo, introducción o entrada dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—. NO se dibujan los 15 asientos que no nombran ningún volumen con pie editorial, y quedan declarados uno por uno: siete artículos de revista —Fernández Sebastián en Anales núm. 7-8 (oblig. U1), Rabasa Gamboa en En-clave del Pensamiento vol. 5 núm. 9 (oblig. U1), Fernández Sebastián/Fuentes en Araucaria (compl. U1), Fernández Sebastián en Historia y Política núm. 16 (compl. U1), Fernández Sebastián en Revista de Libros núm. 125 (compl. U1), Rivera García en DOXA 29 (oblig. U2) y Rosanvallon en Estudios Políticos Nº 28 (oblig. U6)—; cuatro materiales de cátedra sin volumen propio —Galliano, «Guía de trabajo: Historia Conceptual» (2017, oblig. U1); Rey, «El pensamiento político medieval: apuntes para su estudio» (ficha de cátedra 2024, compl. U3); Lavie, «El pensamiento político de Thomas Hobbes» (Ficha de Cátedra, Opfyl, 2007, oblig. U4); Galliano, «Las concepciones clásica y moderna de libertad en el siglo XVIII: Rousseau, Montesquieu y Smith según Natalio Botana» (ficha de cátedra 2024, oblig. U5)—; y cuatro fuentes clásicas citadas por libro y pasaje pero sin ninguna edición —Aristóteles, Política; Platón, La República; Cicerón, La República, Libro I (Selección); y el Discurso fúnebre de Pericles (431 a.C.), las cuatro en las Fuentes de la U2—. Quedan 90 asientos con volumen, que al unificar los repetidos dan 68 libros, y 68 son los que se dibujan. Los repetidos, con su cuenta: La ilusión republicana de Villaverde Rico en 7 asientos; Historia de la Teoría Política 1 de Vallespín y Libertad para el pueblo de Dunn y Democracia. El viaje inacabado de Dunn en 4 cada uno; Historia de la Teoría Política 3 en 3; y en 2 cada uno La teoría de las formas de gobierno de Bobbio, Los fundamentos del pensamiento político moderno T. I de Skinner, La invención del pueblo de Morgan, La Tradición Republicana de Botana y Capitalismo caníbal de Fraser —22 colapsos en total, 90 − 22 = 68—. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen con pie editorial del programa queda fuera. Ningún asiento se descartó por ilegible.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · programa de la cátedra «A» (Pasino, 1º cuatrim. 2026)",
+      "title": "Del método a las nuevas derechas",
+      "note": "Las ocho unidades numeradas del apartado c. Contenidos, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en ocho unidades",
+        "tree": "HISTORIA DE LOS SISTEMAS POLÍTICOS “A” (PLAN 1985)\nHISTORIA DEL PENSAMIENTO POLÍTICO “A” (PLAN 2024)\ncód. 0405 /14004 · Pasino · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ 1 · Aspectos teórico-metodológicos\n│      de la historia de ideas a las historias de conceptos,\n│      discursos y lenguajes · contexto y recepción\n├─ 2 · La política en el mundo clásico\n│      democracia ateniense · Platón y Aristóteles\n│      Roma: monarquía, república, imperio\n│      gobierno mixto y ciclos en Polibio · Cicerón\n├─ 3 · Medieval y Renacimiento\n│      poder temporal y espiritual · Aristóteles en el siglo XIII\n│      Papado e Imperio · ciudades-repúblicas italianas\n│      Maquiavelo: virtù y fortuna · libertad y corrupción\n├─ 4 · Tradición política británica (s. XVII – ppios. s. XIX)\n│      iusnaturalismo · Hobbes · Locke y la polémica con Filmer\n│      Ilustración escocesa: Hume y Smith · Mill y Bentham\n├─ 5 · Revolución Norteamericana\n│      virtud e interés: Montesquieu, Rousseau, Smith\n│      ruptura del pacto colonial · república vs. democracia\n│      representación y federalismo · Tocqueville\n├─ 6 · Tradición política francesa\n│      1789-1848 · Siéyès · Robespierre\n│      igualdad y egoísmo · soberanía del pueblo y sufragio\n├─ 7 · Pensamiento político hispanoamericano\n│      primer liberalismo español · independencias\n│      Revoluciones Hispánicas y sus críticos\n│      ideas fuera de lugar · el concepto de revolución\n└─ 8 · Liberalismo, democracia y socialismo\n       libertad vs. igualdad · ¿por qué la democracia?\n       nuevas derechas y neoliberalismo",
+        "foot": "Este es el recorrido de la cátedra «A». Para el mismo código 0405/14004 el Departamento publica un segundo programa 2026, el de la cátedra «B» (2º cuatrimestre, régimen PD), que no se traza acá."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u1-aspectos-teorico-metodologicos",
+          "name": "Aspectos teórico-metodológicos",
+          "role": "Unidad 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u2-la-politica-en-el-mundo-clasico",
+          "name": "La política en el mundo clásico",
+          "role": "Unidad 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u3-pensamiento-politico-medieval-y-del-renacimiento",
+          "name": "Pensamiento político medieval y del Renacimiento",
+          "role": "Unidad 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u4-tradicion-politica-britanica",
+          "name": "Tradición política británica. (Siglo XVII a principios del siglo XIX)",
+          "role": "Unidad 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u5-revolucion-norteamericana",
+          "name": "Revolución Norteamericana",
+          "role": "Unidad 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u6-tradicion-politica-francesa",
+          "name": "Tradición política francesa",
+          "role": "Unidad 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u7-pensamiento-politico-hispanoamericano",
+          "name": "Pensamiento político hispanoamericano · El momento revolucionario",
+          "role": "Unidad 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.u8-liberalismo-democracia-y-socialismo",
+          "name": "Liberalismo, democracia y socialismo. La tensión entre libertad e igualdad",
+          "role": "Unidad 8",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria, fuentes, complementaria y obras generales",
+      "title": "Lo que se lee",
+      "note": "Los 68 volúmenes con pie editorial del apartado d., de sus 105 asientos. Un capítulo, prólogo, introducción o entrada en obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 15 asientos sin volumen —siete artículos de revista, cuatro materiales de cátedra y cuatro fuentes clásicas citadas sin edición—: quedan declarados uno por uno en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-vallespin-historia-teoria-politica-1",
+          "name": "Historia de la Teoría Política 1 — Fernando Vallespín (ed.) (Madrid, Alianza, 2002) · Vallespín, «Aspectos metodológicos en la Historia de la Teoría Política» (oblig. U1); Javier Arce, «Roma» (oblig. U2); Carlos García Gual, «La Grecia antigua» (compl. U2); Andrés Barcala Muñoz, «La Edad Media» (compl. U3)",
+          "role": "obligatoria · U1 y U2 · + complementaria U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-brauer-la-historia-desde-la-teoria-2",
+          "name": "La historia desde la teoría, Vol. 2 — Daniel Brauer (editor) (Buenos Aires, Prometeo, 2009) · Elías Palti, «Historia político-intelectual. Las nuevas tendencias en la historia político-intelectual»",
+          "role": "obligatoria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bignotto-adverse-skinner-el-arte-de-leer",
+          "name": "Quentin Skinner. El arte de leer — Bignotto Newton y Adverse Helton (editores) [así impreso, con el orden nombre/apellido invertido] (Buenos Aires, katz/eudeba, 2018)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-palti-giro-linguistico",
+          "name": "Giro Lingüístico e Historia intelectual — Elías Palti (Buenos Aires, UNQUI, 1998)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-pocock-pensamiento-politico-e-historia",
+          "name": "Pensamiento político e historia. Ensayos sobre teoría y método — J.G.A. Pocock (Madrid, Akal, 2009) · Caps. I, VII y VIII",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-rosanvallon-historia-conceptual-de-lo-politico",
+          "name": "Por una historia conceptual de lo político — Pierre Rosanvallon (México-Argentina, Fondo de Cultura Económica, 2002)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-skinner-el-nacimiento-del-estado",
+          "name": "El nacimiento del Estado — Quentin Skinner (Buenos Aires, Gorla, 2003)",
+          "role": "complementaria · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bobbio-formas-de-gobierno",
+          "name": "La teoría de las formas de gobierno en la historia del pensamiento político — Norberto Bobbio (México, Fondo de Cultura Económica, 1991) · Presentación y capítulos «Platón», «Aristóteles» y «Polibio» (U2); cap. «Maquiavelo» (U3)",
+          "role": "obligatoria · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-dunn-libertad-para-el-pueblo",
+          "name": "Libertad para el pueblo. Historia de la democracia — John Dunn (México, Fondo de Cultura Económica, 2014) · «El primer advenimiento de la Democracia» (U2); «El segundo advenimiento de la Democracia», primera parte (U5); «El segundo advenimiento de la Democracia» y «La larga sombra de Termidor» (U6); Tercera parte (U8)",
+          "role": "obligatoria · U2, U5, U6 y U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-gallego-democracia-en-tiempos-de-tragedia",
+          "name": "La democracia en tiempos de tragedia. Asamblea ateniense y subjetividad política — Julián Gallego (Buenos Aires, Miño y Dávila, 2003) · Prólogo, Introducción, Cap. 2",
+          "role": "obligatoria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-dunn-democracia-el-viaje-inacabado",
+          "name": "Democracia. El viaje inacabado (508 a.C –1993 d.C) — J. Dunn (ed.) (Barcelona, Tusquets, 1995) · Simón Hornblower, «Creación y desarrollo de las instituciones democráticas en la antiguo Grecia» [así impreso] (oblig. U2); Quentin Skinner, «Las ciudades-repúblicas italianas» (oblig. U3); Gordon S. Wood, «La democracia y la Revolución americana» (oblig. U5, ahí el volumen se imprime «Democracia, un viaje inacabado»); Charles S. Maier, «La democracia desde la Revolución Francesa» (compl. U8)",
+          "role": "obligatoria · U2, U3 y U5 · + complementaria U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-santos-roma-instituciones-e-ideologias",
+          "name": "Roma. Instituciones e ideologías políticas durante la República y el Imperio — Francisco J. Andrés Santos [impreso «Santos, Francisco J. Andrés»] (Madrid, Tecnos, 2015) · Introducción y Cap. III «La Res Pública como constitución mixta»",
+          "role": "complementaria · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-villaverde-la-ilusion-republicana",
+          "name": "La ilusión republicana. Ideales y mitos — María José Villaverde Rico (Madrid, Tecnos, 2008) · Caps. II y III (compl. U2); Cap. IV (compl. U3); Cap. V (compl. U4); Cap. VII y Cap. VI, en dos asientos separados (compl. U5); Segunda Parte (compl. U8); y de nuevo entre las Obras generales de consulta — siete asientos en total, el volumen más citado del programa",
+          "role": "complementaria · U2, U3, U4, U5 y U8 · + obras generales",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-skinner-fundamentos-tomo-1",
+          "name": "Los fundamentos del Pensamiento Político Moderno, Tomo I — Quentin Skinner (México, Fondo de Cultura Económica, 1985) · «El ideal de Libertad» (oblig. U3); Prólogo y Capítulos 5 y 6 (compl. U3)",
+          "role": "obligatoria · U3 · + complementaria U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-skinner-maquiavelo",
+          "name": "Maquiavelo — Quentin Skinner (Madrid, Alianza, 2020) · el asiento se imprime «2020 (tercera edición / primera edición 1984», con el paréntesis sin cerrar",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-ullmann-escritos-teoria-politica-medieval",
+          "name": "Escritos sobre teoría política medieval — Walter Ullmann (Buenos Aires, Eudeba, 2003) · «La Bula Unam sanctam: visión retrospectiva y prospectiva»",
+          "role": "obligatoria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bula-unam-sanctam-cuadernillo-21",
+          "name": "Bula Unam Sanctam — reproducción del cuadernillo No. 21 de «Historia Social. Textos para la enseñanza de la Historia», publicado por la Facultad de Filosofía y Letras, 1960",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-dante-monarchia",
+          "name": "Monarchia [Sobre la monarquía universal] — Dante Alighieri, edición bilingüe de Raffaele Pinto (Madrid, Cátedra, 2021) · Libro III, selección",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-maquiavelo-el-principe",
+          "name": "El Príncipe — Nicolás Maquiavelo (Buenos Aires, Losada, 2013) · Capítulos I, XII; XVIII Y XXV",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-maquiavelo-discursos-tito-livio",
+          "name": "Los discursos de la primera década de Tito Livio — Nicolás Maquiavelo (Buenos Aires, Losada, 2004) · Libro primero, capítulos II, IV, VI, XI, XLIII y LV; Libro segundo, capítulos I y II",
+          "role": "fuente · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-ullmann-pensamiento-politico-edad-media",
+          "name": "Historia del Pensamiento Político en la Edad Media — Walter Ullmann (Barcelona, Ariel, 1983)",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-scattola-teologia-politica",
+          "name": "Teología Política. Léxico de político — Merio Scattola (Buenos Aires, Nueva Visión, 2008) · Caps. 1, 2 y 3",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-pocock-el-momento-maquiavelico",
+          "name": "El Momento Maquiavélico. El pensamiento político florentino y la tradición republicana atlántica — J.G.A. Pocock (Madrid, Técnos [así impreso], 2002) · «La restauración de los Médicis, Il Príncipe de Maquiavelo»; «Roma y Venecia Los Discorsi y El Arte Della Guerra de Maquiavelo»",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-rinesi-politica-y-tragedia",
+          "name": "Política y Tragedia. Hamlet, entre Hobbes y Maquiavelo — Eduardo Rinesi (Buenos Aires, Colihue, 2003) · Cap. 1",
+          "role": "complementaria · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-locke-dos-ensayos-planeta",
+          "name": "Dos ensayos sobre el gobierno civil — John Locke (Barcelona, Planeta, 1996) · «Introducción» de Joaquín Abellan [así impreso, sin tilde] · mismo pie editorial que la fuente «Segundo Tratado sobre el Gobierno Civil» de esta misma unidad, sin que el programa declare si son el mismo volumen",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-vallespin-historia-teoria-politica-3",
+          "name": "Historia de la Teoría Política 3 — Fernando Vallespín (Madrid, Alianza, 2002) · Josep Maria Colomer, «Ilustración y Liberalismo en Gran Bretaña: J. Locke, D. Hume, los economistas clásicos, los utilitaristas» (oblig. U4); Helena Béjar, «Alexis de Tocqueville: la democracia como destino» (oblig. U5); Iring Fetscher, «La Ilustración en Francia: la enciclopedia, Montesquieu, Rousseau» (compl. U5, ahí el volumen se imprime «Historia de la Teoría Política, T. 3»)",
+          "role": "obligatoria · U4 y U5 · + complementaria U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-tenenti-de-las-revueltas-a-las-revoluciones",
+          "name": "De las revueltas a las revoluciones — Alberto Tenenti (Barcelona, Crítica, 1999) · Cap. 6 y conclusiones",
+          "role": "obligatoria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-hobbes-leviathan",
+          "name": "Leviathán o de La materia, forma y poder de un estado eclesiástico y civil — Thomas Hobbes (México, Fondo de Cultura Económica, 1997) · Introducción, Parte I Cap. XIII y Parte II Cap. XVII",
+          "role": "fuente · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-locke-segundo-tratado-planeta",
+          "name": "Segundo Tratado sobre el Gobierno Civil — John Locke (Barcelona, Planeta, 1996) · Cap. 1,1; Cap. II 4, 6, 7, 8, 13; Cap. VII 87,88",
+          "role": "fuente · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-locke-segundo-tratado-tecnos",
+          "name": "Segundo Tratado sobre el Gobierno Civil — John Locke (Madrid, Tecnos, 1990) · «Estudio Preliminar» de Peter Laslett · edición distinta de la usada como fuente de esta misma unidad (Planeta, 1996); el programa no señala la duplicación",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-los-debates-de-putney",
+          "name": "Los debates de Putney — (Madrid, Capitan Swing [así impreso], 2010) · Samuel Glower, «Los debates de Putney: el republicanismo popular frente al republicanismo elitista» (el programa anota «original en Past & Present, 64, 1999»)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-morgan-la-invencion-del-pueblo",
+          "name": "La invención del pueblo. El surgimiento de la soberanía popular en Inglaterra y Estados Unidos — Edmund Morgan (Buenos Aires, Siglo XXI, 2006) · Segunda Parte (compl. U4); Tercera Parte (compl. U5)",
+          "role": "complementaria · U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-skinner-la-libertad-antes-del-liberalismo",
+          "name": "La libertad antes del liberalismo — Quentin Skinner (México, Taurus/Cide, 2004)",
+          "role": "complementaria · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-botana-la-tradicion-republicana",
+          "name": "La Tradición Republicana — Natalio Botana (Buenos Aires, Sudamericana, 1984; el programa anota «existen otras ediciones») · Cap. 1 y Cap. 2, en dos asientos cuyo pie editorial se imprime en orden distinto («Buenos Aires, Sudamericana, 1984» y «Sudamericana, Buenos Aires, 1984»)",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-aguilar-rojas-republicanismo-en-hispanoamerica",
+          "name": "El republicanismo en Hispanoamérica. Ensayos de historia intelectual y política — José Antonio Aguilar y Rafael Rojas (coordinadores) (México, Fondo de Cultura Económica, 2002) · Bernard Manin, «Montesquieu, la República y el Comercio»",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-pani-historia-minima-estados-unidos",
+          "name": "Historia mínima de Estados Unidos de América — Erika Pani (México, El Colegio de México, 2016) · Capítulos 1 y 2",
+          "role": "obligatoria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-el-federalista",
+          "name": "El Federalista — Hamilton, J. Madison y J. Jay (México, Fondo de Cultura Económica, 1994) · Selección",
+          "role": "fuente · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-tocqueville-la-democracia-en-america",
+          "name": "La democracia en América — Alexis Tocqueville (México, Fondo de Cultura Económica, 2000) · Selección",
+          "role": "fuente · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-vallespin-historia-teoria-politica-2",
+          "name": "Historia de la Teoría Política, T. 2 — Fernando Vallespín (Madrid, Alianza, 2002) · Joaquín Abellan [así impreso], «El vínculo entre tradición y mundo moderno. Las teorías políticas de Derecho natural: 1600-1750»",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-botana-la-libertad-politica-y-su-historia",
+          "name": "La libertad política y su historia — Natalio Botana (Buenos Aires, Edhasa, 2022; el programa anota «existe una edición anterior de editorial Sudamericana»)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bailyn-origenes-ideologicos",
+          "name": "Los orígenes ideológicos de la Revolución norteamericana — Bernard Bailyn (Madrid, Tecnos, 2012) · Capítulos 1, 2, 3",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bender-historia-de-los-estados-unidos",
+          "name": "Historia de los Estados Unidos. Una Nación entre naciones — Thomas Bender (Buenos Aires, Siglo XXI, 2011)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-wood-la-revolucion-norteamericana",
+          "name": "La revolución norteamericana — Gordon S. Wood (Barcelona, Randon House [así impreso], 2003)",
+          "role": "complementaria · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-reichardt-revolucion-francesa-cultura-democratica",
+          "name": "La revolución Francesa y la cultura democrática. La sangre de la libertad — Rolf Reichardt (Madrid, Siglo XXI, 2002) · Cap. «La revolución Francesa como proceso político»",
+          "role": "obligatoria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-marechal-manifiesto-de-los-iguales",
+          "name": "Manifiesto de los Iguales — Sylvain Máréchal [así impreso] (Biblioteca Virtual Omegalfa, 2015)",
+          "role": "fuente · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-robespierre-principios-de-moral-politica",
+          "name": "Discurso Sobre Principios de Moral Política — Maximilien Robespierre (Biblioteca Virtual Omegalfa, 2013)",
+          "role": "fuente · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-goldie-cambridge-history-eighteenth-century",
+          "name": "The Cambridge History of eigtheenth century political thougth [así impreso] — M. Goldie (Cambridge, CUP, 2009) · Keith Michael Baker, «Political languages of the French Revolution», en traducción de cátedra",
+          "role": "complementaria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-salmeron-noriega-pensar-la-modernidad-politica",
+          "name": "Pensar la modernidad política. Propuestas desde la nueva historia política — Alicia Salmerón y Cecilia Noriega Elío (editoras) (México, Instituto Mora, 2016) · Keith Michael Baker, «El lenguaje de la política: el concepto de “revolución” en la revolución francesa»",
+          "role": "complementaria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-furet-revolucion-francesa-en-debate",
+          "name": "La Revolución Francesa en debate. De la utopía liberadora al desencanto en las democracias contemporáneas — Francois Furet [así impreso, sin cedilla] (Buenos Aires, Siglo XXI, 2016)",
+          "role": "complementaria · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-guerra-revoluciones-hispanicas",
+          "name": "Revoluciones hispánicas. Independencias americanas y liberalismo español — (Madrid, Editorial Complutense, 1995) · Francois Xavier Guerra, «Lógicas y ritmos de las revoluciones hispánicas»",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-palti-ideas-fuera-de-lugar",
+          "name": "¿Las ideas fuera de lugar? Estudios y debates en torno a la historia político-intelectual latinoamericana — José Elías Palti [así impreso en este asiento] (Buenos Aires, Prometeo, 2014) · Prólogo y Capítulo 1 «¿De la tradición a la modernidad? Revisionismo e historia político-conceptual de las revoluciones de independencia»",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-palti-el-tiempo-de-la-politica",
+          "name": "El tiempo de la política. El siglo XIX reconsiderado — Elías Palti (Buenos Aires, Siglo XXI, 2007) · Introducción",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-wasserman-el-mundo-en-movimiento",
+          "name": "El mundo en movimiento: el concepto de revolución en Iberoamérica y el Atlántico norte (siglos XVII-XX) — Fabio Wasserman (comp.) (Buenos Aires, Miño y Dávila, 2019) · Fabio Wasserman, «Entre el mito de orígenes y la caja de Pandora: el concepto de revolución en el discurso político rioplatense (1780-1850)»",
+          "role": "obligatoria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-palti-mito-y-realidad",
+          "name": "Mito y realidad de la «cultura política latinoamericana» — Elías Palti (Buenos Aires, Prometeo, 2010) · Joao Feres, «La historia de un contraconcepto: Latin America en Estados Unidos»",
+          "role": "complementaria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-entin-rousseau-en-iberoamerica",
+          "name": "Rousseau en Iberoamérica. Lecturas e interpretaciones entre Monarquía y Revolución — Gabriel Entin (editor) (Buenos Aires, SB ediciones, 2018) · Jorge Myers, «El teórico de la libertad natural del hombre en el laberinto de la revolución americana»",
+          "role": "complementaria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-sabato-republicas-del-nuevo-mundo",
+          "name": "Repúblicas del Nuevo Mundo. El experimento político latinoamericano del siglo XIX — Hilda Sabato (Buenos Aires, Taurus, 2021)",
+          "role": "complementaria · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bobbio-liberalismo-y-democracia",
+          "name": "Liberalismo y Democracia — Norberto Bobbio (México, Fondo de Cultura Económica, 1992)",
+          "role": "obligatoria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-fraser-capitalismo-canibal",
+          "name": "Capitalismo caníbal. Qué hacer con este sistema que devora la democracia y el planeta, y hasta pone en peligro su propia existencia — Nancy Fraser (Buenos Aires, Siglo XXI, 2023) · «Faenar la democracia por qué la crisis política es la carne roja del capital» y «Alimento para la reflexión: ¿cuál debería ser el significado del socialismo en el siglo XXI?» (oblig. U8; el segundo título abre comillas y no las cierra); el volumen entero reaparece en la complementaria de la misma unidad",
+          "role": "obligatoria · U8 · + complementaria U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-abellan-democracia",
+          "name": "Democracia — Joaquín Abellan [así impreso, sin tilde] (Madrid, Alianza, 2011)",
+          "role": "complementaria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-stefanoni-la-rebeldia-se-volvio-de-derecha",
+          "name": "¿La rebeldía se volvió de derecha? Cómo el antiprogresismo y la anticorrección política están construyendo un nuevo sentido común (y por qué la izquierda debería tomarse en serio) — Pablo Stefanoni (Buenos Aires, Siglo XXI, 2021)",
+          "role": "complementaria · U8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-abellan-politica-conceptos-fundamentales",
+          "name": "Política. Conceptos políticos fundamentales — Joaquín Abellán (Madrid, Alianza, 2012)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bobbio-matteucci-diccionario-de-politica",
+          "name": "Diccionario de Política — N. Bobbio y N. Matteucci (dir.), 2 t. (Siglo XXI, México, 1997)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-bocardo-el-giro-contextual",
+          "name": "El giro contextual. Cinco ensayos de Quintín Skinner, y seis comentarios [así impreso, «Quintín» por Quentin] — E. Bocardo Crespo (editor) (Madrid, Tecnos, 2007)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-dosse-la-marcha-de-las-ideas",
+          "name": "La marcha de las ideas. Historia de los intelectuales, historia intelectual — F. Dosse (Universitat de Valencia, 2007)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-hampsher-monk-historia-pensamiento-politico-moderno",
+          "name": "Historia del pensamiento político moderno. Los principales pensadores políticos de Hobbes a Marx — I. Hampsher-Monk (Barcelona, Ariel, 1996)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-manent-curso-de-filosofia-politica",
+          "name": "Curso de Filosofía Política — Pierre Manent (México, Fondo de Cultura Económica, 2003)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-sabine-historia-de-la-teoria-politica",
+          "name": "Historia de la teoría política — G. Sabine (México, Fondo de Cultura Económica; el programa no consigna año, anota «varias ediciones»)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-sistemas-politicos.libro-ory-nueva-historia-ideas-politicas",
+          "name": "Nueva Historia de las ideas políticas — P. Ory (Madrid, Mondadori, 1992)",
+          "role": "obras generales de consulta",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS SISTEMAS POLÍTICOS “A” (PLAN 1985) / HISTORIA DEL PENSAMIENTO POLÍTICO “A” (PLAN 2024), cód. 0405 /14004, Prof. Alejandra Gabriela Pasino, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0405_14004%20-%20HISTORIA%20SISTEMAS%20POLITICOS%20A%20-%20HISTORIA%20PENSAMIENTO%20POLITICO%20A%20-%20PASINO%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de la cátedra “A”, cód. 0405 /14004, Prof. Alejandra Gabriela Pasino, 1º cuatrimestre 2026 — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo (11 páginas, extracto local extract/out/historia-sistemas-politicos-pasino-2026.txt)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0405_14004%20-%20HISTORIA%20SISTEMAS%20POLITICOS%20A%20-%20HISTORIA%20PENSAMIENTO%20POLITICO%20A%20-%20PASINO%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de la cátedra “B”, mismo código, 2º cuatrimestre 2026, régimen PD — NO trazado; se leyó únicamente su portada (13 páginas) para declarar la selección: imprime «HISTORIA DE LOS SISTEMAS POLÍTICOS “B” (PLAN 1985)», «HISTORIA DEL PENSAMIENTO POLÍTICO “B” (PLAN 2024)» y, en el campo de profesor/a, «PROFESOR: DEPARTAMENTO DE HISTORIA» — es decir, nombra la cátedra por letra y no nombra docente",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/[0405%20-%2014004]%20-%20HISTORIA%20DE%20LOS%20SISTEMAS%20POL%C3%8DTICOS_HISTORIA%20DEL%20PENSAMIENTO%20POL%C3%8DTICO%20-%20B%20-%202C%202026.pdf"
+    },
+    {
+      "label": "academica.filo.uba.ar · Esquema del Plan de Estudios 1985 de Historia (HI - Plan.pdf) — consultado a través del nodo padre uba.ffyl.historia para el encuadre de la materia en el Ciclo de Grado como electiva «2 de 4»; NO es fuente de ningún contenido de este programa",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "address": "uba.ffyl.historia.sociologia-para-historiadores",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "tituloDual": "el programa lleva DOS nombres impresos en un solo campo MATERIA de la portada, quebrado en dos líneas por maquetación: «SOCIOLOGÍA PARA HISTORIADORES (PLAN 1985) / HISTORIA DEL PENSAMIENTO SOCIOLÓGICO (PLAN 2024)». El encabezado interior lo repite con la variante «(PLAN DE ESTUDIOS 1985)» / «(PLAN DE ESTUDIOS 2024)». Los dos nombres son fuente: este nodo vive bajo el del Plan 1985, que es el plan del nodo padre",
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF — régimen de promoción con EXAMEN FINAL, establecido en el Reglamento Académico Res. (CD) Nº 4428/17 · regularidad: 75% de asistencia a trabajos prácticos y 2 instancias de evaluación parcial aprobadas con mínimo de 4 puntos (arts. 39º y 40º) · UN (1) recuperatorio · vigencia de la regularidad: 4 años y 3 mesas examinadoras",
+    "cargaHoraria": "96 HORAS (la pauta transcripta agrega: mínimo de 6 y máximo de 10 horas semanales de dictado de clases)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "«CÓDIGO Nº: 0408 /14006», así impreso, en una sola línea y con el espacio antes de la barra; el programa NO declara cuál de los dos códigos corresponde a cuál de los dos planes, y acá no se le asigna",
+    "catedra": "el programa no designa cátedra por letra, número ni titular. La palabra «cátedra» aparece 3 veces en el PDF, ninguna como denominación: dos en créditos de traducción de la bibliografía («trad. de la cátedra» en Durkheim, «Curso de ciencia social – Clase inaugural»; «Traducción al español de la cátedra» en Wright, «La sombra de la explotación…») y una dentro de la transcripción textual de la REDEC («…no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»)",
+    "profesores": "CONTRADICCIÓN IMPRESA: la portada consigna un solo profesor —«PROFESOR/A: PIVA, ADRIÁN»— y el encabezado interior consigna dos —«PROFESOR: PIVA, ADRIÁN» y «PROFESOR: SAZBÓN, DANIEL BERNARDO»—. El documento va firmado por uno solo: «Aclaración: Adrián Piva / Cargo: Profesor Adjunto regular»",
+    "equipoDocente": [
+      "PIVA, ADRIÁN (profesor · firma como Profesor Adjunto regular)",
+      "SAZBÓN, DANIEL BERNARDO (profesor · solo en el encabezado interior)",
+      "BELMES, PAULA MURIEL (jefa de trabajos prácticos)",
+      "CANESSA, JULIO (jefe de trabajos prácticos)",
+      "PABLO NOCERA (ayudante de 1ª)",
+      "TEO SALVARREY (ayudante de 1ª)",
+      "NATASHA CAUCHI (ayudante de 1ª)"
+    ],
+    "notaAlEquipoDocente": "el programa imprime al pie de la lista: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente», sin decir quiénes de los listados son interinos/as",
+    "modalidad": "«La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El apartado d. transcribe la pauta general —hasta un 30% de las clases en modalidad virtual; teóricas virtuales para materias con más de 350 inscriptos/as sin estructura de cátedra que permita desdoblarlas— pero NO declara qué porcentaje de virtualidad adopta esta materia: remite a la página web de la carrera",
+    "ubicacionEnElPlan": "dato del nodo padre uba.ffyl.historia, NO del programa: Ciclo de Grado, Materias Generales, electiva «2 de 4». Este PDF no consigna ciclo, área, orientación ni correlatividades",
+    "correlatividades": "el programa no imprime ninguna: la cadena «correlativ» no aparece en el texto",
+    "unidades": 4,
+    "bibliografia": 49,
+    "firmaDelDocumento": "Adrián Piva, Profesor Adjunto regular — el PDF no lleva firma del Director del Departamento de Historia"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.sociologia-para-historiadores",
+      "label": "Sociología (para Historiadores)"
+    }
+  ],
+  "eyebrow": "Historia · Sociología (para Historiadores) · Piva · 1º cuatrim. 2026",
+  "title": "Tres clásicos, y un intento de volver a coser sociología e historia.",
+  "lede": "Sociología leída desde la carrera de Historia: un conjunto de conocimientos básicos sobre la constitución y evolución de la disciplina, con el énfasis puesto en los modos de articulación entre teoría, objeto y método. Tres unidades recorren las obras principales de Karl Marx, Emile Durkheim y Max Weber —del trabajo alienado al fetichismo de la mercancía, la teoría del valor y el problema de la objetividad social; del racionalismo experimental y las representaciones colectivas a la conciencia colectiva, la anomia, lo sacro y lo profano; de la acción social con sentido y los tipos ideales a los tipos de dominación tradicional, burocrática y carismática y al proceso de racionalización y su especificidad en Occidente—. La cuarta abre los debates contemporáneos sobre sociedad/individuo y estructura/sujeto y se detiene en Norbert Elias: su crítica a las teorías clásicas, el concepto de configuración como categoría de síntesis, los procesos sicogenéticos y sociogenéticos, y la concepción del proceso civilizatorio como surgimiento de unidades monopólicas de poder —la violencia y la recaudación fiscal— del que nace el Estado moderno. Los tópicos que atraviesan todo, según la fundamentación: cambio social y orden; conflicto y consenso; modos de explotación y formas de dominación, poder y Estado; clases sociales y estratificación social; ideología e identidad; sociedad e individuo; estructura y sujeto; objetividad social, representación y significado.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "4",
+      "small": "1º cuatrim."
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Marx · Durkheim · Weber · Elias"
+    }
+  ],
+  "frame": "Contenido real del programa de SOCIOLOGÍA PARA HISTORIADORES (PLAN 1985) / HISTORIA DEL PENSAMIENTO SOCIOLÓGICO (PLAN 2024), Departamento de Historia (FFyL-UBA), «CÓDIGO Nº: 0408 /14006», Prof. Adrián Piva, 1º cuatrimestre de 2026, publicado en historia.filo.uba.ar. Extracto local: extract/out/historia-sociologia-piva-2026.txt (8 páginas, capa de texto nativa, extraídas enteras). Todo lo afirmado acá proviene de ese único PDF, salvo la ubicación en el plan, que se declara como dato cruzado. TÍTULO DUAL, LOS DOS DE FUENTE: la portada imprime en un solo campo MATERIA —quebrado en dos líneas por maquetación— «MATERIA: SOCIOLOGÍA PARA HISTORIADORES (PLAN 1985) / HISTORIA DEL PENSAMIENTO SOCIOLÓGICO (PLAN 2024)», y el encabezado interior lo repite con la variante «(PLAN DE ESTUDIOS 1985)» / «(PLAN DE ESTUDIOS 2024)». Un mismo programa cubre las dos denominaciones. Este nodo vive bajo el nombre del Plan 1985, que es el plan del nodo padre uba.ffyl.historia; el nombre del Plan 2024 queda registrado y no se descarta. CÓDIGO: el PDF imprime «0408 /14006» junto, en una sola línea, sin decir qué código corresponde a qué plan. La correspondencia parece obvia por el orden, pero el programa no la declara y acá NO se asigna ninguno de los dos a ninguno de los dos planes. CÁTEDRA: no se le atribuye denominación alguna —el programa no la nombra por letra, número ni titular—. Grepeada la palabra «cátedra», aparece exactamente 3 veces, ninguna como denominación: «trad. de la cátedra» (Durkheim, «Curso de ciencia social – Clase inaugural»), «Traducción al español de la cátedra» (Wright, «La sombra de la explotación…») y «no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas», esta última dentro de la transcripción textual de la REDEC. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) Cuántos profesores: la portada consigna uno —«PROFESOR/A: PIVA, ADRIÁN»— y el encabezado interior consigna dos —«PROFESOR: PIVA, ADRIÁN» y «PROFESOR: SAZBÓN, DANIEL BERNARDO»—; el pie lleva una sola firma, «Aclaración: Adrián Piva / Cargo: Profesor Adjunto regular». Las dos versiones están impresas y se registran juntas. (2) Numeración de las unidades: el apartado b. Contenidos trae CUATRO unidades en números romanos (Unidad I, II, III y IV) y el apartado c. Bibliografía trae CUATRO bloques en arábigos encabezados «Unidad 1», «Unidad 2», «Unidad 3» y otra vez «Unidad 3»: no existe bloque «Unidad 4». El segundo bloque «Unidad 3» reúne a Corcuff, a Norbert Elias y a Dunning, Heinich, Joas y Knöbl; de todos ellos el único que la Unidad IV de contenidos nombra es Elias —Corcuff no aparece en los contenidos—, y el programa NO declara ninguna correspondencia entre ese bloque y esa unidad: por eso el rol de cada libro cita el encabezado bibliográfico tal como está impreso —«2º bloque ‹Unidad 3›»— y no una unidad de contenido inferida. (3) Grafía del apellido de Thwaites Rey: la entrada de autora imprime «Thwaites Rey, Mabel» y el nombre del volumen contenedor se imprime dos veces «Mabel Twaytes Rey, Estado y marxismo. Un siglo y medio de debates». (4) Nombre de pila de Durkheim: «Emile Durkheim» en todas sus propias entradas, «Emilio Durkheim» en los dos prólogos de Pablo Nocera de la complementaria de la Unidad 2, «Émile Durkheim» (con tilde) en el título del artículo de Graciela Inda. (5) Nombre de Wright: autor «Wright, Erik Olin» en las dos entradas suyas, y el título del volumen de Carabaña lo imprime «un seminario en torno a Eric O. Wright». (6) «op. cit.» hacia adelante: «Rossi, Pietro, ‹Introducción› en Max Weber, Ensayos sobre metodología sociológica, op. cit.» aparece ANTES —dos líneas antes— de la única entrada que da el pie editorial completo de ese volumen (Buenos Aires, Amorrortu, 1990). (7) Grafía de los procesos de Elias: los contenidos de la Unidad IV imprimen «Procesos sicogenéticos y sociogenéticos», sin p-, y el subtítulo del libro de Elias en la complementaria imprime «Investigaciones sociogenéticas y psicogenéticas», con p-. ERRATAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.» abre un paréntesis que no cierra; «Centeno, Miguel Angel» sin tilde en «Ángel»; «numero 36» y «Mexico, D.F.» sin tildes en la entrada de Meiksins Wood; «México, Porrua» sin tilde en la de Aguilar Villanueva; la entrada de Weber, Economía y sociedad cierra con doble punto («México, FCE, 1996. .»); el título de Morcillo Laiz y Weisz se imprime «Max Weber en Iberoamérica Nuevas interpretaciones, estudios empíricos y recepción», sin puntuación entre título y subtítulo; la entrada de Rosdolsky cierra sin punto. Ninguna se corrige. DOS PARES DE ENTRADAS CORRIDAS: la complementaria de la Unidad 3 imprime en una misma línea, sin salto, «…Londres, Verso, 2015 (Traducción al español de la cátedra). Bendix, Reinhard, Max Weber, Amorrortu, Buenos Aires, 1970.», y la complementaria del 2º bloque «Unidad 3» imprime «…‹Bosquejo de una teoría de la civilización›. Heinich, Nathalie y Elias Norbert, Historia y cultura en Occidente, Buenos Aires, Nueva Visión, 1999.». En los dos casos son obras distintas de autores distintos: se cuentan y se dibujan como dos asientos cada par, y el hecho tipográfico queda anotado. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en las 8 páginas); ciclo, área u orientación dentro del plan (la única aparición de «Orientación» es el «Programa de Orientación de la SEUBE», del régimen RTARMEM); resolución de aprobación del programa; firma del Director del Departamento de Historia —firma solo el profesor—; y el porcentaje de virtualidad efectivamente adoptado, que el apartado d. remite a la página web de la carrera. Tampoco hay apartado de objetivos separado ni lista numerada de objetivos: van dentro del apartado «a. Fundamentación, descripción y objetivos», en prosa. Las únicas resoluciones citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas de modalidad de dictado, Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, régimen de promoción con examen final, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). DATO CRUZADO: la ubicación de la materia —Ciclo de Grado, Materias Generales, electiva «2 de 4»— viene del nodo padre uba.ffyl.historia (esquema oficial del Plan 1985), NO de este programa. NORMALIZACIÓN DECLARADA: las cuatro unidades del apartado b. Contenidos NO tienen título en el original —solo el encabezado «Unidad I», «Unidad II», «Unidad III», «Unidad IV» y debajo una lista de viñetas—. Los nombres con que se dibujan acá son rótulos descriptivos armados con las palabras literales de esas viñetas (los autores que cada unidad nombra y sus conceptos impresos), no títulos de la fuente. El rol de cada unidad sí es literal: «Unidad I» a «Unidad IV», en romanos, tal como están. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en los dos sentidos: el apartado c. tiene 60 asientos bibliográficos, repartidos en Unidad 1: 14 obligatorias + 8 complementarias = 22; Unidad 2: 11 + 4 = 15; Unidad 3: 10 + 5 = 15; 2º bloque «Unidad 3»: 5 + 3 = 8. Se dibuja como libro el volumen con pie editorial que contiene cada asiento —un capítulo, lección, clase, prólogo o introducción se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo—. NO se dibujan los 2 asientos cuyo contenedor es una revista: Ellen Meiksins Wood, «El concepto de clase en E. P. Thompson», Cuadernos Políticos, número 36, abril-junio 1983, pp. 87-105 (obligatoria de la Unidad 1), y Graciela Inda, «La interrogante política en Émile Durkheim…», Sociológica, año 23, número 67, mayo-agosto de 2008, pp. 109-148 (obligatoria de la Unidad 2). Quedan 58 asientos con volumen. Nueve de esos asientos repiten un volumen ya asentado y se unifican: Adorno, Introducción a la sociología (Unidad 1 Clase 4 + Unidad 3 Clase 12); Heinrich, Crítica de la economía política (obligatoria + complementaria de la Unidad 1); Giddens, Capitalismo y moderna teoría social (complementaria U1, obligatoria U2 por «op. cit.», complementaria U3 por «op. cit.» — tres asientos, dos repeticiones); Thwaites Rey (comp.), Estado y marxismo (Castillo + Thwaites Rey); Adorno, Filosofía y sociología (Lección 5 obligatoria + Lección 7 complementaria); Durkheim, El Estado y otros ensayos (el ensayo + el prólogo de Nocera); Morcillo Laiz y Weisz (eds.), Max Weber en Iberoamérica (Bruun + Centeno); Weber, Ensayos sobre metodología sociológica (la introducción de Rossi + el ensayo de Weber). 58 − 9 = 49, y 49 son los libros que se dibujan. La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen con pie editorial del programa queda fuera. LO QUE EL PROGRAMA NO DA Y NO SE COMPLETA: «Marx, Karl, Tesis sobre Feuerbach, varias ediciones.» no consigna lugar, editorial ni año —se dibuja el volumen y se declara la falta, no se le inventa edición—; «Aron, Raymond, Las etapas del pensamiento sociológico, Buenos Aires, Ediciones Siglo XX, s.d.» imprime «s.d.» en lugar del año, y se conserva así. Ningún asiento se descartó por ilegible: el PDF trae capa de texto nativa y se extrajo entero.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 4 unidades (Piva, 1º cuatrim. 2026)",
+      "title": "Marx, Durkheim, Weber — y después Elias",
+      "note": "Las cuatro unidades numeradas del apartado b. Contenidos, en el orden impreso. En el original no llevan título: solo el encabezado «Unidad I» a «Unidad IV» y una lista de viñetas. Los nombres son rótulos descriptivos armados con las palabras literales de esas viñetas; el rol es el encabezado tal cual.",
+      "map": {
+        "mk": "El programa, en cuatro unidades",
+        "tree": "SOCIOLOGÍA PARA HISTORIADORES (Plan 1985)\nHISTORIA DEL PENSAMIENTO SOCIOLÓGICO (Plan 2024)\ncód. 0408 /14006 · Piva · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ I · Karl Marx\n│      crítica de la filosofía hegeliana y de la filosofía política\n│      el trabajo alienado · fuerzas productivas y modo de producción\n│      El Capital · teoría del valor · fetichismo de la mercancía\n│      plus valor · clases y lucha de clases · Estado · ideología y ciencia\n│\n├─ II · Emile Durkheim\n│      racionalismo experimental como método\n│      representaciones colectivas · conciencia colectiva\n│      división del trabajo social · solidaridad · anomia y patología\n│      Estado, organizaciones intermedias y democracia\n│      religión y ciencia · lo sacro y lo profano\n│\n├─ III · Max Weber\n│      perspectiva comprensivista · acción social con sentido\n│      tipos ideales · comprensión y causalidad\n│      dominación tradicional, burocrática y carismática\n│      clases · Estado y burocracia · racionalización en Occidente\n│      el diagnóstico weberiano y la crisis de la modernidad\n│\n└─ IV · Norbert Elias y los debates contemporáneos\n       sociedad/individuo · estructura/sujeto\n       la crítica eliasiana a Durkheim y Weber\n       configuración como categoría de síntesis\n       procesos sicogenéticos y sociogenéticos\n       proceso civilizatorio · unidades monopólicas de poder\n       violencia y recaudación fiscal · el Estado moderno",
+        "foot": "Recorrido único: el programa no consigna cátedras alternativas. Los contenidos numeran en romanos (I–IV) y la bibliografía del mismo programa numera en arábigos y repite «Unidad 3» en lugar de abrir una «Unidad 4»: la correspondencia entre unos y otros no está declarada en el documento y acá no se infiere."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.u1-karl-marx",
+          "name": "Karl Marx · del trabajo alienado a El Capital",
+          "role": "Unidad I",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.u2-emile-durkheim",
+          "name": "Emile Durkheim · racionalismo experimental y representaciones colectivas",
+          "role": "Unidad II",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.u3-max-weber",
+          "name": "Max Weber · la perspectiva comprensivista y los tipos de dominación",
+          "role": "Unidad III",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.u4-norbert-elias-y-los-debates-contemporaneos",
+          "name": "Norbert Elias y los debates contemporáneos · el concepto de configuración",
+          "role": "Unidad IV",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y complementaria del programa",
+      "title": "Lo que se lee",
+      "note": "Los 49 volúmenes con pie editorial de los 60 asientos del apartado c., por bloque bibliográfico. Un capítulo, lección, clase, prólogo o introducción se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 2 asientos de revista (Meiksins Wood en Cuadernos Políticos, Inda en Sociológica): quedan declarados en el frame. El rol cita el encabezado bibliográfico tal como está impreso, incluido el segundo «Unidad 3». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-adorno-introduccion-a-la-sociologia",
+          "name": "Introducción a la sociología — Theodor W. Adorno (Barcelona, Gedisa, 2006) · Clase 4 (Unidad 1); Clase 12 (Unidad 3)",
+          "role": "obligatoria · Unidad 1 y Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-arico-nueve-lecciones",
+          "name": "Nueve lecciones sobre economía y política en el marxismo. Curso de El Colegio de México — José M. Aricó (Buenos Aires, FCE, 2012) · Lección primera: «la teoría de la sociedad en Marx» (Extracto)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-heinrich-critica-de-la-economia-politica",
+          "name": "Crítica de la economía política. Una introducción a El Capital de Marx — Michael Heinrich (Madrid, Escolar y Mayo editores, 2008) · Caps. X y XI (obligatoria); Caps. II, III (complementaria)",
+          "role": "obligatoria · Unidad 1 · + complementaria Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-engels-la-ideologia-alemana",
+          "name": "La Ideología Alemana — Karl Marx y Friedrich Engels (Montevideo, Pueblos Unidos, 1959) · Libro I: «Feuerbach. Oposición entre las concepciones materialista e idealista»",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-el-capital-tomo-i",
+          "name": "El Capital, tomo I — Karl Marx (México, Siglo XXI, 2003) · caps. I, IV, V, XVII y XXIV",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-el-capital-tomo-iii",
+          "name": "El Capital, tomo III — Karl Marx (México, Siglo XXI, 2003) · cap. LXVIII",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-el-dieciocho-brumario",
+          "name": "El Dieciocho Brumario de Luis Bonaparte — Karl Marx (Barcelona, Ariel, 1982)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-critica-de-la-filosofia-del-derecho-de-hegel",
+          "name": "Introducción a la Crítica de la filosofía del derecho de Hegel — Karl Marx (Buenos Aires, Ediciones nuevas, 1968)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-manuscritos-de-1844",
+          "name": "Manuscritos de 1844 — Karl Marx (Madrid, Alianza, 1968) · Primer manuscrito, título IV: «El trabajo enajenado»",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-marx-tesis-sobre-feuerbach",
+          "name": "Tesis sobre Feuerbach — Karl Marx («varias ediciones»: el programa no consigna lugar, editorial ni año)",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-rosdolsky-genesis-y-estructura-de-el-capital",
+          "name": "Génesis y estructura de El Capital de Marx — Roman Rosdolsky (México, Siglo XXI, 1989) · Cap. 3: «Karl Marx y el problema del valor de uso en la economía política»",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-rubin-ensayos-sobre-teoria-marxista-del-valor",
+          "name": "Ensayos sobre teoría marxista del valor — Isaak Ilich Rubin (México, Cuadernos de Pasado y Presente – Siglo XXI, 1987) · Primera parte, Caps. I a IV",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-carabana-desigualdad-y-clases-sociales",
+          "name": "Desigualdad y clases sociales. Un seminario en torno a Eric O. Wright [así impreso el nombre] — J. Carabaña (Ed.) (España, Fundación Argentaria / Visor, 1995) · Erik Olin Wright, «Análisis de clase»",
+          "role": "obligatoria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-artous-marx-el-estado-y-la-politica",
+          "name": "Marx, el Estado y la política — Antoine Artous (Barcelona, Sylone, 2016) · Capítulos 1 y 2",
+          "role": "complementaria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-berlin-karl-marx",
+          "name": "Karl Marx — Isaiah Berlin (Madrid, Alianza Universidad, 1998)",
+          "role": "complementaria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-thwaites-rey-estado-y-marxismo",
+          "name": "Estado y marxismo. Un siglo y medio de debates — «Mabel Twaytes Rey» [así impreso las dos veces; la entrada de autora imprime «Thwaites Rey, Mabel»] (Buenos Aires, Prometeo, 2007) · José Ernesto Castillo, «La genealogía del estado en Marx»; Mabel Thwaites Rey, «Complejidades de una paradoja polémica: estructuralismo vs. instrumentalismo»",
+          "role": "complementaria · Unidad 1 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-giddens-capitalismo-y-moderna-teoria-social",
+          "name": "Capitalismo y moderna teoría social — Anthony Giddens (Barcelona, Labor, 1994) · Parte I: «Marx» (complementaria U1); Parte II: «Durkheim» (obligatoria U2, citada «op. cit.»); Parte III: «Weber» (complementaria U3, citada «op. cit.»)",
+          "role": "complementaria · Unidad 1 · + obligatoria Unidad 2 · + complementaria Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-ricoeur-ideologia-y-utopia",
+          "name": "Ideología y utopía — Paul Ricoeur (México, FCE, 1980) · cap. sobre «La Ideología Alemana» y «Manuscritos económico-filosóficos»",
+          "role": "complementaria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-rubel-karl-marx-biografia-intelectual",
+          "name": "Karl Marx. Ensayo de biografía intelectual — Maximilian Rubel (Buenos Aires, Paidós, 1970) · parte II, cap. V: «Sociología histórica»",
+          "role": "complementaria · Unidad 1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-adorno-filosofia-y-sociologia",
+          "name": "Filosofía y sociología — Theodor W. Adorno (Buenos Aires, Eterna Cadencia, 2015) · Lección 5 (obligatoria); Lección 7 (complementaria)",
+          "role": "obligatoria · Unidad 2 · + complementaria Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-el-estado-y-otros-ensayos",
+          "name": "El Estado y otros ensayos — Emile Durkheim (Buenos Aires, Eudeba, 2012) · «El Estado» (obligatoria); Pablo Nocera, «De la autoridad de la razón a la razón de la autoridad. Durkheim y la encrucijada de la política entre la ciencia y la religión», Prólogo (complementaria, que imprime «Emilio Durkheim»)",
+          "role": "obligatoria · Unidad 2 · + complementaria Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-lecciones-de-sociologia",
+          "name": "Lecciones de sociología. Física de las costumbres y del derecho y otros escritos sobre el individualismo, los intelectuales y la democracia — Emile Durkheim (Buenos Aires, Miño y Dávila, 2003) · Lecciones cuarta a novena",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-la-science-sociale-et-laction",
+          "name": "La science sociale et l'action — Emile Durkheim (París, Presses Universitaires de France, 1970) · «Curso de ciencia social – Clase inaugural», en traducción de la cátedra",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-el-suicidio",
+          "name": "El suicidio. Estudio de sociología — Emile Durkheim (Buenos Aires, Schapire, 1965) · Libro II: «Causas sociales y tipos sociales», caps. 2 al 5; Libro III: «Del suicidio como fenómeno social en general», capítulo 1",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-la-division-del-trabajo-social",
+          "name": "La división del trabajo social — Emile Durkheim (Buenos Aires, Schapire, 1963) · «Prefacio a la segunda edición», «Introducción: el Problema», Libro I: «La función de la división social del trabajo», caps. 1 al 3; Libro II: «Las causas y las condiciones», caps. 2 y 3; Libro III: «Las formas anormales», caps. 1 al 3; Conclusión",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-las-formas-elementales",
+          "name": "Las formas elementales de la vida religiosa — Emile Durkheim (Madrid, Alianza Editorial, 1993) · «Introducción» y «Conclusión»",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-las-reglas-del-metodo-sociologico",
+          "name": "Las reglas del método sociológico — Emile Durkheim (Buenos Aires, Schapire, 1963)",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-parsons-la-estructura-de-la-accion-social",
+          "name": "La estructura de la acción social. Estudio de teoría social con referencia a un grupo de recientes escritores europeos — Talcott Parsons (Madrid, Guadarrama, 1968) · Capítulo XI",
+          "role": "obligatoria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-lukes-emile-durkheim-su-vida-y-su-obra",
+          "name": "Emile Durkheim. Su vida y su obra — Steven Lukes (Madrid, Siglo XXI, 1984)",
+          "role": "complementaria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-durkheim-sociologia-y-ciencias-sociales",
+          "name": "Sociología y ciencias sociales — «Emilio Durkheim» [así impreso] (Buenos Aires, Imago mundi, 2016) · Pablo Nocera, «La sociología como propedéutica de las ciencias sociales. Durkheim y los caminos de una nueva ciencia del hombre más allá de la tutela filosófica.», Prólogo",
+          "role": "complementaria · Unidad 2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-morcillo-weisz-max-weber-en-iberoamerica",
+          "name": "Max Weber en Iberoamérica Nuevas interpretaciones, estudios empíricos y recepción [así impreso, sin puntuación entre título y subtítulo] — Álvaro Morcillo Laiz y Eduardo Weisz (eds.) (México, FCE, 2015) · Hans Henrik Bruun, «La metodología de Max Weber»; Miguel Angel Centeno [así impreso, sin tilde], «Max Weber y el Estado latinoamericano» (citado «op. cit.»)",
+          "role": "obligatoria · Unidad 3 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-ensayos-sobre-metodologia-sociologica",
+          "name": "Ensayos sobre metodología sociológica — Max Weber (Buenos Aires, Amorrortu, 1990) · Pietro Rossi, «Introducción» (asentado antes del pie completo, con «op. cit.»); Max Weber, «La ‘objetividad’ cognoscitiva de la ciencia social y de la política social» (1904)",
+          "role": "obligatoria · Unidad 3 (dos asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-la-etica-protestante",
+          "name": "La ética protestante y el espíritu del capitalismo — Max Weber (Barcelona, Península, 1969)",
+          "role": "obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-el-politico-y-el-cientifico",
+          "name": "El político y el científico — Max Weber (Madrid, Alianza, 1969) · «La política como vocación» y «La ciencia como vocación»",
+          "role": "obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-conceptos-sociologicos-fundamentales",
+          "name": "Conceptos sociológicos fundamentales — Max Weber (Madrid, Alianza, 2006), pp. 65-181",
+          "role": "obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-economia-y-sociedad",
+          "name": "Economía y sociedad — Max Weber (México, FCE, 1996) · IV «Estamentos y clases» y IX «La institución estatal racional y los partidos políticos y parlamentos modernos (Sociología del Estado)»",
+          "role": "obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-weber-sociologia-del-poder",
+          "name": "Sociología del poder. Los tipos de dominación — Max Weber (Madrid, Alianza, 2007), pp. 59-138",
+          "role": "obligatoria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-aguilar-villanueva-weber-la-idea-de-ciencia-social",
+          "name": "Weber. La idea de ciencia social — L. Aguilar Villanueva (México, Porrua [así impreso, sin tilde], 1989) · Vol 2, Capítulo 4, Apartado 3",
+          "role": "complementaria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-aron-las-etapas-del-pensamiento-sociologico",
+          "name": "Las etapas del pensamiento sociológico — Raymond Aron (Buenos Aires, Ediciones Siglo XX, «s.d.»: el programa no consigna año) · cap.: «Max Weber»",
+          "role": "complementaria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-wright-understanding-class",
+          "name": "Understanding Class — Erik Olin Wright (Londres, Verso, 2015) · «La sombra de la explotación en el análisis de clase de Weber», en traducción al español de la cátedra",
+          "role": "complementaria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-bendix-max-weber",
+          "name": "Max Weber — Reinhard Bendix (Buenos Aires, Amorrortu, 1970) · impreso a continuación de la entrada de Wright, en la misma línea y sin salto",
+          "role": "complementaria · Unidad 3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-corcuff-las-nuevas-sociologias",
+          "name": "Las nuevas sociologías. Principales corrientes y debates 1980 – 2010 — Philippe Corcuff (Buenos Aires, Siglo XXI, 2013) · Cap. 1 «De las estructuras sociales a las interacciones»",
+          "role": "obligatoria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-elias-la-sociedad-de-los-individuos",
+          "name": "La sociedad de los individuos — Norbert Elias (Barcelona, Península, 1990) · «La sociedad de los individuos» (1939)",
+          "role": "obligatoria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-elias-dunning-deporte-y-ocio",
+          "name": "Deporte y ocio en el proceso de la civilización — Norbert Elias y Eric Dunning (México, FCE, 1995) · «La búsqueda de la emoción en el ocio» y «Un ensayo sobre el deporte y la violencia»",
+          "role": "obligatoria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-elias-la-sociedad-cortesana",
+          "name": "La sociedad cortesana — Norbert Elias (México, FCE, 1982) · caps. II, IV, V y IX",
+          "role": "obligatoria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-elias-mozart-sociologia-de-un-genio",
+          "name": "Mozart. Sociología de un genio — Norbert Elias (Barcelona, Península, 1991) · «Músicos burgueses en la sociedad cortesana» y «Arte de artesano y arte de artista», pp. 19-37 y 51-59",
+          "role": "obligatoria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-elias-el-proceso-civilizatorio",
+          "name": "El proceso civilizatorio. Investigaciones sociogenéticas y psicogenéticas — Norbert Elias (México, FCE, 1987) · «Bosquejo de una teoría de la civilización»",
+          "role": "complementaria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-heinich-elias-historia-y-cultura-en-occidente",
+          "name": "Historia y cultura en Occidente — Nathalie Heinich y Norbert Elias [impreso «Heinich, Nathalie y Elias Norbert»] (Buenos Aires, Nueva Visión, 1999) · impreso a continuación de la entrada de Elias, en la misma línea y sin salto",
+          "role": "complementaria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.sociologia-para-historiadores.libro-joas-knobl-teoria-social",
+          "name": "Teoría social, veinte lecciones introductorias — Hans Joas y Wolfgang Knöbl (Madrid, Akal, 2016) · «Lección segunda: El intento clásico de síntesis: Talcott Parsons»",
+          "role": "complementaria · 2º bloque «Unidad 3»",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de SOCIOLOGÍA PARA HISTORIADORES (Plan 1985) / HISTORIA DEL PENSAMIENTO SOCIOLÓGICO (Plan 2024), cód. 0408 /14006, Prof. Adrián Piva, 1º cuatrimestre 2026 · extracto local en extract/out/historia-sociologia-piva-2026.txt",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0408_14006%20-%20SOCIOLOG%C3%8DA%20PARA%20HISTORIADORES_HISTORIA%20DEL%20PENSAMIENTO%20SOCIOL%C3%93GICO%20-%20PIVA%20-%201C%202026.pdf"
+  }
+}

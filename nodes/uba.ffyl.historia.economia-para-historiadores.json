@@ -1,0 +1,500 @@
+{
+  "address": "uba.ffyl.historia.economia-para-historiadores",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: EF (examen final), Reglamento Académico Res. (CD) Nº 4428/17 · 2 instancias de evaluación parcial y 1 recuperatorio · 75% de asistencia a trabajos prácticos",
+    "cargaHoraria": "96 HORAS (4 horas de clases teóricas + 2 horas de clases prácticas)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0407 - 14005",
+    "tituloDelPrograma": "DIFERENTES CORRIENTES DEL PENSAMIENTO ECONÓMICO. HISTORIA Y TEORÍA",
+    "nombreDoble": "el PDF imprime dos nombres para la misma materia, uno por plan: «ECONOMÍA PARA HISTORIADORES (Plan 1985)» y «HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024)». Los dos son fuente. Este nodo vive bajo el nombre del Plan 1985, que es el plan del nodo padre",
+    "catedra": "el programa no designa cátedra por letra, número ni nombre: consigna «PROFESOR: EDUARDO GLAVICH». La palabra «cátedra» aparece 4 veces en el PDF: 3 en el mismo asiento repetido («Ficha de Cátedra, OPFyL, 1998, Traducción: J. Fabris») y 1 en el texto reglamentario de la REDEC («estructura de cátedra»)",
+    "modalidad": "presencial, ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL (Ciclo Lectivo 2026) · la norma permite hasta un 30% de clases en modalidad virtual y obliga a virtualizar las teóricas con más de 350 inscriptos/as sin estructura para desdoblarlas; el programa transcribe la norma pero no declara el porcentaje que adopta",
+    "equipoDocente": [
+      "GLAVICH, EDUARDO (PROFESOR · a cargo interinamente · PROFESOR ADJUNTO A CARGO INTERINO AD HONOREM · (JTP REGULAR SEMIEXCLUSIVA) · firma «Jefe de Trabajos Prácticos Regular. (Profesor Adjunto a cargo interino ad honorem)»)",
+      "SARTELLI, EDUARDO (JTP REGULAR PARCIAL)",
+      "BONNET, ALBERTO (AYTE. 1ERA. REGULAR PARCIAL · (JTP INTERINO))",
+      "MÍGUEZ, PABLO (AYTE. 1ERA. REGULAR PARCIAL)",
+      "DACHEVSKY, FERNANDO (AYTE. 1ERA. REGULAR PARCIAL)",
+      "DUARTE, DANIEL (AYTE. 1ERA. REGULAR PARCIAL)"
+    ],
+    "correlatividades": "el programa no imprime ninguna (la cadena «correlativ» no aparece en el PDF)",
+    "rolEnElPlan": "Ciclo de Grado · Materias Generales · electiva (se eligen dos entre cuatro materias de otras disciplinas) — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa, que no consigna ciclo, área ni carácter",
+    "unidades": 15,
+    "unidadesTeoricas": 10,
+    "comisionesDePracticos": 5,
+    "asientosBibliograficos": 154,
+    "bibliografia": 39,
+    "firmaDelDocumento": "Eduardo Glavich. Jefe de Trabajos Prácticos Regular. (Profesor Adjunto a cargo interino ad honorem)."
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.economia-para-historiadores",
+      "label": "Economía (para Historiadores)"
+    }
+  ],
+  "eyebrow": "Historia · Economía (para Historiadores) · Glavich · 1º cuatrim. 2026",
+  "title": "La economía no se enseña como una ciencia, sino como una pelea entre paradigmas.",
+  "lede": "El objetivo declarado es «brindar un panorama de los principales temas-problemas de discusión teórica en la economía»: una ciencia social que, desde la Revolución científica del siglo XVII, se constituye en la controversia entre paradigmas —la economía política clásica, las críticas marxistas, las perspectivas ortodoxo-marginalistas y las visiones heterodoxas—. La materia se abre en dos: primero los cuatro paradigmas, uno por uno; después las controversias entre ellos ante cinco problemas clásicos —proceso de trabajo, cambio tecnológico, ciclos y ondas largas, crisis, planificación y mercado—. Dos de las cuatro horas de teórico se van enteras en una tercera cosa: la lectura e interpretación colectiva, en clase, de los Prólogos, los Epílogos y los primeros cinco capítulos de El capital de Marx. La prioridad es teórica, pero la ejemplificación busca «la mayor conexión posible con cuestiones de interés en la historiografía». Abajo, cinco comisiones de prácticos con sub-programas propios: Bonnet y Míguez siguen el programa general; Dachevsky entra por Smith, Ricardo y Clarke; Duarte recorre doce clases del mercantilismo al cibercomunismo; y Sartelli arma nueve clases con título propio que van de la teoría del valor trabajo a Milei, la Iglesia, el pachamamismo y el Plan Pinedo.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · EF"
+    },
+    {
+      "k": "Unidades",
+      "v": "15",
+      "small": "10 teóricas + 5 prácticos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Glavich"
+    }
+  ],
+  "frame": "Contenido real del programa de ECONOMÍA PARA HISTORIADORES (Plan 1985) / HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024), Departamento de Historia (FFyL-UBA), CÓDIGO Nº 0407 - 14005, Prof. Eduardo Glavich, 1º cuatrimestre de 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (13 páginas, con capa de texto, extraído entero). NOMBRE DOBLE, LAS DOS PARTES SON FUENTE: la portada imprime «MATERIA: ECONOMÍA PARA HISTORIADORES (Plan 1985)» y, en la línea siguiente, «HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024)»; la segunda página repite las dos con barra: «MATERIA: ECONOMÍA PARA HISTORIADORES (Plan 1985) / HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024)». El código, en cambio, se imprime como una sola cadena idéntica en las dos páginas, «0407 - 14005»: el programa nunca dice que una de sus dos partes corresponda a cada plan, y acá no se infiere. Un mismo programa sirve a dos planes bajo dos nombres: los dos son ciertos y los dos quedan registrados. Este nodo vive bajo el nombre del Plan 1985, que es el plan del nodo padre uba.ffyl.historia; el nombre del Plan 2024 no se le atribuye a ese plan más allá de lo que el propio PDF imprime, y el Plan 2024 no está trazado en este atlas. TÍTULO DEL PROGRAMA: «DIFERENTES CORRIENTES DEL PENSAMIENTO ECONÓMICO. HISTORIA Y TEORÍA». CÁTEDRA: el programa no designa cátedra por letra, número ni nombre. La palabra «cátedra» aparece cuatro veces en el PDF: tres en el mismo asiento bibliográfico repetido («Ficha de Cátedra, OPFyL, 1998, Traducción: J. Fabris», en las teóricas y en los prácticos de Bonnet y de Míguez) y una en el texto reglamentario de la REDEC («…no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas…»). No se le atribuye ninguna denominación. EQUIPO DOCENTE Y SU CONTRADICCIÓN DE CARGO, REGISTRADA: la portada imprime «PROFESOR: EDUARDO GLAVICH»; la segunda página, «PROFESOR (A cargo interinamente): EDUARDO GLAVICH / PROFESOR ADJUNTO A CARGO INTERINO AD HONOREM / (JTP REGULAR SEMIEXCLUSIVA)»; y el pie del documento va firmado «Eduardo Glavich. / Jefe de Trabajos Prácticos Regular. / (Profesor Adjunto a cargo interino ad honorem).». Tres formulaciones del mismo cargo, impresas las tres. En el equipo docente, «AYTE. 1ERA. REGULAR PARCIAL: ALBERTO BONNET (JTP INTERINO)» lleva a la vez un cargo y otro entre paréntesis. Una nota al pie aclara: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente». Las cinco comisiones de prácticos corresponden exactamente a los cinco nombres del equipo docente (Sartelli, Bonnet, Míguez, Dachevsky, Duarte): eso sí cierra. ESTRUCTURA DIBUJADA, contada: el programa lettea sus secciones de a pares —«A, B. Fundamentación, descripción y objetivos» y «C, D. Contenidos y Bibliografía obligatoria»—, y la sección C se parte en «C.a) CLASES TEÓRICAS» y «C.b) CLASES PRÁCTICAS». Las teóricas traen tres Partes: la Parte I con los Temas 1 a 4, la Parte II con los Temas 5 a 9, y la Parte III, que no tiene temas numerados sino un solo bloque de lectura. Se dibujan los 9 Temas más la Parte III = 10 unidades. Las prácticas traen cinco sub-programas, uno por comisión, cada uno con contenidos y bibliografía propios: se dibujan los 5. Total: 15 unidades dibujadas sobre 15 unidades de contenido impresas. No hay ninguna otra unidad en el documento: no se dibujan como unidades ni los sub-temas internos de cada práctico ni las clases numeradas de Duarte y de Sartelli, que quedan resumidos en el nombre de cada comisión y citados como rol en cada libro. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: CORRELATIVIDADES (la cadena «correlativ» no aparece en ninguna parte del PDF, verificado por grep); bibliografía complementaria como sección (la cadena «complementari» aparece una sola vez, y es en el texto de la REDEC, «pautas complementarias»; el único sub-bloque no obligatorio del documento es el que Duarte rotula seis veces «(Recomendada – No obligatoria)»); ciclo, área ni orientación dentro del plan; resolución de aprobación del programa; y objetivos numerados —la sección «A, B» es un bloque de prosa continua que abre «El objetivo de la materia es brindar un panorama de los principales temas-problemas de discusión teórica en la economía» y no lista objetivos uno por uno—. CURSADA, tal como está impresa: 96 horas cuatrimestrales, 4 horas de clases teóricas y 2 de prácticas. De las 4 horas de teórico, 2 desarrollan el panorama general de las Partes I y II y las otras 2 la lectura colectiva de El capital de la Parte III. RÉGIMEN DE PROMOCIÓN: EF (examen final), con regularidad por 75% de asistencia a prácticos y 2 instancias de evaluación parcial con mínimo de 4 puntos, UN (1) recuperatorio, y vigencia de la regularidad de 4 años / 3 mesas. MODALIDAD: presencial, ajustada a REDEC-2024-2526-UBA-DCT#FFYL, que permite hasta un 30% de clases en modalidad virtual y obliga a dictar las teóricas en forma virtual a las materias con más de 350 inscriptos/as que no puedan desdoblarlas; el programa transcribe la norma pero NO declara qué porcentaje adopta esta materia: eso no se completa. NORMATIVA CITADA: REDEC-2024-2526-UBA-DCT#FFYL, Res. (CD) Nº 4428/17 (Reglamento Académico) y Res. (CD) Nº 1117/10 (RTARMEM). CONTRADICCIONES Y ERRATAS REGISTRADAS, NO RESUELTAS. (1) Un mismo título con tres autores: «Napoleoni, N., El pensamiento económico en el siglo XX, Barcelona, Oikos-Tau, 1982, cap. III» (teóricas T4, Bonnet T4, Míguez T4); «Schumpeter, N. (1964) El pensamiento económico del siglo XX. Barcelona: Ediciones de occidente. Cap. III» (Duarte, Clase 6, obligatoria); «Napoleoni, C. (1964) El pensamiento económico en el siglo XX. Barcelona: Ediciones de Occidente. Cap. VII» (Duarte, Clase 9, recomendada). Difieren el apellido, la inicial, la preposición del título, la editorial, el año y el capítulo. (2) «David, R. (1976). Principios de economía política y tributación. Fondo de Cultura Económica. Mexico»: el apellido y el nombre de pila de David Ricardo van invertidos, y la prosa del práctico de Sartelli sí lo nombra «Ricardo» en el descriptor de su Clase 1. (3) «Rand, Aynd: ‹La ética objetivista›, en La virtud del egoísmo» (Sartelli C4). (4) «Munk, Ronaldo: Marxismo y desarrollo, Prometeo» (Sartelli C6). (5) El pie editorial de Ediciones RyR se imprime «Buenos Aires: CEICS Ediciones RyR» en Duarte y «Ediciones ryr» en Sartelli. (6) El título de Mandel, Nove y Elson lleva barra («mercado/planificación») en las teóricas, en Dachevsky y en Duarte, y guion («mercado-planificación») en Sartelli, que además no consigna el año. (7) La obra de Adam Smith se cita «Riqueza de las naciones (1776). Madrid: Alianza» en Dachevsky e «Investigación sobre la riqueza de las naciones», sin pie editorial y sólo con URL, en Sartelli. (8) La entrada de crisis de Astarita cambia según la comisión: las teóricas citan «Seis crisis de la economía mundial» (blog, 2024) y Bonnet y Míguez citan «Coronavirus y crisis capitalista» (blog, 2021). (9) El asiento «Astarita, R., ‹Seis crisis de la economía mundial›, de J. Tapia y explicaciones marxistas de las crisis.» deja ambigua la atribución tal como está impreso. (10) «Javier Milei sobre y el aborto (y el nazismo)» (Sartelli C4), con el «sobre y el» tal cual. (11) La cita del Reglamento abre paréntesis y no lo cierra: «Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.». (12) El asiento de Aglietta 1979 imprime el año dos veces: «Aglietta, M. (1979) Regulación y crisis del capitalismo… S.XXI, 1979». (13) La numeración de los Temas no coincide entre las teóricas y los prácticos: «Crisis» es el Tema 8 de las teóricas, el Tema 7 de Bonnet y de Míguez («Teorías de las crisis») y el Tema 8 de Duarte («Teorías de las crisis»); «Planificación y mercado» es el Tema 9 de las teóricas y el Tema 8 de Dachevsky («Planificación»). (14) Duarte reimprime el encabezado «Parte II: Controversias…» antes de su Tema 5, pero nunca imprime un encabezado «Parte I» en su sub-programa. (15) Los sub-programas de Bonnet y de Míguez son idénticos entre sí, tema por tema y asiento por asiento, incluidas las dos notas de parcial; el documento no lo advierte. (16) El título del volumen de Martínez se imprime «Ciencia, Tecnología y Desarrollo» en las teóricas, en Bonnet, en Míguez y en Duarte, y «Ciencia, tecnología y desarrollo» en Dachevsky, que además agrega pp. 221-257. (17) La revista de Katz y de López se imprime «Buenos Aires. Pensamiento Económico» en casi todas las comisiones y «Pensamiento Económico, n° 1, otoño. Buenos Aires» en Duarte. (18) La segunda página imprime «DEPARTAMENTO DE» y deja la línea sin completar, mientras la portada imprime «DEPARTAMENTO: HISTORIA». (19) Rubin aparece en tres asientos que no son el mismo volumen: «A History of Economic Thought, Londres, Pluto Press, 1989, c. 40» (teóricas, Bonnet, Míguez), «Historia del pensamiento económico. Madrid: Maia ediciones, 2011, Vol III» (Duarte C2) e «Historia del pensamiento económico. Un breve repaso al curso» de 1924, sólo en marxists.org (Duarte C1, recomendada); se dibujan los dos primeros y no el tercero, y el programa no declara ninguna relación entre ellos. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en los dos sentidos. El programa lista 154 asientos bibliográficos en total: 23 en las teóricas (T1: 2 · T2: 1 · T3: 1 · T4: 2 · T5: 3 · T6: 3 · T7: 3 · T8: 5 · T9: 2 · Parte III: 1), 20 en el práctico de Bonnet, 20 en el de Dachevsky, 34 en el de Duarte (24 obligatorias y 10 «Recomendada – No obligatoria»), 20 en el de Míguez y 37 en el de Sartelli. REGLA APLICADA: se dibuja como libro el volumen que el programa LOCALIZA EN EL PIE EDITORIAL —editorial, con o sin lugar y año—; un capítulo, prólogo, introducción o sección se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos o en varias comisiones se unifica en un solo nodo. NO se dibujan los asientos cuyo único lugar de publicación es una revista, un blog, una página web, un repositorio o un video, ni los que nombran un volumen sin darle ningún pie editorial. Bajo esa regla, 96 de los 154 asientos nombran un volumen con pie editorial y, unificados, dan 39 volúmenes distintos: esos 39 son los que se dibujan. Los 58 asientos restantes NO se dibujan y se declaran acá: de las teóricas, Smith (Sociología del Trabajo), Coriat (Estudios del trabajo), López y Katz (Buenos Aires. Pensamiento Económico), McDonough (Cuadernos del Sur), Astarita «Seis crisis de la economía mundial» (blog) y Astarita «La crisis en la Unión Soviética» (Realidad Económica) —7—; de Bonnet, los mismos cinco de revista más Astarita «Coronavirus y crisis capitalista» (blog) —6—; de Míguez, los mismos seis —6—; de Dachevsky, Smith, Coriat, Katz, López y McDonough —5—; de Duarte, Popescu (Revista de Economía y Estadística), Rubin 1924 (marxists.org), Katz, Brenner y Glick (New Left Review), Jiménez-Barrera (Problemas del desarrollo), McDonough, la entrevista «Ciber-comunismo» a Paul Cockshott firmada «Anónimo» (marxismocritico.com) y la carta de Krasni Soldat (cibcom.org) —8—; y de Sartelli, veintiséis: Rodríguez Braun «Estudio preliminar» y Smith «Teoría de los sentimientos morales» (el programa no le da pie editorial a ese volumen: la única mención de Alianza está dentro de la URL) y Smith «Investigación sobre la riqueza de las naciones» (C1); Marx «Prólogo a la Contribución a la crítica de la economía política», Marx «El dieciocho brumario de Luis Bonaparte» y Pérez Soto «Sobre la relación entre Hegel y Marx» (C2); Vergara Estévez, Hayek «Individualismo: el verdadero y el falso», el video de YouTube de Javier Milei, Salerno sobre Rothbard «Hombre, Economía y Estado» y Rand «La ética objetivista» en «La virtud del egoísmo» —los dos últimos nombran volúmenes reales pero el programa no les imprime pie editorial— (C4); Stiglitz y Charlton, De Roover, Moreno, Francisco «El Papa Francisco viste de ‹Comercio Justo›» y la encíclica Fratelli Tutti (C5); López Castellano, Agosto, Chacón y Murray Más (C6); Kohan, Che Guevara, Lenin y Cockshott y Cottrell (C7); Cardoso y Vilas (C8). La regla se aplica en los dos sentidos: nada de lo excluido aparece como libro, y ningún volumen con pie editorial del programa queda fuera. Ningún asiento se descartó por ilegible. REPARTO DE LOS 39 VOLÚMENES POR COMISIÓN (un mismo volumen cuenta en cada comisión que lo pide): teóricas 16, Bonnet 14, Dachevsky 15 asientos sobre 13 volúmenes, Duarte 26 asientos sobre 18 volúmenes, Míguez 14, Sartelli 11 asientos sobre 10 volúmenes. Seis volúmenes nuevos entran por Dachevsky, nueve por Duarte y ocho por Sartelli; Bonnet y Míguez no aportan ninguno que no esté ya en las teóricas. NORMALIZACIONES DECLARADAS: (a) el volumen «El pensamiento económico en el siglo XX» se dibuja UNA vez, por identidad de obra —no de título, que también varía: «en el siglo XX» y «del siglo XX»—, aunque el programa lo imprima con tres autores, dos editoriales y dos años; las tres impresiones quedan escritas en el nombre del nodo y ninguna se corrige. (b) «El capital» se dibuja una vez: las teóricas lo asientan con pie editorial (México, Siglo XXI, «Varias ediciones») y Dachevsky lo cita sin él. (c) «Riqueza de las naciones» se dibuja una vez, con el pie editorial que le da Dachevsky; la cita de Sartelli, con otro título y sin pie editorial, queda anotada en el nombre. (d) En los nombres se conservan tal cual el autor, el título, el lugar, la editorial, el año y los capítulos impresos, incluidas las mayúsculas irregulares («Las Ondas Largas del desarrollo Capitalista»), y sólo se restituye en silencio el espaciado que dejó la maquetación del PDF.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "C.a) Clases Teóricas · programa general «Diferentes corrientes del pensamiento económico. Historia y teoría»",
+      "title": "Cuatro paradigmas, cinco controversias y El capital leído en voz alta",
+      "note": "Las tres Partes de las clases teóricas: los Temas 1 a 4 de la Parte I, los Temas 5 a 9 de la Parte II y el bloque único de la Parte III, en el orden impreso.",
+      "map": {
+        "mk": "El programa, en dos niveles",
+        "tree": "ECONOMÍA PARA HISTORIADORES (Plan 1985)\nHISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024)\ncód. 0407 - 14005 · Glavich · 1º cuatrim. 2026 · 96 hs · EF\n│\n├─ TEÓRICAS (4 hs) — «Diferentes corrientes del pensamiento económico. Historia y teoría»\n│  │\n│  ├─ Parte I · Paradigmas económicos fundamentales\n│  │    1 · La economía como disciplina científica en la modernidad y la economía política clásica\n│  │    2 · Las críticas marxianas de la economía política\n│  │    3 · Las perspectivas ortodoxo-marginalistas\n│  │    4 · Las heterodoxias keynesiana y schumpeteriana\n│  │\n│  ├─ Parte II · Controversias entre los paradigmas ante problemas económicos clásicos\n│  │    5 · Proceso de trabajo        6 · Cambio tecnológico\n│  │    7 · Ciclos, ondas y etapas    8 · Crisis\n│  │    9 · Planificación y mercado\n│  │\n│  └─ Parte III · Lectura colectiva, en clase, de los Prólogos, Epílogos\n│       y los primeros 5 capítulos de El capital de Marx\n│\n└─ PRÁCTICAS (2 hs) — cada comisión con sub-programa propio\n     1 · Bonnet     · 7 temas, 2 parciales\n     2 · Dachevsky  · PARTE 1 y PARTE 2, 8 temas\n     3 · Duarte     · 9 temas en 12 clases, con bibliografía recomendada aparte\n     4 · Míguez     · 7 temas, 2 parciales — idéntico al de Bonnet\n     5 · Sartelli   · 9 clases con título propio, fuera de la numeración general\n                      «Primer parcial» entre la Clase 4 y la Clase 5",
+        "foot": "Un solo recorrido teórico: el programa no consigna cátedras alternativas. La variación real está abajo, en los cinco sub-programas de práctico, que el propio documento transcribe uno por uno."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-1-constitucion-de-la-economia-y-economia-politica-clasica",
+          "name": "La constitución de la economía como disciplina científica en la modernidad y la economía política clásica",
+          "role": "Parte I · Tema 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-2-criticas-marxianas-de-la-economia-politica",
+          "name": "Las críticas marxianas de la economía política",
+          "role": "Parte I · Tema 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-3-perspectivas-ortodoxo-marginalistas",
+          "name": "Las perspectivas ortodoxo-marginalistas",
+          "role": "Parte I · Tema 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-4-heterodoxias-keynesiana-y-schumpeteriana",
+          "name": "Las heterodoxias keynesiana y schumpeteriana",
+          "role": "Parte I · Tema 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-5-proceso-de-trabajo",
+          "name": "Proceso de trabajo",
+          "role": "Parte II · Tema 5",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-6-cambio-tecnologico",
+          "name": "Cambio tecnológico",
+          "role": "Parte II · Tema 6",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-7-ciclos-ondas-y-etapas",
+          "name": "Ciclos, ondas y etapas",
+          "role": "Parte II · Tema 7",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-8-crisis",
+          "name": "Crisis",
+          "role": "Parte II · Tema 8",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.tema-9-planificacion-y-mercado",
+          "name": "Planificación y mercado",
+          "role": "Parte II · Tema 9",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.parte-3-lectura-colectiva-de-el-capital",
+          "name": "Lectura e interpretación colectiva, en clase, de los Prólogos, Epílogos y de los primeros 5 capítulos de El capital de Marx",
+          "role": "Parte III",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "C.b) Clases Prácticas · los cinco sub-programas",
+      "title": "Cinco comisiones, cinco recorridos",
+      "note": "«Cada Comisión de Práctico desarrollará, a su vez, un sub-Programa propio con contenidos y bibliografía específicos en consonancia con el Programa general de la Materia.» Las cinco comisiones corresponden a los cinco nombres del equipo docente. Los sub-programas de Bonnet y de Míguez son idénticos entre sí, asiento por asiento.",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.practico-bonnet",
+          "name": "Práctico de Alberto Bonnet · siete temas, dos parciales — sub-programa idéntico, entrada por entrada, al de Pablo Míguez",
+          "role": "Comisión de prácticos 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.practico-dachevsky",
+          "name": "Práctico de Fernando Dachevsky · PARTE 1 (economía política, Marx, marginalismo y Keynes) y PARTE 2 (procesos de trabajo, cambio tecnológico, ciclos, crisis, planificación) — ocho temas",
+          "role": "Comisión de prácticos 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.practico-duarte",
+          "name": "Práctico de Daniel Duarte · nueve temas en doce clases, del mercantilismo y la fisiocracia al cibercomunismo — el único sub-programa que distingue bibliografía obligatoria de «Recomendada – No obligatoria»",
+          "role": "Comisión de prácticos 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.practico-miguez",
+          "name": "Práctico de Pablo Míguez · siete temas, dos parciales — sub-programa idéntico, entrada por entrada, al de Alberto Bonnet",
+          "role": "Comisión de prácticos 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.practico-sartelli",
+          "name": "Práctico de Eduardo Sartelli · nueve clases con título y descriptores propios, de la teoría del valor trabajo a la historia económica argentina reciente, con un único marcador «Primer parcial» impreso entre la Clase 4 y la Clase 5 — el único sub-programa que no se organiza por los Temas del programa general",
+          "role": "Comisión de prácticos 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · teóricas y los cinco prácticos",
+      "title": "Lo que se lee",
+      "note": "Los 39 volúmenes con pie editorial que nombran los 154 asientos bibliográficos del programa (96 asientos los nombran; los otros 58 —revistas, blogs, páginas web, repositorios, un video y volúmenes citados sin pie editorial— quedan declarados uno por uno en el frame). Un capítulo, prólogo o sección se dibuja como el volumen que lo contiene, y un volumen que reaparece en varias comisiones se unifica en un solo nodo. El rol cita dónde lo pide el programa. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-dobb-teoria-del-valor",
+          "name": "Teoría del valor y la distribución desde Adam Smith. Ideología y teoría económica — M. Dobb (Bs. As., Siglo XXI, 1975) · caps. 1-3 (pp. 53-136)",
+          "role": "teóricas T1 · Bonnet T1 · Míguez T1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-rubin-history-of-economic-thought",
+          "name": "A History of Economic Thought — I. Rubin (Londres, Pluto Press, 1989) · «c. 40» [así impreso] · Ficha de Cátedra, OPFyL, 1998, traducción de J. Fabris",
+          "role": "teóricas T1 · Bonnet T1 · Míguez T1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-heinrich-critica-de-la-economia-politica",
+          "name": "Crítica de la economía política. Una introducción a El Capital de Marx — M. Heinrich (Madrid, Escolar y Mayo Editores, 2008) · caps. I-V (pp. 33-138)",
+          "role": "teóricas T2 · Bonnet T2 · Míguez T2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-screpanti-zamagni-panorama",
+          "name": "Panorama de historia del pensamiento económico — E. Screpanti y S. Zamagni (Barcelona, Ariel, 1997) · caps. 5 y 6 (155-222) en las teóricas, Bonnet y Míguez; cap. 2 parte 1 «La revolución del laissez faire» (Duarte, Clase 1); cap. 5 (Duarte, Clase 5); cap. 7 parte 3.2 «El ciclo económico» y parte 4 «Joseph Alois Schumpeter» pp. 251 a 259 (Duarte, Clase 9)",
+          "role": "teóricas T3 · Bonnet T3 · Míguez T3 · Duarte C1, C5 y C9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-dillard-teoria-economica-de-keynes",
+          "name": "La teoría económica de John Maynard Keynes — D. Dillard (Madrid, Aguilar, 1981) · caps. I-III (pp. 3-59)",
+          "role": "teóricas T4 · Bonnet T4 · Míguez T4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-napoleoni-pensamiento-economico-siglo-xx",
+          "name": "El pensamiento económico en el siglo XX — «Napoleoni, N.» (Barcelona, Oikos-Tau, 1982), cap. III (pp. 45-57) · el mismo título se imprime además dos veces más, con otro autor, otra editorial y otro año: «Schumpeter, N. (1964) El pensamiento económico del siglo XX. Barcelona: Ediciones de occidente. Cap. III» (Duarte, Clase 6, obligatoria) y «Napoleoni, C. (1964) El pensamiento económico en el siglo XX. Barcelona: Ediciones de Occidente. Cap. VII» (Duarte, Clase 9, recomendada). El programa no reconcilia las tres impresiones; se dibujan como un volumen por identidad de título y se registran las tres",
+          "role": "teóricas T4 · Bonnet T4 · Míguez T4 · Duarte C6 y C9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-braverman-trabajo-y-capital-monopolista",
+          "name": "Trabajo y capital monopolista — H. Braverman (México, Nuestro Tiempo, 1987) · parte I, caps. 1-4 (pp. 60-150)",
+          "role": "teóricas T5 · Bonnet T5 · Míguez T5 · Dachevsky T4 · Duarte C7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-martinez-ciencia-tecnologia-y-desarrollo",
+          "name": "Ciencia, Tecnología y Desarrollo — E. Martínez (ed.) (Caracas, Nueva Sociedad, 1994) · E. Martínez, «Progreso tecnológico: la economía clásica y la economía neoclásica tradicional»; Dachevsky imprime el título del volumen en minúsculas («Ciencia, tecnología y desarrollo») y agrega pp. 221-257",
+          "role": "teóricas T6 · Bonnet T6 · Míguez T6 · Dachevsky T5 · Duarte C8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-schumpeter-teoria-del-desenvolvimiento-economico",
+          "name": "Teoría del desenvolvimiento económico — J. Schumpeter (México, FCE, 1967) · cap. VI",
+          "role": "teóricas T7 · Bonnet T6 · Míguez T6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-mandel-ondas-largas",
+          "name": "Las Ondas Largas del desarrollo Capitalista. La Interpretación Marxista — E. Mandel (Madrid, Siglo XXI, 1986) · caps. 1 y 2",
+          "role": "teóricas T7 · Bonnet T7 · Míguez T7 · Dachevsky T6 · Duarte C9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-bleaney-teorias-de-las-crisis",
+          "name": "Teorías de las crisis. Análisis histórico y crítico — M. F. Bleaney (México, Nuestro Tiempo, 1977) · cap. XII",
+          "role": "teóricas T8 · Bonnet T7 · Míguez T7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-shaikh-valor-acumulacion-y-crisis",
+          "name": "Valor, acumulación y crisis — A. Shaikh (Bogotá, Tercer Mundo Editores, 1991) · cap. 6 (pp. 251-298)",
+          "role": "teóricas T8 · Bonnet T7 · Míguez T7 · Dachevsky T7 · Duarte C10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-sweezy-teoria-del-desarrollo-capitalista",
+          "name": "Teoría del desarrollo capitalista — P. Sweezy (México, FCE, 1973) · caps. X-XII (pp. 175-261)",
+          "role": "teóricas T8 · Bonnet T7 · Míguez T7 · Dachevsky T7 · Duarte C10",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-aglietta-macroeconomia-financiera",
+          "name": "Macroeconomía financiera — M. Aglietta (Quito, Abya-Yala, 2000) · cap. 5 (pp. 98-129)",
+          "role": "teóricas T8 · Bonnet T7 · Míguez T7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-mandel-nove-elson-crisis-de-la-economia-sovietica",
+          "name": "La crisis de la economía soviética y el debate mercado/planificación — E. Mandel, A. Nove, D. Elson (Bs.As., Ediciones Imago Mundi, 1992) · Sartelli lo imprime «mercado-planificación» con guion y sin año",
+          "role": "teóricas T9 · Dachevsky T8 · Duarte C11 · Sartelli C7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-marx-el-capital",
+          "name": "El capital. Crítica de la economía política. — K. Marx (México, Siglo XXI, «Varias ediciones») · caps. I-V (pp. 1-240) en la Parte III de las teóricas; Dachevsky cita «Marx, El Capital, T1, cap. 14: Plusvalor absoluto y relativo», sin pie editorial",
+          "role": "teóricas Parte III · Dachevsky T2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-clarke-marx-marginalismo-y-sociologia-moderna",
+          "name": "Marx, marginalismo y sociología moderna — S. Clarke (Madrid, Dos Cuadrados, 2023) · cap. 2 (T1), caps. «3 y 4» (T2), cap. 6 (T3)",
+          "role": "Dachevsky T1, T2 y T3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-smith-riqueza-de-las-naciones",
+          "name": "Riqueza de las naciones (1776) — A. Smith (Madrid, Alianza, 1994) · caps. «intro, 1, 2, 5 y 6» · Sartelli cita la misma obra con otro título y sin pie editorial: «Smith, Adam: Investigación sobre la riqueza de las naciones, Libro 1, puntos 1, 2 y 3», sólo con URL",
+          "role": "Dachevsky T1 · citada también por Sartelli C1 sin pie editorial",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-david-principios-de-economia-politica-y-tributacion",
+          "name": "Principios de economía política y tributación — «David, R.» [así impreso: el apellido y el nombre de pila de David Ricardo van invertidos] (Mexico, Fondo de Cultura Económica, 1976) · caps. 1 y 2",
+          "role": "Dachevsky T1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-inigo-carrera-conocer-el-capital-hoy",
+          "name": "Conocer el capital hoy. Usar críticamente El Capital — J. Iñigo Carrera (Bs. As., Imago Mundi, 2021) · Parte 1",
+          "role": "Dachevsky T2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-kicillof-de-smith-a-keynes",
+          "name": "De Smith a Keynes. Siete lecciones de historia del pensamiento económico. Un análisis de los textos originales — A. Kicillof (Buenos Aires, Eudeba, 2011) · Lección 6 (Dachevsky), Lección 4 (Duarte, Clase 5)",
+          "role": "Dachevsky T3 · Duarte C5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-inigo-carrera-el-capital-razon-historica",
+          "name": "El capital: razón histórica, sujeto revolucionario y conciencia — J. Iñigo Carrera (Buenos Aires, Imago Mundi, 2008) · cap. 4",
+          "role": "Dachevsky T8",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-ekelund-hebert-historia-de-la-teoria-economica",
+          "name": "Historia de la teoría económica y de su método — R. Ekelund y R. Hébert (Madrid, Mc Graw Hill, 2006) · cap. 3 (Clase 1) y «Caps. 10» (Clase 3)",
+          "role": "Duarte C1 y C3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-rubin-historia-del-pensamiento-economico",
+          "name": "Historia del pensamiento económico — I. Rubin (Madrid, Maia ediciones, 2011) · Vol III, caps. 4, 5, 11, 12 y 13 · volumen distinto, tal como está impreso, del «A History of Economic Thought» de Pluto Press que citan las teóricas",
+          "role": "Duarte C2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-rothbard-historia-del-pensamiento-economico",
+          "name": "Historia del pensamiento económico. Vol II, La Economía Clásica — M. Rothbard (Madrid, Unión Editorial, 2012) · cap. III (Clase 2), caps. XII y XIII (Clase 4)",
+          "role": "Duarte C2 y C4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-guerrero-pensamiento-economico-heterodoxo",
+          "name": "Historia del pensamiento económico heterodoxo — D. Guerrero (Buenos Aires, CEICS Ediciones RyR, 2008) · cap. III (Duarte, Clase 3), cap. VII (Duarte, Clase 7, recomendada), cap. 2 (Sartelli, Clase 1, que imprime el pie editorial «Ediciones ryr» y no consigna año)",
+          "role": "Duarte C3 y C7 · Sartelli C1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-mattick-marx-y-keynes",
+          "name": "Marx y Keynes. Los límites de la economía mixta — P. Mattick (Buenos Aires, CEICS Ediciones RyR, 2013) · cap. VI (Clase 4), caps. I y XII (Clase 6), cap. VII (Clase 9, recomendada)",
+          "role": "Duarte C4, C6 y C9",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-aglietta-regulacion-y-crisis-del-capitalismo",
+          "name": "Regulación y crisis del capitalismo. La experiencia de los Estados Unidos — M. Aglietta (Madrid/México, S.XXI, 1979) · caps. 2 y 3 (pp. 88-185) · el asiento imprime el año dos veces, «(1979)» y «1979»",
+          "role": "Duarte C7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-keynes-teoria-general",
+          "name": "Teoría general de la ocupación, el interés y el dinero — J. M. Keynes (Buenos Aires, FCE, 2005) · cap. 22",
+          "role": "Duarte C9 · recomendada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-coletti-el-marxismo-y-el-derrumbe-del-capitalismo",
+          "name": "El marxismo y el «derrumbe» del capitalismo — Lucio Coletti (México, Siglo XXI, 1978)",
+          "role": "Duarte C10 · recomendada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-hoppe-una-teoria-del-socialismo-y-el-capitalismo",
+          "name": "Una teoría del socialismo y el capitalismo — H. Hoppe (Ed. Digital Titivilus, 1989) · caps. III y IX",
+          "role": "Duarte C11 · recomendada",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-vilar-oro-y-moneda-en-la-historia",
+          "name": "Oro y moneda en la historia (1450-1920) — Pierre Vilar (Barcelona, Ariel, 1982) · caps. XVII y XVIII",
+          "role": "Sartelli C1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-sartelli-contra-la-cultura-del-trabajo",
+          "name": "Contra la cultura del trabajo — E. Sartelli (comp.) (Bs. As., Ediciones ryr, 2007) · Eduardo Sartelli, «Trabajo y subversión. Paul Lafargue y la crítica marxista de la sociedad burguesa»",
+          "role": "Sartelli C2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-mandel-formacion-del-pensamiento-economico-de-marx",
+          "name": "La formación del pensamiento económico de Marx — Ernest Mandel (Siglo XXI; el programa no consigna lugar ni año) · capítulos 1, 2 y 3",
+          "role": "Sartelli C2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-bell-kristol-la-crisis-en-la-teoria-economica",
+          "name": "La crisis en la teoría económica — Daniel Bell e Irving Kristol (Buenos Aires, Ediciones del Cronista Comercial, 1983) · Daniel Bell, «Modelos y realidad en el discurso económico»",
+          "role": "Sartelli C3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-keynes-ensayos-de-persuasion",
+          "name": "Ensayos de Persuasión — John Maynard Keynes (Barcelona, Folio, 1997) · «¿Soy un liberal?»",
+          "role": "Sartelli C3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-guillen-romo-la-contrarrevolucion-neoliberal",
+          "name": "La contrarrevolución neoliberal — Héctor Guillén Romo (México, ERA; el programa no consigna año) · cap. I",
+          "role": "Sartelli C3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-munk-marxismo-y-desarrollo",
+          "name": "Marxismo y desarrollo — «Munk, Ronaldo» [así impreso] (Prometeo; el programa no consigna lugar ni año) · caps. 8, 9 y 10",
+          "role": "Sartelli C6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.economia-para-historiadores.libro-sartelli-kabat-el-pantano",
+          "name": "El pantano. La aparición de la «enfermedad» económica argentina y las primeras propuestas de salida — Eduardo Sartelli y Marina Kabat (OPFyL, 2024) · Eduardo Sartelli, «El bungismo. Una hipótesis acerca de la influencia de Alejandro Bunge en la práctica económica y la interpretación de los problemas argentinos» (Clase 8) y «El primer ‹Plan Pinedo›. Presiones estructurales, fuerzas sociales y política económica» (Clase 9)",
+          "role": "Sartelli C8 y C9",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de ECONOMÍA PARA HISTORIADORES (Plan 1985) / HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024), cód. 0407 - 14005, «Diferentes corrientes del pensamiento económico. Historia y teoría», Prof. Eduardo Glavich, 1º cuatrimestre 2026",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0407_14005%20-%20ECONOM%C3%8DA%20PARA%20HISTORIADORES_HISTORIA%20DEL%20PENSAMIENTO%20ECON%C3%93MICO%20-%20GLAVICH%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de ECONOMÍA PARA HISTORIADORES (Plan 1985) / HISTORIA DEL PENSAMIENTO ECONÓMICO (Plan 2024), cód. 0407 - 14005, Prof. Eduardo Glavich, 1º cuatrimestre 2026 — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo (extracto local: extract/out/historia-economia-glavich-2026.txt, 13 páginas)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0407_14005%20-%20ECONOM%C3%8DA%20PARA%20HISTORIADORES_HISTORIA%20DEL%20PENSAMIENTO%20ECON%C3%93MICO%20-%20GLAVICH%20-%201C%202026.pdf"
+    },
+    {
+      "label": "academica.filo.uba.ar · Esquema del Plan de Estudios 1985 de Historia (HI - Plan.pdf) — dato cruzado desde el nodo padre uba.ffyl.historia para el rol de la materia en el plan (Ciclo de Grado, Materias Generales, electiva 2 de 4); el programa no consigna ciclo ni carácter",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}
