@@ -33,7 +33,26 @@ function langs() {
   try { return execSync("tesseract --list-langs 2>/dev/null").toString().includes("spa") ? "spa+eng" : "eng"; }
   catch { return "eng"; }
 }
-const done = (o) => { console.log(JSON.stringify(o)); try { fs.rmSync(tmp, { recursive: true, force: true }); } catch {} process.exit(o.ok ? 0 : 1); };
+// Every successful extract self-registers in manifest.json — the provenance
+// record must never depend on the caller remembering to write it.
+function recordManifest(o) {
+  if (!o.ok) return;
+  const mPath = path.join(__dirname, "manifest.json");
+  const lock = mPath + ".lock";
+  const t0 = Date.now();
+  // mkdir is atomic — parallel researchers must not lose each other's entries
+  while (true) {
+    try { fs.mkdirSync(lock); break; }
+    catch { if (Date.now() - t0 > 15000) { console.error("manifest lock timeout"); return; } execSync("sleep 0.2"); }
+  }
+  try {
+    const m = JSON.parse(fs.readFileSync(mPath, "utf8"));
+    m[outName] = { url: o.url, method: o.method, pages: o.pages ?? null, ocrPages: o.ocrPages ?? null, chars: o.chars, ok: true };
+    fs.writeFileSync(mPath, JSON.stringify(m, null, 2) + "\n");
+  } catch (e) { console.error("manifest write failed: " + e.message); }
+  finally { try { fs.rmdirSync(lock); } catch {} }
+}
+const done = (o) => { recordManifest(o); console.log(JSON.stringify(o)); try { fs.rmSync(tmp, { recursive: true, force: true }); } catch {} process.exit(o.ok ? 0 : 1); };
 
 try {
   const fetchUrl = driveDirect(url);

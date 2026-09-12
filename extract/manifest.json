@@ -1497,30 +1497,32 @@
   },
   "med-iar-programa-2014": {
     "url": "https://www.fmed.uba.ar/sites/default/files/2018-03/programa2014.pdf",
-    "method": "text",
-    "pages": 1,
-    "ocrPages": null,
+    "method": "ocr",
+    "pages": 21,
+    "ocrPages": 21,
     "chars": 35788,
     "ok": true,
     "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
   },
   "med-iar-reglamento-2844-12": {
     "url": "http://www.fmed.uba.ar/sites/default/files/2023-02/Reglamento%20del%20IAR%20-%20Resoluci%C3%B3n%20%28CD%29n%C2%B0%202844-12.pdf",
-    "method": "text",
-    "pages": 1,
+    "method": "ocr",
+    "pages": null,
     "ocrPages": null,
     "chars": 20458,
     "ok": true,
-    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)",
+    "note": "OCR (fmed corrupt text layer); page count not recoverable from the retained extract"
   },
   "med-iar-modif-516-15": {
     "url": "http://www.fmed.uba.ar/sites/default/files/2023-02/Modificatoria%20del%20Reglamento%202015%20-Resoluci%C3%B3n%20%28CD%29n%C2%B0%20516-15.pdf",
-    "method": "text",
-    "pages": 1,
+    "method": "ocr",
+    "pages": null,
     "ocrPages": null,
     "chars": 12398,
     "ok": true,
-    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)"
+    "recovered": "manifest entry regenerated at wave close from node source.url + researcher transcript (2026-09-12)",
+    "note": "OCR (fmed corrupt text layer); page count not recoverable from the retained extract"
   },
   "med-iar-fechas-2025-2026": {
     "url": "http://www.fmed.uba.ar/sites/default/files/2025-10/FECHAS%20DE%20LAS%20NUEVAS%20ROTACIONES-2025-2026.pdf",
