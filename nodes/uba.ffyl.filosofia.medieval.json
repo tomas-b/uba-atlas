@@ -7,8 +7,9 @@
     "regimen": "cuatrimestral",
     "cargaHoraria": "96 h",
     "promocion": "Promoción Directa",
-    "codigo": "0205 - 12002",
-    "catedra": "D'Amico / Castello Dubra (2020)",
+    "codigo": "205 - 12002 — literal del programa, que imprime «CÓDIGO No: 205 - 12002» sin cero inicial",
+    "catedra": "D'Amico / Castello Dubra · 2020",
+    "anioDelPrograma": "2020",
     "unidades": 8,
     "bibliography": true
   },
@@ -27,7 +28,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Eje", "v": "recepción", "small": "3 religiones" }
   ],
-  "frame": "Grounded en el programa 2020 de la cátedra (D'Amico / Castello Dubra), código 0205-12002, repositorio.filo.uba.ar. Ocho unidades bajo el título 'Pluralidad de mundos medievales': la filosofía medieval leída como asimilación productiva de la Antigüedad clásica y tardía dentro del judaísmo, el cristianismo y el islam. Advertencia de honestidad: este programa es temáticamente específico —transmisión del neoplatonismo (Filón, Agustín, Pseudo-Dionisio, Eriúgena, Eckhart) y filosofía islámica (Al-Farabi, Avicena, Averroes)—; NO recorre el arco genérico Agustín→Aquino→Ockham. Tomás de Aquino aparece solo como intérprete del Liber de Causis; Ockham no figura en este año. Cada año la cátedra elige un recorte distinto.",
+  "frame": "Grounded en el programa 2020 de la cátedra (D'Amico / Castello Dubra), código «205 - 12002» tal como el documento lo imprime (sin cero inicial), repositorio.filo.uba.ar. Ocho unidades bajo el título 'Pluralidad de mundos medievales': la filosofía medieval leída como asimilación productiva de la Antigüedad clásica y tardía dentro del judaísmo, el cristianismo y el islam. Advertencia de honestidad: este programa es temáticamente específico —transmisión del neoplatonismo (Filón, Agustín, Pseudo-Dionisio, Eriúgena, Eckhart) y filosofía islámica (Al-Farabi, Avicena, Averroes)—; NO recorre el arco genérico Agustín→Aquino→Ockham. Tomás de Aquino aparece solo como intérprete del Liber de Causis; Ockham no figura en este programa (cero apariciones). Este nodo dibuja el programa 2020 y sólo ese: no se compararon otros años, así que no afirma nada sobre cuánto cambia el recorte de un año al otro.",
   "groups": [
     {
       "kind": "spine",
@@ -53,8 +54,8 @@
     {
       "kind": "reading",
       "eyebrow": "Bibliografía · fuentes y estudios",
-      "title": "Los textos, tal como los asigna la cátedra",
-      "note": "Buena parte de las fuentes se leen en la antología de cátedra 'Todo y nada de todo'. Cada libro es un índice L3 aún sin abrir.",
+      "title": "Ocho de los textos que asigna la cátedra",
+      "note": "SELECCIÓN DECLARADA: 8 de unas 38 entradas —16 «Fuentes» y 22 de «Bibliografía obligatoria», contadas sobre el documento— repartidas por unidad. No es el listado de la cátedra: es una muestra de él. Quedan sin dibujar, entre otros, Clemente de Alejandría, Mario Victorino, el Pseudo-Dionisio, el Libro de las causas, Eckhart, Margarita Porete, Al-Farabi, Avicena, Aersten, Hadot, Catapano, Magnavacca, Perl y Maiza Ozcoidi; la bibliografía complementaria queda enteramente fuera. Buena parte de las fuentes se leen en la antología de cátedra 'Todo y nada de todo'. Cada libro es un índice L3 aún sin abrir.",
       "exits": [
         { "address": "uba.ffyl.filosofia.medieval.damico-todo-y-nada", "name": "Todo y nada de todo", "role": "C. D'Amico (ed.) · antología de fuentes", "tag": "fuente", "kind": "book" },
         { "address": "uba.ffyl.filosofia.medieval.filon-creacion", "name": "La creación del mundo según Moisés", "role": "Filón de Alejandría (Trotta)", "tag": "primario", "kind": "book" },
@@ -67,5 +68,8 @@
       ]
     }
   ],
-  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval (D'Amico / Castello Dubra) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Medieval Nº 205 - 12002 (D'Amico / Castello Dubra) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" },
+  "sources": [
+    { "role": "principal y única — unidades, fuentes y bibliografía dibujadas", "label": "Programa 2020 · Historia de la Filosofía Medieval Nº 205 - 12002 (D'Amico / Castello Dubra) · 'Pluralidad de mundos medievales' · FILO:Digital", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13154" }
+  ]
 }

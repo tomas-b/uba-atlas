@@ -1,20 +1,17 @@
 {
-  "address": "uba.fcen.computacion.estadistica",
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
   "source_reachable": true,
-  "units_total": 4,
-  "units_found": 0,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "address": "uba.fcen.computacion.estadistica",
+  "units_total": 7,
+  "units_found": 7,
   "books_total": 0,
   "books_found": 0,
-  "not_found": [
-    "ALL FOUR unit names have zero support in the cited source — generic ML-course headings credited to the plan ('se reagrupan fieles a esa lista' FALSE)",
-    "'160 hs totales' invented",
-    "'primera cursada 2c2025' in neither source",
-    "source.label cites a v07/2024 extract that doesn't exist"
-  ],
-  "omitted": [
-    "the REAL published programa (Cuba-Wiki, 7 blocks: Probabilidad/VA/conjuntas/inferencia/regresión+ANOVA/bootstrapping/bayesiana) entirely unused"
-  ],
-  "metadata_matches": false,
-  "verdict": "fabrication",
-  "notes": "Correlativas happen to be right per cubawiki — unattributed, sitting next to fabricated units. Four child unit files propagate the fabrication. Fix path clear: re-ground from the public 7-block programa."
+  "verdict": "clean",
+  "history": "First version was a verified FABRICATION (4 generic ML units credited to the plan); re-grounded from the public Cuba-Wiki 7-block programa, honestly characterized. This verdict covers the replacement.",
+  "notes": "All 7 blocks and every child sub-item verbatim against the live wiki (oldid matches); old children deleted; correlativas triple-confirmed. Soft spots: plan's analytic column carries Aprendizaje-automático items with no drawn unit (the parenthetical list is accurate); parent source.url renders the DC page while content is the wiki's (both in sources[])."
 }

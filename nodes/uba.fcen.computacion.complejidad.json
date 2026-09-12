@@ -6,10 +6,12 @@
   "metadata": {
     "regimen": "cuatrimestral",
     "cuatrimestre": "1º",
-    "catedra": "Complejidad Computacional (DC-FCEN)",
-    "cargaHoraria": "5 hs semanales · 50% teórica / 50% práctica",
+    "catedra": "Departamento de Computación (DC, FCEN)",
+    "cargaHoraria": "5 hs semanales (50% teórica / 50% práctica) · 80 hs totales (tabla del documento del plan)",
+    "correlativas": ["Técnicas de Diseño de Algoritmos", "Lenguajes Formales, Autómatas y Computabilidad"],
     "unidades": 6,
-    "bibliography": 1
+    "unidadesFuente": 2,
+    "bibliography": ["Computational complexity: a modern approach — Arora, S., & Barak, B. (2009) — la fuente no imprime editorial"]
   },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
@@ -19,24 +21,24 @@
   ],
   "eyebrow": "Complejidad Computacional · Año 3 · 1º cuat.",
   "title": "Qué se puede computar rápido — y por qué muchas cosas no.",
-  "lede": "La teoría de qué problemas son tratables. De la máquina de Turing y las clases P y NP a la NP-completitud (Cook-Levin), las jerarquías de tiempo y espacio (PSPACE, Savitch, L y NL), la jerarquía polinomial con máquinas oráculo y los circuitos booleanos. Correlativa de Lenguajes Formales, Autómatas y Computabilidad — retoma el problema de decidir, ahora midiendo el costo.",
+  "lede": "La teoría de qué problemas son tratables. De la máquina de Turing y las clases P y NP a la NP-completitud (Cook-Levin), las jerarquías de tiempo y espacio (PSPACE, Savitch, L y NL), la jerarquía polinomial con máquinas oráculo y los circuitos booleanos. Correlativa de Técnicas de Diseño de Algoritmos y de Lenguajes Formales, Autómatas y Computabilidad — retoma el problema de decidir, ahora midiendo el costo.",
   "meta": [
     { "k": "Año", "v": "3", "small": "1º cuat." },
-    { "k": "Unidades", "v": "6", "small": "temario" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 1" },
-    { "k": "Carga", "v": "5 hs", "small": "50/50 T/P" }
+    { "k": "Unidades", "v": "6", "small": "reagrupadas de 2" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 1/1" },
+    { "k": "Carga", "v": "5 hs", "small": "50/50 T/P · 80 h" }
   ],
-  "frame": "Materia nueva del Plan 2023 (primeras cursadas ~2024/2025). La fuente oficial (computacion.dc.uba.ar) publica solo los contenidos mínimos: «equivalencia entre lenguaje y problema de decisión; reducción de lenguajes; problemas tratables e intratables; clases de complejidad». El temario detallado y la bibliografía provienen de la transcripción pública de Cuba-Wiki (cursada 1c2025), organizada en torno a dos parciales; acá se reordena en seis unidades temáticas fieles a esa lista. El detalle vivo se publica por el campus (login).",
+  "frame": "Dos fuentes, separadas. Las oficiales del DC — la página del Plan 2023 y el documento del plan — dan la ubicación (3º año, 1er cuatrimestre), la carga (5 hs semanales, 50% teóricas y 50% prácticas; 80 hs totales), las correlativas y los contenidos mínimos: «Equivalencia entre lenguaje y problema de decisión. Concepto de reducción de lenguajes. Concepto de complejidad de problemas: noción de problemas tratables e intratables. Clases de complejidad de lenguajes.» El temario detallado y la única referencia bibliográfica vienen de Cuba-Wiki, la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra: publica el programa de la cursada 1C2025 partido en dos listas, la del primer parcial y la del segundo. Las seis unidades de abajo reagrupan esas dos listas en bloques temáticos consecutivos — el reagrupamiento es editorial, no está en la fuente. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · el temario",
       "title": "El recorrido de la complejidad",
-      "note": "Seis unidades temáticas, fieles al temario de la cursada.",
+      "note": "Reagrupamiento editorial: las dos listas de Cuba-Wiki (primer y segundo parcial, cursada 1C2025) partidas en seis bloques consecutivos, en orden y sin perder temas.",
       "map": {
         "mk": "El temario, en seis unidades",
         "tree": "COMPLEJIDAD COMPUTACIONAL\n│\n├─ 1 · Máquinas de Turing, P y NP\n├─ 2 · NP-completitud y reducciones (Cook-Levin)\n├─ 3 · coNP, EXPTIME y jerarquías de tiempo (Ladner)\n├─ 4 · Complejidad de espacio (PSPACE, Savitch, L y NL)\n├─ 5 · Jerarquía polinomial y máquinas con oráculo\n└─ 6 · Circuitos booleanos (P/poly, NC, AC)",
-        "foot": "Temario según la transcripción de Cuba-Wiki (cursada 1c2025). El oficial publica solo los contenidos mínimos."
+        "foot": "Temario según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). Las fuentes oficiales publican sólo los contenidos mínimos."
       },
       "exits": [
         { "address": "uba.fcen.computacion.complejidad.turing-p-np", "name": "Máquinas de Turing, P y NP", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -49,13 +51,31 @@
     },
     {
       "kind": "index",
-      "eyebrow": "Bibliografía · la referencia",
-      "title": "La lectura de base",
-      "note": "Único libro citado en la transcripción. Su contenido es un índice L3 aparte.",
+      "eyebrow": "Bibliografía · según Cuba-Wiki",
+      "title": "La única referencia de la lista",
+      "note": "El único ítem de la sección «Bibliografía» de Cuba-Wiki, tal como está impreso: autor, título y año, sin sello editorial. Contenido del libro (L3): no indexado.",
       "exits": [
-        { "address": "uba.fcen.computacion.complejidad.arora-barak", "name": "Computational Complexity: A Modern Approach — Arora & Barak (Cambridge UP, 2009)", "role": "libro", "tag": "biblio", "kind": "book" }
+        { "address": "uba.fcen.computacion.complejidad.arora-barak", "name": "Computational complexity: a modern approach — Arora, S., & Barak, B. (2009)", "role": "único ítem de la lista · la fuente no imprime editorial", "tag": "biblio", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 (contenidos mínimos) · cubawiki.com.ar (temario 1c2025)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, carga y correlativas) · cubawiki.com.ar (temario 1C2025 y bibliografía)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Complejidad Computacional» (plan 2023). DIBUJADO: las dos listas de «Programa» (primer y segundo parcial, cursada 1C2025) que dan las seis unidades, el único ítem de «Bibliografía», y su ficha («Cursada en Quinto Cuatrimestre», «Carga horaria: 5 horas semanales», «Correlativas: Lenguajes Formales, Autómatas y Computabilidad y Técnicas de Diseño de Algoritmos»). Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 3º año, 1er cuatrimestre, con «Carga horaria semanal: 5 hrs (50% para teóricas y 50% para prácticas)» y sus contenidos mínimos; su tabla de equivalencias imprime «Complejidad Computacional ↔ Lógica y Computabilidad (Plan 1993)».",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «18 · 7 · Complejidad Computacional · C · 5 · 80 · Técnicas de Diseño de Algoritmos; Lenguajes Formales, Autómatas y Computabilidad · T/P» — de ahí las correlativas y las 80 hs totales. El documento versión 11/2025 imprime las mismas correlativas («TDA, LFA») y la misma carga.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. La propia página del Plan 2023 remite ahí: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas». Todavía no explotado para este nodo — es el paso pendiente para reemplazar la wiki por el programa oficial.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

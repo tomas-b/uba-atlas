@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral · examen final", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "Prof. Horacio M. R. Banega (programa Nº 0216-12009, 2020)", "unidades": 3, "bibliografia": 8, "rota": "sí — foco por cátedra/año" },
+  "metadata": { "regimen": "cuatrimestral · examen final (EF)", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "anioDelPrograma": "2020 — el documento imprime «AÑO: 2020»", "catedra": "Prof. Dr. Horacio M. R. Banega · programa Nº 0216 - 12009", "codigo": "0216 - 12009 — literal del programa", "unidades": 3, "bibliografia": 8 },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.ffyl", "label": "Filosofía y Letras" },
@@ -12,24 +12,24 @@
   ],
   "eyebrow": "Filosofía · sistemática · Gnoseología",
   "title": "¿Qué es conocer?",
-  "lede": "La teoría del conocimiento como problema sistemático. La materia rota su foco por cátedra y año: el programa aquí sourceado (Banega 2020) lo aborda desde la fenomenología — el análisis de la conciencia, la evidencia y el mundo de la vida — y lo lleva hasta el conocimiento práctico en las ciencias sociales. No es el único recorrido posible de la materia, pero es un programa real de ella.",
+  "lede": "La teoría del conocimiento como problema sistemático. El programa aquí sourceado —Banega, 2º cuatrimestre de 2020— lo aborda desde la fenomenología: el análisis de la conciencia, la evidencia y el mundo de la vida, llevado hasta el conocimiento práctico en las ciencias sociales. Es un programa real de la materia; este nodo no afirma que sea el único recorrido posible ni sabe qué recorren los otros.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "examen final" },
     { "k": "Unidades", "v": "3", "small": "programa 2020" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
-    { "k": "Foco", "v": "rota", "small": "por cátedra" }
+    { "k": "Programa", "v": "2020", "small": "Banega" }
   ],
-  "frame": "Contenido real del programa Nº 0216-12009 (Prof. Horacio Banega, 2º cuatrim. 2020, repositorio FILO:Digital), titulado 'Fenomenología y Conocimiento Práctico en Ciencias Sociales'. Recorre la fenomenología husserliana (Ideas I, evidencia y verdad, temporalidad, empatía, mundo de la vida), su continuación existenciaria y corporal (Heidegger, Merleau-Ponty, Schutz), y el giro hacia el conocimiento práctico irreflexivo (Wittgenstein, Giddens, Bourdieu). CAVEAT: Gnoseología es una sistemática que rota su eje según la cátedra — otro año puede centrarse en epistemología analítica (creencia verdadera justificada, Gettier). Este programa es un recorrido real, no el 'contenido mínimo' estable, que no fue localizado como texto normativo separado.",
+  "frame": "Contenido real del programa Nº 0216 - 12009 (Prof. Dr. Horacio M. R. Banega, 2º cuatrim. 2020, repositorio FILO:Digital), titulado 'Fenomenología y Conocimiento Práctico en Ciencias Sociales'. Recorre la fenomenología husserliana (Ideas I, evidencia y verdad, temporalidad, empatía, mundo de la vida), su continuación existenciaria y corporal (Heidegger, Merleau-Ponty, Schutz), y el giro hacia el conocimiento práctico irreflexivo (Wittgenstein vía Winch y Ogien, Giddens, Bourdieu). NOMBRES EDITORIALES, declarados: el programa numera sus unidades —UNIDAD I, II, III— y no les pone título; los nombres de las tres salidas los compuso este nodo a partir de los subtemas que cada unidad lista, y no son texto del documento. QUÉ NO SE AFIRMA: el repositorio lista otros programas de la materia —Esteban A. García 2016 y 2017, y uno más nuevo del propio Banega (2021)—; ninguno fue leído acá, así que este nodo no dice nada sobre qué recorren ni sobre qué tanto rota el eje. Tampoco se localizó, en FILO:Digital ni en el sitio del Departamento de Filosofía, un 'contenido mínimo' normativo separado del programa de cada cátedra: vale para esas búsquedas, no como negativa universal.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · las 3 unidades",
       "title": "De la conciencia al sentido práctico",
-      "note": "Cada unidad del programa Banega 2020 es un nodo, en orden.",
+      "note": "Cada unidad del programa Banega 2020 es un nodo, en orden. El documento las numera sin titularlas: los nombres son composiciones editoriales sobre sus subtemas.",
       "map": {
         "mk": "El programa 2020, en tres unidades",
         "tree": "GNOSEOLOGÍA — Fenomenología y conocimiento práctico\n│\n├─ I  · Fenomenología husserliana\n│        Ideas I · evidencia y verdad · tiempo · empatía · mundo de la vida\n├─ II · Fenomenología existenciaria y del cuerpo\n│        Heidegger (ser-en-el-mundo) · Merleau-Ponty (cuerpo) · Schutz\n└─ III · El sentido práctico irreflexivo\n         Wittgenstein · Giddens (conciencia práctica) · Bourdieu (habitus)",
-        "foot": "Temas del programa Banega 2020. El eje es el pasaje de la conciencia constitutiva a las prácticas sociales como suelo del conocimiento."
+        "foot": "Subtemas literales del programa Banega 2020, agrupados bajo las tres unidades que el documento numera sin nombrar; los rótulos de unidad son de este nodo. El eje es el pasaje de la conciencia constitutiva a las prácticas sociales como suelo del conocimiento."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.gnoseologia.husserl", "name": "Fenomenología husserliana", "role": "Unidad I", "tag": "unidad", "kind": "unit" },
@@ -40,8 +40,8 @@
     {
       "kind": "books",
       "eyebrow": "Bibliografía obligatoria",
-      "title": "Las fuentes",
-      "note": "Títulos reales del programa (obligatoria). No indexados aún como libros (L3).",
+      "title": "Ocho títulos de la bibliografía obligatoria",
+      "note": "SELECCIÓN DECLARADA: 8 de las 17 obras distintas que el programa 2020 lista como bibliografía obligatoria por unidad. No es la lista de la cátedra: es una muestra de ella. Quedan sin dibujar las Investigaciones Lógicas, Experiencia y Juicio, las Lecciones de fenomenología de la conciencia interna del tiempo e Ideas II de Husserl; Winch (Ciencia social y filosofía; Comprender una sociedad primitiva), Ogien, y los otros dos textos de Giddens. La bibliografía complementaria y la general quedan enteramente fuera. No indexados aún como libros (L3).",
       "exits": [
         { "address": "uba.ffyl.filosofia.gnoseologia.libro-husserl-ideas", "name": "Ideas relativas a una fenomenología pura I — E. Husserl (UNAM/FCE)", "role": "Unidad I", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.gnoseologia.libro-husserl-meditaciones", "name": "Meditaciones cartesianas — E. Husserl (FCE, 1985)", "role": "Unidad I", "tag": "libro", "kind": "book" },
@@ -54,5 +54,8 @@
       ]
     }
   ],
-  "source": { "label": "repositorio.filo.uba.ar · Programa de Gnoseología (Banega, 2º 2020)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/13160" }
+  "source": { "label": "repositorio.filo.uba.ar · Programa de Gnoseología Nº 0216-12009 (Banega, 2º cuatrim. 2020)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/13160" },
+  "sources": [
+    { "role": "principal y única — unidades y bibliografía dibujadas", "label": "Programa Nº 0216 - 12009 · Gnoseología (Banega, 2º cuatrim. 2020) · FILO:Digital", "url": "https://repositorio.filo.uba.ar/handle/filodigital/13160" }
+  ]
 }

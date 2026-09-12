@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "10 h semanales", "unidades": 3, "bibliography": [] },
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Computación (DC, FCEN)", "cargaHoraria": "10 hs semanales · 160 hs totales (tabla del documento del plan)", "correlativas": ["CBC"], "unidades": 3, "bibliography": ["Learn You a Haskell for Great Good! — «Hasta Chapter 6, guía para aprender a usar Haskell» (Cuba-Wiki enlaza también una «versión español»)", "The Science of Programming — David Gries — «No se usa como bibliografía, recomendado para profundizar después de cursar»"] },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
@@ -12,31 +12,59 @@
   ],
   "eyebrow": "Introducción a la Programación · Año 1 · 1º cuat.",
   "title": "Del problema al programa: especificar y programar.",
-  "lede": "La primera materia de la carrera. Enseña a pensar algorítmicamente: partir de un problema, especificarlo sin ambigüedad y programarlo en dos paradigmas — funcional con Haskell y luego imperativo con Python. En el medio, la lógica y los tipos de datos que dan rigor a cada paso.",
+  "lede": "La primera materia de la carrera. Enseña a pensar algorítmicamente: partir de un problema, especificarlo sin ambigüedad y programarlo en dos paradigmas — funcional con Haskell y luego imperativo con Python. En el medio, la lógica y los tipos de datos que dan rigor a cada paso, con herramientas de desarrollo y proyectos grupales.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "1º · teór-práct-lab" },
     { "k": "Bloques", "v": "3", "small": "contenidos" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio propia" },
-    { "k": "Carga", "v": "10 h", "small": "semanales" }
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 2/2" },
+    { "k": "Carga", "v": "10 hs", "small": "semanales · 160 hs" }
   ],
-  "frame": "Contenido sourceado del plan oficial (computacion.dc.uba.ar/plan-de-estudios-2023) y de la transcripción de cátedra (Cuba-Wiki, plan 2023): el pensamiento algorítmico desarrollado en tres bloques — fundamentos, programación funcional (Haskell) y programación imperativa (Python). La cátedra trabaja con apuntes, guías y slides propios; no publica una bibliografía formal de libros, por lo que no se listan textos.",
+  "frame": "Dos fuentes, separadas. La página del Plan 2023 del DC describe la materia — «Especificación y resolución de problemas mediante el uso de algoritmos, demostraciones rigurosas de su comportamiento. Nociones de programación imperativa y funcional, herramientas de desarrollo. Proyectos grupales» — y da la carga horaria (10 hrs semanales; 160 hs totales en la tabla del documento del plan). El detalle de los tres bloques y los dos ítems de bibliografía vienen de Cuba-Wiki, la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra. La wiki sí publica bibliografía: Learn You a Haskell for Great Good! («Hasta Chapter 6») y The Science of Programming de David Gries, anotado como lectura para profundizar y no como bibliografía de la cursada. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · los 3 bloques",
       "title": "El recorrido de la materia",
-      "note": "Fundamentos, y luego cada paradigma en su lenguaje.",
+      "note": "Fundamentos, y luego cada paradigma en su lenguaje. Reagrupamiento editorial de los tres párrafos de «Contenido» de Cuba-Wiki.",
       "map": {
         "mk": "El programa, en tres bloques",
-        "tree": "INTRODUCCIÓN A LA PROGRAMACIÓN\n│\n├─ B1 · Fundamentos · problema, especificación, lógica, TADs\n├─ B2 · Funcional · Haskell (tipos, funciones, recursión, listas)\n└─ B3 · Imperativo · Python (variables, iteración, referencias, TADs)",
-        "foot": "Temas de la cátedra (DC, plan 2023). La bibliografía es material propio de cátedra, no un libro de texto."
+        "tree": "INTRODUCCIÓN A LA PROGRAMACIÓN\n│\n├─ B1 · Fundamentos · problema, algoritmo, especificación, diseño por contrato, lenguajes y paradigmas, tipos de datos, TADs, lógica proposicional y trivaluada\n├─ B2 · Funcional · Haskell (tipo de dato, función, recursión, listas)\n└─ B3 · Imperativo · Python (variables, procedimientos, iteración, referencias, TADs: pilas, colas y arreglos)",
+        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial). Descripción, carga horaria y ubicación en el plan, según el DC."
       },
       "exits": [
         { "address": "uba.fcen.computacion.intro-programacion.fundamentos", "name": "Fundamentos: problema, especificación y lógica", "role": "Bloque 1", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.intro-programacion.funcional-haskell", "name": "Programación funcional (Haskell)", "role": "Bloque 2", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.intro-programacion.imperativo-python", "name": "Programación imperativa (Python)", "role": "Bloque 3", "tag": "unidad", "kind": "unit" }
       ]
+    },
+    {
+      "kind": "plain",
+      "eyebrow": "Bibliografía · según Cuba-Wiki",
+      "title": "Los dos ítems de la lista",
+      "note": "Los dos ítems de la sección «Bibliografía» de Cuba-Wiki, con su anotación tal como está impresa. No es una lista de cátedra: la wiki es de estudiantes. Contenido de los libros (L3): índice aparte.",
+      "exits": [
+        { "address": "uba.fcen.computacion.intro-programacion.learn-you-a-haskell", "name": "Learn You a Haskell for Great Good!", "role": "«Hasta Chapter 6, guía para aprender a usar Haskell» · la wiki enlaza además una «versión español»", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.intro-programacion.gries", "name": "The Science of Programming — David Gries", "role": "«No se usa como bibliografía, recomendado para profundizar después de cursar»", "tag": "libro", "kind": "book" }
+      ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria) · cubawiki.com.ar (contenido y bibliografía)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 1º año, 1er cuatrimestre, su descripción («…herramientas de desarrollo. Proyectos grupales») y «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)».",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «7 · 3 · Introducción a la Programación · C · 10 · 160 · CBC · T/P/L» — de ahí las 160 hs totales y la correlativa CBC. La tabla del documento versión 11/2025 imprime la misma carga.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "cubawiki.com.ar · «Introducción a la Programación» (plan 2023). DIBUJADO: la sección «Contenido» (los tres párrafos que dan los tres bloques) y los dos ítems de «Bibliografía» con sus anotaciones. Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. La propia página del Plan 2023 remite ahí: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas». Todavía no explotado para este nodo — es el paso pendiente para reemplazar la wiki por el programa oficial.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

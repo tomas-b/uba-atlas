@@ -59,10 +59,10 @@
   <div class="stats" id="stats"></div>
   <div class="filters" id="filters"></div>
   <div class="tblwrap"><table>
-    <thead><tr><th>nodo</th><th>veredicto</th><th>unidades</th><th>libros</th><th>ola</th><th></th></tr></thead>
+    <thead><tr><th>nodo</th><th>veredicto</th><th>unidades</th><th>libros</th><th>ola</th></tr></thead>
     <tbody id="rows"></tbody>
   </table></div>
-  <p class="foot">Los veredictos «recuperado» fueron minados de los transcripts de sesión. Fuente de cada fila: <span style="color:var(--steel)">verification/&lt;address&gt;.json</span> en el repo — el veredicto pre-fix, junto al historial git del nodo, es el audit trail completo.</p>
+  <p class="foot">Fuente de cada fila: <span style="color:var(--steel)">verification/&lt;address&gt;.json</span> en el repo — el veredicto pre-fix, junto al historial git del nodo, es el audit trail completo.</p>
 </div>
 <script>
   const esc = s => (s == null ? "" : String(s));
@@ -76,7 +76,6 @@
       <td class="num">${v.ut != null ? v.u + "/" + v.ut : "—"}</td>
       <td class="num">${v.bt != null ? v.b + "/" + v.bt : "—"}</td>
       <td class="wave">${esc(v.w || "—")}${v.d ? " · " + esc(v.d) : ""}</td>
-      <td class="rec">${v.r ? "recuperado" : ""}</td>
     </tr>`).join("");
   }
   fetch("audit-data.json").then(r => r.json()).then(j => {

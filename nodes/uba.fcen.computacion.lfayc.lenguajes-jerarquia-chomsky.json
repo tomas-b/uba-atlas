@@ -30,10 +30,10 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "LENGUAJES FORMALES Y JERARQUÍA DE CHOMSKY (unidad 1)\n│\n├─ Tema · definición de lenguaje formal\n└─ Idea · la jerarquía de Chomsky ordena las clases de lenguajes",
-        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
 }

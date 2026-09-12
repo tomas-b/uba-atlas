@@ -1,17 +1,17 @@
 {
-  "address": "uba.fcen.computacion.sistemas-digitales",
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
   "source_reachable": true,
-  "units_total": 7,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "address": "uba.fcen.computacion.sistemas-digitales",
+  "units_total": 5,
   "units_found": 5,
   "books_total": 0,
   "books_found": 0,
-  "not_found": [
-    "units 6-7 (dispositivos-programables, softcores) FABRICATED — lifted from Arquitectura's contenidos mínimos; SD's block ends at 'Sumadores, Contadores'",
-    "frame 'las siete unidades son los bloques del propio plan' FALSE — the plan names five",
-    "cargaHoraria DOUBLED: node says 10h/160h; both plan versions and the site say 5h/80h"
-  ],
-  "omitted": [],
-  "metadata_matches": false,
-  "verdict": "fabrication",
-  "notes": "Blocks 1-5 verbatim-faithful; the fabrication propagates to two child nodes citing the same URL. Lede describes Arquitectura's content. Fixed same wave: fabricated units deleted, hours corrected."
+  "verdict": "errors",
+  "history": "First version was a verified FABRICATION (2 units copied from Arquitectura, hours doubled); re-grounded from the plan PDFs. This verdict covers the replacement.",
+  "notes": "Body clean: 5 units verbatim the contenidos-mínimos sentences in both plan versions; 5hs/80hs in both hours tables; deleted children confirmed gone. ERROR fixed at close: sources[] cited the WRONG Propuesta URL — the document behind it (the 2019 v1.0 Propuesta) is the origin of the old fabrication and asserts the opposite of the label; swapped to the -CBCviejo texto ordenado; the 5 children repointed from the DC HTML page to the v11/2025 PDF. Declared DC-page-vs-plan contradiction verified verbatim."
 }

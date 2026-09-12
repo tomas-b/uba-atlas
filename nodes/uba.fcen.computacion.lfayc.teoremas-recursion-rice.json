@@ -9,7 +9,7 @@
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
     { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
     { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
-    { "address": "uba.fcen.computacion.lfayc.teoremas-recursion-rice", "label": "Teoremas de la Recursión y de Rice" }
+    { "address": "uba.fcen.computacion.lfayc.teoremas-recursion-rice", "label": "Teoremas del Parámetro, de la Recursión y de Rice" }
   ],
   "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 7",
   "title": "Los teoremas del Parámetro, la Recursión y Rice sobre lo computable.",
@@ -29,11 +29,11 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "TEOREMAS DE LA RECURSIÓN Y DE RICE (unidad 7)\n│\n├─ Tema · teoremas del Parámetro, de la Recursión y de Rice\n└─ Idea · lenguajes computables y computablemente enumerables",
-        "foot": "Unidad del programa de la cátedra (LFAyC, DC-FCEN)."
+        "tree": "TEOREMAS DEL PARÁMETRO, DE LA RECURSIÓN Y DE RICE (unidad 7)\n│\n├─ Tema · teoremas del Parámetro, de la Recursión y de Rice\n└─ Idea · lenguajes computables y computablemente enumerables",
+        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · cát. LFAyC (Campus Exactas) · transcripción cubawiki", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
 }

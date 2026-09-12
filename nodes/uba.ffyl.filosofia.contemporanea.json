@@ -21,14 +21,14 @@
   ],
   "eyebrow": "Filosofía Contemporánea · Depto. de Filosofía",
   "title": "¿Y si toda la filosofía fue, en el fondo, un problema de lenguaje?",
-  "lede": "El último eslabón del hilo histórico. Donde la carrera lo dibuja como el corte entre <b>analítica y continental</b>, este programa hace algo más fino: toma un solo hilo —<b>el lenguaje</b>— y lo sigue a través de las dos tradiciones a la vez. De Frege y Wittgenstein a Heidegger y Foucault, tres miradas sobre la misma pregunta: ¿qué es significar? La respuesta semántica, la ontológica y la crítica.",
+  "lede": "El último eslabón del hilo histórico. El programa se propone, con todas las letras, «privilegiar la exposición no sesgada ni reducida a una sola escuela — como suele suceder en la especialización, en donde la corriente estudiada es exclusivamente la analítica»: toma un solo hilo —<b>el lenguaje</b>— y lo sigue por varias tradiciones a la vez. De Frege y Wittgenstein a Heidegger y Foucault, tres miradas sobre la misma pregunta: ¿qué es significar? La perspectiva semántica, la ontológica y la práctica.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "96 h · EF" },
     { "k": "Unidades", "v": "3", "small": "programa" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Eje", "v": "lenguaje", "small": "tema 2020" }
   ],
-  "frame": "Grounded en el programa 2020 de la cátedra (Cabanchik), código 0208-12004, repositorio.filo.uba.ar. Nota de honestidad sobre el nombre: en el Plan 2017 el cuarto término del bloque diacrónico de historia (12001 Antigua → 12002 Medieval → 12003 Moderna → 12004) se titula oficialmente 'Filosofía Contemporánea', no 'Historia de la Filosofía Contemporánea'; el rótulo del nodo padre usa la forma larga como nombre de serie. No existe en el repositorio un programa titulado 'Historia de la Filosofía Contemporánea' distinto de éste. El programa 2020 elige como eje el problema del lenguaje y lo recorre en tres perspectivas —semántica, ontológica y práctica— cruzando deliberadamente la analítica y la continental. Marx entra por la crítica marxista del lenguaje (Voloshínov, Pêcheux). El eje rota cada año; la voluntad de no reducir el período a una sola escuela es estable.",
+  "frame": "Grounded en el programa 2020 de la cátedra (Cabanchik), código 0208-12004, repositorio.filo.uba.ar. Nota de honestidad sobre el nombre: en el Plan 2017 el cuarto término del bloque diacrónico de historia (12001 Antigua → 12002 Medieval → 12003 Moderna → 12004) se titula oficialmente 'Filosofía Contemporánea', no 'Historia de la Filosofía Contemporánea'; el rótulo del nodo padre usa la forma larga como nombre de serie. Buscando en FILO:Digital no se localizó un programa titulado 'Historia de la Filosofía Contemporánea' distinto de éste: vale para esa búsqueda, no como negativa universal. El programa 2020 elige como eje el problema del lenguaje y lo recorre en tres perspectivas —semántica, ontológica y práctica— cruzando deliberadamente la analítica y la continental. Marx entra por la crítica marxista del lenguaje (Voloshínov, Pêcheux). Que el eje se elija por año lo dice el propio documento —«El programa propuesto para este año, escoge un eje central alrededor del cual se organizará el desarrollo»—; este nodo no comparó los ejes de otros años, así que no dice cuáles fueron.",
   "groups": [
     {
       "kind": "spine",
@@ -38,7 +38,7 @@
       "map": {
         "mk": "El programa 2020, en tres unidades",
         "tree": "FILOSOFÍA CONTEMPORÁNEA — el problema del lenguaje\n│\n├─ I   Perspectiva semántica    Frege · Russell · Husserl · Wittgenstein (I y II)\n│         significación, sentido y denotación\n├─ II  Perspectiva ontológica   Benjamin · Heidegger · Sartre · Merleau-Ponty\n│         el ser del lenguaje · hermenéutica y fenomenología\n└─ III Perspectiva práctica     Nietzsche · Foucault · Bajtín/Voloshínov · Pêcheux\n          crítica del lenguaje · ideología y verdad",
-        "foot": "Unidades del programa 2020 (Cabanchik). El corte analítica/continental que la carrera marca aquí no separa: el lenguaje atraviesa las dos."
+        "foot": "Unidades del programa 2020 (Cabanchik), con los títulos literales que el documento les da. El programa declara que no reduce el período a una sola escuela: el problema del lenguaje atraviesa las tradiciones que recorre."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.contemporanea.semantica", "name": "La perspectiva semántica", "role": "Unidad I · Frege, Russell, Wittgenstein", "tag": "unidad", "kind": "unit" },
@@ -49,11 +49,12 @@
     {
       "kind": "reading",
       "eyebrow": "Bibliografía · fuentes obligatorias",
-      "title": "Los textos, tal como los asigna la cátedra",
-      "note": "Bibliografía obligatoria de trabajos prácticos. Cada libro es un índice L3 aún sin abrir.",
+      "title": "Diez de las catorce entradas obligatorias",
+      "note": "SELECCIÓN DECLARADA: 10 de las 14 entradas de la «Bibliografía obligatoria de estudio en los trabajos prácticos» (5 en la Unidad I, 4 en la II, 5 en la III). No es el listado de la cátedra: es una muestra de él. Quedan sin dibujar Benjamin («Sobre el lenguaje en general y sobre el lenguaje de los hombres»), Sartre («Ida y vuelta»), Eagleton («Los amigos de Wittgenstein») y Pêcheux (Las verdades evidentes); la Bibliografía general queda enteramente fuera. Cada libro es un índice L3 aún sin abrir.",
       "exits": [
         { "address": "uba.ffyl.filosofia.contemporanea.frege-escritos", "name": "El pensamiento. Una investigación lógica", "role": "G. Frege (Escritos lógico-filosóficos, Colihue)", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.contemporanea.husserl-investigaciones", "name": "Investigaciones lógicas", "role": "E. Husserl (Revista de Occidente)", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.contemporanea.russell-atomismo-logico", "name": "La filosofía del atomismo lógico, lección VI", "role": "B. Russell (1919) · Unidad I · la teoría denotativa", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.contemporanea.wittgenstein-tractatus", "name": "Tractatus logico-philosophicus", "role": "L. Wittgenstein", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.contemporanea.wittgenstein-investigaciones", "name": "Investigaciones filosóficas", "role": "L. Wittgenstein (Altaya)", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.contemporanea.heidegger-ser-y-tiempo", "name": "Ser y tiempo", "role": "M. Heidegger (Trotta / F.C.E.)", "tag": "primario", "kind": "book" },
@@ -64,5 +65,8 @@
       ]
     }
   ],
-  "source": { "label": "Programa 2020 · Filosofía Contemporánea (Cabanchik) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" }
+  "source": { "label": "Programa 2020 · Filosofía Contemporánea Nº 0208 - 12004 (Cabanchik) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" },
+  "sources": [
+    { "role": "principal y única — unidades y bibliografía dibujadas", "label": "Programa 2020 · Filosofía Contemporánea Nº 0208 - 12004 (Cabanchik) · FILO:Digital", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13156" }
+  ]
 }

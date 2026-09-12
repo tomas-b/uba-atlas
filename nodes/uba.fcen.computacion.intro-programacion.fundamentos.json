@@ -30,10 +30,10 @@
       "map": {
         "mk": "El bloque, comprimido",
         "tree": "FUNDAMENTOS (B1)\n│\n├─ Nociones   · problema, algoritmo, programa, paradigmas\n├─ Especificar · diseño por contrato, lenguaje semi-formal\n├─ Lógica     · proposicional, trivaluada\n└─ Datos      · tipos de datos, TADs",
-        "foot": "Temas de la cátedra (DC, plan 2023)."
+        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria) · cubawiki.com.ar (contenido; wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
 }

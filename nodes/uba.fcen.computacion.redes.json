@@ -6,8 +6,9 @@
   "metadata": {
     "regimen": "cuatrimestral",
     "catedra": "Departamento de Computación (FCEN-UBA)",
-    "cargaHoraria": "160 h (10 h semanales · T/P/L)",
-    "cuatrimestre": "1º · año 4",
+    "cargaHoraria": "10 hs semanales · 160 hs totales (T/P/L)",
+    "cuatrimestre": "1º · año 4 (página del Plan 2023)",
+    "cuatrimestreConflicto": "la tabla del texto ordenado del plan numera la materia como cuatrimestre 8 (= 3º año, 2º cuatrimestre), no como el 9 que correspondería a 4º año 1er cuatrimestre — conflicto sin resolver",
     "correlativas": ["Sistemas Operativos", "Técnicas de Diseño de Algoritmos", "Estadística Computacional"],
     "unidades": 3
   },
@@ -17,33 +18,51 @@
     { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
     { "address": "uba.fcen.computacion.redes", "label": "Redes de Comunicaciones y Cómputo Distribuido" }
   ],
-  "eyebrow": "Redes de Comunicaciones y Cómputo Distribuido · año 4 · DC-FCEN",
+  "eyebrow": "Redes de Comunicaciones y Cómputo Distribuido · Lic. Computación · DC-FCEN",
   "title": "Cómo viaja la información entre máquinas.",
-  "lede": "Redes de Comunicaciones y Cómputo Distribuido: los principios de la transmisión de información y su organización en redes. Arranca por la teoría de la información, sigue por las arquitecturas, capas y protocolos que estructuran una red, y llega a las nociones de las plataformas de cómputo distribuido. Materia teórico-práctica con laboratorio (160 h), 1º cuatrimestre del último año.",
+  "lede": "Redes de Comunicaciones y Cómputo Distribuido: los principios de la transmisión de información y su organización en redes. Arranca por la teoría de la información, sigue por las arquitecturas, capas y protocolos que estructuran una red, y llega a las plataformas de cómputo distribuido. Materia teórico-práctica con laboratorio, 10 hs semanales · 160 hs totales.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "T/P/L · 160 h" },
     { "k": "Ejes", "v": "3", "small": "contenido mínimo" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
-    { "k": "Correlativas", "v": "SO · TDA · Est.", "small": "año 4" }
+    { "k": "Correlativas", "v": "SO · TDA · Est.", "small": "texto ordenado" }
   ],
-  "frame": "Contenido de Redes de Comunicaciones y Cómputo Distribuido según los contenidos mínimos del Plan 2023 (computacion.dc.uba.ar). Materia nueva del plan: la cátedra aún no publica un programa con unidades y bibliografía formales, así que los ejes que siguen son los tres contenidos mínimos oficiales. Nivel L2 por temas; la bibliografía específica es el paso pendiente para cerrarlo.",
+  "frame": "Los tres ejes son los contenidos mínimos que imprime el documento oficial del plan para «Redes de Comunicaciones y Cómputo Distribuido (RCD)» — «Principales arquitecturas, capas y protocolos de red. Teoría de la información. Cómputo distribuido.» —, no la descripción en prosa de la página del Plan 2023. Hay un conflicto sin resolver sobre cuándo se cursa: la página del DC la ubica en 4º año, 1er cuatrimestre, mientras que la tabla del texto ordenado del plan la numera como cuatrimestre 8, que en esa misma tabla corresponde a 3º año, 2º cuatrimestre. Del plan viejo no es una materia sin antecedente: la tabla de equivalencias del DC imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones (Plan 1993)». No hay programa de cátedra ni bibliografía publicados; la columna de detalle del documento del plan sí enumera temas más finos (redes fijas y móviles, desempeño, escalabilidad, seguridad, cloud/fog/edge, orquestación, SDN, IoT, blockchain) que todavía no se dibujan como unidades.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · los 3 ejes",
       "title": "El recorrido de las redes",
-      "note": "Cada eje es un contenido mínimo del plan, en orden.",
+      "note": "Cada eje es un contenido mínimo del documento del plan; el orden de abajo es el del recorrido, no el impreso.",
       "map": {
         "mk": "El programa, en tres ejes",
-        "tree": "REDES DE COMUNICACIONES Y CÓMPUTO DISTRIBUIDO\n│\n├─ Eje 1 · Teoría de la información\n├─ Eje 2 · Arquitecturas, capas y protocolos de red\n└─ Eje 3 · Plataformas de cómputo distribuido",
-        "foot": "Contenidos mínimos del Plan 2023 (DC-FCEN). Sin programa de cátedra ni bibliografía publicados todavía."
+        "tree": "REDES DE COMUNICACIONES Y CÓMPUTO DISTRIBUIDO\n│\n├─ Eje 1 · Teoría de la información\n├─ Eje 2 · Principales arquitecturas, capas y protocolos de red\n└─ Eje 3 · Cómputo distribuido",
+        "foot": "Contenidos mínimos del documento oficial del plan (DC-FCEN). Sin programa de cátedra ni bibliografía publicados todavía."
       },
       "exits": [
         { "address": "uba.fcen.computacion.redes.teoria-informacion", "name": "Teoría de la información", "role": "Eje 1", "tag": "contenido", "kind": "unit" },
-        { "address": "uba.fcen.computacion.redes.arquitecturas-protocolos", "name": "Arquitecturas, capas y protocolos de red", "role": "Eje 2", "tag": "contenido", "kind": "unit" },
-        { "address": "uba.fcen.computacion.redes.computo-distribuido", "name": "Plataformas de cómputo distribuido", "role": "Eje 3", "tag": "contenido", "kind": "unit" }
+        { "address": "uba.fcen.computacion.redes.arquitecturas-protocolos", "name": "Principales arquitecturas, capas y protocolos de red", "role": "Eje 2", "tag": "contenido", "kind": "unit" },
+        { "address": "uba.fcen.computacion.redes.computo-distribuido", "name": "Cómputo distribuido", "role": "Eje 3", "tag": "contenido", "kind": "unit" }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (documento oficial del plan: contenidos mínimos y carga)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los tres contenidos mínimos de la fila RCD, su columna de detalle y su tabla de dedicación horaria, que imprime «Redes de Comunicaciones y Cómputo Distribuido · 10 · 160».",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «21 · 8 · Redes de Comunicaciones y Cómputo Distribuido · C · 10 · 160 · Sistemas Operativos, Técnicas de Diseño de Algoritmos, Estadística Computacional · T/P/L» — de ahí las correlativas. Su CUAT 8 contradice la ubicación en 4º año de la página del DC: conflicto declarado, sin resolver.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 4º año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su tabla de equivalencias imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones». Su descripción en prosa no se dibuja: los ejes salen del documento del plan.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 07/2024» (PDF oficial). VERIFICADO (extract/out/plan-comp-v07-2024.txt): fila RCD idéntica y misma carga 10 hs / 160 hs — las dos versiones concuerdan.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2024/07/Plan-de-Estudios-Lic.-Cs-Computacion-Version-07_2024-1.pdf"
+    }
+  ]
 }

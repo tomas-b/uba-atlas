@@ -5,9 +5,10 @@
   "groundingLevel": "L2",
   "metadata": {
     "regimen": "cuatrimestral",
-    "catedra": "Departamento de Computación (FCEN-UBA) · LaFHIS",
-    "cargaHoraria": "10 h semanales · 160 h (35% teór · 35% práct · 30% lab)",
+    "catedra": "Departamento de Computación (FCEN-UBA)",
+    "cargaHoraria": "10 hs semanales · 160 hs totales (35% teór · 35% práct · 30% lab)",
     "cuatrimestre": "2º · año 2",
+    "correlativas": ["Paradigmas de Programación"],
     "unidades": 6,
     "bibliography": []
   },
@@ -23,20 +24,20 @@
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
     { "k": "Unidades", "v": "6", "small": "contenidos mín." },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio pend." },
-    { "k": "Enfoque", "v": "OO + TDD", "small": "diseño y patrones" }
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
+    { "k": "Correlativa", "v": "Paradigmas", "small": "año 2" }
   ],
-  "frame": "Los temas se toman de fuentes oficiales del DC (computacion.dc.uba.ar · Plan 2023 y el documento del plan): la descripción de la materia y los temas propuestos (proceso de desarrollo, especificaciones, modelado del dominio, diseño OO y Domain Driven Design, patrones, readaptabilidad, validación y verificación, jerarquía de testing, integración continua, TDD, análisis de código). Las seis unidades agrupan esos temas en orden. La cátedra (LaFHIS) trabaja el diseño y las arquitecturas desde objetos con TDD; su bibliografía formal (GoF, Object Thinking, Working Effectively with Legacy Code, entre otros) figura en cursadas previas de la materia pero no está publicada como lista oficial del Plan 2023 ni con ediciones — por eso no se afirma aquí. Queda pendiente para cerrar L2.",
+  "frame": "Los temas salen de dos fuentes oficiales del DC. La página del Plan 2023 ubica la materia (2º año, 2º cuatrimestre), da su carga («Carga horaria semanal: 10 hrs») y la describe: «Problemática del desarrollo de software a gran escala. La aplicación de un enfoque sistemático, cuantificable y disciplinado al desarrollo, operación y mantenimiento de Software». El documento del plan imprime la fila «Ingeniería de Software (IS)» con sus contenidos mínimos — proceso de desarrollo y sus fases, técnicas de modelado y especificación, arquitecturas y diseño de software, validación y verificación, técnicas modernas de construcción a mediana / gran escala — y una columna de detalle que enumera, en este orden: nociones básicas sobre el proceso, especificaciones, modelado del dominio del problema y de la solución, diseño orientado a objetos, Domain Driven Design, patrones de diseño, readaptabilidad, introducción a la validación y verificación, jerarquía de testing, integración continua, test driven development, técnicas de análisis de código. Las seis unidades agrupan esa columna con dos desvíos declarados: el orden se reacomoda al final — la fuente imprime «Jerarquía de testing. Integración Continua. Test Driven Development», y acá el TDD se agrupa con el testing en la unidad 5 y la integración continua pasa a la 6 con el análisis de código —, y «Arquitecturas y diseño de software», que la fuente lista entre los contenidos mínimos, queda plegado en la unidad 3 sin unidad propia. No hay bibliografía: ninguna de las dos fuentes oficiales publica una lista para esta materia, y no se afirma ninguna acá. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · las 6 unidades",
       "title": "Del proceso al testing",
-      "note": "Temas del plan agrupados en seis unidades, en orden.",
+      "note": "La columna de detalle del documento del plan, agrupada en seis unidades. Dos desvíos declarados: el reordenamiento del tramo testing / integración continua / TDD, y «Arquitecturas y diseño de software» plegado en la unidad 3.",
       "map": {
         "mk": "El programa, en seis unidades",
-        "tree": "INGENIERÍA DE SOFTWARE\n│\n├─ 1 · Proceso de desarrollo de software\n├─ 2 · Especificaciones y modelado del dominio\n├─ 3 · Diseño orientado a objetos y DDD\n├─ 4 · Patrones de diseño y readaptabilidad\n├─ 5 · Validación y verificación · jerarquía de testing, TDD\n└─ 6 · Integración continua y análisis de código",
-        "foot": "Temas del documento oficial del Plan 2023 (DC-FCEN). La bibliografía de cátedra no está publicada como lista oficial."
+        "tree": "INGENIERÍA DE SOFTWARE\n│\n├─ 1 · Proceso de desarrollo de software\n├─ 2 · Especificaciones y modelado del dominio\n├─ 3 · Diseño orientado a objetos y DDD    ← pliega «Arquitecturas y diseño de software»\n├─ 4 · Patrones de diseño y readaptabilidad\n├─ 5 · Validación y verificación · jerarquía de testing, TDD\n└─ 6 · Integración continua y análisis de código",
+        "foot": "Temas del documento oficial del plan (DC-FCEN). Sin bibliografía publicada por las fuentes oficiales."
       },
       "exits": [
         { "address": "uba.fcen.computacion.ingenieria-software.proceso-desarrollo", "name": "Proceso de desarrollo de software", "role": "unidad 1", "tag": "unidad", "kind": "unit" },
@@ -48,5 +49,23 @@
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y temas propuestos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (página del DC y documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los contenidos mínimos de la fila «Ingeniería de Software (IS) · 10 hs» y su columna de detalle, de donde salen las seis unidades; la correlativa «PP» de la tabla de alto nivel; y la tabla de dedicación, que imprime «Ingeniería de Software · 10 · 160».",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 2º año, 2º cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su descripción en prosa, que es la base del lede. Su tabla de equivalencias imprime «Ingeniería de Software ↔ Ingeniería de Software I (Plan 1993)».",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «14 · 6 · Ingeniería de Software · C · 10 · 160 · Paradigmas de Programación · T/P/L» — de ahí la correlativa y las 160 hs totales.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. Es el destino al que remite la página del Plan 2023 para los programas oficiales por materia. Todavía no explotado para este nodo — es el paso pendiente para conseguir el programa por unidades y la bibliografía de cátedra.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    }
+  ]
 }

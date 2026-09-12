@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral · promoción directa", "cargaHoraria": "160 hs (4 teór + 4 práct sem.)", "cuatrimestre": "1º", "catedra": "Depto. de Filosofía · programa Prof. Carlos A. Oller (Nº 0211, 2013)", "unidades": 9, "bibliografia": 6 },
+  "metadata": { "regimen": "cuatrimestral · promoción directa", "cargaHoraria": "160 hs cuatrimestrales (4 teóricas + 4 prácticas + 2 de consulta por semana) — dato de este programa; los otros dos programas de Lógica que hay en mano imprimen 96 hs o ninguna cifra", "cuatrimestre": "1º (franja matutina)", "anioDelPrograma": "2013 — la carátula imprime «AÑO: 2013»", "catedra": "Prof. Carlos A. Oller · programa Nº 0211", "codigo": "0211 — el único número que imprime este documento; los programas del Plan 2017 llevan el par «0211 - 12005»", "unidades": 9, "bibliografia": 7 },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.ffyl", "label": "Filosofía y Letras" },
@@ -17,9 +17,9 @@
     { "k": "Régimen", "v": "cuatrim.", "small": "prom. directa" },
     { "k": "Unidades", "v": "9", "small": "programa" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
-    { "k": "Área", "v": "sistem.", "small": "lógica" }
+    { "k": "Programa", "v": "2013", "small": "no vigente" }
   ],
-  "frame": "Contenido real del programa Nº 0211 (Prof. Carlos A. Oller, 1º cuatrim. 2013, filosofia.filo.uba.ar): una introducción a la lógica de primer orden como instrumento para representar y evaluar argumentos filosóficos. El recorrido es estable y canónico: teoría de la argumentación y falacias → lógica proposicional (lenguaje, semántica, deducción) → lógica de predicados (lenguaje, semántica, deducción) → metateoría (corrección, completitud, decidibilidad) → el debate monismo/pluralismo lógico. Manual central: Gamut. Como toda sistemática, la cátedra y el énfasis rotan; el arco de contenidos mínimos es el que se lista.",
+  "frame": "PROGRAMA VIEJO, declarado: este nodo dibuja el programa Nº 0211 del PRIMER CUATRIMESTRE DE 2013 (Prof. Carlos A. Oller, filosofia.filo.uba.ar). No es el programa vigente. Es una introducción a la lógica de primer orden como instrumento para representar y evaluar argumentos filosóficos: teoría de la argumentación y falacias → lógica proposicional (lenguaje, semántica, deducción) → lógica de predicados (lenguaje, semántica, deducción) → metateoría (corrección y completitud; decidibilidad en la proposicional, semidecidibilidad en la de primer orden) → el debate monismo/pluralismo lógico. Manual central: Gamut. LA FORMA DE NUEVE UNIDADES ES DE ESTE PROGRAMA, no de la materia: hay otros dos programas reales de Lógica en mano y ninguno tiene esta forma — el de Sandra Lazzer (2º cuatrim. 2017, Programa UBA XXII, Nº 0211) arma cuatro unidades y no imprime cifra de carga horaria, y el de Eduardo Barrio (1º cuatrim. 2021, Nº 0211 - 12005) arma otras cuatro —con teoría de conjuntos y semántica tarskiana— y declara 96 horas. Lo que varía entre ellos no es el énfasis: es el recorte, el número de unidades y la carga.",
   "groups": [
     {
       "kind": "spine",
@@ -28,8 +28,8 @@
       "note": "Cada unidad del programa es un nodo, en orden.",
       "map": {
         "mk": "El programa, en nueve unidades",
-        "tree": "LÓGICA — lógica de primer orden y argumentación\n│\n├─ 1 · Lenguaje, argumentación, lógica y filosofía\n├─ 2 · Argumentos deductivos y no deductivos · falacias\n├─ PROPOSICIONAL\n│    ├─ 3 · Lenguaje\n│    ├─ 4 · Semántica (tablas de verdad)\n│    └─ 5 · Sistema deductivo (deducción natural)\n├─ PREDICADOS (primer orden)\n│    ├─ 6 · Lenguaje\n│    ├─ 7 · Semántica (modelos)\n│    └─ 8 · Sistema deductivo · metateoría\n└─ 9 · La lógica clásica y sus rivales · monismo/pluralismo",
-        "foot": "Temas del programa Oller 2013. La metateoría (corrección, completitud, decidibilidad) cierra la lógica elemental; la Unidad 9 la abre a la filosofía de la lógica."
+        "tree": "LÓGICA — lógica de primer orden y argumentación\n│\n├─ 1 · Lenguaje, argumentación, lógica y filosofía\n├─ 2 · Argumentos deductivos y no deductivos · falacias\n├─ PROPOSICIONAL\n│    ├─ 3 · Lenguaje\n│    ├─ 4 · Semántica (tablas de verdad)\n│    └─ 5 · Sistema deductivo (ded. natural) · metateoría: decidibilidad\n├─ PREDICADOS (primer orden)\n│    ├─ 6 · Lenguaje\n│    ├─ 7 · Semántica (modelos)\n│    └─ 8 · Sistema deductivo · metateoría: semidecidibilidad\n└─ 9 · La lógica clásica y sus rivales · monismo/pluralismo",
+        "foot": "Temas del programa Oller 2013, en el orden en que el documento los lista. La metateoría cierra la lógica elemental —la Unidad 5 cierra la proposicional con corrección, completitud y decidibilidad; la Unidad 8 cierra la de primer orden con corrección, completitud y semidecidibilidad, que es lo que el programa escribe— y la Unidad 9 la abre a la filosofía de la lógica. Los programas de Lazzer 2017 y Barrio 2021 reparten la misma materia en cuatro unidades y no están dibujados acá."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.logica.argumentacion", "name": "Lenguaje, argumentación, lógica y filosofía", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -46,17 +46,23 @@
     {
       "kind": "books",
       "eyebrow": "Bibliografía obligatoria",
-      "title": "El aparato de lectura",
-      "note": "Títulos reales del programa (obligatoria por unidad). No indexados aún como libros (L3).",
+      "title": "Las siete obras de la bibliografía obligatoria",
+      "note": "COMPLETO Y DECLARADO: son las siete obras distintas que el programa Oller 2013 lista como «Bibliografía obligatoria» a lo largo de sus nueve unidades — no una selección. Queda fuera sólo la «Bibliografía complementaria general» (Vega Reñón; Vega Reñón y Olmos Gómez). Los títulos y pies de imprenta son los literales del programa. No indexados aún como libros (L3).",
       "exits": [
         { "address": "uba.ffyl.filosofia.logica.libro-gamut", "name": "Lógica, lenguaje y significado I: Introducción a la lógica — L.T.F. Gamut (Eudeba, 2009)", "role": "manual central · U3–U8", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.logica.libro-comesana", "name": "Lógica informal, falacias y argumentos filosóficos — J.M. Comesaña (Eudeba, 1998)", "role": "U1–U2", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.logica.libro-copi-cohen", "name": "Introducción a la Lógica — I. Copi y C. Cohen (Limusa, 1995)", "role": "U1–U2", "tag": "libro", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.logica.libro-goldstein", "name": "Lógica: Conceptos clave en Filosofía — L. Goldstein, A. Brennan, M. Deutsch y J. Y. F. Lau (Universitat de València, 2008)", "role": "U1 · caps. 1 y 2", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.logica.libro-marraud", "name": "Methodus Argumentandi — H. Marraud (Ed. UAM, 2007)", "role": "U1–U2", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.logica.libro-haack", "name": "Filosofía de las lógicas — S. Haack (Cátedra, 1982)", "role": "U9", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.logica.libro-orayen", "name": "Lógica, significado y ontología — R. Orayen (UNAM, 1989)", "role": "U9", "tag": "libro", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "filosofia.filo.uba.ar · Programa de Lógica Nº 0211 (Oller, 1º 2013)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" }
+  "source": { "label": "filosofia.filo.uba.ar · Programa de Lógica Nº 0211 (Oller, 1º cuatrim. 2013)", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" },
+  "sources": [
+    { "role": "principal — unidades y bibliografía dibujadas", "label": "Programa Nº 0211 · Lógica (Carlos A. Oller) · «PRIMER CUATRIMESTRE 2013 (franja matutina)»", "url": "https://filosofia.filo.uba.ar/sites/filosofia.filo.uba.ar/files/Logica%2013%20I%20%28Oller%29.pdf" },
+    { "role": "contraste — de acá sale que la forma de nueve unidades no es la de la materia; no está dibujado", "label": "Programa Nº 0211 · Lógica (Sandra Lazzer, 2º cuatrim. 2017, Programa UBA XXII, Res. 2134/17) · cuatro unidades, sin cifra de carga horaria", "url": "http://repositorio.filo.uba.ar/handle/filodigital/10386" },
+    { "role": "contraste — cuatro unidades y 96 horas; no está dibujado", "label": "Programa Nº 0211 - 12005 · Lógica (Eduardo Barrio, 1º cuatrim. 2021, Res. 732/20) · FILO:Digital", "url": "http://repositorio.filo.uba.ar/handle/filodigital/12467" }
+  ]
 }

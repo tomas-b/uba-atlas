@@ -1,0 +1,51 @@
+{
+  "address": "uba.fcen.computacion.complejidad.arora-barak",
+  "level": "libros",
+  "kind": "book",
+  "groundingLevel": "L0",
+  "metadata": {
+    "author": "Arora, S., & Barak, B.",
+    "title": "Computational complexity: a modern approach",
+    "year": 2009,
+    "publisher": null,
+    "note": "La única fuente de esta referencia — Cuba-Wiki — imprime autor, título y año, y ningún sello editorial: no se afirma ninguno acá. Contenido del libro (L3): no indexado."
+  },
+  "breadcrumb": [
+    { "address": "uba", "label": "UBA · plano general" },
+    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
+    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
+    { "address": "uba.fcen.computacion.complejidad", "label": "Complejidad Computacional" },
+    { "address": "uba.fcen.computacion.complejidad.arora-barak", "label": "Arora & Barak · Computational complexity: a modern approach" }
+  ],
+  "eyebrow": "Complejidad Computacional · libro · la única referencia de la lista",
+  "title": "Arora & Barak — Computational complexity: a modern approach.",
+  "lede": "El único ítem de la sección «Bibliografía» de la página de Complejidad Computacional en Cuba-Wiki, impreso ahí como «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Eso es todo lo que dice la fuente: ni sello editorial, ni edición, ni capítulos asignados.",
+  "meta": [
+    { "k": "Autores", "v": "Arora & Barak" },
+    { "k": "Año", "v": "2009", "small": "según la cita" },
+    { "k": "Grounding", "v": "L0", "small": "sólo la cita" },
+    { "k": "Tipo", "v": "libro" }
+  ],
+  "frame": "Nodo-cita: existe porque una fuente lo nombra, y no más. La referencia viene de Cuba-Wiki — la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra —, cuya sección «Bibliografía» para Complejidad Computacional imprime un único ítem: «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Ninguna fuente oficial del Departamento de Computación publica bibliografía para esta materia. El contenido del libro (L3) no está indexado: no hay índice, ni capítulos, ni edición verificada, y no se inventan acá.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "La cita, tal como está impresa",
+      "title": "Qué dice la fuente",
+      "note": "Lo que hay: una línea. Lo que falta: todo el resto del libro.",
+      "map": {
+        "mk": "La referencia, completa",
+        "tree": "COMPUTATIONAL COMPLEXITY: A MODERN APPROACH\n│\n├─ Autores    · Arora, S., & Barak, B.\n├─ Año        · 2009\n├─ Editorial  · no impresa en la fuente\n└─ Contenido  · no indexado (L3 pendiente)",
+        "foot": "Único ítem de «Bibliografía» en la página de Complejidad Computacional de Cuba-Wiki (wiki de estudiantes, no oficial)."
+      },
+      "exits": []
+    }
+  ],
+  "source": { "label": "cubawiki.com.ar · «Complejidad Computacional» · sección Bibliografía", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Complejidad Computacional» (plan 2023). DIBUJADO: el único ítem de su sección «Bibliografía», «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional"
+    }
+  ]
+}

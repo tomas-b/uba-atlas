@@ -66,7 +66,7 @@
       "map": {
         "mk": "Análisis Matemático A 66 — doce prácticas",
         "tree": "ANÁLISIS MATEMÁTICO A 66 · Área de Matemática · CBC\n│\n├─ P0  · Preliminares              · puesta al día (no está en 66.html)\n├─ P1  · Funciones Reales          · puesta al día · 66.html: «Funciones»\n├─ P2  · Números Reales\n├─ P3  · Sucesiones\n├─ P4  · Límites y Continuidad\n├─ P5  · Derivada                  · 66.html: «Derivadas»\n├─ P6  · Teoremas del Valor Medio  · 66.html suma «Regla de L'Hopital»\n├─ P7  · Estudio de Funciones      · 66.html suma «Optimización»\n├─ P8  · Teorema de Taylor\n├─ P9  · Integrales                · 66.html suma «Métodos de integración»\n├─ P10 · Aplicaciones de la Integral · 66.html: «Área entre curvas» y «Ecuaciones diferenciales»\n└─ P11 · Series\n\nAPARTE — el «Programa» impreso en la misma guía (p. 68), otra partición:\n   I Números reales. Funciones · II Sucesiones · III Límite y continuidad\n   IV Derivadas (incluye Taylor) · V Integrales",
-        "foot": "Doce prácticas, no seis unidades. Desde la P2, cada parte ordena sus ejercicios en introductorios, de entrenamiento, de evaluación, y problemas y complementos."
+        "foot": "Doce prácticas; el Programa impreso (p. 68) las agrupa en cinco unidades I-V. Desde la P2, cada parte ordena sus ejercicios en introductorios, de entrenamiento, de evaluación, y problemas y complementos."
       },
       "exits": [
         {

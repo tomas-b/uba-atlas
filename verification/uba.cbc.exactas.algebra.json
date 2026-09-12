@@ -1,24 +1,17 @@
 {
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
   "address": "uba.cbc.exactas.algebra",
-  "source_reachable": "partial (https dead, http 200)",
-  "units_total": 7,
-  "units_found": 4,
-  "books_total": 1,
+  "units_total": 8,
+  "units_found": 8,
+  "books_total": 0,
   "books_found": 0,
-  "not_found": [
-    "U5 'Transformaciones Lineales y Matrices' invented (no counterpart)",
-    "book 'Álgebra A — Capitelli et al.' absent from every page of the site",
-    "identity conflation: unit names from Álgebra 27 (Exactas) while frame/book say Álgebra A 62 (Ingeniería)",
-    "metadata.unidades=7 matches no source count (8 prácticas)",
-    "'Coordinación de Matemática' — site says 'Área de Matemática'"
-  ],
-  "omitted": [
-    "Práctica 0 Preliminares dropped undeclared"
-  ],
-  "metadata_matches": false,
-  "verdict": "errors",
-  "notes": "Source recoverable over plain HTTP (TLS broken). Real structure: 8 prácticas P0-P7. U3 merges P2+P3 silently; U7 renames Diagonalización. Re-grounded same wave from 27.html.",
-  "wave": "normalizacion-cbc",
-  "date": "2026-08-29",
-  "verifier": "opus-adversarial-refresh"
+  "verdict": "clean",
+  "history": "First version had an invented unit, silent merges and a phantom book; re-grounded from mate.cbc.uba.ar 27.html + the 8 práctica PDFs. This verdict covers the replacement.",
+  "notes": "8 práctica titles verbatim; the 3 declared HTML-vs-PDF title contradictions real and exactly three; P0 titleless as claimed; TLS forensics exact (expired *.rec.uba.ar cert on www host only); no bibliography anywhere — none drawn. De-meta'd at close (frame no longer narrates the retracted attribution)."
 }

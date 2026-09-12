@@ -6,9 +6,10 @@
   "metadata": {
     "regimen": "cuatrimestral",
     "catedra": "Departamento de Computación (FCEN-UBA)",
-    "cargaHoraria": "160 h (10 h semanales · T/P/L)",
-    "cuatrimestre": "1º · año 4",
+    "cargaHoraria": "10 hs semanales (así lo imprime la página del Plan 2023) · 160 hs totales en la tabla de dedicación horaria del documento del plan",
+    "cuatrimestre": "1º · año 4 (página del Plan 2023; la tabla del texto ordenado lo numera como cuatrimestre 9)",
     "correlativas": ["Sistemas Operativos", "Paradigmas de Programación"],
+    "correlativasConflicto": "el texto ordenado del plan y Cuba-Wiki imprimen «Sistemas Operativos; Paradigmas de Programación»; las versiones 07/2024 y 11/2025 del documento del plan imprimen «RCD» (Redes) en su columna de correlativas de alto nivel — conflicto sin resolver",
     "unidades": 3
   },
   "breadcrumb": [
@@ -19,31 +20,53 @@
   ],
   "eyebrow": "Programación Concurrente y Paralela · año 4 · DC-FCEN",
   "title": "Varios hilos a la vez: sincronizar sin romper.",
-  "lede": "Programación Concurrente y Paralela: qué cambia cuando varias tareas avanzan al mismo tiempo. Los modelos de concurrencia y paralelismo, los conflictos que aparecen al compartir recursos y los mecanismos para sincronizarlos, y los principales algoritmos distribuidos. Materia teórico-práctica con laboratorio (160 h), 1º cuatrimestre del último año.",
+  "lede": "Programación Concurrente y Paralela: qué cambia cuando varias tareas avanzan al mismo tiempo. Los modelos de concurrencia y paralelismo, los conflictos que aparecen al compartir recursos y los mecanismos para sincronizarlos, y los principales algoritmos distribuidos. Materia teórico-práctica con laboratorio de 10 hs semanales, 1º cuatrimestre del último año.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "T/P/L · 160 h" },
+    { "k": "Régimen", "v": "cuatrim.", "small": "T/P/L · 10 hs sem." },
     { "k": "Ejes", "v": "3", "small": "contenido mínimo" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
-    { "k": "Correlativas", "v": "SO · Parad.", "small": "año 4" }
+    { "k": "Correlativas", "v": "SO · Parad.", "small": "en conflicto" }
   ],
-  "frame": "Contenido de Programación Concurrente y Paralela según los contenidos mínimos del Plan 2023 (computacion.dc.uba.ar). Materia nueva del plan: la cátedra aún no publica un programa con unidades y bibliografía formales, así que los ejes que siguen son los tres contenidos mínimos oficiales. Nivel L2 por temas; la bibliografía específica es el paso pendiente para cerrarlo.",
+  "frame": "Los tres ejes son los contenidos mínimos que imprime el documento oficial del plan para «Programación Concurrente y Paralela (PCP)». La carga horaria: la página del Plan 2023 imprime «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)» y la tabla de dedicación horaria del documento del plan imprime «Programación Concurrente y Paralela · 10 · 160» — ninguna cifra está derivada acá. Las correlativas están en conflicto entre fuentes: el texto ordenado del plan y Cuba-Wiki dicen Sistemas Operativos y Paradigmas de Programación; las versiones 07/2024 y 11/2025 del documento del plan imprimen «RCD» (Redes) en su tabla de alto nivel. Se dibujan las dos primeras y se declara el conflicto. No hay programa de cátedra ni bibliografía publicados: Cuba-Wiki tampoco lista bibliografía para esta materia.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · los 3 ejes",
       "title": "El recorrido de la concurrencia",
-      "note": "Cada eje es un contenido mínimo del plan, en orden.",
+      "note": "Cada eje es un contenido mínimo del documento del plan, en orden y casi literal.",
       "map": {
         "mk": "El programa, en tres ejes",
-        "tree": "PROGRAMACIÓN CONCURRENTE Y PARALELA\n│\n├─ Eje 1 · Modelos de concurrencia y paralelismo\n├─ Eje 2 · Conflictos y mecanismos de sincronización\n└─ Eje 3 · Principales algoritmos distribuidos",
-        "foot": "Contenidos mínimos del Plan 2023 (DC-FCEN). Sin programa de cátedra ni bibliografía publicados todavía."
+        "tree": "PROGRAMACIÓN CONCURRENTE Y PARALELA\n│\n├─ Eje 1 · Modelos de concurrencia y paralelismo\n├─ Eje 2 · Conflictos de concurrencia y mecanismos de sincronización\n└─ Eje 3 · Principales algoritmos distribuidos",
+        "foot": "Contenidos mínimos del documento oficial del plan (DC-FCEN). Sin programa de cátedra ni bibliografía publicados: tampoco los lista Cuba-Wiki."
       },
       "exits": [
         { "address": "uba.fcen.computacion.concurrente.modelos", "name": "Modelos de concurrencia y paralelismo", "role": "Eje 1", "tag": "contenido", "kind": "unit" },
-        { "address": "uba.fcen.computacion.concurrente.sincronizacion", "name": "Conflictos y mecanismos de sincronización", "role": "Eje 2", "tag": "contenido", "kind": "unit" },
+        { "address": "uba.fcen.computacion.concurrente.sincronizacion", "name": "Conflictos de concurrencia y mecanismos de sincronización", "role": "Eje 2", "tag": "contenido", "kind": "unit" },
         { "address": "uba.fcen.computacion.concurrente.algoritmos-distribuidos", "name": "Principales algoritmos distribuidos", "role": "Eje 3", "tag": "contenido", "kind": "unit" }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos del documento oficial del plan y carga horaria", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 4º año, 1er cuatrimestre, e imprime «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)» y los tres contenidos mínimos. Esta página no publica correlativas por materia.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los contenidos mínimos de la fila PCP y la tabla de dedicación horaria, que imprime «Programación Concurrente y Paralela · 10 · 160». Su tabla de alto nivel imprime «RCD» como correlativa — en conflicto con el texto ordenado y con Cuba-Wiki; no se dibuja.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 07/2024» (PDF oficial). VERIFICADO (extract/out/plan-comp-v07-2024.txt): fila PCP idéntica, misma carga 10 hs / 160 hs y la misma correlativa «RCD» de la versión 11/2025.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2024/07/Plan-de-Estudios-Lic.-Cs-Computacion-Version-07_2024-1.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «22 · 9 · Programación Concurrente y Paralela · C · 10 · 160 · Sistemas Operativos; Paradigmas de Programación · T/P/L» — de ahí las correlativas dibujadas.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "cubawiki.com.ar · «Programación Concurrente y Paralela» (plan 2023, última edición 25/02/2026). CORROBORA: «Carga horaria: 10 horas semanales», «Correlativas: Paradigmas de Programación y Sistemas Operativos», «Cursada en Séptimo Cuatrimestre», y no publica bibliografía. Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Programaci%C3%B3n_Concurrente_y_Paralela"
+    }
+  ]
 }

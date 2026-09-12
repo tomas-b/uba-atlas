@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral · examen final", "cargaHoraria": "96 hs", "cuatrimestre": "2º", "catedra": "rota entre Cátedra Gentile y Cátedra Cassini · código 0217-12010", "unidades": 8, "bibliografia": 8, "rota": "sí — dos cátedras, mismo núcleo" },
+  "metadata": { "regimen": "cuatrimestral · examen final", "cargaHoraria": "96 horas", "cuatrimestre": "2º", "anioDelPrograma": "2021 — el documento imprime «AÑO: 2021»", "catedra": "Gentile (Prof. Nélida Gentile) · 2º cuatrimestre de 2021", "codigo": "0217-12010 — literal del programa", "unidades": 8, "bibliografia": 8, "rota": "sí — dos programas reales del mismo año lo confirman: Cassini (1º cuatrim. 2021, FILO:Digital 13638) y Gentile (2º cuatrim. 2021, FILO:Digital 15148)" },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.ffyl", "label": "Filosofía y Letras" },
@@ -19,7 +19,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Cátedras", "v": "2", "small": "rota" }
   ],
-  "frame": "Contenido real del programa Nº 0217-12010. La materia rota entre dos cátedras de scope muy similar: (a) Cátedra Gentile (Prof. Nélida Gentile, programa 2021, repositorio FILO:Digital) — las 8 unidades instanciadas aquí, la secuencia clásica de la filosofía de la ciencia del siglo XX; (b) Cátedra Cassini (Prof. Alejandro Cassini) — mismo terreno reorganizado en 'ciencias formales' + 'ciencias fácticas', con la concepción semántica de las teorías y Laudan. CAVEAT: no existe un 'contenido mínimo' normativo separado; el núcleo estable (métodos formales, empirismo lógico, Popper/Kuhn/Lakatos, explicación, realismo/antirrealismo) es común a ambas. Cualquier cursada depende de qué cátedra dicta ese cuatrimestre.",
+  "frame": "Este nodo dibuja un programa: el Nº 0217-12010 de la Cátedra Gentile (Prof. Nélida Gentile), 2º cuatrimestre de 2021, FILO:Digital — ocho unidades, la secuencia clásica de la filosofía de la ciencia del siglo XX. SEGUNDA FUENTE, citada: que la materia se dicte por dos cátedras no es una inferencia, son dos documentos del mismo año en mano — el programa de Alejandro Cassini, 1º cuatrimestre de 2021, mismo código 0217 - 12010 (FILO:Digital 13638), que reparte el mismo terreno en 'Parte I: filosofía de las ciencias formales' y 'Parte II: filosofía de las ciencias fácticas', y suma la concepción semántica de las teorías y a Laudan. De ese programa sale toda la descripción de la cátedra Cassini que se lee acá; sus unidades no están dibujadas. El núcleo que ambos comparten —métodos formales, empirismo lógico, Popper/Kuhn/Lakatos, explicación, realismo/antirrealismo— se constata comparando los dos documentos. CAVEAT, acotado a lo buscado: sobre FILO:Digital y el sitio del Departamento de Filosofía no se localizó un texto de 'contenido mínimo' normativo separado del programa de cada cátedra — vale para esas búsquedas, no como negativa universal. Qué se cursa en un cuatrimestre concreto depende de qué cátedra lo dicta.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "map": {
         "mk": "El programa Gentile, en ocho unidades",
         "tree": "FILOSOFÍA DE LAS CIENCIAS\n│\n├─ 1 · Ciencias formales · axiomática, geometrías no euclideanas\n├─ 2 · El empirismo lógico · verificacionismo, inducción\n├─ 3 · Popper · falsacionismo, demarcación\n├─ 4 · Kuhn · paradigmas, revoluciones, inconmensurabilidad\n├─ 5 · Lakatos · programas de investigación, Duhem-Quine\n├─ 6 · La explicación científica · N-D, unificación\n├─ 7 · Realismo y antirrealismo · no-milagro, inducción pesimista\n└─ 8 · van Fraassen · empirismo constructivo",
-        "foot": "Temas del programa Gentile. La cátedra Cassini reordena el mismo núcleo en ciencias formales + fácticas y suma la concepción semántica."
+        "foot": "Temas del programa Gentile 2021, en el orden en que el documento los lista. El programa de Cassini del mismo año reordena el mismo núcleo en ciencias formales + fácticas y suma la concepción semántica; no está dibujado acá."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.ciencias.formales", "name": "La metodología de las ciencias formales", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -45,8 +45,8 @@
     {
       "kind": "books",
       "eyebrow": "Bibliografía obligatoria (Cátedra Gentile)",
-      "title": "Las fuentes",
-      "note": "Títulos reales del programa Gentile. No indexados aún como libros (L3).",
+      "title": "Ocho títulos de la bibliografía obligatoria",
+      "note": "SELECCIÓN DECLARADA: 8 de las 26 entradas de «Bibliografía obligatoria» que el programa Gentile 2021 reparte entre sus ocho unidades. No es la lista de la cátedra: es una muestra de ella. Quedan sin dibujar, entre otras, las monografías de la propia cátedra publicadas por Eudeba (Gaeta y Gentile sobre Kuhn; Gaeta y Lucero sobre Lakatos; Gaeta y otros sobre modelos de explicación; Gaeta, Gentile y Lucero sobre ciencias sociales; el volumen Borge-Gentile sobre realismo científico) y también Hempel, Achistein, Balaguer, Hanson, Kukla y Psillos. La bibliografía complementaria de cada unidad queda enteramente fuera. No indexados aún como libros (L3).",
       "exits": [
         { "address": "uba.ffyl.filosofia.ciencias.libro-popper", "name": "La lógica de la investigación científica — K. Popper (Tecnos, 1980)", "role": "Unidad 3", "tag": "libro", "kind": "book" },
         { "address": "uba.ffyl.filosofia.ciencias.libro-kuhn", "name": "La estructura de las revoluciones científicas — T.S. Kuhn (FCE, 1980)", "role": "Unidad 4", "tag": "libro", "kind": "book" },
@@ -59,5 +59,9 @@
       ]
     }
   ],
-  "source": { "label": "repositorio.filo.uba.ar · Programa de Filosofía de las Ciencias (Cátedra Gentile, 2021)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" }
+  "source": { "label": "repositorio.filo.uba.ar · Programa Nº 0217-12010 · Filosofía de las ciencias (Cátedra Gentile, 2º cuatrim. 2021)", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" },
+  "sources": [
+    { "role": "principal — unidades y bibliografía dibujadas", "label": "Programa Nº 0217-12010 · Filosofía de las ciencias (Gentile, 2º cuatrim. 2021, Res. 732/20) · FILO:Digital", "url": "https://repositorio.filo.uba.ar/handle/filodigital/15148" },
+    { "role": "segunda fuente — única procedencia de la descripción de la cátedra Cassini (Partes I/II, concepción semántica, Laudan); sus unidades no están dibujadas", "label": "Programa Nº 0217 - 12010 · Filosofía de las ciencias (Cassini, 1º cuatrim. 2021, Res. 732/20) · FILO:Digital", "url": "https://repositorio.filo.uba.ar/handle/filodigital/13638" }
+  ]
 }

@@ -1,21 +1,17 @@
 {
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
   "address": "uba.cbc.exactas.analisis-matematico-a",
-  "source_reachable": "partial (https dead, http 200)",
-  "units_total": 6,
-  "units_found": 2,
-  "books_total": 0,
-  "books_found": 0,
-  "not_found": [
-    "metadata.unidades=6 appears nowhere (source: 11-12 prácticas)",
-    "biblio claim unsupported (site publishes none)"
-  ],
-  "omitted": [
-    "Taylor and Series dropped entirely; ODEs dropped; four exits are undeclared merges"
-  ],
-  "metadata_matches": false,
+  "units_total": 12,
+  "units_found": 12,
+  "books_total": 6,
+  "books_found": 6,
   "verdict": "errors",
-  "notes": "Compressing 12 prácticas to 6 units while silently deleting Taylor y Series is an undeclared selection. Código 66 confirmed. Re-grounded same wave from 66.html + 66-practicas.pdf.",
-  "wave": "normalizacion-cbc",
-  "date": "2026-08-29",
-  "verifier": "opus-adversarial-refresh"
+  "history": "First version compressed 12 prácticas into 6 invented units, dropping Taylor and Series; re-grounded from 66.html + 66-practicas.pdf. This verdict covers the replacement.",
+  "notes": "12 práctica titles verbatim (índice + in-body headers); the second printed structure (Programa p.68, five unidades I-V) accurately recorded; all 6 bibliography entries exact; all six 66.html relabelings real. ERROR fixed at close: map foot said 'no seis unidades' where the printed Programa has five. Minor: h2 quote dropped its trailing '(Cs. Exactas e Ingeniería)'."
 }

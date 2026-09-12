@@ -1,22 +1,17 @@
 {
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
   "address": "uba.fcen.computacion.tda",
-  "source_reachable": "partial",
-  "units_total": 7,
-  "units_found": 5,
-  "books_total": 2,
+  "units_total": 9,
+  "units_found": 9,
+  "books_total": 0,
   "books_found": 0,
-  "not_found": [
-    "'programa cát. Bonomo–Lin' — the only matching artifact is a STUDENT'S PERSONAL REPO (github.com/malei-dc/TDA) whose README disclaims accuracy; Bonomo not named anywhere in it",
-    "Greedy/Camino Mínimo/Flujo en Redes units absent from the official contenidos mínimos",
-    "invented quote «basado en Kleinberg–Tardos» — the repo contains NO bibliography",
-    "both book exits dangle to nonexistent files",
-    "specific algorithm names in the tree have no source",
-    "'NP se corrió a la materia posterior' contradicted by the node's own cited page"
-  ],
-  "omitted": [
-    "official 'búsqueda iterativa/local', 'cadenas y geometría', 'resolución heurística' all dropped"
-  ],
-  "metadata_matches": false,
-  "verdict": "fabrication",
-  "notes": "cargaHoraria/cuatrimestre correct vs plan. Fix path: the Repositorio Digital de Programas de Exactas (advertised by the cited page itself, unexploited) can settle the real programa and bibliography."
+  "verdict": "clean",
+  "history": "First version was a verified FABRICATION (student repo passed off as cátedra programa, invented quote, dangling books); re-grounded from the plan v11/2025 contenidos analíticos. This verdict covers the replacement.",
+  "notes": "9 units = the 9 analytic paragraphs, near-verbatim in order; no Bonomo anywhere (grep); bibliography honestly 0; fabricated children deleted. Nit: one quote carries an em-dash aside inside the marks."
 }

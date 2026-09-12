@@ -30,10 +30,10 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "coNP, EXPTIME Y JERARQUÍAS DE TIEMPO (Unidad 3)\n│\n├─ La clase coNP\n├─ EXPTIME y NEXPTIME\n├─ Jerarquías de tiempo · determinístico y no-determinístico\n└─ Teorema de Ladner",
-        "foot": "Temas de la transcripción de Cuba-Wiki (cursada 1c2025)."
+        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "cubawiki.com.ar · Complejidad Computacional (temario 1c2025)", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" }
+  "source": { "label": "cubawiki.com.ar · «Complejidad Computacional» · temario de la cursada 1C2025 (wiki de estudiantes, no oficial)", "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional" }
 }

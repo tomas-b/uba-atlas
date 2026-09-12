@@ -1,26 +1,17 @@
 {
-  "address": "uba.cbc.biosalud.matematica",
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
   "source_reachable": true,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "address": "uba.cbc.biosalud.matematica",
   "units_total": 9,
-  "units_found": 4,
+  "units_found": 9,
   "books_total": 3,
   "books_found": 3,
-  "not_found": [
-    "'Funciones trigonométricas y exponenciales' — NO such unit; fuses source U4 and U5",
-    "'Funciones racionales' drops 'y límites'",
-    "Derivadas/Integración renumbered (source: U6/U7) to fit the invented count of 6",
-    "'Cátedra Única (código 51)' CONTRADICTED — PDF header: 'MATEMÁTICA (51) - CÁTEDRA ROSSOMANDO'",
-    "carrera list absent",
-    "Agronomía-variant fact from an unattributed second source"
-  ],
-  "omitted": [
-    "Unidades Complementarias 1-2 (probabilidad, estadística) dropped silently — orphaning the listed Spiegel book",
-    "contenidos mínimos Res. 917/90 incl. VECTORES; carga horaria"
-  ],
-  "metadata_matches": false,
-  "verdict": "fabrication",
-  "notes": "metadata.unidades=6 is an INVENTED NUMBER (source: Unidad 1-7 + 2 complementarias). Only the 3 books check out. Consequence: re-grounded the same wave from the ffyb Rossomando programa.",
-  "wave": "normalizacion-cbc",
-  "date": "2026-08-29",
-  "verifier": "opus-adversarial-refresh"
+  "verdict": "clean",
+  "history": "First version was a verified FABRICATION (invented unit count, fused titles, contradicted cátedra); re-grounded from the Rossomando programa. This verdict covers the replacement.",
+  "notes": "Header/Res. 917/90/hours literal; 7+2 unidades literal; every declared contradiction really printed (VECTORES + módulo complementario absent from section B; cronograma gap; U5 title errata). All 9 unit children consistent, accent deviation itself declared."
 }

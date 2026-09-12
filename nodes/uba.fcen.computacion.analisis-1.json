@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Matemática (DM, FCEN)", "unidades": 6, "bibliography": ["Stewart · Cálculo de varias variables", "Marsden, Tromba · Cálculo Vectorial", "Apostol · Calculus", "Rey Pastor, Pi Calleja, Trejo · Análisis Matemático"] },
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "2º", "catedra": "Departamento de Matemática (DM, FCEN)", "cargaHoraria": "10 hs semanales · 160 hs totales (tablas del DC; el programa del DM no imprime carga horaria)", "unidades": 6, "bibliography": ["APOSTOL, T. · Calculus, Vol. I y II. Editorial Reverte, 1972", "COURANT, R. · Differential and Integral Calculus. Ed. Interscience, 1988", "LAGES LIMA, E. · Curso de análise, volumen 1 (15ta edición), IMPA, 2019", "LAGES LIMA, E. · Curso de análise, volumen 2 (12da edición), IMPA, 2020", "MARSDEN, J. y TROMBA, A. · Cálculo Vectorial (6ta edición). Pearson, 2018", "NORIEGA, R. · Cálculo Diferencial e Integral. Editorial Docencia S. A., 2003", "PISKUNOV, N. · Cálculo diferencial e integral, tomos I y II. Ed. Mir, 1977", "REY PASTOR, J., PI CALLEJA y TREJO · Análisis Matemático, Vol. I y II (7ma edición). Ed. Kapelusz, 1968", "SPIEGEL, M. R. · Cálculo superior (Advanced Calculus), Serie Shaum, McGraw-Hill, 1973", "SPIVAK, M. · Calculus (Cálculo Infinitesimal), Vol I y II. Ed. Reverte, 1988", "STEWART, J. · Cálculo de varias variables: Trascendentes tempranas (7ma edición). Cengage Learning Editores, 2012"] },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
@@ -12,29 +12,29 @@
   ],
   "eyebrow": "Análisis I · Año 1 · 2º cuat.",
   "title": "El cálculo en varias variables.",
-  "lede": "El análisis de la carrera: geometría del espacio y vectores, funciones de varias variables, límites y continuidad, derivadas parciales y gradiente. Polinomio de Taylor, extremos con multiplicadores de Lagrange, e integrales dobles y triples con cambio de variables.",
+  "lede": "El análisis de la carrera: geometría del espacio y vectores, funciones vectoriales y de varias variables, límites y continuidad, derivadas parciales y gradiente. Polinomio de Taylor, extremos con multiplicadores de Lagrange, e integrales dobles y triples con cambio de variables.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "2º · teór-práct" },
+    { "k": "Régimen", "v": "cuatrim.", "small": "2º · T/P/L" },
     { "k": "Unidades", "v": "6", "small": "programa" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 11/11" },
     { "k": "Depto", "v": "Matemática", "small": "DM" }
   ],
-  "frame": "Contenido del programa oficial del Departamento de Matemática (web.dm.uba.ar), cruzado con la ficha de cátedra (cms.dm.uba.ar). Seis unidades de cálculo en varias variables: el cálculo de una variable se cursa antes, por lo que esta materia — que el DM cruza como 'Análisis Matemático I / Matemática 1 / Análisis II (C)' — arranca en la geometría del espacio y avanza hasta las integrales múltiples. Temas y bibliografía sourceados.",
+  "frame": "Dos fuentes, separadas. El programa oficial del Departamento de Matemática (web.dm.uba.ar, versión «1er. Cuatrimestre 2026»), publicado bajo el título cruzado «Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C)», da las seis unidades, sus temas y los once ítems de bibliografía; el cálculo de una variable se cursa antes, por lo que la materia arranca en la geometría del espacio y llega a las integrales múltiples. El año y el cuatrimestre (1º año, 2º cuatrimestre) y la carga horaria (10 hs semanales · 160 hs totales) vienen de las tablas del Departamento de Computación, no del DM. El programa del DM no imprime correlativas.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · las 6 unidades",
       "title": "El recorrido del cálculo",
-      "note": "De los vectores a las integrales múltiples.",
+      "note": "Las seis unidades del programa del DM, en orden y con sus títulos tal como los imprime.",
       "map": {
         "mk": "El programa, en seis unidades",
-        "tree": "ANÁLISIS I — cálculo en varias variables\n│\n├─ U1 · Vectores y Geometría del Espacio\n├─ U2 · Curvas y Superficies Paramétricas\n├─ U3 · Funciones de Varias Variables\n├─ U4 · Polinomio de Taylor\n├─ U5 · Extremos\n└─ U6 · Integración",
-        "foot": "Temas del programa oficial del DM. Textos: Stewart, Marsden-Tromba, Apostol."
+        "tree": "ANÁLISIS I — cálculo en varias variables\n│\n├─ U1 · Vectores y geometría del espacio\n├─ U2 · Curvas y superficies paramétricas\n├─ U3 · Funciones vectoriales y de varias variables\n├─ U4 · Polinomio de Taylor\n├─ U5 · Extremos\n└─ U6 · Integración",
+        "foot": "Temas del programa oficial del DM (1er. Cuatrimestre 2026). Bibliografía: los once ítems que lista ese mismo programa."
       },
       "exits": [
-        { "address": "uba.fcen.computacion.analisis-1.vectores-geometria", "name": "Vectores y Geometría del Espacio", "role": "U1", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.analisis-1.curvas-superficies", "name": "Curvas y Superficies Paramétricas", "role": "U2", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.analisis-1.varias-variables", "name": "Funciones de Varias Variables", "role": "U3", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.vectores-geometria", "name": "Vectores y geometría del espacio", "role": "U1", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.curvas-superficies", "name": "Curvas y superficies paramétricas", "role": "U2", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.analisis-1.varias-variables", "name": "Funciones vectoriales y de varias variables", "role": "U3", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.analisis-1.taylor", "name": "Polinomio de Taylor", "role": "U4", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.analisis-1.extremos", "name": "Extremos", "role": "U5", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.analisis-1.integracion", "name": "Integración", "role": "U6", "tag": "unidad", "kind": "unit" }
@@ -42,16 +42,37 @@
     },
     {
       "kind": "plain",
-      "eyebrow": "Bibliografía · sourceada",
-      "title": "Los textos de la materia",
-      "note": "Bibliografía del programa oficial. Su contenido (L3) es un índice aparte.",
+      "eyebrow": "Bibliografía · según el programa del DM",
+      "title": "Los once textos de la lista",
+      "note": "Los once ítems de la sección «BIBLIOGRAFÍA» del programa, completos y en el orden impreso — que es alfabético por autor. El programa no los jerarquiza: no señala cuál es el texto base. Contenido de los libros (L3): índice aparte.",
       "exits": [
-        { "address": "uba.fcen.computacion.analisis-1.stewart", "name": "Cálculo de varias variables — J. Stewart", "role": "texto base", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.analisis-1.marsden-tromba", "name": "Cálculo Vectorial — Marsden, Tromba", "role": "referencia", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.analisis-1.apostol", "name": "Calculus — T. Apostol", "role": "referencia", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.analisis-1.rey-pastor", "name": "Análisis Matemático — Rey Pastor, Pi Calleja, Trejo", "role": "referencia", "tag": "libro", "kind": "book" }
+        { "address": "uba.fcen.computacion.analisis-1.apostol", "name": "Calculus, Vol. I y II — T. Apostol (Reverte, 1972)", "role": "ítem 1 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.courant", "name": "Differential and Integral Calculus — R. Courant (Interscience, 1988)", "role": "ítem 2 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.lages-lima-1", "name": "Curso de análise, volumen 1 — E. Lages Lima (15ta ed., IMPA, 2019)", "role": "ítem 3 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.lages-lima-2", "name": "Curso de análise, volumen 2 — E. Lages Lima (12da ed., IMPA, 2020)", "role": "ítem 4 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.marsden-tromba", "name": "Cálculo Vectorial — J. Marsden, A. Tromba (6ta ed., Pearson, 2018)", "role": "ítem 5 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.noriega", "name": "Cálculo Diferencial e Integral — R. Noriega (Docencia S. A., 2003)", "role": "ítem 6 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.piskunov", "name": "Cálculo diferencial e integral, tomos I y II — N. Piskunov (Mir, 1977)", "role": "ítem 7 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.rey-pastor", "name": "Análisis Matemático, Vol. I y II — Rey Pastor, Pi Calleja, Trejo (7ma ed., Kapelusz, 1968)", "role": "ítem 8 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.spiegel", "name": "Cálculo superior (Advanced Calculus) — M. R. Spiegel (Serie Shaum, McGraw-Hill, 1973)", "role": "ítem 9 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.spivak", "name": "Calculus (Cálculo Infinitesimal), Vol I y II — M. Spivak (Reverte, 1988)", "role": "ítem 10 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.analisis-1.stewart", "name": "Cálculo de varias variables: Trascendentes tempranas — J. Stewart (7ma ed., Cengage, 2012)", "role": "ítem 11 de la lista", "tag": "libro", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" }
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Análisis I (programa 1er. Cuatrimestre 2026)", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c" },
+  "sources": [
+    {
+      "label": "web.dm.uba.ar · programa oficial de «Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C)» del Departamento de Matemática, versión «1er. Cuatrimestre 2026». EXTRAÍDO: las seis unidades con sus títulos y temas y los once ítems de «BIBLIOGRAFÍA». No imprime correlativas, carga horaria ni ubicación en el plan de Computación.",
+      "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/275-analisis-i-analisis-matematico-i-matematica-1-analisis-ii-c"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica Análisis I en 1º año, 2º cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)». Su descripción en prosa no se dibuja: el temario lo da el DM.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). VERIFICADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «10 · 4 · Análisis I · C · 10 · 160 · CBC · T/P/L» — de ahí las 160 hs totales. La tabla del documento versión 11/2025 imprime la misma carga para «Análisis Matemático I» (10 hs / 160 hs).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    }
+  ]
 }

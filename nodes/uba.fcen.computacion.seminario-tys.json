@@ -4,11 +4,11 @@
   "kind": "course",
   "groundingLevel": "L2",
   "metadata": {
-    "regimen": "seminario · bimestral",
+    "regimen": "seminario · bimestral (carácter «B» en la tabla del texto ordenado del plan)",
     "catedra": "Departamento de Computación (FCEN-UBA)",
-    "cargaHoraria": "56 h (7 h semanales · teórica)",
-    "cuatrimestre": "2º · año 4",
-    "correlativas": ["Ingeniería de Software (recomendada)"],
+    "cargaHoraria": "56 hs totales · las fuentes discrepan en la carga semanal: 7 hs (texto ordenado, carácter bimestral) vs 3.5 hs (página del Plan 2023 y documento versión 11/2025) — conflicto sin resolver",
+    "cuatrimestre": "2º · año 4 (página del Plan 2023; la tabla del texto ordenado deja el CUAT en «–»)",
+    "correlativas": ["Ingeniería de Software (recomendada, según la página del Plan 2023; la tabla del texto ordenado imprime «–»)"],
     "unidades": 0
   },
   "breadcrumb": [
@@ -19,14 +19,14 @@
   ],
   "eyebrow": "Seminario sobre Tecnología y Sociedad · año 4 · DC-FCEN",
   "title": "La computación mirada desde afuera.",
-  "lede": "Seminario sobre Tecnología y Sociedad: no una materia de contenidos técnicos sino un espacio de reflexión sobre el oficio y su lugar en el mundo. El marco legal de la Informática en la Argentina, los delitos informáticos y las licencias de software; los aspectos éticos del ejercicio profesional y científico y de la construcción de tecnología; el profesionalismo; y las reflexiones sobre ciencia, tecnología, sociedad y desarrollo. Seminario teórico obligatorio (56 h), 2º cuatrimestre del último año.",
+  "lede": "Seminario sobre Tecnología y Sociedad: no una materia de contenidos técnicos sino un espacio de reflexión sobre el oficio y su lugar en el mundo. El marco legal de la Informática en la Argentina, los delitos informáticos y las licencias de software; los aspectos éticos del ejercicio profesional y científico y de la construcción de tecnología; el profesionalismo; y las reflexiones sobre ciencia, tecnología, sociedad y desarrollo. Seminario teórico obligatorio de 56 h, 2º cuatrimestre del último año.",
   "meta": [
     { "k": "Formato", "v": "seminario", "small": "teórico · 56 h" },
     { "k": "Temas", "v": "4 ejes", "small": "reflexión" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Recom.", "v": "Ing. Soft.", "small": "correlativa" }
   ],
-  "frame": "Contenido del Seminario sobre Tecnología y Sociedad según los contenidos mínimos del Plan 2023 (computacion.dc.uba.ar). Es un seminario de reflexión, no una materia técnica con unidades y prácticos: por eso se presenta como un mapa de ejes temáticos, sin subdividir en nodos-unidad. Nivel L2 por temas; la cátedra aún no publica bibliografía formal.",
+  "frame": "Los cuatro ejes son los contenidos mínimos que imprime el texto ordenado del plan para el Seminario sobre Tecnología y Sociedad. Es un seminario de reflexión, no una materia técnica con unidades y prácticos: por eso se presenta como un mapa de ejes temáticos, sin subdividir en nodos-unidad. Las 56 horas totales coinciden en las tres fuentes oficiales, pero la carga semanal está en conflicto: la tabla del texto ordenado imprime «Seminario sobre Tecnología y Sociedad · B · 7 · 56» — carácter B de bimestral, o sea 7 hs semanales durante ocho semanas —, mientras que la página del Plan 2023 y la tabla del documento versión 11/2025 imprimen 3.5 hs semanales, que dan las mismas 56 horas leídas sobre un cuatrimestre. El conflicto queda declarado, sin resolver. No hay bibliografía publicada por ninguna de las fuentes.",
   "groups": [
     {
       "kind": "spine",
@@ -36,10 +36,24 @@
       "map": {
         "mk": "El seminario, en cuatro ejes",
         "tree": "SEMINARIO SOBRE TECNOLOGÍA Y SOCIEDAD\n│\n├─ Marco legal de la Informática en la Argentina · delitos informáticos · licencias de software\n├─ Aspectos éticos · ejercicio profesional y científico · construcción de tecnología\n├─ Profesionalismo\n└─ Reflexiones sobre ciencia, tecnología, sociedad y desarrollo",
-        "foot": "Contenidos mínimos del Plan 2023 (DC-FCEN). Seminario teórico; sin bibliografía formal publicada."
+        "foot": "Contenidos mínimos del texto ordenado del plan (DC-FCEN). Seminario teórico; sin bibliografía publicada."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos del texto ordenado del plan", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): los contenidos mínimos del seminario («Marco legal de la Informática en la Argentina. Delitos informáticos. Licencias de software. Aspectos éticos… Profesionalismo. Reflexiones sobre ciencia, tecnología, sociedad y desarrollo»), y su fila de tabla «24 · – · Seminario sobre Tecnología y Sociedad · B · 7 · 56 · – · T», con la leyenda «C: Cuatrimestral / B: Bimestral» y modalidad T = 100% teórica.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica el seminario en 4º año, 2º cuatrimestre, e imprime «Correlativa recomendada: Ingeniería de Software» y «Carga horaria semanal: 3.5 hs» — en conflicto con las 7 hs semanales del texto ordenado; conflicto declarado, no resuelto.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). VERIFICADO (extract/out/plan-comp-v11-2025.txt): su tabla de dedicación imprime «Seminario de Tecnología y Sociedad · 3.5 · 56» y el cuerpo del documento repite la carga total de 56 horas — coincide con la página del DC y no con las 7 hs del texto ordenado.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "level": "programa",
   "kind": "course",
   "groundingLevel": "L2",
-  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Matemática (DM, FCEN)", "unidades": 5, "bibliography": ["Gentile · Notas de Álgebra I", "Krick · Álgebra I (Fascículo 9)", "Sánchez · Lecciones de Álgebra"] },
+  "metadata": { "regimen": "cuatrimestral", "cuatrimestre": "1º", "catedra": "Departamento de Matemática (DM, FCEN)", "cargaHoraria": "10 hs semanales · 160 hs totales (tablas del DC; el programa del DM no imprime carga horaria)", "correlativas": "el programa del DM imprime «CORRELATIVAS: no tiene»; la tabla del plan de Computación imprime «CBC» para esta materia", "unidades": 5, "bibliography": ["E. Gentile · Notas de Algebra I. 4ta. ed. EUDEBA, 1988", "E. Gentile · Aritmética Elemental. Monografía científica de la OEA, no. 25, 1985", "G. Birkhoff, S. Mc Lane · Algebra moderna. Vicens-Vives (4ta ed.), 1970", "T. Krick · Álgebra I. Fascículo 9, Cursos de Grado, Departamento de Matemática, FCEN, UBA, 2017", "C. Sánchez · Lecciones de Álgebra. Fascículo 6, Cursos de Grado, Departamento de Matemática, FCEN, UBA, 2014"] },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
@@ -12,44 +12,60 @@
   ],
   "eyebrow": "Álgebra I · Año 1 · 1º cuat.",
   "title": "De los conjuntos a los polinomios, con inducción.",
-  "lede": "El álgebra fundacional de la carrera, compartida con Matemática. Del lenguaje de conjuntos, relaciones y funciones al principio de inducción; de la aritmética de los enteros — divisibilidad, congruencias, RSA — a los números complejos y los polinomios sobre un cuerpo. Con enfoque algorítmico.",
+  "lede": "El álgebra fundacional de la carrera, compartida con Matemática. Del lenguaje de conjuntos, relaciones y funciones al principio de inducción; de la aritmética de los enteros — divisibilidad, congruencias, RSA — a los números complejos y los polinomios con coeficientes en un cuerpo.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "1º · teór-práct" },
+    { "k": "Régimen", "v": "cuatrim.", "small": "1º · T/P/L" },
     { "k": "Unidades", "v": "5", "small": "programa" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
+    { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 5/5" },
     { "k": "Depto", "v": "Matemática", "small": "DM" }
   ],
-  "frame": "Contenido del programa oficial del Departamento de Matemática (web.dm.uba.ar). Cinco unidades, de conjuntos a polinomios. Desde 2013 el enfoque es algorítmico, con un taller de programación asociado. Temas y bibliografía sourceados (Gentile, Krick, Sánchez).",
+  "frame": "Dos fuentes, separadas. El programa oficial del Departamento de Matemática (web.dm.uba.ar, versión «1er. cuatrimestre 2026») da las cinco unidades, sus temas y los cinco ítems de bibliografía, y cierra con «CORRELATIVAS: no tiene»; no imprime carga horaria ni ubica la materia en la carrera. El año y el cuatrimestre (1º año, 1er cuatrimestre) y la carga horaria (10 hs semanales · 160 hs totales) vienen de las tablas del Departamento de Computación — la página del Plan 2023 y el documento del plan —, no del DM.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · las 5 unidades",
       "title": "El recorrido del álgebra",
-      "note": "Cada unidad en orden, de conjuntos a polinomios.",
+      "note": "Las cinco unidades del programa del DM, en orden y con sus títulos tal como los imprime.",
       "map": {
         "mk": "El programa, en cinco unidades",
-        "tree": "ÁLGEBRA I\n│\n├─ U1 · Conjuntos, relaciones y funciones\n├─ U2 · Números naturales e Inducción\n├─ U3 · Números enteros\n├─ U4 · Números complejos\n└─ U5 · Polinomios",
-        "foot": "Temas del programa oficial del DM. Texto base: Gentile, Krick."
+        "tree": "ÁLGEBRA I\n│\n├─ U1 · Conjuntos, relaciones y funciones\n├─ U2 · Números naturales e Inducción\n├─ U3 · Números enteros\n├─ U4 · Números complejos\n└─ U5 · Polinomios con coeficientes en un cuerpo",
+        "foot": "Temas del programa oficial del DM (1er. cuatrimestre 2026). Bibliografía: los cinco ítems que lista ese mismo programa."
       },
       "exits": [
         { "address": "uba.fcen.computacion.algebra-1.conjuntos-relaciones-funciones", "name": "Conjuntos, relaciones y funciones", "role": "U1", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.algebra-1.naturales-induccion", "name": "Números naturales e Inducción", "role": "U2", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.algebra-1.enteros", "name": "Números enteros", "role": "U3", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.algebra-1.complejos", "name": "Números complejos", "role": "U4", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.algebra-1.polinomios", "name": "Polinomios", "role": "U5", "tag": "unidad", "kind": "unit" }
+        { "address": "uba.fcen.computacion.algebra-1.polinomios", "name": "Polinomios con coeficientes en un cuerpo", "role": "U5", "tag": "unidad", "kind": "unit" }
       ]
     },
     {
       "kind": "plain",
-      "eyebrow": "Bibliografía · sourceada",
-      "title": "Los textos de la materia",
-      "note": "Bibliografía del programa oficial. Su contenido (L3) es un índice aparte.",
+      "eyebrow": "Bibliografía · según el programa del DM",
+      "title": "Los cinco textos de la lista",
+      "note": "Los cinco ítems de la sección «BIBLIOGRAFIA» del programa, completos y en el orden impreso. El programa los lista sin jerarquía: no señala cuál es el texto base. Contenido de los libros (L3): índice aparte.",
       "exits": [
-        { "address": "uba.fcen.computacion.algebra-1.notas-algebra-gentile", "name": "Notas de Álgebra I — E. Gentile", "role": "texto base", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.algebra-1.algebra-krick", "name": "Álgebra I (Fascículo 9) — T. Krick", "role": "cursos de grado DM", "tag": "libro", "kind": "book" },
-        { "address": "uba.fcen.computacion.algebra-1.lecciones-sanchez", "name": "Lecciones de Álgebra — C. Sánchez", "role": "cursos de grado DM", "tag": "libro", "kind": "book" }
+        { "address": "uba.fcen.computacion.algebra-1.notas-algebra-gentile", "name": "Notas de Algebra I — E. Gentile (4ta. ed., EUDEBA, 1988)", "role": "ítem 1 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.aritmetica-elemental-gentile", "name": "Aritmética Elemental — E. Gentile (Monografía científica de la OEA, no. 25, 1985)", "role": "ítem 2 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.algebra-moderna-birkhoff-mclane", "name": "Algebra moderna — G. Birkhoff, S. Mc Lane (Vicens-Vives, 4ta ed., 1970)", "role": "ítem 3 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.algebra-krick", "name": "Álgebra I — T. Krick (Fascículo 9, Cursos de Grado, DM-FCEN, 2017)", "role": "ítem 4 de la lista", "tag": "libro", "kind": "book" },
+        { "address": "uba.fcen.computacion.algebra-1.lecciones-sanchez", "name": "Lecciones de Álgebra — C. Sánchez (Fascículo 6, Cursos de Grado, DM-FCEN, 2014)", "role": "ítem 5 de la lista", "tag": "libro", "kind": "book" }
       ]
     }
   ],
-  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" }
+  "source": { "label": "web.dm.uba.ar · Departamento de Matemática · Álgebra I (programa 1er. cuatrimestre 2026)", "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i" },
+  "sources": [
+    {
+      "label": "web.dm.uba.ar · programa oficial de Álgebra I del Departamento de Matemática, versión «1er. cuatrimestre 2026». EXTRAÍDO (extract/out/refresh-algebra-1.txt): las cinco unidades con sus títulos y temas, los cinco ítems de «BIBLIOGRAFIA» y la línea «CORRELATIVAS: no tiene». No imprime carga horaria ni ubicación en el plan de Computación.",
+      "url": "https://web.dm.uba.ar/index.php/docencia/materias/programas/268-algebra-i"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica Álgebra I en 1º año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)». Su descripción en prosa no se dibuja: el temario lo da el DM.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). VERIFICADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «8 · 3 · Álgebra I · C · 10 · 160 · CBC · T/P/L» — de ahí las 160 hs totales. La tabla del documento versión 11/2025 imprime la misma carga (10 hs / 160 hs).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    }
+  ]
 }

@@ -30,10 +30,10 @@
       "map": {
         "mk": "El bloque, comprimido",
         "tree": "IMPERATIVO · PYTHON (B3)\n│\n├─ Estado      · variables, referencias\n├─ Control     · procedimientos, iteración\n└─ TADs        · pilas, colas, arreglos",
-        "foot": "Temas de la cátedra (DC, plan 2023)."
+        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria) · cubawiki.com.ar (contenido; wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
 }

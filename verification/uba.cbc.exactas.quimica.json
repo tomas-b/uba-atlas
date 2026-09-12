@@ -1,22 +1,17 @@
 {
-  "address": "uba.cbc.exactas.quimica",
-  "source_reachable": "HTTP 200 content-empty (Vue SPA shell)",
-  "units_total": 11,
-  "units_found": 0,
-  "books_total": 2,
-  "books_found": 0,
-  "not_found": [
-    "all 11 units unverifiable — declared source serves no content on any path",
-    "'EUDEBA' imprint added to Angelini (no publisher in any reachable source)",
-    "'Química Básica — Di Risio' absent from every reachable source (0 grep hits repo-wide)",
-    "parcial split 1-5/6-11 invented (nearest real programa splits at 8)",
-    "'Cátedra Única' in tension with the named Cátedra Idoyaga"
-  ],
+  "wave": "normalizacion-reground",
+  "date": "2026-09-12",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "not_found": [],
   "omitted": [],
-  "metadata_matches": false,
-  "verdict": "fabrication",
-  "notes": "Worst of the batch: cites a JS shell as if it grounded 11 units, plus affirmative inventions on top. Re-grounded same wave from a real source or sealed honestly.",
-  "wave": "normalizacion-cbc",
-  "date": "2026-08-29",
-  "verifier": "opus-adversarial-refresh"
+  "metadata_matches": true,
+  "address": "uba.cbc.exactas.quimica",
+  "units_total": 10,
+  "units_found": 10,
+  "books_total": 0,
+  "books_found": 0,
+  "verdict": "clean",
+  "history": "First version was a verified FABRICATION (cited an empty SPA, invented books/split); re-grounded from Cap. D's 10 contenidos mínimos. This verdict covers the replacement.",
+  "notes": "All 10 contenido names literal in order; Odontología point 11 correctly withheld (header really printed); both cross-source facts verified live (Idoyaga cover; Di Risio campus course id=3108 with SERIE 0-7 under guest access). Nit fixed at close: mid-sentence quote without ellipsis."
 }

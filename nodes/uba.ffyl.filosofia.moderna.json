@@ -27,7 +27,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio ✓" },
     { "k": "Bisagra", "v": "Kant", "small": "Unidad IV" }
   ],
-  "frame": "Grounded en el programa 2020 de la cátedra (Mendoza Hurtado), código 0206-12003, repositorio.filo.uba.ar. Cinco unidades organizadas por corrientes: los contextos de emergencia (Renacimiento, humanismo, escepticismo), los racionalismos (Descartes, Spinoza, Leibniz), los empirismos (Bacon, Locke, Hume), la filosofía crítica de Kant y las filosofías del siglo XVIII (la Ilustración y sus salidas). La bibliografía obligatoria son textos primarios de la modernidad en selección de cátedra. Se recomienda tener cursadas Antigua, Medieval y Lógica.",
+  "frame": "Grounded en el programa 2020 de la cátedra (Mendoza Hurtado), código 0206 - 12003, repositorio.filo.uba.ar. Cinco unidades organizadas por corrientes: los contextos de emergencia (Renacimiento, humanismo, escepticismo), los racionalismos (Descartes, Spinoza, Leibniz), los empirismos (Bacon, Locke, Hume), la filosofía crítica de Kant y las filosofías del siglo XVIII (la Ilustración y sus salidas). La «Bibliografía obligatoria del curso» son catorce entradas numeradas: en su mayoría textos primarios de la modernidad en selección de cátedra, pero NO sólo eso — tres son estudios secundarios (Popkin sobre el escepticismo, Outram sobre la Ilustración, Beiser sobre la filosofía alemana post-kantiana), y este nodo dibuja dos de los tres, etiquetados como estudio. Se recomienda tener cursadas Antigua, Medieval y Lógica.",
   "groups": [
     {
       "kind": "spine",
@@ -37,7 +37,7 @@
       "map": {
         "mk": "El programa 2020, en cinco unidades",
         "tree": "HISTORIA DE LA FILOSOFÍA MODERNA — el origen del conocimiento\n│\n├─ I    Contextos de emergencia   Renacimiento · Moro · Montaigne · escepticismo\n├─ II   Racionalismos            Descartes · Spinoza · Leibniz\n├─ III  Empirismos               Bacon · Locke · Hume\n├─ IV   La filosofía crítica     Kant · el idealismo trascendental (la bisagra)\n└─ V    El siglo XVIII           la Ilustración · Hamann, Jacobi, Herder",
-        "foot": "Unidades del programa 2020 (Mendoza Hurtado). Racionalismo y empirismo son las dos respuestas que Kant intenta reconciliar."
+        "foot": "Unidades del programa 2020 (Mendoza Hurtado), en el orden en que el documento las lista. Racionalismo y empirismo son las dos respuestas que Kant intenta reconciliar. La Utopía de Moro que nombra la Unidad I es la entrada 1 de la bibliografía obligatoria, y está dibujada abajo."
       },
       "exits": [
         { "address": "uba.ffyl.filosofia.moderna.contextos", "name": "Contextos de emergencia de la modernidad", "role": "Unidad I · Renacimiento, escepticismo", "tag": "unidad", "kind": "unit" },
@@ -49,10 +49,12 @@
     },
     {
       "kind": "reading",
-      "eyebrow": "Bibliografía · fuentes obligatorias",
-      "title": "Los textos primarios, tal como los asigna la cátedra",
-      "note": "Bibliografía obligatoria del curso: primarios de la modernidad en selección. Cada libro es un índice L3 aún sin abrir.",
+      "eyebrow": "Bibliografía obligatoria del curso · fuentes y estudios",
+      "title": "Once de las catorce entradas obligatorias",
+      "note": "SELECCIÓN DECLARADA: 11 de las 14 entradas numeradas de la «Bibliografía obligatoria del curso» (algunas salidas juntan dos entradas del mismo autor). Quedan sin dibujar las Regulae ad directionem ingenii de Descartes y el Beiser (The Fate of Reason, en fichas de cátedra); la complementaria y la general quedan enteramente fuera. La lista no es sólo de primarios: Popkin y Outram son estudios, y van etiquetados como tales. Cada libro es un índice L3 aún sin abrir.",
       "exits": [
+        { "address": "uba.ffyl.filosofia.moderna.moro-utopia", "name": "Utopía", "role": "Tomás Moro (Colihue, 2009, tr. Galimidi) · obligatoria 1 · Unidad I", "tag": "primario", "kind": "book" },
+        { "address": "uba.ffyl.filosofia.moderna.popkin-escepticismo", "name": "La historia del escepticismo desde Erasmo hasta Spinoza", "role": "R. Popkin (F.C.E., 1983) · obligatoria 2 · Unidad I", "tag": "estudio", "kind": "book" },
         { "address": "uba.ffyl.filosofia.moderna.montaigne-ensayos", "name": "Ensayos", "role": "Michel de Montaigne (Cátedra)", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.moderna.descartes-meditaciones", "name": "Meditaciones metafísicas / Discurso del método", "role": "R. Descartes (Obras escogidas, Charcas)", "tag": "primario", "kind": "book" },
         { "address": "uba.ffyl.filosofia.moderna.spinoza-etica", "name": "Ética demostrada según el orden geométrico", "role": "B. Spinoza (Alianza)", "tag": "primario", "kind": "book" },
@@ -65,5 +67,8 @@
       ]
     }
   ],
-  "source": { "label": "Programa 2020 · Historia de la Filosofía Moderna (Mendoza Hurtado) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" }
+  "source": { "label": "Programa 2020 · Historia de la Filosofía Moderna Nº 0206 - 12003 (Mendoza Hurtado) · repositorio.filo.uba.ar", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" },
+  "sources": [
+    { "role": "principal y única — unidades y bibliografía dibujadas", "label": "Programa 2020 · Historia de la Filosofía Moderna Nº 0206 - 12003 (Mendoza Hurtado) · FILO:Digital", "url": "http://repositorio.filo.uba.ar/handle/filodigital/13155" }
+  ]
 }

@@ -183,7 +183,6 @@
     if (v.books_total != null) stat.push(`${v.books_found}/${v.books_total} libros`);
     if (v.wave) stat.push(esc(v.wave));
     if (v.date) stat.push(esc(v.date));
-    if (v.recovered) stat.push("recuperado del transcript");
     const list = (arr, label) => (arr && arr.length)
       ? `<details><summary>${label} (${arr.length})</summary><ul class="alist">${arr.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>` : "";
     return `<div class="audit ${cls}">
