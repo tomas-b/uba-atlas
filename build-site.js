@@ -9,6 +9,7 @@ const ROOT = __dirname;
 const NODES = path.join(ROOT, "nodes");
 const SRC = path.join(ROOT, "site-src");
 const OUT = path.join(ROOT, "site");
+fs.mkdirSync(OUT, { recursive: true });
 
 // --- load every drawn node ---
 const files = fs.readdirSync(NODES).filter((f) => f.endsWith(".json"));
@@ -75,12 +76,55 @@ if (fs.existsSync(VER)) {
 const verifiedSet = new Set(verdicts.map((v) => v.a));
 for (const a of all) if (meta[a]) meta[a].v = verifiedSet.has(a) ? 1 : 0;
 
+// Graph-only presentation index. Keep source text and group order; a referenced
+// child does not acquire its parent's grounding level or audit verdict.
+const plain = (s) => String(s || "").replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+const groups = {};
+for (const a of all) {
+  const n = nodes[a], m = meta[a];
+  m.p = a === "uba" ? null : a.split(".").slice(0, -1).join(".");
+  m.f = a === "uba" ? null : a.split(".").slice(0, 2).join(".");
+  if (n) {
+    m.title = plain(n.title);
+    m.description = plain(n.lede);
+    m.source = n.source || null;
+    m.sources = n.sources || [];
+    groups[a] = (n.groups || []).filter((g) => g.exits?.length).map((g, i) => ({
+      id: a + "::" + i,
+      label: plain(g.eyebrow || g.title || "Contenido"),
+      title: plain(g.title), note: plain(g.note),
+      children: g.exits.map((e) => e.address),
+    }));
+    for (const [i, g] of (n.groups || []).filter((g) => g.exits?.length).entries()) {
+      for (const [order, ex] of g.exits.entries()) {
+        if (!meta[ex.address]) continue;
+        Object.assign(meta[ex.address], {
+          group: i, order, role: plain(ex.role), tag: plain(ex.tag),
+          referenceParent: a,
+        });
+      }
+    }
+  }
+}
+const children = {};
+for (const a of all) if (meta[a].p) (children[meta[a].p] ??= []).push(a);
+for (const a of [...all].sort((a, b) => b.split(".").length - a.split(".").length)) {
+  const m = meta[a];
+  m.counts = { addresses: 1, pages: m.d && !m.s ? 1 : 0, sealed: m.s,
+    courses: m.k === "course" ? 1 : 0,
+    coursePages: m.k === "course" && m.d && !m.s ? 1 : 0,
+    units: m.k === "unit" ? 1 : 0, books: m.k === "book" ? 1 : 0,
+    audits: m.v, l2Courses: m.k === "course" && m.g === "L2" ? 1 : 0 };
+  for (const c of children[a] || []) for (const k of Object.keys(m.counts)) m.counts[k] += meta[c].counts[k];
+}
+for (const v of verdicts) if (meta[v.a]) meta[v.a].audit = { verdict: v.v, date: v.d, wave: v.w };
+
 // --- write site/ (never wipe: site/.vercel holds the project link) ---
 fs.mkdirSync(path.join(OUT, "nodes"), { recursive: true });
 for (const f of files) fs.copyFileSync(path.join(NODES, f), path.join(OUT, "nodes", f));
 fs.writeFileSync(path.join(OUT, "index.json"), JSON.stringify({ addresses: [...drawn].sort() }));
-fs.writeFileSync(path.join(OUT, "graph-data.json"), JSON.stringify({ generatedAt: new Date().toISOString(), meta }));
-for (const f of fs.readdirSync(SRC)) fs.copyFileSync(path.join(SRC, f), path.join(OUT, f));
+fs.writeFileSync(path.join(OUT, "graph-data.json"), JSON.stringify({ schemaVersion: 2, generatedAt: new Date().toISOString(), meta, groups }));
+for (const f of fs.readdirSync(SRC)) fs.cpSync(path.join(SRC, f), path.join(OUT, f), { recursive: true });
 
 const sealed = [...drawn].filter((a) => nodes[a].sealed).length;
 console.log(`site/ built: ${drawn.size} nodes (${sealed} sealed), ${all.size} addresses in the graph, ${verdicts.length} verdicts`);

@@ -8,7 +8,18 @@ const path = require("path");
 const ROOT = __dirname;
 const NODES = path.join(ROOT, "nodes");
 const QUEUE = path.join(ROOT, "queue.json");
-const PORT = 4137;
+const PORT = Number(process.env.PORT) || 4137;
+const STATIC = process.argv.includes("--static");
+const SITE = path.join(ROOT, "site");
+const MIME = { ".html": "text/html; charset=utf-8", ".json": "application/json", ".js": "text/javascript; charset=utf-8", ".txt": "text/plain; charset=utf-8" };
+function staticFile(res, pathname) {
+  let decoded;
+  try { decoded = decodeURIComponent(pathname); } catch { return send(res, 400, { error: "invalid_path" }); }
+  const file = path.resolve(SITE, "." + decoded);
+  if (!file.startsWith(SITE + path.sep)) return send(res, 403, { error: "invalid_path" });
+  if (!fs.existsSync(file) || !fs.statSync(file).isFile()) return send(res, 404, { error: "missing", hint: "Run node build-site.js" });
+  return send(res, 200, fs.readFileSync(file, "utf8"), MIME[path.extname(file)] || "text/plain");
+}
 
 const send = (res, code, body, type = "application/json") => {
   res.writeHead(code, { "Content-Type": type, "Access-Control-Allow-Origin": "*" });
@@ -93,8 +104,11 @@ const server = http.createServer((req, res) => {
   const u = new URL(req.url, `http://localhost:${PORT}`);
   const p = u.pathname;
 
+  if (STATIC) return staticFile(res, p === "/" ? "/index.html" : p === "/graph" ? "/graph.html" : p);
+  if (p === "/graph" || p === "/graph.html") return staticFile(res, "/graph.html");
+  if (p === "/graph-space.html" || p === "/graph-data.json" || p.startsWith("/vendor/")) return staticFile(res, p);
+
   if (p === "/" || p === "/index.html") return send(res, 200, fs.readFileSync(path.join(ROOT, "shell.html"), "utf8"), "text/html; charset=utf-8");
-  if (p === "/graph" || p === "/graph.html") return send(res, 200, fs.readFileSync(path.join(ROOT, "graph.html"), "utf8"), "text/html; charset=utf-8");
   if (p === "/mermaid") return send(res, 200, buildMermaid(u.searchParams.get("root") || "uba", parseInt(u.searchParams.get("depth") || "2", 10)));
 
   if (p === "/index") {
@@ -136,5 +150,5 @@ const server = http.createServer((req, res) => {
   send(res, 404, { error: "not_found" });
 });
 
-if (!fs.existsSync(QUEUE)) writeQueue([]);
+if (!STATIC && !fs.existsSync(QUEUE)) writeQueue([]);
 server.listen(PORT, () => console.log(`UBA Atlas on http://localhost:${PORT}  ·  graph at /graph`));
