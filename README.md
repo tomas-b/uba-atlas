@@ -24,13 +24,13 @@ of truth. An adversary attacks every new leaf before it ships.
 |---|---|---|---|---|
 | <sub>find the real source. The search is the work.</sub> | <sub>1 agent per course. Only what is literal.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
 
-One catch, as a mental model:
+What one catch looks like:
 
-- ✍️ a writer adds a gloss the source never prints
-- ⚔️ the adversary greps it against the re-downloaded source: zero hits → `fabrication`
-- 📌 the verdict persists **before** the fix, and never changes
-- 🔧 the fix deletes the sentence the verdict names — nothing else
-- 📦 node + verdict ship in one commit; the diff is the proof
+- ✍️ a writer adds a sentence that is not in the source
+- ⚔️ the adversary downloads the source again and searches for it: zero hits → `fabrication`
+- 📌 the verdict is saved **before** the fix, and never changes
+- 🔧 the fix deletes that sentence — nothing else
+- 📦 node + verdict ship in one commit
 
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
@@ -98,7 +98,7 @@ reads like a cast list.
 | Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) |
 | Historia w1 | **the loop refuted its own scout — twice**: a "newest that exists" 2017 programa fell to the current 2026 one, hiding in a Drive folder the career site's search never indexes |
 | Historia w1 | a whole **class of false divergences unmasked**: five nodes quoted "literal" cover text containing a pdftotext de-hyphenation artifact — every verifier re-extracted and proved the covers identical |
-| Computación | the whole subtree (**111 nodes, unit level included**) adversarially verified in one wave; 3 fabrications caught, incl. a gloss the plan never printed |
+| Computación | the whole subtree (**111 nodes, unit level included**) adversarially verified in one wave; 3 fabrications caught, incl. a sentence the plan never says |
 
 Every verdict is committed in `verification/` — line-referenced refutation
 reports, one per node — and `extract/manifest.json` records each source's URL
