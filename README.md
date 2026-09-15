@@ -11,23 +11,7 @@ fabricate**, and at 8,000+ addresses no human can check them. The answer here
 is not a better prompt — it is a topology: generation and audit never share
 context, and a script without an LLM gates every commit.
 
-## 🧠 The mental model
-
-The atlas is a tree. It grows one level at a time, and each level has one
-source of truth:
-
-```
-UBA → career (L1: the official plan) → course (L2: the cátedra's syllabus) → book (L3: leaf)
-
-to index ──research──▶ to create ──generate──▶ created
-```
-
-- 🌱 **Expansion** — research pushes the frontier down one level.
-- ⚔️ **Verification** — an adversary attacks every new leaf before it ships.
-- 🕳️ **No source?** — the node is sealed, honestly. The gap is information.
-- 📦 **One wave** = one career = one commit = one revert point.
-
-## ⚙️ The loop
+## ⚙️ The flow, in five steps
 
 ```mermaid
 flowchart LR
@@ -38,23 +22,33 @@ flowchart LR
     G -->|green| S["🚢 ship<br/>nodes + verdicts · 1 commit"]
 ```
 
-Writers and adversaries **never share context**. The adversary does not review
-the writer's work — it re-downloads the document, re-extracts it, re-counts
-everything itself, and the two independent derivations must agree.
-Disagreements become a committed verdict file, refuted claim by refuted claim.
+```
+🌳 the graph:  uba → career (official plan) → course (cátedra syllabus) → book (leaf)
+               no source → sealed node, honestly · one wave = one career = one commit
+```
 
-## 🔬 The life of one fabrication (real case)
+The key property: writers and adversaries **never share context** — the
+adversary re-downloads the document and recounts everything itself. The two
+independent derivations must agree; disagreements become a committed verdict
+file, refuted claim by refuted claim.
 
-Course: *Paradigmas de Programación*. The whole system, on one node:
+## 🔬 The life of one fabrication (real case, from the logs)
 
-1. 📄 A node is a JSON file — title, lede, the source's topics in the source's words, a `source` URL.
-2. ✍️ The researcher, making it read nicely, glossed the logic paradigm as *«la computación expresada como relaciones y deducción»*. The plan never says that. It says **«lógico»**.
-3. ⚔️ The verifier starts empty, re-downloads the PDF, checks the hash, greps every claim. Zero hits. Verdict: `fabrication`, with the sentence, the line where it should have been, and the repair: *delete the gloss, keep the source's word*.
-4. 📌 The verdict is persisted to `verification/` **before** any fix — it records the pre-fix state, and is never edited again.
-5. 🔧 A fix agent edits only what `not_found[]` enumerates, re-reading the cited line before each repair — it cannot invent while fixing.
-6. 🚦 `check-graph.js` validates structure (a legal, addressable tree; every non-sealed node cites a source). It cannot judge truth — only shape. **The LLM never has the last word on what enters the repo; this script does.**
-7. 📦 One commit carries the fixed node **and** its verdict: the verdict says what was wrong, the git diff shows what changed because of it. [/audit.html](https://uba-atlas.vercel.app/audit.html) renders all of it.
-8. ⚖️ And when the verifier itself is wrong (it happens), the fixer checks the ground text and reports the deviation. **Evidence beats any agent — verifier included.**
+Course: *Paradigmas de Programación*. The five steps above, seen on a single node:
+
+1. **📄 A node is a file** — JSON with a title, a lede, the source's topics in the source's words, a little tree map, and a `source` URL. The whole graph is a folder of files, one per address.
+2. **✍️ The researcher writes it — and embellishes** — making it read nicely, it glossed the logic paradigm as *«la computación expresada como relaciones y deducción»*. The plan never says that. It says **«lógico»**.
+3. **⚔️ The verifier doesn't review: it breaks** — empty context. Re-downloads the PDF, re-extracts, checks the hash, greps every claim. «Relaciones y deducción»: zero hits. Verdict `fabrication`, and every `not_found[]` entry carries the sentence, the line where it should have been, and the concrete repair: *delete the gloss, keep the plan's word*.
+4. **📌 The verdict is persisted BEFORE the fix** — to `verification/<address>.json`, recording the pre-fix state on purpose. That file is never edited again.
+5. **🔧 The fix edits the file — and nothing else** — the fixer gets the verdict and the extracts, nothing more. Scope = only what `not_found[]` enumerates. It re-reads the cited line before each repair, so it cannot invent something new while fixing something old. Then it validates the JSON parses.
+6. **🚦 The gate** — `check-graph.js` checks shape across all files: links that exist, sources cited, no schema drift. It cannot judge truth — only structure. **The LLM never has the last word on what enters the repo; this script does.**
+7. **📦 One commit carries both** — the fixed node and its verdict, together. The verdict says what was wrong; the git diff shows what changed because of it. [/audit.html](https://uba-atlas.vercel.app/audit.html) renders every verdict.
+8. **⚖️ What if the verifier itself is wrong?** It happens: one proposed labeling the topics *«contenidos analíticos»*; the fixer checked the real table header — *«Temas sugeridos 2019»* — used that, and reported the deviation. **The text wins, not the agent. Any agent.**
+9. **🚫 What a fix is NOT** — a fix never re-researches. When verifiers found official programas the atlas had never used (AED's real syllabus, twelve books), the fixer did **not** rebuild the node — it only corrected the false sentence *"no programa exists"* and cited the found document. Rebuilding is a new research wave, with its own verification wave. Each pass moves one level.
+
+> The short version: **nodes are files, errors are line-referenced sentences,
+> fixes are edits re-derived from the same source text, and the verdict plus
+> the git diff is the proof it happened.**
 
 ## 🎯 What the loop catches (real, from the logs)
 
@@ -81,21 +75,15 @@ node on the live site carries its *Verificación adversarial* panel.
 There is no "UBA API". These are real sources behind nodes of the graph:
 
 <table>
-<tr>
-<td width="33%"><img src="docs/sources/01-drupal-pdf.webp" alt="Drupal PDF"><br><sub><b>📄 Drupal PDF</b> — filenames with literal <code>[brackets]</code> and NFD accents that 404 when normalized. <code>curl -g</code>, URL byte for byte.</sub></td>
-<td width="33%"><img src="docs/sources/02-drive-folder.webp" alt="Drive folder"><br><sub><b>📁 Google Drive folder</b> — where current programas live; the career site's search doesn't index it. The agent greps the folder HTML for file ids.</sub></td>
-<td width="33%"><img src="docs/sources/03-dspace.webp" alt="DSpace"><br><sub><b>🏛️ DSpace repository</b> — REST API, bitstreams by UUID, verified against the repo's own published MD5.</sub></td>
-</tr>
-<tr>
-<td><img src="docs/sources/04-fmed-scan.webp" alt="stamped scan"><br><sub><b>🖨️ Stamped 2014 scan</b> — corrupt text layer that "parses" garbage. Detected → OCR fallback (<code>tesseract</code>).</sub></td>
-<td><img src="docs/sources/05-fmed-html.webp" alt="HTML source"><br><sub><b>🌐 HTML-only source</b> — the current guide exists only as a webpage. Snapshotted, method <code>html</code> in the manifest.</sub></td>
-<td><img src="docs/sources/06-derecho-pdf.webp" alt="texto ordenado"><br><sub><b>⚖️ Texto ordenado grid</b> — 1,281 course sections; the adversary wrote a parser to reproduce every count.</sub></td>
-</tr>
-<tr>
-<td><img src="docs/sources/07-sanscrito-scan.webp" alt="degraded 2017"><br><sub><b>🕰️ Degraded 2017 scan</b> — the newest that exists anywhere. Used with its year declared on the node.</sub></td>
-<td><img src="docs/sources/08-resolucion-if.webp" alt="resolution"><br><sub><b>📜 76-page resolution</b> — holding one equivalence table. Pages 70-76 extracted, the rest cited.</sub></td>
-<td><img src="docs/sources/09-plan-1985.webp" alt="official plan"><br><sub><b>🗺️ The official plan</b> — the L1 skeleton: the real courses, before touching any cátedra.</sub></td>
-</tr>
+<tr><td width="170"><img src="docs/sources/01-drupal-pdf.webp" width="160" alt="📄 Drupal PDF"></td><td><b>📄 Drupal PDF</b><br><sub>literal <code>[brackets]</code> and NFD accents that 404 when normalized → <code>curl -g</code>, URL byte for byte</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/02-drive-folder.webp" width="160" alt="📁 Google Drive folder"></td><td><b>📁 Google Drive folder</b><br><sub>current programas live here; the site's search doesn't index it → grep the folder HTML for file ids</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/03-dspace.webp" width="160" alt="🏛️ DSpace repository"></td><td><b>🏛️ DSpace repository</b><br><sub>REST API, bitstreams by UUID → verified against the repo's own published MD5</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/04-fmed-scan.webp" width="160" alt="🖨️ Stamped 2014 scan"></td><td><b>🖨️ Stamped 2014 scan</b><br><sub>corrupt text layer that "parses" garbage → detected, OCR fallback (<code>tesseract</code>)</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/05-fmed-html.webp" width="160" alt="🌐 HTML-only source"></td><td><b>🌐 HTML-only source</b><br><sub>the current guide exists only as a webpage → snapshotted, method <code>html</code> in the manifest</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/06-derecho-pdf.webp" width="160" alt="⚖️ Texto ordenado grid"></td><td><b>⚖️ Texto ordenado grid</b><br><sub>1,281 course sections → the adversary wrote a parser to reproduce every count</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/07-sanscrito-scan.webp" width="160" alt="🕰️ Degraded 2017 scan"></td><td><b>🕰️ Degraded 2017 scan</b><br><sub>the newest that exists anywhere → used with its year declared on the node</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/08-resolucion-if.webp" width="160" alt="📜 76-page resolution"></td><td><b>📜 76-page resolution</b><br><sub>holding one equivalence table → pages 70-76 extracted, the rest cited</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/09-plan-1985.webp" width="160" alt="🗺️ The official plan"></td><td><b>🗺️ The official plan</b><br><sub>the L1 skeleton: the real courses → drawn before touching any cátedra</sub></td></tr>
 </table>
 
 Zero per-site connectors were written. Each agent has a terminal (`curl`,
@@ -145,4 +133,4 @@ online generation.
 
 ---
 
-MIT · Deep docs: `CONCEPT.md` · `PROJECT.md` · `PILOT-FINDINGS.md` · `PLAN-SCRAPEO.md`
+MIT · Deep docs: `CONCEPT.md` · `PROJECT.md` · `PILOT-FINDINGS.md` · `SOURCE-MAP.md`

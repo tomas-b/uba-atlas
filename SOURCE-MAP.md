@@ -1,4 +1,4 @@
-# PLAN-SCRAPEO — bajarse toda la UBA → sitio estático con resumen por módulo
+# SOURCE-MAP — bajarse toda la UBA → sitio estático con resumen por módulo
 
 > El objetivo final: **un sitio estático donde está indexada toda la universidad, y cada
 > módulo (materia) tiene un buen resumen** — grounded, con fuente citada, sellado donde

@@ -6,7 +6,7 @@
 
 ## 1 · Scraping fan-out — la universidad entera, por facultad
 
-> Versión ejecutable, por fases y con checkpoints de gasto: **`PLAN-SCRAPEO.md`**.
+> Versión ejecutable, por fases y con checkpoints de gasto: **`SOURCE-MAP.md`**.
 
 El piloto probó que **L1 (plan de estudios) es sólido en toda la UBA** y que el bloqueo de
 L2 es *extracción, no disponibilidad* (`PILOT-FINDINGS.md`). El siguiente paso es el
