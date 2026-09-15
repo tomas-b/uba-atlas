@@ -51,26 +51,6 @@ Course: *Paradigmas de Programación*. The five steps, on one node:
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
 
-## 🎯 What the loop catches (real, from the logs)
-
-| wave | caught by adversarial verification |
-|---|---|
-| Medicina | a node describing **"siete"** práctico blocks — the source has 4. Pure prose fabrication, refuted line-by-line |
-| Lingüística | a **fabricated resolution number** (Res. 2503/2019) — the PDF itself prints 2523/15 |
-| Clásicas w3 | a selection rule claiming a drawn volume was "the only one" — the verifier found 6 more qualifying volumes |
-| Letras w4 | **the loop refuted its own orchestrator**: a node sealed as "no programa exists" was overturned by an absence-verifier that found 3 real programas |
-| Full re-verify | retroactive sweep over every pre-loop node: **13 fabrications caught** — a student repo passed off as a cátedra programa, an apunte authored from instructor names, a chronologically impossible correlativa — every one re-grounded or removed |
-| Letras w5 | a **contradictions register that itself fabricated**: the node's ledger of in-PDF contradictions invented one mention and inverted another |
-| Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) |
-| Historia w1 | **the loop refuted its own scout — twice**: a "newest that exists" 2017 programa fell to the current 2026 one, hiding in a Drive folder the career site's search never indexes |
-| Historia w1 | a whole **class of false divergences unmasked**: five nodes quoted "literal" cover text containing a pdftotext de-hyphenation artifact — every verifier re-extracted and proved the covers identical |
-| Computación | the whole subtree (**111 nodes, unit level included**) adversarially verified in one wave; 3 fabrications caught, incl. a gloss the plan never printed |
-
-Every verdict is committed in `verification/` — line-referenced refutation
-reports, one per node — and `extract/manifest.json` records each source's URL
-and extraction method. The audit trail ships with the artifact: every verified
-node on the live site carries its *Verificación adversarial* panel.
-
 ## 🌍 The ground is chaos (that's why agents, not scrapers)
 
 There is no "UBA API". These are real sources behind nodes of the graph:
@@ -120,6 +100,26 @@ reads like a cast list.
 | Abogacía indexed | CPC + all **8 CPO orientation nodes**, literal from the texto ordenado |
 | L2 courses verified | **100%** — every course node carries an adversarial verdict |
 | fabrications shipped | **0** |
+
+## 🎯 What the loop catches (real, from the logs)
+
+| wave | caught by adversarial verification |
+|---|---|
+| Medicina | a node describing **"siete"** práctico blocks — the source has 4. Pure prose fabrication, refuted line-by-line |
+| Lingüística | a **fabricated resolution number** (Res. 2503/2019) — the PDF itself prints 2523/15 |
+| Clásicas w3 | a selection rule claiming a drawn volume was "the only one" — the verifier found 6 more qualifying volumes |
+| Letras w4 | **the loop refuted its own orchestrator**: a node sealed as "no programa exists" was overturned by an absence-verifier that found 3 real programas |
+| Full re-verify | retroactive sweep over every pre-loop node: **13 fabrications caught** — a student repo passed off as a cátedra programa, an apunte authored from instructor names, a chronologically impossible correlativa — every one re-grounded or removed |
+| Letras w5 | a **contradictions register that itself fabricated**: the node's ledger of in-PDF contradictions invented one mention and inverted another |
+| Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) |
+| Historia w1 | **the loop refuted its own scout — twice**: a "newest that exists" 2017 programa fell to the current 2026 one, hiding in a Drive folder the career site's search never indexes |
+| Historia w1 | a whole **class of false divergences unmasked**: five nodes quoted "literal" cover text containing a pdftotext de-hyphenation artifact — every verifier re-extracted and proved the covers identical |
+| Computación | the whole subtree (**111 nodes, unit level included**) adversarially verified in one wave; 3 fabrications caught, incl. a gloss the plan never printed |
+
+Every verdict is committed in `verification/` — line-referenced refutation
+reports, one per node — and `extract/manifest.json` records each source's URL
+and extraction method. The audit trail ships with the artifact: every verified
+node on the live site carries its *Verificación adversarial* panel.
 
 ## 🛠️ Run it
 
