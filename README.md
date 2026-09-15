@@ -13,29 +13,25 @@ context, and a script without an LLM gates every commit.
 
 ## ⚙️ Flow
 
+```
+🌳 uba → career (official plan) → course (cátedra syllabus) → book (leaf)
+   no source → sealed node · one wave = one career = one commit
+```
+
+The atlas is a tree. It grows one level at a time. Each level has one source
+of truth. An adversary attacks every new leaf before it ships.
+
 | 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
 |---|---|---|---|---|
-| <sub>find the real source — the chaos below. The search is the work.</sub> | <sub>1 agent per course. Only what is literal in the text.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
-
-```
-🌳 the graph:  uba → career (official plan) → course (cátedra syllabus) → book (leaf)
-               no source → sealed node, honestly · one wave = one career = one commit
-```
+| <sub>find the real source. The search is the work.</sub> | <sub>1 agent per course. Only what is literal.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
 
 Writers and adversaries never share context. The adversary downloads the
 document again and counts everything again. The two derivations must agree.
-Each disagreement becomes a committed verdict file.
-
-On a real node (*Paradigmas de Programación*):
-
-- ✍️ The researcher glossed **«lógico»** as *«relaciones y deducción»* — the plan never says that.
-- ⚔️ The verifier grepped the claim against the re-downloaded plan: zero hits → verdict `fabrication`, persisted **before** any fix.
-- 🔧 The fix deleted the gloss — only what the verdict lists, re-reading the cited line first.
-- 📦 One commit carries the fixed node + its verdict. The diff is the proof; [/audit.html](https://uba-atlas.vercel.app/audit.html) renders it.
-- ⚖️ And when the verifier itself is wrong, the fixer checks the text — the text wins over any agent.
 
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
+
+Real cases: see [Catches](#-catches).
 
 ## 🌍 The sources
 
