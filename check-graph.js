@@ -1,5 +1,16 @@
-// check-graph.js — graph invariants checker. Run after any batch of node
-// writes, before commit/deploy. Errors break the build; warnings inform.
+// check-graph.js — THE GATE. Deterministic, zero deps, zero LLM.
+//
+// It does not validate truth — the adversarial verifiers do that. It validates
+// STRUCTURE: the graph is a legal, addressable tree, and every non-sealed node
+// cites a source.
+//   ERRORS  (exit 1 → no commit): unparseable JSON · address ≠ filename ·
+//     broken breadcrumb · cross-links (an exit that isn't a direct dotted
+//     child — no level-skips, no pointing across branches) · unnamed exits.
+//   WARNINGS (inform): content node without groundingLevel (or a structural
+//     node wearing one) · non-sealed node without source.url · duplicate or
+//     untyped exits · orphans (drawn node whose parent isn't).
+//
+// The LLM never has the last word on what enters the repo — this script does.
 //   node check-graph.js            → report; exit 1 on errors
 const fs = require("fs");
 const path = require("path");
