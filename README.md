@@ -1,14 +1,15 @@
 # 🔁 UBA Atlas — an agentic loop you can audit
 
-**A multi-agent pipeline that researches the real Universidad de Buenos Aires,
-writes a knowledge graph, and — the hard part — proves it didn't make anything up.**
+**A multi-agent pipeline that maps the real Universidad de Buenos Aires — and
+proves it did not make anything up.**
 
 **Live: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 654 nodes ·
 8,560 addresses · 364 adversarial verdicts · 0 fabrications shipped**
 
-The problem is not scraping a university. **LLMs fabricate**, and at 8,000+
-addresses nobody can check. The fix is topology, not prompts: writer and
-auditor never share context, and a script gates every commit.
+The hard part is not the scraping. **LLMs invent facts**, and at 8,000+
+addresses no person can check them all. So the system checks itself: one agent
+writes, a different agent tries to prove it wrong, and a script decides what
+ships.
 
 ## ⚙️ Flow
 
@@ -17,103 +18,101 @@ auditor never share context, and a script gates every commit.
    no source → sealed node · one wave = one career = one commit
 ```
 
-The atlas is a tree. It grows one level at a time. Each level has one source
-of truth. An adversary attacks every new leaf before it ships.
+The atlas is a tree. It grows one level at a time. Each level has one real
+document behind it. Before anything ships, an adversary tries to break it.
 
 | 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
 |---|---|---|---|---|
-| <sub>find the real source. The search is the work.</sub> | <sub>1 agent per course. Only what is literal.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
+| <sub>find the real document. This is the hard part.</sub> | <sub>one agent per course. It writes only what the document says.</sub> | <sub>one agent per node. It downloads the document again and checks every claim.</sub> | <sub>a small script. If it fails, nothing ships.</sub> | <sub>the node and its audit, in one commit.</sub> |
 
 What one catch looks like:
 
-- ✍️ a writer adds a sentence that is not in the source
-- ⚔️ the adversary downloads the source again and searches for it: zero hits → `fabrication`
+- ✍️ a writer adds a sentence that is not in the document
+- ⚔️ the adversary searches the document and finds nothing → verdict: `fabrication`
 - 📌 the verdict is saved **before** the fix, and never changes
 - 🔧 the fix deletes that sentence — nothing else
-- 📦 node + verdict ship in one commit
+- 📦 the node and the verdict ship together, in one commit
 
-> **Nodes are files. Errors are line-referenced sentences. Fixes are edits
-> re-derived from the same text. The verdict + the git diff is the proof.**
+> **Nodes are files. Errors are sentences with a line number.
+> The verdict plus the git diff is the proof.**
 
 ## 🌍 The sources
 
-There is no "UBA API". These are real sources behind nodes of the graph:
+There is no UBA API. Every course publishes its program wherever it wants:
 
 <table>
-<tr><td width="170"><img src="docs/sources/01-drupal-pdf.webp" width="160" alt="📄 Drupal PDF"></td><td><b>📄 Drupal PDF</b><br><sub>literal <code>[brackets]</code> and NFD accents that 404 when normalized → <code>curl -g</code>, URL byte for byte</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/02-drive-folder.webp" width="160" alt="📁 Google Drive folder"></td><td><b>📁 Google Drive folder</b><br><sub>current programas live here; the site's search doesn't index it → grep the folder HTML for file ids</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/03-dspace.webp" width="160" alt="🏛️ DSpace repository"></td><td><b>🏛️ DSpace repository</b><br><sub>REST API, bitstreams by UUID → verified against the repo's own published MD5</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/04-fmed-scan.webp" width="160" alt="🖨️ Stamped 2014 scan"></td><td><b>🖨️ Stamped 2014 scan</b><br><sub>corrupt text layer that "parses" garbage → detected, OCR fallback (<code>tesseract</code>)</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/05-fmed-html.webp" width="160" alt="🌐 HTML-only source"></td><td><b>🌐 HTML-only source</b><br><sub>the current guide exists only as a webpage → snapshotted, method <code>html</code> in the manifest</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/06-derecho-pdf.webp" width="160" alt="⚖️ Texto ordenado grid"></td><td><b>⚖️ Texto ordenado grid</b><br><sub>1,281 course sections → the adversary wrote a parser to reproduce every count</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/07-sanscrito-scan.webp" width="160" alt="🕰️ Degraded 2017 scan"></td><td><b>🕰️ Degraded 2017 scan</b><br><sub>the newest that exists anywhere → used with its year declared on the node</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/08-resolucion-if.webp" width="160" alt="📜 76-page resolution"></td><td><b>📜 76-page resolution</b><br><sub>holding one equivalence table → pages 70-76 extracted, the rest cited</sub></td></tr>
-<tr><td width="170"><img src="docs/sources/09-plan-1985.webp" width="160" alt="🗺️ The official plan"></td><td><b>🗺️ The official plan</b><br><sub>the L1 skeleton: the real courses → drawn before touching any cátedra</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/01-drupal-pdf.webp" width="160" alt="Drupal PDF"></td><td><b>📄 Drupal PDF</b><br><sub>file names with <code>[brackets]</code> and broken accents. The agent copies the URL byte for byte.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/02-drive-folder.webp" width="160" alt="Drive folder"></td><td><b>📁 Google Drive folder</b><br><sub>the current programs live here, and the site's search cannot find them. The agent reads the folder itself.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/03-dspace.webp" width="160" alt="DSpace"></td><td><b>🏛️ Academic repository</b><br><sub>DSpace, with an API. The agent checks each download against the repository's own MD5.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/04-fmed-scan.webp" width="160" alt="stamped scan"></td><td><b>🖨️ Stamped 2014 scan</b><br><sub>the text layer is corrupt. The agent detects it and uses OCR.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/05-fmed-html.webp" width="160" alt="HTML source"></td><td><b>🌐 Webpage only</b><br><sub>no PDF exists. The agent saves a text snapshot and records the method.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/06-derecho-pdf.webp" width="160" alt="texto ordenado"></td><td><b>⚖️ Course grid (Derecho)</b><br><sub>1,281 course sections. The adversary wrote a small parser and re-counted all of them.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/07-sanscrito-scan.webp" width="160" alt="degraded 2017"></td><td><b>🕰️ Degraded 2017 scan</b><br><sub>the newest program that exists. Used, with its year shown on the node.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/08-resolucion-if.webp" width="160" alt="resolution"></td><td><b>📜 76-page resolution</b><br><sub>it holds one table. The agent extracts 7 pages and cites the rest.</sub></td></tr>
+<tr><td width="170"><img src="docs/sources/09-plan-1985.webp" width="160" alt="official plan"></td><td><b>🗺️ The official plan</b><br><sub>the real list of courses. The tree starts here.</sub></td></tr>
 </table>
 
-Zero per-site connectors were written. Each agent has a terminal (`curl`,
-`pdftotext`, `tesseract`, throwaway parsers) and solves its source on the spot.
+No per-site scrapers. Each agent has a terminal (`curl`, `pdftotext`,
+`tesseract`) and solves its source on the spot.
 
 ## 🧩 The skill
 
-One skill, plain markdown, four role docs:
+One skill, written in markdown. Four role docs next to it:
 
 ```
 .claude/skills/atlas/
-├── SKILL.md         ← the mental model above + role router
-├── wave.md    🌊    ← expand a career: launch everything, close as 1 commit
-├── grounding.md ✍️  ← research one course: only what's literal, all counted
-├── verify.md  ⚔️    ← attack one node: refute, don't review
-└── ops.md     📊    ← coverage · queries · build & deploy
+├── SKILL.md         ← the mental model + role router
+├── wave.md    🌊    ← expand one career, close it as one commit
+├── grounding.md ✍️  ← research one course; write only what the document says
+├── verify.md  ⚔️    ← attack one node; try to prove it wrong
+└── ops.md     📊    ← what is missing · queries · deploy
 ```
 
-Open the repo in **Claude Code** and say *"expandí Edición"* — the session
-routes to the skill, shows the plan and the cost, and waits for your OK.
-Every agent announces its role on start (🌊 ✍️ ⚔️ 📊): a wave's transcript
-reads like a cast list.
+Open the repo in **Claude Code** and say *"expandí Edición"*. The session
+loads the skill, shows the plan and the cost, and waits for an OK. Each agent
+prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 
 ## 📊 Scale
 
 | | |
 |---|---|
-| faculties at L1 | **13 / 13** — every career, ~2,640 courses verified against official sources |
-| Medicina at L2 | **43 / 44** — incl. the 6 rotations of the Internado Anual Rotatorio (the 44th is honestly L1: no program is published) |
-| Letras at L2 | **62 / 62 — complete** — five research+verify waves |
-| Historia at L2 | **21 / 38** — the whole Ciclo de Grado; ~3,700 bibliography entries counted both ways |
-| Computación at L2 | **18 / 20** courses + all **91 unit nodes** verified; PSE and Tesis honestly L1 |
-| Abogacía indexed | CPC + all **8 CPO orientation nodes**, literal from the texto ordenado |
-| L2 courses verified | **100%** — every course node carries an adversarial verdict |
+| faculties | **13 / 13** — every career, ~2,640 courses, all from official sources |
+| Medicina | **43 / 44** — includes the 6 hospital rotations. The last course publishes no program, and its node says so |
+| Letras | **62 / 62 — complete** — five waves |
+| Historia | **21 / 38** — the full core cycle; ~3,700 bibliography entries counted |
+| Computación | **18 / 20** courses + all **91 unit nodes**. The other 2 publish no syllabus, and their nodes say so |
+| Abogacía | CPC + the **8 CPO orientations**, straight from the texto ordenado |
+| verified | **100%** — every course node has an adversarial verdict |
 | fabrications shipped | **0** |
 
 ## 🎯 Catches
 
-| wave | caught by adversarial verification |
+| wave | caught by the adversary |
 |---|---|
-| Medicina | a node describing **"siete"** práctico blocks — the source has 4. Pure prose fabrication, refuted line-by-line |
-| Lingüística | a **fabricated resolution number** (Res. 2503/2019) — the PDF itself prints 2523/15 |
-| Clásicas w3 | a selection rule claiming a drawn volume was "the only one" — the verifier found 6 more qualifying volumes |
-| Letras w4 | **the loop refuted its own orchestrator**: a node sealed as "no programa exists" was overturned by an absence-verifier that found 3 real programas |
-| Full re-verify | retroactive sweep over every pre-loop node: **13 fabrications caught** — a student repo passed off as a cátedra programa, an apunte authored from instructor names, a chronologically impossible correlativa — every one re-grounded or removed |
-| Letras w5 | a **contradictions register that itself fabricated**: the node's ledger of in-PDF contradictions invented one mention and inverted another |
-| Abogacía CPO | all 8 orientation nodes verified by **reproducing every snapshot count exactly** (638 course codes, 1,281 comisiones re-counted from the raw grid) |
-| Historia w1 | **the loop refuted its own scout — twice**: a "newest that exists" 2017 programa fell to the current 2026 one, hiding in a Drive folder the career site's search never indexes |
-| Historia w1 | a whole **class of false divergences unmasked**: five nodes quoted "literal" cover text containing a pdftotext de-hyphenation artifact — every verifier re-extracted and proved the covers identical |
-| Computación | the whole subtree (**111 nodes, unit level included**) adversarially verified in one wave; 3 fabrications caught, incl. a sentence the plan never says |
+| Medicina | a node said **"siete"** blocks. The source has 4 |
+| Lingüística | an **invented resolution number**. The PDF prints a different one |
+| Clásicas | a rule said the drawn volume was "the only one". The adversary found 6 more |
+| Letras w4 | **the loop refuted its own orchestrator**: a node sealed as "no program exists" — the adversary found 3 |
+| re-verify | a sweep over every pre-loop node: **13 fabrications** — one was a student repo passed off as an official program |
+| Letras w5 | the node's own list of source contradictions **invented one of them** |
+| Abogacía | all 8 orientation nodes verified by **re-counting 638 codes and 1,281 sections** from the raw grid |
+| Historia | **the loop refuted its own scout, twice**: a "newest that exists" 2017 program lost to the 2026 one, hiding in a Drive folder |
+| Historia | five nodes quoted a pdftotext artifact as "literal" text. **Five adversaries caught it independently** |
+| Computación | the whole subtree — **111 nodes, unit level** — verified in one wave; 3 fabrications caught |
 
-Every verdict is committed in `verification/` — line-referenced refutation
-reports, one per node — and `extract/manifest.json` records each source's URL
-and extraction method. The audit trail ships with the artifact: every verified
-node on the live site carries its *Verificación adversarial* panel.
+Every verdict is committed in `verification/`, one file per node. The live
+site shows them: every node has its audit panel, and
+[/audit.html](https://uba-atlas.vercel.app/audit.html) lists all 364.
 
 ## 🛠️ Run it
 
 ```bash
 node serve.js &          # local navigator + graph on :4137
-node build-site.js       # render nodes/ + verification/ → site/ (the whole deploy)
+node build-site.js       # render nodes/ + verification/ → site/
 node check-graph.js      # the gate
 ```
 
-The deploy is **only the artifact**: static JSON, rendered. No endpoints, no
+The deploy is only the artifact: static JSON, rendered. No endpoints. No
 online generation.
 
 ---
