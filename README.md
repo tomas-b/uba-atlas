@@ -4,7 +4,7 @@
 proves it did not make anything up.**
 
 **Live: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 654 nodes ·
-8,560 addresses · 364 adversarial verdicts · 0 fabrications shipped**
+8,563 addresses · 365 adversarial verdicts · 0 fabrications shipped**
 
 The hard part is not the scraping. **LLMs invent facts**, and at 8,000+
 addresses no person can check them all. So the system checks itself: one agent
@@ -29,13 +29,13 @@ Step by step:
 
 | | |
 |---|---|
-| **📄 A node is a file** | JSON: title, lede, the document's topics in the document's words, a source URL |
-| **✍️ The researcher writes it** | one agent, one course. Sometimes it adds a sentence the document does not say |
-| **⚔️ The verifier breaks** | empty context. It downloads the document again and checks every claim. Zero hits → `fabrication` |
-| **📌 The verdict, before the fix** | saved to `verification/`. It records the pre-fix state and never changes |
-| **🔧 The fix** | deletes what the verdict names. Nothing else |
-| **🚦 The gate** | a script checks the shape of the whole graph. If it fails, nothing ships |
-| **📦 One commit** | the node and its verdict, together. The diff is the proof |
+| **📄&nbsp;The&nbsp;node** | a JSON file: title, lede, the document's topics, a source URL |
+| **✍️&nbsp;The&nbsp;researcher** | one agent, one course. It writes only what the document says |
+| **⚔️&nbsp;The&nbsp;verifier** | downloads the document again and checks every claim. Zero hits → `fabrication` |
+| **📌&nbsp;The&nbsp;verdict** | saved before the fix. It never changes |
+| **🔧&nbsp;The&nbsp;fix** | deletes what the verdict names. Nothing else |
+| **🚦&nbsp;The&nbsp;gate** | a script checks the graph's shape. Red = nothing ships |
+| **📦&nbsp;The&nbsp;commit** | node + verdict together. The diff is the proof |
 
 > **Nodes are files. Errors are sentences with a line number.
 > The verdict plus the git diff is the proof.**
@@ -104,10 +104,11 @@ prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 | Historia | **the loop refuted its own scout, twice**: a "newest that exists" 2017 program lost to the 2026 one, hiding in a Drive folder |
 | Historia | five nodes quoted a pdftotext artifact as "literal" text. **Five adversaries caught it independently** |
 | Computación | the whole subtree — **111 nodes, unit level** — verified in one wave; 3 fabrications caught |
+| Medicina | the last unverified course drew **8 of 11 units and 8 of 11 books** and called it "verbatim". The adversary re-parsed the scan and found the three of each it dropped |
 
 Every verdict is committed in `verification/`, one file per node. The live
 site shows them: every node has its audit panel, and
-[/audit.html](https://uba-atlas.vercel.app/audit.html) lists all 364.
+[/audit.html](https://uba-atlas.vercel.app/audit.html) lists all 365.
 
 ## 🛠️ Run it
 
