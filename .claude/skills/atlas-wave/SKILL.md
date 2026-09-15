@@ -1,12 +1,30 @@
 ---
 name: atlas-wave
-description: Run an expansion wave on the UBA Atlas — orchestrate scout, parallel researchers, parallel adversarial verifiers, a fix batch, the deterministic gate, and the close (commit + deploy). Use when a queue job says index-career, when the user asks to expand a career or faculty, or to close a wave in progress.
+description: Expand the UBA Atlas graph to a career — run one wave. Use when the user asks to expand, index or trace a career or faculty ("expandí Edición", "index Psicología"), when a queue job says index-career, or to close a wave in progress. Orchestrates scout, parallel researchers, parallel adversarial verifiers, fix batch, gate, commit, deploy.
 ---
 
-# atlas-wave — orchestrate one wave
+# atlas-wave — expand the graph by one wave
 
-A wave takes a career (or a block of materias) from unsourced to grounded,
-audited, committed and deployed. One wave = one commit = one revert point.
+## The mental model (read this first)
+
+The atlas is a tree that grows one level at a time, and each level has one
+source of truth:
+
+```
+UBA → career (L1: the official plan) → course (L2: the cátedra's syllabus) → book (L3: leaf)
+```
+
+A node moves through three states:
+
+```
+to index ──research──▶ to create ──generate──▶ created
+```
+
+Can't create the un-indexed; can't index the un-sourced (seal it honestly —
+the gap is information). **Expansion = research pushes the frontier down one
+level. Verification = an adversary attacks every new leaf before it ships.**
+A wave is one push on one career: from unsourced to grounded, audited,
+committed and deployed. One wave = one commit = one revert point.
 
 The orchestrator (this session) never writes nodes and never audits them. It
 writes briefs, launches agents, persists verdicts, and closes.

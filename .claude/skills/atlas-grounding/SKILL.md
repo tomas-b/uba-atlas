@@ -5,7 +5,12 @@ description: Expand and ground the UBA Atlas graph — source a real UBA career 
 
 # atlas-grounding
 
-Turn a real UBA program into grounded graph nodes — honestly. Full methodology:
+Turn a real UBA program into grounded graph nodes — honestly. This skill is
+the **research + expand** half of the mental model: the atlas is a tree
+(`UBA → career L1 → course L2 → book L3`), each level has one source of truth,
+and a node moves `to index ──research──▶ to create ──generate──▶ created`.
+This skill pushes the frontier down one level for one career or one course;
+`atlas-verify` attacks what it produces. Full methodology:
 `/p/learn/RESEARCHING-PROGRAMS.md`. Laws: `/p/learn/CONCEPT.md`. Tools: `/p/learn/extract/`.
 
 ## The laws (never bent)
