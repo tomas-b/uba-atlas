@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Curvas definidas por medio de ecuaciones paramétricas. Coordenadas polares. Secciones cónicas. Cilindros y superficies cuádricas. Los objetos geométricos que después se derivan e integran.",
+  "frame": "Curvas definidas por medio de ecuaciones paramétricas. Coordenadas polares. Secciones cónicas. Cilindros y superficies cuádricas.",
   "groups": [
     {
       "kind": "spine",

@@ -15,7 +15,7 @@
   "title": "El software se construye como proceso, no como acto aislado.",
   "lede": "Nociones básicas sobre el proceso de desarrollo de software. La disciplina propone un enfoque sistemático, cuantificable y disciplinado para llevarlo adelante.",
   "meta": [
-    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Unidad", "v": "1", "small": "de 6 · editorial" },
     { "k": "Rol", "v": "unidad", "small": "marco inicial" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
@@ -30,10 +30,20 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "PROCESO DE DESARROLLO DE SOFTWARE (unidad 1)\n│\n├─ Tema · nociones básicas sobre el proceso de desarrollo\n└─ Idea · enfoque sistemático, cuantificable y disciplinado",
-        "foot": "Tema de los contenidos mínimos oficiales del Plan 2023 (Ingeniería de Software, DC-FCEN)."
+        "foot": "Temas sugeridos (columna «Temas sugeridos 2019») de la fila «Ingeniería de Software (IS)» del documento del Plan 2023 (DC-FCEN). Agrupación editorial: unidad 1 de 6 sobre los 12 temas de esa columna, que la fuente imprime como un solo párrafo, sin unidades."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y temas propuestos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025) · fila «Ingeniería de Software (IS)», columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): los temas de esta unidad salen de la columna «Temas sugeridos 2019» de la fila «Ingeniería de Software (IS)»; el documento define esa columna como «temas sugeridos», distinta de la columna «Temas del Plan» (contenidos mínimos).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: su descripción en prosa — «La aplicación de un enfoque sistemático, cuantificable y disciplinado al desarrollo, operación y mantenimiento de Software» — es la base de la segunda hoja de la unidad; no imprime el tema «Nociones básicas sobre el proceso de desarrollo de software», que está sólo en el PDF.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

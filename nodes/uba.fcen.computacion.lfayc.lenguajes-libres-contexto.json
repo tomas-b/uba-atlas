@@ -30,10 +30,24 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "LENGUAJES LIBRES DE CONTEXTO (unidad 3)\n│\n├─ Tema · autómatas de pila\n├─ Tema · lenguajes determinísticos\n└─ Idea · lenguajes no libres de contexto y lema de bombeo para lenguajes libres de contexto",
-        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "foot": "Agrupa los ítems 4–5 del programa de 13 ítems que publica Cuba-Wiki (wiki de estudiantes, no oficial); el agrupamiento de 13 en 7 es editorial. El plan oficial agrega para este tramo «gramática» («Lenguajes libres de contexto: gramática, autómatas de pila…») y «Gramáticas LR y nociones básicas de su aplicación a problemas de parsing», que la wiki no lista y no se dibujan acá."
       },
       "exits": []
     }
   ],
-  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» · sección «Programa» (wiki de estudiantes, no oficial)", "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» (plan 2023). DIBUJADO: los ítems 4–5 de los trece de su sección «Programa». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra.",
+      "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). VERIFICADO (extract/out/dc-plan-2023-v11-2025.txt): la columna «Temas sugeridos 2019» de la fila LAC. Para este tramo imprime «Lenguajes libres de contexto: gramática, autómatas de pila, lenguajes determinísticos. Gramáticas LR y nociones básicas de su aplicación a problemas de parsing. Lenguajes no libres de contexto y lema de pumping»: la gramática y las gramáticas LR no figuran en el programa de la wiki y no se dibujan acá. No se dibuja como fuente de los temas.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: da carga, ubicación y una descripción en prosa («autómatas, expresiones regulares, parsers»); no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

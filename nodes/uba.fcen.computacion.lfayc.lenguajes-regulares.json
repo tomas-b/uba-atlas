@@ -30,10 +30,24 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "LENGUAJES REGULARES (unidad 2)\n│\n├─ Tema · autómatas finitos determinísticos y no determinísticos\n├─ Tema · expresiones regulares\n└─ Idea · lenguajes no regulares y lema de bombeo para lenguajes regulares",
-        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "foot": "Agrupa los ítems 2–3 del programa de 13 ítems que publica Cuba-Wiki (wiki de estudiantes, no oficial); el agrupamiento de 13 en 7 es editorial. El plan oficial agrega para este tramo «gramática» («Lenguajes regulares: gramática, autómatas finitos…»), que la wiki no lista y no se dibuja acá."
       },
       "exits": []
     }
   ],
-  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» · sección «Programa» (wiki de estudiantes, no oficial)", "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» (plan 2023). DIBUJADO: los ítems 2–3 de los trece de su sección «Programa». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra.",
+      "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). VERIFICADO (extract/out/dc-plan-2023-v11-2025.txt): la columna «Temas sugeridos 2019» de la fila LAC. Para este tramo imprime «Lenguajes regulares: gramática, autómatas finitos determinísticos y no determinísticos, expresiones regulares. Lenguajes no regulares y lema de pumping»: la gramática no figura en el programa de la wiki y no se dibuja acá. No se dibuja como fuente de los temas.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: da carga, ubicación y una descripción en prosa («autómatas, expresiones regulares, parsers»); no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

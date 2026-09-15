@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Polinomio de Taylor para funciones de 1 variable. Aproximaciones de Taylor para funciones de 2 y 3 variables. Matriz Hessiana. La herramienta que prepara la clasificación de extremos.",
+  "frame": "Polinomio de Taylor para funciones de 1 variable. Aproximaciones de Taylor para funciones de 2 y 3 variables. Matriz Hessiana.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "POLINOMIO DE TAYLOR (U4)\n│\n├─ 1 variable    · polinomio de Taylor\n├─ 2 y 3 var.    · aproximaciones\n└─ Hessiana      · matriz de segundas derivadas",
+        "tree": "POLINOMIO DE TAYLOR (U4)\n│\n├─ 1 variable    · polinomio de Taylor\n├─ 2 y 3 var.    · aproximaciones\n└─ Matriz Hessiana",
         "foot": "Temas del programa oficial del DM (Análisis I)."
       },
       "exits": []

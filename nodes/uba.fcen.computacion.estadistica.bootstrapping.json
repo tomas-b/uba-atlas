@@ -30,7 +30,7 @@
   ],
   "eyebrow": "Estadística Computacional · unidad · 6",
   "title": "Remuestrear los propios datos para medir el error.",
-  "lede": "Jackknife, validación cruzada y bootstrapping: qué hacer cuando la fórmula cerrada no está.",
+  "lede": "Jackknife, validación cruzada y bootstrapping.",
   "meta": [
     {
       "k": "Unidad",
@@ -68,8 +68,8 @@
     }
   ],
   "source": {
-    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (documento oficial v11/2025) + cubawiki.com.ar (programa en 7 bloques, wiki estudiantil, no oficial)",
-    "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    "label": "cubawiki.com.ar · «Estadística Computacional» (programa en 7 bloques, wiki estudiantil, no oficial) + computacion.dc.uba.ar · Plan de Estudios 2023 (documento oficial v11/2025)",
+    "url": "https://cubawiki.com.ar/index.php?title=Estad%C3%ADstica_Computacional"
   },
   "sources": [
     {
@@ -77,7 +77,7 @@
       "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
     },
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF Version-11_2025, documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     },
     {

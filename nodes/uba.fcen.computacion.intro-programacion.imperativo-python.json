@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Introducción a la Programación · bloque · B3",
   "title": "El paradigma imperativo, en Python.",
-  "lede": "La segunda forma de programar: el paradigma imperativo. Con Python aparecen las variables, los procedimientos, la iteración y las referencias, y se implementan los primeros TADs — pilas, colas y arreglos.",
+  "lede": "La segunda forma de programar: el paradigma imperativo. Con Python se ven variables, procedimientos, iteración, referencias y TADs — pilas, colas y arreglos.",
   "meta": [
-    { "k": "Bloque", "v": "3", "small": "de 3" },
+    { "k": "Bloque", "v": "3", "small": "de 3 · numeración editorial" },
     { "k": "Rol", "v": "paradigma", "small": "imperativo" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Introducción al paradigma imperativo con Python. Variables. Procedimientos. Iteración. Referencias. Tipos de datos abstractos: pilas, colas y arreglos. La segunda parte de la materia: el estado y su evolución paso a paso.",
+  "frame": "Introducción al paradigma imperativo con Python, «en la segunda parte» de la materia según Cuba-Wiki. Variables. Procedimientos. Iteración. Referencias. TADs: pilas, colas y arreglos. El programa oficial (RESCD-2024-975) enuncia el bloque como «Introducción al paradigma imperativo: transformación de estados, variables y memoria, pasaje de parámetros por valor y referencia, estructuras de control, ciclos. Uso de listas, pilas y colas. Uso de TADs.»",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,25 @@
       "note": "El orden conceptual del bloque.",
       "map": {
         "mk": "El bloque, comprimido",
-        "tree": "IMPERATIVO · PYTHON (B3)\n│\n├─ Estado      · variables, referencias\n├─ Control     · procedimientos, iteración\n└─ TADs        · pilas, colas, arreglos",
-        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "tree": "IMPERATIVO · PYTHON (B3)\n│\n├─ Variables\n├─ Procedimientos\n├─ Iteración\n├─ Referencias\n├─ TADs · pilas, colas, arreglos\n└─ Programa oficial · transformación de estados, variables y memoria, pasaje de parámetros por valor y referencia, estructuras de control, ciclos; uso de listas, pilas y colas; uso de TADs",
+        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial); la wiki no numera bloques: llama a Python «la segunda parte» de la materia — «B3 de 3» es numeración editorial. La última rama cita el programa oficial RESCD-2024-975 (bibliotecadigital), que tiene un cuarto ítem que ningún bloque de esta materia dibuja: «Introducción a Validación y Verificación de software. Testing.» Su bibliografía lista el sitio oficial de Python y a Pezze & Young, Software testing and analysis."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria) · cubawiki.com.ar (contenido; wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Introducción a la Programación», sección «Contenido» (wiki de estudiantes, no oficial) · computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria)", "url": "https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Introducción a la Programación» (plan 2023). DIBUJADO: el párrafo «Con Python se ven Variables, Procedimientos, Iteración, Referencias, y TADs (Pilas, Colas y Arreglos).» de su sección «Contenido». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra; no numera bloques: llama a Haskell «la primera parte de la materia» y a Python «la segunda parte».",
+      "url": "https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Contiene sólo la descripción de la materia («Especificación y resolución de problemas mediante el uso de algoritmos, demostraciones rigurosas de su comportamiento. Nociones de programación imperativa y funcional, herramientas de desarrollo. Proyectos grupales.») y «Carga horaria semanal: 10 hrs»; ninguno de los temas de este bloque está en ella.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · «Introducción a la Programación (2024)», programa oficial aprobado por RESCD-2024-975-E-UBA-DCT#FCEN (1er cuatrimestre de 2024, Plan 2023). CITADO en la última rama del árbol: su tercer ítem de «Programa», «Introducción al paradigma imperativo: transformación de estados, variables y memoria, pasaje de parámetros por valor y referencia, estructuras de control, ciclos. Uso de listas, pilas y colas. Uso de TADs.» Su cuarto ítem, «Introducción a Validación y Verificación de software. Testing.», no está dibujado en ningún bloque. Su «Bibliografía» lista a Gries, The Science of Programming; Broda et al., Reasoned programming; el sitio oficial de Python; el sitio oficial de Haskell; Pezze & Young, Software testing and analysis. Reemplazar la wiki por este programa es el paso pendiente.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_2"
+    }
+  ]
 }

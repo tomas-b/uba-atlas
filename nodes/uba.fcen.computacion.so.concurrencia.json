@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Intercomunicación (comunicación entre procesos). Sincronización. La coordinación del acceso a recursos compartidos en presencia de ejecución concurrente.",
+  "frame": "Intercomunicación. Sincronización.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,15 @@
       "note": "Los temas del plan reagrupados en la Unidad 3.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "CONCURRENCIA (Unidad 3)\n│\n├─ Intercomunicación (entre procesos)\n└─ Sincronización",
-        "foot": "Temas del Plan de Estudios 2023 (computacion.dc.uba.ar)."
+        "tree": "CONCURRENCIA (Unidad 3)\n│\n├─ Intercomunicación\n└─ Sincronización",
+        "foot": "Temas de la fila SO del documento del Plan de Estudios 2023 (PDF, computacion.dc.uba.ar)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023 (temas SO)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · documento del Plan de Estudios 2023, «Versión 6 (Noviembre 2025)» (PDF) — fila «Sistemas Operativos (SO)», columnas «Temas del Plan» y «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    { "label": "Documento del Plan de Estudios 2023 (PDF, archivo 11_2025). DIBUJADO: los temas de la fila SO. Texto en extract/out/dc-plan-2023-v11-2025.txt.", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+    { "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC, que enlaza el PDF. Su ficha de SO es un resumen en prosa y no imprime la lista de temas; no se dibuja.", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  ]
 }

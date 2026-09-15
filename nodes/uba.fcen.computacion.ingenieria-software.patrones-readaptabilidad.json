@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Ingeniería de Software · unidad · 4",
   "title": "Soluciones recurrentes y código que se readapta al cambio.",
-  "lede": "Patrones de diseño como soluciones recurrentes. Readaptabilidad del software mediante refactorización.",
+  "lede": "Patrones de diseño como soluciones recurrentes. Readaptabilidad del software.",
   "meta": [
-    { "k": "Unidad", "v": "4", "small": "de 6" },
-    { "k": "Rol", "v": "unidad", "small": "patrones y refactor" },
+    { "k": "Unidad", "v": "4", "small": "de 6 · editorial" },
+    { "k": "Rol", "v": "unidad", "small": "patrones y readaptabilidad" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "La unidad trata patrones de diseño y readaptabilidad (refactorización).",
+  "frame": "La unidad trata patrones de diseño y readaptabilidad.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,21 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "PATRONES DE DISEÑO Y READAPTABILIDAD (unidad 4)\n│\n├─ Tema · patrones de diseño\n└─ Idea · readaptabilidad (refactorización)",
-        "foot": "Tema de los contenidos mínimos oficiales del Plan 2023 (Ingeniería de Software, DC-FCEN)."
+        "tree": "PATRONES DE DISEÑO Y READAPTABILIDAD (unidad 4)\n│\n├─ Tema · patrones de diseño\n└─ Idea · readaptabilidad",
+        "foot": "Temas sugeridos (columna «Temas sugeridos 2019») de la fila «Ingeniería de Software (IS)» del documento del Plan 2023 (DC-FCEN). Agrupación editorial: unidad 4 de 6 sobre los 12 temas de esa columna, que la fuente imprime como un solo párrafo, sin unidades."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y temas propuestos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025) · fila «Ingeniería de Software (IS)», columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): los temas de esta unidad salen de la columna «Temas sugeridos 2019» de la fila «Ingeniería de Software (IS)»; el documento define esa columna como «temas sugeridos», distinta de la columna «Temas del Plan» (contenidos mínimos).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: ubica la materia y da su descripción en prosa y «Carga horaria semanal: 10 hrs»; no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

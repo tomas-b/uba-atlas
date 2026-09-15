@@ -3,24 +3,56 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 1 },
+  "metadata": {
+    "unidad": 1
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.paradigmas", "label": "Paradigmas de Programación" },
-    { "address": "uba.fcen.computacion.paradigmas.diseno-lenguajes", "label": "Diseño e implementación de lenguajes" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas",
+      "label": "Paradigmas de Programación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas.diseno-lenguajes",
+      "label": "Diseño e implementación de lenguajes"
+    }
   ],
   "eyebrow": "Paradigmas de Programación · eje · 1",
   "title": "Qué hay detrás de todo lenguaje.",
-  "lede": "Las características básicas del diseño e implementación de los lenguajes de programación. Los componentes de un lenguaje, mirados desde un punto de vista conceptual y aplicado.",
+  "lede": "Las características básicas del diseño e implementación de lenguajes de programación; el detalle de la fila agrega sintaxis, intérpretes y compiladores de lenguajes, teoría de tipos y metaprogramación.",
   "meta": [
-    { "k": "Eje", "v": "1", "small": "de 5" },
-    { "k": "Rol", "v": "unidad", "small": "fundamentos" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Eje",
+      "v": "1",
+      "small": "de 5 · 3 en la fuente"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "fundamentos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "Las características básicas del diseño e implementación de un lenguaje, y sus componentes vistos en lo conceptual y en lo aplicado.",
+  "frame": "Características básicas del diseño e implementación de lenguajes de programación. Detalle de la fila: sintaxis, intérpretes y compiladores de lenguajes; teoría de tipos; metaprogramación. La página del Plan 2023 del DC describe la materia como «Estudio profundo de los componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado».",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +61,24 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "El eje, comprimido",
-        "tree": "DISEÑO E IMPLEMENTACIÓN DE LENGUAJES (eje 1)\n│\n├─ Idea · características básicas del diseño de un lenguaje\n└─ Idea · sus componentes, en lo conceptual y en lo aplicado",
-        "foot": "Eje de los contenidos mínimos oficiales del Plan 2023 (Paradigmas de Programación, DC-FCEN)."
+        "tree": "DISEÑO E IMPLEMENTACIÓN DE LENGUAJES (eje 1)\n│\n├─ Contenido mínimo · características básicas del diseño e implementación de lenguajes de programación\n├─ Detalle · sintaxis, intérpretes y compiladores de lenguajes\n├─ Detalle · teoría de tipos\n├─ Detalle · metaprogramación\n└─ Página del DC · componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado",
+        "foot": "Contenido mínimo 1 de 3 de la fila «Paradigmas de Programación (PP)» del documento del plan (columna «Temas del Plan»); eje 1 de 5: despliegue editorial de esos 3 contenidos mínimos. Detalle de la columna «Temas sugeridos 2019» de la misma fila; la última hoja viene de la descripción de la página del Plan 2023 del DC, no de los contenidos mínimos."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025; fila «Paradigmas de Programación (PP)»: columnas «Temas del Plan» y «Temas sugeridos 2019»)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025). DIBUJADO: la fila «Paradigmas de Programación (PP)» de la tabla «Temas propuestos para las materias» — columna «Temas del Plan» (tres contenidos mínimos) y columna «Temas sugeridos 2019» (detalle).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Descripción de la materia: «Estudio profundo de los componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado. Paradigmas funcional, lógico, de objetos, etc.» No contiene los contenidos mínimos; enlaza el PDF del plan.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

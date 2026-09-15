@@ -12,15 +12,15 @@
     { "address": "uba.fcen.computacion.alc.svd", "label": "Matrices definidas positivas" }
   ],
   "eyebrow": "ALC · unidad · Cap. V",
-  "title": "La descomposición que todo lo explica: SVD.",
-  "lede": "Las matrices definidas positivas y su factorización de Cholesky, y la descomposición central de la materia: los valores singulares y la SVD, con la inversa generalizada. Además, las descomposiciones de Schur y la forma canónica de Jordan.",
+  "title": "Definidas positivas, Cholesky, SVD, Schur y Jordan.",
+  "lede": "Las matrices definidas positivas y su factorización de Cholesky, los valores singulares y la SVD, con la inversa generalizada. Además, las descomposiciones de Schur y la forma canónica de Jordan.",
   "meta": [
     { "k": "Cap.", "v": "V", "small": "de 6" },
     { "k": "Rol", "v": "SVD", "small": "descomponer" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Descomposiciones matriciales avanzadas. Matrices definidas positivas y factorización de Cholesky. Valores singulares y la descomposición SVD; la inversa generalizada. Descomposición de Schur. Forma canónica de Jordan. Aplicaciones.",
+  "frame": "Matrices definidas positivas y factorización de Cholesky. Valores singulares y la descomposición SVD; la inversa generalizada. Descomposición de Schur. Forma canónica de Jordan. Aplicaciones.",
   "groups": [
     {
       "kind": "spine",
@@ -30,7 +30,7 @@
       "map": {
         "mk": "El capítulo, comprimido",
         "tree": "DEFINIDAS POSITIVAS Y SVD (Cap. V)\n│\n├─ Matrices definidas positivas · factorización de Cholesky\n├─ Valores singulares · descomposición SVD · inversa generalizada\n└─ Descomposición de Schur · forma canónica de Jordan · aplicaciones",
-        "foot": "Temas del Cap. V del programa de la cátedra (cms.dm.uba.ar). La SVD es la descomposición central que conecta con PCA y compresión."
+        "foot": "Temas del Cap. V del programa de la cátedra (cms.dm.uba.ar)."
       },
       "exits": []
     }

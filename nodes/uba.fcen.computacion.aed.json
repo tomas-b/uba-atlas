@@ -19,7 +19,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 6/6" },
     { "k": "Carga", "v": "15 h", "small": "semanales · 240 h" }
   ],
-  "frame": "Dos fuentes, separadas. La tabla del plan oficial (PDF «Texto ordenado del Plan de Estudios», enlazado desde computacion.dc.uba.ar/plan-de-estudios-2023) da la carga horaria (15 h semanales, 240 h totales, modalidad T/P/L) y las correlativas (Introducción a la Programación y Álgebra I); sus contenidos mínimos son tres frases. El temario detallado y la bibliografía vienen de Cuba-Wiki — la wiki de estudiantes de Computación y Datos de la FCEyN, que en su portada aclara que «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»: no es una transcripción de cátedra. La wiki lista seis ítems de contenido; los cuatro bloques de abajo los reagrupan de a pares consecutivos (1-2, 3-4, 5, 6) — el reagrupamiento es editorial, no está en la fuente. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
+  "frame": "Dos fuentes, separadas. La tabla del plan oficial (PDF «Texto ordenado del Plan de Estudios», enlazado desde computacion.dc.uba.ar/plan-de-estudios-2023) da la carga horaria (15 h semanales, 240 h totales, modalidad T/P/L) y las correlativas (Introducción a la Programación y Álgebra I); sus contenidos mínimos son tres frases. El temario detallado y la bibliografía vienen de Cuba-Wiki — la wiki de estudiantes de Computación y Datos de la FCEyN, que en su portada aclara que «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»: no es una transcripción de cátedra. La wiki lista seis ítems de contenido; los cuatro bloques de abajo los reagrupan de a pares consecutivos (1-2, 3-4, 5, 6) — el reagrupamiento es editorial, no está en la fuente. En el Repositorio Digital de Programas de Exactas está el programa oficial de la cátedra (RESCD-2024-975, Plan 2023): ocho ítems de «Programa» y doce de «Bibliografía». Los cuatro bloques de abajo siguen a la wiki; cada unidad cita los ítems correspondientes del programa oficial, que no está dibujado como estructura.",
   "groups": [
     {
       "kind": "spine",
@@ -64,8 +64,8 @@
       "url": "https://www.cubawiki.com.ar/index.php/Algoritmos_y_Estructuras_de_Datos"
     },
     {
-      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. La propia página del Plan 2023 remite ahí: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas». Todavía no explotado para este nodo — es el paso pendiente para reemplazar la wiki por el programa oficial.",
-      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+      "label": "bibliotecadigital.exactas.uba.ar · «Algoritmos y Estructuras de Datos (2024)», programa oficial de la cátedra aprobado por RESCD-2024-975-E-UBA-DCT#FCEN (Plan 2023), en el Repositorio Digital de Programas de Exactas al que remite la página del Plan 2023. CITADO por cada unidad, no dibujado como estructura: ocho ítems de «Programa» y doce de «Bibliografía» (Gries; Broda et al.; Leino; Balcázar; Cormen et al.; Liskov-Guttag; Meyer; Martin; Peña Marí; Brassard-Bratley; Aho-Hopcroft-Ullman; Tarjan). Reemplazar la wiki por este programa es el paso pendiente.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_3"
     }
   ]
 }

@@ -22,21 +22,21 @@
   "lede": "Arquitectura y Organización de Computadores mira la máquina como sistema: computadores de propósito dedicado frente a los de propósito general. De los microcontroladores (CPU, memoria, gestión de I/O) a la máquina de propósito general — jerarquía de caché, pipeline, superescalar, ejecución fuera de orden — y de ahí al diseño lógico sobre FPGA y a la síntesis de un softcore con su propio juego de instrucciones. Continúa a Sistemas Digitales.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "10 h · año 2" },
-    { "k": "Unidades", "v": "5", "small": "contenidos mín." },
+    { "k": "Unidades", "v": "5", "small": "temas sugeridos 2019" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Materia", "v": "renovada", "small": "Plan 2023" }
   ],
-  "frame": "Materia completamente renovada del Plan 2023 (desciende de Organización del Computador I/II). No hay programa de cátedra por unidades publicado; los temas se toman verbatim de los contenidos mínimos del documento oficial del plan (computacion.dc.uba.ar). Las cinco unidades son los bloques temáticos que el propio plan enumera, en orden. Representación de la información y lógica digital NO están aquí — viven en la materia previa, Sistemas Digitales. No se publica bibliografía oficial de esta materia.",
+  "frame": "Materia completamente renovada del Plan 2023 (desciende de Organización del Computador I/II). No hay programa publicado de esta materia con su nombre actual; el Repositorio Digital de Programas de Exactas publica el de Organización del Computador II (1er cuatrimestre 2020, Res. CD Nº 0511/20), la materia del Plan 1993 que la tabla de equivalencias del plan le asigna. Los temas se toman de la columna «Temas sugeridos 2019» del documento oficial del plan (PDF versión 11/2025, computacion.dc.uba.ar); la columna formal «Temas del Plan» tiene cuatro líneas: «Computadores de propósito dedicado vs. propósito general. Computadores dedicados: microcontroladores. Diseño lógico sobre dispositivos lógicos programables. Softcores.» Las cinco unidades son los bloques en que se parte la columna 3, en orden. Representación de la información y lógica digital NO están aquí — viven en la materia previa, Sistemas Digitales. No se publica bibliografía oficial de esta materia.",
   "groups": [
     {
       "kind": "spine",
-      "eyebrow": "Contenidos mínimos · los 5 bloques",
+      "eyebrow": "Temas sugeridos 2019 · los 5 bloques",
       "title": "El recorrido, del microcontrolador al softcore",
-      "note": "Bloques temáticos de los contenidos mínimos oficiales del plan, en orden.",
+      "note": "Bloques de la columna «Temas sugeridos 2019» del documento del plan, en orden; los «Temas del Plan» formales son cuatro líneas.",
       "map": {
         "mk": "El programa, en cinco bloques",
         "tree": "ARQUITECTURA Y ORGANIZACIÓN DE COMPUTADORES\n│\n├─ 1 · Propósito dedicado vs. general · organización de un sistema de cómputo\n├─ 2 · Microcontroladores            · CPU, memoria, I/O (polling/interrupciones)\n├─ 3 · Propósito general             · caché (MESI), pipeline, superescalar, FPU\n├─ 4 · Dispositivos lógicos program. · FPGA, LUTs, HDL, datapath, buses\n└─ 5 · Softcores                     · ISA, opcodes, síntesis de CPU, ensamblador",
-        "foot": "Contenidos mínimos del documento oficial del Plan 2023 (DC-FCEN). Sin bibliografía oficial publicada."
+        "foot": "Columna «Temas sugeridos 2019» del documento oficial del Plan 2023 (DC-FCEN); los «Temas del Plan» formales son cuatro líneas. Sin bibliografía oficial publicada."
       },
       "exits": [
         { "address": "uba.fcen.computacion.arquitectura.proposito-dedicado-general", "name": "Propósito dedicado vs. general", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
@@ -47,5 +47,19 @@
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023, PDF versión 11/2025 («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)») · columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF Version-11_2025, enlazado desde la página del Plan 2023). DIBUJADO: la fila «Arquitectura y Organización de Computadores (OC)» de la tabla «Temas propuestos para las materias», columna 3 «Temas sugeridos 2019» — de ahí sale este bloque. La columna 2 «Temas del Plan» imprime sólo cuatro líneas: «Computadores de propósito dedicado vs. propósito general. Computadores dedicados: microcontroladores. Diseño lógico sobre dispositivos lógicos programables. Softcores.» Texto en extract/out/dc-plan-2023-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Ubica la materia y su carga horaria, y enlaza el PDF. DIVERGENCIA declarada: su propio resumen de la materia dice «Diseño de un computador y su sistema operativo, programación de microinstrucciones, interfase ensamblador-lenguajes. Programación de Sistemas Operativos: memoria, interrupciones, protección, manejo de tareas, optimización.», que no coincide con los cinco bloques del PDF dibujados acá.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas: «Organización del Computador II», «Primer cuatrimestre 2020 – dictado a distancia», RESOLUCION (CD) Nº 0511 (Expte. Nº 1037/2020). Programa de la materia del Plan 1993 que la tabla de equivalencias del plan asigna a Arquitectura y Organización de Computadores; 11 unidades, sin bibliografía. No es el ground de este nodo: se cita para no afirmar que no existe programa de cátedra.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/download/programa/programa_n20200511_14.pdf"
+    }
+  ]
 }

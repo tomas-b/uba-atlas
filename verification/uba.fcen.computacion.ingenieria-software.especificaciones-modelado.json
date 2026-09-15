@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.ingenieria-software.especificaciones-modelado",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 12,
+  "units_found": 12,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "source.url (computacion.dc.uba.ar/plan-de-estudios-2023/, HTML) does NOT contain this unit's topics — the live page (fetched 2026-09-15) has only the IS prose description + «Carga horaria semanal: 10 hrs»; the detail topics exist only in the plan PDF (extract/out/dc-plan-2023-v11-2025.txt:623-636, identical md5 6883acd7… to the live 11/2025 PDF). Law 1 broken: the drawn claims are not recoverable from source.url. Repair: point source.url at https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf (or carry a sources[] like the parent).",
+    "map.foot 'Tema de los contenidos mínimos oficiales del Plan 2023' mislabels the ground: the unit is cut from the THIRD column of the table, which the document defines as «temas sugeridos» (extract/out/dc-plan-2023-v11-2025.txt:411-424: 'La segunda columna contiene los temas que deben ser considerados formalmente como parte del plan… La tercera columna incluye los temas que… pueden cubrirse… La implementación o no de los “temas sugeridos” quedará a criterio del equipo docente'). The contenidos mínimos (col. 2, extract/out/dc-plan-2023-v11-2025.txt:623-629) are only: proceso de desarrollo y sus fases · técnicas de modelado y especificación · arquitecturas y diseño · validación y verificación · técnicas modernas de construcción. Repair: foot → 'Temas sugeridos (columna 3) de la fila «Ingeniería de Software (IS)» del documento del Plan 2023'.",
+    "metadata.unidad / eyebrow 'unidad · N' / meta 'de 6': the source has NO unit blocks for IS — the row is one paragraph of 12 topic sentences (extract/out/dc-plan-2023-v11-2025.txt:623-636, re-derived by my own split on '. '). '6' is an editorial grouping made by the parent node, not a count in the ground. Repair: say so in the unit (e.g. foot/note 'agrupación editorial N de 6 de los 12 temas sugeridos') or drop 'de 6'."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Source identity: live PDF v11/2025 re-fetched, pdftotext -layout md5 6883acd7f01b739b896c5c2b0269af49 == extract/out/dc-plan-2023-v11-2025.txt (and == plan-comp-v11-2025.txt); 07/2024 version has the same IS row (extract/out/plan-comp-v07-2024.txt:613-621). Live HTML page fetched: contains IS description and carga, no detail topics. No « » quotes in this node (nothing to grep). Exits: 6 exits ↔ 6 unit files, no orphans, no dangling. Books: cited sources list none for IS (books_total 0). Counterexample hunted: bibliotecadigital CL5/6 text search returns 11 IS-titled programas, latest 'Ingeniería de Software I (2020)' (Plan 93; programa_n20200511_08, one-line temario incl. «Refactorings automatizados•TDD»), nothing for the Plan-2023 materia in the 2023-2026 year nodes; the cátedra site linked by the DC (isw2.com.ar, 'Ingeniería de Software I (Plan 93) / Ingeniería de Software (Plan 23)') publishes a Libros page with 9 titled books (West, Liu, Beck, Gamma et al., Alpert et al., Feathers, Farley, Brooks, Goldberg) — not claimed by this unit, but it is the unnamed source of the parent's GoF/Object Thinking/Legacy Code mention and contradicts a blanket 'sin bibliografía'. Attacked: 'Especificaciones' (extract/out/dc-plan-2023-v11-2025.txt:624), 'Modelado del dominio del problema y modelado del dominio de la solución' (extract/out/dc-plan-2023-v11-2025.txt:625-626) — both reproduced, nothing added, nothing dropped; col-2 counterpart 'Técnicas de modelado y especificación de problemas' (extract/out/dc-plan-2023-v11-2025.txt:624-625) exists so the contenido-mínimo label is at least defensible here. Title 'nombrar con precisión el problema' is a fair gloss of especificar. Topics 2-3 of 12, order ✓."
+}

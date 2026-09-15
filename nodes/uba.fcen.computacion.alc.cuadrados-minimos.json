@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "El capítulo de aplicación. Formas bilineales y su representación matricial. Productos internos y vectores ortogonales. Problemas de cuadrados mínimos. Aproximación e interpolación; interpolación funcional. Aplicaciones.",
+  "frame": "Formas bilineales y su representación matricial. Productos internos y vectores ortogonales. Problemas de cuadrados mínimos. Aproximación e interpolación; interpolación funcional. Aplicaciones.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual del Capítulo VI.",
       "map": {
         "mk": "El capítulo, comprimido",
-        "tree": "FORMAS BILINEALES Y CUADRADOS MÍNIMOS (Cap. VI)\n│\n├─ Formas bilineales · representación matricial\n├─ Productos internos · vectores ortogonales\n├─ Problemas de cuadrados mínimos\n└─ Aproximación e interpolación · interpolación funcional",
+        "tree": "FORMAS BILINEALES Y CUADRADOS MÍNIMOS (Cap. VI)\n│\n├─ Formas bilineales · representación matricial\n├─ Productos internos · vectores ortogonales\n├─ Problemas de cuadrados mínimos\n└─ Aproximación e interpolación · interpolación funcional · aplicaciones",
         "foot": "Temas del Cap. VI del programa de la cátedra (cms.dm.uba.ar)."
       },
       "exits": []

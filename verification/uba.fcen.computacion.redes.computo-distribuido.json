@@ -1,0 +1,24 @@
+{
+  "address": "uba.fcen.computacion.redes.computo-distribuido",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "MISATTRIBUTED QUOTE (laws 1+3): the guillemet contenido mínimo is NOT on the cited source.url (https://computacion.dc.uba.ar/plan-de-estudios-2023/). Live fetch 2026-09-15 (v-redes/dcpage.txt 316-318) prints for RCD only the prose «Conocimientos necesarios para comprender los principios de transmisión de información y los conceptos involucrados en el diseño y seguridad de redes de comunicación informáticas.» plus the carga horaria; grep for the quoted string on the page = 0 hits. The string is verbatim only in the plan PDFs (extract/out/dc-plan-2023-v11-2025.txt 722-724 = live PDF, md5 identical 6883acd7…; propuesta-plan.txt 613-614). REPAIR: set source.url to the v11/2025 PDF https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf (same defect the course verdict already flagged; replicated in all 3 units).",
+    "MISLABELED SOURCE (law 5): source.label says «contenidos mínimos del documento oficial del plan» but the URL is the HTML page, which prints no contenidos mínimos for RCD. REPAIR: label+URL must name the same document (the PDF).",
+    "INVENTED SEQUENCE: eje numbering follows the 2023/06 propuesta order (propuesta-plan.txt 613: Teoría → Arquitecturas → Nociones), while the v11/2025 plan the label names prints Arquitecturas → Teoría → Cómputo (dc-plan-2023-v11-2025.txt 722-724). No source says which eje opens/closes the materia; the course node admits «el orden de abajo es el del recorrido, no el impreso». REPAIR: number ejes in the cited document's order or drop the opens/closes claims and cite the propuesta for the order.",
+    "WRONG DOCUMENT FOR THE QUOTE: the frame attributes «Nociones básicas sobre plataformas de cómputo distribuido» to «Contenido mínimo del Plan 2023», but the current plan (v11/2025, and v07/2024, dc-plan-2023-v11-2025.txt 724; plan-comp-v07-2024.txt 714) prints only «Cómputo distribuido.»; the longer wording exists only in the 2023/06 propuesta PDF (propuesta-plan.txt 613-614, live md5 identical). The parent course node quotes the v11 wording, so parent and child quote different texts for the same eje. REPAIR: either quote «Cómputo distribuido» from the v11 PDF, or cite the propuesta PDF explicitly for the longer wording.",
+    "UNGROUNDED LEDE: «cómo se aprovecha una red para repartir el trabajo entre varias máquinas» and «El eje donde las redes se vuelven cómputo» / «El eje que cierra la materia» appear in no source. REPAIR: keep the source phrase only."
+  ],
+  "omitted": [
+    "Contenidos analíticos column (dc-plan-2023-v11-2025.txt 726-731) prints «Plataformas de cómputo distribuido tipo cloud, fog y edge públicas y privadas. Orquestación de servicios, virtualización de redes y servicios. Cómputo y red definidos por software. Internet de las cosas. Blockchain.» — five concrete topics of this eje dropped undeclared, while the frame says only the cátedra fails to publish a breakdown."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked: title (fair, survives), lede (gloss, refuted), frame quote (verbatim only in the 2023/06 propuesta, not in the current plan nor on the cited URL), tree (survives), foot (survives after hunt), eyebrow «Eje 3 de 3» (count ok; v11 also lists it third). Absence hunt for «Sin programa de cátedra publicado»: the materia IS being dictated — DC listings 1C 2026 and 2C 2026 print «Redes de Comunicaciones y Cómputo Distribuido / Teoría de las Comunicaciones – Única · LCC23/LCC93 · Castro, Rodrigo Daniel; Righetti, Claudio Enrique» (v-redes/ya-se-encuentran-publicadas-las-materias-del-{primer,segundo}-cuatrimestre-de-2026.html), and Campus Exactas has courses RCCD-2026-c1 (course/view.php?id=956) and RCCD-2026-c2 (id=1308), but guest access is refused («Los invitados no pueden entrar a este curso»); bibliotecadigital programa collection, Departamento de Computación years 2024/2025/2026 (browse/CL5/6/47-49) lists no RCD nor Teoría de las Comunicaciones programa; cubawiki RCD page has no programa/bibliography. So 'no public programa' survives, but the frame's «la cátedra aún no publica el desglose fino» hides that the PLAN itself publishes a finer breakdown. Live v11/2025 PDF re-fetched, pdftotext -layout md5 6883acd7f01b739b896c5c2b0269af49 = local extract (identical); propuesta PDF md5 775e6d4e… = local. No bibliography in any source (grep bibliograf = 0 in v11, propuesta, DC page). Course exits ↔ unit files: 3/3, no orphans. Breadcrumb labels accurate. metadata.unidad and «de 3» count match the 3 sentences of the contenidos mínimos column (v11 722-724)."
+}

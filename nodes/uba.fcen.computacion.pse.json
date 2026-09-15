@@ -8,7 +8,7 @@
     "catedra": "FCEN-UBA · Prácticas Sociales Educativas",
     "cargaHoraria": "48 h",
     "cuatrimestre": "2º · año 4",
-    "tipo": "práctica de extensión / aprendizaje-servicio",
+    "tipo": "práctica de extensión · «actividades de aprendizaje y de servicio» (Reglamento del Programa de PSE, Res CS 520/11, art. 1)",
     "unidades": 0
   },
   "breadcrumb": [
@@ -19,27 +19,45 @@
   ],
   "eyebrow": "Práctica Social Educativa · año 4 · FCEN-UBA",
   "title": "Poner la carrera al servicio de la comunidad.",
-  "lede": "La Práctica Social Educativa (PSE) no es una materia de contenidos: es un trayecto formativo que articula los contenidos curriculares con necesidades y demandas concretas de la sociedad y la comunidad extrauniversitaria. En Computación es un requisito del plan (48 h) —una de las pocas carreras de Exactas que la incorporó como obligatoria— que se cumple sumándose a un proyecto de PSE de la Facultad.",
+  "lede": "La Práctica Social Educativa (PSE) no es una materia de contenidos: es un trayecto formativo que articula los contenidos curriculares con necesidades y demandas concretas de la sociedad y la comunidad extrauniversitaria. En Computación es un requisito del plan (48 h) —con Ciencias Químicas, una de las dos carreras de Exactas que la incorporaron como obligatoria; desde el año académico 2027 será obligatoria para la totalidad de ingresantes a la UBA (Res CS 1456/22)— que se cumple inscribiéndose a un proyecto de PSE aprobado, por el sistema de inscripciones de la FCEN.",
   "meta": [
     { "k": "Tipo", "v": "requisito", "small": "no materia" },
     { "k": "Carga", "v": "48 h", "small": "extensión" },
     { "k": "Grounding", "v": "L1", "small": "plan + descrip." },
-    { "k": "Modo", "v": "proyecto", "small": "aprend.-servicio" }
+    { "k": "Modo", "v": "proyecto", "small": "aprend. y servicio" }
   ],
-  "frame": "La PSE es un requisito curricular, no un curso con unidades ni bibliografía. Se sourcea del Plan 2023 (computacion.dc.uba.ar) y de la página de Prácticas Sociales Educativas de Exactas (exactas.uba.ar/practicas-sociales-educativas). Nivel L1: existe en el plan y está descripta como trayecto, pero no tiene temario propio que sourcear a L2 — se concreta en distintos proyectos que ofrece la Facultad.",
+  "frame": "La PSE es un requisito curricular, no un curso con unidades ni bibliografía. Se sourcea del Plan 2023 (documento del plan y página del DC) y de la página de Prácticas Sociales Educativas de Exactas (exactas.uba.ar/practicas-sociales-educativas). El documento del plan la define así: «Es un espacio formativo que articula los contenidos curriculares con las necesidades de la comunidad extrauniversitaria. Su objetivo es que los estudiantes adquieran conocimientos, desarrollen habilidades y valores ciudadanos, y reflexionen críticamente sobre la realidad social, contribuyendo al bienestar de la comunidad.» El Reglamento del Programa de PSE de la UBA (Res CS 520/11, art. 1) las califica como «actividades de aprendizaje y de servicio». Nivel L1: existe en el plan y está descripta como trayecto, pero no tiene temario propio que sourcear a L2 — se concreta en los proyectos de PSE aprobados por el Consejo Superior de la UBA, que la página de Exactas lista junto con su marco normativo (Res CS 520/11 y 6353/11; Res CD 2903/19 y 316/26; Res CS 1456/22).",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Qué es · cómo se cumple",
       "title": "Un trayecto, no un temario",
-      "note": "Requisito de extensión; se realiza dentro de un proyecto de PSE de la Facultad.",
+      "note": "Requisito de extensión; se realiza dentro de un proyecto de PSE aprobado.",
       "map": {
         "mk": "La PSE, en claro",
-        "tree": "PRÁCTICA SOCIAL EDUCATIVA (requisito · 48 h)\n│\n├─ Qué es · trayecto que articula contenidos curriculares con necesidades de la comunidad\n├─ En Computación · requisito del plan (carrera que la incorporó como obligatoria)\n└─ Cómo se cumple · sumándose a un proyecto de PSE de la FCEN",
-        "foot": "Plan 2023 (DC-FCEN) + Prácticas Sociales Educativas (Exactas). No es materia de contenidos: sin unidades ni bibliografía."
+        "tree": "PRÁCTICA SOCIAL EDUCATIVA (requisito · 48 h)\n│\n├─ Qué es · espacio formativo que articula los contenidos curriculares con las necesidades de la comunidad extrauniversitaria\n├─ Objetivo · conocimientos, habilidades y valores ciudadanos, reflexión crítica sobre la realidad social\n├─ En Computación · requisito del plan (con Cs. Químicas, las dos carreras de Exactas que la incorporaron); obligatoria para todo ingresante a la UBA desde 2027\n└─ Cómo se cumple · inscribiéndose a un proyecto de PSE aprobado, por el sistema de inscripciones de la FCEN",
+        "foot": "Plan 2023 (DC-FCEN) + Prácticas Sociales Educativas (Exactas) + Res CS 520/11. No es materia de contenidos: sin unidades ni bibliografía."
       },
       "exits": []
     }
   ],
-  "source": { "label": "exactas.uba.ar · Prácticas Sociales Educativas · Plan 2023 (DC-FCEN)", "url": "https://exactas.uba.ar/practicas-sociales-educativas/" }
+  "source": { "label": "exactas.uba.ar · Prácticas Sociales Educativas · Plan 2023 (DC-FCEN)", "url": "https://exactas.uba.ar/practicas-sociales-educativas/" },
+  "sources": [
+    {
+      "label": "exactas.uba.ar · página «Prácticas sociales educativas» de la FCEN. DIBUJADO: la definición de trayecto formativo, que Computación y Ciencias Químicas «las han incorporado a sus planes de estudio», que «a partir del año académico 2027 las PSE tendrán carácter obligatorio» para «la totalidad de estudiantes ingresantes a la Universidad» (RESCS-2022-1456), la inscripción «a través del sistema de inscripciones (materias de otras carreras)», la lista de proyectos de PSE aprobados por el Consejo Superior y el marco normativo.",
+      "url": "https://exactas.uba.ar/practicas-sociales-educativas/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): el requisito de graduación con «48 horas», el párrafo «Práctica Social Educativa» citado en el frame, y la fila Práctica Social Educativa · 3 · 48 de la tabla de dedicación horaria.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la PSE en 4º año, 2º cuatrimestre, con «Carga horaria: 3 horas semanales».",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "exactas.uba.ar · Res CS 520/11 y 6353/11, «Creación y Reglamento de la PSE» (PDF, enlazado desde la página de Exactas bajo «Resoluciones y marco normativo»). DIBUJADO: el art. 1 del Reglamento califica a las PSE como «actividades de aprendizaje y de servicio».",
+      "url": "https://exactas.uba.ar/wp-content/uploads/2021/10/res.cs_520-11_y_res.cs_6353-11_creacion_y_reglamento_del_programa_de_practicas_sociales.pdf"
+    }
+  ]
 }

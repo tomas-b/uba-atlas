@@ -1,0 +1,22 @@
+{
+  "address": "uba.fcen.computacion.concurrente.algoritmos-distribuidos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "lede: 'cómo cooperan procesos que no comparten memoria y se comunican por mensajes' — not printed anywhere in the cited sources; the only source mention of 'memoria compartida' and 'pasaje de mensajes' is under the concurrency MODELS paragraph (v11 L767-768), not under algoritmos distribuidos. The 'no comparten memoria' definition is outside knowledge presented as source content. Repair: replace with the plan's own list (see omitted).",
+    "frame: 'La cátedra aún no publica el desglose fino de estos temas' — misleading: v11 L786-795 prints a named list of distributed algorithms and classic problems for this eje. Repair: draw them; scope the absence to the cátedra programa.",
+    "source.label 'documento oficial del plan' vs source.url = HTML page (same mislabel). Repair: relabel or repoint."
+  ],
+  "omitted": [
+    "The official plan document the course node itself cites as DIBUJADO (Version 11/2025, extract/out/dc-plan-2023-v11-2025.txt L766-795; identical in v07-2024 L758-790) prints a third column of CONTENIDOS ANALÍTICOS for PCP beside the contenidos mínimos. The unit node draws a one-leaf tree that merely repeats the contenido mínimo and says 'La cátedra aún no publica el desglose fino de estos temas', which reads as 'no finer breakdown exists' — the DC's own plan publishes one. Undeclared omission of sourceable, already-extracted content. Analytic content that maps to this eje (v11 L786-795, v07 L771-779): «Algoritmos distribuidos: leader election, atomic commit, exclusión mutua, búsquedas distribuidas, algoritmos de consenso.» and «Problemas clásicos: Acuerdo bizantino, Intuición de safety, liveness, fairness, Algoritmo del banquero, Panadería de Lamport, Exclusión mutua y locks distribuidos, Elección de líder.» This is the richest analytic block of the materia and the unit draws none of it. Eje-to-paragraph assignment is editorial and must be declared."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked: quote «Principales algoritmos distribuidos» — verbatim at refresh L758 and v11 L768-769 (survives). metadata.unidad=3, 'Eje 3 de 3' — matches block 3 of 3 (survives). Title 'Coordinarse sin un centro.' is editorial but a fair compression. map.foot 'Sin programa de cátedra publicado' — survives after hunt. Breadcrumb ok. Defects: lede asserts a definition ('procesos que no comparten memoria… por mensajes') absent from every cited source; undeclared omission of the plan's named algorithms list; label/url mismatch. Source identity: live plan page https://computacion.dc.uba.ar/plan-de-estudios-2023/ (HTTP 200) prints the PCP block identical to extract/out/refresh-concurrente.txt L756-760; live PDF Version 11/2025 re-extracted with pdftotext -layout md5 6883acd7f01b739b896c5c2b0269af49 == extract/out/dc-plan-2023-v11-2025.txt (byte-identical); live PropuestaNuevoPlan…CBCviejo.pdf md5 775e6d4e6f936904a7f56a06b2615e04 == extract/out/propuesta-plan.txt. Block count re-derived: the contenidos mínimos sentence for PCP has exactly 3 sentences (refresh L758; v11 L766-769; propuesta L618-619) → 3 ejes, order Modelos → Conflictos/sincronización → Algoritmos distribuidos matches the 3 unit files and the course exits (3 exits ↔ 3 files, no orphans). Bibliography: no 'bibliograf' token anywhere in v11, v07, propuesta or the plan page; cubawiki (last edit 25 feb 2026, fetched live) has no bibliography or programa section → books_total 0 is correct. 'Sin programa de cátedra publicado' hunted: bibliotecadigital.exactas.uba.ar /collection/programa TextQuery for 'concurrente' and 'paralela' → 0 results; campus.exactas.uba.ar course pcp-2026-c1 (id=1017) and id=1226 exist but refuse guest access ('Los invitados no pueden entrar a este curso'); DC site search and www.dc.uba.ar/cursada-de-grado list no PCP programa; the 1C-2026 listing names the cátedra (Melgratti, Hernán; Lu/Mi 17-22, LCC23). The absence claim survives as a public-access fact, but the cátedra exists and is running. "
+}

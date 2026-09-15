@@ -15,12 +15,12 @@
   "title": "Especificar y demostrar correctitud.",
   "lede": "Cómo decir sin ambigüedad qué debe hacer un programa, y cómo demostrar que lo hace. Especificación formal de software, validación y verificación, precondición más débil y el teorema del invariante.",
   "meta": [
-    { "k": "Bloque", "v": "1", "small": "de 4" },
+    { "k": "Bloque", "v": "1", "small": "de 4 · editorial: ítems 1-2 de 6 de la wiki" },
     { "k": "Rol", "v": "base", "small": "rigor" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Especificación formal de software. Introducción a la validación y verificación. Métodos de demostración formal de correctitud (por ejemplo, la precondición más débil / weakest precondition). Teorema del invariante. La cátedra usa apuntes propios para este bloque; no tiene un libro de texto asignado.",
+  "frame": "Especificación formal de software. Introducción a la validación y verificación. Métodos de demostración formal de correctitud (por ejemplo, la precondición más débil / weakest precondition). Teorema del invariante. El programa oficial (RESCD-2024-975) detalla además: «Introducción a Lógica Proposicional y Primer Orden. Lenguaje de Especificación. Especificación de problemas usando contratos.», «Especificación de Tipos Abstractos de Datos» e «Implementación de Tipos Abstractos de Datos. Métodos de demostración formal de corrección: invariantes de representación y función de abstracción.»",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,29 @@
       "note": "El orden conceptual del bloque.",
       "map": {
         "mk": "El bloque, comprimido",
-        "tree": "ESPECIFICACIÓN Y VERIFICACIÓN (B1)\n│\n├─ Especificar · especificación formal de software\n├─ Verificar   · validación y verificación\n└─ Demostrar   · precondición más débil, teorema del invariante",
-        "foot": "Temas de la cátedra (DC, plan 2023). Sin bibliografía de libro para especificación."
+        "tree": "ESPECIFICACIÓN Y VERIFICACIÓN (B1)\n│\n├─ Especificar · especificación formal de software\n├─ Verificar   · validación y verificación\n├─ Demostrar   · precondición más débil, teorema del invariante\n└─ Programa oficial · lógica proposicional y primer orden, lenguaje de especificación, contratos; especificación e implementación de TADs, invariantes de representación y función de abstracción",
+        "foot": "Temas de la columna «Temas sugeridos 2019» del documento del Plan de Estudios 2023 (DC, PDF), re-listados por Cuba-Wiki (wiki de estudiantes, no oficial); «B1 de 4» es reagrupamiento editorial: ítems 1-2 de 6 de la wiki. Texto según la wiki: The Science of Programming, «Solo la parte de precondición mas débil»; la misma wiki dice que el tema de especificación no tiene bibliografía «por el momento». El programa oficial RESCD-2024-975 lista, entre otros, Gries (The Science of Programming), Broda et al. (Reasoned Programming), Leino (Program Proofs), Balcázar (Programación Metódica), Liskov-Guttag (Abstraction and Specification in Software Development) y Peña Marí (Diseño de Programas, Formalismo y Abstracción)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · documento del Plan de Estudios 2023, «Versión 6 (Noviembre 2025)», columna «Temas sugeridos 2019» de su tabla (PDF) · cubawiki.com.ar (wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF enlazado desde la página del Plan 2023). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): de la fila de Algoritmos y Estructuras de Datos, columna «Temas sugeridos 2019», los párrafos «Especificación formal de software. Introducción a la validación y verificación.» y «Métodos de demostración formal de correctitud (ej. weakest precondition). Teorema del invariante.».",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "cubawiki.com.ar · «Algoritmos y Estructuras de Datos» (plan 2023). Su sección «Contenidos» re-lista los mismos temas en seis ítems; este bloque reúne sus ítems 1 y 2. Cuba-Wiki es la wiki de estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara que «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Algoritmos_y_Estructuras_de_Datos"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Contiene sólo la descripción breve de la materia y la carga horaria; ninguno de los temas de este bloque está en ella, están en el PDF que enlaza.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · «Algoritmos y Estructuras de Datos (2024)», programa oficial de la cátedra aprobado por RESCD-2024-975-E-UBA-DCT#FCEN (Plan 2023): ocho ítems de «Programa» y doce de «Bibliografía». CITADO en la última rama del árbol: sus ítems 2, 4 y 5 («Especificación formal de software. Introducción a Lógica Proposicional y Primer Orden. Lenguaje de Especificación. Especificación de problemas usando contratos.», «Especificación de Tipos Abstractos de Datos», «Implementación de Tipos Abstractos de Datos. Métodos de demostración formal de corrección: invariantes de representación y función de abstracción.»). Reemplazar la wiki por este programa es el paso pendiente.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_3"
+    }
+  ]
 }

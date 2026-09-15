@@ -58,7 +58,7 @@
       "small": "sem · 160 tot."
     }
   ],
-  "frame": "Todo lo que se dibuja acá sale del Plan de Estudios 2023 del Departamento de Computación en su documento oficial «Versión 11/2025» (VERSIÓN 1.6, elevada a CODEP 6/2022 con actualizaciones hasta noviembre de 2025), que publica para cada materia el objetivo, la correlativa, la carga horaria, los contenidos mínimos y una lista de contenidos analíticos. Los nueve bloques de abajo son esa lista, en su orden y con sus palabras. El Repositorio Digital de Programas de Exactas —la vía oficial que la propia página del plan indica para los programas de las materias— fue consultado el 29/08/2026: entre los 1127 programas del Departamento de Computación NO hay ninguno de Técnicas de Diseño de Algoritmos, y de su equivalente del Plan 1993 sólo figura «Algoritmos y Estructura de Datos III (1995)», de otro plan. www.dc.uba.ar tampoco publica programa de la materia: el material vivo está en el campus (login). En consecuencia no hay bibliografía atribuible y la materia se deja honestamente sin libros. La página del plan describe además la materia como «resolución de problemas en grafos, estudio de la complejidad algorítmica (ej. P vs. NP), técnicas de diseño de algoritmos y soluciones aproximadas y heurísticas».",
+  "frame": "Todo lo que se dibuja acá sale del Plan de Estudios 2023 del Departamento de Computación en su documento oficial —«Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)», archivo Version-11_2025— (VERSIÓN 1.6, elevada a CODEP 6/2022 con actualizaciones hasta noviembre de 2025), que publica para cada materia el objetivo, la correlativa, la carga horaria, los contenidos mínimos y una lista de contenidos analíticos. Los nueve bloques de abajo son esa lista, en su orden y con sus palabras. El Repositorio Digital de Programas de Exactas —la vía oficial que la propia página del plan indica para los programas de las materias— fue consultado el 29/08/2026: entre los 1127 programas del Departamento de Computación NO hay ninguno de Técnicas de Diseño de Algoritmos, y de su equivalente del Plan 1993 figuran «Algoritmos y Estructura de Datos III (1995)» (de otro plan) y «Algoritmos y Estructura de Datos III (2020)» (Res. (CD) 0511/2020), que lista contenidos y no bibliografía. www.dc.uba.ar tampoco publica programa de la materia: el material vivo está en el campus (login). En consecuencia no hay bibliografía atribuible y la materia se deja honestamente sin libros. La página del plan describe además la materia como «resolución de problemas en grafos, estudio de la complejidad algorítmica (ej. P vs. NP), técnicas de diseño de algoritmos y soluciones aproximadas y heurísticas».",
   "groups": [
     {
       "kind": "spine",
@@ -138,12 +138,12 @@
     }
   ],
   "source": {
-    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Versión 11/2025» (contenidos mínimos y analíticos de TDA)",
+    "label": "computacion.dc.uba.ar · Plan de Estudios 2023 — documento oficial «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)», archivo Version-11_2025 (contenidos mínimos y analíticos de TDA)",
     "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
   },
   "sources": [
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (documento oficial, VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (documento oficial, archivo Version-11_2025; VERSIÓN 1.6 elevada a CODEP 6/2022 con actualizaciones hasta Nov 2025), PDF de 20 pp. EXTRAÍDO: objetivo de cada materia, correlativas, carga horaria (10 hs/sem · 160 hs totales), contenidos mínimos y contenidos analíticos por materia, y tabla de equivalencias.",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     },
     {
@@ -151,7 +151,7 @@
       "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
     },
     {
-      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 sólo existe «Algoritmos y Estructura de Datos III (1995)», de otro plan de estudios.",
+      "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección «Programas de las asignaturas», lista del Departamento de Computación (1127 programas). Consultado 2026-08-29: NO publica programa de Técnicas de Diseño de Algoritmos; de su equivalente del Plan 1993 existen «Algoritmos y Estructura de Datos III (1995)» (Res. 1456/1996, de otro plan de estudios) y «Algoritmos y Estructura de Datos III (2020)» (Res. (CD) 0511/2020, Guaraní «COMP930005», hdl.handle.net/20.500.12110/programa_n20200511_03), cuyo texto lista contenidos y no bibliografía.",
       "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
     }
   ]

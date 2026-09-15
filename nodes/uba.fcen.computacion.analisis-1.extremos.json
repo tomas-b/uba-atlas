@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Puntos críticos y su clasificación mediante el Hessiano. Extremos absolutos en regiones acotadas. Multiplicadores de Lagrange y extremos ligados (con restricciones). La aplicación central del cálculo diferencial en varias variables.",
+  "frame": "Puntos críticos y clasificación mediante el Hessiano. Extremos absolutos en regiones acotadas. Multiplicadores de Lagrange y extremos ligados.",
   "groups": [
     {
       "kind": "spine",

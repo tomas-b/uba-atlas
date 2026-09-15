@@ -9,18 +9,18 @@
     { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
     { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
     { "address": "uba.fcen.computacion.lfayc", "label": "Lenguajes Formales, Autómatas y Computabilidad" },
-    { "address": "uba.fcen.computacion.lfayc.maquinas-turing", "label": "Máquinas de Turing y funciones computables" }
+    { "address": "uba.fcen.computacion.lfayc.maquinas-turing", "label": "Máquinas de Turing y funciones parcialmente computables" }
   ],
   "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 4",
-  "title": "Máquinas de Turing, funciones computables y la tesis de Church.",
-  "lede": "Se introduce el modelo de las máquinas de Turing determinísticas, la noción de función parcialmente computable y la tesis de Church como criterio de lo computable.",
+  "title": "Máquinas de Turing, funciones parcialmente computables y la tesis de Church.",
+  "lede": "Se introduce el modelo de las máquinas de Turing determinísticas, la noción de función parcialmente computable y la tesis de Church.",
   "meta": [
     { "k": "Unidad", "v": "4", "small": "de 7" },
     { "k": "Rol", "v": "unidad", "small": "modelo de cómputo" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "La unidad define el cómputo mediante máquinas de Turing y funciones parcialmente computables, con la tesis de Church como horizonte.",
+  "frame": "La unidad reúne las máquinas de Turing (determinísticas), las funciones parcialmente computables y la tesis de Church.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,25 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "MÁQUINAS DE TURING Y FUNCIONES COMPUTABLES (unidad 4)\n│\n├─ Tema · máquinas de Turing (determinísticas)\n├─ Tema · funciones parcialmente computables\n└─ Idea · tesis de Church",
-        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "tree": "MÁQUINAS DE TURING Y FUNCIONES PARCIALMENTE COMPUTABLES (unidad 4)\n│\n├─ Tema · máquinas de Turing (determinísticas)\n├─ Tema · funciones parcialmente computables\n└─ Idea · tesis de Church",
+        "foot": "Agrupa los ítems 6–7 del programa de 13 ítems que publica Cuba-Wiki (wiki de estudiantes, no oficial); el agrupamiento de 13 en 7 es editorial."
       },
       "exits": []
     }
   ],
-  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» · sección «Programa» (wiki de estudiantes, no oficial)", "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» (plan 2023). DIBUJADO: los ítems 6–7 de los trece de su sección «Programa». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra.",
+      "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). VERIFICADO (extract/out/dc-plan-2023-v11-2025.txt): la columna «Temas sugeridos 2019» de la fila LAC. Para este tramo imprime «Máquinas de Turing (determinísticas) y función parcial computable. Tesis de Church», que coincide con los ítems de la wiki. No se dibuja como fuente de los temas.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: da carga, ubicación y una descripción en prosa («autómatas, expresiones regulares, parsers»); no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

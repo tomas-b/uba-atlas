@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Álgebra I · unidad · U1",
   "title": "El lenguaje de conjuntos.",
-  "lede": "El punto de partida del álgebra: conjuntos y sus operaciones, relaciones, y funciones con su composición y propiedades. El vocabulario común de toda la matemática.",
+  "lede": "El punto de partida del álgebra: conjuntos y sus operaciones, relaciones de orden y de equivalencia, y funciones con su composición y propiedades.",
   "meta": [
     { "k": "Unidad", "v": "1", "small": "de 5" },
     { "k": "Rol", "v": "base", "small": "lenguaje" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Conjuntos: definiciones, pertenencia, inclusión, operaciones (unión, intersección, diferencia). Relaciones. Funciones: composición, inyectividad, sobreyectividad, biyectividad. El lenguaje básico sobre el que se construye todo el curso.",
+  "frame": "Conjuntos: definiciones, pertenencia, inclusión, operaciones (unión, intersección, diferencia). Leyes de De Morgan. Cardinal de conjuntos finitos. Tablas de verdad y relación con lógica proposicional. Igualdad de conjuntos (diagramas de Venn, tablas). Producto cartesiano. Conjunto de Partes (y su cardinal para conjuntos finitos). Relaciones: definición, su representación como grafos. Relaciones de orden y equivalencia. Clases de equivalencia. Clausura transitiva. Funciones: definición. Composición. Función inyectiva, sobreyectiva, biyectiva, inversa.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "CONJUNTOS, RELACIONES Y FUNCIONES (U1)\n│\n├─ Conjuntos  · pertenencia, inclusión, operaciones\n├─ Relaciones · pares, propiedades\n└─ Funciones  · composición, in/sobre/biyectividad",
+        "tree": "CONJUNTOS, RELACIONES Y FUNCIONES (U1)\n│\n├─ Conjuntos  · pertenencia, inclusión, operaciones, leyes de De Morgan, cardinal, tablas de verdad y lógica proposicional, igualdad, producto cartesiano, conjunto de partes\n├─ Relaciones · representación como grafos, orden y equivalencia, clases de equivalencia, clausura transitiva\n└─ Funciones  · definición, composición, inyectiva, sobreyectiva, biyectiva, inversa",
         "foot": "Temas del programa oficial del DM (Álgebra I)."
       },
       "exits": []

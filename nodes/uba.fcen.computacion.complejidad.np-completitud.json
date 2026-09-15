@@ -15,12 +15,12 @@
   "title": "Lo más difícil de NP: reducciones y Cook-Levin.",
   "lede": "La herramienta central de la teoría: la reducibilidad polinomial para comparar la dificultad de dos problemas, el teorema de Cook-Levin que exhibe el primer problema NP-completo, y la clase de los problemas NP-completos.",
   "meta": [
-    { "k": "Unidad", "v": "2", "small": "de 6" },
+    { "k": "Unidad", "v": "2", "small": "de 6 · reagrupadas de 2 listas" },
     { "k": "Rol", "v": "núcleo", "small": "reducir" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Reducibilidad polinomial. Teorema de Cook-Levin. Problemas NP-completos. La maquinaria para comparar dificultad entre problemas y el resultado que ancla toda la clase.",
+  "frame": "Reducibilidad polinomial. Teorema de Cook-Levin. Problemas NP-completos.",
   "groups": [
     {
       "kind": "spine",
@@ -30,7 +30,7 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "NP-COMPLETITUD Y REDUCCIONES (Unidad 2)\n│\n├─ Reducibilidad polinomial\n├─ Teorema de Cook-Levin\n└─ Problemas NP-completos",
-        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025)."
+        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). La wiki publica dos listas (primer y segundo parcial), no seis unidades: la numeración es un reagrupamiento editorial."
       },
       "exits": []
     }

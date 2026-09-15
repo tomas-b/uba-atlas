@@ -13,27 +13,37 @@
   ],
   "eyebrow": "Prog. Concurrente y Paralela · contenido · Eje 2",
   "title": "Cuando dos tareas quieren lo mismo.",
-  "lede": "Los conflictos que aparecen al compartir recursos entre tareas concurrentes y los mecanismos para sincronizarlas: el problema central de coordinar la ejecución simultánea sin corromper el estado.",
+  "lede": "Propiedades y conflictos de concurrencia —safety y liveness; deadlocks, livelocks, starvation, race conditions— y los mecanismos de sincronización: semáforos, mutexes, monitores, barreras.",
   "meta": [
     { "k": "Eje", "v": "2", "small": "de 3" },
-    { "k": "Rol", "v": "contenido", "small": "mínimo" },
+    { "k": "Rol", "v": "contenido", "small": "mínimo + analíticos" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Contenido mínimo del Plan 2023: «Conflictos de concurrencia y mecanismos de sincronización». El eje del problema práctico de la materia — coordinar tareas que compiten por recursos. La cátedra aún no publica el desglose fino de estos temas.",
+  "frame": "Contenido mínimo del documento del plan («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)»): «Conflictos de concurrencia y mecanismos de sincronización». La cátedra no publica programa; el documento del plan sí imprime, en la columna de contenidos analíticos de la fila PCP, «Propiedades y conflictos de concurrencia: safety y liveness; deadlocks, livelocks, starvation, race conditions.» y «Mecanismos de sincronización: semáforos, mutexes, monitores, barreras.». Esa columna no está dividida por eje: la asignación de estos párrafos a este eje es editorial.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo del eje",
       "title": "De qué se trata",
-      "note": "El contenido mínimo, tal como lo enuncia el plan.",
+      "note": "El contenido mínimo tal como lo enuncia el plan, más los contenidos analíticos que el documento del plan imprime al lado, asignados a este eje editorialmente.",
       "map": {
-        "mk": "El eje, comprimido",
-        "tree": "CONFLICTOS Y SINCRONIZACIÓN (Eje 2)\n│\n└─ Contenido mínimo · conflictos de concurrencia y mecanismos de sincronización",
-        "foot": "Contenido mínimo del Plan 2023 (DC-FCEN). Sin programa de cátedra publicado."
+        "mk": "El eje, desplegado",
+        "tree": "CONFLICTOS Y SINCRONIZACIÓN (Eje 2)\n│\n├─ Contenido mínimo · conflictos de concurrencia y mecanismos de sincronización\n│\n├─ Propiedades y conflictos de concurrencia · safety y liveness\n├─ Deadlocks, livelocks, starvation, race conditions\n└─ Mecanismos de sincronización · semáforos, mutexes, monitores, barreras",
+        "foot": "Contenido mínimo y contenidos analíticos del documento oficial del plan (DC-FCEN, versión de noviembre de 2025). El documento no divide la columna analítica por eje: la asignación de sus párrafos a este eje es editorial. Sin programa de cátedra publicado."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos del documento oficial del plan", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025) · fila PCP: contenido mínimo y contenidos analíticos", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): la fila «Programación Concurrente y Paralela (PCP)», con su contenido mínimo «Conflictos de concurrencia y mecanismos de sincronización.» y los dos párrafos de su columna de contenidos analíticos dibujados arriba. La misma columna es idéntica en la versión de julio de 2024 (extract/out/plan-comp-v07-2024.txt).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. CORROBORA: imprime el mismo contenido mínimo («Modelos de concurrencia y paralelismo. Conflictos de concurrencia y mecanismos de sincronización. Principales algoritmos distribuidos.») y la carga horaria; no imprime los contenidos analíticos.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

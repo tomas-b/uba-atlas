@@ -3,24 +3,56 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 2 },
+  "metadata": {
+    "unidad": 2
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.paradigmas", "label": "Paradigmas de Programación" },
-    { "address": "uba.fcen.computacion.paradigmas.funcional", "label": "Paradigma funcional" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas",
+      "label": "Paradigmas de Programación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas.funcional",
+      "label": "Paradigma funcional"
+    }
   ],
   "eyebrow": "Paradigmas de Programación · eje · 2",
-  "title": "Computar a través de funciones.",
-  "lede": "Los fundamentos del paradigma funcional: la computación organizada alrededor de funciones.",
+  "title": "Los fundamentos del paradigma funcional.",
+  "lede": "Los fundamentos del paradigma funcional, uno de los principales paradigmas de programación que nombra el plan.",
   "meta": [
-    { "k": "Eje", "v": "2", "small": "de 5" },
-    { "k": "Rol", "v": "unidad", "small": "paradigma" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Eje",
+      "v": "2",
+      "small": "de 5 · 3 en la fuente"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "paradigma"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "Los fundamentos del paradigma funcional, donde la computación se organiza alrededor de funciones.",
+  "frame": "Fundamentos de los principales paradigmas de programación. El detalle de la fila nombra «funcional, imperativo, lógico y OO»; la página del Plan 2023 del DC, «Paradigmas funcional, lógico, de objetos, etc.». Este eje: el paradigma funcional («funcional» en el plan, «funcional» en la página).",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +61,24 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "El eje, comprimido",
-        "tree": "PARADIGMA FUNCIONAL (eje 2)\n│\n├─ Idea · los fundamentos del paradigma funcional\n└─ Idea · la computación organizada alrededor de funciones",
-        "foot": "Eje de los contenidos mínimos oficiales del Plan 2023 (Paradigmas de Programación, DC-FCEN)."
+        "tree": "PARADIGMA FUNCIONAL (eje 2)\n│\n├─ Contenido mínimo · fundamentos de los principales paradigmas de programación\n└─ Detalle · el paradigma funcional, uno de los cuatro que nombra la fila («funcional, imperativo, lógico y OO»)",
+        "foot": "Contenido mínimo 2 de 3 de la fila «Paradigmas de Programación (PP)» del documento del plan (columna «Temas del Plan»); eje 2 de 5: despliegue editorial de esos 3 contenidos mínimos. El contenido mínimo 2 se abre en tres ejes (funcional, lógico, de objetos); el imperativo, que sólo nombra la columna «Temas sugeridos 2019», no se dibuja como eje."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025; fila «Paradigmas de Programación (PP)»: columnas «Temas del Plan» y «Temas sugeridos 2019»)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025). DIBUJADO: la fila «Paradigmas de Programación (PP)» de la tabla «Temas propuestos para las materias» — columna «Temas del Plan» (tres contenidos mínimos) y columna «Temas sugeridos 2019» (detalle).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Descripción de la materia: «Estudio profundo de los componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado. Paradigmas funcional, lógico, de objetos, etc.» No contiene los contenidos mínimos; enlaza el PDF del plan.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

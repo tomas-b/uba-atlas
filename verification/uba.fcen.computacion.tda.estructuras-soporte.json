@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.tda.estructuras-soporte",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 9,
+  "units_found": 9,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "source.label and sources[0].label quote «Versión 11/2025» and «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» in guillemets, but neither string is verbatim in the PDF (law 3): the cover reads «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación» / «Versión 6 (Noviembre 2025)» and the running footer «VERSIÓN 1.6 (Versión elevada a CODEP, 6/2022 con actualizaciones hasta Nov 2025)» (extract dc-plan-2023-v11-2025.txt L1-L7 of pdftotext raw; footer at L567). '11/2025' exists only in the file name (…Version-11_2025.pdf) and the DC plan page links it as «Propuesta de Nuevo Plan de Estudios». Repair: drop the guillemets around the filename-derived label ('versión 11/2025, según el nombre del archivo') or quote the real cover title/version line.",
+    "sources[2].label (and the course frame it echoes) states that of the Plan-1993 equivalent «sólo existe “Algoritmos y Estructura de Datos III (1995)”». False: the same collection (Departamento de Computación, still 1127 programas on 2026-09-15) also holds «Algoritmos y Estructura de Datos III (2020)», Res. 0511/2020, Guaraní COMP930005 (Plan 93), hdl.handle.net/20.500.12110/programa_n20200511_03 — an official programa of the direct predecessor the campus lists as one course «Técnicas de Diseño de Algoritmos / Algoritmos y Estructuras de Datos III». The TextQuery search for 'Algoritmos y Estructura de Datos III' returns 2 documents (scratch bd-q-aed3.txt L64-L87). Its text (aed3-2020.txt L28-L52) lists contents only, NO bibliography, so 'sin bibliografía' survives; the false 'sólo existe (1995)' does not. Repair: 'existen AED III (1995, Plan 1987) y AED III (2020, Res. 0511/2020, Plan 1993, sin bibliografía)'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked as unit 9 of 9. Live PDF re-fetched 2026-09-15, pdftotext -layout md5 6883acd7…49 == extract/out/dc-plan-2023-v11-2025.txt (identical; pdfinfo 20 pp as labeled). Re-derived the TDA contenidos analíticos from raw text: 9 sentence-blocks in source order (extract L544-L584; note -layout only blank-separates blocks 1-5, blocks 6-9 run together, so the count is by sentence). This block = L581-L584; frame reproduces it character-for-character (whitespace-normalised diff empty except the trailing period); tree lists only the block's own topics, nothing added, nothing dropped; lede is a paraphrase of the same sentence; metadata.unidad=9, eyebrow 'unidad · 9', meta 'de 9' all consistent with the 9 blocks; breadcrumb label == course exit name == source block head; course exits (9) == unit files on disk (9), same order, no orphans. Absence hunt: BD TextQuery 'Técnicas de Diseño de Algoritmos' → 0 documents; by-name index (CL2, 44 pages) has no TDA entry; www.dc.uba.ar has no TDA materia page (404) and site search returns only news; campus.exactas.uba.ar lists TDA courses (ids 1008, 1307, 305, 351, 657) but all redirect to login; cubawiki TDA page carries student apuntes and slides, no bibliography. So 'sin bibliografía publicada' holds (books 0/0) and 'no programa de TDA' holds — but the 2020 AED III programa exists (see not_found[1]). frame appends a final period the source lacks after 'etc.)' (L584) — cosmetic."
+}

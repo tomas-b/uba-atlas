@@ -13,27 +13,41 @@
   ],
   "eyebrow": "Redes y Cómputo Distribuido · contenido · Eje 3",
   "title": "Muchas máquinas, un solo cómputo.",
-  "lede": "Nociones básicas sobre plataformas de cómputo distribuido: cómo se aprovecha una red para repartir el trabajo entre varias máquinas. El eje donde las redes se vuelven cómputo.",
+  "lede": "Cómputo distribuido: plataformas de cómputo distribuido tipo cloud, fog y edge, públicas y privadas; orquestación de servicios, virtualización de redes y servicios; cómputo y red definidos por software; Internet de las cosas; blockchain.",
   "meta": [
-    { "k": "Eje", "v": "3", "small": "de 3" },
-    { "k": "Rol", "v": "contenido", "small": "mínimo" },
+    { "k": "Eje", "v": "3", "small": "de 3 · orden 2023/06" },
+    { "k": "Rol", "v": "contenido", "small": "mínimo + analíticos" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Contenido mínimo del Plan 2023: «Nociones básicas sobre plataformas de cómputo distribuido». El eje que cierra la materia conectando la red con el cómputo repartido. La cátedra aún no publica el desglose fino de estos temas.",
+  "frame": "Contenido mínimo del documento del plan («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)»): «Cómputo distribuido». El texto ordenado 2023/06 lo enunciaba como «Nociones básicas sobre plataformas de cómputo distribuido». La columna de contenidos analíticos de la fila RCD imprime «Plataformas de cómputo distribuido tipo cloud, fog y edge públicas y privadas. Orquestación de servicios, virtualización de redes y servicios. Cómputo y red definidos por software. Internet de las cosas. Blockchain.»; esa columna no está dividida por eje y la asignación a este eje es editorial. La cátedra no publica programa.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo del eje",
       "title": "De qué se trata",
-      "note": "El contenido mínimo, tal como lo enuncia el plan.",
+      "note": "El contenido mínimo tal como lo enuncia el plan, más los contenidos analíticos que el documento del plan imprime al lado, asignados a este eje editorialmente.",
       "map": {
-        "mk": "El eje, comprimido",
-        "tree": "PLATAFORMAS DE CÓMPUTO DISTRIBUIDO (Eje 3)\n│\n└─ Contenido mínimo · nociones básicas sobre plataformas de cómputo distribuido",
-        "foot": "Contenido mínimo del Plan 2023 (DC-FCEN). Sin programa de cátedra publicado."
+        "mk": "El eje, desplegado",
+        "tree": "CÓMPUTO DISTRIBUIDO (Eje 3)\n│\n├─ Contenido mínimo · cómputo distribuido (texto ordenado 2023/06: nociones básicas sobre plataformas de cómputo distribuido)\n│\n├─ Plataformas de cómputo distribuido · tipo cloud, fog y edge, públicas y privadas\n├─ Orquestación de servicios · virtualización de redes y servicios\n├─ Cómputo y red definidos por software\n├─ Internet de las cosas\n└─ Blockchain",
+        "foot": "Contenido mínimo y contenidos analíticos del documento oficial del plan (DC-FCEN, versión de noviembre de 2025); la asignación de los párrafos analíticos a este eje es editorial. Numeración de ejes según el texto ordenado 2023/06 (Teoría → Arquitecturas → Nociones); el documento de noviembre de 2025 imprime Arquitecturas → Teoría → Cómputo distribuido. Sin programa de cátedra publicado."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos del documento oficial del plan", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025) · fila RCD: contenido mínimo y contenidos analíticos", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): la fila «Redes de Comunicaciones y Cómputo Distribuido (RCD)», con su contenido mínimo «Cómputo distribuido.» y los cinco temas de cómputo distribuido de su columna de contenidos analíticos. Fila idéntica en la versión de julio de 2024 (extract/out/plan-comp-v07-2024.txt).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial, 2023/06). DIBUJADO (extract/out/propuesta-plan.txt): enuncia este contenido mínimo como «Nociones básicas sobre plataformas de cómputo distribuido», y de su orden («Teoría de la información. Principales arquitecturas, capas y protocolos de red. Nociones básicas sobre plataformas de cómputo distribuido.») sale la numeración de los ejes.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: la descripción en prosa de RCD y la carga horaria. No imprime contenidos mínimos ni analíticos para esta materia.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

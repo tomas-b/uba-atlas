@@ -7,8 +7,8 @@
     "author": "Arora, S., & Barak, B.",
     "title": "Computational complexity: a modern approach",
     "year": 2009,
-    "publisher": null,
-    "note": "La única fuente de esta referencia — Cuba-Wiki — imprime autor, título y año, y ningún sello editorial: no se afirma ninguno acá. Contenido del libro (L3): no indexado."
+    "publisher": "Cambridge University Press",
+    "note": "Cuba-Wiki imprime autor, título y año, y ningún sello editorial. La editorial viene de RESCD-2025-427 (programa del curso de posgrado Teoría de la Complejidad Computacional, 1er cuatrimestre 2025), que imprime «Cambridge University Press, 2009». Contenido del libro (L3): no indexado."
   },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
@@ -19,14 +19,14 @@
   ],
   "eyebrow": "Complejidad Computacional · libro · la única referencia de la lista",
   "title": "Arora & Barak — Computational complexity: a modern approach.",
-  "lede": "El único ítem de la sección «Bibliografía» de la página de Complejidad Computacional en Cuba-Wiki, impreso ahí como «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Eso es todo lo que dice la fuente: ni sello editorial, ni edición, ni capítulos asignados.",
+  "lede": "El único ítem de la sección «Bibliografía» de la página de Complejidad Computacional en Cuba-Wiki, impreso ahí como «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Eso es todo lo que dice la wiki: ni sello editorial, ni edición, ni capítulos asignados. El sello lo imprime el programa oficial del curso de posgrado homónimo (RESCD-2025-427): «Cambridge University Press, 2009».",
   "meta": [
     { "k": "Autores", "v": "Arora & Barak" },
-    { "k": "Año", "v": "2009", "small": "según la cita" },
+    { "k": "Año", "v": "2009", "small": "Cambridge UP · RESCD-2025-427" },
     { "k": "Grounding", "v": "L0", "small": "sólo la cita" },
     { "k": "Tipo", "v": "libro" }
   ],
-  "frame": "Nodo-cita: existe porque una fuente lo nombra, y no más. La referencia viene de Cuba-Wiki — la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra —, cuya sección «Bibliografía» para Complejidad Computacional imprime un único ítem: «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Ninguna fuente oficial del Departamento de Computación publica bibliografía para esta materia. El contenido del libro (L3) no está indexado: no hay índice, ni capítulos, ni edición verificada, y no se inventan acá.",
+  "frame": "Nodo-cita: existe porque una fuente lo nombra, y no más. La referencia viene de Cuba-Wiki — la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra —, cuya sección «Bibliografía» para Complejidad Computacional imprime un único ítem: «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». El DC no publica programa ni bibliografía de la materia de grado; el programa oficial del curso de posgrado homónimo «Teoría de la Complejidad Computacional» (RESCD-2025-427, elevado por la Dirección del Departamento de Computación, 1er cuatrimestre de 2025, Dr. Santiago Figueira) sí lista cuatro libros, este entre ellos: «Sanjeev Arora and Boaz Barak. Computational complexity: a modern approach. Cambridge University Press, 2009.» El contenido del libro (L3) no está indexado: no hay índice, ni capítulos, ni edición verificada, y no se inventan acá.",
   "groups": [
     {
       "kind": "spine",
@@ -35,8 +35,8 @@
       "note": "Lo que hay: una línea. Lo que falta: todo el resto del libro.",
       "map": {
         "mk": "La referencia, completa",
-        "tree": "COMPUTATIONAL COMPLEXITY: A MODERN APPROACH\n│\n├─ Autores    · Arora, S., & Barak, B.\n├─ Año        · 2009\n├─ Editorial  · no impresa en la fuente\n└─ Contenido  · no indexado (L3 pendiente)",
-        "foot": "Único ítem de «Bibliografía» en la página de Complejidad Computacional de Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "tree": "COMPUTATIONAL COMPLEXITY: A MODERN APPROACH\n│\n├─ Autores    · Arora, S., & Barak, B.\n├─ Año        · 2009\n├─ Editorial  · Cambridge University Press (RESCD-2025-427; la wiki no la imprime)\n└─ Contenido  · no indexado (L3 pendiente)",
+        "foot": "Único ítem de «Bibliografía» en la página de Complejidad Computacional de Cuba-Wiki (wiki de estudiantes, no oficial). También primer ítem de la «BIBLIOGRAFÍA» de RESCD-2025-427 (curso de posgrado, 1C2025), que imprime la editorial."
       },
       "exits": []
     }
@@ -46,6 +46,10 @@
     {
       "label": "cubawiki.com.ar · «Complejidad Computacional» (plan 2023). DIBUJADO: el único ítem de su sección «Bibliografía», «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara «Las resoluciones están hechas por lxs alumnxs y ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
       "url": "https://www.cubawiki.com.ar/index.php/Complejidad_Computacional"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · RESCD-2025-427-E-UBA-DCT#FCEN (7 de abril de 2025): aprueba el curso de posgrado «Teoría de la Complejidad Computacional», 80 horas, Dr. Santiago Figueira, 1er cuatrimestre de 2025, elevado por «la Dirección del Departamento de Computación». Su «BIBLIOGRAFÍA» imprime cuatro ítems; el primero: «Sanjeev Arora and Boaz Barak. Computational complexity: a modern approach. Cambridge University Press, 2009.» (los otros tres — Papadimitriou 1993, Sipser 2012, Wegener 2005 — no están dibujados en el atlas). Es el programa del curso de posgrado gemelo, no de la materia de grado.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/download/programa/programa_n20250427.pdf"
     }
   ]
 }

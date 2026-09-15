@@ -8,26 +8,56 @@
     "catedra": "Departamento de Computación (FCEN-UBA)",
     "cargaHoraria": "5 hs semanales · 80 hs totales · 35% teórica / 35% práctica / 30% laboratorio",
     "cuatrimestre": "1º · año 2",
-    "correlativas": ["Introducción a la Programación"],
+    "correlativas": [
+      "Introducción a la Programación"
+    ],
     "unidades": 5,
     "bibliography": []
   },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.sistemas-digitales", "label": "Sistemas Digitales" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.sistemas-digitales",
+      "label": "Sistemas Digitales"
+    }
   ],
   "eyebrow": "Sistemas Digitales · Lic. Computación · año 2",
   "title": "Del bit al circuito secuencial: donde el software toca el hardware.",
   "lede": "Sistemas Digitales «presenta los temas fundamentales vinculados con los dispositivos de cómputo, incluyendo sistemas de representación, lógica digital y estructura de computadoras» (objetivo textual del plan). Recorre la estructura de un computador, las bases de numeración y los sistemas de codificación (ASCII, UTF), la lógica digital de compuertas y mapas de Karnaugh, el diseño RTL con una somera introducción a un HDL (multiplexores, codificadores, three-state) y los circuitos secuenciales sincrónicos: latch D, flip-flop D, sumadores y contadores.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "5 hs · año 2" },
-    { "k": "Unidades", "v": "5", "small": "estructura → secuenciales" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
-    { "k": "Materia", "v": "nueva", "small": "Plan 2023" }
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "5 hs · año 2"
+    },
+    {
+      "k": "Unidades",
+      "v": "5",
+      "small": "estructura → secuenciales"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · sin biblio"
+    },
+    {
+      "k": "Materia",
+      "v": "nueva",
+      "small": "Plan 2023"
+    }
   ],
-  "frame": "Materia nueva del Plan 2023 (equivale a la vieja Organización del Computador I, según la tabla de equivalencias del propio plan). No hay un programa de cátedra por unidades publicado; los cinco bloques son, verbatim, las cinco oraciones de la columna «contenidos mínimos» del documento oficial del plan — «Estructura de un computador. Sistemas de numeración y representación. Lógica digital. Diseño RTL. Circuitos secuenciales sincrónicos.» — y el detalle de cada bloque sale de la columna «contenidos» de la misma fila. Las tres fuentes concuerdan en la carga: 5 hs semanales / 80 hs totales (versión 07/2024 p.16, versión 11/2025 p.17 y la ficha del sitio, que además imprime el reparto 35/35/30). El detalle de esa columna «puede variar» según la implementación de la cátedra. CONTRADICCIÓN REGISTRADA: la ficha del sitio describe la materia con otras palabras («Microprogramación, representación de la información, lógica digital, memoria, buses») — se dibuja el documento del plan, que es el normativo. Se corrigió una fabricación previa: dos bloques («Dispositivos lógicos programables / FPGA» y «Softcores») no pertenecen a esta materia sino a Arquitectura y Organización de Computadores, cuya fila del plan sí dice «Diseño lógico sobre dispositivos lógicos programables. Softcores». No se publica bibliografía a nivel de plan — queda pendiente para cerrar la biblio de L2.",
+  "frame": "Materia nueva del Plan 2023 (equivale a la vieja Organización del Computador I, según la tabla de equivalencias del propio plan). No hay un programa de cátedra por unidades publicado; los cinco bloques son, verbatim, las cinco oraciones de la columna «Temas del Plan» (los contenidos mínimos) del documento oficial del plan — «Estructura de un computador. Sistemas de numeración y representación. Lógica digital. Diseño RTL. Circuitos secuenciales sincrónicos.» — y el detalle de cada bloque sale de la columna «Temas sugeridos 2019» de la misma fila. Las tres fuentes concuerdan en la carga: 5 hs semanales / 80 hs totales (versión 07/2024 p.16, versión 11/2025 p.17 y la ficha del sitio, que además imprime el reparto 35/35/30). El detalle de esa columna «puede variar» según la implementación de la cátedra. CONTRADICCIÓN REGISTRADA: la ficha del sitio describe la materia con otras palabras («Microprogramación, representación de la información, lógica digital, memoria, buses») — se dibuja el documento del plan, que es el normativo. Se corrigió una fabricación previa: dos bloques («Dispositivos lógicos programables / FPGA» y «Softcores») no pertenecen a esta materia sino a Arquitectura y Organización de Computadores, cuya fila del plan sí dice «Diseño lógico sobre dispositivos lógicos programables. Softcores». No se publica bibliografía a nivel de plan — queda pendiente para cerrar la biblio de L2.",
   "groups": [
     {
       "kind": "spine",
@@ -37,18 +67,51 @@
       "map": {
         "mk": "El programa, en cinco bloques",
         "tree": "SISTEMAS DIGITALES — software ↔ hardware\n│\n├─ 1 · Estructura de un computador\n├─ 2 · Sistemas de numeración y representación · bases, codificación (ASCII, UTF)\n├─ 3 · Lógica digital                        · compuertas, mapas K\n├─ 4 · Diseño RTL                            · somera intro a un HDL, mux/demux,\n│                                              codif./decodif., three state (High Z)\n└─ 5 · Circuitos secuenciales sincrónicos    · latch D, flip-flop D, sumadores, contadores",
-        "foot": "Contenidos mínimos y detalle del documento oficial del Plan 2023 (DC-FCEN, versiones 07/2024 y 11/2025, fila «Sistemas Digitales (SD) · 5 hs»). Sin bibliografía publicada."
+        "foot": "«Temas del Plan» (contenidos mínimos) y detalle de la columna «Temas sugeridos 2019» del documento oficial del Plan 2023 (DC-FCEN, versiones 07/2024 y 11/2025, fila «Sistemas Digitales (SD) · 5 hs»). Sin bibliografía publicada."
       },
       "exits": [
-        { "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador", "name": "Estructura de un computador", "role": "bloque 1", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion", "name": "Sistemas de numeración y representación", "role": "bloque 2", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.sistemas-digitales.logica-digital", "name": "Lógica digital", "role": "bloque 3", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.sistemas-digitales.diseno-rtl", "name": "Diseño RTL", "role": "bloque 4", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos", "name": "Circuitos secuenciales sincrónicos", "role": "bloque 5", "tag": "unidad", "kind": "unit" }
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador",
+          "name": "Estructura de un computador",
+          "role": "bloque 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion",
+          "name": "Sistemas de numeración y representación",
+          "role": "bloque 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales.logica-digital",
+          "name": "Lógica digital",
+          "role": "bloque 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales.diseno-rtl",
+          "name": "Diseño RTL",
+          "role": "bloque 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos",
+          "name": "Circuitos secuenciales sincrónicos",
+          "role": "bloque 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Plan de Estudios Lic. Cs. Computación, versión 11/2025 (fila «Sistemas Digitales (SD) · 5 hs»)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "source": {
+    "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Plan de Estudios Lic. Cs. Computación, versión 11/2025 (fila «Sistemas Digitales (SD) · 5 hs»)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
   "sources": [
     {
       "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: imprime «Carga horaria semanal: 5 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)» y ubica la materia en 2º año, 1er cuatrimestre. Su descripción en prosa («Microprogramación… memoria, buses») NO se dibuja: contradice al documento del plan.",

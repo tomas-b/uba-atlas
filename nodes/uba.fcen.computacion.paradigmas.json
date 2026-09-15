@@ -8,25 +8,55 @@
     "catedra": "Departamento de Computación (FCEN-UBA)",
     "cargaHoraria": "10 hs semanales · 160 hs totales (35% teór · 35% práct · 30% lab)",
     "cuatrimestre": "1º · año 2",
-    "correlativas": ["Algoritmos y Estructuras de Datos"],
+    "correlativas": [
+      "Algoritmos y Estructuras de Datos"
+    ],
     "unidades": 5,
     "unidadesFuente": 3,
     "bibliography": []
   },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.paradigmas", "label": "Paradigmas de Programación" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas",
+      "label": "Paradigmas de Programación"
+    }
   ],
   "eyebrow": "Paradigmas de Programación · Lic. Computación · año 2",
   "title": "Cómo son los lenguajes por dentro.",
   "lede": "Paradigmas de Programación estudia los componentes de los lenguajes desde un punto de vista conceptual y aplicado: las características básicas del diseño e implementación de un lenguaje, los fundamentos de los principales paradigmas — funcional, lógico, de objetos — y la semántica formal que les da sentido preciso. Cambiar de paradigma es cambiar la forma de pensar un problema.",
   "meta": [
-    { "k": "Régimen", "v": "cuatrim.", "small": "10 hs · año 2" },
-    { "k": "Ejes", "v": "5", "small": "abiertos de 3" },
-    { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
-    { "k": "Paradigmas", "v": "3+", "small": "func · lóg · obj" }
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "10 hs · año 2"
+    },
+    {
+      "k": "Ejes",
+      "v": "5",
+      "small": "abiertos de 3"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · sin biblio"
+    },
+    {
+      "k": "Paradigmas",
+      "v": "3+",
+      "small": "func · lóg · obj"
+    }
   ],
   "frame": "Dos fuentes oficiales, separadas. El documento del plan imprime tres contenidos mínimos para «Paradigmas de Programación (PP)»: características básicas del diseño e implementación de lenguajes de programación; fundamentos de los principales paradigmas de programación; semántica formal de lenguajes de programación. Su columna de detalle agrega sintaxis, intérpretes y compiladores, teoría de tipos, metaprogramación, semántica operacional, y nombra cuatro paradigmas: «funcional, imperativo, lógico y OO». La página del Plan 2023 del DC describe la materia aparte — «Estudio profundo de los componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado. Paradigmas funcional, lógico, de objetos, etc.» — y da la carga horaria y la ubicación. Los cinco ejes de abajo son un despliegue editorial de esos tres contenidos mínimos: el segundo se abre en los tres paradigmas que ambas fuentes nombran, y el imperativo — que sólo nombra la columna de detalle — no se dibuja como eje propio. No hay programa por unidades ni bibliografía de cátedra dibujados; la página del Plan 2023 remite a los programas oficiales en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
   "groups": [
@@ -41,22 +71,55 @@
         "foot": "Contenidos mínimos del documento oficial del plan (DC-FCEN); apertura de 3 en 5 editorial. La columna de detalle nombra también el paradigma imperativo, no dibujado."
       },
       "exits": [
-        { "address": "uba.fcen.computacion.paradigmas.diseno-lenguajes", "name": "Diseño e implementación de lenguajes", "role": "eje 1", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.paradigmas.funcional", "name": "Paradigma funcional", "role": "eje 2", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.paradigmas.logico", "name": "Paradigma lógico", "role": "eje 3", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.paradigmas.objetos", "name": "Paradigma de objetos", "role": "eje 4", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.paradigmas.semantica-formal", "name": "Semántica formal de lenguajes", "role": "eje 5", "tag": "unidad", "kind": "unit" }
+        {
+          "address": "uba.fcen.computacion.paradigmas.diseno-lenguajes",
+          "name": "Diseño e implementación de lenguajes",
+          "role": "eje 1",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.paradigmas.funcional",
+          "name": "Paradigma funcional",
+          "role": "eje 2",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.paradigmas.logico",
+          "name": "Paradigma lógico",
+          "role": "eje 3",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.paradigmas.objetos",
+          "name": "Paradigma de objetos",
+          "role": "eje 4",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.fcen.computacion.paradigmas.semantica-formal",
+          "name": "Semántica formal de lenguajes",
+          "role": "eje 5",
+          "tag": "unidad",
+          "kind": "unit"
+        }
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (página del DC y documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "source": {
+    "label": "computacion.dc.uba.ar · Plan 2023 (página del DC y documento oficial del plan)",
+    "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+  },
   "sources": [
     {
       "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 2º año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su descripción nombra los paradigmas «funcional, lógico, de objetos». Esta misma página remite a los programas oficiales: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas».",
       "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
     },
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los tres contenidos mínimos de la fila PP y su columna de detalle («Sintaxis, Intérpretes y Compiladores de Lenguajes. Teoría de tipos. Metaprogramación. Fundamentos de los paradigmas funcional, imperativo, lógico y OO. Semántica operacional»); su tabla de dedicación imprime «Paradigmas de Programación · 10 · 160».",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los tres contenidos mínimos de la fila PP y su columna de detalle («Sintaxis, Intérpretes y Compiladores de Lenguajes. Teoría de tipos. Metaprogramación. Fundamentos de los paradigmas funcional, imperativo, lógico y OO. Semántica operacional»); su tabla de dedicación imprime «Paradigmas de Programación · 10 · 160».",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     },
     {

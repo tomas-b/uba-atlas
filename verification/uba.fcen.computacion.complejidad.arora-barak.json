@@ -1,0 +1,21 @@
+{
+  "address": "uba.fcen.computacion.complejidad.arora-barak",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 0,
+  "units_found": 0,
+  "books_total": 1,
+  "books_found": 1,
+  "not_found": [
+    "Claim de ausencia en frame: 'Ninguna fuente oficial del Departamento de Computación publica bibliografía para esta materia.' Contraejemplo: RESCD-2025-427 (https://bibliotecadigital.exactas.uba.ar/download/programa/programa_n20250427.pdf, scratchpad/preloop-comp/v-complejidad/programa-2025.txt L19-21, L44-52, L110-121), elevada por 'la Dirección del Departamento de Computación', aprueba el programa del curso de posgrado «Teoría de la Complejidad Computacional» 1C2025, 80 hs, Dr. Santiago Figueira (el docente que cubawiki lista en los finales 2025), con BIBLIOGRAFÍA de 4 ítems: Arora & Barak (Cambridge University Press, 2009, con URL del PDF), Papadimitriou 1993, Sipser 2012, Wegener 2005. Es formalmente el curso de posgrado gemelo, no la materia de grado del plan 2023, por eso no lo grado como fabricación; pero la frase absoluta no fue cazada y engaña. Repair: reescribir como 'el DC no publica programa ni bibliografía de la materia de grado; el programa oficial del curso de posgrado homónimo (RESCD-2025-427, mismo docente, mismo cuatrimestre) lista 4 libros' y agregarlo a sources.",
+    "metadata.publisher=null y note/lede 'ni sello editorial': cierto para cubawiki (scratchpad/preloop-comp/v-complejidad/cubawiki.txt L102), pero el verificador anterior pidió sacar 'Cambridge UP' por no estar en las fuentes citadas — la RESCD-2025-427 sí lo imprime (scratchpad/preloop-comp/v-complejidad/programa-2025.txt L114-115: 'Cambridge University Press, 2009'). Repair: citar esa resolución y restituir la editorial con su fuente."
+  ],
+  "omitted": [
+    "Los otros 3 libros de la bibliografía oficial del curso gemelo (scratchpad/preloop-comp/v-complejidad/programa-2025.txt L117-121): Papadimitriou, Sipser, Wegener — no existen en el atlas."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Cita «Computational complexity: a modern approach. Arora, S., & Barak, B. (2009)» verbatim en cubawiki (scratchpad/preloop-comp/v-complejidad/cubawiki.txt L102), único ítem de «Bibliografía» (L101) ✓. Cita de portada «Las resoluciones están hechas por lxs alumnxs…» verbatim en cubawiki.com.ar/ ✓. Año, autores, breadcrumb, source.label veraces. Búsqueda de contraejemplos: plan v11/2025 (md5 idéntico al extract local) no imprime bibliografía; computacion.dc.uba.ar/materias/complejidad-computacional 404; bibliotecadigital CL5/6 años 2021-2026: un único hit, programa_n20250427 (posgrado, 2025), que lista 4 libros. Grado 'errors' y no 'fabrication' sólo porque la resolución es del curso de posgrado; la ausencia para la materia de grado sigue siendo cierta pero mal enunciada."
+}

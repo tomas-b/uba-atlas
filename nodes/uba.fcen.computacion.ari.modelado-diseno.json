@@ -13,14 +13,14 @@
   ],
   "eyebrow": "ARI · unidad · Unidad 1",
   "title": "Antes de guardar: modelar y diseñar los datos.",
-  "lede": "El punto de partida. El modelado de datos — cómo representar la información — y las pautas de diseño de bases de datos que hacen que ese modelo sea correcto y eficiente.",
+  "lede": "El punto de partida. El modelado de datos transaccionales y orientados a consulta, los principales modelos para almacenamiento y recuperación de la información, y las pautas de diseño de bases de datos.",
   "meta": [
     { "k": "Unidad", "v": "1", "small": "de 5" },
     { "k": "Rol", "v": "base", "small": "modelar" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Modelado de datos. Pautas de diseño de bases de datos.",
+  "frame": "Modelado de datos transaccionales y orientados a consulta. Principales modelos para almacenamiento y recuperación de la información. Pautas de diseño de bases de datos.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "Temas del plan reagrupados en la Unidad 1.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "MODELADO Y DISEÑO DE DATOS (Unidad 1)\n│\n├─ Modelado de datos\n└─ Pautas de diseño de bases de datos",
+        "tree": "MODELADO Y DISEÑO DE DATOS (Unidad 1)\n│\n├─ Modelado de datos transaccionales y orientados a consulta\n├─ Principales modelos para almacenamiento y recuperación de la información\n└─ Pautas de diseño de bases de datos",
         "foot": "Temas de la fila ARI del documento oficial del Plan 2023 (versiones 07/2024 y 11/2025, computacion.dc.uba.ar)."
       },
       "exits": []

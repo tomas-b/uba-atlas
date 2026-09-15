@@ -81,9 +81,10 @@ isn't just data — it's data with an audit trail you can browse.
 | Medicina at L2 | **43 / 44** — incl. the 6 rotations of the Internado Anual Rotatorio, from the real per-rotation programa (the 44th is honestly L1: its source publishes no program) |
 | Letras at L2 | **62 / 62 — complete** — five full research+verify waves (incl. all of Letras Clásicas) |
 | Historia at L2 | **21 / 38** — the whole Ciclo de Grado (9 materias generales + 12 específicas obligatorias); ~3,700 bibliography entries counted both ways across 21 programas |
+| Computación at L2 | **18 / 20** courses + all **91 unit nodes** — the whole subtree (111 nodes) adversarially verified in one wave, 3 fabrications caught and repaired; PSE and Tesis are honestly L1 (no temario exists) |
 | Abogacía indexed | CPC + all **8 CPO orientation nodes** drawn literal from the texto ordenado, cross-checked against a live course-offer snapshot |
 | honest sealed nodes | **2** (no published source exists — so no node pretends) |
-| L2 courses verified | **100%** — every course node in the graph carries an adversarial verdict in `verification/` |
+| L2 courses verified | **100%** — every course node in the graph carries an adversarial verdict in `verification/`; in Computación every unit node does too |
 | fabrications shipped | **0** |
 
 ## 🛠️ Run it

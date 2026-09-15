@@ -1,0 +1,22 @@
+{
+  "address": "uba.fcen.computacion.concurrente.modelos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "frame: 'La cátedra aún no publica el desglose fino de estos temas' — literally true of the cátedra (no public programa found, see notes) but misleading: the official plan document (v11 L766-769, L782-784) prints the desglose. Repair: 'La cátedra no publica programa; el documento del plan sí imprime contenidos analíticos: …' and draw them.",
+    "source.label says 'contenidos mínimos del documento oficial del plan' but source.url is the HTML page plan-de-estudios-2023/, not the PDF document. Repair: label it 'página «Plan de Estudios 2023» del DC' or point url at the 11/2025 PDF.",
+    "lede gloss 'el vocabulario para razonar sobre ellas' and frame 'introduce el marco conceptual de la materia' are editorial, not printed in any source (mild; either drop or mark as lectura)."
+  ],
+  "omitted": [
+    "The official plan document the course node itself cites as DIBUJADO (Version 11/2025, extract/out/dc-plan-2023-v11-2025.txt L766-795; identical in v07-2024 L758-790) prints a third column of CONTENIDOS ANALÍTICOS for PCP beside the contenidos mínimos. The unit node draws a one-leaf tree that merely repeats the contenido mínimo and says 'La cátedra aún no publica el desglose fino de estos temas', which reads as 'no finer breakdown exists' — the DC's own plan publishes one. Undeclared omission of sourceable, already-extracted content. Analytic content that belongs to this eje (v11 L766-769): «Concurrencia vs. paralelismo. Modelos de concurrencia: memoria compartida, modelo de actores, pasaje de mensajes . Programación concurrente.»; and (v11 L782-784) «Nociones básicas de paralelismo. Análisis de algoritmos paralelos. Complejidad (trabajo y span).»; (v11 L786) «Estructuras de datos inmutables.» Note: the source does not itself split the analytic column by eje — the assignment to Eje 1 is editorial and must be declared as such in the repair."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked: quote «Modelos de concurrencia y paralelismo» — verbatim at refresh L758 and v11 L766 (survives). metadata.unidad=1, meta 'Eje 1 de 3', eyebrow 'Eje 1' — match re-derived block 1 of 3 (survives). Breadcrumb labels match course node and source names (survives). map.foot 'Sin programa de cátedra publicado' — survives after hunt. Title 'Qué significa que las cosas pasen a la vez.' is a fair compression. Defects: one-leaf tree + 'no desglose' wording while the cited plan document prints contenidos analíticos (omitted), source.label/url mismatch, ungrounded editorial glosses. Source identity: live plan page https://computacion.dc.uba.ar/plan-de-estudios-2023/ (HTTP 200) prints the PCP block identical to extract/out/refresh-concurrente.txt L756-760; live PDF Version 11/2025 re-extracted with pdftotext -layout md5 6883acd7f01b739b896c5c2b0269af49 == extract/out/dc-plan-2023-v11-2025.txt (byte-identical); live PropuestaNuevoPlan…CBCviejo.pdf md5 775e6d4e6f936904a7f56a06b2615e04 == extract/out/propuesta-plan.txt. Block count re-derived: the contenidos mínimos sentence for PCP has exactly 3 sentences (refresh L758; v11 L766-769; propuesta L618-619) → 3 ejes, order Modelos → Conflictos/sincronización → Algoritmos distribuidos matches the 3 unit files and the course exits (3 exits ↔ 3 files, no orphans). Bibliography: no 'bibliograf' token anywhere in v11, v07, propuesta or the plan page; cubawiki (last edit 25 feb 2026, fetched live) has no bibliography or programa section → books_total 0 is correct. 'Sin programa de cátedra publicado' hunted: bibliotecadigital.exactas.uba.ar /collection/programa TextQuery for 'concurrente' and 'paralela' → 0 results; campus.exactas.uba.ar course pcp-2026-c1 (id=1017) and id=1226 exist but refuse guest access ('Los invitados no pueden entrar a este curso'); DC site search and www.dc.uba.ar/cursada-de-grado list no PCP programa; the 1C-2026 listing names the cátedra (Melgratti, Hernán; Lu/Mi 17-22, LCC23). The absence claim survives as a public-access fact, but the cátedra exists and is running. "
+}

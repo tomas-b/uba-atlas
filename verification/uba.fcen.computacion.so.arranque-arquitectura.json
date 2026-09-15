@@ -1,0 +1,16 @@
+{
+  "address": "uba.fcen.computacion.so.arranque-arquitectura",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 0,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "clean",
+  "notes": "Unidad 1/5 (atlas numbering). Source topics mapped to this unit: 'Arranque de un sistema de cómputo' (640), 'Hardware de soporte a un sistema operativo' (641), 'Conceptos arquitecturales de sistemas operativos' (647-648), 'Gestión de Interrupciones y excepciones' (644-645). frame = the 4 source topics verbatim (only case/punctuation normalised); tree lists exactly those 4, nothing added. Title 'Encender la máquina: hardware, arquitectura e interrupciones' is a fair compression. Lede glosses ('que lo hace reaccionar', 'que lo estructuran') are rhetorical, add no topic. Cosmetic: eyebrow 'SO · unidad · Unidad 1' repeats 'unidad'; meta Rol 'base/hardware' is editorial. | Source identity: live PDFs Version-11_2025 and Version-07_2024 (both linked from source.url) re-fetched, pdftotext -layout, md5 IDENTICAL to extract/out/dc-plan-2023-v11-2025.txt (6883acd7…) and plan-comp-v07-2024.txt (29f1ca60…). SO row = dc-plan-2023-v11-2025.txt:640-651: contenidos mínimos (3 items) + contenidos analíticos = a FLAT, UNNUMBERED list of 17 topics (my parser, so-topics.txt), 0 numbered blocks; SO row byte-identical between v07/2024 and v11/2025. The '5 unidades' are an atlas regrouping, declared in the course frame and in this node's note ('Los temas del plan reagrupados en la Unidad N'); metadata_matches is judged against that declared regrouping (5 exits ↔ 5 files, N de 5 consistent), not against a source count. Precision defect shared by all 5 units (not a refutation): source.url is the HTML page, which does NOT carry the 17-topic list — its own SO entry (plan-page.txt:297-300) is a 2-sentence blurb ('Estudio de las principales funciones de los sistemas operativos … Sistemas distribuidos y programación concurrente.' + 10 hrs 35/35/30); the topics live one click away in the linked PDF. Repair (optional): point source.url at the Version-11_2025 PDF or add 'vía PDF enlazado' to source.label. No « » quotes in any unit node. No bibliography anywhere in the plan PDF (grep 'bibliograf' = 0 hits) → books_total 0 is true. Absence hunt (units make no absence claim; calibration only): campus.exactas.uba.ar lists SO courses ids 75/1022/693/1356 → login wall; dc.uba.ar 1c2026 listing shows 'Sistemas Operativos – Única' with no cátedra link; bibliotecadigital.exactas.uba.ar returns content-length 0 to curl (inconclusive, bot-blocked). Exits↔files: 5/5, no orphans, no dangling; breadcrumb labels == exit names."
+}

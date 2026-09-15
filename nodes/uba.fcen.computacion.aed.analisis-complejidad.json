@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Algoritmos y Estructuras de Datos · bloque · B2",
   "title": "Medir el costo de un algoritmo.",
-  "lede": "Cuánto cuesta un algoritmo, con independencia de la máquina. Análisis asintótico y modelo RAM; casos peor, promedio y mejor; y cómo la complejidad guía el diseño de las estructuras de datos.",
+  "lede": "Cuánto cuesta un algoritmo: análisis asintótico y modelo RAM; caso peor, promedio y mejor; y el impacto de la complejidad algorítmica en el diseño de estructuras de datos.",
   "meta": [
-    { "k": "Bloque", "v": "2", "small": "de 4" },
+    { "k": "Bloque", "v": "2", "small": "de 4 · editorial: ítems 3-4 de 6 de la wiki" },
     { "k": "Rol", "v": "núcleo", "small": "eficiencia" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Análisis básico de algoritmos: análisis asintótico, modelo RAM. Complejidad en el caso peor, promedio y mejor. Impacto de la complejidad algorítmica en el diseño de estructuras de datos (tipos abstractos de datos). El criterio para elegir entre soluciones.",
+  "frame": "Análisis básico de algoritmos: análisis asintótico, modelo RAM. Complejidad en el caso peor, promedio y mejor. Impacto de la complejidad algorítmica en el diseño de estructuras de datos (tipos abstractos de datos). El programa oficial (RESCD-2024-975) suma «Análisis amortizado.»",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,29 @@
       "note": "El orden conceptual del bloque.",
       "map": {
         "mk": "El bloque, comprimido",
-        "tree": "ANÁLISIS Y COMPLEJIDAD (B2)\n│\n├─ Modelo     · análisis asintótico, modelo RAM\n├─ Casos      · peor, promedio, mejor\n└─ Diseño     · impacto en las estructuras de datos",
-        "foot": "Temas de la cátedra (DC, plan 2023). Texto: Brassard-Bratley."
+        "tree": "ANÁLISIS Y COMPLEJIDAD (B2)\n│\n├─ Modelo     · análisis asintótico, modelo RAM\n├─ Casos      · peor, promedio, mejor\n├─ Diseño     · impacto en las estructuras de datos\n└─ Programa oficial · análisis amortizado",
+        "foot": "Temas de la columna «Temas sugeridos 2019» del documento del Plan de Estudios 2023 (DC, PDF), re-listados por Cuba-Wiki (wiki de estudiantes, no oficial); «B2 de 4» es reagrupamiento editorial: ítems 3-4 de 6 de la wiki. Texto: Brassard-Bratley (la wiki: «Explica bastante bien la parte de complejidad»; figura también en el programa oficial RESCD-2024-975)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar/plan-de-estudios-2023 · Cuba-Wiki (cátedra, plan 2023)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · documento del Plan de Estudios 2023, «Versión 6 (Noviembre 2025)», columna «Temas sugeridos 2019» de su tabla (PDF) · cubawiki.com.ar (wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF enlazado desde la página del Plan 2023). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): de la fila de Algoritmos y Estructuras de Datos, columna «Temas sugeridos 2019», los párrafos «Análisis básico de algoritmos: análisis asintótico, modelo RAM. Caso peor, promedio y mejor.» e «Impacto de la complejidad algorítmica en el diseño de estructuras de datos.».",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "cubawiki.com.ar · «Algoritmos y Estructuras de Datos» (plan 2023). Su sección «Contenidos» re-lista los mismos temas en seis ítems; este bloque reúne sus ítems 3 y 4 (el paréntesis «(Tipos Abstractos de Datos)» es de la wiki, no del plan). Cuba-Wiki es la wiki de estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra: su portada declara que «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra».",
+      "url": "https://www.cubawiki.com.ar/index.php/Algoritmos_y_Estructuras_de_Datos"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Contiene sólo la descripción breve de la materia y la carga horaria; ninguno de los temas de este bloque está en ella, están en el PDF que enlaza.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · «Algoritmos y Estructuras de Datos (2024)», programa oficial de la cátedra aprobado por RESCD-2024-975-E-UBA-DCT#FCEN (Plan 2023): ocho ítems de «Programa» y doce de «Bibliografía». CITADO en la última rama del árbol: «Análisis amortizado.», de su sexto ítem. Reemplazar la wiki por este programa es el paso pendiente.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_3"
+    }
+  ]
 }

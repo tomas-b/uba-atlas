@@ -3,24 +3,56 @@
   "level": "programa",
   "kind": "unit",
   "groundingLevel": "L2",
-  "metadata": { "unidad": 5 },
+  "metadata": {
+    "unidad": 5
+  },
   "breadcrumb": [
-    { "address": "uba", "label": "UBA · plano general" },
-    { "address": "uba.fcen", "label": "Ciencias Exactas y Naturales" },
-    { "address": "uba.fcen.computacion", "label": "Ciencias de la Computación" },
-    { "address": "uba.fcen.computacion.paradigmas", "label": "Paradigmas de Programación" },
-    { "address": "uba.fcen.computacion.paradigmas.semantica-formal", "label": "Semántica formal de lenguajes" }
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.fcen",
+      "label": "Ciencias Exactas y Naturales"
+    },
+    {
+      "address": "uba.fcen.computacion",
+      "label": "Ciencias de la Computación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas",
+      "label": "Paradigmas de Programación"
+    },
+    {
+      "address": "uba.fcen.computacion.paradigmas.semantica-formal",
+      "label": "Semántica formal de lenguajes"
+    }
   ],
   "eyebrow": "Paradigmas de Programación · eje · 5",
-  "title": "Dar un significado preciso al lenguaje.",
-  "lede": "La semántica formal de los lenguajes de programación: dar significado preciso a las construcciones de un lenguaje.",
+  "title": "Semántica formal de lenguajes de programación.",
+  "lede": "La semántica formal de los lenguajes de programación; el detalle de la fila agrega la semántica operacional.",
   "meta": [
-    { "k": "Eje", "v": "5", "small": "de 5" },
-    { "k": "Rol", "v": "unidad", "small": "fundamentos" },
-    { "k": "Grounding", "v": "L2", "small": "temas" },
-    { "k": "Tipo", "v": "unidad" }
+    {
+      "k": "Eje",
+      "v": "5",
+      "small": "de 5 · 3 en la fuente"
+    },
+    {
+      "k": "Rol",
+      "v": "unidad",
+      "small": "fundamentos"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas"
+    },
+    {
+      "k": "Tipo",
+      "v": "unidad"
+    }
   ],
-  "frame": "La semántica formal de los lenguajes de programación, que da significado preciso a las construcciones de un lenguaje.",
+  "frame": "Semántica formal de lenguajes de programación. Detalle de la fila: semántica operacional.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +61,24 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "El eje, comprimido",
-        "tree": "SEMÁNTICA FORMAL DE LENGUAJES (eje 5)\n│\n├─ Idea · la semántica formal de los lenguajes de programación\n└─ Idea · dar significado preciso a las construcciones de un lenguaje",
-        "foot": "Eje de los contenidos mínimos oficiales del Plan 2023 (Paradigmas de Programación, DC-FCEN)."
+        "tree": "SEMÁNTICA FORMAL DE LENGUAJES (eje 5)\n│\n├─ Contenido mínimo · semántica formal de lenguajes de programación\n└─ Detalle · semántica operacional",
+        "foot": "Contenido mínimo 3 de 3 de la fila «Paradigmas de Programación (PP)» del documento del plan (columna «Temas del Plan»); eje 5 de 5: despliegue editorial de esos 3 contenidos mínimos. Detalle de la columna «Temas sugeridos 2019» de la misma fila."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": {
+    "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025; fila «Paradigmas de Programación (PP)»: columnas «Temas del Plan» y «Temas sugeridos 2019»)",
+    "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+  },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo Version-11_2025). DIBUJADO: la fila «Paradigmas de Programación (PP)» de la tabla «Temas propuestos para las materias» — columna «Temas del Plan» (tres contenidos mínimos) y columna «Temas sugeridos 2019» (detalle).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Descripción de la materia: «Estudio profundo de los componentes de diversos lenguajes de programación, desde un punto de vista conceptual y aplicado. Paradigmas funcional, lógico, de objetos, etc.» No contiene los contenidos mínimos; enlaza el PDF del plan.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

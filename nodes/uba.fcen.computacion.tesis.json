@@ -8,7 +8,7 @@
     "catedra": "Departamento de Computación (FCEN-UBA)",
     "cargaHoraria": "240 h",
     "cuatrimestre": "último cuatrimestre · ~6 meses",
-    "correlativas": ["Todas las asignaturas entre la 7 y la 23"],
+    "correlativas": ["ninguna (requisito de inscripción: tres o menos finales pendientes de materias obligatorias y todas sus cursadas aprobadas)"],
     "contacto": "tesis@dc.uba.ar",
     "unidades": 0
   },
@@ -19,28 +19,38 @@
     { "address": "uba.fcen.computacion.tesis", "label": "Trabajo Final · Tesis de Licenciatura" }
   ],
   "eyebrow": "Tesis de Licenciatura · trabajo final · DC-FCEN",
-  "title": "El cierre: una investigación propia.",
-  "lede": "La Tesis de Licenciatura es el trabajo final de la carrera, en el último cuatrimestre del plan. Su objetivo, según el reglamento, es «iniciar a cada estudiante en la investigación científica original», completando la formación con las bases conceptuales y metodológicas de la investigación. No es una materia con temario: es un trabajo dirigido de unos seis meses (240 h), con un director asignado, sobre un tema que el estudiante elige de la cartelera de propuestas o consiguiendo un director por su cuenta.",
+  "title": "El cierre: un trabajo propio, profesional o de investigación.",
+  "lede": "La Tesis de Licenciatura es el trabajo final de la carrera, en el último cuatrimestre del plan. Su objetivo, según la página oficial de Tesis del DC, es «iniciar a cada estudiante en la investigación científica original», completando la formación con las bases conceptuales y metodológicas de la investigación. El Plan 2023 la define como «una materia nueva llamada “Trabajo final - Tesis de Licenciatura”», sin temario: un cuatrimestre con 15 horas semanales (240 h; la página estima 6 meses promedio), en dos modalidades — «Trabajo Profesional» (individual o en grupos de hasta tres, normalmente un desarrollo de software) o tema académico (individual o de a dos) —, con un director asignado, sobre un tema que el estudiante elige de la cartelera de propuestas o consiguiendo un director por su cuenta.",
   "meta": [
-    { "k": "Tipo", "v": "trabajo final", "small": "no materia" },
-    { "k": "Carga", "v": "240 h", "small": "~6 meses" },
-    { "k": "Grounding", "v": "L1", "small": "reglamento" },
-    { "k": "Correlativa", "v": "todo el plan", "small": "materias 7–23" }
+    { "k": "Tipo", "v": "trabajo final", "small": "materia sin temario" },
+    { "k": "Carga", "v": "240 h", "small": "15 hs sem. · ~6 meses" },
+    { "k": "Grounding", "v": "L1", "small": "página + plan" },
+    { "k": "Correlativa", "v": "ninguna", "small": "≤3 finales pend." }
   ],
-  "frame": "La Tesis es el requisito de cierre, no un curso de unidades. Se sourcea del reglamento y la página oficial de Tesis de Licenciatura (computacion.dc.uba.ar/tesis-de-licenciatura) y del Plan 2023. Nivel L1: el requisito, el objetivo y las etapas del proceso son reales y están descriptos; el «contenido» es la investigación de cada estudiante, distinta en cada caso, por lo que no hay temario que sourcear a L2. Consultas de dirección y tema: tesis@dc.uba.ar.",
+  "frame": "La Tesis es el requisito de cierre. Se sourcea de la página oficial de Tesis de Licenciatura del DC (computacion.dc.uba.ar/tesis-de-licenciatura, que publica el reglamento en línea) y del Plan 2023. Nivel L1: el requisito, el objetivo y las etapas del proceso son reales y están descriptos; el contenido es el trabajo de cada estudiante, distinto en cada caso, por lo que no hay temario que sourcear a L2. Sin correlativas: el Plan 2023 dice que «la Tesis de Licenciatura no tendrá materias correlativas» y fija como condición de inscripción contar con «tres o menos finales pendientes de materias obligatorias» y todas sus cursadas aprobadas; la FAQ de la página dice lo mismo («la tesis no tiene correlativas»). El plan agrega que la materia también puede aprobarse «de forma “libre”», con informe final y defensa ante jurado de un trabajo avalado por un profesor externo a la materia. Consultas de dirección y tema: tesis@dc.uba.ar.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El trabajo final · su proceso",
       "title": "De la propuesta a la defensa",
-      "note": "Etapas del reglamento, no unidades de un curso.",
+      "note": "Etapas del reglamento, resumidas (no unidades de un curso); el reglamento completo está en la página del DC.",
       "map": {
         "mk": "La tesis, en su recorrido",
-        "tree": "TESIS DE LICENCIATURA (trabajo final · 240 h)\n│\n├─ Objetivo · iniciar en la investigación científica original\n├─ Director · profesor/JTP del DC, investigador del ICC o equivalente\n├─ Tema · cartelera de propuestas o director conseguido por el/la estudiante\n├─ Propuesta · se presenta al comienzo del trabajo\n├─ Defensa · habilitada tres meses después de aprobada la propuesta; jurado\n└─ Depósito digital en la biblioteca · condición para tramitar el título",
-        "foot": "Reglamento y página oficial de Tesis de Licenciatura (DC-FCEN) + Plan 2023. Cada tesis es una investigación propia: sin temario común."
+        "tree": "TESIS DE LICENCIATURA (trabajo final · 240 h · 15 hs semanales)\n│\n├─ Objetivo · iniciar en la investigación científica original (página de Tesis del DC)\n├─ Modalidades (Plan 2023) · Trabajo Profesional (individual o hasta 3, desarrollo de software) / tema académico (individual o hasta 2)\n├─ Inscripción · sin correlativas; tres o menos finales pendientes y todas las cursadas aprobadas (Plan 2023)\n├─ Director · profesor/JTP del DC, investigador del ICC o equivalente\n├─ Tema · cartelera de propuestas o director conseguido por el/la estudiante\n├─ Propuesta · se presenta al comienzo del trabajo\n├─ Defensa · habilitada tres meses después de aprobada la propuesta; jurado\n├─ Plazo (Plan 2023) · aprobar a lo sumo en los finales del cuatrimestre siguiente a la cursada; si no, recursar con un trabajo nuevo\n└─ Depósito digital en la biblioteca · condición para tramitar el título",
+        "foot": "Página oficial de Tesis de Licenciatura (DC-FCEN, reglamento en línea) + Plan 2023. Sin temario común: cada tesis es un trabajo propio, profesional o académico."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Tesis de Licenciatura · Plan 2023 (DC-FCEN)", "url": "https://computacion.dc.uba.ar/tesis-de-licenciatura/" }
+  "source": { "label": "computacion.dc.uba.ar · Tesis de Licenciatura · Plan 2023 (DC-FCEN)", "url": "https://computacion.dc.uba.ar/tesis-de-licenciatura/" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · página «Tesis de Licenciatura» del DC (reglamento publicado en línea, FAQ y cartelera de temas). DIBUJADO: el objetivo «iniciar a cada estudiante en la investigación científica original», los 6 meses promedio, la dirección, la propuesta, la defensa a partir de los tres meses, el jurado, el depósito digital como condición para el título, la FAQ «la tesis no tiene correlativas» y el contacto tesis@dc.uba.ar.",
+      "url": "https://computacion.dc.uba.ar/tesis-de-licenciatura/"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): la sección «Trabajo Final - Tesis de Licenciatura» — la materia nueva con 15 horas semanales, sin correlativas, la condición de inscripción, las modalidades «Trabajo Profesional» y tema académico, el plazo de aprobación y la modalidad «libre» — y la fila Trabajo Final / Tesis de Licenciatura · 15 · 240 de la tabla de dedicación horaria.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    }
+  ]
 }

@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Sistemas de coordenadas. Vectores en el plano y en el espacio. Producto punto (escalar). Producto cruz (vectorial). El lenguaje geométrico sobre el que se construye todo el curso.",
+  "frame": "Sistemas de coordenadas. Vectores. Producto punto. Producto cruz.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "VECTORES Y GEOMETRÍA (U1)\n│\n├─ Coordenadas · sistemas en el espacio\n├─ Vectores    · operaciones\n└─ Productos    · punto y cruz",
+        "tree": "VECTORES Y GEOMETRÍA (U1)\n│\n├─ Coordenadas · sistemas en el espacio\n├─ Vectores    · en el espacio\n└─ Productos    · punto y cruz",
         "foot": "Temas del programa oficial del DM (Análisis I)."
       },
       "exits": []

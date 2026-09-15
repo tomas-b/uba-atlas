@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Introducción a la Programación · bloque · B1",
   "title": "Del problema a la especificación.",
-  "lede": "Los cimientos: qué es un problema, un algoritmo y un programa. Cómo especificar sin ambigüedad con diseño por contrato, y la lógica que lo sostiene — proposicional y trivaluada. Tipos de datos y tipos abstractos.",
+  "lede": "Los cimientos: problema, algoritmo, especificación y diseño por contrato; programa de computadora, lenguajes de programación y paradigmas; tipos de datos y TADs. Repaso de lógica proposicional, lógica trivaluada, y un lenguaje semi-formal para especificar problemas.",
   "meta": [
-    { "k": "Bloque", "v": "1", "small": "de 3" },
+    { "k": "Bloque", "v": "1", "small": "de 3 · numeración editorial" },
     { "k": "Rol", "v": "base", "small": "fundamentos" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Problema, algoritmo, especificación y diseño por contrato. Programa de computadora; lenguajes de programación y paradigmas. Tipos de datos y tipos de datos abstractos (TADs). Repaso de lógica proposicional e introducción a la lógica trivaluada. Un lenguaje semi-formal para especificar problemas.",
+  "frame": "Problema, algoritmo, especificación y diseño por contrato. Programa de computadora; lenguajes de programación y paradigmas. Tipos de datos y tipos de datos abstractos (TADs). Repaso de lógica proposicional e introducción a la lógica trivaluada. Un lenguaje semi-formal para especificar problemas. El programa oficial (RESCD-2024-975) enuncia su primer ítem como «Introducción a la especificación de problemas: precondición, postcondición, parámetros y tipos de datos.»",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,25 @@
       "note": "El orden conceptual del bloque.",
       "map": {
         "mk": "El bloque, comprimido",
-        "tree": "FUNDAMENTOS (B1)\n│\n├─ Nociones   · problema, algoritmo, programa, paradigmas\n├─ Especificar · diseño por contrato, lenguaje semi-formal\n├─ Lógica     · proposicional, trivaluada\n└─ Datos      · tipos de datos, TADs",
-        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "tree": "FUNDAMENTOS (B1)\n│\n├─ Nociones   · problema, algoritmo, programa, paradigmas\n├─ Especificar · diseño por contrato, lenguaje semi-formal\n├─ Lógica     · proposicional, trivaluada\n├─ Datos      · tipos de datos, TADs\n└─ Programa oficial · especificación de problemas: precondición, postcondición, parámetros y tipos de datos",
+        "foot": "Contenido según Cuba-Wiki (wiki de estudiantes, no oficial): este bloque es el párrafo inicial de su sección «Contenido», sin número — la wiki llama «la primera parte de la materia» a Haskell y «la segunda parte» a Python; «B1 de 3» es numeración editorial. La última rama cita el programa oficial RESCD-2024-975 (bibliotecadigital), cuya bibliografía lista a David Gries, The Science of Programming (Springer New York, 1989)."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria) · cubawiki.com.ar (contenido; wiki de estudiantes, no oficial)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Introducción a la Programación», sección «Contenido» (wiki de estudiantes, no oficial) · computacion.dc.uba.ar · Plan 2023 (descripción y carga horaria)", "url": "https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Introducción a la Programación» (plan 2023). DIBUJADO: el párrafo inicial («Se introducen de los conceptos de Problema, Algoritmo, Especificación, Diseño por contrato, Programa de computadora, Lenguajes de programación y paradigmas, Tipos de datos, Tipos de datos abstractos (TADs), se repasa lógica proposicional, y luego se ve lógica trivaluada.») y la frase «Se propone un lenguaje semi-formal para especificar problemas» de su sección «Contenido». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra; no numera bloques: llama a Haskell «la primera parte de la materia» y a Python «la segunda parte».",
+      "url": "https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Contiene sólo la descripción de la materia («Especificación y resolución de problemas mediante el uso de algoritmos, demostraciones rigurosas de su comportamiento. Nociones de programación imperativa y funcional, herramientas de desarrollo. Proyectos grupales.») y «Carga horaria semanal: 10 hrs»; ninguno de los temas de este bloque está en ella.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · «Introducción a la Programación (2024)», programa oficial aprobado por RESCD-2024-975-E-UBA-DCT#FCEN (1er cuatrimestre de 2024, Plan 2023). CITADO en la última rama del árbol: su primer ítem de «Programa», «Introducción a la especificación de problemas: precondición, postcondición, parámetros y tipos de datos.». Su «Bibliografía» lista a Gries, The Science of Programming; Broda et al., Reasoned programming; el sitio oficial de Python; el sitio oficial de Haskell; Pezze & Young, Software testing and analysis. Reemplazar la wiki por este programa es el paso pendiente.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_2"
+    }
+  ]
 }

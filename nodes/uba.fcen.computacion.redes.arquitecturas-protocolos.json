@@ -13,27 +13,41 @@
   ],
   "eyebrow": "Redes y Cómputo Distribuido · contenido · Eje 2",
   "title": "La red por capas: quién habla con quién.",
-  "lede": "Las principales arquitecturas, capas y protocolos de red: cómo se organiza una red en niveles y qué reglas rigen la comunicación en cada uno. El núcleo estructural de la materia.",
+  "lede": "Las principales arquitecturas, capas y protocolos de red; y el análisis de desempeño, escalabilidad, seguridad y confiabilidad.",
   "meta": [
-    { "k": "Eje", "v": "2", "small": "de 3" },
-    { "k": "Rol", "v": "contenido", "small": "mínimo" },
+    { "k": "Eje", "v": "2", "small": "de 3 · orden 2023/06" },
+    { "k": "Rol", "v": "contenido", "small": "mínimo + analíticos" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Contenido mínimo del Plan 2023: «Principales arquitecturas, capas y protocolos de red». El eje central de la materia — la organización en capas de una red. La cátedra aún no publica el desglose fino de estos temas.",
+  "frame": "Contenido mínimo del documento del plan («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)»): «Principales arquitecturas, capas y protocolos de red». La columna de contenidos analíticos de la fila RCD imprime, a continuación de ese tema, «Análisis de desempeño, escalabilidad, seguridad y confiabilidad.»; esa columna no está dividida por eje y la asignación a este eje es editorial. La página «Plan de Estudios 2023» del DC no imprime contenidos mínimos para esta materia; su descripción en prosa nombra «el diseño y seguridad de redes de comunicación informáticas». La cátedra no publica programa.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "El hilo del eje",
       "title": "De qué se trata",
-      "note": "El contenido mínimo, tal como lo enuncia el plan.",
+      "note": "El contenido mínimo tal como lo enuncia el plan, más el contenido analítico que el documento del plan imprime al lado, asignado a este eje editorialmente.",
       "map": {
-        "mk": "El eje, comprimido",
-        "tree": "ARQUITECTURAS, CAPAS Y PROTOCOLOS (Eje 2)\n│\n└─ Contenido mínimo · principales arquitecturas, capas y protocolos de red",
-        "foot": "Contenido mínimo del Plan 2023 (DC-FCEN). Sin programa de cátedra publicado."
+        "mk": "El eje, desplegado",
+        "tree": "ARQUITECTURAS, CAPAS Y PROTOCOLOS (Eje 2)\n│\n├─ Contenido mínimo · principales arquitecturas, capas y protocolos de red\n│\n└─ Análisis de desempeño, escalabilidad, seguridad y confiabilidad",
+        "foot": "Contenido mínimo y contenidos analíticos del documento oficial del plan (DC-FCEN, versión de noviembre de 2025); la asignación del párrafo analítico a este eje es editorial. Numeración de ejes según el texto ordenado 2023/06 (Teoría → Arquitecturas → Nociones); el documento de noviembre de 2025 imprime Arquitecturas → Teoría → Cómputo distribuido. Sin programa de cátedra publicado."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 · contenidos mínimos del documento oficial del plan", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025) · fila RCD: contenido mínimo y contenidos analíticos", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): la fila «Redes de Comunicaciones y Cómputo Distribuido (RCD)», con su contenido mínimo «Principales arquitecturas, capas y protocolos de red.» y, en su columna de contenidos analíticos, «Análisis de desempeño, escalabilidad, seguridad y confiabilidad.». Fila idéntica en la versión de julio de 2024 (extract/out/plan-comp-v07-2024.txt).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial, 2023/06). DIBUJADO (extract/out/propuesta-plan.txt): de su enunciado «Teoría de la información. Principales arquitecturas, capas y protocolos de red. Nociones básicas sobre plataformas de cómputo distribuido.» sale el orden de numeración de los ejes.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: la descripción en prosa de RCD («Conocimientos necesarios para comprender los principios de transmisión de información y los conceptos involucrados en el diseño y seguridad de redes de comunicación informáticas.») y la carga horaria. No imprime contenidos mínimos ni analíticos para esta materia.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

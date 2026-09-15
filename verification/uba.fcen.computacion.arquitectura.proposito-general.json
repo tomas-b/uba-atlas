@@ -1,0 +1,21 @@
+{
+  "address": "uba.fcen.computacion.arquitectura.proposito-general",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "metadata_matches": true,
+  "not_found": [
+    "MISLABEL of source status (law 2/5): map.foot 'Bloque de los contenidos mínimos oficiales del Plan 2023' and source.label '(contenidos mínimos, documento oficial del plan)'. The plan's table header (v11 extract l.437) is 'Materia | Temas del Plan | Temas sugeridos 2019'; the preamble (l.411-423) states column 2 are 'los temas que deben ser considerados formalmente como parte del plan de estudios' while column 3 are 'temas sugeridos' that 'puede variar' and whose 'implementación o no … quedará a criterio del equipo docente'. Every topic in this node's tree/lede/frame comes from column 3 (l.593-621, right column), not from the formal column 2 ('Computadores de propósito dedicado vs. propósito general. Computadores dedicados: microcontroladores. Diseño lógico sobre dispositivos lógicos programables. Softcores.'). Repair: foot → 'Bloque de los «Temas sugeridos 2019» (columna 3) del documento del Plan 2023 (DC-FCEN); los «Temas del Plan» formales son cuatro líneas'; source.label → 'Plan de Estudios 2023, Versión 11/2025 (PDF) · Temas sugeridos 2019'.",
+    "source.url points at the HTML page, whose own blurb for this materia (live text: 'Diseño de un computador y su sistema operativo, programación de microinstrucciones, interfase ensamblador-lenguajes. Programación de Sistemas Operativos: memoria, interrupciones, protección, manejo de tareas, optimización.') contradicts the node and matches the old OC2 syllabus, not the five blocks. The drawn text is only recoverable one hop away, in the linked PDF. Repair: source.url → https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf (l.593-621), and declare the divergent HTML blurb.",
+    "frame drops 'Predictores de salto' and 'Descripción de una FPU' (l.606-608) while claiming to compress the block; tree keeps them. Repair: add 'predicción de saltos y una FPU' to the frame or leave as is and rely on tree — minor.",
+    "Whole block absent from the formal column 2 (l.593-597 middle col). Repair: foot/label must say 'Temas sugeridos 2019' explicitly for this unit; consider a note that the formal plan lists no 'propósito general' block."
+  ],
+  "omitted": [],
+  "verdict": "errors",
+  "notes": "Ground re-fetched live: computacion.dc.uba.ar/plan-de-estudios-2023/ (HTML, 200) and the linked PDF Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf; pdftotext -layout md5 6883acd7… identical to extract/out/dc-plan-2023-v11-2025.txt; v07_2024 PDF also identical to its extract, OC row unchanged between versions (wrap-only diff). Own parser: column 3 splits into exactly 5 blocks at 'Computadores de Propósito dedicado vs' / 'Computadores dedicados:' / 'Computadores de Propósito general.' / 'Diseño Lógico sobre' / 'Softcores.' (l.593-621); column 2 has 4 items. Order and metadata.unidad/eyebrow/'de 5' match the column-3 order. No « » in any unit node. Exits↔files: 5/5, no orphans, no dangling. Bibliography: none in either plan version (grep 'bibliograf' = 0 hits); the only public cátedra programa found — bibliotecadigital programa_n20200511_14 'Organización del Computador II (2020)', Res. CD 0511/20, the plan's declared equivalent (l.964) taught by the same cátedra (Furfaro) that the DC lists as 'Arquitectura y Organización de Computadores / Organización del Computador II' in 1C and 2C 2026 — has 11 units and no bibliography, so 'sin bibliografía' survives but 'no hay programa de cátedra' (course frame) is contestable. Block 3 (l.602-608 right col). Tree reproduces cache/localidad/asociativo/MESI, pipeline/superescalar/predictores/fuera de orden, FPU. HEAVIEST unit: this block exists ONLY in column 3 'Temas sugeridos 2019' — the formal 'Temas del Plan' column has no 'Computadores de propósito general' item at all (its 4 items: dedicado vs general / microcontroladores / diseño lógico sobre PLDs / softcores). Calling it 'contenidos mínimos oficiales' asserts an official status the document explicitly denies; treat the relabel as mandatory."
+}

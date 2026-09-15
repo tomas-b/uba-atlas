@@ -15,12 +15,12 @@
   "title": "El modelo y las dos clases centrales: P y NP.",
   "lede": "El punto de partida: la máquina de Turing como modelo de cómputo con costo, la clase P de lo resoluble en tiempo polinomial, la clase NP y las máquinas no-determinísticas que la definen.",
   "meta": [
-    { "k": "Unidad", "v": "1", "small": "de 6" },
+    { "k": "Unidad", "v": "1", "small": "de 6 · reagrupadas de 2 listas" },
     { "k": "Rol", "v": "base", "small": "modelo" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Máquinas de Turing. La clase P. La clase NP. Máquinas no-determinísticas. El modelo de cómputo sobre el que se mide todo el resto y las dos clases que estructuran la materia.",
+  "frame": "Máquinas de Turing. La clase P. La clase NP. Máquinas no-determinísticas.",
   "groups": [
     {
       "kind": "spine",
@@ -30,7 +30,7 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "MÁQUINAS DE TURING, P Y NP (Unidad 1)\n│\n├─ Máquinas de Turing · modelo de cómputo\n├─ La clase P\n└─ La clase NP · máquinas no-determinísticas",
-        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025)."
+        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). La wiki publica dos listas (primer y segundo parcial), no seis unidades: la numeración es un reagrupamiento editorial."
       },
       "exits": []
     }

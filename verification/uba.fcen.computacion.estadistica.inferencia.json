@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.estadistica.inferencia",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 7,
+  "units_found": 7,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "source.url (https://computacion.dc.uba.ar/plan-de-estudios-2023/) does not carry any of the unit's drawn content: the live DC page has only a two-line blurb for the materia (refresh-estadistica.txt L736-738); frame and tree come entirely from sources[3] (cubawiki, v-estadistica/wiki-raw.txt L17-23). Law 1 fails at unit level. Sibling convention already exists: the 7 complejidad units set source.url to the cubawiki page. REPAIR: set source.url to https://cubawiki.com.ar/index.php?title=Estad%C3%ADstica_Computacional and keep the DC page + plan PDF in sources[] (label unchanged).",
+    "sources[1].label quotes «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» in guillemets, but that string is nowhere in the document: the live PDF (md5 identical to extract/out/dc-plan-2023-v11-2025.txt) titles itself «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación» (extract/out/dc-plan-2023-v11-2025.txt L1-2) and «Versión 6 (Noviembre 2025)» (L7); '11/2025' exists only in the filename and the DC link text is 'Propuesta de Nuevo Plan de Estudios'. Law 3 fails. REPAIR: drop the guillemets (plain descriptor 'PDF Version-11_2025') or quote the real title and version. Same defect is inherited by the course node's sources[1].label."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked as unit 4/7. SURVIVED: live cubawiki raw wikitext re-fetched (last edit 17:57 25 ene 2026, oldid 19447, matches sources[3].label); own parser splits '== Programa ==' into exactly 7 bullet blocks in the node's order; block 4 (v-estadistica/wiki-raw.txt L20) has 10 sub-items and the node's frame and map.tree reproduce them verbatim, nothing added, nothing dropped; metadata.unidad=4, eyebrow '· 4', meta 'de 7', breadcrumb label = wiki block name. Course exits[] = 7 unit files on disk, no orphans, no dangling. Live plan PDF re-fetched: pdftotext -layout md5 6883acd7… identical to extract/out/dc-plan-2023-v11-2025.txt; 20 pp (pdfinfo); objetivo/correlativas ALC+AM at L331-333, carga 10 hs/160 at L871, equivalencia P&E at L983, analytic column L751-762 (no per-block structure, so foot 'el detalle por bloque no está publicado en fuente oficial' holds). ABSENCE HUNT: bibliotecadigital CL5/6 re-crawled today, all 49 year pages 1970-2026 (1127 confirmed): no 'Estadística Computacional' programa (2023-2026 entries listed in full, none matches); DC news page 'Se viene Estadística Computacional' (Laje interview) names the team but no programa or bibliography; web search finds no cátedra site. 'sin bibliografía' stands (books_total 0). «Programas de las asignaturas» verbatim on the repository home. FAILED: two systematic defects shared by all 7 units (source.url carries none of the drawn content; a non-verbatim guillemet string in sources[1].label). Course-level soft spot (not this node's): the plan's analytic column L755-762 (Estadística descriptiva; Aprendizaje automático: sobreajuste, regularización, precisión/recall; técnicas de muestreo) has no wiki block, so 'coherentes' in the course frame is generous."
+}

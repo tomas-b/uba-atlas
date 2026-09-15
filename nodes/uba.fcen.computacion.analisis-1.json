@@ -29,7 +29,7 @@
       "map": {
         "mk": "El programa, en seis unidades",
         "tree": "ANÁLISIS I — cálculo en varias variables\n│\n├─ U1 · Vectores y geometría del espacio\n├─ U2 · Curvas y superficies paramétricas\n├─ U3 · Funciones vectoriales y de varias variables\n├─ U4 · Polinomio de Taylor\n├─ U5 · Extremos\n└─ U6 · Integración",
-        "foot": "Temas del programa oficial del DM (1er. Cuatrimestre 2026). Bibliografía: los once ítems que lista ese mismo programa."
+        "foot": "Temas del programa oficial del DM (1er. Cuatrimestre 2026). Bibliografía: los once ítems que lista ese mismo programa. DIVERGENCIA DECLARADA: el documento del Plan 2023 del DC («Versión 6 (Noviembre 2025)») imprime para Análisis Matemático un bloque más en su columna «Temas sugeridos 2019» — «Campos vectoriales.» — y en su columna «Temas del Plan» los «teoremas de la función implícita y de la función inversa»; el programa del DM no los incluye, y acá se dibuja el DM."
       },
       "exits": [
         { "address": "uba.fcen.computacion.analisis-1.vectores-geometria", "name": "Vectores y geometría del espacio", "role": "U1", "tag": "unidad", "kind": "unit" },
@@ -73,6 +73,10 @@
     {
       "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). VERIFICADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «10 · 4 · Análisis I · C · 10 · 160 · CBC · T/P/L» — de ahí las 160 hs totales. La tabla del documento versión 11/2025 imprime la misma carga para «Análisis Matemático I» (10 hs / 160 hs).",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF, archivo 11_2025). VERIFICADO, no dibujado: su fila «Análisis Matemático» (10 hs) imprime en la columna «Temas sugeridos 2019» un bloque «Campos vectoriales.» y en la columna «Temas del Plan» los «teoremas de la función implícita y de la función inversa», que el programa del DM no incluye. Texto en extract/out/dc-plan-2023-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     }
   ]
 }

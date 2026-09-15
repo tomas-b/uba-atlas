@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Álgebra I · unidad · U3",
   "title": "Divisibilidad, congruencias y RSA.",
-  "lede": "La aritmética de los enteros: divisibilidad, primos, máximo común divisor y el algoritmo de Euclides. Congruencias y aritmética modular, el Teorema Chino del Resto, y su aplicación estrella — la criptografía RSA.",
+  "lede": "La aritmética de los enteros: divisibilidad, primos, máximo común divisor y el algoritmo de Euclides. Congruencias y restos módulo m, el Teorema Chino del Resto y el Pequeño Teorema de Fermat, y su aplicación: el algoritmo criptográfico RSA.",
   "meta": [
     { "k": "Unidad", "v": "3", "small": "de 5" },
     { "k": "Rol", "v": "núcleo", "small": "aritmética" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Divisibilidad en los enteros. Números primos. Algoritmo de división y algoritmo de Euclides. Máximo común divisor. Congruencias y aritmética modular. Teorema Chino del Resto. Aplicación: criptografía RSA. El corazón aritmético del curso, con enfoque algorítmico.",
+  "frame": "Definición del conjunto de números enteros. Divisibilidad y propiedades. Números primos y compuestos. Algoritmo de división. Aplicaciones del algoritmo de división: escrituras en distintas bases, sistemas de numeración. Máximo común divisor. Algoritmo de Euclides, escritura del máximo común divisor como combinación lineal. Números coprimos. Propiedades. Teorema Fundamental de la Aritmética. Criba de Eratóstenes. Aplicaciones del TFA (cantidad de divisores, cálculo de máximo común divisor y mínimo común múltiplo). Congruencias, propiedades y aplicaciones (criterios de divisibilidad). Restos módulo m. Grupos y Anillos (comparación de Z/mZ con Z). Ecuaciones lineales diofánticas y ecuaciones de congruencia. Sistemas de ecuaciones de congruencia. Teorema Chino del Resto. Pequeño Teorema de Fermat. Algoritmos probabilísticos de primalidad de Euler-Fermat. Aplicación: Algoritmo criptográfico RSA.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "NÚMEROS ENTEROS (U3)\n│\n├─ Divisibilidad · primos, Euclides, mcd\n├─ Congruencias · aritmética modular\n├─ Teoremas     · Teorema Chino del Resto\n└─ Aplicación   · criptografía RSA",
+        "tree": "NÚMEROS ENTEROS (U3)\n│\n├─ Divisibilidad · primos y compuestos, algoritmo de división (bases, sistemas de numeración), mcd, Euclides, combinación lineal, coprimos\n├─ TFA          · Teorema Fundamental de la Aritmética, criba de Eratóstenes, cantidad de divisores, mcd y mcm\n├─ Congruencias · criterios de divisibilidad, restos módulo m, Z/mZ comparado con Z, ecuaciones diofánticas y de congruencia, sistemas\n├─ Teoremas     · Chino del Resto, Pequeño Teorema de Fermat, primalidad de Euler-Fermat\n└─ Aplicación   · algoritmo criptográfico RSA",
         "foot": "Temas del programa oficial del DM (Álgebra I)."
       },
       "exits": []

@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Integrales impropias en 1 variable. Integrales dobles en regiones rectangulares y generales. Teorema de Fubini. Integrales triples. Cambio de coordenadas: polares, cilíndricas y esféricas. Teorema de cambio de variables. El cálculo integral en varias variables.",
+  "frame": "Integrales impropias en 1 variable. Integrales dobles en regiones rectangulares y generales. Teorema de Fubini. Integrales triples. Cambio de coordenadas: polares, cilíndricas y esféricas. Teorema de cambio de variables.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "INTEGRACIÓN (U6)\n│\n├─ Impropias · en 1 variable\n├─ Dobles    · Fubini, regiones generales\n├─ Triples   · en el espacio\n└─ Cambio    · polares, cilíndricas, esféricas",
+        "tree": "INTEGRACIÓN (U6)\n│\n├─ Impropias · en 1 variable\n├─ Dobles    · Fubini, regiones generales\n├─ Triples   · integrales triples\n└─ Cambio    · polares, cilíndricas, esféricas",
         "foot": "Temas del programa oficial del DM (Análisis I)."
       },
       "exits": []

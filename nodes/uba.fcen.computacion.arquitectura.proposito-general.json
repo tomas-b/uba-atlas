@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "En un computador de propósito general conviven un sistema de memoria basado en caché y localidad con una máquina de ejecución segmentada, superescalar y fuera de orden.",
+  "frame": "En un computador de propósito general conviven un sistema de memoria basado en caché y localidad con una máquina de ejecución segmentada, superescalar, con predictores de salto y fuera de orden, más la descripción de una FPU.",
   "groups": [
     {
       "kind": "spine",
@@ -30,10 +30,20 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "COMPUTADORES DE PROPÓSITO GENERAL (bloque 3)\n│\n├─ Tema · sistema de memoria: caché, localidad, asociatividad, coherencia MESI\n├─ Tema · ejecución de instrucciones: pipeline, superescalar, predicción de saltos, fuera de orden\n└─ Idea · descripción de una FPU",
-        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN)."
+        "foot": "Bloque de los «Temas sugeridos 2019» (columna 3) del documento del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN); los «Temas del Plan» formales (columna 2) son cuatro líneas. Este bloque no figura en la columna «Temas del Plan»: existe sólo en «Temas sugeridos 2019»."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023, PDF versión 11/2025 («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)») · columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF Version-11_2025, enlazado desde la página del Plan 2023). DIBUJADO: la fila «Arquitectura y Organización de Computadores (OC)» de la tabla «Temas propuestos para las materias», columna 3 «Temas sugeridos 2019» — de ahí sale este bloque. La columna 2 «Temas del Plan» imprime sólo cuatro líneas: «Computadores de propósito dedicado vs. propósito general. Computadores dedicados: microcontroladores. Diseño lógico sobre dispositivos lógicos programables. Softcores.» Texto en extract/out/dc-plan-2023-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Ubica la materia y su carga horaria, y enlaza el PDF. DIVERGENCIA declarada: su propio resumen de la materia dice «Diseño de un computador y su sistema operativo, programación de microinstrucciones, interfase ensamblador-lenguajes. Programación de Sistemas Operativos: memoria, interrupciones, protección, manejo de tareas, optimización.», que no coincide con los cinco bloques del PDF dibujados acá.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

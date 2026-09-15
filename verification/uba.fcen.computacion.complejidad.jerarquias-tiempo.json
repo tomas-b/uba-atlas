@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.complejidad.jerarquias-tiempo",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 2,
+  "units_found": 2,
+  "books_total": 1,
+  "books_found": 0,
+  "not_found": [
+    "'Unidad N de 6' / metadata.unidad=N: la fuente de la unidad (cubawiki, scratchpad/preloop-comp/v-complejidad/cubawiki.txt L21-22) tiene 2 bloques (primer y segundo parcial), no 6; el reagrupamiento editorial está declarado sólo en el nodo curso (metadata.unidadesFuente=2, note del spine), no en la unidad, cuyo foot 'Temas según Cuba-Wiki' y note 'El orden conceptual de la Unidad N' hacen creer que la wiki numera 6 unidades. Repair: en meta[Unidad].small poner 'de 6 · reagrupadas de 2 listas' (o una frase equivalente en note/foot)."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Fuente viva re-leída 2026-09-15 (cubawiki, última edición 12 ago 2026): las oraciones del bloque (scratchpad/preloop-comp/v-complejidad/cubawiki.txt L21 oraciones 8-12) aparecen todas en frame/tree, en el orden de la fuente, sin temas agregados ni perdidos (parser propio: 30 oraciones en la wiki, 30 ubicadas, orden monótono). Breadcrumb y source.label ('wiki de estudiantes, no oficial') veraces; «Complejidad Computacional» es el título literal de la página. books_found=0 porque la única referencia de la wiki (scratchpad/preloop-comp/v-complejidad/cubawiki.txt L102) se dibuja en el nodo curso, no acá (no es defecto). Frame reproduce el bloque casi verbatim (sólo une las dos jerarquías en una oración). Lede glosa 'teorema de Ladner sobre problemas intermedios entre P y NP-completo': correcta, no está en la wiki; tolerada. Título 'Más allá de NP' compresión justa. Existe temario oficial del mismo dictado: RESCD-2025-427 (bibliotecadigital programa_n20250427, scratchpad/preloop-comp/v-complejidad/programa-2025.txt L44-52, L91-106), programa del curso de posgrado «Teoría de la Complejidad Computacional» 1C2025, Dr. Santiago Figueira (el mismo docente que cubawiki lista tomando los finales 2025, scratchpad/preloop-comp/v-complejidad/cubawiki.txt L84-89), 80 hs, 10 bullets que coinciden con las dos listas de la wiki. Y el plan v11/2025 imprime para CC una columna 'Temas sugeridos 2019' (extract/out/dc-plan-2023-v11-2025.txt L800-824), no sólo contenidos mínimos. Ninguna de las dos contradice los temas de esta unidad; son grounds mejores que la wiki, no explotados."
+}

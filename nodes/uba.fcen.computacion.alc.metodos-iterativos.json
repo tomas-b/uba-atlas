@@ -13,7 +13,7 @@
   ],
   "eyebrow": "ALC · unidad · Cap. IV",
   "title": "Resolver por iteración: de Jacobi al gradiente conjugado.",
-  "lede": "Cuando resolver de forma directa no alcanza, se itera. Los métodos clásicos — Jacobi, Gauss-Seidel y SOR — y, sobre los subespacios de Krylov, el gradiente conjugado, el método iterativo de referencia para sistemas grandes y ralos.",
+  "lede": "Cuando resolver de forma directa no alcanza, se itera. Los métodos clásicos — Jacobi, Gauss-Seidel y SOR — y, sobre los subespacios de Krylov, el gradiente conjugado.",
   "meta": [
     { "k": "Cap.", "v": "IV", "small": "de 6" },
     { "k": "Rol", "v": "iterativo", "small": "escalar" },

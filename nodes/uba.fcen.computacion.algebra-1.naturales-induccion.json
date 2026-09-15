@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Álgebra I · unidad · U2",
   "title": "Inducción: demostrar para todo n.",
-  "lede": "Los números naturales y el principio de inducción — la herramienta para demostrar afirmaciones sobre todos los naturales. Los axiomas de Peano y las primeras cuentas de combinatoria.",
+  "lede": "Los números naturales y el principio de inducción — la herramienta para demostrar afirmaciones sobre todos los naturales. Sumatoria y productoria, factorial y número combinatorio, inducción global y principio de buena ordenación, y los axiomas de Peano.",
   "meta": [
     { "k": "Unidad", "v": "2", "small": "de 5" },
     { "k": "Rol", "v": "método", "small": "demostración" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Números naturales. Axiomas de Peano. Principio de inducción (y sus variantes). Sumatorias y productorias. Introducción a la combinatoria: conteo. El método central para demostrar propiedades sobre los naturales.",
+  "frame": "Definición intuitiva de los números naturales. Principio de inducción. Sumatoria y productoria. Factorial y su interpretación combinatoria (biyecciones en conjuntos finitos). Número combinatorio y su interpretación combinatoria (subconjuntos en un conjunto finito), escritura como suma de dos combinatorios, definición recursiva. Inducción global y principio de buena ordenación. Definición de los números naturales por los axiomas de Peano.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "NATURALES E INDUCCIÓN (U2)\n│\n├─ Naturales  · axiomas de Peano\n├─ Inducción  · principio y variantes\n└─ Conteo     · combinatoria",
+        "tree": "NATURALES E INDUCCIÓN (U2)\n│\n├─ Naturales  · definición intuitiva; definición por los axiomas de Peano\n├─ Inducción  · principio de inducción, inducción global, principio de buena ordenación\n├─ Sumas      · sumatoria y productoria\n└─ Factorial y número combinatorio · interpretación combinatoria, suma de dos combinatorios, definición recursiva",
         "foot": "Temas del programa oficial del DM (Álgebra I)."
       },
       "exits": []

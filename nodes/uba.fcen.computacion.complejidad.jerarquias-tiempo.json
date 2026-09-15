@@ -15,7 +15,7 @@
   "title": "Más allá de NP: coNP, tiempo exponencial y Ladner.",
   "lede": "El paisaje de clases que rodea a NP. La clase coNP, las clases EXPTIME y NEXPTIME, las jerarquías de tiempo determinístico y no-determinístico, y el teorema de Ladner sobre problemas intermedios entre P y NP-completo.",
   "meta": [
-    { "k": "Unidad", "v": "3", "small": "de 6" },
+    { "k": "Unidad", "v": "3", "small": "de 6 · reagrupadas de 2 listas" },
     { "k": "Rol", "v": "clases", "small": "tiempo" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
@@ -30,7 +30,7 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "coNP, EXPTIME Y JERARQUÍAS DE TIEMPO (Unidad 3)\n│\n├─ La clase coNP\n├─ EXPTIME y NEXPTIME\n├─ Jerarquías de tiempo · determinístico y no-determinístico\n└─ Teorema de Ladner",
-        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025)."
+        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). La wiki publica dos listas (primer y segundo parcial), no seis unidades: la numeración es un reagrupamiento editorial."
       },
       "exits": []
     }

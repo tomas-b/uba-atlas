@@ -20,24 +20,24 @@
   ],
   "eyebrow": "Redes de Comunicaciones y Cómputo Distribuido · Lic. Computación · DC-FCEN",
   "title": "Cómo viaja la información entre máquinas.",
-  "lede": "Redes de Comunicaciones y Cómputo Distribuido: los principios de la transmisión de información y su organización en redes. Arranca por la teoría de la información, sigue por las arquitecturas, capas y protocolos que estructuran una red, y llega a las plataformas de cómputo distribuido. Materia teórico-práctica con laboratorio, 10 hs semanales · 160 hs totales.",
+  "lede": "Redes de Comunicaciones y Cómputo Distribuido: la página del DC la describe como los conocimientos necesarios para comprender «los principios de transmisión de información» y «el diseño y seguridad de redes de comunicación informáticas». Sus tres contenidos mínimos: teoría de la información; principales arquitecturas, capas y protocolos de red; cómputo distribuido. Materia teórico-práctica con laboratorio, 10 hs semanales · 160 hs totales.",
   "meta": [
     { "k": "Régimen", "v": "cuatrim.", "small": "T/P/L · 160 h" },
     { "k": "Ejes", "v": "3", "small": "contenido mínimo" },
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · sin biblio" },
     { "k": "Correlativas", "v": "SO · TDA · Est.", "small": "texto ordenado" }
   ],
-  "frame": "Los tres ejes son los contenidos mínimos que imprime el documento oficial del plan para «Redes de Comunicaciones y Cómputo Distribuido (RCD)» — «Principales arquitecturas, capas y protocolos de red. Teoría de la información. Cómputo distribuido.» —, no la descripción en prosa de la página del Plan 2023. Hay un conflicto sin resolver sobre cuándo se cursa: la página del DC la ubica en 4º año, 1er cuatrimestre, mientras que la tabla del texto ordenado del plan la numera como cuatrimestre 8, que en esa misma tabla corresponde a 3º año, 2º cuatrimestre. Del plan viejo no es una materia sin antecedente: la tabla de equivalencias del DC imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones (Plan 1993)». No hay programa de cátedra ni bibliografía publicados; la columna de detalle del documento del plan sí enumera temas más finos (redes fijas y móviles, desempeño, escalabilidad, seguridad, cloud/fog/edge, orquestación, SDN, IoT, blockchain) que todavía no se dibujan como unidades.",
+  "frame": "Los tres ejes son los contenidos mínimos que imprime el documento oficial del plan para «Redes de Comunicaciones y Cómputo Distribuido (RCD)» — «Principales arquitecturas, capas y protocolos de red. Teoría de la información. Cómputo distribuido.» —, no la descripción en prosa de la página del Plan 2023, que no imprime contenidos mínimos para esta materia. Hay un conflicto sin resolver sobre cuándo se cursa: la página del DC la ubica en 4º año, 1er cuatrimestre, mientras que la tabla del texto ordenado del plan la numera como cuatrimestre 8, que en esa misma tabla corresponde a 3º año, 2º cuatrimestre. Del plan viejo no es una materia sin antecedente: la tabla de equivalencias del DC imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones (Plan 1993)». No hay programa de cátedra ni bibliografía publicados; la columna de contenidos analíticos del documento del plan sí enumera temas más finos (redes fijas y móviles, desempeño, escalabilidad, seguridad, confiabilidad, cloud/fog/edge, orquestación, virtualización, cómputo y red definidos por software, IoT, blockchain), dibujados dentro de cada eje con asignación editorial — el documento no los divide por eje.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos mínimos · los 3 ejes",
       "title": "El recorrido de las redes",
-      "note": "Cada eje es un contenido mínimo del documento del plan; el orden de abajo es el del recorrido, no el impreso.",
+      "note": "Cada eje es un contenido mínimo del documento del plan. La numeración sigue el orden del texto ordenado 2023/06 (Teoría → Arquitecturas → Nociones básicas sobre plataformas de cómputo distribuido); el documento de noviembre de 2025 imprime Arquitecturas → Teoría → Cómputo distribuido. Ninguna fuente dice con cuál se abre o se cierra la materia.",
       "map": {
         "mk": "El programa, en tres ejes",
         "tree": "REDES DE COMUNICACIONES Y CÓMPUTO DISTRIBUIDO\n│\n├─ Eje 1 · Teoría de la información\n├─ Eje 2 · Principales arquitecturas, capas y protocolos de red\n└─ Eje 3 · Cómputo distribuido",
-        "foot": "Contenidos mínimos del documento oficial del plan (DC-FCEN). Sin programa de cátedra ni bibliografía publicados todavía."
+        "foot": "Contenidos mínimos del documento oficial del plan (DC-FCEN); numeración de ejes según el texto ordenado 2023/06. Sin programa de cátedra ni bibliografía publicados todavía."
       },
       "exits": [
         { "address": "uba.fcen.computacion.redes.teoria-informacion", "name": "Teoría de la información", "role": "Eje 1", "tag": "contenido", "kind": "unit" },
@@ -46,22 +46,22 @@
       ]
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (documento oficial del plan: contenidos mínimos y carga)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" },
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025) · fila RCD: contenidos mínimos, contenidos analíticos y carga", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
   "sources": [
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). DIBUJADO (extract/out/plan-comp-v11-2025.txt): los tres contenidos mínimos de la fila RCD, su columna de detalle y su tabla de dedicación horaria, que imprime «Redes de Comunicaciones y Cómputo Distribuido · 10 · 160».",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): los tres contenidos mínimos de la fila RCD, su columna de contenidos analíticos y su tabla de dedicación horaria, que imprime «Redes de Comunicaciones y Cómputo Distribuido · 10 · 160».",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     },
     {
-      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «21 · 8 · Redes de Comunicaciones y Cómputo Distribuido · C · 10 · 160 · Sistemas Operativos, Técnicas de Diseño de Algoritmos, Estadística Computacional · T/P/L» — de ahí las correlativas. Su CUAT 8 contradice la ubicación en 4º año de la página del DC: conflicto declarado, sin resolver.",
+      "label": "computacion.dc.uba.ar · «Texto ordenado del Plan de Estudios de Licenciatura en Ciencias de la Computación» (PDF oficial, 2023/06). DIBUJADO (extract/out/propuesta-plan.txt): su tabla del Segundo Ciclo imprime «21 · 8 · Redes de Comunicaciones y Cómputo Distribuido · C · 10 · 160 · Sistemas Operativos, Técnicas de Diseño de Algoritmos, Estadística Computacional · T/P/L» — de ahí las correlativas. Su CUAT 8 contradice la ubicación en 4º año de la página del DC: conflicto declarado, sin resolver. De su enunciado de contenidos mínimos («Teoría de la información. Principales arquitecturas, capas y protocolos de red. Nociones básicas sobre plataformas de cómputo distribuido.») sale el orden de numeración de los ejes.",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2023/06/PropuestaNuevoPlanDeEstudiosLicCsComputacion-CBCviejo.pdf"
     },
     {
-      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 4º año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su tabla de equivalencias imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones». Su descripción en prosa no se dibuja: los ejes salen del documento del plan.",
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. DIBUJADO: ubica la materia en 4º año, 1er cuatrimestre, con «Carga horaria semanal: 10 hrs (35% para teóricas, 35% para prácticas y 30% para laboratorio)», y su tabla de equivalencias imprime «Redes de Comunicaciones y Cómputo Distribuido ↔ Teoría de las Comunicaciones». Para RCD imprime sólo la descripción en prosa («Conocimientos necesarios para comprender los principios de transmisión de información y los conceptos involucrados en el diseño y seguridad de redes de comunicación informáticas.»), citada en el lede; no imprime contenidos mínimos: los ejes salen del documento del plan.",
       "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
     },
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 07/2024» (PDF oficial). VERIFICADO (extract/out/plan-comp-v07-2024.txt): fila RCD idéntica y misma carga 10 hs / 160 hs — las dos versiones concuerdan.",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», fechada «Buenos Aires, Julio de 2024» (PDF oficial, archivo 07_2024). VERIFICADO (extract/out/plan-comp-v07-2024.txt): fila RCD idéntica y misma carga 10 hs / 160 hs — las dos versiones concuerdan.",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2024/07/Plan-de-Estudios-Lic.-Cs-Computacion-Version-07_2024-1.pdf"
     }
   ]

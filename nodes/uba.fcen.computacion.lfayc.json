@@ -44,7 +44,7 @@
         { "address": "uba.fcen.computacion.lfayc.lenguajes-jerarquia-chomsky", "name": "Lenguajes formales y jerarquía de Chomsky", "role": "unidad 1", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.lfayc.lenguajes-regulares", "name": "Lenguajes regulares", "role": "unidad 2", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.lfayc.lenguajes-libres-contexto", "name": "Lenguajes libres de contexto", "role": "unidad 3", "tag": "unidad", "kind": "unit" },
-        { "address": "uba.fcen.computacion.lfayc.maquinas-turing", "name": "Máquinas de Turing y funciones computables", "role": "unidad 4", "tag": "unidad", "kind": "unit" },
+        { "address": "uba.fcen.computacion.lfayc.maquinas-turing", "name": "Máquinas de Turing y funciones parcialmente computables", "role": "unidad 4", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.lfayc.codificacion-interprete-universal", "name": "Codificación e intérprete universal", "role": "unidad 5", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.lfayc.computabilidad-indecibilidad", "name": "Computabilidad e indecidibilidad", "role": "unidad 6", "tag": "unidad", "kind": "unit" },
         { "address": "uba.fcen.computacion.lfayc.teoremas-recursion-rice", "name": "Teoremas del Parámetro, de la Recursión y de Rice", "role": "unidad 7", "tag": "unidad", "kind": "unit" }
@@ -62,7 +62,7 @@
       "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
     },
     {
-      "label": "computacion.dc.uba.ar · «Plan de Estudios Lic. Cs. Computación — Versión 11/2025» (PDF oficial). VERIFICADO (extract/out/plan-comp-v11-2025.txt): la fila LAC imprime 5 hs, las correlativas «PP, OC» — en conflicto con la correlativa AED de la wiki y del texto ordenado, no se dibuja — y una columna de detalle que coincide tema a tema con el programa de la wiki salvo por «Gramáticas LR y nociones básicas de su aplicación a problemas de parsing», que la wiki no lista. Su tabla de dedicación imprime «Lenguajes Formales, Autómatas y Computabilidad · 5 · 80».",
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). VERIFICADO (extract/out/dc-plan-2023-v11-2025.txt): la fila LAC imprime 5 hs, las correlativas «PP, OC» — en conflicto con la correlativa AED de la wiki y del texto ordenado, no se dibuja — y una columna «Temas sugeridos 2019» que sigue el mismo recorrido que el programa de la wiki, con diferencias: el plan agrega «gramática» (en lenguajes regulares y en libres de contexto), «Gramáticas LR y nociones básicas de su aplicación a problemas de parsing» y «punto fijo», y no nombra «S++» ni «Reducciones»; cada unidad declara su diferencia. Su tabla de dedicación imprime «Lenguajes Formales, Autómatas y Computabilidad · 5 · 80».",
       "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
     },
     {

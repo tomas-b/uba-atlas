@@ -30,7 +30,7 @@
       "map": {
         "mk": "El capítulo, comprimido",
         "tree": "NORMAS, SISTEMAS Y FACTORIZACIONES (Cap. II)\n│\n├─ Normas · equivalencia · Cauchy-Schwarz · triangular\n├─ Normas matriciales · error y condicionamiento\n├─ Sistemas lineales · eliminación gaussiana · factorización LU\n└─ Matrices ortogonales · factorización QR · aplicaciones",
-        "foot": "Temas del Cap. II del programa de la cátedra (cms.dm.uba.ar). El condicionamiento es el hilo que reaparece en toda la materia."
+        "foot": "Temas del Cap. II del programa de la cátedra (cms.dm.uba.ar)."
       },
       "exits": []
     }

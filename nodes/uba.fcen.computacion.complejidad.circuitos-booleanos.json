@@ -15,7 +15,7 @@
   "title": "Cómputo sin programa: circuitos, P/poly y las clases NC/AC.",
   "lede": "El modelo no-uniforme. Circuitos booleanos y la clase P/poly, el teorema de Karp-Lipton, tamaño y profundidad de circuitos, las clases NCⁱ y ACⁱ, la uniformidad que define NC y AC, y la P-completitud.",
   "meta": [
-    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Unidad", "v": "6", "small": "de 6 · reagrupadas de 2 listas" },
     { "k": "Rol", "v": "circuitos", "small": "no-uniforme" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
@@ -30,7 +30,7 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "CIRCUITOS BOOLEANOS (Unidad 6)\n│\n├─ Circuitos booleanos · clase P/poly · Karp-Lipton\n├─ Tamaño y profundidad · clases NCⁱ y ACⁱ\n└─ Uniformidad · NC y AC · P-completitud",
-        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025)."
+        "foot": "Temas según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). La wiki publica dos listas (primer y segundo parcial), no seis unidades: la numeración es un reagrupamiento editorial. La wiki imprime NC_nu y AC_nu (subíndice nu); acá se lee NCⁱ y ACⁱ."
       },
       "exits": []
     }

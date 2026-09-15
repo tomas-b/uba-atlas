@@ -13,7 +13,7 @@
   ],
   "eyebrow": "ARI · unidad · Unidad 3",
   "title": "Mantener la consistencia: transacciones y concurrencia.",
-  "lede": "Cómo la base sigue siendo correcta ante fallas y accesos simultáneos. Las transacciones como unidad de trabajo atómica, y la recuperación y el control de concurrencia que las garantizan.",
+  "lede": "Las transacciones, y la recuperación y el control de concurrencia.",
   "meta": [
     { "k": "Unidad", "v": "3", "small": "de 5" },
     { "k": "Rol", "v": "consist.", "small": "transacc." },

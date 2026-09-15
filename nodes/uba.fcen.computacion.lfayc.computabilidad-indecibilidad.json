@@ -12,15 +12,15 @@
     { "address": "uba.fcen.computacion.lfayc.computabilidad-indecibilidad", "label": "Computabilidad e indecidibilidad" }
   ],
   "eyebrow": "Lenguajes Formales, Autómatas y Computabilidad · unidad · 6",
-  "title": "El problema de la detención y las técnicas de la indecidibilidad.",
-  "lede": "Se aborda el problema de la detención como caso central de indecidibilidad, junto con la diagonalización y las reducciones como técnicas para demostrarla.",
+  "title": "El problema de la detención y la indecidibilidad.",
+  "lede": "El problema de la detención (Halting problem). Indecidibilidad, diagonalización y reducciones.",
   "meta": [
     { "k": "Unidad", "v": "6", "small": "de 7" },
     { "k": "Rol", "v": "unidad", "small": "límites del cómputo" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "La unidad demuestra la indecidibilidad a partir del problema de la detención mediante diagonalización y reducciones.",
+  "frame": "La unidad reúne dos ítems del programa: el problema de la detención (Halting problem), y la indecidibilidad, la diagonalización y las reducciones.",
   "groups": [
     {
       "kind": "spine",
@@ -30,10 +30,24 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "COMPUTABILIDAD E INDECIDIBILIDAD (unidad 6)\n│\n├─ Tema · el problema de la detención (halting problem)\n├─ Tema · diagonalización\n└─ Idea · indecidibilidad y reducciones",
-        "foot": "Unidad del programa publicado por Cuba-Wiki (wiki de estudiantes, no oficial)."
+        "foot": "Agrupa los ítems 10–11 del programa de 13 ítems que publica Cuba-Wiki (wiki de estudiantes, no oficial); el agrupamiento de 13 en 7 es editorial. «Reducciones» figura sólo en el programa de la wiki; el plan oficial imprime «Halting problem. Diagonalización.» sin reducciones."
       },
       "exits": []
     }
   ],
-  "source": { "label": "cubawiki.com.ar (programa, wiki de estudiantes) · computacion.dc.uba.ar · Plan 2023 (carga, ubicación, correlativa)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» · sección «Programa» (wiki de estudiantes, no oficial)", "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad" },
+  "sources": [
+    {
+      "label": "cubawiki.com.ar · «Lenguajes Formales, Autómatas y Computabilidad» (plan 2023). DIBUJADO: los ítems 10–11 de los trece de su sección «Programa». Cuba-Wiki es la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, no una publicación de cátedra.",
+      "url": "https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad"
+    },
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). VERIFICADO (extract/out/dc-plan-2023-v11-2025.txt): la columna «Temas sugeridos 2019» de la fila LAC. Para este tramo imprime «Halting problem. Diagonalización.»; no nombra reducciones. No se dibuja como fuente de los temas.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: da carga, ubicación y una descripción en prosa («autómatas, expresiones regulares, parsers»); no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

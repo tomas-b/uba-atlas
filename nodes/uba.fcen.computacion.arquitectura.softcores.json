@@ -20,7 +20,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Un softcore reúne CPU, memoria e I/O a partir del diseño de un juego de instrucciones, la síntesis de una CPU sencilla y la interfaz ensamblador-lenguajes de alto nivel.",
+  "frame": "Un softcore reúne CPU, memoria e I/O a partir del diseño de un juego simple de instrucciones, la síntesis de una CPU sencilla programada con las instrucciones diseñadas y la interfaz ensamblador-lenguajes de alto nivel.",
   "groups": [
     {
       "kind": "spine",
@@ -29,11 +29,21 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "SOFTCORES (bloque 5)\n│\n├─ Tema · diseño de un juego de instrucciones (opcodes, modos de direccionamiento)\n├─ Tema · síntesis de una CPU sencilla con memoria e I/O\n└─ Idea · interfaz ensamblador-lenguajes de alto nivel",
-        "foot": "Bloque de los contenidos mínimos oficiales del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN)."
+        "tree": "SOFTCORES (bloque 5) · CPU, memoria e I/O\n│\n├─ Tema · diseño de un juego simple de instrucciones (opcodes, modos de direccionamiento)\n├─ Tema · síntesis de una CPU sencilla programada con las instrucciones diseñadas\n└─ Idea · interfaz ensamblador-lenguajes de alto nivel",
+        "foot": "Bloque de los «Temas sugeridos 2019» (columna 3) del documento del Plan 2023 (Arquitectura y Organización de Computadores, DC-FCEN); los «Temas del Plan» formales (columna 2) son cuatro líneas."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (contenidos mínimos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · Plan de Estudios 2023, PDF versión 11/2025 («Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)») · columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF Version-11_2025, enlazado desde la página del Plan 2023). DIBUJADO: la fila «Arquitectura y Organización de Computadores (OC)» de la tabla «Temas propuestos para las materias», columna 3 «Temas sugeridos 2019» — de ahí sale este bloque. La columna 2 «Temas del Plan» imprime sólo cuatro líneas: «Computadores de propósito dedicado vs. propósito general. Computadores dedicados: microcontroladores. Diseño lógico sobre dispositivos lógicos programables. Softcores.» Texto en extract/out/dc-plan-2023-v11-2025.txt.",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. Ubica la materia y su carga horaria, y enlaza el PDF. DIVERGENCIA declarada: su propio resumen de la materia dice «Diseño de un computador y su sistema operativo, programación de microinstrucciones, interfase ensamblador-lenguajes. Programación de Sistemas Operativos: memoria, interrupciones, protección, manejo de tareas, optimización.», que no coincide con los cinco bloques del PDF dibujados acá.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

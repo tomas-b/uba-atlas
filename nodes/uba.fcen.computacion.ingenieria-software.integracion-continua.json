@@ -12,10 +12,10 @@
     { "address": "uba.fcen.computacion.ingenieria-software.integracion-continua", "label": "Integración continua y análisis de código" }
   ],
   "eyebrow": "Ingeniería de Software · unidad · 6",
-  "title": "Integrar seguido y mirar el código con herramientas.",
-  "lede": "Integración continua como práctica del desarrollo. Técnicas de análisis de código para revisarlo de forma sistemática.",
+  "title": "Integrar seguido y analizar el código con técnicas.",
+  "lede": "Integración continua como práctica del desarrollo. Técnicas de análisis de código.",
   "meta": [
-    { "k": "Unidad", "v": "6", "small": "de 6" },
+    { "k": "Unidad", "v": "6", "small": "de 6 · editorial" },
     { "k": "Rol", "v": "unidad", "small": "CI y análisis" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
@@ -30,10 +30,20 @@
       "map": {
         "mk": "La unidad, comprimida",
         "tree": "INTEGRACIÓN CONTINUA Y ANÁLISIS DE CÓDIGO (unidad 6)\n│\n├─ Tema · integración continua\n└─ Idea · técnicas de análisis de código",
-        "foot": "Tema de los contenidos mínimos oficiales del Plan 2023 (Ingeniería de Software, DC-FCEN)."
+        "foot": "Temas sugeridos (columna «Temas sugeridos 2019») de la fila «Ingeniería de Software (IS)» del documento del Plan 2023 (DC-FCEN). Agrupación editorial: unidad 6 de 6 sobre los 12 temas de esa columna, que la fuente imprime como un solo párrafo, sin unidades."
       },
       "exits": []
     }
   ],
-  "source": { "label": "computacion.dc.uba.ar · Plan 2023 (descripción y temas propuestos, documento oficial del plan)", "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/" }
+  "source": { "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025) · fila «Ingeniería de Software (IS)», columna «Temas sugeridos 2019»", "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf" },
+  "sources": [
+    {
+      "label": "computacion.dc.uba.ar · «Propuesta de Nuevo Plan de Estudios para la Licenciatura en Ciencias de la Computación», «Versión 6 (Noviembre 2025)» (PDF oficial del plan, archivo 11_2025). DIBUJADO (extract/out/dc-plan-2023-v11-2025.txt): los temas de esta unidad salen de la columna «Temas sugeridos 2019» de la fila «Ingeniería de Software (IS)»; el documento define esa columna como «temas sugeridos», distinta de la columna «Temas del Plan» (contenidos mínimos).",
+      "url": "https://computacion.dc.uba.ar/wp-content/uploads/2025/11/Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf"
+    },
+    {
+      "label": "computacion.dc.uba.ar · página «Plan de Estudios 2023» del DC. VERIFICADO: ubica la materia y da su descripción en prosa y «Carga horaria semanal: 10 hrs»; no imprime los temas de esta unidad.",
+      "url": "https://computacion.dc.uba.ar/plan-de-estudios-2023/"
+    }
+  ]
 }

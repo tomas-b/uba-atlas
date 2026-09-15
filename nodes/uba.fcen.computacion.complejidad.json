@@ -11,7 +11,7 @@
     "correlativas": ["Técnicas de Diseño de Algoritmos", "Lenguajes Formales, Autómatas y Computabilidad"],
     "unidades": 6,
     "unidadesFuente": 2,
-    "bibliography": ["Computational complexity: a modern approach — Arora, S., & Barak, B. (2009) — la fuente no imprime editorial"]
+    "bibliography": ["Computational complexity: a modern approach — Arora, S., & Barak, B. (2009) — Cuba-Wiki no imprime editorial; RESCD-2025-427 imprime Cambridge University Press, 2009"]
   },
   "breadcrumb": [
     { "address": "uba", "label": "UBA · plano general" },
@@ -28,7 +28,7 @@
     { "k": "Grounding", "v": "L2", "small": "temas ✓ · biblio 1/1" },
     { "k": "Carga", "v": "5 hs", "small": "50/50 T/P · 80 h" }
   ],
-  "frame": "Dos fuentes, separadas. Las oficiales del DC — la página del Plan 2023 y el documento del plan — dan la ubicación (3º año, 1er cuatrimestre), la carga (5 hs semanales, 50% teóricas y 50% prácticas; 80 hs totales), las correlativas y los contenidos mínimos: «Equivalencia entre lenguaje y problema de decisión. Concepto de reducción de lenguajes. Concepto de complejidad de problemas: noción de problemas tratables e intratables. Clases de complejidad de lenguajes.» El temario detallado y la única referencia bibliográfica vienen de Cuba-Wiki, la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra: publica el programa de la cursada 1C2025 partido en dos listas, la del primer parcial y la del segundo. Las seis unidades de abajo reagrupan esas dos listas en bloques temáticos consecutivos — el reagrupamiento es editorial, no está en la fuente. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas, todavía sin explotar acá.",
+  "frame": "Dos fuentes, separadas. Las oficiales del DC — la página del Plan 2023 y el documento del plan — dan la ubicación (3º año, 1er cuatrimestre), la carga (5 hs semanales, 50% teóricas y 50% prácticas; 80 hs totales), las correlativas y los contenidos mínimos: «Equivalencia entre lenguaje y problema de decisión. Concepto de reducción de lenguajes. Concepto de complejidad de problemas: noción de problemas tratables e intratables. Clases de complejidad de lenguajes.» El temario detallado y la única referencia bibliográfica vienen de Cuba-Wiki, la wiki abierta de lxs estudiantes de Computación y Datos de la FCEyN, que no es una publicación de cátedra: publica el programa de la cursada 1C2025 partido en dos listas, la del primer parcial y la del segundo. Las seis unidades de abajo reagrupan esas dos listas en bloques temáticos consecutivos — el reagrupamiento es editorial, no está en la fuente. Los programas oficiales por materia se publican en el Repositorio Digital de Programas de Exactas; ahí figura RESCD-2025-427, el programa del curso de posgrado homónimo «Teoría de la Complejidad Computacional» (1er cuatrimestre de 2025, Dr. Santiago Figueira, 80 horas), con temario de diez ítems y bibliografía de cuatro libros — todavía no explotado acá como ground de la materia de grado.",
   "groups": [
     {
       "kind": "spine",
@@ -38,7 +38,7 @@
       "map": {
         "mk": "El temario, en seis unidades",
         "tree": "COMPLEJIDAD COMPUTACIONAL\n│\n├─ 1 · Máquinas de Turing, P y NP\n├─ 2 · NP-completitud y reducciones (Cook-Levin)\n├─ 3 · coNP, EXPTIME y jerarquías de tiempo (Ladner)\n├─ 4 · Complejidad de espacio (PSPACE, Savitch, L y NL)\n├─ 5 · Jerarquía polinomial y máquinas con oráculo\n└─ 6 · Circuitos booleanos (P/poly, NC, AC)",
-        "foot": "Temario según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). Las fuentes oficiales publican sólo los contenidos mínimos."
+        "foot": "Temario según Cuba-Wiki (wiki de estudiantes, no oficial; cursada 1C2025). Las fuentes oficiales de la materia de grado publican los contenidos mínimos y la columna «Temas sugeridos 2019» del plan; el programa oficial del curso de posgrado homónimo (RESCD-2025-427, 1C2025) publica temario y bibliografía."
       },
       "exits": [
         { "address": "uba.fcen.computacion.complejidad.turing-p-np", "name": "Máquinas de Turing, P y NP", "role": "Unidad 1", "tag": "unidad", "kind": "unit" },
@@ -76,6 +76,10 @@
     {
       "label": "bibliotecadigital.exactas.uba.ar · Repositorio Digital de Programas de Exactas, colección de Computación. La propia página del Plan 2023 remite ahí: «Los programas oficiales de las materias se encuentran disponibles en el Repositorio Digital de Programas de Exactas». Todavía no explotado para este nodo — es el paso pendiente para reemplazar la wiki por el programa oficial.",
       "url": "https://bibliotecadigital.exactas.uba.ar/collection/programa/browse/CL5/6"
+    },
+    {
+      "label": "bibliotecadigital.exactas.uba.ar · RESCD-2025-427-E-UBA-DCT#FCEN (7 de abril de 2025): aprueba el curso de posgrado «Teoría de la Complejidad Computacional», 80 horas, Dr. Santiago Figueira, 1er cuatrimestre de 2025, elevado por «la Dirección del Departamento de Computación». Trae «Temario» (diez ítems) y «BIBLIOGRAFÍA» (Arora & Barak 2009, Papadimitriou 1993, Sipser 2012, Wegener 2005). Programa del curso de posgrado gemelo, no de la materia de grado del Plan 2023; citado para no afirmar que ninguna fuente oficial publica bibliografía. No explotado como ground.",
+      "url": "https://bibliotecadigital.exactas.uba.ar/download/programa/programa_n20250427.pdf"
     }
   ]
 }

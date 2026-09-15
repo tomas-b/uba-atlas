@@ -13,14 +13,14 @@
   ],
   "eyebrow": "Álgebra I · unidad · U5",
   "title": "Polinomios sobre un cuerpo.",
-  "lede": "El cierre del curso: polinomios con coeficientes en un cuerpo. Divisibilidad y raíces, el Teorema Fundamental del Álgebra, y cómo cambia la factorización según el cuerpo — racionales, reales, complejos.",
+  "lede": "El cierre del curso: polinomios con coeficientes en un cuerpo — Q, R, C, Z/pZ con p primo. Divisibilidad y raíces, el Teorema Fundamental del Álgebra, y la factorización en R[X] y en K[X] para distintos cuerpos K.",
   "meta": [
     { "k": "Unidad", "v": "5", "small": "de 5" },
     { "k": "Rol", "v": "cierre", "small": "polinomios" },
     { "k": "Grounding", "v": "L2", "small": "temas" },
     { "k": "Tipo", "v": "unidad" }
   ],
-  "frame": "Cuerpos. Anillo de polinomios con coeficientes en un cuerpo. Divisibilidad, algoritmo de división. Raíces y multiplicidad. Teorema Fundamental del Álgebra. Factorización sobre distintos cuerpos (racionales, reales, complejos). El paralelo con la aritmética de los enteros.",
+  "frame": "Cuerpos. Definición y ejemplos, Q, R, C, Z/pZ con p primo. Anillo de polinomios K[x]: generalidades (suma, producto, unidades), grado, divisibilidad, irreducibles, algoritmo de división. Paralelismo con Z: máximo común divisor, algoritmo de Euclides, polinomios coprimos. Factorización única. Evaluación de polinomios. Raíces. Teorema del resto. Resolución de ecuaciones cuadráticas en K[X]. Multiplicidad. Equivalencias. Cota para el número de raíces con multiplicidad sobre un cuerpo. Teorema de Gauss para calcular raíces racionales de polinomios en Q[X]. Teorema Fundamental del Álgebra, irreducibles de C[X]. Raíces complejas no reales de polinomios reales. Factorización en R[X]. Ejemplos de factorización en K[X] para distintos cuerpos K.",
   "groups": [
     {
       "kind": "spine",
@@ -29,7 +29,7 @@
       "note": "El orden conceptual de la unidad.",
       "map": {
         "mk": "La unidad, comprimida",
-        "tree": "POLINOMIOS CON COEFICIENTES EN UN CUERPO (U5)\n│\n├─ Anillo        · cuerpos, divisibilidad\n├─ Raíces        · multiplicidad, TFA\n└─ Factorización · según el cuerpo",
+        "tree": "POLINOMIOS CON COEFICIENTES EN UN CUERPO (U5)\n│\n├─ Cuerpos        · Q, R, C, Z/pZ con p primo\n├─ Anillo K[x]    · suma, producto, unidades, grado, divisibilidad, irreducibles, algoritmo de división\n├─ Paralelo con Z · mcd, algoritmo de Euclides, polinomios coprimos, factorización única\n├─ Raíces         · evaluación, teorema del resto, ecuaciones cuadráticas, multiplicidad, cota, teorema de Gauss\n└─ Factorización  · TFA, irreducibles de C[X], raíces complejas no reales, R[X], K[X] para distintos cuerpos",
         "foot": "Temas del programa oficial del DM (Álgebra I)."
       },
       "exits": []

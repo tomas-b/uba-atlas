@@ -13,7 +13,7 @@
   ],
   "eyebrow": "ARI · unidad · Unidad 2",
   "title": "Preguntarle a los datos — y hacerlo rápido.",
-  "lede": "Cómo se interroga una base de datos. Los lenguajes de manipulación de datos y la optimización de consultas — cómo el motor transforma una consulta en un plan de ejecución eficiente.",
+  "lede": "Cómo se interroga una base de datos. Los lenguajes de manipulación de datos y la optimización de consultas.",
   "meta": [
     { "k": "Unidad", "v": "2", "small": "de 5" },
     { "k": "Rol", "v": "consultar", "small": "optimizar" },
