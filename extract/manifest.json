@@ -1733,5 +1733,29 @@
     "ocrPages": null,
     "chars": 48839,
     "ok": true
+  },
+  "historia-espana-angeli-2026": {
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0434_14020%20-%20HISTORIA%20DE%20ESPA%C3%91A%20-%20A%20-%20ANGELI%20-%201C%202026.pdf",
+    "method": "text",
+    "pages": 26,
+    "ocrPages": null,
+    "chars": 63748,
+    "ok": true
+  },
+  "historia-espana-rodriguez-otero-2026": {
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0434%20-%2014020%5D%20-%20HISTORIA%20DE%20ESPA%C3%91A%20-%20B%20-%20RODR%C3%8DGUEZ%20OTERO%20-%202C%202026.pdf",
+    "method": "text",
+    "pages": 13,
+    "ocrPages": null,
+    "chars": 42007,
+    "ok": true
+  },
+  "historia-eeuu-nigra-2026": {
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0435_14021%20-%20HISTORIA%20DE%20LOS%20ESTADOS%20UNIDOS%20DE%20AM%C3%89RICA%20-%20NIGRA%20-%201C%202026.pdf",
+    "method": "text",
+    "pages": 15,
+    "ocrPages": null,
+    "chars": 38958,
+    "ok": true
   }
 }

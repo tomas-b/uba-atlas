@@ -1,0 +1,691 @@
+{
+  "address": "uba.ffyl.historia.historia-estados-unidos",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial · Opción A: 80% de asistencia a cada instancia de la cursada y promedio igual o superior a 7 sin aplazo · Opción B: 75% de asistencia a prácticos, las 3 instancias con mínimo 4 y promedio entre 4 y 7, más EXAMEN FINAL con mínimo 4 · 1 recuperatorio; la regularidad vale 4 años y habilita 3 mesas",
+    "cargaHoraria": "96 HORAS (el encabezado interno imprime «CARGA HORARIA: 96 HORAS»; la portada no la imprime; el apartado d. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases»)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0435 / 14021 (así impreso, «CÓDIGO Nº: 0435 / 14021», en portada y en encabezado interno; el programa no dice a qué plan corresponde cada uno de los dos números)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE LOS ESTADOS UNIDOS DE AMÉRICA»",
+    "catedra": "el programa NO designa cátedra por letra ni por número: la portada imprime «PROFESOR/A: NIGRA FABIO GABRIEL» (sin coma), el encabezado interno «PROFESOR/A: NIGRA, FABIO GABRIEL» (con coma) y el pie va firmado «Dr. Fabio G. Nigra» y, debajo, «Profesor Adjunto». La palabra «cátedra» aparece seis veces: cinco designan a este equipo docente («la Cátedra pretende que el estudiante desarrolle capacidades específicas del trabajo de Historiador/a», «Traducción de la cátedra», «(selección de la Cátedra)», «Selección de Cátedra», «Selección de la Cátedra») y una está dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). Única cátedra publicada para esta materia en 2026, según los listados de las dos carpetas de Drive del Departamento (1C y 2C 2026) relevados por el scout de la ola; no se afirma nada más allá de esos dos listados",
+    "modalidad": "portada y encabezado interno: «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL»; apartado d.: «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "NIGRA, FABIO GABRIEL (portada: «PROFESOR/A: NIGRA FABIO GABRIEL»; encabezado interno: «PROFESOR/A: NIGRA, FABIO GABRIEL»; firma al pie: «Dr. Fabio G. Nigra» y, debajo, «Profesor Adjunto»)",
+      "Dra. Valeria L. Carbone (Jefa de Trabajos Prácticos)",
+      "Dra. Malena López Palmero (Ayudante de Primera)",
+      "Prof. Mariana Piccinelli (Ayudante de Primera)",
+      "Dra. Gilda Bevilacqua. (Ayudante de Primera; así impreso, con punto final)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "ubicacionEnElPlan": "el propio programa se sitúa a medias: «esta asignatura se encuentra dentro del bloque final de la Carrera». Que sea electiva del Ciclo de Orientación del Plan 1985 (una de las de la lista) es dato cruzado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 16,
+    "unidadesDetalle": "DOS secuencias en el mismo PDF: el apartado c) Contenidos trae una Introducción general sin número y SIETE unidades (Unidad 1 a Unidad 7), cada una con título; más adelante, bajo el rótulo «Contenidos elementales para el abordaje de fuentes históricas», otras NUEVE unidades (Unidad 1 a Unidad 9) sin título, solo con viñetas. El programa no declara correspondencia entre unas y otras. Se dibujan 17 nodos de unidad: 8 de la primera secuencia (Introducción general + 7) y 9 de la segunda",
+    "bibliografia": 63,
+    "bibliografiaDetalle": "118 asientos bibliográficos en total: 86 en el apartado c. Bibliografía (3 de Lectura de referencia general + 2 de la Introducción general + 81 en las siete unidades) y 32 en los Contenidos elementales para el abordaje de fuentes históricas. Se dibujan 63 volúmenes"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-estados-unidos",
+      "label": "Historia de los Estados Unidos de América"
+    }
+  ],
+  "eyebrow": "Historia · Historia de los Estados Unidos de América · Nigra · 1º cuatrim. 2026",
+  "title": "¿Ruptura o continuidad?",
+  "lede": "Estados Unidos desde que entra a la Primera Guerra Mundial hasta que se derrumba «la arquitectura financiarizada de las hipotecas subprime» en 2008, leídos con un aparato declarado: modelo de acumulación y estructura social de acumulación, hegemonía y consenso, las corrientes historiográficas —el consenso, la «Nueva Izquierda», las «nuevas» escuelas— y el excepcionalismo estadounidense. Siete unidades: la gran victoria y la década de 1920, con la primera intervención del Estado en la economía, el red scare, el patrón cambios oro y la crisis de 1921; el crac del ‘29 y el New Deal como pregunta —«¿Ruptura o continuidad?»— y el surgimiento del complejo militar-industrial; la potencia hegemónica de la Segunda Guerra y la Guerra Fría interna, macartismo, contención, «De la represión cultural a la paranoia institucionalizada», el racismo y los derechos civiles; la crisis de la estructura social de acumulación —Gran Sociedad y Guerra contra la Pobreza, negros, estudiantes, mujeres, obreros, indígenas, Vietnam y su derrota, estanflación, Nixon, Carter—; la era Reaganiana, con la solución neoconservadora, la Segunda Guerra Fría y la primera Guerra del Golfo; los años de Clinton y Bush jr., el orden neoliberal, el euro de 1999 como resistencia y la privatización de la guerra; y el absolutismo norteamericano y la crisis del hegemón: Obama como «supuesto cambio», Afganistán, Guantánamo, Wall Street, los BRICS y la emergencia de China. En paralelo, nueve unidades de trabajo con fuentes —qué es una fuente, cómo se elige un tema, contexto y texto, testimonios orales, literatura y música, estadísticas, la monografía, el estado del arte, cómo citar— que desembocan en dos trabajos monográficos: uno de análisis de una fuente original y otro de relevamiento bibliográfico.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "16",
+      "small": "7 + 9 · más una Introducción general"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Nigra · 1º cuatrim."
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE LOS ESTADOS UNIDOS DE AMÉRICA, Departamento de Historia (FFyL-UBA), cód. 0435 / 14021, Prof. Fabio Gabriel Nigra, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (15 páginas, con capa de texto nativa, extraído entero a extract/out/historia-eeuu-nigra-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. CÁTEDRA ÚNICA, CÓMO SE SABE Y HASTA DÓNDE: para esta materia hay un solo programa 2026 en los listados de las dos carpetas de Drive del Departamento —«PROGRAMAS DE MATERIAS 1C 2026» y la carpeta de programas del 2º cuatrimestre—, que enlazan las noticias de la carrera sobre programas y horarios; ese relevamiento es del scout de la ola y no descansa en la búsqueda del sitio, que no indexa las carpetas. No se afirma nada más allá de esos dos listados. El programa NO designa cátedra por letra ni por número: la portada imprime «PROFESOR/A: NIGRA FABIO GABRIEL», sin coma, y el encabezado interno «PROFESOR/A: NIGRA, FABIO GABRIEL», con coma; el pie va firmado «Dr. Fabio G. Nigra» y, debajo, «Profesor Adjunto». Las dos grafías del nombre se registran juntas, sin elegir. La palabra «cátedra» aparece exactamente seis veces: cinco designan a este equipo docente —«la Cátedra pretende que el estudiante desarrolle capacidades específicas del trabajo de Historiador/a» (fundamentación), «Traducción de la cátedra» (fuente de la U1), «(selección de la Cátedra)» (fuente de la U4), «Selección de Cátedra» y «Selección de la Cátedra» (fuentes de la U6)— y una es la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). DATO CRUZADO: la ubicación de la materia —electiva del Ciclo de Orientación del Plan 1985, una de las de la lista— viene del nodo padre uba.ffyl.historia, NO de este programa; el programa solo dice de sí mismo que «esta asignatura se encuentra dentro del bloque final de la Carrera». LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto), tabla de equivalencias («equivalenc» no aparece), plan de estudios («plan de estudio» no aparece), ciclo y orientación (las cadenas «ciclo» y «orientaci» aparecen solo en la nota sobre docentes interinos —«ciclo lectivo»—, en «Ciclo Lectivo 2026» del REDEC, en «Orientaciones para la búsqueda preliminar de bibliografía» y en «Programa de Orientación de la SEUBE»), resolución de aprobación del programa, horarios («horario» no aparece), campus virtual («campus» no aparece), y a qué plan corresponde cada uno de los dos códigos —el PDF imprime «0435 / 14021» sin explicar el par—. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, promoción directa, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). MODALIDAD, las dos afirmaciones impresas, registradas juntas: portada y encabezado interno, «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL»; apartado d., «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general del 30% y remite a la página web de la carrera. RÉGIMEN: promoción directa con 3 instancias de evaluación parcial; Opción A, 80% de asistencia a cada instancia y promedio igual o superior a 7 sin aplazo; Opción B, 75% de asistencia a prácticos, las tres instancias aprobadas con mínimo 4 y promedio entre 4 y 7, y EXAMEN FINAL con mínimo 4; un recuperatorio; regularidad de 4 años y 3 mesas. La bibliografía lo anticipa: «Aquellos estudiantes que opten por rendir el examen final (es decir, sin promoción directa) son responsables por la totalidad del programa y su bibliografía correspondiente de teóricos y prácticos». ESTRUCTURA — DOS SECUENCIAS DE UNIDADES EN UN MISMO PDF: el apartado c) Contenidos abre con una «Introducción general» sin número (ideología y cultura en el siglo XX, modelo de acumulación y estructura social de acumulación, hegemonía y consenso, corrientes historiográficas, excepcionalismo) y sigue con SIETE unidades numeradas (Unidad 1 a Unidad 7), cada una con título y un párrafo de temas. Después de la bibliografía, bajo el rótulo «Contenidos elementales para el abordaje de fuentes históricas», vienen otras NUEVE unidades (Unidad 1 a Unidad 9) que no llevan título: solo viñetas, entre una y cuatro por unidad; la primera viñeta de la Unidad 1 dice «El TP como instancia de aprendizaje: objetivos del curso». El programa NO declara correspondencia entre una secuencia y la otra, y acá no se infiere ninguna: se dibujan las dos, en grupos separados, con las dieciséis unidades y la Introducción general tal como están impresas. Los nodos de la segunda secuencia llevan como nombre sus viñetas, palabra por palabra, porque no hay otro texto que las nombre. La fundamentación distingue «las instancias de Teórico Prácticos» y «la de Prácticos», y la bibliografía dice que «En cada unidad figura la lectura obligatoria para teóricos, teórico-prácticos y para prácticos»; pero ningún bloque bibliográfico lleva rótulo de tipo de clase, y acá no se asigna ninguno. El apartado b. Objetivos imprime cuatro objetivos rotulados a., b., c. y d.; no se dibujan como grupo. PERÍODO, TRES FORMULACIONES IMPRESAS, REGISTRADAS Y NO CONCILIADAS: la fundamentación va «desde el momento en que Estados Unidos de América se incorpora como potencia dominante en el sistema internacional, luego de la Primera Guerra Mundial a partir de 1918, hasta la crisis económica generada por el derrumbe de la arquitectura financiarizada de las hipotecas subprime en 2008»; el objetivo a. va «desde principios del siglo XX hasta la primera gran crisis del siglo XXI»; y los contenidos abren con «El ingreso a la Primera Guerra Mundial» (U1) y cierran con «los BRICS (2009) y la emergencia de China» (U7). LETRAS DE APARTADO, TAL COMO ESTÁN IMPRESAS: a. Fundamentación y descripción; b. Objetivos; c) Contenidos; c. Bibliografía, filmografía y/o discografía obligatoria, complementaria y fuentes, si correspondiera; d. Organización del dictado de la materia; e. Organización de la evaluación. Hay dos apartados con la letra c —uno con paréntesis, otro con punto— y ninguno con la letra que faltaría; los objetivos, dentro del apartado b., se rotulan a., b., c., d. Se registra, no se corrige. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: el PDF trae 118 asientos bibliográficos. En el apartado c. Bibliografía, 86: 3 de «Lectura de referencia general»; 2 de «Lectura obligatoria» de la Introducción general; y 81 en las siete unidades, cada una con cuatro bloques en este orden —«Bibliografía», «Bibliografía optativa», un segundo bloque también rotulado «Bibliografía», y «Fuentes y Testimonios» (que en la U1 se rotula «Testimonios y fuentes» y en la U7 no existe)—: U1 2+3+2+2 = 9 · U2 2+6+2+2 = 12 · U3 3+9+4+5 = 21 · U4 3+7+2+1 = 13 · U5 2+3+2+1 = 8 · U6 1+6+2+2 = 11 · U7 2+4+1+0 = 7. En los «Contenidos elementales para el abordaje de fuentes históricas», 32, en bloques rotulados «Bibliografía:», «Análisis de Texto:» (U1) o «Análisis de fuentes:» (U2 a U5) y «Bibliografía de sugerencia:»: U1 2+1+1 = 4 · U2 2+2+2 = 6 · U3 2+1+3 = 6 · U4 2+2+2 = 6 · U5 2+2+2 = 6 · U6 1 · U7 1 · U8 2 · U9 0. LA REGLA, aplicada en los dos sentidos: se dibuja como libro el volumen con pie editorial que contiene cada asiento, de todos los bloques —obligatorios, optativos, fuentes, análisis y sugerencias—; un capítulo, discurso, testimonio o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo, con los capítulos y las variantes del pie anotados en el nombre. De los 118 asientos, 87 traen volumen con pie editorial y 31 NO se dibujan. Los 87 con volumen, al unificar los repetidos (24 asientos de más, en 11 volúmenes), dan 63 libros, y 63 son los que se dibujan: 54 aportados por el apartado c. Bibliografía (70 asientos con volumen) y 9 nuevos por los Contenidos elementales (17 asientos con volumen, de los cuales 8 se pliegan: 6 en volúmenes propios y 2 en el Compendio de Boorstin, ya asentado en la U3). Ningún asiento con pie editorial queda fuera y nada de lo excluido aparece como libro. LOS 31 ASIENTOS EXCLUIDOS, uno por uno. 19 cuyo contenedor es una revista o publicación periódica: Hill en Revista Huellas de Estados Unidos n° 5 (U1); Arroyo Vázquez en Espacio, Tiempo y Forma, Serie V, tomo 15 (U2 optativa); Davis en CIDE, Estados Unidos. Perspectiva Latinoamericana n° 11, Bochicchio «Maternidad republicana» en huellasdeeua.com edición 18 (U3 optativa); Marable en Revista Huellas n° 2 (U3); Malcolm X en Revista Punto Final, edición especial de agosto de 1967, y el testimonio de Fannie Lou Hamer en Huellas n° 12 (U3 fuentes); Cinatti en Revista Estrategia Internacional N° 27 (U7 optativa); Pozzi en Huellas de Estados Unidos n° 9 (U7); Auslander en Huellas número 12 (Contenidos elementales U1); Goyanes y Lopezosa en Anuario ThinkEPI 18 (U2); García Mingo en EMPIRIA (35), Hunt en Huellas n° 13 y Carbone en Espaço Plural n° 31 (U3); Pasquali en Nuevo Mundo, Nuevos Mundos (U4); Lillo en Stud. Hist. 35, da Cunha Rocha en Revista Eletrônica da ANPHLAC Nº.27, Averbach en Huellas n° 6 y Pozzi en Trabalhos de Antropologia e Etnologia vol. 60 (U5). 4 que son solo una dirección web o un video: la charla de la International Federation of Public History en YouTube (U2), «Las cuatro libertades» de Norman Rockwell en postalmuseum.si.edu (U3), la charla del ISHIR con Pablo Pozzi en YouTube (U4) y «Freedom Songs» en pbs.org (U5). 8 sin ningún pie editorial: Nigra, «Aproximación a la historiografía de los Estados Unidos», mimeo (Introducción general); «Carta de Samuel Gompers a Oliver Wertz (1906). Traducción de la cátedra» (U1); Martin Luther King, «Carta desde la cárcel de Birmingham (1963)» (U3); Ronald Reagan, «Discurso sobre el Imperio del Mal», 8 de marzo de 1983, «(varias ediciones)» (U5); los tres asientos de Pozzi y Nigra en «La decadencia de los Estados Unidos…, op. cit.» —cap. 2 «¿Absolutismo capitalista?» y cap. 13 «El monopolio privado de la violencia» (U6), y páginas 249-267 y 285-313, «capítulos 14: “El presidente negro” y “Conclusión”» (U7)—, cuyo «op. cit.» no remite a nada: la cadena «decadencia» aparece cinco veces en el PDF y ninguna trae ciudad, editorial ni año para ese volumen; y «Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938» (Contenidos elementales U4), sin pie ni dirección. VOLÚMENES QUE REAPARECEN, 35 asientos plegados en 11 nodos: Invasiones Bárbaras (7 asientos: U2, U2 optativa, U3, U3 optativa, U3, U4, U4 optativa); Una Historia Económica (inconformista) (4: U1, U2, U3, U4 optativa); Los misterios de la historia (4: Contenidos elementales U1 dos veces, U5 sugerencia, U8); De Johnson a Reagan (3: Introducción general, U4, U5); Huellas imperiales (1930-2000) (3: U1, U4 optativa, U4); el Compendio histórico de Boorstin (3: U3 fuentes y dos discursos de Roosevelt en Contenidos elementales U2); Haciendo Historia (3: Contenidos elementales U4 dos veces, U6); Huellas Imperiales. De la crisis de 1929 al presidente negro (2: U1 optativa, U3 optativa); los Documentos fundamentales de Morris (2: U2 fuentes, U3 fuentes); Stone y Kuznick (2: U6, U7 optativa); Una ventana indiscreta (2: Contenidos elementales U3). CONSECUENCIAS REGISTRADAS: la U7 trae 4 asientos con volumen de sus 7 —uno de ellos, Stone y Kuznick, ya asentado en la U6— y los otros tres son La decadencia sin pie y dos artículos de revista; la Unidad 5 de los Contenidos elementales no aporta ningún libro nuevo de sus 6 asientos —cuatro son de revista, uno es una dirección web y el de Portelli se pliega en Los misterios de la historia—; la Unidad 9 de los Contenidos elementales no trae bibliografía. CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) El nombre del profesor: «NIGRA FABIO GABRIEL» en la portada, «NIGRA, FABIO GABRIEL» en el encabezado interno. (2) Dos apartados con la letra c: «c) Contenidos:» y «c. Bibliografía, filmografía y/o discografía obligatoria, complementaria y fuentes, si correspondiera». (3) El bloque de fuentes se rotula «Testimonios y fuentes» en la U1 y «Fuentes y Testimonios» en las U2 a U6; la U7 no lo tiene. (4) Los compiladores de Invasiones Bárbaras: «Pablo Pozzi y Fabio Nigra (comps.)» en seis asientos y «Fabio Nigra y Pablo Pozzi (comps.)» en el de Theoharis (U3); el asiento de Gutman (U2), único con pie completo, los imprime dos veces seguidas —«en Pablo Pozzi y Fabio Nigra (comps.),en P. Pozzi y F. Nigra (comps.)»— y escribe «Invasiones Bárbaras» con mayúscula donde los demás escriben «Invasiones bárbaras…». (5) Huellas imperiales (1930-2000): «Imago Mundi» en la U1 y «Editorial Imago Mundi» en los dos asientos de la U4. (6) Una Historia Económica: «Una Historia Económica (inconformista) de los Estados Unidos, 1865-1980» en U1 y U2, «Una historia económica…, op. cit.» en U3 y «Una historia económica... op. cit.» —con tres puntos sueltos— en U4. (7) El compilador del Compendio histórico: «Daniel Boorstin (comp.)» con pie «México, Fondo de Cultura Económica, 1997» en la U3, «Daniel Boornstein» con pie «(México, FCE, 1997)» y título «Compendio Histórico» en los Contenidos elementales U2. (8) «De Johnson a Reagan…, op. cit» sin punto final en la U4 y «op. cit.» con punto en la U5. (9) La remisión op. cit. imprime tres grafías: «op. cit.», en once asientos del apartado c. Bibliografía (más el «op. cit» sin punto final de la U4 que recoge (8)); «op.cit.», sin espacio, en dos —Pozzi y Nigra, cap. 13 «El monopolio privado de la violencia», en la U6 del apartado c., y Roosevelt, «Discurso de la Cuarentena», «en Daniel Boornstein», en la Unidad 2 de los Contenidos elementales—; y «op. Cit.», con C mayúscula, en cuatro asientos de los Contenidos elementales: Nigra, «Las fuentes no tradicionales en historia» (Unidad 1); Pozzi, «La investigación y la ética del historiador (oral)» (Unidad 4, sugerencia); Nigra, «El uso de estadísticas en historia» (Unidad 6); Vommaro, «Teoría e Historia: algunos trazos en torno a una relación necesaria» (Unidad 8). Los cinco asientos de los Contenidos elementales que remiten a op. cit. son, pues, cuatro con «op. Cit.» y uno con «op.cit.». (10) El período de la materia, formulado tres veces de tres maneras (fundamentación, objetivo a., contenidos), como se registró arriba. (11) La U7 asienta «capítulos 14: “El presidente negro” y “Conclusión”», en plural con un solo número, y antepone las páginas al capítulo («249-267 y 285-313, capítulos 14»). (12) Los rótulos del bloque de análisis: «Análisis de Texto:» en la Unidad 1 de los Contenidos elementales, «Análisis de fuentes:» en las Unidades 2 a 5. (13) El rótulo de la primera lista: «Lectura obligatoria» para la Introducción general, «Bibliografía» para las siete unidades. LO QUE EL PROGRAMA CITA Y NO ASIENTA: «La decadencia de los Estados Unidos» de Pozzi y Nigra, citado tres veces como «op. cit.» sin que exista un asiento anterior con pie editorial en ninguna parte del PDF. Se declara la falta en lugar de completarla. ASIENTOS INCOMPLETOS, declarados y no completados: AAVV, Los documentos del Pentágono, «Plaza y Janés-El arca de papel, España, s/f.»; Chomsky, Estados fallidos, con el pie en el orden «Penguin Random House, Buenos Aires, Grupo Editorial, 2017»; Visacovsky y Guber, «(Editorial Antropofagia, 2002)» sin ciudad; Belcher, «FLACSO México» sin ciudad aparte y con el año entre paréntesis tras la autora; Adleson, Camarena e Iparraguirre, y Mastrángelo, sin páginas; «Born in Slavery», sin nada. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: «MoshikTekin» sin espacio; «wooblies»; «Nuñez García» sin tilde; «Expaining»; «Guerra Fria: historia e historiografía», mezcla de portugués y castellano; «(comp.).Compendio» y «Unidos,México» sin espacio; «Clinton.La política» sin espacio; «Bibliografía -Perry Anderson» con el asiento en la línea del rótulo; «H.a Contemporánea»; «Buenos Aires; Editorial Cántaro», con punto y coma; «S/A. Ho Chi Minh»; «B. d. Gloria Camarero»; «(et.al.)»; «op.cit.» sin espacio, dos veces; «Nº.27»; rangos de páginas con espacio tras el guion («271- 296», «265- 273», «317- 330», «383- 399»); «páginas 115 a 140», «páginas 65 a 112», «páginas 710 a 715», «páginas 377 a 387», «páginas 791 a 889», con «a» en lugar de guion; la Unidad 7 de contenidos termina sin punto («la emergencia de China»); «Dra. Gilda Bevilacqua.» con punto final que los otros tres renglones del equipo no llevan; el apartado e. abre un paréntesis y no lo cierra («Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.»); en la Unidad 5 de los Contenidos elementales el bloque «Análisis de fuentes:» empieza con una viñeta vacía («⮚.»); nueve asientos de los Contenidos elementales terminan con la palabra «Descargar», resto de un enlace del campus que el PDF no conserva. Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: la llamada de la nota al pie sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota se intercala partiendo en dos el objetivo a.; la línea de modalidad de la portada sale cortada en «REDEC-2024-» y «2526-UBA-DCT#FFYL»; el número de página «3» se intercala entre el rótulo «Unidad 4» y su título; varias URLs largas quedan cortadas por el salto de línea. Son efectos del orden de lectura del PDF y no se le atribuyen al programa. DETALLE REGISTRADO: Valeria L. Carbone figura a la vez en el EQUIPO DOCENTE, como Jefa de Trabajos Prácticos, y en la bibliografía, como autora en la U3 y en la sugerencia de la Unidad 3 de los Contenidos elementales; Fabio Nigra, el profesor, es autor o compilador en 25 de los 118 asientos.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "c) Contenidos · Introducción general + 7 unidades (Nigra, 1º cuatrim. 2026)",
+      "title": "De la Primera Guerra Mundial a la crisis del hegemón",
+      "note": "La Introducción general sin número y las siete unidades numeradas del apartado c) Contenidos, en el orden impreso y con sus títulos palabra por palabra. El apartado c. Bibliografía repite los ocho rótulos —Introducción general, Unidad 1 a Unidad 7— sin los títulos, y da a cada unidad cuatro bloques —«Bibliografía», «Bibliografía optativa», un segundo «Bibliografía» y «Fuentes y Testimonios»—, sin decir cuál corresponde a teóricos, a teórico-prácticos o a prácticos.",
+      "map": {
+        "mk": "El programa de contenidos, en siete unidades",
+        "tree": "HISTORIA DE LOS ESTADOS UNIDOS DE AMÉRICA · cód. 0435 / 14021\nNigra · 1º cuatrim. 2026 · 96 hs · PD\n│\n├─ Introducción general\n│      ideología y cultura en el siglo XX · modelo de acumulación\n│      estructura social de acumulación · hegemonía y consenso\n│      el consenso, la «Nueva Izquierda», las «nuevas» escuelas\n│      el excepcionalismo estadounidense\n├─ 1 · La gran victoria y la década de 1920\n│      el ingreso a la Primera Guerra Mundial · desmovilización y red scare\n│      el patrón cambios oro · la crisis de 1921 · la expansión sectorial\n├─ 2 · De la expansión de posguerra hasta el New Deal\n│      el crac del ‘29 · la Gran Depresión · «¿Ruptura o continuidad?»\n│      el Estado intervencionista · el complejo militar-industrial\n├─ 3 · Estados Unidos como potencia hegemónica\n│      la Segunda Guerra Mundial · el acuerdo de posguerra\n│      macartismo, contención, carrera armamentista · derechos civiles\n├─ 4 · La crisis de la estructura social de acumulación\n│      la Gran Sociedad · negros, estudiantes, mujeres, obreros, indígenas\n│      Vietnam y su derrota · estanflación · Nixon · Carter\n├─ 5 · La era Reaganiana\n│      la nueva coalición electoral · neoliberalismo y revolución neocon\n│      la Segunda Guerra Fría · la primera Guerra del Golfo\n├─ 6 · Los años de Clinton y Bush jr. (1992-2008)\n│      el orden neoliberal · el euro (1999) como resistencia\n│      la privatización de la guerra\n└─ 7 · El absolutismo norteamericano y la crisis del hegemón\n       Obama, el «supuesto cambio» · Afganistán, Guantánamo\n       Wall Street · los BRICS (2009) · la emergencia de China",
+        "foot": "La fundamentación fija el arco «a partir de 1918» y hasta la crisis «en 2008»; el objetivo a. lo dice «desde principios del siglo XX hasta la primera gran crisis del siglo XXI»; los contenidos llegan a los BRICS de 2009. Las tres formulaciones quedan registradas, no conciliadas."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.introduccion-general",
+          "name": "Introducción general",
+          "role": "Introducción general · sin número · Lectura obligatoria: 2 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u1-la-gran-victoria-y-la-decada-de-1920",
+          "name": "La gran victoria y la década de 1920",
+          "role": "Unidad 1 · 9 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u2-de-la-expansion-de-posguerra-hasta-el-new-deal",
+          "name": "De la expansión de posguerra hasta el New Deal",
+          "role": "Unidad 2 · 12 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u3-estados-unidos-como-potencia-hegemonica",
+          "name": "Estados Unidos como potencia hegemónica",
+          "role": "Unidad 3 · 21 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u4-la-crisis-de-la-estructura-social-de-acumulacion",
+          "name": "La crisis de la estructura social de acumulación",
+          "role": "Unidad 4 · 13 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u5-la-era-reaganiana",
+          "name": "La era Reaganiana",
+          "role": "Unidad 5 · 8 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u6-los-anos-de-clinton-y-bush-jr",
+          "name": "Los años de Clinton y Bush jr. (1992-2008)",
+          "role": "Unidad 6 · 11 asientos",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.u7-el-absolutismo-norteamericano-y-la-crisis-del-hegemon",
+          "name": "El absolutismo norteamericano y la crisis del hegemón",
+          "role": "Unidad 7 · 7 asientos · única sin bloque «Fuentes y Testimonios»",
+          "tag": "unidad · c) Contenidos",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos elementales para el abordaje de fuentes históricas · 9 unidades",
+      "title": "El otro recorrido, en el mismo PDF",
+      "note": "El mismo programa incluye, después de la bibliografía, una segunda secuencia de nueve unidades bajo el rótulo «Contenidos elementales para el abordaje de fuentes históricas». Sus unidades no llevan título: cada una es una lista de entre una y cuatro viñetas, que acá se transcriben palabra por palabra como nombre del nodo. La primera viñeta dice «El TP como instancia de aprendizaje: objetivos del curso». El documento no declara ninguna correspondencia entre esta secuencia y las siete unidades de contenidos, y acá no se infiere ninguna. Sus bloques bibliográficos se rotulan «Bibliografía:», «Análisis de Texto:» o «Análisis de fuentes:» y «Bibliografía de sugerencia:».",
+      "map": {
+        "mk": "El abordaje de fuentes, en nueve unidades",
+        "tree": "CONTENIDOS ELEMENTALES PARA EL ABORDAJE DE FUENTES HISTÓRICAS\n│\n├─ 1 · el TP y el Plan de Trabajo · metodología · ¿qué es una fuente?\n├─ 2 · identificar un «tema» · objeto/sujeto · IA y archivos virtuales\n│      las fuentes «tradicionales»\n├─ 3 · contexto y texto de la fuente · el rol del investigador\n│      fuentes audiovisuales\n├─ 4 · testimonios orales\n├─ 5 · textos literarios y música como fuente\n├─ 6 · estadísticas en historia · selección y validación bibliográfica\n├─ 7 · la monografía · la hipótesis · el problema de investigación\n├─ 8 · el estado del arte · el marco teórico\n└─ 9 · aspectos formales: qué y cómo citar · normas de estilo\n       (única unidad sin bibliografía)",
+        "foot": "Los objetivos c. y d. del programa anuncian dos trabajos monográficos —uno de análisis de una fuente original, otro «de relevamiento bibliográfico y análisis de un tema específico»—; esta secuencia es la que los prepara, de la elección del tema a las normas de citado."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f1-el-tp-como-instancia-de-aprendizaje",
+          "name": "El TP como instancia de aprendizaje: objetivos del curso. Introducción a la elaboración del Plan de Trabajo. · Metodología y método científico en humanidades · ¿Qué es una fuente? Tipos de fuentes, su clasificación y uso. Pautas generales de obtención, lectura y crítica de fuentes.",
+          "role": "Unidad 1 · sin título, 3 puntos · 4 asientos",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f2-identificacion-de-un-tema-en-funcion-de-la-busqueda-de-fuentes",
+          "name": "Identificación de un “tema” en función de la búsqueda de fuentes. ¿La fuente determina el tema o el tema determina la fuente? · Definición del objeto/sujeto de estudio. · Nuevas tecnologías: virtualidad e inteligencia artificial en el proceso de investigación, plataformas y archivos virtuales. Orientaciones para la búsqueda preliminar de bibliografía. · Las fuentes “tradicionales”: pautas generales para su identificación y análisis.",
+          "role": "Unidad 2 · sin título, 4 puntos · 6 asientos",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f3-contexto-y-texto-de-la-fuente",
+          "name": "Contexto y Texto de la fuente: el contexto histórico, el contexto de producción, el contexto del investigador que la somete a su análisis. · El rol del investigador. · Introducción al análisis de fuentes audiovisuales en la práctica de investigación",
+          "role": "Unidad 3 · sin título, 3 puntos · 6 asientos",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f4-el-trabajo-con-testimonios-orales",
+          "name": "El trabajo con testimonios orales en la investigación histórica",
+          "role": "Unidad 4 · sin título, 1 punto · 6 asientos",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f5-los-textos-literarios-y-la-musica-como-fuente",
+          "name": "Los textos literarios y la música como fuente de investigación histórica.",
+          "role": "Unidad 5 · sin título, 1 punto · 6 asientos (más una viñeta vacía)",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f6-el-uso-de-las-estadisticas-en-historia",
+          "name": "El uso de las estadísticas en historia · Criterios para la selección y validación del material bibliográfico según el tema/problema/objeto de estudio.",
+          "role": "Unidad 6 · sin título, 2 puntos · 1 asiento",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f7-pautas-generales-para-la-elaboracion-de-la-monografia",
+          "name": "Pautas generales para la elaboración de la monografía. Cómo retomar el plan de trabajo. · La hipótesis científica y su formulación. · Revisión sobre el problema de investigación y las preguntas de investigación.",
+          "role": "Unidad 7 · sin título, 3 puntos · 1 asiento",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f8-el-estado-del-arte-y-el-marco-teorico",
+          "name": "El estado del arte /de la cuestión (los antecedentes). El debate historiográfico. · El marco teórico y el marco de referencia conceptual. La definición de conceptos claves y categorías analíticas.",
+          "role": "Unidad 8 · sin título, 2 puntos · 2 asientos",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.f9-aspectos-formales-que-y-como-citar",
+          "name": "Aspectos formales: qué y cómo citar. Las formas de citado y las normas de estilo",
+          "role": "Unidad 9 · sin título, 1 punto · sin bibliografía",
+          "tag": "unidad · Contenidos elementales para el abordaje de fuentes históricas",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía del programa · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 63 volúmenes con pie editorial de los 118 asientos del programa: los 86 del apartado c. Bibliografía (referencia general, Introducción general y los cuatro bloques de cada una de las siete unidades) y los 32 de los Contenidos elementales para el abordaje de fuentes históricas. Un capítulo, discurso, testimonio o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. No se dibujan los 19 asientos de revista, los 4 que son solo una dirección web o un video ni los 8 sin ningún pie editorial —entre ellos los tres de «La decadencia de los Estados Unidos…, op. cit.», cuyo op. cit. no remite a nada—: quedan declarados uno por uno en el frame. No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-sellers-may-mcmillan-sinopsis-de-la-historia-de-los-estados-unidos",
+          "name": "Sinopsis de la historia de los Estados Unidos — Charles Sellers, Henry May, Neil McMillan (Buenos Aires, Editorial Fraterna, 1988)",
+          "role": "Lectura de referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-de-la-guardia-historia-de-estados-unidos",
+          "name": "Historia de Estados Unidos — Carmen de la Guardia (Madrid, Sílex Ediciones, 2012)",
+          "role": "Lectura de referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-grant-historia-de-los-estados-unidos-de-america",
+          "name": "Historia de los Estados Unidos de América — Susan-Mary Grant (Madrid, AKAL, 2014)",
+          "role": "Lectura de referencia general",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-nigra-de-johnson-a-reagan",
+          "name": "De Johnson a Reagan. O tratado de una decadencia, exploración y construcción de la nueva Estructura Social de Acumulación en los Estados Unidos, 1960-1990 — Fabio Nigra (Buenos Aires, Editorial de la Facultad de Filosofía y Letras-Universidad de Buenos Aires, 2020) · capítulo 1: «El marco teórico», páginas 13-75 (Introducción general); «Los antecedentes, desde la década de 1960 a principios de la década de 1970», capítulo 2, asentado «De Johnson a Reagan…, op. cit» sin punto final (U4); «Una nueva estructura social de acumulación o los años de Ronald Reagan», capítulo 3 (U5)",
+          "role": "Lectura obligatoria · Introducción general · Bibliografía U4 y U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-adams-los-estados-unidos-de-america",
+          "name": "Los Estados Unidos de América — Willi Paul Adams (Buenos Aires, Siglo XXI, 1982) · capítulo 5: «Las consecuencias sociales de la industrialización. El imperialismo y la Primera Guerra Mundial, 1890-1920», páginas 215-256",
+          "role": "Bibliografía · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-nigra-una-historia-economica-inconformista-de-los-estados-unidos",
+          "name": "Una Historia Económica (inconformista) de los Estados Unidos, 1865-1980 — Fabio Nigra (Buenos Aires, Ed. Maipue, 2007) · «La crisis: 1929-1933», capítulo 5, páginas 123-154 (U1); «El primer y el segundo New Deal, 1933-1939», capítulo 6, páginas 155-176 (U2); «El tercer New Deal: La economía de la guerra, 1941-1946», páginas 181-205, y «La dominación internacional, 1946-1967», páginas 209-236, capítulos 7 y 8, en un solo asiento (U3); «La crisis que antecede a la tormenta, 1967-1980», capítulo 9 (U4, optativa) · el título va impreso «Una Historia Económica (inconformista)» en U1 y U2 y «Una historia económica…, op. cit.» en U3 y U4",
+          "role": "Bibliografía · U1, U2, U3 · optativa U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-tekin-el-caso-de-sacco-y-vanzetti",
+          "name": "El caso de Sacco y Vanzetti. Los Estados Unidos a juicio — MoshikTekin [así impreso, sin espacio] (México, FCE, 2009) · capítulo 1",
+          "role": "optativa · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-montero-jimenez-leon-aguinaga-los-estados-unidos-y-el-mundo",
+          "name": "Los Estados Unidos y el mundo: la metamorfosis del poder americano (1890-1952) — José A. Montero Jiménez y Pablo León Aguinaga (Madrid, Síntesis, 2019) · capítulo 1",
+          "role": "optativa · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-nigra-huellas-imperiales-de-la-crisis-de-1929-al-presidente-negro",
+          "name": "Huellas Imperiales. De la crisis de 1929 al presidente negro — Pablo Pozzi y Fabio Nigra (Buenos Aires, Imago Mundi-CICCUS, 2013) · Pablo Pozzi, «In God We Trust, All Others Cash: teocracia y nacionalismo en Estados Unidos», páginas 33-47 (U1); Ana Laura Bochicchio, «¡Ahí vienen los rusos! Estados Unidos, la temprana Guerra Fría doméstica y la construcción del enemigo interno», páginas 205-226 (U3)",
+          "role": "optativa · U1 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-nigra-pozzi-huellas-imperiales-1930-2000",
+          "name": "Huellas imperiales. Estados Unidos de la crisis de acumulación a la globalización capitalista (1930-2000) — Fabio Nigra y Pablo Pozzi (comps.) (Buenos Aires, Imago Mundi, 2003; los dos asientos de U4 imprimen «Editorial Imago Mundi») · Pablo Pozzi, «Excepcionalismo y clase obrera», páginas 3-11 (U1); Christian G. Appy, «Vietnam: una guerra de clase», páginas 401-440 (U4, optativa); Howard Zinn, «Nixon: La década de 1970: ¿Todo bajo control?», páginas 383- 399 (U4)",
+          "role": "Bibliografía · U1 y U4 · optativa U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-nunez-garcia-zermeno-padilla-eua-documentos-de-su-historia-politica",
+          "name": "EUA. Documentos de su historia política, vol. III — Nuñez García, Silvia y Zermeño Padilla, Silvia [así impreso, sin tilde en Nuñez] (México, Instituto Mora, 1988) · «Industrial Workers of the World (‘wooblies’). Manifiesto de fundación (27 de junio de 1905)» [«wooblies», así impreso], páginas 523-525",
+          "role": "Testimonios y fuentes · U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-nigra-invasiones-barbaras",
+          "name": "Invasiones Bárbaras en la historia contemporánea de los Estados Unidos — Pablo Pozzi y Fabio Nigra (comps.) (Ituzaingó, Maipue, 2007) · Herbert Gutman, «La Gran Depresión y la crisis del nuevo orden», páginas 95-115 (U2); American Social History Project, «El Primer New Deal», páginas 117-179 (U2, optativa); Pablo Pozzi, «Estados Unidos y los orígenes de la Guerra Fría», páginas 265- 273 (U3); Alicia Rojo, «Los Estados Unidos y la Segunda Guerra Mundial», páginas 207-228 (U3, optativa); Athan Theoharis, «La retórica de la política: la política exterior, la seguridad interior y la política interna en la era Truman, 1945-1950», páginas 181-197 (U3, con los compiladores en orden inverso: «Fabio Nigra y Pablo Pozzi (comps.)»); Alicia Rojo, «El imperialismo estadounidense y la guerra de Vietnam», páginas 317- 330 (U4); Florencia Dadamo, «Estados Unidos y la década de 1960. El despertar de la conciencia», páginas 297-316 (U4, optativa) · el único asiento con pie completo imprime los compiladores dos veces seguidas («en Pablo Pozzi y Fabio Nigra (comps.),en P. Pozzi y F. Nigra (comps.)») y «Bárbaras» con mayúscula; los otros seis remiten a «Invasiones bárbaras…, op. cit.»",
+          "role": "Bibliografía · U2, U3, U4 · optativa U2, U3, U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-gordon-edwards-reich-trabajo-segmentado-trabajadores-divididos",
+          "name": "Trabajo segmentado, trabajadores divididos. La transformación histórica del trabajo en los Estados Unidos — David Gordon, Richard Edwards y Michael Reich (Madrid, Ministerio de Trabajo y Seguridad Social, 1986) · páginas 133-214, 215-238",
+          "role": "optativa · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-de-washington-a-reagan",
+          "name": "De Washington a Reagan: Trabajadores y conciencia de clase en los Estados Unidos — Pablo Pozzi et al. (Buenos Aires; Editorial Cántaro, 1990) · María José Billorou, «Entre la crisis y la prosperidad. El movimiento obrero estadounidense, 1930-1950», páginas 259-274",
+          "role": "optativa · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-un-pasado-imperfecto",
+          "name": "Un pasado imperfecto: El conflicto en la historia de Estados Unidos — Pablo Pozzi et al. (Buenos Aires, Manuel Suárez Ed., 1992) · Paul Koistinen, «El complejo militar-industrial en la perspectiva histórica: los años entre las dos guerras», páginas 205-221",
+          "role": "optativa · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-montgomery-el-control-obrero-en-estados-unidos",
+          "name": "El control obrero en Estados Unidos — David Montgomery (Madrid, Ministerio de Trabajo y Seguridad Social, 1985) · «El Nuevo Sindicalismo y la transformación de la conciencia obrera en América, 1909-22», páginas 115 a 140",
+          "role": "optativa · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-bernstein-ensayos-inconformistas-sobre-los-estados-unidos",
+          "name": "Ensayos inconformistas sobre los Estados Unidos — Barton Bernstein et al. (Barcelona, Península, 1976) · Barton Bernstein, «El New Deal: los resultados conservadores de la reforma liberal», páginas 271- 296",
+          "role": "Bibliografía · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-degler-historia-de-los-estados-unidos",
+          "name": "Historia de los Estados Unidos. El desarrollo de una nación, 1860-1985 — Carl N. Degler (Barcelona, Ariel, 1986) · páginas 179-220",
+          "role": "Bibliografía · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-trotsky-naturaleza-y-dinamica-del-capitalismo",
+          "name": "Naturaleza y dinámica del capitalismo y la economía de transición — León Trotsky (Buenos Aires, CEIP, 1999) · «Sobre los Estados Unidos de América» (Julio 1936), páginas 153-158",
+          "role": "Fuentes y Testimonios · U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-morris-documentos-fundamentales-de-la-historia-de-los-estados-unidos",
+          "name": "Documentos fundamentales de la Historia de los Estados Unidos de América — Richard B. Morris (comp.) (México, Editorial Libreros Mexicanos Unidos S. A., 1962) · «Discurso de Franklin D. Roosevelt al asumir la presidencia», páginas 248-255 (U2); «Discurso sobre la Alianza para el Progreso (13 de marzo de 1961)», páginas 305-317 (U3)",
+          "role": "Fuentes y Testimonios · U2 y U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-anderson-imperium-et-consilium",
+          "name": "Imperium et Consilium. La política exterior norteamericana y sus teóricos — Perry Anderson (Madrid, Akal, 2014) · capítulos 2 y 3 · el asiento sale en la misma línea que el rótulo del bloque («Bibliografía -Perry Anderson. Imperium et Consilium»)",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-money-el-macartismo",
+          "name": "El Macartismo — Jorge Money (Buenos Aires, CEAL, 1973)",
+          "role": "optativa · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-weiner-legado-de-cenizas",
+          "name": "Legado de cenizas. La historia de la CIA — Tim Weiner (Buenos Aires, Debate, 2008) · capítulo 11",
+          "role": "optativa · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-munhoz-guerra-fria-historia-e-historiografia",
+          "name": "Guerra Fria: historia e historiografía [así impreso] — Sidnei Munhoz (Curitiba, Editora Appris Ltda., 2020)",
+          "role": "optativa · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-gaddis-la-guerra-fria",
+          "name": "La Guerra Fría — John Lewis Gaddis (Barcelona, RBA, 2004) · capítulo 2",
+          "role": "optativa · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-spanier-la-politica-exterior-estadounidense",
+          "name": "La política exterior estadounidense a partir de la Segunda Guerra Mundial — John Spanier (Buenos Aires, GEL, 1991)",
+          "role": "optativa · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-lipset-raab-la-politica-de-la-sinrazon",
+          "name": "La política de la sinrazón — Seymour Martin Lipset y Earl Raab (México, Fondo de Cultura Económica, 1981) · «Los cincuentas: el macartismo», páginas 239-281",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-carbone-una-historia-del-movimiento-negro-estadounidense",
+          "name": "Una historia del movimiento negro estadounidense en la era post derechos civiles (1968-1988) — Valeria Carbone (Valencia, Universitat de Valencia, 2020) · «Racismo y raza: ¿el motor de la historia de los Estados Unidos?» (selección), páginas 55-72",
+          "role": "Bibliografía · U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-boorstin-compendio-historico-de-los-estados-unidos",
+          "name": "Compendio histórico de los Estados Unidos — Daniel Boorstin (comp.) (México, Fondo de Cultura Económica, 1997) · George C. Marshall, «El Plan Marshall (1947)», páginas 710 a 715 (U3, Fuentes y Testimonios); Franklin Delano Roosevelt, «Primer discurso de toma de posesión». 4 de marzo de 1933, págs. 673-679, y «Discurso de la Cuarentena» (1937), págs. 680-688 (Contenidos elementales, Unidad 2, Análisis de fuentes) · el compilador se imprime «Daniel Boorstin» en U3 y «Daniel Boornstein» en los dos asientos de fuentes, donde el título va «Compendio Histórico» y el pie «(México, FCE, 1997)»",
+          "role": "Fuentes y Testimonios · U3 · Análisis de fuentes · Contenidos elementales U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-franklin-vietnam-y-las-fantasias-estadounidenses",
+          "name": "Vietnam y las fantasías estadounidenses — H. Bruce Franklin (Buenos Aires, Final Abierto, 2008) · capítulo 3",
+          "role": "Bibliografía · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-ho-chi-minh-vida-y-obra",
+          "name": "Ho Chi Minh. Vida y obra — S/A [así impreso] (Vietnam, Editorial TheGioi, 2010) · capítulo VIII, páginas 173-224",
+          "role": "optativa · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-morales-dominguez-ramirez-canedo-el-imperialismo-estadounidense",
+          "name": "El imperialismo estadounidense: pasado, presente y futuro — Esteban Morales Domínguez y Elier Ramírez Cañedo (La Habana, Ruth Casa Editorial, 2014) · Esteban Morales Domínguez, «Complejo militar industrial: militarismo trasnacional», páginas 93-123",
+          "role": "optativa · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-hastings-la-guerra-de-vietnam",
+          "name": "La Guerra de Vietnam. Una tragedia épica, 1945-1975 — Max Hastings (Buenos Aires, Crítica, 2019)",
+          "role": "optativa · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-bradley-young-making-sense-of-the-vietnam-wars",
+          "name": "Making sense of the Vietnam wars. Local, national and transnational perspectives — Mark Philip Bradley y Marilyn B. Young (New York, Oxford University Press, 2008) · Mark Atwood Lawrence, «Expaining the early decisions. The United States and the French War, 1945–1954» [«Expaining», así impreso]",
+          "role": "optativa · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-bowles-gordon-weisskopf-la-economia-del-despilfarro",
+          "name": "La economía del despilfarro — Samuel Bowles, David Gordon y Thomas Weisskopf (Madrid, Alianza Universidad, 1983) · «El auge y la caída del sistema de gran empresa de la posguerra», capítulo 4",
+          "role": "Bibliografía · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-aavv-los-documentos-del-pentagono",
+          "name": "Los documentos del Pentágono («El informe McNamara») — AAVV (Plaza y Janés-El arca de papel, España, s/f.) · «Editoriales de The New York Times»; «Decisión del Tribunal Supremo» (selección de la Cátedra) · sin año: «s/f.», tal como está impreso",
+          "role": "Fuentes y Testimonios · U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-smith-fuego-subterraneo",
+          "name": "Fuego Subterráneo. Historia del radicalismo de la clase obrera en los Estados Unidos — Sharon Smith (Navarra, Editorial Hiru, 2015) · «La ofensiva de los patronos», páginas 346-394",
+          "role": "Bibliografía · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-fontana-el-siglo-de-la-revolucion",
+          "name": "El siglo de la revolución — Josep Fontana (Barcelona, Crítica, 2017) · «La contrarrevolución conservadora», capítulo 12",
+          "role": "Bibliografía · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-burkun-vitelli-crisis-en-la-madurez-del-capitalismo",
+          "name": "Crisis en la madurez del capitalismo. Argentina y Estados Unidos — Mario E. Burkún y Guillermo Vitelli (Buenos Aires, Prometeo, 2010) · Guillermo Vitelli, «La reiteración de crisis económicas en Estados Unidos durante las décadas posteriores a 1970», páginas 167-244",
+          "role": "optativa · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-klein-la-doctrina-del-shock",
+          "name": "La Doctrina del Shock — Naomi Klein (Barcelona, Paidós, 2010) · capítulo 2",
+          "role": "optativa · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-harvey-el-nuevo-imperialismo",
+          "name": "El nuevo imperialismo — David Harvey (Madrid, AKAL, 2004) · capítulo II, ap. «Hegemonía neoliberal, 1970-2000», páginas 62-70",
+          "role": "optativa · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-gonzalez-casanova-estados-unidos-hoy",
+          "name": "Estados Unidos, hoy — Pablo González Casanova (coord.) (México, Siglo XXI, 1984) · Michael Klare, «El ataque contra el ‘síndrome de Vietnam’», páginas 377 a 387",
+          "role": "Bibliografía · U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-stone-kuznick-historia-no-oficial-de-estados-unidos",
+          "name": "Historia no oficial de Estados Unidos — Oliver Stone y Peter Kuznick (Buenos Aires, Ateneo, 2015) · capítulo 13 «La debacle de la pareja Bush-Cheney. «En Irak se han abierto las puertas del infierno»», páginas 721-790 (U6); capítulo 14 «La gestión de un imperio herido» páginas 791 a 889 (U7, optativa)",
+          "role": "Bibliografía · U6 · optativa U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-frachon-vernet-la-america-mesianica",
+          "name": "La América Mesiánica. Los orígenes del neoconservadurismo y las guerras del presente — Alain Frachon y Daniel Vernet (Barcelona, Paidós, 2006) · capítulos 3 y 5",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-micklethwait-wooldridge-una-nacion-conservadora",
+          "name": "Una Nación Conservadora. El poder de la derecha en Estados Unidos — John Micklethwait y Adrian Wooldridge (Buenos Aires, Debate, 2007) · capítulo 8",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-ramonet-irak-historia-de-un-desastre",
+          "name": "Irak, historia de un desastre — Ignacio Ramonet (Buenos Aires, Debate, 2005) · capítulo 3",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-aavv-el-imperio-de-la-guerra-permanente",
+          "name": "El imperio de la guerra permanente. Estados Unidos y la mundialización liberal — AAVV (Buenos Aires, Capital Intelectual-Le Monde Diplomatique, 2007) · capítulo 6",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-chomsky-petras-morley-clinton",
+          "name": "Clinton.La política del actual gobierno de EEUU [así impreso, sin espacio tras el punto] — Noam Chomsky, James Petras y Morris Morley (Buenos Aires, Edic. del Instituto Movilizador de Fondos Cooperativos, 1994) · James Petras y Morris Morley, «La administración Clinton: Liderazgo global versus política interior», págs. 11-52",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-oszlak-gobernar-el-imperio",
+          "name": "Gobernar el imperio. Los tiempos de Bush — Oscar Oszlak (Buenos Aires, Capital Intelectual, 2006) · capítulo 3",
+          "role": "optativa · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-chomsky-estados-fallidos",
+          "name": "Estados fallidos. El abuso de poder y el ataque a la democracia — Noam Chomsky (pie impreso en este orden: «Penguin Random House, Buenos Aires, Grupo Editorial, 2017») · Selección de Cátedra",
+          "role": "Fuentes y Testimonios · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-bageant-cronicas-de-la-america-profunda",
+          "name": "Crónicas de la América profunda. Escenas de la lucha de clases en el corazón del imperio — Joe Bageant (Buenos Aires, Marea, 2004) · Selección de la Cátedra",
+          "role": "Fuentes y Testimonios · U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-foster-magdoff-la-gran-crisis-financiera",
+          "name": "La gran crisis financiera. Causas y consecuencias — John Bellamy Foster y Fred Magdoff (México, FCE, 2009) · capítulo 6",
+          "role": "Bibliografía · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-kindleberger-manias-panicos-y-cracks",
+          "name": "Manías, Pánicos y Cracks. Una Historia de las crisis financieras — Charles P. Kindleberger (Barcelona, Ariel, 2012) · capítulo 13 «El pánico de Lehman, un crac evitable», páginas 373-396",
+          "role": "optativa · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-ocampo-la-era-de-la-burbuja",
+          "name": "La era de la burbuja. De cómo Estados Unidos llegó a la crisis — Emilio Ocampo (Buenos Aires, Editorial Claridad, 2009)",
+          "role": "optativa · U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-los-misterios-de-la-historia",
+          "name": "Los misterios de la historia: perspectivas del oficio del historiador — Pablo Pozzi (coord.) (Buenos Aires: FILO UBA, 2018) · Pablo Pozzi, «Presentación», págs. 9-25, y Fabio Nigra, «Las fuentes no tradicionales en historia», págs. 137-164 (Unidad 1); Alessandro Portelli, «Absalón, Absalón! La historia oral y la literatura», páginas 215-236 (Unidad 5, sugerencia); Pablo Vommaro, «Teoría e Historia: algunos trazos en torno a una relación necesaria», págs. 69-82 (Unidad 8, asentado «Pablo Pozzi (Comp.)») · dos de los cuatro asientos remiten a «op. Cit.», con C mayúscula",
+          "role": "Contenidos elementales · Bibliografía U1 y U8 · sugerencia U5",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-febvre-combates-por-la-historia",
+          "name": "Combates por la historia — Lucien Febvre (Buenos Aires: Ariel, 1971) · «Examen de conciencia de una historia y de un historiador», págs. 15-33",
+          "role": "Contenidos elementales · sugerencia U1",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-sujetos-de-la-historia",
+          "name": "Sujetos de la Historia: Herramientas y materiales auxiliares para el abordaje de nuestro oficio — Pablo Pozzi (coord.) (Buenos Aires: CLACSO, 2015) · Mariana Mastrángelo, «Algo de Sherlock Holmes y algo de historiador ¿cómo investigar en historia?»",
+          "role": "Contenidos elementales · Bibliografía U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-visacovsky-guber-historia-y-estilos-de-trabajo-de-campo-en-argentina",
+          "name": "Historia y Estilos de trabajo de campo en Argentina — Sergio Visacovsky y Rosana Guber (comp.) (Editorial Antropofagia, 2002; el programa no consigna ciudad) · Lidia Nacuzzi, «Leyendo entre líneas: una eterna duda acerca de las certezas», págs. 229-262",
+          "role": "Contenidos elementales · sugerencia U2",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-camarero-una-ventana-indiscreta",
+          "name": "Una ventana indiscreta. La historia desde el cine — B. d. Gloria Camarero [así impreso] (Madrid: Ediciones JC y Universidad Carlos III de Madrid, 2008) · Beatriz de las Heras, «Historia e imagen. La fotografía y el cine como herramientas de trabajo para el historiador», págs. 65-85; Robert Rosenstone, «Inventando la verdad histórica en la gran pantalla», págs. 9-18",
+          "role": "Contenidos elementales · Bibliografía U3",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-necoechea-gracia-cuentame-como-fue",
+          "name": "Cuéntame cómo fue. Introducción a la historia oral — Gerardo Necoechea Gracia (Buenos Aires: Imago Mundi, 2008) · Steven Lief Adleson, Mario Camarena e Hilda Iparraguirre, «Historia social y testimonios orales»",
+          "role": "Contenidos elementales · Bibliografía U4",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-pozzi-haciendo-historia",
+          "name": "Haciendo Historia: Herramientas para la Investigación Histórica — Pablo Pozzi (et.al.) (CLACSO: Buenos Aires, 2020) · Robin D.G. Kelley, «Historia y racismo: Una entrevista con Herbert Aptheker», págs. 233-274 (Unidad 4, Análisis de fuentes); Pablo Pozzi, «La investigación y la ética del historiador (oral)», págs. 27-45 (Unidad 4, sugerencia); Fabio Nigra, «El uso de estadísticas en historia», págs. 275-290 (Unidad 6)",
+          "role": "Contenidos elementales · Análisis de fuentes U4 · sugerencia U4 · Bibliografía U6",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-yuni-urbano-tecnicas-para-investigar",
+          "name": "Técnicas para investigar y formular proyectos de investigación — José Yuni y Claudio Urbano (Córdoba: Editorial Brujas, 2006) · págs. 57-79",
+          "role": "Contenidos elementales · Bibliografía U7",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-estados-unidos.libro-belcher-como-escribir-un-articulo-academico-en-12-semanas",
+          "name": "Cómo escribir un artículo académico en 12 semanas — Wendy Laura Belcher (FLACSO México; el año, 2010, va impreso entre paréntesis tras la autora y el pie no consigna ciudad aparte) · Capítulo 5: Reseñando la Literatura seleccionada. Pp. 187-220",
+          "role": "Contenidos elementales · Bibliografía U8",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS ESTADOS UNIDOS DE AMÉRICA, CÓDIGO Nº: 0435 / 14021, PROFESOR/A: NIGRA, FABIO GABRIEL, 1º cuatrimestre 2026 (15 pp., capa de texto nativa) — alojado en el sitio del Departamento y también en Google Drive, en la carpeta «PROGRAMAS DE MATERIAS 1C 2026» que enlaza la noticia de la carrera «1º cuatrimestre 2026 · programas y horarios de materias y seminarios»",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0435_14021%20-%20HISTORIA%20DE%20LOS%20ESTADOS%20UNIDOS%20DE%20AM%C3%89RICA%20-%20NIGRA%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE LOS ESTADOS UNIDOS DE AMÉRICA, «CÓDIGO Nº: 0435 / 14021», «RÉGIMEN DE PROMOCIÓN: PD», «CARGA HORARIA: 96 HORAS», «PROFESOR/A: NIGRA FABIO GABRIEL» (portada) / «PROFESOR/A: NIGRA, FABIO GABRIEL» (encabezado interno), «1º CUATRIMESTRE», «AÑO: 2026», 15 pp. con capa de texto nativa — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-eeuu-nigra-2026.txt, idéntico al texto del PDF publicado (pdftotext -layout)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0435_14021%20-%20HISTORIA%20DE%20LOS%20ESTADOS%20UNIDOS%20DE%20AM%C3%89RICA%20-%20NIGRA%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · noticia «1º cuatrimestre 2026 · programas y horarios de materias y seminarios» — el listado que enlaza el programa: su renglón «PROGRAMAS DE MATERIAS 1C 2026» apunta a la carpeta de Drive 1En0muxhYOTg9kb4s7jko67T8jMl5DAG1, donde está el mismo archivo de esta materia",
+      "url": "https://historia.filo.uba.ar/novedades/1%C2%BA-cuatrimestre-2026-programas-y-horarios-de-materias-y-seminarios"
+    },
+    {
+      "label": "Google Drive · carpeta «PROGRAMAS DE MATERIAS 1C 2026» del Departamento de Historia — listado relevado por el scout de la ola para verificar que el PDF de esta materia está publicado ahí; en ese listado y en el de la carpeta de programas del 2º cuatrimestre 2026 (1O_0iR7e0zc5HgzUOeswr9ivDrNvLMn7J) no figura ningún otro programa de esta materia, y solo en eso descansa la afirmación de cátedra única",
+      "url": "https://drive.google.com/drive/folders/1En0muxhYOTg9kb4s7jko67T8jMl5DAG1"
+    },
+    {
+      "label": "academica.filo.uba.ar · Esquema del Plan 1985 de Historia — origen de la ubicación de la materia como electiva del Ciclo de Orientación; citado en el nodo padre uba.ffyl.historia, no en este programa",
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/HI%20-%20Plan.pdf"
+    }
+  ]
+}

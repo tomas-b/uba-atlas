@@ -1,0 +1,446 @@
+{
+  "address": "uba.ffyl.historia.historia-de-espana",
+  "level": "programa",
+  "kind": "course",
+  "groundingLevel": "L2",
+  "metadata": {
+    "regimen": "cuatrimestral · RÉGIMEN DE PROMOCIÓN: PD — PROMOCIÓN DIRECTA, Reglamento Académico Res. (CD) Nº 4428/17 · 3 instancias de evaluación parcial; Opción A: 80% de asistencia a cada instancia de la cursada y promedio igual o superior a 7 sin aplazo; Opción B: 75% de asistencia a prácticos, las 3 instancias con mínimo de 4 y promedio entre 4 y 7, más EXAMEN FINAL con mínimo de 4; 1 recuperatorio; la regularidad vale 4 años y habilita 3 mesas",
+    "cargaHoraria": "96 HORAS (la portada interior imprime «CARGA HORARIA: 96 HORAS»; el apartado e. reproduce la pauta: «La carga horaria mínima es de 96 horas (noventa y seis) y comprenden un mínimo de 6 (seis) y un máximo de 10 (diez) horas semanales de dictado de clases». El programa no desagrega horas de teóricos y de prácticos)",
+    "cuatrimestre": "1º",
+    "año": 2026,
+    "codigo": "0434 -14020 (así impreso en la portada, «CÓDIGO Nº: 0434 -14020», con espacio antes del guion; la portada interior imprime «CÓDIGO Nº: 0434-14020»; el programa no dice a qué plan corresponde cada uno de los dos números. El programa de la otra cátedra imprime el mismo par con barra, «0434/14020»)",
+    "tituloDelPrograma": "el programa no lleva título propio: la portada consigna solo «MATERIA: HISTORIA DE ESPAÑA “A”»",
+    "catedra": "«A» — la letra está impresa dos veces en el propio documento, dentro de la línea de materia: «MATERIA: HISTORIA DE ESPAÑA “A”» (portada) y «MATERIA: HISTORIA DE ESPAÑA ”A”» (portada interior, con la comilla de apertura invertida). La palabra «cátedra» aparece ocho veces, todas con acento: tres designan a este equipo («La cátedra pondrá atención al fomento de estrategias didácticas variadas», «(ficha de cátedra)» en el asiento de Menjot y «(selección de la cátedra)» en el de Egido), cuatro son el nombre de la editorial madrileña Cátedra (asientos de Hernández Franco, Soria Mesa, Molas Ribalta y García Cárcel) y una está dentro de la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). La forma sin acento no aparece",
+    "modalidad": "portada y portada interior: «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL»; apartado e.: «La materia se dicta en modalidad presencial atendiendo a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL». El programa NO declara qué porcentaje de virtualidad adopta: reproduce la pauta general («Las materias de grado pueden optar por dictar hasta un treinta por ciento (30%) de sus clases en modalidad virtual») y remite: «El porcentaje de virtualidad y el tipo de actividades a realizar se informarán a través de la página web de cada carrera antes del inicio de la inscripción»",
+    "equipoDocente": [
+      "ANGELI, SERGIO (portada y portada interior: «PROFESOR: ANGELI, SERGIO»; firma al pie: «Aclaración: Dr. Sergio Hernán Angeli», «Cargo: Profesor Adjunto Interino»)",
+      "HERRERA, ESTEBAN (AYUDANTE DE PRIMERA)",
+      "RIZZUTO, CLAUDIO CÉSAR (AYUDANTE DE PRIMERA)"
+    ],
+    "notaAlEquipoDocente": "el PDF trae una nota al pie ligada a «EQUIPO DOCENTE»: «Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente»",
+    "recomendaciones": "apartado g.: «Se recomienda a les estudiantes haber cursado las materias Historia Medieval, Historia Moderna, Historia de América I (de los orígenes hasta la conquista) e Historia de América II (colonial)». Es una recomendación; el programa no imprime correlatividades",
+    "ubicacionEnElPlan": "electiva del Ciclo de Orientación, una de las tres que se eligen de la lista — dato del Plan 1985 tomado del nodo padre uba.ffyl.historia, NO del programa: este PDF no consigna plan, ciclo, orientación, correlatividades ni equivalencias",
+    "unidades": 7,
+    "unidadesDetalle": "una sola secuencia de siete unidades en números romanos (Unidad I a Unidad VII) en el apartado c. Contenidos, sin subdivisiones; el apartado d. Bibliografía las repite como «UNIDAD I» a «UNIDAD VII», sin título, con «Bibliografía obligatoria» y «Bibliografía complementaria» bajo cada una. No hay cronograma ni programa de prácticos separado",
+    "temaEspecial": "la fundamentación anuncia: «Como tema especial se desarrollará la ocupación y colonización de Guinea Ecuatorial, en el continente africano, a fin de desentrañar cómo el colonialismo hispano pervivió hasta la misma fase final de la dictadura franquista». La Unidad VII es la única dedicada a Guinea Ecuatorial; el programa no la rotula «tema especial»",
+    "bibliografia": 41,
+    "bibliografiaDetalle": "266 asientos bibliográficos en total: 1 manual general de lectura obligatoria + 85 obligatorias de las siete unidades (U I 6 · U II 13 · U III 11 · U IV 24 · U V 12 · U VI 15 · U VII 4) + 150 complementarias (U I 9 · U II 17 · U III 21 · U IV 34 · U V 24 · U VI 23 · U VII 22) + 6 «Fuentes» + 24 «Bibliografía general». De los 86 obligatorios, 52 traen volumen con pie editorial; 4 de ellos son actas de congreso y quedan fuera por la regla; los 48 restantes se unifican en 41 libros dibujados. 38 se excluyen (32 en revista, 5 en actas —4 con pie editorial y 1 sin él—, 1 sin pie editorial): 52 + 32 + 1 + 1 = 86 y 48 + 38 = 86"
+  },
+  "breadcrumb": [
+    {
+      "address": "uba",
+      "label": "UBA · plano general"
+    },
+    {
+      "address": "uba.ffyl",
+      "label": "Filosofía y Letras"
+    },
+    {
+      "address": "uba.ffyl.historia",
+      "label": "Historia"
+    },
+    {
+      "address": "uba.ffyl.historia.historia-de-espana",
+      "label": "Historia de España"
+    }
+  ],
+  "eyebrow": "Historia · Historia de España «A» · Angeli · 1º cuatrim. 2026",
+  "title": "Cómo surgió, se consolidó y desestructuró un imperio.",
+  "lede": "Siete unidades para ver «cómo surgió, se consolidó y desestructuró uno de los sistemas imperiales más icónicos de la Edad Moderna». Se entra por la historiografía: periodización y espacialidad de la Historia Española, los debates en torno al feudalismo español y el caso catalán, las categorías de “Reconquista”, “frontera” y “repoblación”, las controversias del siglo XX y la renovación post franquista. Sigue la crisis bajomedieval de los siglos XIII-XIV —nobleza, monarquía y ciudades, la expansión de la frontera hasta la Andalucía Bética, la coexistencia entre cristianos, judíos y musulmanes, la guerra civil y el ascenso de los Trastámara— y el camino hacia la centralización en el siglo XV: Audiencia, Chancilleria y regidores, consenso y coerción entre nobleza y monarquía, los Reyes Católicos, la expulsión de los judíos, la Inquisición y el “problema converso”, la empresa colonial africana y el avance sobre el Atlántico. Después el largo siglo XVI entre Europa y América: el interregno 1504-1516, Carlos V —Comunidades, Germanías, Flandes e Italia—, Felipe II y la Hacienda Real, la Corte en Madrid, el “problema” morisco, Portugal y la unión de coronas, la tradición virreinal aragonesa y los hombres del rey. Luego el siglo XVII y las interpretaciones sobre “el ocaso del Imperio”: Felipe III y los validos, la expulsión de los moriscos, la Guerra de los Treinta Años, los arbitrios, Felipe IV de las bancarrotas a la era del vellón, Olivares, la rebelión catalana y Portugal, la regencia de Mariana de Austria y Carlos II. Los Borbones cierran la península: la Guerra de Sucesión, la Ilustración española, el impacto de la Revolución Francesa, España en la Europa napoleónica, las Cortes de Cádiz y la Constitución de 1812. Y al final el tema especial que la fundamentación anuncia: Guinea Ecuatorial como «rémora de una grandeza perdida», de la conquista del siglo XVIII y los misioneros a la coyuntura republicana, el franquismo en África (1937-1969) y la descolonización.",
+  "meta": [
+    {
+      "k": "Régimen",
+      "v": "cuatrim.",
+      "small": "96 hs · PD"
+    },
+    {
+      "k": "Unidades",
+      "v": "7",
+      "small": "I a VII · una secuencia"
+    },
+    {
+      "k": "Grounding",
+      "v": "L2",
+      "small": "temas ✓ · biblio ✓"
+    },
+    {
+      "k": "Programa",
+      "v": "2026",
+      "small": "Angeli · 1º cuatrim."
+    }
+  ],
+  "frame": "Contenido real del programa de HISTORIA DE ESPAÑA “A”, Departamento de Historia (FFyL-UBA), cód. 0434 -14020, Prof. Sergio Angeli, 1º cuatrimestre 2026, publicado en historia.filo.uba.ar. Todo lo afirmado acá proviene de ese único PDF (26 páginas, con capa de texto nativa, extraído entero a extract/out/historia-espana-angeli-2026.txt), salvo la ubicación en el plan, que se declara como dato cruzado. SELECCIÓN DE CÁTEDRA, DECLARADA Y CONTADA EN LAS DOS DIRECCIONES: esta materia publica DOS programas para 2026, uno por cátedra, y las dos llevan letra. Se dibuja 1 de 2 (50%): el de la cátedra “A”, ANGELI, SERGIO, 1º cuatrimestre 2026, 26 páginas. NO se dibuja 1 de 2 (50%): el de la cátedra “B”, RODRÍGUEZ OTERO, MARIANO ELOY, 2º cuatrimestre 2026, 13 páginas, cuya portada fue leída directamente para esta ficha y dice, literalmente, «DEPARTAMENTO: HISTORIA», «CÓDIGO Nº: 0434/14020», «MATERIA: HISTORIA DE ESPAÑA “B”», «RÉGIMEN DE PROMOCIÓN: PD», «MODALIDAD DE DICTADO: Ajustado a lo dispuesto por REDEC-2024-2526-UBA-DCT#FFYL», «PROFESOR/A: RODRÍGUEZ OTERO, MARIANO ELOY», «CUATRIMESTRE: 2º», «AÑO: 2026»; su portada interior repite «CARGA HORARIA: 96 HORAS» y «2º CUATRIMESTRE 2026» y abrevia el nombre, «PROFESOR/A: RODRÍGUEZ OTERO, MARIANO E.» y «PROFESOR ADJUNTO A CARGO: RODRÍGUEZ OTERO, MARIANO E.»; su URL queda asentada en sources. Del programa de la cátedra “B” no se afirma nada más allá de esos campos de portada: sus contenidos y su bibliografía NO están indexados y no se les atribuye nada. Los contenidos, las unidades y la bibliografía de este nodo son los del programa de Angeli y de ningún otro. Las dos portadas no imprimen igual los mismos campos: la de Angeli dice «PROFESOR:» y «1º CUATRIMESTRE 2026» donde la de Rodríguez Otero dice «PROFESOR/A:» y «CUATRIMESTRE: 2º»; el código va «0434 -14020» en una y «0434/14020» en la otra. CÁTEDRA, cómo consta: la letra “A” está impresa dos veces en el propio documento, dentro de la línea de materia («MATERIA: HISTORIA DE ESPAÑA “A”» en la portada y «MATERIA: HISTORIA DE ESPAÑA ”A”» en la portada interior, con la comilla de apertura invertida). La palabra «cátedra» aparece ocho veces, siempre con acento, y solo tres designan a este equipo: «La cátedra pondrá atención al fomento de estrategias didácticas variadas» (objetivo general), «(ficha de cátedra)» (asiento de Menjot, U I) y «(selección de la cátedra)» (asiento de Egido, Fuentes). Las otras cinco son cuatro veces el nombre de la editorial madrileña Cátedra (asientos de Hernández Franco, Soria Mesa, Molas Ribalta y García Cárcel) y una la pauta reglamentaria copiada del REDEC («no cuenten con una estructura de cátedra que permita desdoblar las clases teóricas»). La forma sin acento no aparece. EQUIPO DOCENTE, tal como se imprime: «PROFESOR: ANGELI, SERGIO» (portada y portada interior), «AYUDANTE DE PRIMERA: HERRERA, ESTEBAN» y «AYUDANTE DE PRIMERA: RIZZUTO, CLAUDIO CÉSAR»; la firma al pie va «Aclaración: Dr. Sergio Hernán Angeli» y «Cargo: Profesor Adjunto Interino». Tres apellidos del equipo reaparecen en la bibliografía: «Angeli, S. (2011)» (obligatoria de la U IV) y «Angeli, Sergio (2021)» (complementaria de la U V); «Rizzuto, C. (2021)» y «Rizzuto, C. C. (2023)» (Bibliografía general); y «Herrera, E.» como tercer compilador de La Ilustración Española: selección documental (Fuentes). El programa no afirma que sean las mismas personas; se registra la coincidencia. DATO CRUZADO: la ubicación de la materia —electiva del Ciclo de Orientación, una de las tres que se eligen de la lista, Plan 1985— viene del nodo padre uba.ffyl.historia, NO de este programa. LO QUE EL PROGRAMA NO IMPRIME y por lo tanto no se le atribuye: correlatividades (la cadena «correlativ» no aparece en el texto; lo que sí trae es el apartado g. Recomendaciones: «Se recomienda a les estudiantes haber cursado las materias Historia Medieval, Historia Moderna, Historia de América I (de los orígenes hasta la conquista) e Historia de América II (colonial)», que es una recomendación y no un régimen de correlatividades), plan de estudios (la cadena «plan de estudios» no aparece), ciclo y orientación (las cadenas «ciclo» y «orientaci» aparecen solo en «ciclo lectivo» y en «Programa de Orientación de la SEUBE», dentro de la pauta reglamentaria), tabla de equivalencias (la cadena «equivalenc» no aparece), resolución de aprobación del programa, título propio del programa (la portada consigna solo «MATERIA: HISTORIA DE ESPAÑA “A”»), cronograma de clases (la cadena «cronograma» no aparece), programa de prácticos separado (la cadena «PROGRAMA DE PR» no aparece), anexos (la cadena «Anexo» no aparece), desagregación de horas de teóricos y prácticos (las cadenas «horas semanales», «clases teóricas» y «trabajos prácticos» aparecen únicamente dentro de la pauta reglamentaria y del régimen de evaluación copiados) y a qué plan corresponde cada uno de los dos números del código. Las únicas normas citadas son REDEC-2024-2526-UBA-DCT#FFYL (pautas complementarias de dictado para el Ciclo Lectivo 2026), Res. (CD) Nº 4428/17 (Reglamento Académico, arts. 39º y 40º) y Res. (CD) Nº 1117/10 (RTARMEM). ESTRUCTURA: una sola secuencia de SIETE unidades en números romanos (Unidad I a Unidad VII) en el apartado c. Contenidos, cada una con un título y un párrafo de temas; no hay subdivisiones ni contenidos mínimos desagregados. El apartado d. Bibliografía repite las siete como «UNIDAD I» a «UNIDAD VII», sin título, y bajo cada una imprime «Bibliografía obligatoria» y «Bibliografía complementaria»; delante de todas va un «MANUAL GENERAL DE LECTURA OBLIGATORIA» de un solo asiento y detrás de la Unidad VII, dos bloques más, «Fuentes» y «Bibliografía general». La fundamentación anuncia «Como tema especial se desarrollará la ocupación y colonización de Guinea Ecuatorial»; la Unidad VII es la única cuyo título y cuya bibliografía tratan Guinea Ecuatorial, pero el programa no la rotula «tema especial» y acá no se la rotula. El apartado b. Objetivos imprime un objetivo general (b.1) y seis específicos (b.2); no se dibujan como grupo. RÉGIMEN: PD —PROMOCIÓN DIRECTA— con 3 (tres) instancias de evaluación parcial calificadas según los artículos 39º y 40º del Reglamento Académico. Opción A: asistir al 80% de cada instancia de la cursada y aprobar las 3 instancias con promedio igual o superior a 7 puntos, sin aplazo. Opción B: asistir al 75% de las clases de trabajos prácticos o equivalentes, aprobar las 3 instancias (o sus recuperatorios) con mínimo de 4 y promedio entre 4 y 7, y rendir un EXAMEN FINAL con nota mínima de 4. UN (1) RECUPERATORIO por ausencia o desaprobación de una instancia; desaprobar más de una es pérdida de la regularidad. Corrección en un plazo máximo de 3 (tres) semanas. Vigencia de la regularidad: 4 (cuatro) años y 3 (tres) mesas examinadoras. El apartado f. conserva la instrucción de la plantilla, «[Deje solo la columna de la opción seleccionada y borre la columna que no corresponda]», y dice «Para ambos regímenes:» aunque solo imprime el régimen PD. SELECCIÓN Y EXCLUSIONES DECLARADAS, con la cuenta en las dos direcciones: el PDF trae 266 asientos bibliográficos, repartidos en cuatro zonas: 86 obligatorios —el manual general (1) y las obligatorias de las siete unidades (U I 6 · U II 13 · U III 11 · U IV 24 · U V 12 · U VI 15 · U VII 4)—; 150 complementarios (U I 9 · U II 17 · U III 21 · U IV 34 · U V 24 · U VI 23 · U VII 22); 6 en «Fuentes»; y 24 en la «Bibliografía general». LA REGLA, aplicada en los dos sentidos: se dibujan como libro los volúmenes con pie editorial que no sean revista ni actas, de la zona OBLIGATORIA —los 86 asientos del manual general y de las obligatorias de las siete unidades—; un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo. De esos 86 asientos, 52 traen volumen con pie editorial; 4 de ellos son actas de congreso y quedan fuera por la regla; los 48 restantes se unifican en 41. 38 NO se dibujan: 32 por tener como contenedor una revista, 5 por tener como contenedor unas actas de congreso, semana o encuentro —4 de ellas con pie editorial impreso («Ávila: Fundación Sánchez-Albornoz», «Valladolid: Universidad de Valladolid» dos veces y «Cuenca: ediciones de la Universidad de Castilla-La Mancha») y 1, la Semana de Nájera, con «Logroño» y sin editorial—, y 1 por ser un capítulo de obra colectiva impresa sin pie editorial. Los 48 con volumen, al unificar los repetidos, dan 41 libros, y 41 son los que se dibujan: ningún asiento con pie editorial de la zona obligatoria queda fuera salvo esas 4 actas, y nada de lo excluido aparece como libro. La cuenta cierra en los dos sentidos: 52 + 32 + 1 + 1 = 86, y 48 + 38 = 86. NO SE DIBUJA NINGUNA de las 180 entradas de las zonas restantes: las 150 complementarias, las 6 de «Fuentes» y las 24 de la «Bibliografía general». LOS 38 ASIENTOS OBLIGATORIOS EXCLUIDOS, uno por uno. U I (4): de Ayala Martínez en la Revista del Centro de Estudios Históricos de Granada y su Reino 32, García Fitz en Clío & Crimen 6, González de Fauve en Cuadernos de historia de España 77 y Menjot en E-Spania 8 («ficha de cátedra»). U II (4): Cantera Montenegro en Espacio, Tiempo y Forma III 11 y Ladero Quesada en Espacio, tiempo y forma III 4 (revistas); Hinojosa Montalvo en Cristiandad e Islam en la Edad Media Hispana: XVIII Semana de Estudios Medievales, Nájera 2007 («Logroño», sin editorial) y Quintanilla Raso (1999) en La nobleza peninsular en la Edad Media. VI congreso de Estudios Medievales (actas). U III (5): Araus Ballesteros en En la España medieval 48, Losa Contreras en la Revista de la Inquisición 22, Quintanilla Raso (2004) en Medievalismo 14 y Rodríguez López en Vínculos de Historia 2 (revistas); Salvador Esteban en Isabel la Católica y su época: actas del Congreso Internacional (actas). U IV (9): Angeli en Revista Fundación X, Barrio Gozalo en el Anuario de historia de la Iglesia 31, Catalán Martínez en Hispania sacra 56/113, Checa Cremades en Anales de Historia del Arte 1, Garriga (2000) en Initium 5, Garriga (2004) en Istor 16, Ribot García en el Boletín de la Real Academia de la Historia 220/2 y Rivero Rodríguez (2004) en Studia historica. Historia moderna 26 (revistas); Álvarez-Ossorio Alvariño (1997) en La Lombardia spagnola: nuovi indirizzi di ricerca, obra colectiva sin pie editorial. U V (4): Amadori (2008) en la Revista Complutense de Historia de América 34, Amadori (2009) en el Anuario de Estudios Americanos 66/2 y Simal López en Libros de la Corte 5 (revistas); Elliott (1990) en La España del Conde Duque de Olivares: encuentro Internacional celebrado en Toro (actas). U VI (8): Agüero (2023) en Prudentia iuris 96, Anes Álvarez de Castrillón en Cuadernos Dieciochistas 1, Clavero (2013) en la Revista española de la función consultiva, Estrada Sánchez en Edades 11, Garriga (2017) en Dimensões 39, López Díaz en Ohm 29 y Portillo en la Revista de Occidente 445 (revistas); Garriga (2002) en Derecho y administración pública en las Indias hispánicas: Actas del XII Congreso Internacional de Historia del Derecho Indiano (actas). U VII (4): Campos Serrano en Quaderni fiorentini 2, Cortés López en Studia histórica. Historia moderna 9, Nerín en Historia Social 105 y Ortega-Del-Cerro en la Revista de Historia Moderna 38. VOLÚMENES UNIFICADOS, 14 asientos plegados en 7 nodos, dos asientos cada uno: Historia de España de la Edad Media, Álvarez Palenzuela coord. (de Ayala Martínez y García Turza, U II); La gobernación de la Monarquía de España, Barrios Pintado (U III y U IV); La Inquisición española, Kamen (U III y U IV, asiento idéntico); Manual de Historia del Derecho, Lorente y Vallejo (U II y U VI); Historia económica de España, Comín, Hernández y Llopis eds. (Yun Casalilla, U IV y U V); Los Validos, Escudero coord. (Feros y Thompson, U V); Felipe V y su tiempo, Serrano ed. (Álvarez-Ossorio y Molas Ribalta, U VI). CONSECUENCIA REGISTRADA: la Unidad VII no aporta ningún libro —sus cuatro obligatorias son artículos de revista— y la Unidad I aporta dos de seis. Dos autores tienen dos volúmenes distintos cada uno que no se confunden: Barrios Pintado es autor de La gobernación de la Monarquía de España (2015) y coordinador de El gobierno de un Mundo (2004); Kamen firma La Inquisición española (2013) y Felipe de España (1998). CONTRADICCIONES REGISTRADAS, NO RESUELTAS. (1) Código: la portada imprime «CÓDIGO Nº: 0434 -14020» y la portada interior «CÓDIGO Nº: 0434-14020»; la portada de la otra cátedra, «0434/14020». (2) Letra de cátedra: «HISTORIA DE ESPAÑA “A”» en la portada y «HISTORIA DE ESPAÑA ”A”» en la portada interior. (3) Arco temporal: la fundamentación dice «desde la Baja Edad Media hasta las Cortes de Cádiz en 1812»; el primer objetivo específico, «a partir del siglo XIII y hasta el siglo XIX»; el último, «durante los siglos XIX y XX»; y la Unidad VII llega a «(1937-1969)». (4) Felipe V y su tiempo, Serrano (Ed.): fechado (2000) en el asiento de Álvarez-Ossorio y (2004) en el de Molas Ribalta, ambos obligatorios de la U VI, con el pie «Zaragoza: Fundación “Fernando el católico” (CSIC)»; la complementaria de la misma unidad (Armillas y Berta Pérez) lo asienta «Felipe V y su tiempo. Congreso Internacional, Tomo II, Zaragoza: CSIC». (5) Dufour, La Inquisición en España (1992): «Madrid: Cambio» en la complementaria de la U III, «Madrid: Cambio 16» en la Bibliografía general. (6) Nerín (1997), «Mito franquista y realidad de la colonización de la Guinea Española»: asentado dos veces en la complementaria de la U VII, como «Nerín, G.» en «Estudios de Asia y África, N°102» y como «Nerín Abad, G.» en «Estudios de Asia y África, Vol. 32», la segunda con «Guinea española» en minúscula. (7) Nerín (2023), «La larga sombra del franquismo tropical»: el mismo asiento figura a la vez en la obligatoria y en la complementaria de la U VII. (8) Simon i Tarres, Història de Catalunya: «Barcelona: L’esfera dels llibres» en la complementaria de la U V y «Barcelona: L'esfera Dels Llibres» en la de la U VI, con distinto apóstrofo y distintas mayúsculas. (9) Floristán: «Floristán Imízcoz» con tilde en la complementaria de la U II, «Floristán Imizcoz» sin tilde dos veces en la obligatoria de la U III y «Floristán, A.» en la Bibliografía general; el asiento de la U III da «Ariel, 2011» sin ciudad y sin «(coord.)», la Bibliografía general «(coord.) (2011) … Barcelona: Ariel». (10) «Pérez, J. (1988)» en la obligatoria de la U III y «Perez, J. (1996)» en la complementaria de la U IV, seguido de un asiento con guiones de repetición, «(2001), Los comuneros, Madrid», sin editorial; el programa no dice si son la misma persona. (11) Álvarez-Ossorio: «Álvarez-Ossorio Alvariño, A.» en tres asientos de la U IV, «Álvarez-Ossorio, A.» en la obligatoria de la U VI y «A. Álvarez-Ossorio» como director en la complementaria de la U IV. (12) «Ruiz Ibáñez» en la obligatoria de la U II y «Ruíz Ibáñez» en la complementaria de la U II y en la obligatoria de la U V. (13) Nombres de revista con grafía alternante: «Cuadernos de historia de España», «Cuadernos de Historia De España» y «Cuadernos de Historia de España»; «Anuario de Estudios Americanos» y «Anuario de estudios americanos»; «Espacio, Tiempo y Forma. Serie III. Historia Medieval», «Espacio, tiempo y forma. Serie III, Historia medieval» y «Espacio, Tiempo y Forma. Historia Medieval». (14) La misma editorial va «Ediciones Polifemo» en tres asientos y «Polifemo» en el de Rey Hazas. ERRATAS Y RAREZAS DEL ORIGINAL, CONSERVADAS TAL COMO ESTÁN IMPRESAS: la fundamentación escribe «aspira que los y las estudiantes» (sin preposición); «Marcials Pons» (Álvarez-Ossorio Alvariño 2024); «(1850-1640)» como rango de fechas en el título de Cortés López; «Cardim. P.»; «Elliott, J. H, (2017)»; «en J.I. De la Iglesia Duarte, J.I. (coord.)», con las iniciales repetidas; «Chancilleria» sin tilde (dos veces); «Nethanyahu»; «Iago, C.»; «Fernández Albadalejo»; «Lemperiere»; «pp.775-842» sin espacio; Amadori (2009) imprime el año dos veces; el asiento de Mendizábal, Borgognoni y Herrera no lleva año; Menéndez Pidal va «Historia de España, ed. T. XIV-XX»; el apartado f. abre un paréntesis y no lo cierra («Establecido en el Reglamento Académico (Res. (CD) Nº 4428/17.») y escribe «ausentes en una de examen parcial»; numerosos asientos abren comillas y no las cierran (Luis Corral, Nieto Soria 2024, Szmolka Clares, Lalinde Abadía, Mendizábal, Checa Cremades, Yun Casalilla 2002 en la U IV, Martínez Torres, Agüero 2023, Estrada Sánchez, López Díaz, Llopis Agelán, Campos Serrano, Ortega-Del-Cerro) y el de Kamen las cierra sin abrirlas («Cap. 9: Imagen y realidad del poder”»); Gómez Gómez anida comillas («“Que aya virrey en aquel reyno”: Vencer la distancia en el Imperio español”»); dos asientos usan comillas rectas en vez de tipográficas (García Sanz 1991, Elliott 1982) y uno las mezcla (Elliott 1990); seis asientos repiten autor con una línea de guiones; el asiento de Castro y de la Cale, en la complementaria de la U VII, es el único de todo el programa impreso sin guion inicial; y varios rangos llevan espacio tras el guion («pp. 301- 334», «pp. 877- 905», «1778- 1968», «nobleza- monarquía»). Ninguna se corrige. ARTEFACTOS DE EXTRACCIÓN, no del original: el PDF tiene 26 saltos de página y seis de ellos caen pegados al comienzo de un asiento bibliográfico (García de Valdeavellano, Kamen 2013 en la U III, Garriga 2000, Tau Anzoátegui 2004, De Castro y Ndongo, Suárez Cortina) y dos al rótulo «Bibliografía obligatoria» (U IV y U VI); la llamada de la nota 1 sale pegada al rótulo («EQUIPO DOCENTE:1») y el texto de esa nota («Los/as docentes interinos/as están sujetos a la designación que apruebe el Consejo Directivo para el ciclo lectivo correspondiente») se intercala entre el encabezado «b.2. Objetivos específicos» y su lista; en la portada, «REDEC-2024-2526-UBA-DCT#FFYL» sale partido en dos líneas; y en la bibliografía de la Unidad VII varios asientos salen con una línea en blanco en medio y sangría irregular. Son efectos del orden de lectura del PDF y no se le atribuyen al programa.",
+  "groups": [
+    {
+      "kind": "spine",
+      "eyebrow": "Contenidos · las 7 unidades (cátedra “A”, Angeli, 1º cuatrim. 2026)",
+      "title": "De la crisis bajomedieval a Cádiz, y de Cádiz a Guinea",
+      "note": "Las siete unidades numeradas en romanos del apartado c. Contenidos, en el orden impreso, cada una con su título y un párrafo de temas. El apartado d. Bibliografía las repite como «UNIDAD I» a «UNIDAD VII», sin título, y cuenta bajo cada una sus obligatorias y complementarias: los números del rol son ese conteo. El programa no trae cronograma, clases por unidad ni programa de prácticos separado.",
+      "map": {
+        "mk": "El programa, en siete unidades",
+        "tree": "HISTORIA DE ESPAÑA “A” · cód. 0434 -14020\nAngeli · 1º cuatrim. 2026 · 96 hs · PD\nde la Baja Edad Media a Cádiz 1812 · tema especial: Guinea Ecuatorial\n│\n├─ I · Tendencias historiográficas en la “Historia de España”\n│      periodización y espacialidad · el feudalismo español · el caso catalán\n│      “Reconquista”, “frontera”, “repoblación” · la renovación post franquista\n├─ II · La crisis en la España Bajomedieval (ss. XIII-XIV)\n│      nobleza, monarquía y ciudades · la frontera hasta la Andalucía Bética\n│      cristianos, judíos y musulmanes · guerra civil y Trastámara\n├─ III · El camino hacia la centralización (s. XV)\n│      Audiencia, Chancilleria, regidores · consenso y coerción\n│      los Reyes Católicos · expulsión de los judíos · Inquisición\n│      la empresa colonial africana y el avance sobre el Atlántico\n├─ IV · España entre Europa y América en el largo siglo XVI\n│      interregno 1504-1516 · Carlos V: Comunidades, Germanías, Flandes e Italia\n│      Felipe II y la Hacienda Real · la Corte en Madrid · el “problema” morisco\n│      Portugal y la unión de coronas · la tradición virreinal aragonesa\n├─ V · El siglo XVII y “el ocaso del Imperio”\n│      Felipe III y los validos · la expulsión de los moriscos · Treinta Años\n│      Felipe IV, bancarrotas y vellón · Olivares · Cataluña y Portugal\n│      Mariana de Austria · Carlos II · el problema de la sucesión\n├─ VI · Los Borbones, la Ilustración y la crisis del siglo XIX\n│      Guerra de Sucesión (1700-1714) · la Ilustración española\n│      Revolución Francesa · Europa napoleónica · Cádiz y la Constitución de 1812\n└─ VII · El ocaso imperial: Guinea Ecuatorial\n       conquista y colonización (s. XVIII) · misioneros (1850-1920)\n       la coyuntura republicana (1931-1936) · franquismo en África (1937-1969)\n       descolonización y retorno de los españoles guineanos",
+        "foot": "Esta materia publica dos programas para 2026: el de la cátedra “A” (Angeli, 1º cuatrimestre) y el de la cátedra “B” (Rodríguez Otero, 2º cuatrimestre). Acá se dibuja solo el de la cátedra “A”; del otro únicamente se leyó la portada, y sus contenidos no están indexados."
+      },
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u1-tendencias-historiograficas-en-la-historia-de-espana",
+          "name": "Tendencias historiográficas en la “Historia de España”: perspectivas de análisis y líneas de investigación",
+          "role": "Unidad I · 6 obligatorias · 9 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u2-la-crisis-en-la-espana-bajomedieval",
+          "name": "La crisis en la España Bajomedieval (ss. XIII-XIV)",
+          "role": "Unidad II · 13 obligatorias · 17 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u3-el-camino-hacia-la-centralizacion",
+          "name": "El camino hacia la centralización. España en la Europa mediterránea y los inicios de la proyección americana (s. XV)",
+          "role": "Unidad III · 11 obligatorias · 21 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u4-espana-entre-europa-y-america-en-el-largo-siglo-xvi",
+          "name": "España entre Europa y América en el largo siglo XVI",
+          "role": "Unidad IV · 24 obligatorias · 34 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u5-el-siglo-xvii-espanol-y-el-ocaso-del-imperio",
+          "name": "El siglo XVII español y las interpretaciones sobre “el ocaso del Imperio”",
+          "role": "Unidad V · 12 obligatorias · 24 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u6-los-borbones-la-ilustracion-y-la-crisis-del-siglo-xix",
+          "name": "Los Borbones, los tiempos de la Ilustración y la crisis del siglo XIX",
+          "role": "Unidad VI · 15 obligatorias · 23 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.u7-el-ocaso-imperial-guinea-ecuatorial",
+          "name": "El ocaso imperial: Guinea Ecuatorial, rémora de una grandeza perdida",
+          "role": "Unidad VII · 4 obligatorias · 22 complementarias",
+          "tag": "unidad",
+          "kind": "unit"
+        }
+      ]
+    },
+    {
+      "kind": "books",
+      "eyebrow": "Bibliografía obligatoria y manual general · volúmenes",
+      "title": "Lo que se lee",
+      "note": "Los 41 volúmenes con pie editorial de los 86 asientos de la zona obligatoria del programa: el manual general de lectura obligatoria y las obligatorias de las siete unidades. Un capítulo o artículo dentro de una obra colectiva se dibuja como el volumen que lo contiene, y un volumen que reaparece en varios asientos se unifica en un solo nodo (Álvarez Palenzuela, Barrios Pintado, Kamen, Lorente y Vallejo, Comín-Hernández-Llopis, Escudero, Serrano). No se dibujan los 38 asientos obligatorios cuyo contenedor es una revista (32), unas actas (5) o una obra colectiva sin pie editorial (1): quedan declarados uno por uno en el frame. Tampoco se dibuja ninguna de las 180 entradas de las complementarias, de «Fuentes» ni de la «Bibliografía general». No indexados aún como libros (L3).",
+      "exits": [
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-alonso-garcia-breve-historia-de-los-austrias",
+          "name": "Breve historia de los Austrias — D. Alonso García (Nowtilus, Madrid, 2009 — así, editorial antes que ciudad)",
+          "role": "MANUAL GENERAL DE LECTURA OBLIGATORIA",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-garcia-de-cortazar-organizacion-social-del-espacio",
+          "name": "Organización social del espacio en la España medieval — J. A. García de Cortázar (Barcelona: Ariel, 1985) · pp. 10-42",
+          "role": "obligatoria · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-monsalvo-anton-historia-de-la-espana-medieval",
+          "name": "Historia de la España Medieval — J.M. Monsalvo Antón (Salamanca: Ediciones Universidad de Salamanca, 2014; el asiento no imprime «(ed.)» ni «(coord.)») · F. Luis Corral, «Aristocracia y campesinado en la época de formación del feudalismo (siglos VIII-X)» [comillas así impresas, sin cierre], pp. 99-121",
+          "role": "obligatoria · U I",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-dubet-ruiz-ibanez-las-monarquias-espanola-y-francesa",
+          "name": "Las monarquías española y francesa (siglos XVI-XVIII): ¿dos modelos políticos? — A. Dubet y J.J. Ruiz Ibáñez (Madrid: Casa de Velázquez, 2010) · T. Canet Aparisi, «La corona de Aragón. El modelo político y sus marcos históricos», pp. 3-16",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-alcala-judios-sefarditas-y-conversos",
+          "name": "Judíos sefarditas y conversos. La expulsión de 1492 y sus consecuencias — Á. Alcalá (ed.) (Valladolid: Ámbito, 1995) · J. Contreras Contreras, «Judíos, judaizantes y conversos en la península ibérica en los tiempos de la expulsión», pp. 457-477",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-alvarez-palenzuela-historia-de-espana-de-la-edad-media",
+          "name": "Historia de España de la Edad Media — V.A. Álvarez Palenzuela (coord.) (Barcelona: Ariel, 2014) · C. de Ayala Martínez, «La consolidación de las monarquías peninsulares», pp. 497-516; J. García Turza, «Organización política de los reinos cristianos», pp. 433-448 · el mismo volumen reaparece en las complementarias de las Unidades II y III y en la Bibliografía general",
+          "role": "obligatoria · U II (2 asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-garcia-de-cortazar-la-iglesia-en-el-reino-de-castilla",
+          "name": "La Iglesia en el reino de Castilla en la Edad Media (711-1475) — J.A. García de Cortázar (Madrid: Marcial Pons, 2021) · pp. 127-130, 144-168, 187-189 y 198-222",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-lorente-vallejo-manual-de-historia-del-derecho",
+          "name": "Manual de Historia del Derecho — M. Lorente y J. Vallejo (coords.) (Valencia: Tirant lo Blanch, 2012) · Cap. IV «El príncipe ante el derecho en la cultura del ius commune», pp. 139-176 (U II); Cap. 5, punto IV «La Reforma de la Monarquía Católica: Los decretos de Nueva Planta», pp. 214-222 (U VI)",
+          "role": "obligatoria · U II y U VI",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-monsalvo-anton-la-baja-edad-media-en-los-siglos-xiv-xv",
+          "name": "La Baja Edad Media en los siglos XIV-XV. Política y cultura — J.M. Monsalvo Antón (Madrid: Síntesis, 2000) · Cap.6 «Religión, sensibilidades espirituales y vulgarización del ideario católico», pp. 233-246",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-martinez-de-codes-gomez-la-cultura-del-entretenimiento",
+          "name": "La cultura del entretenimiento en los mundos de Carlos V: vida social, rituales, fiestas, juegos y espectáculos — R.M. Martínez de Codes y C. C. Gómez (Coord.) (Cáceres: Fundación Academia Europea e Iberoamericana de Yuste, 2024) · J. M. Nieto Soria, «La corte en la génesis medieval del estado moderno: la teatrocracia del poder» [comillas así impresas, sin cierre], pp. 27-52",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-palacios-ruiz-la-nobleza-en-espana",
+          "name": "La nobleza en España. Historia. Presente y perspectivas de futuro — L. Palacios Buñuelos y J.I. Ruiz Rodríguez (coords.) (Madrid: Dykinson, 2009) · F. Suárez Bilbao, «La nueva nobleza en la Baja Edad Media», pp. 71-121",
+          "role": "obligatoria · U II",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-barrios-pintado-la-gobernacion-de-la-monarquia-de-espana",
+          "name": "La gobernación de la Monarquía de España. Consejos, juntas y secretarios de la administración de cortes (1556-1700) — F. Barrios Pintado (Madrid: Centro de Estudios Políticos y Constitucionales, 2015) · Cap. VI, apartado 2 «Consejos con jurisdicción en una pluralidad de Reinos. El Consejo de la Inquisición», pp. 476-480 (U III); Cap. 5 «La polisinodia hispánica: consejos y juntas», pp. 295-333 (U IV)",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-floristan-historia-de-espana-en-la-edad-moderna",
+          "name": "Historia de España en la Edad Moderna — A. Floristán Imizcoz (Ariel, 2011; el asiento no imprime ciudad ni «(coord.)») · «La unión de Castilla y Aragón. Los reyes católicos (1474-1516)», pp. 133-160 · la Bibliografía general asienta el volumen «Floristán, A. (coord.) (2011) … Barcelona: Ariel»",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-kamen-la-inquisicion-espanola",
+          "name": "La Inquisición española. Mito e Historia — H. Kamen (Barcelona: Crítica, 2013) · Cap. 8 «Política frente a la herejía» y Cap. 9 «Imagen y realidad del poder» [impreso sin comilla de apertura], pp. 235-317 · asiento idéntico en las dos unidades",
+          "role": "obligatoria · U III y U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-ladero-quesada-la-espana-de-los-reyes-catolicos",
+          "name": "La España de los Reyes Católicos — M.A. Ladero Quesada (Madrid: Alianza, 2005) · pp. 40-55, 245-289, 300-342",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-nirenberg-religiones-vecinas",
+          "name": "Religiones vecinas. Cristianismo, Islam y Judaísmo en la Edad Media y en la actualidad — D. Nirenberg (Barcelona: Crítica, 2016) · sin páginas indicadas",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-perez-isabel-y-fernando",
+          "name": "Isabel y Fernando. Los Reyes Católicos — J. Pérez (Madrid: Nerea, 1988) · pp. 171-222",
+          "role": "obligatoria · U III",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-tau-anzoategui-aguero-el-derecho-local-en-la-periferia",
+          "name": "El Derecho local en la periferia de la Monarquía Hispana (siglos XVI-XVIII) — V. Tau Anzoátegui y A. Agüero (coords.) (Buenos Aires: Instituto de Investigaciones de Historia del Derecho, 2013) · A. Agüero, «Ciudad y poder político en el Antiguo Régimen. La tradición castellana», pp. 122-184",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-chacon-hernandez-familias-poderosos-y-oligarquias",
+          "name": "Familias, poderosos y oligarquías — F. Chacón Jiménez y J. Hernández Franco (eds.) (Murcia: Editorial Universidad de Murcia, 2001) · A. Álvarez-Ossorio Alvariño, «El arte de medrar en la corte: rey, nobleza y el código del honor», pp. 39-60",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-belenguer-historia-de-la-espana-moderna",
+          "name": "Historia de la España moderna desde los Reyes Católicos hasta Felipe II — E. Belenguer Cebrià (Madrid: Gredos, 2011) · Cap. V «La idea imperial de Carlos V», pp. 438-453",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-cardim-portugal-y-la-monarquia-hispanica",
+          "name": "Portugal y la Monarquía Hispánica (1550-1715) — P. Cardim [impreso «Cardim. P.»] (Marcial Pons: Madrid, 2017 — así, editorial antes que ciudad) · «El status político de Portugal en la Monarquía Hispánica», pp. 43-78, y «Condición política e identidad: El debate sobre el estatus de los territorios americanos en el mundo ibérico durante los siglos XVI y XVII», pp. 317-346",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-clavero-sevilla-consejo-y-audiencia",
+          "name": "Sevilla, Consejo y Audiencia: invitación a sus Ordenanzas de justicia — B. Clavero (Sevilla: Universidad de Sevilla, 1995) · «La importancia de llamarse Audiencia y apellidarse Corte», pp. 9-25",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-martinez-ruiz-pazzi-instituciones-de-la-espana-moderna-1",
+          "name": "Instituciones de la España Moderna 1. Las Jurisdicciones — E. Martínez Ruíz y M. Pazzi Pi (coords.) (Madrid: Actas Editorial, 1996; «Actas» es aquí el nombre de la editorial, no unas actas de congreso) · B. Clavero, «La Monarquía, el Derecho y la Justicia», pp. 15-38",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-elliott-espana-europa-y-el-mundo-de-ultramar",
+          "name": "España, Europa y el mundo de ultramar (1500-1800) — J. H. Elliott [impreso «Elliott, J. H,»] (Madrid: Taurus, 2017) · Cap. 1 «Una Europa de monarquías compuestas», pp. 29-40",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-rivero-gaudin-que-aya-virrey-en-aquel-reyno",
+          "name": "“Que aya virrey en aquel reyno”: Vencer la distancia en el Imperio español — M. Rivero Rodríguez y G. Gaudin (Madrid: Ediciones Polifemo, 2020) · M. Gómez Gómez, «El Consejo Real de las Indias: Casa, Corte y Chancilleria» [así impreso], pp. 85-117",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-kamen-felipe-de-espana",
+          "name": "Felipe de España — H. Kamen (Madrid, Siglo XXI, 1998) · Cap. 8 «El estadista», pp. 222-255",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-morgado-garcia-ser-clerigo-en-la-espana-del-antiguo-regimen",
+          "name": "Ser clérigo en la España del Antiguo Régimen — A. Morgado García (Cádiz: Servicio de Publicaciones de la Universidad de Cádiz, 2000) · Cap. 1 «El impacto de la reforma católica», pp. 11-26",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-parker-felipe-ii-la-biografia-definitiva",
+          "name": "Felipe II. La biografía definitiva — G. Parker (Barcelona, Planeta, 2013) · Cap. 12 «Años de cruzada. 1568-1572», pp. 507-572, y «Epílogo», pp. 985-1004",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-chuecas-sullon-orbe-portugues",
+          "name": "Orbe Portugués. Identidades, Tránsitos y Vínculos Sociales en la Diáspora Portuguesa de la Edad Moderna — I. Chuecas Saldías y G. Sullón Barreto (Ed) (Lisboa, CHAM, 2024) · R. Valladares, «¿Una política compuesta? Portugueses y españoles de ultramar durante la Unión de Coronas, 1580-1640», pp. 17-36",
+          "role": "obligatoria · U IV",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-comin-hernandez-llopis-historia-economica-de-espana",
+          "name": "Historia económica de España (siglos X-XX) — F. Comín, M. Hernández y E. Llopis (eds.) (Barcelona: Crítica, 2002) · B. Yun Casalilla, «El siglo de la hegemonía castellana (1450-1590)» [comillas así impresas, sin cierre], pp. 51-83 (U IV), y «Las raíces del atraso económico español: crisis y decadencia (1590-1714)», pp. 85-120 (U V) · el mismo volumen reaparece en la complementaria de la U VI (Llopis Agelán)",
+          "role": "obligatoria · U IV y U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-elliott-el-conde-duque-de-olivares",
+          "name": "El Conde-Duque de Olivares. El político en una época de decadencia — J.H. Elliott (Madrid: Planeta, 2004) · Cap. V «Programa de renovación», Cap. VIII «El primer ministro» y Cap. XIV «1640», pp. 202-237 y 607-658",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-elliott-poder-y-sociedad-en-la-espana-de-los-austrias",
+          "name": "Poder y sociedad en la España de los Austrias — J.H. Elliott (ed.) (Barcelona: Crítica, 1982) · J.H. Elliott, «Introspección colectiva y decadencia en España a principios del siglo XVII», pp. 198-223 · el mismo volumen reaparece en la complementaria de la U V (Iago)",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-escudero-los-validos",
+          "name": "Los Validos — J.A. Escudero (Coord.) (Madrid: Dykinson, 2004) · A. Feros, «El duque de Lerma: valimiento y construcción de un nuevo paradigma político», pp. 63-80; I. Thompson, «El valido arbitrista: el Conde-duque de Olivares y el valimiento de su tiempo», pp. 311-322",
+          "role": "obligatoria · U V (2 asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-mazin-ruiz-ibanez-las-indias-occidentales",
+          "name": "Las Indias Occidentales: procesos de incorporación territorial a las monarquías ibéricas (siglos XVI al XVIII) — O. Mazín Gómez y J.J. Ruíz Ibáñez (eds.) (México: El Colegio de México, 2012) · F. X. Gil Pujol, «Integrar un mundo. Dinámicas de agregación y de cohesión en la Monarquía de España», pp. 69-108 · la complementaria de la U II asienta el volumen como «Mazín, O. y Ruíz Ibáñez, J. J., Las Indias occidentales. Procesos de incorporación territorial a las Monarquías ibéricas, México, El Colegio de México»",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-rivero-rodriguez-el-conde-duque-de-olivares",
+          "name": "El conde duque de Olivares. La búsqueda de la privanza perfecta — M. Rivero Rodríguez (Madrid, Ediciones Polifemo, 2017) · Cap. I «El conde-duque en la memoria y en la Historia», pp. 15-65 · la complementaria de la U V remite al mismo volumen con otro recorte: Introducción y Cap. II «Un nuevo estilo de valimiento», pp. 7-14 y 65-118",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-rey-hazas-la-corte-del-barroco",
+          "name": "La corte del barroco: Textos literarios, avisos, manuales de corte, etiqueta y oratoria — A. Rey Hazas, M. de la Campa Gutiérrez y E. Jiménez Pablo (coords.) (Madrid: Polifemo, 2016) · M. Rivero Rodríguez [asentado con guiones de repetición bajo el asiento anterior], «El “gran memorial” de 1624 o la construcción imaginaria del conde duque de Olivares», pp. 53-80",
+          "role": "obligatoria · U V",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-serrano-felipe-v-y-su-tiempo",
+          "name": "Felipe V y su tiempo — Serrano Eliseo (Ed.) [así impreso, nombre tras apellido] (Zaragoza: Fundación “Fernando el católico” (CSIC); fechado 2000 en un asiento y 2004 en el otro) · A. Álvarez-Ossorio, «Felipe V en Italia. El Estado de Milán bajo la Casa de Borbón», pp.775-842; P. Molas Ribalta, «La monarquía de Felipe V», pp. 865-878 · la complementaria de la misma unidad lo asienta «Felipe V y su tiempo. Congreso Internacional, Tomo II, Zaragoza: CSIC»",
+          "role": "obligatoria · U VI (2 asientos)",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-fernandez-albadalejo-fragmentos-de-monarquia",
+          "name": "Fragmentos de monarquía. Trabajos de historia política — P. Fernández Albadalejo [así impreso] (Madrid: Alianza Editorial, 1992) · Parte III, Cap. 1 «La dinastía de los Borbones», pp. 353-380",
+          "role": "obligatoria · U VI",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-bellingeri-dinamicas-de-antiguo-regimen-y-orden-constitucional",
+          "name": "Dinámicas de Antiguo Régimen y orden constitucional: representación, justicia y administración en Iberoamérica, siglos XVIII-XIX — M. Bellingeri (coord.) (Torino: Otto Editore, 2000) · A. Lemperiere [así impreso], «La representación política en el imperio español a fines del Antiguo Régimen», pp. 55-76",
+          "role": "obligatoria · U VI",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-lynch-historia-de-espana-edad-moderna-crisis-y-recuperacion",
+          "name": "Historia de España. Edad moderna: Crisis y recuperación, 1598-1808 — J. Lynch (Barcelona: Crítica, 2005) · «La sucesión borbónica en la guerra y en la paz», pp. 322-355",
+          "role": "obligatoria · U VI",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.ffyl.historia.historia-de-espana.libro-barrios-pintado-el-gobierno-de-un-mundo",
+          "name": "El gobierno de un Mundo. Virreinatos y Audiencias en la América Hispánica — F. Barrios Pintado (coord.) (Cuenca: Universidad de Castilla-La Mancha, 2004) · V. Tau Anzoátegui, «Las Reformas Borbónicas y la creación de los nuevos virreinatos», pp. 431-446 · volumen distinto de La gobernación de la Monarquía de España, del mismo autor",
+          "role": "obligatoria · U VI",
+          "tag": "libro",
+          "kind": "book"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "label": "historia.filo.uba.ar · Programa de HISTORIA DE ESPAÑA “A”, cód. 0434 -14020, Prof. Sergio Angeli, 1º cuatrimestre 2026 (26 pp., PDF con capa de texto nativa) — alojado en el sitio de la carrera; el mismo archivo está enlazado desde la noticia «1º cuatrimestre 2026 · programas y horarios de materias y seminarios» a través de la carpeta de Google Drive «PROGRAMAS DE MATERIAS 1C 2026»",
+    "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0434_14020%20-%20HISTORIA%20DE%20ESPA%C3%91A%20-%20A%20-%20ANGELI%20-%201C%202026.pdf"
+  },
+  "sources": [
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE ESPAÑA “A”, «CÓDIGO Nº: 0434 -14020», «PROFESOR: ANGELI, SERGIO», «1º CUATRIMESTRE 2026», «RÉGIMEN DE PROMOCIÓN: PD», 26 pp. — fuente única de los contenidos, la bibliografía y los datos de cursada de este nodo; extracto local en extract/out/historia-espana-angeli-2026.txt. Enlazado también desde la noticia de programas y horarios del 1º cuatrimestre 2026 (carpeta de Drive «PROGRAMAS DE MATERIAS 1C 2026»)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0434_14020%20-%20HISTORIA%20DE%20ESPA%C3%91A%20-%20A%20-%20ANGELI%20-%201C%202026.pdf"
+    },
+    {
+      "label": "historia.filo.uba.ar · Programa de HISTORIA DE ESPAÑA “B”, «CÓDIGO Nº: 0434/14020», «PROFESOR/A: RODRÍGUEZ OTERO, MARIANO ELOY», «CUATRIMESTRE: 2º», «AÑO: 2026», «RÉGIMEN DE PROMOCIÓN: PD», «CARGA HORARIA: 96 HORAS», 13 pp. — el programa alternativo, NO dibujado: solo se leyó su portada para declarar la selección; sus contenidos y su bibliografía no están indexados. Extracto local en extract/out/historia-espana-rodriguez-otero-2026.txt; enlazado desde la noticia de programas y horarios del 2º cuatrimestre 2026 (carpeta de Drive «PROGRAMAS DE MATERIAS» 2C)",
+      "url": "https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/%5B0434%20-%2014020%5D%20-%20HISTORIA%20DE%20ESPA%C3%91A%20-%20B%20-%20RODR%C3%8DGUEZ%20OTERO%20-%202C%202026.pdf"
+    }
+  ]
+}

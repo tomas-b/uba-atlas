@@ -83,11 +83,11 @@ prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 | faculties | **13 / 13** — every career, ~2,640 courses, all from official sources |
 | Medicina | **43 / 44** — includes the 6 hospital rotations. The last course publishes no program, and its node says so |
 | Letras | **62 / 62 — complete** — five waves |
-| Historia | **21 / 38** — the full core cycle; ~3,700 bibliography entries counted |
+| Historia | **23 / 38** — the full core cycle + 2 of the orientation cycle; ~4,100 bibliography entries counted |
 | Computación | **18 / 20** courses + all **90 unit nodes** and 1 book node. The other 2 publish no syllabus, and their nodes say so |
 | Abogacía | **14 / 14** CPC courses + 81 unit nodes, plus the **8 CPO orientations** straight from the texto ordenado |
 | Filosofía | **11 / 11** required courses + 60 unit nodes. Languages, seminars and thesis are a gate on the plan, not drawn yet |
-| verified | **198 / 199** course nodes carry an adversarial verdict. The one without is Medicina's Bioinformática, drawn at L1 because it publishes no program |
+| verified | **200 / 201** course nodes carry an adversarial verdict. The one without is Medicina's Bioinformática, drawn at L1 because it publishes no program |
 | fabrications shipped | **0** |
 
 ## 🎯 Catches
@@ -103,6 +103,7 @@ prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 | Abogacía | all 8 orientation nodes verified by **re-counting 638 codes and 1,281 sections** from the raw grid |
 | Historia | **the loop refuted its own scout, twice**: a "newest that exists" 2017 program lost to the 2026 one, hiding in a Drive folder |
 | Historia | five nodes quoted a pdftotext artifact as "literal" text. **Five adversaries caught it independently** |
+| Historia | wave 2 (2 materias, 384 entries recounted): an "actas have no imprint" rule that was **false by 4**, and an *op. cit.* register entry that counted 4 where the PDF prints 5 in three spellings |
 | Computación | the whole subtree — **111 nodes, unit level** — verified in one wave; 3 fabrications caught |
 | Medicina | the last unverified course drew **8 of 11 units and 8 of 11 books** and called it "verbatim". The adversary re-parsed the scan and found the three of each it dropped |
 
