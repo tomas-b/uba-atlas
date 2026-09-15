@@ -11,7 +11,7 @@ fabricate**, and at 8,000+ addresses no human can check them. The answer here
 is not a better prompt — it is a topology: generation and audit never share
 context, and a script without an LLM gates every commit.
 
-## ⚙️ The flow
+## ⚙️ Flow
 
 | 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
 |---|---|---|---|---|
@@ -26,27 +26,13 @@ Writers and adversaries never share context. The adversary downloads the
 document again and counts everything again. The two derivations must agree.
 Each disagreement becomes a committed verdict file.
 
-## 🔬 One fabrication
+On a real node (*Paradigmas de Programación*):
 
-Course: *Paradigmas de Programación*. The five steps, on one node:
-
-1. **📄 A node is a file** — JSON: title, lede, the source's topics in the source's words, a `source` URL.
-
-2. **✍️ The researcher embellishes** — it glossed the logic paradigm as *«relaciones y deducción»*. The plan only says **«lógico»**.
-
-3. **⚔️ The verifier breaks, not reviews** — empty context. Re-download, hash, grep every claim. Zero hits → verdict `fabrication`, with the sentence, the line, and the repair.
-
-4. **📌 The verdict persists BEFORE the fix** — it records the pre-fix state. Nobody edits it again.
-
-5. **🔧 The fix edits only what the verdict lists** — and re-reads the cited line first. It cannot invent while it fixes.
-
-6. **🚦 The gate checks shape, not truth** — the LLM never has the last word on what enters the repo. This script does.
-
-7. **📦 One commit carries node + verdict** — the verdict says what was wrong; the diff shows what changed. [/audit.html](https://uba-atlas.vercel.app/audit.html) renders it all.
-
-8. **⚖️ Wrong verifier?** It happens. The fixer checked the real table header — *«Temas sugeridos 2019»* — and used it. The text wins over any agent.
-
-9. **🚫 A fix never re-researches** — it corrected the false *"no programa exists"* and cited the found syllabus. A rebuild is a new wave, with its own verification.
+- ✍️ The researcher glossed **«lógico»** as *«relaciones y deducción»* — the plan never says that.
+- ⚔️ The verifier grepped the claim against the re-downloaded plan: zero hits → verdict `fabrication`, persisted **before** any fix.
+- 🔧 The fix deleted the gloss — only what the verdict lists, re-reading the cited line first.
+- 📦 One commit carries the fixed node + its verdict. The diff is the proof; [/audit.html](https://uba-atlas.vercel.app/audit.html) renders it.
+- ⚖️ And when the verifier itself is wrong, the fixer checks the text — the text wins over any agent.
 
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
