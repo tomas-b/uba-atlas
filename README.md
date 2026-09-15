@@ -27,19 +27,15 @@ document behind it. Before anything ships, an adversary tries to break it.
 
 Step by step:
 
-1. **📄 A node is a file** — JSON: title, lede, the document's topics in the document's words, a source URL.
-
-2. **✍️ The researcher writes it** — one agent, one course. Sometimes it adds a sentence the document does not say.
-
-3. **⚔️ The verifier breaks** — empty context. It downloads the document again and checks every claim. A sentence with zero hits → `fabrication`.
-
-4. **📌 The verdict, before the fix** — saved to `verification/`. It records the pre-fix state and never changes.
-
-5. **🔧 The fix** — deletes what the verdict names. Nothing else.
-
-6. **🚦 The gate** — a script checks the shape of the whole graph. If it fails, nothing ships.
-
-7. **📦 One commit** — the node and its verdict, together. The diff is the proof.
+| | |
+|---|---|
+| **📄 A node is a file** | JSON: title, lede, the document's topics in the document's words, a source URL |
+| **✍️ The researcher writes it** | one agent, one course. Sometimes it adds a sentence the document does not say |
+| **⚔️ The verifier breaks** | empty context. It downloads the document again and checks every claim. Zero hits → `fabrication` |
+| **📌 The verdict, before the fix** | saved to `verification/`. It records the pre-fix state and never changes |
+| **🔧 The fix** | deletes what the verdict names. Nothing else |
+| **🚦 The gate** | a script checks the shape of the whole graph. If it fails, nothing ships |
+| **📦 One commit** | the node and its verdict, together. The diff is the proof |
 
 > **Nodes are files. Errors are sentences with a line number.
 > The verdict plus the git diff is the proof.**
