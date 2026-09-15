@@ -25,13 +25,21 @@ document behind it. Before anything ships, an adversary tries to break it.
 |---|---|---|---|---|
 | <sub>find the real document. This is the hard part.</sub> | <sub>one agent per course. It writes only what the document says.</sub> | <sub>one agent per node. It downloads the document again and checks every claim.</sub> | <sub>a small script. If it fails, nothing ships.</sub> | <sub>the node and its audit, in one commit.</sub> |
 
-What one catch looks like:
+Step by step:
 
-- ✍️ a writer adds a sentence that is not in the document
-- ⚔️ the adversary searches the document and finds nothing → verdict: `fabrication`
-- 📌 the verdict is saved **before** the fix, and never changes
-- 🔧 the fix deletes that sentence — nothing else
-- 📦 the node and the verdict ship together, in one commit
+1. **📄 A node is a file** — JSON: title, lede, the document's topics in the document's words, a source URL.
+
+2. **✍️ The researcher writes it** — one agent, one course. Sometimes it adds a sentence the document does not say.
+
+3. **⚔️ The verifier breaks** — empty context. It downloads the document again and checks every claim. A sentence with zero hits → `fabrication`.
+
+4. **📌 The verdict, before the fix** — saved to `verification/`. It records the pre-fix state and never changes.
+
+5. **🔧 The fix** — deletes what the verdict names. Nothing else.
+
+6. **🚦 The gate** — a script checks the shape of the whole graph. If it fails, nothing ships.
+
+7. **📦 One commit** — the node and its verdict, together. The diff is the proof.
 
 > **Nodes are files. Errors are sentences with a line number.
 > The verdict plus the git diff is the proof.**
@@ -81,7 +89,8 @@ prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 | Letras | **62 / 62 — complete** — five waves |
 | Historia | **21 / 38** — the full core cycle; ~3,700 bibliography entries counted |
 | Computación | **18 / 20** courses + all **91 unit nodes**. The other 2 publish no syllabus, and their nodes say so |
-| Abogacía | CPC + the **8 CPO orientations**, straight from the texto ordenado |
+| Abogacía | **14 / 14** CPC courses + 81 unit nodes, plus the **8 CPO orientations** straight from the texto ordenado |
+| Filosofía | **11 / 11** required courses + 60 unit nodes. Languages, seminars and thesis are a gate on the plan, not drawn yet |
 | verified | **100%** — every course node has an adversarial verdict |
 | fabrications shipped | **0** |
 
