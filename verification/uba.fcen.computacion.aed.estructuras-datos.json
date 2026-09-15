@@ -1,0 +1,27 @@
+{
+  "address": "uba.fcen.computacion.aed.estructuras-datos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 6,
+  "books_found": 2,
+  "not_found": [
+    "frame: «El diseño de estructuras cuya complejidad se justifica con lo visto en los bloques anteriores.» — editorial, not in plan L523-526 / wiki bullet 6 / aed-2024.txt L149-152. Repair: delete or mark editorial.",
+    "lede: «Y los tipos de datos inductivos que las modelan.» — 'que las modelan' asserts a relation no source states; sources just list 'Tipos de datos inductivos'. Repair: 'Y los tipos de datos inductivos.'",
+    "map.foot «Textos: Cormen, Sedgewick.» — the wiki attaches no topic to Cormen (only 'Circulante 681 332 Cormen en la Biblioteca Central') and says Sedgewick covers 'casi todos los temas'; the block assignment is editorial. Meanwhile the wiki's two block-specific items — the Splay Trees paper (ACM 32.3, 1985, pp. 652-686 → árboles balanceados) and Fagin et al. Extendible Hashing (ACM TODS 4.3, 1979 → hashing) — are exactly this block's bibliography and are not named. Repair: 'Textos: Cormen (CLRS); Sedgewick; papers: Sleator-Tarjan Splay Trees; Fagin et al. Extendible Hashing.'",
+    "source.label «Cuba-Wiki (cátedra, plan 2023)» — Cuba-Wiki is a student wiki whose portada disclaims cátedra endorsement (v-aed/cubawiki-aed.raw; portada: «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»). Repair: label it 'cubawiki.com.ar (wiki de estudiantes)' as the course node already does.",
+    "map.foot «Temas de la cátedra (DC, plan 2023)» — the topics are the Plan de Estudios' contenidos analíticos (extract/out/dc-plan-2023-v11-2025.txt L507-526) as re-bulleted by the wiki, not a cátedra document. The cátedra's real programa (RESCD-2024-975, bibliotecadigital programa_n20240975_3, v-aed/aed-2024.txt L136-157) has 8 bullets with topics these units never mention. Repair: 'Temas del Plan de Estudios 2023 (contenidos analíticos)' and cite the official programa.",
+    "meta Bloque «de 4» / eyebrow «B<n>» — no source has 4 blocks: plan contenidos analíticos = 5 paragraphs (L507-526), wiki = 6 bullets, official programa = 8 bullets. The 6→4 regrouping is declared only on the course node, not here. Repair: state 'bloque editorial n de 4 (ítems i-j de 6 de la wiki)' in meta.small or frame.",
+    "source.url https://computacion.dc.uba.ar/plan-de-estudios-2023/ contains none of the unit's topics (grep weakest/asintótico/hashing/colas in refresh-aed.txt and live HTML = 0 hits); the topics live in the linked PDF (Version-11_2025.pdf, L507-526) and on the wiki. Repair: point source.url at the PDF (or the wiki page) so claims are recoverable from source.url (law 1)."
+  ],
+  "omitted": [
+    "the wiki's two papers for this block (Splay Trees; Extendible Hashing) — v-aed/cubawiki-aed.raw, Bibliografía recomendada bullets 5-6.",
+    "vs. official programa (aed-2024.txt L149-152): TADs conjunto y diccionario as the target; Skip Lists; Splay Trees; algoritmos para el manejo de memoria externa."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Same source battery as B1. SURVIVED: frame sentences 1-2 = plan L523-526 / wiki bullet 6 (list of 5 structures + tipos de datos inductivos, complete, in order); tree 4 branches all sourced ('tablas de hash' ≈ 'hashing', fair); title 'Árboles, hashing y colas de prioridad' fair; no « » quotes; breadcrumb accurate; this is exit 4 of 4 and the last wiki item, order matches. REFUTED: editorial frame/lede sentences, foot's book assignment unsupported and missing the two papers the wiki explicitly ties to these topics, plus the shared mislabels (cátedra / de 4 / source.url)."
+}

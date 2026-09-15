@@ -1,0 +1,25 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.complejos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "frame 'Operaciones.' and lede-implied operations — no such item in the source block (L390: 'Forma binomial y forma trigonométrica/exponencial. Fórmulas de Moivre. Raíces n-ésimas de números complejos. Grupos de raíces de la unidad.') → delete 'Operaciones'",
+    "frame 'forma trigonométrica (polar)' and tree 'Formas · binomial, trigonométrica' — the source says 'forma trigonométrica/exponencial' (L390); 'polar' is substituted for and 'exponencial' dropped → 'forma trigonométrica/exponencial'",
+    "tree 'De Moivre · potencias' — 'potencias' is not in the source (L390 'Fórmulas de Moivre' only; also the source writes 'Moivre', not 'De Moivre') → 'Fórmulas de Moivre'",
+    "frame 'El cuerpo donde se completa la resolución de ecuaciones polinómicas' and lede 'El plano donde todo polinomio tiene sus raíces' — glosses of the TFA, which the source places in block 5 (L410), not in block 4 → cut or attribute to U5",
+    "title 'Los complejos y sus raíces.' — acceptable, but the block's fourth topic 'Grupos de raíces de la unidad' is dropped everywhere (frame, tree, lede)"
+  ],
+  "omitted": [
+    "L390: Grupos de raíces de la unidad (1 of the block's 4 sentences, dropped undeclared)",
+    "L390: forma exponencial"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "source = live DM page (HTTP 200, 2026-09-15) == extract/out/refresh-algebra-1.txt body verbatim (extract L345-475 == live L74-96, unit blocks and biblio identical); line refs below are into the extract. Block 4 = L385-390 (shortest block: 4 sentences). unidad=4, 'U4', 'de 5', breadcrumb 'Números complejos' match L385. Binomial/trigonométrica, Moivre, raíces n-ésimas recoverable. One added item ('Operaciones'), one relabel ('polar' for 'exponencial'), one of four sentences dropped. 'cuerpo de los números complejos' in lede is defensible via L400 (C listed as example of cuerpo). No quotes; foot and source.label truthful."
+}

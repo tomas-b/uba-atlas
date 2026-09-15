@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.numeracion-representacion",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "foot 'Bloque de los contenidos mínimos oficiales del Plan 2023' and source.label '· contenidos mínimos' mislabel the drawn detail: the sub-topics in the tree come from column 3 of the table on p.12, whose header is 'Temas sugeridos 2019' (l.428), not from column 2 'Temas del Plan' (the contenidos mínimos). The plan itself says col 3 'puede variar' and its implementation 'quedará a criterio del equipo docente' (ll.411-421). Only the block heading is a contenidos-mínimos sentence (ll.528-531). Repair: foot → 'Bloque de los «Temas del Plan» (contenidos mínimos) del Plan 2023; detalle de la columna «Temas sugeridos 2019», que «puede variar»'; source.label → '… · Temas del Plan + Temas sugeridos 2019 (p.12)'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Block 2 in source: 'Sistemas de Numeración y representación. Bases de numeración, sistemas de codificación (ASCII UTF, etc)' (ll.529-531). Tree's three lines (sistemas de numeración / bases de numeración / sistemas de codificación (ASCII, UTF, etc.)) reproduce it exactly; nothing added, nothing dropped. lede and title are fair compressions; frame's 'de símbolos' is a harmless gloss of ASCII/UTF coding. unidad 2 de 5, order matches. No quotes. Identical row in v07/2024 (extract/out/plan-comp-v07-2024.txt ll.518-533). Only defect is the shared label mislabel (col 3 = 'Temas sugeridos 2019', l.428). extract/out/dc-plan-2023-v11-2025.txt (live PDF re-fetched 2026-09-15, pdftotext -layout md5 6883acd7… identical to local extract; 20 pp)"
+}

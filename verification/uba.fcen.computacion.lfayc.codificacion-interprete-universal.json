@@ -1,0 +1,21 @@
+{
+  "address": "uba.fcen.computacion.lfayc.codificacion-interprete-universal",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 13,
+  "units_found": 13,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "source.url (computacion.dc.uba.ar/plan-de-estudios-2023/) does not recover the drawn topics: that page's LFAyC text (refresh-lfayc.txt:700, live 2026-09-15 identical) says only «autómatas, expresiones regulares, parsers». The tree/lede/frame come from cubawiki (v-lfayc/cubawiki.txt:33-45), which is named in source.label but has no URL on the unit. Repair: set source.url to https://www.cubawiki.com.ar/index.php/Lenguajes_Formales,_Aut%C3%B3matas_y_Computabilidad (or add sources[] with it) — Law 1.",
+    "map.foot says 'Unidad del programa publicado por Cuba-Wiki' but never says which of the wiki's 13 items this unit groups; meta 'de 7' counts drawn units, not the 13 source blocks (course discloses 'agrupadas de 13', unit does not). Repair: foot → 'Agrupa los ítems N–M del programa de 13 ítems que publica Cuba-Wiki (editorial)'.",
+    "lede «codificación de programas como datos, que habilita la construcción de un intérprete universal» and frame «codifica programas del lenguaje S++ para dar lugar a un intérprete universal» assert a causal chain the source does not state (wiki:40-41 are two flat items: 'Lenguaje S++ y codificación de programas' / 'Intérprete universal'). Repair: list them, don't link them.",
+    "'S++' exists only on the wiki (wiki:40); the official plan (746) names only 'Intérprete universal'. The unit is titled on a wiki-only token and does not say so. Repair: foot note 'S++ figura sólo en el programa de la wiki; el plan oficial nombra sólo el intérprete universal'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Groups wiki items 8-9 (cubawiki.txt:40-41). Live cubawiki (oldid 19408, fetched 2026-09-15) still lists the same 13 Programa items; DC plan page and both plan PDFs re-fetched, md5-identical to extract/out. Absence hunt for a bibliography: bibliotecadigital CL5/6 years 2023-2026 list no LFAyC programa; campus.exactas courses id 234/656/933/1329 login-gated; books_total 0 stands. Exits⇄files: 7/7, no orphans, no dangling. Tree = wiki items 8+9; numbering 5/7 consistent; meta small 'universalidad' is editorial but harmless. Official Plan v11/2025 contenidos analíticos for LAC (extract/out/dc-plan-2023-v11-2025.txt:733-752; live PDF md5 6883acd7… identical to local) are NOT used as ground; the course-level claim that the plan column 'coincide tema a tema con el programa de la wiki salvo por Gramáticas LR' is false: plan adds 'gramática' (734, 738), 'punto fijo' (747) and lacks 'S++' and 'Reducciones'."
+}

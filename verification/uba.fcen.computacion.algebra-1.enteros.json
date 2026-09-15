@@ -1,0 +1,28 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.enteros",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "frame 'El corazón aritmético del curso, con enfoque algorítmico' — 'enfoque algorítmico' is a pedagogical claim absent from the source (L380 names algorithms as topics: 'Algoritmo de división', 'Algoritmo de Euclides', 'Algoritmos probabilísticos de primalidad', 'Algoritmo criptográfico RSA' — it says nothing about an approach); the course verdict already refuted the sibling claim 'Desde 2013 el enfoque es algorítmico' → delete 'con enfoque algorítmico'",
+    "tree 'Teoremas · Teorema Chino del Resto' — the source names three theorems in this block (L380: 'Teorema Fundamental de la Aritmética', 'Teorema Chino del Resto', 'Pequeño Teorema de Fermat'); listing one under a 'Teoremas' branch misrepresents the block → 'Teoremas · TFA, Chino del Resto, Fermat'",
+    "lede 'su aplicación estrella — la criptografía RSA' — 'estrella' is editorial; source L380 says 'Aplicación: Algoritmo criptográfico RSA' → 'su aplicación: el algoritmo RSA'",
+    "frame 'aritmética modular' — source wording is 'Restos modulo m' and 'Congruencias' (L380); acceptable paraphrase but not the source's term → prefer 'restos módulo m'"
+  ],
+  "omitted": [
+    "L380: Aplicaciones del algoritmo de división: escrituras en distintas bases, sistemas de numeración",
+    "L380: escritura del mcd como combinación lineal; Números coprimos",
+    "L380: Teorema Fundamental de la Aritmética; Criba de Eratóstenes; aplicaciones del TFA (cantidad de divisores, mcd y mcm)",
+    "L380: criterios de divisibilidad; Grupos y Anillos (comparación de Z/mZ con Z)",
+    "L380: Ecuaciones lineales diofánticas y ecuaciones de congruencia; Sistemas de ecuaciones de congruencia",
+    "L380: Pequeño Teorema de Fermat; Algoritmos probabilísticos de primalidad de Euler-Fermat"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "source = live DM page (HTTP 200, 2026-09-15) == extract/out/refresh-algebra-1.txt body verbatim (extract L345-475 == live L74-96, unit blocks and biblio identical); line refs below are into the extract. Block 3 = L375-380 (the longest block of the programa, ~25 named items; the node keeps 8). unidad=3, 'U3', 'de 5', breadcrumb 'Números enteros' match L375. Title 'Divisibilidad, congruencias y RSA.' survives. Divisibilidad, primos, algoritmo de división, Euclides, mcd, congruencias, Teorema Chino del Resto, RSA all recoverable at L380. The ungrounded 'enfoque algorítmico' is the one claim with no anchor; it is a characterization, not an invented topic, so graded errors not fabrication. No quotes; foot and source.label truthful."
+}

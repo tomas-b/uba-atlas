@@ -1,0 +1,24 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.funcional-haskell",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 3,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "SOURCE URL DOES NOT CONTAIN THE CONTENT: source.url is https://computacion.dc.uba.ar/plan-de-estudios-2023/ (live text, v-intro/dc-plan-page.txt) whose only IP text is the 2-sentence description + carga horaria; none of the frame/tree topics are recoverable from it and the unit carries no sources[] entry for cubawiki. Repair: add sources[] with https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n (or point source.url there) — or better, re-ground on the official programa (below).",
+    "BLOCK COUNT '1/2/3 de 3' HAS NO GROUND: Cuba-Wiki (v-intro/cubawiki.txt:39-43) is 4 unnumbered paragraphs and names only two parts — Haskell «en la primera parte de la materia», Python «en la segunda parte» (l.41). The official programa RESCD-2024-975 (bibliotecadigital, v-intro/ip-2024.txt:134-145) has 4 bullets: especificación · paradigma funcional · paradigma imperativo · Validación y Verificación/Testing. Neither source has 3 blocks. Repair: re-ground on the official programa (4 units) or declare the 3-way split as editorial in the unit itself.",
+    "INTERNAL CONTRADICTION: frame says «La primera parte de la materia» (true to cubawiki.txt:41) while eyebrow says 'B2' and meta says 'Bloque 2 de 3'. Repair: pick one numbering; the source's is 'primera parte'.",
+    "tree/frame/lede add glosses not in the source: 'definición y composición' (composición de funciones appears nowhere in cubawiki.txt:42), 'pensar recursivamente', 'procesamiento de listas', 'resolver problemas definiendo y componiendo funciones', 'programar como definir y componer funciones'. Source lists only «Tipo de dato, Función, Recursión y Listas». Repair: strip the glosses or ground them on the official programa (ip-2024.txt:138-139: «mecanismo de reducción, transparencia referencial, recursión, pattern matching. Uso de listas»)."
+  ],
+  "omitted": [
+    "Official programa item 2 sub-topics absent: mecanismo de reducción, transparencia referencial, pattern matching (ip-2024.txt:138-139).",
+    "Wiki bibliography tied to this block — Learn You a Haskell «Hasta Chapter 6» (cubawiki.txt:231) — not surfaced at unit level; official programa lists haskell.org (ip-2024.txt:158)."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Frame's four topics are exactly cubawiki.txt:42. Title fair. Breadcrumb OK. foot truthful. No « » in unit. Survives on topic set; fails on numbering (source calls it the first part; node calls it block 2), on invented glosses (composition), and on the ungrounding source.url. OFFICIAL PROGRAMA EXISTS and is unused: bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_2 (RESCD-2024-975-E-UBA-DCT#FCEN, 1er cuat. 2024, Plan 2023; PDF /download/programa/programa_n20240975_2.pdf) lists 4 program items and 5 bibliography entries (v-intro/ip-2024.txt:146-163: Gries; Broda et al. Reasoned programming; python.org; haskell.org; Pezzè & Young). The course node calls this repository «todavía sin explotar»; the unit set grounds on a student wiki instead."
+}

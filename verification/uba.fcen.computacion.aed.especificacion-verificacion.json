@@ -1,0 +1,25 @@
+{
+  "address": "uba.fcen.computacion.aed.especificacion-verificacion",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 6,
+  "books_found": 0,
+  "not_found": [
+    "frame: «La cátedra usa apuntes propios para este bloque; no tiene un libro de texto asignado.» — FALSE NEGATIVE. Neither source says it. The wiki's own Bibliografía recomendada lists 'The Science of Programming ... Solo la parte de precondición mas débil' (v-aed/cubawiki-aed.raw, Bibliografía recomendada, bullet 1) — weakest precondition is THIS block's topic. The official programa RESCD-2024-975 (v-aed/aed-2024.txt L161-165, L168-169, L173-174) lists Gries 'The Science of Programming' 1989, Broda et al. 'Reasoned Programming' 1994, Leino 'Program Proofs' 2023, Balcázar 'Programación Metódica' 1993, Liskov-Guttag 'Abstraction and Specification' 1986, Peña Marí 'Diseño de Programas, Formalismo y Abstracción' 1998 — six specification/verification books. 'Apuntes propios' is invented: the wiki's Apuntes section is student material. Repair: drop the sentence; foot → 'Texto: Gries, The Science of Programming (precondición más débil); la wiki dice que especificación no tiene bibliografía «por el momento» — el programa oficial 2024 lista seis libros de especificación/verificación.'",
+    "map.foot «Sin bibliografía de libro para especificación.» — same false negative; contradicted by the wiki's Gries entry and by aed-2024.txt L160-178. Repair as above.",
+    "source.label «Cuba-Wiki (cátedra, plan 2023)» — Cuba-Wiki is a student wiki whose portada disclaims cátedra endorsement (v-aed/cubawiki-aed.raw; portada: «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»). Repair: label it 'cubawiki.com.ar (wiki de estudiantes)' as the course node already does.",
+    "map.foot «Temas de la cátedra (DC, plan 2023)» — the topics are the Plan de Estudios' contenidos analíticos (extract/out/dc-plan-2023-v11-2025.txt L507-526) as re-bulleted by the wiki, not a cátedra document. The cátedra's real programa (RESCD-2024-975, bibliotecadigital programa_n20240975_3, v-aed/aed-2024.txt L136-157) has 8 bullets with topics these units never mention. Repair: 'Temas del Plan de Estudios 2023 (contenidos analíticos)' and cite the official programa.",
+    "meta Bloque «de 4» / eyebrow «B<n>» — no source has 4 blocks: plan contenidos analíticos = 5 paragraphs (L507-526), wiki = 6 bullets, official programa = 8 bullets. The 6→4 regrouping is declared only on the course node, not here. Repair: state 'bloque editorial n de 4 (ítems i-j de 6 de la wiki)' in meta.small or frame.",
+    "source.url https://computacion.dc.uba.ar/plan-de-estudios-2023/ contains none of the unit's topics (grep weakest/asintótico/hashing/colas in refresh-aed.txt and live HTML = 0 hits); the topics live in the linked PDF (Version-11_2025.pdf, L507-526) and on the wiki. Repair: point source.url at the PDF (or the wiki page) so claims are recoverable from source.url (law 1)."
+  ],
+  "omitted": [
+    "vs. official programa (aed-2024.txt L139-145): Introducción a Lógica Proposicional y Primer Orden; Lenguaje de Especificación; especificación de problemas usando contratos; Especificación de Tipos Abstractos de Datos; invariantes de representación y función de abstracción — the unit set never consulted the official programa, so this block is thinner than the real one."
+  ],
+  "metadata_matches": false,
+  "verdict": "fabrication",
+  "notes": "Attacked frame, tree, title, lede, foot, source.label, metadata against: live DC page (0 topic hits), live Version-11_2025.pdf (pdftotext -layout md5 6883acd7… identical to extract/out/dc-plan-2023-v11-2025.txt; AED row L507-526), live 2023/06 Propuesta PDF (identical to extract/out/propuesta-plan.txt), live cubawiki raw wikitext, and the official programa found in bibliotecadigital CL5/6 year 2024 (programa_n20240975_3, RESCD-2024-975, signed Feuerstein/Galeotti). SURVIVED: frame sentences 1-3 and the 3-branch tree reproduce plan L507-512 / wiki bullets 1-2 verbatim-in-substance; title and lede are fair compressions; no « » quotes in the node; breadcrumb labels accurate; unit is exit 1 of the course and the 4 unit files ↔ 4 exits match. REFUTED: the 'no book / apuntes propios' claim is a false negative against BOTH the node's own declared source (wiki lists Gries for weakest precondition) and the official programa (6 spec/verification books). That is the load-bearing absence claim of this node → fabrication."
+}

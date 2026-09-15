@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.estructura-computador",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "lede 'el modo en que el software se conecta con el hardware', frame 'el vínculo entre el software y el hardware' and tree line 'Idea · conexión entre el software y el hardware' are NOT recoverable from source.url: the SD row of the v11 PDF says only 'Estructura de un computador' (l.528, col 3 has no further detail for this block; grep 'hardware' hits only ll.123,126,613,641 — none about SD). The phrase is verbatim from the DC page https://computacion.dc.uba.ar/plan-de-estudios-2023/ ('estudiamos la conexión entre el software y el hardware'), a document the unit does not cite and whose prose the parent course node explicitly declares 'NO se dibuja: contradice al documento del plan'. Repair: either add the DC page as a second source on this unit and mark the line as coming from it, or drop the line and reduce lede/frame to 'La estructura general de un computador'.",
+    "foot 'Bloque de los contenidos mínimos oficiales del Plan 2023' and source.label '· contenidos mínimos' mislabel the drawn detail: the sub-topics in the tree come from column 3 of the table on p.12, whose header is 'Temas sugeridos 2019' (l.428), not from column 2 'Temas del Plan' (the contenidos mínimos). The plan itself says col 3 'puede variar' and its implementation 'quedará a criterio del equipo docente' (ll.411-421). Only the block heading is a contenidos-mínimos sentence (ll.528-531). Repair: foot → 'Bloque de los «Temas del Plan» (contenidos mínimos) del Plan 2023; detalle de la columna «Temas sugeridos 2019», que «puede variar»'; source.label → '… · Temas del Plan + Temas sugeridos 2019 (p.12)'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked title, lede, frame, tree, foot, meta, breadcrumb, source.label against the SD rows (objetivo l.285-288 p.8; detail l.528-542 p.12; hours l.861; equivalence l.962). Block 1 in source = the single line 'Estructura de un computador' (l.528 col 3) — the tree's first Tema reproduces it; unidad 1 de 5 and order match my own split of col 2 into 5 sentences. No « » quotes in node. Course exits ↔ unit files: 5/5, no orphans, no dangling. Survived: title, breadcrumb, eyebrow, meta. Refuted: the software/hardware line (mis-sourced, not invented — it exists on the DC page) and the col-3-as-contenidos-mínimos label. extract/out/dc-plan-2023-v11-2025.txt (live PDF re-fetched 2026-09-15, pdftotext -layout md5 6883acd7… identical to local extract; 20 pp)"
+}

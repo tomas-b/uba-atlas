@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.alc.cuadrados-minimos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "frame opener 'El capítulo de aplicación.' — every chapter but I and III ends in 'Aplicaciones' (L332, L342, L347, L352); the source does not single out VI as the application chapter. Repair: drop the opener or say 'El cierre.'"
+  ],
+  "omitted": [
+    "map.tree drops 'Aplicaciones' (L352, last item of Capítulo VI) while the trees of Cap. II, IV and V keep it and this node's own frame keeps it. Repair: append '· aplicaciones' to the last tree line."
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked against Capítulo VI (L352). Frame reproduces all topics in order: formas bilineales + representación matricial; productos internos; vectores ortogonales; cuadrados mínimos; aproximación e interpolación; interpolación funcional; aplicaciones. Tree matches except the dropped 'Aplicaciones'. Title 'Ajustar lo que no tiene solución exacta: cuadrados mínimos' and lede gloss 'cómo ajustar cuando el sistema no tiene solución exacta' are definitional paraphrases of least squares, accepted. Address 'cuadrados-minimos' vs breadcrumb 'Formas bilineales' follows declared first-words convention. metadata.capitulo=6, 'Cap. VI', 'de 6' match."
+}

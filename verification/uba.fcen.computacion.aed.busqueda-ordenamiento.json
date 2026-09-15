@@ -1,0 +1,27 @@
+{
+  "address": "uba.fcen.computacion.aed.busqueda-ordenamiento",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 6,
+  "books_found": 1,
+  "not_found": [
+    "frame: «Su corrección y su costo. Los problemas clásicos donde el análisis de complejidad se vuelve concreto.» — neither sentence is in plan L521-522, wiki bullet 5, or aed-2024.txt L153-157. Repair: delete or mark editorial.",
+    "tree: «Búsqueda · técnicas y su costo» — 'técnicas' and 'costo' are not source words for this block. Repair: 'Búsqueda · algoritmos básicos y avanzados'.",
+    "map.foot «Texto: Sedgewick.» — wiki only says Sedgewick 'Toca casi todos los temas de la materia' (no block assignment); the official programa (aed-2024.txt L160-178) does NOT list Sedgewick at all. Repair: 'Sedgewick (según la wiki: casi todos los temas); el programa oficial 2024 no lo lista'.",
+    "source.label «Cuba-Wiki (cátedra, plan 2023)» — Cuba-Wiki is a student wiki whose portada disclaims cátedra endorsement (v-aed/cubawiki-aed.raw; portada: «ninguna cátedra tiene ninguna responsabilidad ni apoya lo que aquí se encuentra»). Repair: label it 'cubawiki.com.ar (wiki de estudiantes)' as the course node already does.",
+    "map.foot «Temas de la cátedra (DC, plan 2023)» — the topics are the Plan de Estudios' contenidos analíticos (extract/out/dc-plan-2023-v11-2025.txt L507-526) as re-bulleted by the wiki, not a cátedra document. The cátedra's real programa (RESCD-2024-975, bibliotecadigital programa_n20240975_3, v-aed/aed-2024.txt L136-157) has 8 bullets with topics these units never mention. Repair: 'Temas del Plan de Estudios 2023 (contenidos analíticos)' and cite the official programa.",
+    "meta Bloque «de 4» / eyebrow «B<n>» — no source has 4 blocks: plan contenidos analíticos = 5 paragraphs (L507-526), wiki = 6 bullets, official programa = 8 bullets. The 6→4 regrouping is declared only on the course node, not here. Repair: state 'bloque editorial n de 4 (ítems i-j de 6 de la wiki)' in meta.small or frame.",
+    "source.url https://computacion.dc.uba.ar/plan-de-estudios-2023/ contains none of the unit's topics (grep weakest/asintótico/hashing/colas in refresh-aed.txt and live HTML = 0 hits); the topics live in the linked PDF (Version-11_2025.pdf, L507-526) and on the wiki. Repair: point source.url at the PDF (or the wiki page) so claims are recoverable from source.url (law 1)."
+  ],
+  "omitted": [
+    "«String matching» — present in the official plan, both versions (extract/out/dc-plan-2023-v11-2025.txt L522; extract/out/plan-comp-v07-2024.txt L505), in the same sentence as 'búsqueda y ordenamiento básicos y avanzados'. Dropped undeclared; the wiki also lacks it, but the node cites the plan page as source.url. Repair: add 'String matching' to frame and tree.",
+    "vs. official programa (aed-2024.txt L153-157): búsqueda binaria; selection/insertion/merge/heap/quick sort; cota de complejidad de peor caso para ordenamiento por comparaciones; algoritmos por procesamiento de claves (radix sort); ordenamiento en memoria externa."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Same source battery as B1. SURVIVED: frame sentence 1 ('Algoritmos de búsqueda y de ordenamiento (sorting), básicos y avanzados') = wiki bullet 5 verbatim-in-substance and plan L521-522 minus String matching; title fair; lede grounded except 'con su análisis de complejidad' (soft, acceptable); no « » quotes; breadcrumb accurate. REFUTED: the plan's 'String matching' is silently dropped (law 2, topic dropped), two editorial frame sentences, foot assigns Sedgewick without source support and the official programa omits Sedgewick, plus the shared mislabels."
+}

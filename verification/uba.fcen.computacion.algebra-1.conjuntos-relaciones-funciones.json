@@ -1,0 +1,23 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.conjuntos-relaciones-funciones",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "tree 'Relaciones · pares, propiedades' — 'pares' and 'propiedades' are not the source's words; source L355 says 'definición, su representación como grafos. Relaciones de orden y equivalencia. Clases de equivalencia. Clausura transitiva.' → repair: 'Relaciones · orden, equivalencia, clases, clausura transitiva'",
+    "lede 'El vocabulario común de toda la matemática' and frame 'El lenguaje básico sobre el que se construye todo el curso' — editorial claims absent from the source (L350-360) → cut or mark as gloss"
+  ],
+  "omitted": [
+    "L350: Leyes de De Morgan; Cardinal de conjuntos finitos; Tablas de verdad y relación con lógica proposicional; Igualdad de conjuntos (diagramas de Venn, tablas); Producto cartesiano; Conjunto de Partes (y su cardinal)",
+    "L355: representación de relaciones como grafos; Relaciones de orden y equivalencia; Clases de equivalencia; Clausura transitiva",
+    "L360: Función inversa"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "source = live DM page (HTTP 200, 2026-09-15) == extract/out/refresh-algebra-1.txt body verbatim (extract L345-475 == live L74-96, unit blocks and biblio identical); line refs below are into the extract. Block 1 = L345-360. unidad=1, 'U1', 'de 5', breadcrumb label 'Conjuntos, relaciones y funciones' all match L345. Frame reproduces only the first sentence of the Conjuntos paragraph and 4 of the 5 function properties; ~12 named source topics dropped undeclared, incl. the whole order/equivalence-relation content. No invented mathematical topic; no « » quotes; foot 'Temas del programa oficial del DM' truthful; source.label accurate. Books are listed at materia level only (L419-444), none drawn here."
+}

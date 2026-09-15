@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.alc.normas-sistemas",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "map.foot: 'El condicionamiento es el hilo que reaparece en toda la materia' — in the source 'condicionamiento' occurs exactly once, in Capítulo II (L332); it does not appear in Capítulos I, III-VI (L327, L337-352). Repair: cut the sentence, or say 'El condicionamiento aparece en este capítulo' — or ground the claim in another cited source (none local supports it: plan v11 also lists it once, L689)."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked against Capítulo II (L332). Frame and tree reproduce all 11 sentence-topics in order: normas + equivalencia; Cauchy-Schwarz; triangular; normas matriciales; error y condicionamiento; sistemas lineales + solución; eliminación gaussiana (caso regular) + LU; matrices ortogonales + QR; aplicaciones. Title 'Medir el error y resolver: normas, condicionamiento, LU y QR' is a fair compression. Lede gloss 'cuánto amplifica el error una matriz' is a definitional paraphrase of 'error y condicionamiento'. Tree header 'NORMAS, SISTEMAS Y FACTORIZACIONES' differs from breadcrumb/exit name 'Normas, equivalencia de normas' — inconsistent labelling of the same unit, cosmetic. metadata.capitulo=2, 'Cap. II', 'de 6' match. Only defect is the unsourced foot claim above."
+}

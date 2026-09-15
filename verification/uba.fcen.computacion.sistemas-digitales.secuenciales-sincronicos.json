@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.sistemas-digitales.secuenciales-sincronicos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "foot 'Bloque de los contenidos mínimos oficiales del Plan 2023' and source.label '· contenidos mínimos' mislabel the drawn detail: the sub-topics in the tree come from column 3 of the table on p.12, whose header is 'Temas sugeridos 2019' (l.428), not from column 2 'Temas del Plan' (the contenidos mínimos). The plan itself says col 3 'puede variar' and its implementation 'quedará a criterio del equipo docente' (ll.411-421). Only the block heading is a contenidos-mínimos sentence (ll.528-531). Repair: foot → 'Bloque de los «Temas del Plan» (contenidos mínimos) del Plan 2023; detalle de la columna «Temas sugeridos 2019», que «puede variar»'; source.label → '… · Temas del Plan + Temas sugeridos 2019 (p.12)'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Block 5 in source: 'Circuitos secuenciales sincrónicos. Latch D. Flip Flop D. Sumadores, Contadores.' (ll.541-542). Tree's four lines reproduce it exactly. frame's 'construidos a partir de latch D y flip-flop D' adds a causal reading the source (a bare list) does not state — minor gloss, not a new topic. Title interpretive but fair for 'secuenciales sincrónicos'. unidad 5 de 5, order matches. No quotes. Only defect is the shared label mislabel. Absence check (not claimed by the unit, recorded for the course): the plan lists no bibliography (grep 'bibliograf' → 0 hits); cubawiki.com.ar/index.php/Sistemas_Digitales (student wiki, reachable 200) lists 5 books (Harris & Harris RISC-V ed.; Patterson & Hennessy RISC-V ed.; Null & Lobur; Tanenbaum & Austin; Stallings) and 2025 teóricas titled Representación / Lógica Combinatoria / Lógica Secuencial / Arquitectura / Microarquitectura + RISC-V prácticas — student-curated, not an official cátedra document, so the course's 'no se publica bibliografía a nivel de plan' stands, but a cátedra-level L2 source may exist off-site. No official cátedra page found (computacion.dc.uba.ar/materias/sistemas-digitales → 404). extract/out/dc-plan-2023-v11-2025.txt (live PDF re-fetched 2026-09-15, pdftotext -layout md5 6883acd7… identical to local extract; 20 pp)"
+}

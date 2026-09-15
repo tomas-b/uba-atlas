@@ -1,0 +1,25 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.fundamentos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 3,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "SOURCE URL DOES NOT CONTAIN THE CONTENT: source.url is https://computacion.dc.uba.ar/plan-de-estudios-2023/ (live text, v-intro/dc-plan-page.txt) whose only IP text is the 2-sentence description + carga horaria; none of the frame/tree topics are recoverable from it and the unit carries no sources[] entry for cubawiki. Repair: add sources[] with https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n (or point source.url there) — or better, re-ground on the official programa (below).",
+    "BLOCK COUNT '1/2/3 de 3' HAS NO GROUND: Cuba-Wiki (v-intro/cubawiki.txt:39-43) is 4 unnumbered paragraphs and names only two parts — Haskell «en la primera parte de la materia», Python «en la segunda parte» (l.41). The official programa RESCD-2024-975 (bibliotecadigital, v-intro/ip-2024.txt:134-145) has 4 bullets: especificación · paradigma funcional · paradigma imperativo · Validación y Verificación/Testing. Neither source has 3 blocks. Repair: re-ground on the official programa (4 units) or declare the 3-way split as editorial in the unit itself.",
+    "lede «Cómo especificar sin ambigüedad» / «la lógica que lo sostiene»: 'sin ambigüedad' and the logic-as-foundation claim are not in cubawiki.txt:40-41 (source says only 'se repasa lógica proposicional, y luego se ve lógica trivaluada' and 'un lenguaje semi-formal para especificar problemas'). Repair: drop the gloss or quote the source.",
+    "eyebrow/meta 'Bloque 1 de 3' contradicts the wiki's own numbering: the wiki's 'primera parte' is Haskell (l.41), so Fundamentos is not a numbered part at all — it is the introductory paragraph. Repair: label as 'introducción' or renumber against the official programa (item 1 = especificación de problemas, ip-2024.txt:136)."
+  ],
+  "omitted": [
+    "Official programa item 1 details absent: «precondición, postcondición, parámetros y tipos de datos» (ip-2024.txt:136-137).",
+    "Plan contenidos mínimos for IP (extract/out/dc-plan-2023-v11-2025.txt:431-441; propuesta-plan.txt:520-523) list «lógica de primer orden» and «Introducción al cálculo de complejidad algorítmica» — in no unit of the set.",
+    "No bibliography at unit level although the official programa lists Gries (ip-2024.txt:147) as the specification/logic text."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Re-fetched cubawiki live (40.8 KB, v-intro/cubawiki.txt): frame reproduces l.40-41 topic-for-topic (Problema, Algoritmo, Especificación, Diseño por contrato, Programa de computadora, Lenguajes y paradigmas, Tipos de datos, TADs, lógica proposicional, lógica trivaluada, lenguaje semi-formal) — nothing invented, nothing dropped from the wiki. Tree matches. Breadcrumb OK. foot 'Contenido según Cuba-Wiki (wiki de estudiantes, no oficial)' is truthful. No « » quotes in the unit. DC page live matches extract/out/refresh-intro-programacion.txt:638-642; propuesta PDF live md5 775e6d4e… identical to extract/out/propuesta-plan.txt. What fails: the source.url cannot ground the frame, the '1 de 3' count exists in no source, and an official programa (RESCD-2024-975) with 4 items + 5 books sits in the very repository the course node cites as unexplored. OFFICIAL PROGRAMA EXISTS and is unused: bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_2 (RESCD-2024-975-E-UBA-DCT#FCEN, 1er cuat. 2024, Plan 2023; PDF /download/programa/programa_n20240975_2.pdf) lists 4 program items and 5 bibliography entries (v-intro/ip-2024.txt:146-163: Gries; Broda et al. Reasoned programming; python.org; haskell.org; Pezzè & Young). The course node calls this repository «todavía sin explotar»; the unit set grounds on a student wiki instead."
+}

@@ -1,0 +1,26 @@
+{
+  "address": "uba.fcen.computacion.intro-programacion.imperativo-python",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 4,
+  "units_found": 3,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "SOURCE URL DOES NOT CONTAIN THE CONTENT: source.url is https://computacion.dc.uba.ar/plan-de-estudios-2023/ (live text, v-intro/dc-plan-page.txt) whose only IP text is the 2-sentence description + carga horaria; none of the frame/tree topics are recoverable from it and the unit carries no sources[] entry for cubawiki. Repair: add sources[] with https://www.cubawiki.com.ar/index.php/Introducci%C3%B3n_a_la_Programaci%C3%B3n (or point source.url there) — or better, re-ground on the official programa (below).",
+    "BLOCK COUNT '1/2/3 de 3' HAS NO GROUND: Cuba-Wiki (v-intro/cubawiki.txt:39-43) is 4 unnumbered paragraphs and names only two parts — Haskell «en la primera parte de la materia», Python «en la segunda parte» (l.41). The official programa RESCD-2024-975 (bibliotecadigital, v-intro/ip-2024.txt:134-145) has 4 bullets: especificación · paradigma funcional · paradigma imperativo · Validación y Verificación/Testing. Neither source has 3 blocks. Repair: re-ground on the official programa (4 units) or declare the 3-way split as editorial in the unit itself.",
+    "INTERNAL CONTRADICTION: frame says «La segunda parte de la materia» (cubawiki.txt:41) while eyebrow says 'B3' and meta 'Bloque 3 de 3'. Repair: pick one numbering.",
+    "frame/lede gloss «el estado y su evolución paso a paso» and tree headers 'Estado' / 'Control' are not in cubawiki.txt:43 (which lists only Variables, Procedimientos, Iteración, Referencias, TADs (Pilas, Colas y Arreglos)); 'transformación de estados' IS in the official programa (ip-2024.txt:140) but that source is not cited. Repair: cite it or drop the gloss.",
+    "lede «se implementan los primeros TADs»: source says «se ven … TADs», not that they are implemented — and TADs were already introduced in the Fundamentos block per the wiki (l.40). Repair: 'se ven'."
+  ],
+  "omitted": [
+    "Official programa item 3 sub-topics absent: «variables y memoria, pasaje de parámetros por valor y referencia, estructuras de control, ciclos. Uso de listas, pilas y colas. Uso de TADs» (ip-2024.txt:140-142).",
+    "Official programa item 4 — «Validación y Verificación de software. Testing. Criterios de caja negra y de caja blanca … control flow graph, cobertura de código» (ip-2024.txt:143-145) — is absent from the entire unit set; it is the 4th block of the real materia and no node carries it.",
+    "Official bibliography for this block absent: python.org (ip-2024.txt:155), Pezzè & Young Software testing and analysis (l.161)."
+  ],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Frame's topic list (Variables, Procedimientos, Iteración, Referencias, TADs: pilas, colas, arreglos) is exactly cubawiki.txt:43 — the 'Procedimientos' drop flagged on the course node is not repeated here. Breadcrumb OK. foot truthful. No « » in unit. Fails on numbering, source.url, minor glosses; and the set ends here while the official programa has a fourth item (testing). OFFICIAL PROGRAMA EXISTS and is unused: bibliotecadigital.exactas.uba.ar/collection/programa/document/programa_n20240975_2 (RESCD-2024-975-E-UBA-DCT#FCEN, 1er cuat. 2024, Plan 2023; PDF /download/programa/programa_n20240975_2.pdf) lists 4 program items and 5 bibliography entries (v-intro/ip-2024.txt:146-163: Gries; Broda et al. Reasoned programming; python.org; haskell.org; Pezzè & Young). The course node calls this repository «todavía sin explotar»; the unit set grounds on a student wiki instead."
+}

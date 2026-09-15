@@ -1,0 +1,25 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.naturales-induccion",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "frame 'Introducción a la combinatoria: conteo' and tree 'Conteo · combinatoria' — the source (L370) never says 'combinatoria'/'conteo' as a topic; it says 'Factorial y su interpretación combinatoria (biyecciones en conjuntos finitos). Número combinatorio y su interpretación combinatoria (subconjuntos…), escritura como suma de dos combinatorios, definición recursiva' → repair: 'Factorial y número combinatorio · interpretación combinatoria, suma de dos combinatorios, definición recursiva'",
+    "frame order puts 'Axiomas de Peano' second; source L370 opens with 'Definición intuitiva de los números naturales' and closes with 'Definición de los números naturales por los axiomas de Peano' → keep source order (intuitiva → inducción → sumatoria/productoria → factorial/combinatorio → inducción global/buena ordenación → Peano)",
+    "frame 'Principio de inducción (y sus variantes)' — 'variantes' hides the source's named items 'Inducción global y principio de buena ordenación' (L370) → name them"
+  ],
+  "omitted": [
+    "L370: Definición intuitiva de los números naturales",
+    "L370: Factorial y su interpretación combinatoria (biyecciones en conjuntos finitos)",
+    "L370: Número combinatorio, escritura como suma de dos combinatorios, definición recursiva",
+    "L370: Inducción global y principio de buena ordenación"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "source = live DM page (HTTP 200, 2026-09-15) == extract/out/refresh-algebra-1.txt body verbatim (extract L345-475 == live L74-96, unit blocks and biblio identical); line refs below are into the extract. Block 2 = L365-370. unidad=2, 'U2', 'de 5', breadcrumb 'Números naturales e Inducción' match L365 exactly. Title 'Inducción: demostrar para todo n.' and lede survive as fair compression (Peano + inducción are in source). 'Sumatorias y productorias' ✓ (L370 'Sumatoria y productoria'). No invented topic beyond the 'conteo/combinatoria' relabel; no quotes; foot and source.label truthful."
+}

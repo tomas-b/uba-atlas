@@ -1,0 +1,18 @@
+{
+  "address": "uba.fcen.computacion.alc.metodos-iterativos",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "lede: 'el gradiente conjugado, el método iterativo de referencia para sistemas grandes y ralos' — no source text supports 'de referencia', 'grandes' or 'ralos' (L342 reads only 'Subespacio de Krylov. Gradiente conjugado. Aplicaciones.'; grep for ralo/sparse/grandes over fcen-alc-cms.txt and dc-plan-2023-v11-2025.txt: zero hits). Already flagged by the 2026-09-12 course verdict and left unfixed. Repair: end the lede at '…el gradiente conjugado.'"
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked against Capítulo IV (L342). Frame/tree reproduce all topics in order: Jacobi, Gauss-Seidel, SOR, subespacio de Krylov, gradiente conjugado, aplicaciones. 'sobrerrelajación' expands the source's bare 'SOR' — standard acronym expansion, accepted. Lede opener 'Cuando resolver de forma directa no alcanza, se itera' is editorial framing, not a topic. Title fair. metadata.capitulo=4, 'Cap. IV', 'de 6' match. One unsourced characterization in the lede (above) is the only defect."
+}

@@ -1,0 +1,20 @@
+{
+  "address": "uba.fcen.computacion.paradigmas.funcional",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 3,
+  "units_found": 3,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "tree leaf 'Idea · la computación organizada alrededor de funciones' (also lede/frame/title) is absent from every source: the plan says only «Fundamentos de los principales paradigmas de programación» (l.589) / «Fundamentos de los paradigmas funcional, imperativo, lógico y OO» (l.588-589); the page says «Paradigmas funcional, lógico, de objetos, etc.» (refresh l.674). It is an editorial gloss drawn as a source topic. Repair: drop the leaf or mark it 'glosa editorial' outside the tree; keep 'fundamentos del paradigma funcional'.",
+    "source.url/label mismatch: source.label says «Plan 2023 (contenidos mínimos, documento oficial del plan)» but source.url is the HTML page https://computacion.dc.uba.ar/plan-de-estudios-2023/, which contains NO contenidos mínimos (live fetch 2026-09-15: 0 hits for 'Características básicas', 'Semántica formal', 'contenidos mínimos'; only the blurb at refresh-paradigmas.txt l.674). The drawn claims are recoverable only from the linked PDF (Plan-de-Estudios-Lic.-Cs-Computacion-Version-11_2025.pdf, l.586-591 of the extract). Repair: set source.url to the v11/2025 PDF (or add a `sources[]` entry for it) and keep the page as a second source.",
+    "meta[Eje].small 'de 5' + foot 'Eje de los contenidos mínimos oficiales' overstate the ground: the source prints 3 contenidos mínimos for PP (l.586-591), not 5; the 5-way split is the course node's own editorial fan-out (course metadata.unidadesFuente=3). Repair: foot → 'Despliegue editorial de los 3 contenidos mínimos del plan (eje N de 5 editoriales; contenido mínimo M de 3)' or meta small → 'de 5 · 3 en la fuente'."
+  ],
+  "omitted": [],
+  "metadata_matches": false,
+  "verdict": "errors",
+  "notes": "Source identity: live PDF v11/2025 re-fetched and pdftotext -layout → md5 6883acd7f01b739b896c5c2b0269af49, identical to extract/out/dc-plan-2023-v11-2025.txt. Live HTML page re-fetched; PP blurb identical to refresh-paradigmas.txt l.672-676 and it links both the 07/2024 and 11/2025 PDFs plus the Repositorio (CL5/6). Re-derived blocks: PP row = 3 contenidos mínimos (l.586-591); no CONTENIDOS ANALÍTICOS section exists for PP in the plan (grep 'analítico'/'bibliograf' = 0 hits). Units on disk = 5 = course exits (no orphans, no dangling); order 1-5 matches the mínimos order (1 → mín.1, 2/3/4 → mín.2, 5 → mín.3). No guillemets in this node. Bibliography: none in either source (books_total 0). Absence hunt: the Repositorio Digital de Programas (CL5/6, year 2020) DOES hold an official programa 'Paradigmas de Programación (2020)' (programa_n20200511_15.pdf, Res. CD Expte 1037/2020) with 6 content blocks: Programación Funcional · Sistemas de Tipos · Semántica Operacional · Revisión del Paradigma Imperativo · Programación Lógica · Programación Orientada a Objetos — no bibliography inside. No PP programa for 2023-2026 in the Repositorio. The node makes no explicit 'no programa' claim, so this is a pointer for L2 upgrade, not a refutation. Attacked: 'funcional' named in both sources (survives); title 'Computar a través de funciones' is a gloss, not a source claim (flagged); breadcrumb/exit name 'Paradigma funcional' consistent (survives)."
+}

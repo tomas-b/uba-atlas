@@ -1,0 +1,26 @@
+{
+  "address": "uba.fcen.computacion.algebra-1.polinomios",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 5,
+  "units_found": 5,
+  "books_total": 5,
+  "books_found": 0,
+  "not_found": [
+    "frame 'Factorización sobre distintos cuerpos (racionales, reales, complejos)' — the source's list of cuerpos is 'Q, R, C, Z/pZ con p primo' (L400); the node drops the finite field and thereby misstates the enumeration → add Z/pZ",
+    "tree 'Raíces · multiplicidad, TFA' — the block's named results about roots are 'Teorema del resto', 'Cota para el número de raíces con multiplicidad', 'Teorema de Gauss para calcular raíces racionales' (L405) besides the TFA (L410); tree names only TFA → 'Raíces · teorema del resto, multiplicidad, cota, Gauss, TFA'",
+    "frame sentence order — source order is cuerpos → K[x] generalidades/grado/divisibilidad/irreducibles/algoritmo de división → paralelismo con Z (mcd, Euclides, coprimos) → factorización única → evaluación/raíces/teorema del resto/cuadráticas/multiplicidad/cota/Gauss → TFA/irreducibles de C[X]/R[X]/K[X] (L400-410); node puts 'El paralelo con la aritmética de los enteros' last instead of after divisibility → follow source order"
+  ],
+  "omitted": [
+    "L400: ejemplos de cuerpos Q, R, C, Z/pZ con p primo",
+    "L400: K[x] generalidades (suma, producto, unidades), grado, irreducibles",
+    "L400: Paralelismo con Z: máximo común divisor, algoritmo de Euclides, polinomios coprimos; Factorización única",
+    "L405: Evaluación de polinomios; Teorema del resto; Resolución de ecuaciones cuadráticas en K[X]; Equivalencias; Cota para el número de raíces con multiplicidad; Teorema de Gauss (raíces racionales en Q[X])",
+    "L410: irreducibles de C[X]; Raíces complejas no reales de polinomios reales; Factorización en R[X]"
+  ],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "source = live DM page (HTTP 200, 2026-09-15) == extract/out/refresh-algebra-1.txt body verbatim (extract L345-475 == live L74-96, unit blocks and biblio identical); line refs below are into the extract. Block 5 = L395-410 (three paragraphs). unidad=5, 'U5', 'de 5', breadcrumb 'Polinomios con coeficientes en un cuerpo' match L395 exactly (the qualifier the course node once dropped is present here). Cuerpos, anillo de polinomios, divisibilidad, algoritmo de división, raíces, multiplicidad, TFA, factorización según el cuerpo, paralelo con Z all recoverable at L400-410. No invented topic; heavy undeclared compression (~14 named items dropped, incl. Teorema de Gauss and Z/pZ). No quotes; foot and source.label truthful."
+}

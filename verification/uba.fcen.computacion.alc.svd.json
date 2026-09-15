@@ -1,0 +1,19 @@
+{
+  "address": "uba.fcen.computacion.alc.svd",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 0,
+  "books_found": 0,
+  "not_found": [
+    "map.foot: 'La SVD es la descomposición central que conecta con PCA y compresión' — 'PCA', 'componentes principales' and 'compresión' appear nowhere in the source (L324-373) nor in plan v11's ALC contenidos (L660-712); grep: zero hits. Two topics added to the materia by a gloss. Already flagged 2026-09-12, unfixed. Repair: delete the sentence.",
+    "title 'La descomposición que todo lo explica: SVD.' and lede 'la descomposición central de la materia' — the source (L347) lists SVD as one of seven items in Capítulo V and never ranks it; 'central'/'todo lo explica' are unsourced editorial claims. Repair: e.g. 'Definidas positivas, Cholesky, SVD, Schur y Jordan.' / drop 'central de la materia'."
+  ],
+  "omitted": [],
+  "metadata_matches": true,
+  "verdict": "errors",
+  "notes": "Attacked against Capítulo V (L347). Frame/tree reproduce all topics in order: definidas positivas, Cholesky, valores singulares + SVD, inversa generalizada, Schur, Jordan, aplicaciones — nothing dropped. Frame opener 'Descomposiciones matriciales avanzadas' is an editorial label, harmless. Address 'svd' vs breadcrumb 'Matrices definidas positivas' follows the declared first-words convention. metadata.capitulo=5, 'Cap. V', 'de 6' match. Defects are confined to title/lede ranking language and the foot, which asserts PCA/compresión as connected topics — not drawn as chapter content, hence errors rather than fabrication, but it is the most important finding in this materia."
+}

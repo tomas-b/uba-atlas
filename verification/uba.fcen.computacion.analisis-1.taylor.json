@@ -1,0 +1,16 @@
+{
+  "address": "uba.fcen.computacion.analisis-1.taylor",
+  "wave": "preloop-computacion",
+  "date": "2026-09-15",
+  "verifier": "opus-adversarial",
+  "source_reachable": true,
+  "units_total": 6,
+  "units_found": 6,
+  "books_total": 11,
+  "books_found": 0,
+  "metadata_matches": true,
+  "not_found": [],
+  "omitted": [],
+  "verdict": "clean",
+  "notes": "Source block (l.66): 'Polinomio de Taylor para funciones de 1 variable. Aproximaciones de Taylor para funciones de 2 y 3 variables. Matriz Hessiana.' Frame reproduces all three verbatim; tree covers the three with no added topic. Tree gloss 'Hessiana · matriz de segundas derivadas' is a definition, not a source phrase (source says only 'Matriz Hessiana') — acceptable explanation, flagged. Frame closer 'La herramienta que prepara la clasificación de extremos' is editorial but consistent with U5 (l.67 'clasificación mediante el Hessiano'). live DM page fetched 2026-09-15 (HTTP 200, 41865 B; scratch v-analisis1/dm-analisis1.txt md5 9f488ac8…), version stamp «1er. Cuatrimestre 2026» (txt l.81). No local extract exists under extract/out for this URL, so no md5 diff against a prior extract was possible. Re-derived parser: 6 ALL-CAPS heading blocks (txt l.63-68) in the order U1 Vectores y geometría del espacio · U2 Curvas y superficies paramétricas · U3 Funciones vectoriales y de varias variables · U4 Polinomio de Taylor · U5 Extremos · U6 Integración, then BIBLIOGRAFÍA with 11 entries (l.70-80). The source prints NO unit numbers; U1–U6 is positional (fair). All six metadata.unidad / eyebrow / meta 'de 6' match count and order; breadcrumb labels are the printed titles; no « » strings in any unit node; foot 'Temas del programa oficial del DM (Análisis I)' is truthful; source.label is fair (the page is in DM ▸ Programas de las materias). Course exits ↔ unit files on disk: 6/6, no orphans, no dangling (the 11 book exits .apostol…stewart have no files — course-level, already declared 'índice aparte'). CROSS-SOURCE FINDING (course-level, undeclared): the official Plan 2023 v11/2025 (extract/out/dc-plan-2023-v11-2025.txt l.653-662; same in plan-comp-v07-2024.txt l.642-648 and propuesta-plan.txt l.538-541) prints the contenidos of Análisis Matemático with SEVEN blocks: '…Polinomio de Taylor. Extremos. Campos vectoriales. Integración…', and its contenidos mínimos add 'teoremas de la función implícita y de la función inversa'. The DM programa 1er cuat. 2026 has no Campos vectoriales block and no función implícita/inversa. The unit set silently follows the DM (6 blocks); neither course nor units declare the divergence from the plan."
+}
