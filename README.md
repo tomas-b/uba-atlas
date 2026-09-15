@@ -26,23 +26,30 @@ Writers and adversaries never share context. The adversary downloads the
 document again and counts everything again. The two derivations must agree.
 Each disagreement becomes a committed verdict file.
 
-## 🔬 The life of one fabrication (real case, from the logs)
+## 🔬 The life of one fabrication (real case)
 
-Course: *Paradigmas de Programación*. The five steps above, seen on a single node:
+Course: *Paradigmas de Programación*. The five steps, on one node:
 
-1. **📄 A node is a file** — JSON with a title, a lede, the source's topics in the source's words, a little tree map, and a `source` URL. The whole graph is a folder of files, one per address.
-2. **✍️ The researcher writes it — and embellishes** — making it read nicely, it glossed the logic paradigm as *«la computación expresada como relaciones y deducción»*. The plan never says that. It says **«lógico»**.
-3. **⚔️ The verifier doesn't review: it breaks** — empty context. Re-downloads the PDF, re-extracts, checks the hash, greps every claim. «Relaciones y deducción»: zero hits. Verdict `fabrication`, and every `not_found[]` entry carries the sentence, the line where it should have been, and the concrete repair: *delete the gloss, keep the plan's word*.
-4. **📌 The verdict is persisted BEFORE the fix** — to `verification/<address>.json`, recording the pre-fix state on purpose. That file is never edited again.
-5. **🔧 The fix edits the file — and nothing else** — the fixer gets the verdict and the extracts, nothing more. Scope = only what `not_found[]` enumerates. It re-reads the cited line before each repair, so it cannot invent something new while fixing something old. Then it validates the JSON parses.
-6. **🚦 The gate** — `check-graph.js` checks shape across all files: links that exist, sources cited, no schema drift. It cannot judge truth — only structure. **The LLM never has the last word on what enters the repo; this script does.**
-7. **📦 One commit carries both** — the fixed node and its verdict, together. The verdict says what was wrong; the git diff shows what changed because of it. [/audit.html](https://uba-atlas.vercel.app/audit.html) renders every verdict.
-8. **⚖️ What if the verifier itself is wrong?** It happens: one proposed labeling the topics *«contenidos analíticos»*; the fixer checked the real table header — *«Temas sugeridos 2019»* — used that, and reported the deviation. **The text wins, not the agent. Any agent.**
-9. **🚫 What a fix is NOT** — a fix never re-researches. When verifiers found official programas the atlas had never used (AED's real syllabus, twelve books), the fixer did **not** rebuild the node — it only corrected the false sentence *"no programa exists"* and cited the found document. Rebuilding is a new research wave, with its own verification wave. Each pass moves one level.
+1. **📄 A node is a file** — JSON: title, lede, the source's topics in the source's words, a `source` URL.
 
-> The short version: **nodes are files, errors are line-referenced sentences,
-> fixes are edits re-derived from the same source text, and the verdict plus
-> the git diff is the proof it happened.**
+2. **✍️ The researcher embellishes** — it glossed the logic paradigm as *«relaciones y deducción»*. The plan only says **«lógico»**.
+
+3. **⚔️ The verifier breaks, not reviews** — empty context. Re-download, hash, grep every claim. Zero hits → verdict `fabrication`, with the sentence, the line, and the repair.
+
+4. **📌 The verdict persists BEFORE the fix** — it records the pre-fix state. Nobody edits it again.
+
+5. **🔧 The fix edits only what the verdict lists** — and re-reads the cited line first. It cannot invent while it fixes.
+
+6. **🚦 The gate checks shape, not truth** — the LLM never has the last word on what enters the repo. This script does.
+
+7. **📦 One commit carries node + verdict** — the verdict says what was wrong; the diff shows what changed. [/audit.html](https://uba-atlas.vercel.app/audit.html) renders it all.
+
+8. **⚖️ Wrong verifier?** It happens. The fixer checked the real table header — *«Temas sugeridos 2019»* — and used it. The text wins over any agent.
+
+9. **🚫 A fix never re-researches** — it corrected the false *"no programa exists"* and cited the found syllabus. A rebuild is a new wave, with its own verification.
+
+> **Nodes are files. Errors are line-referenced sentences. Fixes are edits
+> re-derived from the same text. The verdict + the git diff is the proof.**
 
 ## 🎯 What the loop catches (real, from the logs)
 
