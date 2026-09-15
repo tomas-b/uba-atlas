@@ -12,8 +12,12 @@ Turn a real UBA program into grounded graph nodes — honestly. Full methodology
 
 1. **Grounded or it doesn't exist** — a node is backed by a real source or it isn't born. Fail hard; never fabricate to fill a gap.
 2. **Link only to the indexed structure** — a node's children are exactly the real sub-parts found in a source.
-3. **The word matches the ground** — everything a node says traces to its cited source.
+3. **The word matches the ground** — everything a node says traces to its cited source. Conserve the source's spelling, errata included; declare every normalization. A number the source never prints cannot appear, not even in a decorative map.
 4. **Nodes are experience, not commentary** — node copy is impersonal, for whoever navigates. No meta.
+5. **Contradictions are recorded, never resolved** — when the source disagrees with itself (two years on one cover, two imprints for one volume), the node carries both. Resolving is inventing.
+6. **Count both ways** — every selection or exclusion declares its ratio in both directions ("drew 61 of 111; the 40 excluded are these, and why"). The arithmetic must close.
+7. **Grep before asserting an absence** — "the programa doesn't mention X" requires having searched X. A false absence is a fabrication in reverse. (Known trap: approval boilerplate prints "estructura de cátedra" — boilerplate is not content.)
+8. **Stale is fine only declared, and only proven stale** — an old programa serves with its year visible, after probing that nothing newer exists: the career site's news pages and their Drive folders (site search does not index them), and the sibling department that actually teaches the materia.
 
 ## A job describes its own research
 
@@ -56,15 +60,19 @@ Can't create the un-indexed; can't index the un-sourced (seal it `NOT INDEXED`).
 uba.ar). Emit the career node with every materia by año + cuatrimestre + correlatividades as
 `exits` (each a `to create` child). Cite the plan URL. Never invent a materia.
 
-**generate-node (a materia at L2):** find the cátedra programa PDF. Run
-`node extract/fetch-extract.js "<url>" <name>` (handles scans via OCR spa+eng, Drive links,
-HTTP-only sites, rejects HTML/login). From the text pull: cuatrimestre, topics (what it's
-about), and **book references** (title + author + edition). Stale PDFs are fine — the class
-is time-invariant. Book *contents* (L3) are a separate per-book index; a materia is real at L2.
+**generate-node (a materia at L2):** find the cátedra programa PDF — and verify it by
+reading its cover, never by its filename (filenames lie: wrong cátedra letters, dropped
+words, stale years). Run `node extract/fetch-extract.js "<url>" <name>` (curl with
+redirects and Drive links, `pdftotext -layout`, OCR fallback for scans and corrupt text
+layers; self-registers provenance in `extract/manifest.json`). **Read the full extract**,
+then draw: units, bibliography with every entry counted (law 6), régimen, quotes literal.
+When several cátedras publish, draw one and declare the selection both ways, citing the
+alternates from covers you opened yourself. Book *contents* (L3) are a separate per-book
+index; a materia is real at L2.
 
-**index-career (fan-out):** wave 1 — one agent finds the plan (→ career becomes `to create`
-with materia children). Wave 2 — one subagent per materia extracts its L2. Verify
-adversarially: every claim traces to a cited source or it's downgraded/sealed.
+**index-career (fan-out):** runs as a wave — scout, parallel researchers (this skill,
+one per materia), parallel adversarial verifiers (`atlas-verify`, one per node), fix
+batch, gate, one commit. Orchestration: `atlas-wave`.
 
 ## Every node is typed — `kind` + `metadata`
 

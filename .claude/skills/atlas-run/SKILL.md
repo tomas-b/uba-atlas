@@ -18,16 +18,18 @@ the artifact they produce.
 ## Work the queue
 
 1. Read `queue.json`. Each pending job is self-contained: `{ address, action, label, description }`.
-2. For each pending job, run the `atlas-grounding` skill on its `description`. The description states what to source and how.
-3. Write the node to `nodes/<address>.json`. Set the job `status` to `done`.
-4. Restart the watcher so the loop continues.
+2. Route by size: `generate-node` (one node) → run `atlas-grounding` on its
+   `description`; `index-career` (a whole subtree) → run `atlas-wave`, which
+   fans out researchers and adversarial verifiers and closes with a commit.
+3. Mark the job `done`. Restart the watcher so the loop continues.
 
 Rules: fail hard. If the source is not there, seal the node — do not invent.
 A job never renders past its grounding level.
 
 After every batch of node writes, run `node check-graph.js`. Commit only when it
-reports zero errors. This protects the graph: every batch is versioned in git,
-so a bad batch is one `git revert` away.
+reports zero errors, and commit nodes together with their `verification/`
+verdicts — the audit trail travels with the data. Every wave is one commit,
+so a bad wave is one `git revert` away.
 
 ## Deploy the artifact
 

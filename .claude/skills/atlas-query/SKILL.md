@@ -10,9 +10,11 @@ The data is flat files. No database, no server needed.
 | File | What it holds |
 |---|---|
 | `nodes/<address>.json` | one drawn node per file, named by its address |
+| `verification/<address>.json` | one adversarial verdict per verified node — the audit trail (see `atlas-verify` for the schema; verdict = pre-fix state, verdict + git = full trail) |
 | `sources/uba.json` | ground truth: the 13 faculties and their real careers |
+| `extract/manifest.json` | provenance of every extract: URL, method (text/ocr/html), size |
 | `queue.json` | the job log — pending and done jobs with timestamps |
-| `extract/out/*.txt` | extracted syllabus text (local only, gitignored) |
+| `extract/out/*.txt` | extracted syllabus text (local only, gitignored — copyright) |
 
 ## The address scheme
 
@@ -40,6 +42,15 @@ cat nodes/*.json | grep -o '"groundingLevel": "L[0-9]"' | sort | uniq -c
 
 # sealed nodes (honest gaps)
 grep -l '"sealed": true' nodes/*.json
+
+# verdicts by outcome
+grep -h '"verdict"' verification/*.json | sort | uniq -c
+
+# every fabrication the loop caught, with its node
+grep -l '"verdict": "fabrication"' verification/*.json
+
+# what a verifier refuted on one node
+python3 -c "import json;v=json.load(open('verification/uba.ffyl.historia.historia-medieval.json'));print(*v['not_found'],sep='\n\n')"
 
 # every book reference in the atlas
 grep -h '"kind": "book"' -A2 nodes/*.json | grep '"name"'
