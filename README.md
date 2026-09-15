@@ -84,10 +84,10 @@ prints its role when it starts (🌊 ✍️ ⚔️ 📊).
 | Medicina | **43 / 44** — includes the 6 hospital rotations. The last course publishes no program, and its node says so |
 | Letras | **62 / 62 — complete** — five waves |
 | Historia | **21 / 38** — the full core cycle; ~3,700 bibliography entries counted |
-| Computación | **18 / 20** courses + all **91 unit nodes**. The other 2 publish no syllabus, and their nodes say so |
+| Computación | **18 / 20** courses + all **90 unit nodes** and 1 book node. The other 2 publish no syllabus, and their nodes say so |
 | Abogacía | **14 / 14** CPC courses + 81 unit nodes, plus the **8 CPO orientations** straight from the texto ordenado |
 | Filosofía | **11 / 11** required courses + 60 unit nodes. Languages, seminars and thesis are a gate on the plan, not drawn yet |
-| verified | **100%** — every course node has an adversarial verdict |
+| verified | **198 / 199** course nodes carry an adversarial verdict. The one without is Medicina's Bioinformática, drawn at L1 because it publishes no program |
 | fabrications shipped | **0** |
 
 ## 🎯 Catches
