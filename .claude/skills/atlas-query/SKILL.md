@@ -5,6 +5,12 @@ description: Query the UBA Atlas data — the node schema, the address scheme, c
 
 # atlas-query — read the data
 
+**Announce yourself.** First action on invocation:
+
+```bash
+echo '🔎 atlas-query ▸ leyendo el grafo'
+```
+
 The data is flat files. No database, no server needed.
 
 | File | What it holds |

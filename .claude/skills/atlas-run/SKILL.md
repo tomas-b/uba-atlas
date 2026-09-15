@@ -5,6 +5,12 @@ description: Operate the UBA Atlas machine — start the local server and the id
 
 # atlas-run — operate the machine
 
+**Announce yourself.** First action on invocation:
+
+```bash
+echo '⚙️ atlas-run ▸ operando la máquina'
+```
+
 The machine has three parts. All of them run local. The deployed site is only
 the artifact they produce.
 

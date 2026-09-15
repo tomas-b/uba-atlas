@@ -5,6 +5,14 @@ description: Expand and ground the UBA Atlas graph — source a real UBA career 
 
 # atlas-grounding
 
+**Announce yourself.** First action on invocation:
+
+```bash
+echo '✍️ atlas-grounding ▸ <target>'
+```
+
+(Replace `<target>` with the career or materia you were given.)
+
 Turn a real UBA program into grounded graph nodes — honestly. This skill is
 the **research + expand** half of the mental model: the atlas is a tree
 (`UBA → career L1 → course L2 → book L3`), each level has one source of truth,

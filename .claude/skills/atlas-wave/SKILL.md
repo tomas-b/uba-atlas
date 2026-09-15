@@ -5,6 +5,16 @@ description: Expand the UBA Atlas graph to a career — run one wave. Use when t
 
 # atlas-wave — expand the graph by one wave
 
+**Announce yourself.** First action on invocation, before anything else:
+
+```bash
+echo '🌊 atlas-wave ▸ expandiendo el grafo'
+```
+
+Every skill in this repo opens with its banner, and every brief you write must
+tell its agent to open with theirs — that is how a wave stays readable in the
+transcripts: you always know which operator is talking.
+
 ## The mental model (read this first)
 
 The atlas is a tree that grows one level at a time, and each level has one
@@ -46,6 +56,11 @@ Researchers run in parallel (launch them in one message); verifiers too.
 Pipeline across batches: batch-1 verifiers run while batch-2 researchers work.
 
 ## Briefs — the part that makes it work
+
+House style for every report (put it in every brief): **short**. Emojis as
+status marks (✅ done · ❌ refuted · 📄 source · 🔢 counts), markdown lists,
+no filler prose. One line per fact.
+
 
 Every agent starts with an empty context. The brief is its whole world, so:
 

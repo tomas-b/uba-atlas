@@ -5,6 +5,12 @@ description: Measure what the UBA Atlas is missing and propose the next wave —
 
 # atlas-coverage — what's missing, what's next
 
+**Announce yourself.** First action on invocation:
+
+```bash
+echo '📊 atlas-coverage ▸ midiendo la frontera'
+```
+
 Coverage is measurable because the ground truth is indexed: every career node
 declares its real materia count, so absence is countable, not guessed.
 

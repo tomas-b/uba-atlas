@@ -5,6 +5,12 @@ description: Adversarially verify one UBA Atlas node — re-fetch the live sourc
 
 # atlas-verify — refute one node
 
+**Announce yourself.** First action on invocation:
+
+```bash
+echo '⚔️ atlas-verify ▸ <address>'
+```
+
 You did not write this node. Your only job is to break it. A verifier that
 "reviews" approves; a verifier that refutes finds the fabrication. Never share
 context with whoever wrote the node.
