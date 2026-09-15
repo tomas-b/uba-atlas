@@ -33,32 +33,26 @@ can't index the un-sourced (that seals as `NOT INDEXED`).
 A queue element is a **job that describes its own research** — not just an address:
 `{ type, address, description, groundingTarget }`, where `description` says what to source
 and how (e.g. "find the plan of X" / "extract L2 for materia Y from its programa PDF"). So
-a job is self-contained work the `atlas-grounding` skill can execute without extra context.
+a job is self-contained work the atlas/grounding.md skill can execute without extra context.
 
-- **index-career** — runs as a **wave** (`atlas-wave`): scout → parallel researchers
-  (`atlas-grounding`, one per materia) → parallel **adversarial verifiers**
-  (`atlas-verify`, one per node, clean context) → fix batch → `check-graph.js` gate →
+- **index-career** — runs as a **wave** (the `atlas` skill (wave.md)): scout → parallel researchers
+  (atlas/grounding.md, one per materia) → parallel **adversarial verifiers**
+  (atlas/verify.md, one per node, clean context) → fix batch → `check-graph.js` gate →
   one commit, nodes and verdicts together. Verdicts persist to `verification/`.
-- **generate-node** — draw one node from its source (`atlas-grounding`).
+- **generate-node** — draw one node from its source (atlas/grounding.md).
 
 **The watcher is idle until the queue changes.** `watch-queue.js` (fs.watchFile) sleeps,
 wakes on a queue write, hands the new job(s) to the agent, then returns to idle — no busy
 polling. A queued job → agent runs the grounding skill on its description → writes node(s)
 → marks done → idle again.
 
-## The skills (the machine ships its own operators)
+## The skill (the machine ships its own operator)
 
-- **`atlas-wave`** — orchestrate one expansion wave: briefs, parallel fan-out,
-  verdict persistence, fix batch, gate, close. The unit of production.
-- **`atlas-grounding`** — source one career/materia into real nodes, honest level,
-  fail-hard. What each researcher runs. Methodology: `RESEARCHING-PROGRAMS.md`.
-- **`atlas-verify`** — adversarially refute one node and emit its verdict to
-  `verification/`. What each verifier runs. Never shares context with the writer.
-- **`atlas-coverage`** — measure what's missing, propose the next wave (deep-first).
-- **`atlas-query`** — read the data: schema, addresses, verdicts, recipes.
-- **`atlas-run`** — operate the machine: server, watcher, queue routing, build, deploy.
-- **`atlas-art-style`** — **LATER.** Generate a node's artistic render from its
-  grounded books/DNA.
+- **`atlas`** (`.claude/skills/atlas/`) — one skill, four role docs beside it:
+  `wave.md` (expand a career: scout ▸ write ×N ▸ audit ×N ▸ ship),
+  `grounding.md` (research one materia, the 8 laws), `verify.md` (refute one
+  node, emit its verdict), `ops.md` (coverage, queries, build & deploy).
+
 
 ## The laws (never bent)
 

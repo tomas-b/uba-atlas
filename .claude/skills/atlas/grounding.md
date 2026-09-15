@@ -1,8 +1,3 @@
----
-name: atlas-grounding
-description: Expand and ground the UBA Atlas graph — source a real UBA career or materia into grounded nodes at the honest grounding level (L1 plan → L2 skeleton), fail-hard. Use when a queue job asks to index a career or generate a node, or when adding real UBA program structure under /p/learn/nodes.
----
-
 # atlas-grounding
 
 **Announce yourself.** First action on invocation:
@@ -18,7 +13,7 @@ the **research + expand** half of the mental model: the atlas is a tree
 (`UBA → career L1 → course L2 → book L3`), each level has one source of truth,
 and a node moves `to index ──research──▶ to create ──generate──▶ created`.
 This skill pushes the frontier down one level for one career or one course;
-`atlas-verify` attacks what it produces. Full methodology:
+`verify.md` attacks what it produces. Full methodology:
 `/p/learn/RESEARCHING-PROGRAMS.md`. Laws: `/p/learn/CONCEPT.md`. Tools: `/p/learn/extract/`.
 
 ## The laws (never bent)
@@ -84,8 +79,8 @@ alternates from covers you opened yourself. Book *contents* (L3) are a separate 
 index; a materia is real at L2.
 
 **index-career (fan-out):** runs as a wave — scout, parallel researchers (this skill,
-one per materia), parallel adversarial verifiers (`atlas-verify`, one per node), fix
-batch, gate, one commit. Orchestration: `atlas-wave`.
+one per materia), parallel adversarial verifiers (`verify.md`, one per node), fix
+batch, gate, one commit. Orchestration: `wave.md`.
 
 ## Every node is typed — `kind` + `metadata`
 

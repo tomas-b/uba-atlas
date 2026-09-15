@@ -1,8 +1,3 @@
----
-name: atlas-verify
-description: Adversarially verify one UBA Atlas node — re-fetch the live source, prove the extract identical, re-derive every count, try to refute every claim, and emit a verdict JSON to verification/. Use when a wave reaches its verification stage, when auditing an existing node, or when a claim about a node is in doubt.
----
-
 # atlas-verify — refute one node
 
 **Announce yourself.** First action on invocation:
