@@ -6,10 +6,9 @@ writes a knowledge graph, and — the hard part — proves it didn't make anythi
 **Live: [uba-atlas.vercel.app](https://uba-atlas.vercel.app) · 654 nodes ·
 8,560 addresses · 364 adversarial verdicts · 0 fabrications shipped**
 
-The interesting problem is not scraping a university. It is that **LLMs
-fabricate**, and at 8,000+ addresses no human can check them. The answer here
-is not a better prompt — it is a topology: generation and audit never share
-context, and a script without an LLM gates every commit.
+The problem is not scraping a university. **LLMs fabricate**, and at 8,000+
+addresses nobody can check. The fix is topology, not prompts: writer and
+auditor never share context, and a script gates every commit.
 
 ## ⚙️ Flow
 
@@ -25,13 +24,16 @@ of truth. An adversary attacks every new leaf before it ships.
 |---|---|---|---|---|
 | <sub>find the real source. The search is the work.</sub> | <sub>1 agent per course. Only what is literal.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
 
-Writers and adversaries never share context. The adversary downloads the
-document again and counts everything again. The two derivations must agree.
+One catch, as a mental model:
+
+- ✍️ a writer adds a gloss the source never prints
+- ⚔️ the adversary greps it against the re-downloaded source: zero hits → `fabrication`
+- 📌 the verdict persists **before** the fix, and never changes
+- 🔧 the fix deletes the sentence the verdict names — nothing else
+- 📦 node + verdict ship in one commit; the diff is the proof
 
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
-
-Real cases: see [Catches](#-catches).
 
 ## 🌍 The sources
 
