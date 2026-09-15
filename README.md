@@ -23,7 +23,7 @@ document behind it. Before anything ships, an adversary tries to break it.
 
 | 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
 |---|---|---|---|---|
-| <sub>find the real document. This is the hard part.</sub> | <sub>one agent per course. It writes only what the document says.</sub> | <sub>one agent per node. It downloads the document again and checks every claim.</sub> | <sub>a small script. If it fails, nothing ships.</sub> | <sub>the node and its audit, in one commit.</sub> |
+| <sub>research the real sources for the whole career, then fan out.</sub> | <sub>one agent per course. It writes only what the document says.</sub> | <sub>one agent per node. It downloads the document again and checks every claim.</sub> | <sub>a small script. If it fails, nothing ships.</sub> | <sub>the node and its audit, in one commit.</sub> |
 
 Step by step:
 
