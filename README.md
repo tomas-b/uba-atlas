@@ -13,24 +13,18 @@ context, and a script without an LLM gates every commit.
 
 ## ⚙️ The flow, in five steps
 
-```mermaid
-flowchart LR
-    F["📄 real sources<br/>PDFs · Drives · repos · scans"] --> W["✍️ write ×N<br/>1 agent per course<br/>only what is literal"]
-    W --> V["⚔️ attack ×N<br/>1 adversary per node<br/>re-fetch · hash · recount"]
-    V --> G{"🚦 gate<br/>a script, no LLM"}
-    G -->|red| V
-    G -->|green| S["🚢 ship<br/>nodes + verdicts · 1 commit"]
-```
+| 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
+|---|---|---|---|---|
+| <sub>find the real source — the chaos below. The search is the work.</sub> | <sub>1 agent per course. Only what is literal in the text.</sub> | <sub>1 adversary per node. Re-fetch, hash, recount.</sub> | <sub>a script, no LLM. Red = no commit.</sub> | <sub>nodes + verdicts. One commit.</sub> |
 
 ```
 🌳 the graph:  uba → career (official plan) → course (cátedra syllabus) → book (leaf)
                no source → sealed node, honestly · one wave = one career = one commit
 ```
 
-The key property: writers and adversaries **never share context** — the
-adversary re-downloads the document and recounts everything itself. The two
-independent derivations must agree; disagreements become a committed verdict
-file, refuted claim by refuted claim.
+Writers and adversaries never share context. The adversary downloads the
+document again and counts everything again. The two derivations must agree.
+Each disagreement becomes a committed verdict file.
 
 ## 🔬 The life of one fabrication (real case, from the logs)
 
