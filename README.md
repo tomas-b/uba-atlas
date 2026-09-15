@@ -11,7 +11,7 @@ fabricate**, and at 8,000+ addresses no human can check them. The answer here
 is not a better prompt — it is a topology: generation and audit never share
 context, and a script without an LLM gates every commit.
 
-## ⚙️ The flow, in five steps
+## ⚙️ The flow
 
 | 🔍 hunt | ✍️ write ×N | ⚔️ attack ×N | 🚦 gate | 🚢 ship |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ Writers and adversaries never share context. The adversary downloads the
 document again and counts everything again. The two derivations must agree.
 Each disagreement becomes a committed verdict file.
 
-## 🔬 The life of one fabrication (real case)
+## 🔬 One fabrication
 
 Course: *Paradigmas de Programación*. The five steps, on one node:
 
@@ -51,7 +51,7 @@ Course: *Paradigmas de Programación*. The five steps, on one node:
 > **Nodes are files. Errors are line-referenced sentences. Fixes are edits
 > re-derived from the same text. The verdict + the git diff is the proof.**
 
-## 🌍 The ground is chaos (that's why agents, not scrapers)
+## 🌍 The sources
 
 There is no "UBA API". These are real sources behind nodes of the graph:
 
@@ -70,7 +70,7 @@ There is no "UBA API". These are real sources behind nodes of the graph:
 Zero per-site connectors were written. Each agent has a terminal (`curl`,
 `pdftotext`, `tesseract`, throwaway parsers) and solves its source on the spot.
 
-## 🧩 The operator ships with the repo
+## 🧩 The skill
 
 One skill, plain markdown, four role docs:
 
@@ -88,7 +88,7 @@ routes to the skill, shows the plan and the cost, and waits for your OK.
 Every agent announces its role on start (🌊 ✍️ ⚔️ 📊): a wave's transcript
 reads like a cast list.
 
-## 📊 Scale so far
+## 📊 Scale
 
 | | |
 |---|---|
@@ -101,7 +101,7 @@ reads like a cast list.
 | L2 courses verified | **100%** — every course node carries an adversarial verdict |
 | fabrications shipped | **0** |
 
-## 🎯 What the loop catches (real, from the logs)
+## 🎯 Catches
 
 | wave | caught by adversarial verification |
 |---|---|
