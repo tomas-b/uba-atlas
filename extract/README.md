@@ -28,7 +28,7 @@ Book **references** land in the class node (L2); book **contents** are a separat
 ## Proven
 
 - Text path: `06-Fisiologia y Biofisica.pdf` (24pp, text) → 74k chars → node
-  `uba.med.medicina.fisiologia` with 10 topic-systems + 8 verified book references.
+  `uba.med.medicina.fisiologia` with 11 units + 11 verified book references.
 - OCR path: `01-Anatomia.pdf` (52pp scan, 52 bytes of text layer) → readable Spanish via OCR.
 
 ## To scale

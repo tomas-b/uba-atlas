@@ -22,12 +22,12 @@
   ],
   "eyebrow": "Fisiología y Biofísica · programa (materia)",
   "title": "Cómo funciona el cuerpo, sistema por sistema.",
-  "lede": "Materia anual del ciclo biomédico. Recorre el organismo como una máquina de equilibrios: de la membrana y el potencial de acción a los sistemas nervioso, cardiovascular, renal, endocrino y digestivo, todo bajo la homeostasis. Extraída del programa real de la cátedra.",
+  "lede": "Materia del ciclo biomédico (416 hs; el plan la ubica en 2º año como anual). Recorre el organismo como una máquina de equilibrios: de la membrana y el potencial de acción a los sistemas nervioso, cardiovascular, renal, endocrino y digestivo, todo bajo la homeostasis, más los extremos de la vida, el ejercicio y las bases biofísicas del diagnóstico. Extraída del programa oficial de la asignatura.",
   "meta": [
     {
       "k": "Régimen",
-      "v": "anual",
-      "small": "416 hs"
+      "v": "416 hs",
+      "small": "anual según el plan"
     },
     {
       "k": "Grounding",
@@ -35,27 +35,32 @@
       "small": "skeleton"
     },
     {
+      "k": "Unidades",
+      "v": "11",
+      "small": "programa"
+    },
+    {
       "k": "Referencias",
-      "v": "8",
+      "v": "11",
       "small": "libros"
     },
     {
       "k": "Fuente",
       "v": "programa",
-      "small": "PDF cátedra"
+      "small": "PDF fmed · EXP-UBA 0076367/2016"
     }
   ],
-  "frame": "Sourceada por el pipeline de extracción desde el programa PDF de la cátedra (un scan/PDF que el sondeo previo solo pudo citar, no leer). Los temas y las referencias bibliográficas salen del texto real del programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
+  "frame": "Sourceada por el pipeline de extracción desde el programa oficial de la asignatura (ANEXO al EXP-UBA 0076367/2016, un scan/PDF que el sondeo previo solo pudo citar, no leer). Las unidades y las referencias bibliográficas salen del texto real del programa. Las referencias (qué libros) viven acá; el contenido de cada libro es un índice aparte.",
   "groups": [
     {
       "kind": "spine",
       "eyebrow": "Contenidos · lo que enseña",
       "title": "Los sistemas",
-      "note": "El eje de la materia — cada sistema del cuerpo como una unidad de equilibrio.",
+      "note": "El eje de la materia — las 11 unidades del programa, cada sistema del cuerpo como una unidad de equilibrio.",
       "map": {
         "mk": "El programa, comprimido",
-        "tree": "FISIOLOGÍA Y BIOFÍSICA — el cuerpo como máquina de equilibrios\n│\n├─ Homeostasis · balance de agua y solutos\n├─ Membrana · potencial de reposo y de acción · canales\n├─ Sangre y hematología · grupos · trombopoyesis\n├─ Sistema nervioso · reflejos · autónomo · motor\n├─ Sistema cardiovascular · cardiomiocito · conducción\n├─ Sistema respiratorio · difusión · ley de Fick\n├─ Sistema renal · manejo tubular · homeostasis de la urea\n├─ Sistema endocrino · hormonas · crecimiento · PINE\n├─ Sistema digestivo · hígado · secreción biliar\n└─ Metabolismo óseo · fisiología del hueso · vitamina D",
-        "foot": "Temas tomados verbatim del programa. La granularidad de tiempo es solo el régimen (anual); no hay cronograma fechado."
+        "tree": "FISIOLOGÍA Y BIOFÍSICA — el cuerpo como máquina de equilibrios\n│\n├─ 1. Fisiología y Biofísica general · homeostasis · balance de agua y solutos\n├─ 2. Fisiología y Biofísica de la sangre · grupos sanguíneos · trombopoyesis\n├─ 3. Fisiología y Biofísica cardio-circulatoria · potencial de reposo · cardiomiocito\n├─ 4. Fisiología y biofísica de la respiración · difusión · ley de Fick\n├─ 5. Fisiología y Biofísica de la función renal y regulación del medio interno · homeostasis de la urea\n├─ 6. Fisiología y Biofísica del aparato digestivo · fisiología del hígado · secreción biliar\n├─ 7. Fisiología y Biofísica Endocrina · PINE · crecimiento · metabolismo fosfocálcico y del hueso\n├─ 8. Fisiología y Biofísica del Sistema Nervioso Central · membrana · canales iónicos · reflejos · autónomo · motor\n├─ 9. Fisiología y Biofísica en los extremos de la vida\n├─ 10. Fisiología y biofísica del ejercicio\n└─ 11. Bases Biofísicas de Técnicas de Diagnóstico y Tratamiento",
+        "foot": "Los títulos de las 11 unidades son los del programa (líneas 150–1390 del extracto; el scan recorta el margen derecho); lo que sigue al «·» resume el contenido de cada unidad. Cada unidad cierra con un bloque de habilidades clínicas que acá no se dibuja. No hay cronograma fechado; la carga horaria (416 hs) es el único dato de tiempo del programa."
       },
       "exits": []
     },
@@ -63,7 +68,7 @@
       "kind": "problems",
       "eyebrow": "Bibliografía · las referencias (L2)",
       "title": "Los libros que asigna",
-      "note": "Referencias reales del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
+      "note": "Las 11 referencias de la «Bibliografía General» del programa. Cada una es una puerta hacia su contenido — un índice aparte (L3), aún sin adquirir.",
       "exits": [
         {
           "address": "uba.med.medicina.fisiologia.guyton",
@@ -120,12 +125,33 @@
           "role": "Panamericana 2010",
           "tag": "libro",
           "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.fisiologia.rhoades-bell",
+          "name": "Rhoades, Bell — Fisiología Médica: Fundamentos de Medicina Clínica",
+          "role": "4ª ed. · Wolters Kluwer 2012",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.fisiologia.montoreano",
+          "name": "Montoreano — Manual de Fisiología y Biofísica para estudiantes de Medicina",
+          "role": "1995",
+          "tag": "libro",
+          "kind": "book"
+        },
+        {
+          "address": "uba.med.medicina.fisiologia.parisi",
+          "name": "Parisi — Temas de Biofísica",
+          "role": "4ª ed. · McGraw-Hill 2004",
+          "tag": "libro",
+          "kind": "book"
         }
       ]
     }
   ],
   "source": {
-    "label": "fmed.uba.ar · programa Fisiología y Biofísica (PDF)",
+    "label": "fmed.uba.ar · programa oficial Fisiología y Biofísica (PDF, ANEXO EXP-UBA 0076367/2016)",
     "url": "https://www.fmed.uba.ar/sites/default/files/2018-12/06-Fisiologia%20y%20Biofisica_0.pdf"
   }
 }
