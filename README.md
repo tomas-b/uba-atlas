@@ -78,16 +78,25 @@ node on the live site carries its *Verificación adversarial* panel.
 
 ## 🌍 The ground is chaos (that's why agents, not scrapers)
 
-There is no "UBA API". There are:
+There is no "UBA API". These are real sources behind nodes of the graph:
 
-| the source is… | the agent… |
-|---|---|
-| a Drupal PDF with literal `[brackets]` and NFD accents that 404 when normalized | `curl -g`, URL byte for byte |
-| a Google Drive folder the career site's search doesn't index | greps the folder HTML for file ids |
-| a DSpace institutional repository | hits the REST API, verifies against the repo's own MD5 |
-| a stamped 2014 scan with a corrupt text layer | detects it and falls back to OCR |
-| a page that only exists as HTML | snapshots it, method `html` in the manifest |
-| a 76-page resolution holding one table | extracts pages 70-76, cites the rest |
+<table>
+<tr>
+<td width="33%"><img src="docs/sources/01-drupal-pdf.webp" alt="Drupal PDF"><br><sub><b>📄 Drupal PDF</b> — filenames with literal <code>[brackets]</code> and NFD accents that 404 when normalized. <code>curl -g</code>, URL byte for byte.</sub></td>
+<td width="33%"><img src="docs/sources/02-drive-folder.webp" alt="Drive folder"><br><sub><b>📁 Google Drive folder</b> — where current programas live; the career site's search doesn't index it. The agent greps the folder HTML for file ids.</sub></td>
+<td width="33%"><img src="docs/sources/03-dspace.webp" alt="DSpace"><br><sub><b>🏛️ DSpace repository</b> — REST API, bitstreams by UUID, verified against the repo's own published MD5.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/sources/04-fmed-scan.webp" alt="stamped scan"><br><sub><b>🖨️ Stamped 2014 scan</b> — corrupt text layer that "parses" garbage. Detected → OCR fallback (<code>tesseract</code>).</sub></td>
+<td><img src="docs/sources/05-fmed-html.webp" alt="HTML source"><br><sub><b>🌐 HTML-only source</b> — the current guide exists only as a webpage. Snapshotted, method <code>html</code> in the manifest.</sub></td>
+<td><img src="docs/sources/06-derecho-pdf.webp" alt="texto ordenado"><br><sub><b>⚖️ Texto ordenado grid</b> — 1,281 course sections; the adversary wrote a parser to reproduce every count.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/sources/07-sanscrito-scan.webp" alt="degraded 2017"><br><sub><b>🕰️ Degraded 2017 scan</b> — the newest that exists anywhere. Used with its year declared on the node.</sub></td>
+<td><img src="docs/sources/08-resolucion-if.webp" alt="resolution"><br><sub><b>📜 76-page resolution</b> — holding one equivalence table. Pages 70-76 extracted, the rest cited.</sub></td>
+<td><img src="docs/sources/09-plan-1985.webp" alt="official plan"><br><sub><b>🗺️ The official plan</b> — the L1 skeleton: the real courses, before touching any cátedra.</sub></td>
+</tr>
+</table>
 
 Zero per-site connectors were written. Each agent has a terminal (`curl`,
 `pdftotext`, `tesseract`, throwaway parsers) and solves its source on the spot.
